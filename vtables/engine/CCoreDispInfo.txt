@@ -1,0 +1,4 @@
+VTable for CCoreDispInfo:
+    [0] CCoreDispInfo::GetEdgeNeighbor(int)
+    [1] CCoreDispInfo::GetCornerNeighbors(int)
+    [2] CCoreDispInfo::GetDispUtilsByIndex(int)

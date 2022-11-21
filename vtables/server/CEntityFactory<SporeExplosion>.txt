@@ -1,0 +1,3 @@
+VTable for CEntityFactory<SporeExplosion>:
+    [0] CEntityFactory<SporeExplosion>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<SporeExplosion>::GetEntitySize()

@@ -1,0 +1,4 @@
+VTable for CWheelOfDoom::WOD_UberEffect:
+    [0] CWheelOfDoom::WOD_UberEffect::ActivateEffect(CWheelOfDoom::EffectData_t&)
+    [1] CWheelOfDoom::WOD_BaseEffect::UpdateEffect(CWheelOfDoom::EffectData_t&)
+    [2] CWheelOfDoom::WOD_BaseEffect::DeactivateEffect(CWheelOfDoom::EffectData_t&)

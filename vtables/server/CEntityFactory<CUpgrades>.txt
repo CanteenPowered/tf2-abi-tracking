@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CUpgrades>:
+    [0] CEntityFactory<CUpgrades>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CUpgrades>::GetEntitySize()

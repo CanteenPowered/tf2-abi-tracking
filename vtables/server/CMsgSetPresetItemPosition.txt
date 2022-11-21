@@ -1,0 +1,20 @@
+VTable for CMsgSetPresetItemPosition:
+    [0] CMsgSetPresetItemPosition::~CMsgSetPresetItemPosition()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgSetPresetItemPosition::New() const
+    [3] CMsgSetPresetItemPosition::Clear()
+    [4] CMsgSetPresetItemPosition::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgSetPresetItemPosition::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgSetPresetItemPosition::ByteSize() const
+    [9] CMsgSetPresetItemPosition::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgSetPresetItemPosition::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgSetPresetItemPosition::GetCachedSize() const
+    [12] CMsgSetPresetItemPosition::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgSetPresetItemPosition::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgSetPresetItemPosition::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgSetPresetItemPosition::GetMetadata() const

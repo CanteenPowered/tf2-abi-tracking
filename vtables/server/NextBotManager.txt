@@ -1,0 +1,10 @@
+VTable for NextBotManager:
+    [0] NextBotManager::~NextBotManager()
+    [1] NextBotManager::Update()
+    [2] NextBotManager::OnMapLoaded()
+    [3] NextBotManager::OnRoundRestart()
+    [4] NextBotManager::OnBeginChangeLevel()
+    [5] NextBotManager::OnKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)
+    [6] NextBotManager::OnSound(CBaseEntity*, Vector const&, KeyValues*)
+    [7] NextBotManager::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)
+    [8] NextBotManager::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)

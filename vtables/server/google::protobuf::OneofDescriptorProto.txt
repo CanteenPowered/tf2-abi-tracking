@@ -1,0 +1,25 @@
+VTable for google::protobuf::OneofDescriptorProto:
+    [0] CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
+    [1] CryptoPP::BufferedTransformation::Skip(unsigned long long)
+    [2] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
+    [3] CryptoPP::BufferedTransformation::NumberOfMessages() const
+    [4] CryptoPP::BufferedTransformation::AnyMessages() const
+    [5] CryptoPP::BufferedTransformation::GetNextMessage()
+    [6] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
+    [7] CryptoPP::BufferedTransformation::SkipAll()
+    [8] CryptoPP::BufferedTransformation::GetNextMessageSeries()
+    [9] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
+    [10] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
+    [11] CryptoPP::Sink::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
+    [12] CryptoPP::Sink::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
+    [13] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
+    [14] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
+    [15] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
+    [16] CryptoPP::BufferedTransformation::ChannelFlush(std::string const&, bool, int, bool)
+    [17] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
+    [18] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
+    [19] CryptoPP::BufferedTransformation::Attachable()
+    [20] CryptoPP::BufferedTransformation::AttachedTransformation()
+    [21] CryptoPP::BufferedTransformation::AttachedTransformation() const
+    [22] CryptoPP::BufferedTransformation::Detach(CryptoPP::BufferedTransformation*)
+    [23] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)

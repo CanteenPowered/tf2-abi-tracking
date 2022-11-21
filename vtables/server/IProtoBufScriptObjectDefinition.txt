@@ -1,0 +1,2 @@
+VTable for IProtoBufScriptObjectDefinition:
+    [0] IProtoBufScriptObjectDefinition::~IProtoBufScriptObjectDefinition()

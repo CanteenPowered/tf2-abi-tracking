@@ -1,0 +1,8 @@
+VTable for CryptoPP::BufferedTransformation::InvalidChannelName:
+    [0] non-virtual thunk to CryptoPP::BufferedTransformation::GetMaxWaitObjectCount() const
+    [1] non-virtual thunk to CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
+VTable for CryptoPP::BufferedTransformation:
+VTable for CryptoPP::BufferedTransformation::NoChannelSupport:
+VTable for CryptoPP::BufferedTransformation::BlockingInputOnly:
+    [0] CryptoPP::FilterWithBufferedInput::FlushDerived()
+    [1] CryptoPP::FilterWithBufferedInput::NextPut(unsigned char const*, unsigned int)

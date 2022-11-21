@@ -1,0 +1,2 @@
+VTable for CNodeFilter:
+    [0] CNodeFilter::NodeDistanceSqr(CAI_Node&)

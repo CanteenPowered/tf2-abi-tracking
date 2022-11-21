@@ -1,0 +1,2 @@
+VTable for INetworkStringTable:
+    [0] INetworkStringTable::~INetworkStringTable()

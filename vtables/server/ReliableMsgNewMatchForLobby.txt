@@ -1,0 +1,9 @@
+VTable for ReliableMsgNewMatchForLobby:
+    [0] ReliableMsgNewMatchForLobby::~ReliableMsgNewMatchForLobby()
+    [1] CJobReliableMessageBase<ReliableMsgNewMatchForLobby, CMsgGCNewMatchForLobbyRequest, (ETFGCMsg)6537, CMsgGCNewMatchForLobbyResponse, (ETFGCMsg)6538>::BYieldingRunJob(void*)
+    [2] GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)
+    [3] GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()
+    [4] GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)
+    [5] GCSDK::CGCClientJob::BYieldingRunGCJob()
+    [6] GCSDK::CGCClientJob::GetServerType()
+    [7] CJobReliableMessageBase<ReliableMsgNewMatchForLobby, CMsgGCNewMatchForLobbyRequest, (ETFGCMsg)6537, CMsgGCNewMatchForLobbyResponse, (ETFGCMsg)6538>::Finalize()

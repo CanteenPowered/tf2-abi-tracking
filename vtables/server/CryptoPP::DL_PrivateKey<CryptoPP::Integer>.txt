@@ -1,0 +1,7 @@
+VTable for CryptoPP::DL_PrivateKey<CryptoPP::Integer>:
+    [0] CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
+    [1] CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const
+VTable for CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>:
+    [0] CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
+    [1] CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const
+VTable for CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>:

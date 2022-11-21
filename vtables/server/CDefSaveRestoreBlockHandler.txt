@@ -1,0 +1,9 @@
+VTable for CDefSaveRestoreBlockHandler:
+    [0] CDefSaveRestoreBlockHandler::PreSave(CSaveRestoreData*)
+    [1] CDefSaveRestoreBlockHandler::Save(ISave*)
+    [2] CDefSaveRestoreBlockHandler::WriteSaveHeaders(ISave*)
+    [3] CDefSaveRestoreBlockHandler::PostSave()
+    [4] CDefSaveRestoreBlockHandler::PreRestore()
+    [5] CDefSaveRestoreBlockHandler::ReadRestoreHeaders(IRestore*)
+    [6] CDefSaveRestoreBlockHandler::Restore(IRestore*, bool)
+    [7] CDefSaveRestoreBlockHandler::PostRestore()

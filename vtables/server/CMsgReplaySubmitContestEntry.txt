@@ -1,0 +1,40 @@
+VTable for CMsgReplaySubmitContestEntryResponse:
+    [0] CMsgReplaySubmitContestEntryResponse::~CMsgReplaySubmitContestEntryResponse()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgReplaySubmitContestEntryResponse::New() const
+    [3] CMsgReplaySubmitContestEntryResponse::Clear()
+    [4] CMsgReplaySubmitContestEntryResponse::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgReplaySubmitContestEntryResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgReplaySubmitContestEntryResponse::ByteSize() const
+    [9] CMsgReplaySubmitContestEntryResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgReplaySubmitContestEntryResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgReplaySubmitContestEntryResponse::GetCachedSize() const
+    [12] CMsgReplaySubmitContestEntryResponse::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgReplaySubmitContestEntryResponse::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgReplaySubmitContestEntryResponse::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgReplaySubmitContestEntryResponse::GetMetadata() const
+VTable for CMsgReplaySubmitContestEntry:
+    [0] CMsgReplaySubmitContestEntry::~CMsgReplaySubmitContestEntry()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgReplaySubmitContestEntry::New() const
+    [3] CMsgReplaySubmitContestEntry::Clear()
+    [4] CMsgReplaySubmitContestEntry::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgReplaySubmitContestEntry::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgReplaySubmitContestEntry::ByteSize() const
+    [9] CMsgReplaySubmitContestEntry::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgReplaySubmitContestEntry::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgReplaySubmitContestEntry::GetCachedSize() const
+    [12] CMsgReplaySubmitContestEntry::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgReplaySubmitContestEntry::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgReplaySubmitContestEntry::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgReplaySubmitContestEntry::GetMetadata() const

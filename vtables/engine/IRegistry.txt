@@ -1,0 +1,2 @@
+VTable for IRegistry:
+    [0] IRegistry::~IRegistry()

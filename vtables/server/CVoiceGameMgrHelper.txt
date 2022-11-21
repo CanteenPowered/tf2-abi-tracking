@@ -1,0 +1,3 @@
+VTable for CVoiceGameMgrHelper:
+    [0] CVoiceGameMgrHelper::~CVoiceGameMgrHelper()
+    [1] CVoiceGameMgrHelper::CanPlayerHearPlayer(CBasePlayer*, CBasePlayer*, bool&)

@@ -1,0 +1,12 @@
+VTable for CServerEngineTools:
+    [0] CServerEngineTools::~CServerEngineTools()
+    [1] CServerEngineTools::LevelInitPreEntityAllTools()
+    [2] CServerEngineTools::LevelInitPostEntityAllTools()
+    [3] CServerEngineTools::LevelShutdownPreEntityAllTools()
+    [4] CServerEngineTools::LevelShutdownPostEntityAllTools()
+    [5] CServerEngineTools::FrameUpdatePreEntityThinkAllTools()
+    [6] CServerEngineTools::FrameUpdatePostEntityThinkAllTools()
+    [7] CServerEngineTools::PreClientUpdateAllTools()
+    [8] CServerEngineTools::GetEntityData(char const*)
+    [9] CServerEngineTools::PreSetupVisibilityAllTools()
+    [10] CServerEngineTools::InToolMode()

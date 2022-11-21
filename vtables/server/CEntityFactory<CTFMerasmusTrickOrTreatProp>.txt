@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFMerasmusTrickOrTreatProp>:
+    [0] CEntityFactory<CTFMerasmusTrickOrTreatProp>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFMerasmusTrickOrTreatProp>::GetEntitySize()

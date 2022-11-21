@@ -1,0 +1,20 @@
+VTable for CMsgQuestTheme:
+    [0] CMsgQuestTheme::~CMsgQuestTheme()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgQuestTheme::New() const
+    [3] CMsgQuestTheme::Clear()
+    [4] CMsgQuestTheme::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgQuestTheme::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgQuestTheme::ByteSize() const
+    [9] CMsgQuestTheme::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgQuestTheme::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgQuestTheme::GetCachedSize() const
+    [12] CMsgQuestTheme::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgQuestTheme::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgQuestTheme::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgQuestTheme::GetMetadata() const

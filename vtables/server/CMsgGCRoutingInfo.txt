@@ -1,0 +1,20 @@
+VTable for CMsgGCRoutingInfo:
+    [0] CMsgGCRoutingInfo::~CMsgGCRoutingInfo()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCRoutingInfo::New() const
+    [3] CMsgGCRoutingInfo::Clear()
+    [4] CMsgGCRoutingInfo::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCRoutingInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCRoutingInfo::ByteSize() const
+    [9] CMsgGCRoutingInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCRoutingInfo::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCRoutingInfo::GetCachedSize() const
+    [12] CMsgGCRoutingInfo::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCRoutingInfo::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCRoutingInfo::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCRoutingInfo::GetMetadata() const

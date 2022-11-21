@@ -1,0 +1,2 @@
+VTable for CEntityParticleTrail::NetworkVar_m_Info:
+    [0] CEntityParticleTrail::NetworkVar_m_Info::NetworkStateChanged(void*)

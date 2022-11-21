@@ -1,0 +1,2 @@
+VTable for CCopyableUtlVector<unsigned long long>:
+    [0] CCopyableUtlVector<unsigned long long>::~CCopyableUtlVector()

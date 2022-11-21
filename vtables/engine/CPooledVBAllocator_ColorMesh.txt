@@ -1,0 +1,9 @@
+VTable for CPooledVBAllocator_ColorMesh:
+    [0] CPooledVBAllocator_ColorMesh::~CPooledVBAllocator_ColorMesh()
+    [1] CPooledVBAllocator_ColorMesh::Init(unsigned long long, int)
+    [2] CPooledVBAllocator_ColorMesh::Clear()
+    [3] CPooledVBAllocator_ColorMesh::GetSharedMesh()
+    [4] CPooledVBAllocator_ColorMesh::GetVertexBufferBase()
+    [5] CPooledVBAllocator_ColorMesh::GetNumVertsAllocated()
+    [6] CPooledVBAllocator_ColorMesh::Allocate(int)
+    [7] CPooledVBAllocator_ColorMesh::Deallocate(int, int)

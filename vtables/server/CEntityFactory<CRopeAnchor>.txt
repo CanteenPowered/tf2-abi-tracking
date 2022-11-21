@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CRopeAnchor>:
+    [0] CEntityFactory<CRopeAnchor>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CRopeAnchor>::GetEntitySize()

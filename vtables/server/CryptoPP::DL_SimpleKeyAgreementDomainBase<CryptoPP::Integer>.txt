@@ -1,0 +1,1 @@
+VTable for CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>:

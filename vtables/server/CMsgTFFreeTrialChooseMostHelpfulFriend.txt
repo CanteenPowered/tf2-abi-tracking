@@ -1,0 +1,20 @@
+VTable for CMsgTFFreeTrialChooseMostHelpfulFriend:
+    [0] CMsgTFFreeTrialChooseMostHelpfulFriend::~CMsgTFFreeTrialChooseMostHelpfulFriend()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgTFFreeTrialChooseMostHelpfulFriend::New() const
+    [3] CMsgTFFreeTrialChooseMostHelpfulFriend::Clear()
+    [4] CMsgTFFreeTrialChooseMostHelpfulFriend::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgTFFreeTrialChooseMostHelpfulFriend::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgTFFreeTrialChooseMostHelpfulFriend::ByteSize() const
+    [9] CMsgTFFreeTrialChooseMostHelpfulFriend::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgTFFreeTrialChooseMostHelpfulFriend::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgTFFreeTrialChooseMostHelpfulFriend::GetCachedSize() const
+    [12] CMsgTFFreeTrialChooseMostHelpfulFriend::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgTFFreeTrialChooseMostHelpfulFriend::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgTFFreeTrialChooseMostHelpfulFriend::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgTFFreeTrialChooseMostHelpfulFriend::GetMetadata() const

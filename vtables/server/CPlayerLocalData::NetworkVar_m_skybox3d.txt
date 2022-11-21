@@ -1,0 +1,6 @@
+VTable for CPlayerLocalData::NetworkVar_m_PlayerFog:
+    [0] CPlayerLocalData::NetworkVar_m_PlayerFog::NetworkStateChanged(void*)
+VTable for CPlayerLocalData::NetworkVar_m_audio:
+    [0] CPlayerLocalData::NetworkVar_m_audio::NetworkStateChanged(void*)
+VTable for CPlayerLocalData::NetworkVar_m_skybox3d:
+    [0] CPlayerLocalData::NetworkVar_m_skybox3d::NetworkStateChanged(void*)

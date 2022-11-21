@@ -1,0 +1,7 @@
+VTable for CTEKillPlayerAttachments:
+    [0] CTEKillPlayerAttachments::YouForgotToImplementOrDeclareServerClass()
+    [1] CTEKillPlayerAttachments::~CTEKillPlayerAttachments()
+    [2] CTEKillPlayerAttachments::~CTEKillPlayerAttachments()
+    [3] CTEKillPlayerAttachments::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

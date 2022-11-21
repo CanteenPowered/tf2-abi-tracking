@@ -1,0 +1,20 @@
+VTable for CMsgGCError:
+    [0] CMsgGCError::~CMsgGCError()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCError::New() const
+    [3] CMsgGCError::Clear()
+    [4] CMsgGCError::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCError::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCError::ByteSize() const
+    [9] CMsgGCError::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCError::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCError::GetCachedSize() const
+    [12] CMsgGCError::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCError::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCError::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCError::GetMetadata() const

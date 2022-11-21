@@ -1,0 +1,1 @@
+VTable for vehicle_gear_t:

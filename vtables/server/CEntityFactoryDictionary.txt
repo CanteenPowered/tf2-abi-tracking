@@ -1,0 +1,5 @@
+VTable for CEntityFactoryDictionary:
+    [0] CEntityFactoryDictionary::Create(char const*)
+    [1] CEntityFactoryDictionary::Destroy(char const*, IServerNetworkable*)
+    [2] CEntityFactoryDictionary::FindFactory(char const*)
+    [3] CEntityFactoryDictionary::GetCannonicalName(char const*)

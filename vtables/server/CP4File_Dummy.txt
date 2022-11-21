@@ -1,0 +1,9 @@
+VTable for CP4File_Dummy:
+    [0] CP4File_Dummy::~CP4File_Dummy()
+    [1] CP4File_Dummy::Edit()
+    [2] CP4File_Dummy::Add()
+    [3] CP4File::Revert()
+    [4] CP4File::Delete()
+    [5] CP4File_Dummy::IsFileInPerforce()
+    [6] CP4File_Dummy::SetFileType(CUtlString const&)
+    [7] CP4File::GetFileState()

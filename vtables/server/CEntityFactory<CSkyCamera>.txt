@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CSkyCamera>:
+    [0] CEntityFactory<CSkyCamera>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CSkyCamera>::GetEntitySize()

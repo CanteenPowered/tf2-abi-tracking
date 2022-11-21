@@ -1,0 +1,12 @@
+VTable for CEntityFactory<CTFWeaponBaseGrenadeProj>:
+    [0] CEntityFactory<CTFWeaponBaseGrenadeProj>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFWeaponBaseGrenadeProj>::GetEntitySize()
+VTable for CEntityFactory<CTFWeaponBaseMelee>:
+    [0] CEntityFactory<CTFWeaponBaseMelee>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFWeaponBaseMelee>::GetEntitySize()
+VTable for CEntityFactory<CTFWeaponBase>:
+    [0] CEntityFactory<CTFWeaponBase>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFWeaponBase>::GetEntitySize()
+VTable for CEntityFactory<CTFWeaponBaseMerasmusGrenade>:
+    [0] CEntityFactory<CTFWeaponBaseMerasmusGrenade>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFWeaponBaseMerasmusGrenade>::GetEntitySize()

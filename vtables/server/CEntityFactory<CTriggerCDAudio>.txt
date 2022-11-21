@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTriggerCDAudio>:
+    [0] CEntityFactory<CTriggerCDAudio>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTriggerCDAudio>::GetEntitySize()

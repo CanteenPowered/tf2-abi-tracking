@@ -1,0 +1,4 @@
+VTable for CWheelOfDoom::WOD_Pee:
+    [0] CWheelOfDoom::WOD_Pee::ActivateEffect(CWheelOfDoom::EffectData_t&)
+    [1] CWheelOfDoom::WOD_Pee::UpdateEffect(CWheelOfDoom::EffectData_t&)
+    [2] CWheelOfDoom::WOD_BaseEffect::DeactivateEffect(CWheelOfDoom::EffectData_t&)

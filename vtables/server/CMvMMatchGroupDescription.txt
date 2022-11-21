@@ -1,0 +1,7 @@
+VTable for CMvMMatchGroupDescription:
+    [0] CMvMMatchGroupDescription::InitGameRulesSettings() const
+    [1] CMvMMatchGroupDescription::InitGameRulesSettingsPostEntity() const
+    [2] CMvMMatchGroupDescription::PostMatchClearServerSettings() const
+    [3] CMvMMatchGroupDescription::ShouldRequestLateJoin() const
+    [4] CMvMMatchGroupDescription::BMatchIsSafeToLeaveForPlayer(CMatchInfo const*, CMatchInfo::PlayerMatchData_t const*) const
+    [5] CMvMMatchGroupDescription::BPlayWinMusic(int, bool) const

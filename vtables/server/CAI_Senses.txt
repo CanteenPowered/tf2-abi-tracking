@@ -1,0 +1,5 @@
+VTable for CAI_Senses:
+    [0] CAI_Senses::~CAI_Senses()
+    [1] CAI_Component::SetOuter(CAI_BaseNPC*)
+    [2] CAI_Component::TaskFail(int)
+    [3] CAI_Component::TaskComplete(bool)

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTeamRoundTimer>:
+    [0] CEntityFactory<CTeamRoundTimer>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTeamRoundTimer>::GetEntitySize()

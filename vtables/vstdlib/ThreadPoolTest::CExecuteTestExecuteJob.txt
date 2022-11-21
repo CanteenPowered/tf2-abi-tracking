@@ -1,0 +1,18 @@
+VTable for ThreadPoolTest::CExecuteTestJob:
+    [0] CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT>>::Release()
+    [1] ThreadPoolTest::CExecuteTestJob::~CExecuteTestJob()
+    [2] ThreadPoolTest::CExecuteTestJob::~CExecuteTestJob()
+    [3] CJob::Describe()
+    [4] CJob::SetDescription(char const*)
+    [5] ThreadPoolTest::CExecuteTestJob::DoExecute()
+    [6] CJob::DoAbort(bool)
+    [7] CJob::DoCleanup()
+VTable for ThreadPoolTest::CExecuteTestExecuteJob:
+    [0] CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT>>::Release()
+    [1] ThreadPoolTest::CExecuteTestExecuteJob::~CExecuteTestExecuteJob()
+    [2] ThreadPoolTest::CExecuteTestExecuteJob::~CExecuteTestExecuteJob()
+    [3] CJob::Describe()
+    [4] CJob::SetDescription(char const*)
+    [5] ThreadPoolTest::CExecuteTestExecuteJob::DoExecute()
+    [6] CJob::DoAbort(bool)
+    [7] CJob::DoCleanup()

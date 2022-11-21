@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFSpellBook>:
+    [0] CEntityFactory<CTFSpellBook>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFSpellBook>::GetEntitySize()

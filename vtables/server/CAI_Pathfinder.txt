@@ -1,0 +1,11 @@
+VTable for CAI_Pathfinder:
+    [0] CAI_Pathfinder::~CAI_Pathfinder()
+    [1] CAI_Component::SetOuter(CAI_BaseNPC*)
+    [2] CAI_Component::TaskFail(int)
+    [3] CAI_Component::TaskComplete(bool)
+    [4] CAI_Pathfinder::BuildNodeRoute(Vector const&, Vector const&, int, float)
+    [5] CAI_Pathfinder::BuildLocalRoute(Vector const&, Vector const&, CBaseEntity const*, int, int, int, float)
+    [6] CAI_Pathfinder::BuildRadialRoute(Vector const&, Vector const&, Vector const&, float, float, float, bool, float, bool)
+    [7] CAI_Pathfinder::BuildTriangulationRoute(Vector const&, Vector const&, CBaseEntity const*, int, int, float, float, Navigation_t)
+    [8] CAI_Pathfinder::BuildOBBAvoidanceRoute(Vector const&, Vector const&, CBaseEntity const*, CBaseEntity const*, Navigation_t)
+    [9] CAI_Pathfinder::CanUseLocalNavigation()

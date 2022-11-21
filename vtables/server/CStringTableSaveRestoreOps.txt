@@ -1,0 +1,5 @@
+VTable for CStringTableSaveRestoreOps:
+    [0] CStringTableSaveRestoreOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CStringTableSaveRestoreOps::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CStringTableSaveRestoreOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)

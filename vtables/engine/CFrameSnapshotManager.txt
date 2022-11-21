@@ -1,0 +1,3 @@
+VTable for CFrameSnapshotManager:
+    [0] CFrameSnapshotManager::~CFrameSnapshotManager()
+    [1] CFrameSnapshotManager::LevelChanged()

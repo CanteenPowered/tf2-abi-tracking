@@ -1,0 +1,2 @@
+VTable for flame_point_t:
+    [0] flame_point_t::~flame_point_t()

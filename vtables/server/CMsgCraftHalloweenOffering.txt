@@ -1,0 +1,20 @@
+VTable for CMsgCraftHalloweenOffering:
+    [0] CMsgCraftHalloweenOffering::~CMsgCraftHalloweenOffering()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgCraftHalloweenOffering::New() const
+    [3] CMsgCraftHalloweenOffering::Clear()
+    [4] CMsgCraftHalloweenOffering::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgCraftHalloweenOffering::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgCraftHalloweenOffering::ByteSize() const
+    [9] CMsgCraftHalloweenOffering::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgCraftHalloweenOffering::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgCraftHalloweenOffering::GetCachedSize() const
+    [12] CMsgCraftHalloweenOffering::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgCraftHalloweenOffering::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgCraftHalloweenOffering::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgCraftHalloweenOffering::GetMetadata() const

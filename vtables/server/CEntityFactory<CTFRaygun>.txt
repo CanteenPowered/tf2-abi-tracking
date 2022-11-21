@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFRaygun>:
+    [0] CEntityFactory<CTFRaygun>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFRaygun>::GetEntitySize()

@@ -1,0 +1,20 @@
+VTable for CMsgPlayerLeftMatch:
+    [0] CMsgPlayerLeftMatch::~CMsgPlayerLeftMatch()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgPlayerLeftMatch::New() const
+    [3] CMsgPlayerLeftMatch::Clear()
+    [4] CMsgPlayerLeftMatch::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgPlayerLeftMatch::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgPlayerLeftMatch::ByteSize() const
+    [9] CMsgPlayerLeftMatch::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgPlayerLeftMatch::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgPlayerLeftMatch::GetCachedSize() const
+    [12] CMsgPlayerLeftMatch::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgPlayerLeftMatch::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgPlayerLeftMatch::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgPlayerLeftMatch::GetMetadata() const

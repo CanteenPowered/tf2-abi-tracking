@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CAI_RadialLinkController>:
+    [0] CEntityFactory<CAI_RadialLinkController>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CAI_RadialLinkController>::GetEntitySize()

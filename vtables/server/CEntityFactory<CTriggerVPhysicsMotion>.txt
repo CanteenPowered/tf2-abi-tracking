@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTriggerVPhysicsMotion>:
+    [0] CEntityFactory<CTriggerVPhysicsMotion>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTriggerVPhysicsMotion>::GetEntitySize()

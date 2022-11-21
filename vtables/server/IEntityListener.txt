@@ -1,0 +1,3 @@
+VTable for IEntityListener:
+    [0] IEntityListener::OnEntitySpawned(CBaseEntity*)
+    [1] IEntityListener::OnEntityDeleted(CBaseEntity*)

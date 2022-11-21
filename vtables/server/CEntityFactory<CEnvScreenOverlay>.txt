@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CEnvScreenOverlay>:
+    [0] CEntityFactory<CEnvScreenOverlay>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CEnvScreenOverlay>::GetEntitySize()

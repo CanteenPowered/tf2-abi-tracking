@@ -1,0 +1,7 @@
+VTable for CTESmoke:
+    [0] CTESmoke::YouForgotToImplementOrDeclareServerClass()
+    [1] CTESmoke::~CTESmoke()
+    [2] CTESmoke::~CTESmoke()
+    [3] CTESmoke::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

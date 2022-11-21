@@ -1,0 +1,14 @@
+VTable for CGameEvent:
+    [0] CGameEvent::~CGameEvent()
+    [1] CGameEvent::GetName() const
+    [2] CGameEvent::IsReliable() const
+    [3] CGameEvent::IsLocal() const
+    [4] CGameEvent::IsEmpty(char const*)
+    [5] CGameEvent::GetBool(char const*, bool)
+    [6] CGameEvent::GetInt(char const*, int)
+    [7] CGameEvent::GetFloat(char const*, float)
+    [8] CGameEvent::GetString(char const*, char const*)
+    [9] CGameEvent::SetBool(char const*, bool)
+    [10] CGameEvent::SetInt(char const*, int)
+    [11] CGameEvent::SetFloat(char const*, float)
+    [12] CGameEvent::SetString(char const*, char const*)

@@ -1,0 +1,5 @@
+VTable for CUtlVectorDataOps<CAI_InterestTarget, 10>:
+    [0] CUtlVectorDataOps<CAI_InterestTarget, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CAI_InterestTarget, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CAI_InterestTarget, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)

@@ -1,0 +1,2 @@
+VTable for CryptoPP::TrapdoorFunctionBounds:
+    [0] CryptoPP::TrapdoorFunctionBounds::~TrapdoorFunctionBounds()

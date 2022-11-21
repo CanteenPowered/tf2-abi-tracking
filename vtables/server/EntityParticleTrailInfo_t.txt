@@ -1,0 +1,2 @@
+VTable for EntityParticleTrailInfo_t:
+    [0] EntityParticleTrailInfo_t::NetworkStateChanged(void*)

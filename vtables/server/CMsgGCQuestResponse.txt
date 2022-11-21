@@ -1,0 +1,20 @@
+VTable for CMsgGCQuestResponse:
+    [0] CMsgGCQuestResponse::~CMsgGCQuestResponse()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCQuestResponse::New() const
+    [3] CMsgGCQuestResponse::Clear()
+    [4] CMsgGCQuestResponse::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCQuestResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCQuestResponse::ByteSize() const
+    [9] CMsgGCQuestResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCQuestResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCQuestResponse::GetCachedSize() const
+    [12] CMsgGCQuestResponse::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCQuestResponse::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCQuestResponse::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCQuestResponse::GetMetadata() const

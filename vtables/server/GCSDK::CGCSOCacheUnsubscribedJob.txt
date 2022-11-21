@@ -1,0 +1,8 @@
+VTable for GCSDK::CGCSOCacheUnsubscribedJob:
+    [0] GCSDK::CGCSOCacheUnsubscribedJob::~CGCSOCacheUnsubscribedJob()
+    [1] GCSDK::CGCClientJob::BYieldingRunJob(void*)
+    [2] GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)
+    [3] GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()
+    [4] GCSDK::CGCSOCacheUnsubscribedJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)
+    [5] GCSDK::CGCClientJob::BYieldingRunGCJob()
+    [6] GCSDK::CGCClientJob::GetServerType()

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFWearableRazorback>:
+    [0] CEntityFactory<CTFWearableRazorback>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFWearableRazorback>::GetEntitySize()

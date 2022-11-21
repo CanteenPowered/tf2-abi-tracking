@@ -1,0 +1,6 @@
+VTable for CCvarQuery:
+    [0] CBaseAppSystem<ICvarQuery>::Disconnect()
+    [1] CCvarQuery::QueryInterface(char const*)
+    [2] CCvarQuery::Init()
+    [3] CCvarQuery::Shutdown()
+    [4] CCvarQuery::AreConVarsLinkable(ConVar const*, ConVar const*)

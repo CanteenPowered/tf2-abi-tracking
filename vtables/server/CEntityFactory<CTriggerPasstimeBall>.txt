@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTriggerPasstimeBall>:
+    [0] CEntityFactory<CTriggerPasstimeBall>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTriggerPasstimeBall>::GetEntitySize()

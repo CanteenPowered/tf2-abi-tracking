@@ -1,0 +1,3 @@
+VTable for CAttributeList:
+    [0] CAttributeList::NetworkStateChanged(void*)
+    [1] CAttributeList::GetDataDescMap()

@@ -1,0 +1,24 @@
+VTable for CTFQuestEventListener:
+    [0] CTFQuestEventListener::~CTFQuestEventListener()
+    [1] CTFQuestEvaluator::GetBaseName() const
+    [2] CTFQuestEventListener::GetConditionName() const
+    [3] CTFQuestEventListener::GetValueString() const
+    [4] CTFQuestEventListener::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [5] CTFQuestCondition::PrintDebugText() const
+    [6] CTFQuestCondition::GetQuestOwner() const
+    [7] CTFQuestEventListener::IsValidForPlayer(CTFPlayer const*, InvalidReason&) const
+    [8] CTFQuestCondition::IsOperator() const
+    [9] CTFQuestEvaluator::IsEvaluator() const
+    [10] CTFQuestEventListener::AddChildByName(char const*)
+    [11] CTFQuestEventListener::GetChildren(CUtlVector<CTFQuestCondition*, CUtlMemory<CTFQuestCondition*, int>>&)
+    [12] CTFQuestEventListener::RemoveAndDeleteChild(CTFQuestCondition*)
+    [13] CTFQuestEventListener::GetRequiredParamKeys(KeyValues*)
+    [14] CTFQuestEventListener::GetOutputKeyValues(KeyValues*)
+    [15] CTFQuestEvaluator::GetValidTypes(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const
+    [16] CTFQuestEvaluator::GetValidChildren(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const
+    [17] CTFQuestEventListener::GetMaxInputCount() const
+    [18] CTFQuestEventListener::GetEventName() const
+    [19] CTFQuestEventListener::SetEventName(char const*)
+    [20] CTFQuestEventListener::EvaluateCondition(CTFQuestEvaluator*, int)
+    [21] CTFQuestEventListener::ResetCondition()
+    [22] CTFQuestEventListener::FireGameEvent(IGameEvent*)

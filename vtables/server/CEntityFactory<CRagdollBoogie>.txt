@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CRagdollBoogie>:
+    [0] CEntityFactory<CRagdollBoogie>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CRagdollBoogie>::GetEntitySize()

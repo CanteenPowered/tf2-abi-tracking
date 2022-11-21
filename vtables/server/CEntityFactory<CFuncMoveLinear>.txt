@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CFuncMoveLinear>:
+    [0] CEntityFactory<CFuncMoveLinear>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CFuncMoveLinear>::GetEntitySize()

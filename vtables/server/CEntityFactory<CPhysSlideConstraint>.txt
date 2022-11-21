@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPhysSlideConstraint>:
+    [0] CEntityFactory<CPhysSlideConstraint>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPhysSlideConstraint>::GetEntitySize()

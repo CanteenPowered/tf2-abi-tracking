@@ -1,0 +1,6 @@
+VTable for CEntityFactory<CColorCorrection>:
+    [0] CEntityFactory<CColorCorrection>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CColorCorrection>::GetEntitySize()
+VTable for CEntityFactory<CColorCorrectionVolume>:
+    [0] CEntityFactory<CColorCorrectionVolume>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CColorCorrectionVolume>::GetEntitySize()

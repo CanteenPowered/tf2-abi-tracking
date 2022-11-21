@@ -1,0 +1,2 @@
+VTable for ISoldierStatueAutoList:
+    [0] ISoldierStatueAutoList::~ISoldierStatueAutoList()

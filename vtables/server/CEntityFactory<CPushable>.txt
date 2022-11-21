@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPushable>:
+    [0] CEntityFactory<CPushable>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPushable>::GetEntitySize()

@@ -1,0 +1,17 @@
+VTable for GCSDK::CStructNetPacket:
+    [0] GCSDK::CStructNetPacket::~CStructNetPacket()
+    [1] GCSDK::CRefCount::DestroyThis()
+    [2] GCSDK::CStructNetPacket::GetEMsgFormatType() const
+    [3] GCSDK::CStructNetPacket::GetCNetPacket() const
+    [4] GCSDK::CStructNetPacket::PubData() const
+    [5] GCSDK::CStructNetPacket::CubData() const
+    [6] GCSDK::CStructNetPacket::GetEMsg() const
+    [7] GCSDK::CStructNetPacket::GetSourceJobID() const
+    [8] GCSDK::CStructNetPacket::GetTargetJobID() const
+    [9] GCSDK::CStructNetPacket::SetTargetJobID(unsigned long long)
+    [10] GCSDK::CStructNetPacket::GetSteamID() const
+    [11] GCSDK::CStructNetPacket::SetSteamID(CSteamID)
+    [12] GCSDK::CStructNetPacket::GetSourceAppID() const
+    [13] GCSDK::CStructNetPacket::SetSourceAppID(unsigned int)
+    [14] GCSDK::CStructNetPacket::BHasTargetJobName() const
+    [15] GCSDK::CStructNetPacket::GetTargetJobName() const

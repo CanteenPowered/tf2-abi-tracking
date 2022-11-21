@@ -1,0 +1,40 @@
+VTable for CMsgGCToGCGetUserSessionServerResponse:
+    [0] CMsgGCToGCGetUserSessionServerResponse::~CMsgGCToGCGetUserSessionServerResponse()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCToGCGetUserSessionServerResponse::New() const
+    [3] CMsgGCToGCGetUserSessionServerResponse::Clear()
+    [4] CMsgGCToGCGetUserSessionServerResponse::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCToGCGetUserSessionServerResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCToGCGetUserSessionServerResponse::ByteSize() const
+    [9] CMsgGCToGCGetUserSessionServerResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCToGCGetUserSessionServerResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCToGCGetUserSessionServerResponse::GetCachedSize() const
+    [12] CMsgGCToGCGetUserSessionServerResponse::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCToGCGetUserSessionServerResponse::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCToGCGetUserSessionServerResponse::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCToGCGetUserSessionServerResponse::GetMetadata() const
+VTable for CMsgGCToGCGetUserSessionServer:
+    [0] CMsgGCToGCGetUserSessionServer::~CMsgGCToGCGetUserSessionServer()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCToGCGetUserSessionServer::New() const
+    [3] CMsgGCToGCGetUserSessionServer::Clear()
+    [4] CMsgGCToGCGetUserSessionServer::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCToGCGetUserSessionServer::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCToGCGetUserSessionServer::ByteSize() const
+    [9] CMsgGCToGCGetUserSessionServer::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCToGCGetUserSessionServer::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCToGCGetUserSessionServer::GetCachedSize() const
+    [12] CMsgGCToGCGetUserSessionServer::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCToGCGetUserSessionServer::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCToGCGetUserSessionServer::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCToGCGetUserSessionServer::GetMetadata() const

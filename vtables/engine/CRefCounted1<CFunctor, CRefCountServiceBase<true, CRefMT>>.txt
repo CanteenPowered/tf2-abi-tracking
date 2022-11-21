@@ -1,0 +1,4 @@
+VTable for CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>:
+    [0] CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>::Release()
+    [1] CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>::~CRefCounted1()
+    [2] CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>::~CRefCounted1()

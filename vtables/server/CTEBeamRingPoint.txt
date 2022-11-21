@@ -1,0 +1,7 @@
+VTable for CTEBeamRingPoint:
+    [0] CTEBeamRingPoint::YouForgotToImplementOrDeclareServerClass()
+    [1] CTEBeamRingPoint::~CTEBeamRingPoint()
+    [2] CTEBeamRingPoint::~CTEBeamRingPoint()
+    [3] CTEBeamRingPoint::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

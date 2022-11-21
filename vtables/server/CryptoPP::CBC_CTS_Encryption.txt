@@ -1,0 +1,5 @@
+VTable for CryptoPP::CBC_CTS_Encryption:
+    [0] non-virtual thunk to CryptoPP::ByteQueue::Walker::~Walker()
+    [1] non-virtual thunk to CryptoPP::ByteQueue::Walker::~Walker()
+    [2] non-virtual thunk to CryptoPP::BufferedTransformation::GetMaxWaitObjectCount() const
+    [3] non-virtual thunk to CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CEnvPlayerSurfaceTrigger>:
+    [0] CEntityFactory<CEnvPlayerSurfaceTrigger>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CEnvPlayerSurfaceTrigger>::GetEntitySize()

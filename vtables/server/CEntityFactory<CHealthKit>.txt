@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CHealthKit>:
+    [0] CEntityFactory<CHealthKit>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CHealthKit>::GetEntitySize()

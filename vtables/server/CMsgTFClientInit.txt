@@ -1,0 +1,20 @@
+VTable for CMsgTFClientInit:
+    [0] CMsgTFClientInit::~CMsgTFClientInit()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgTFClientInit::New() const
+    [3] CMsgTFClientInit::Clear()
+    [4] CMsgTFClientInit::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgTFClientInit::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgTFClientInit::ByteSize() const
+    [9] CMsgTFClientInit::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgTFClientInit::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgTFClientInit::GetCachedSize() const
+    [12] CMsgTFClientInit::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgTFClientInit::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgTFClientInit::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgTFClientInit::GetMetadata() const

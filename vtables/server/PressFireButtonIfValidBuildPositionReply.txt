@@ -1,0 +1,2 @@
+VTable for PressFireButtonIfValidBuildPositionReply:
+    [0] INextBotReply::OnFail(INextBot*, INextBotReply::FailureReason)

@@ -1,0 +1,7 @@
+VTable for CryptoPP::Unflushable<CryptoPP::Multichannel<CryptoPP::Filter>>:
+VTable for CryptoPP::Unflushable<CryptoPP::Filter>:
+    [0] CryptoPP::Unflushable<CryptoPP::Filter>::~Unflushable()
+    [1] CryptoPP::Clonable::Clone() const
+    [2] CryptoPP::Algorithm::AlgorithmName() const
+    [3] CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    [4] CryptoPP::BufferedTransformation::CanModifyInput() const

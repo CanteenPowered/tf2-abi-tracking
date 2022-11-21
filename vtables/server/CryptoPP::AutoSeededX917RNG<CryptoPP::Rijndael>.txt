@@ -1,0 +1,2 @@
+VTable for CryptoPP::AutoSeededX917RNG<CryptoPP::Rijndael>:
+    [0] CryptoPP::PK_Verifier::RecoverMessage(unsigned char*, unsigned char const*, unsigned int, unsigned char const*, unsigned int) const

@@ -1,0 +1,4 @@
+VTable for CEconStyleInfo:
+    [0] CEconStyleInfo::~CEconStyleInfo()
+    [1] CEconStyleInfo::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [2] CEconStyleInfo::GeneratePrecacheModelStringsForStyle(CUtlVector<char const*, CUtlMemory<char const*, int>>*) const

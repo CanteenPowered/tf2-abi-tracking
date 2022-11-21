@@ -1,0 +1,5 @@
+VTable for CCallbackImpl<16>:
+    [0] CCallbackImpl<16>::Run(void*, bool, unsigned long long)
+    [1] CCallbackImpl<16>::GetCallbackSizeBytes()
+    [2] CCallbackImpl<16>::~CCallbackImpl()
+    [3] CCallbackImpl<16>::~CCallbackImpl()

@@ -1,0 +1,20 @@
+VTable for CMsgQuestMapNodeCondition_Logic:
+    [0] CMsgQuestMapNodeCondition_Logic::~CMsgQuestMapNodeCondition_Logic()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgQuestMapNodeCondition_Logic::New() const
+    [3] CMsgQuestMapNodeCondition_Logic::Clear()
+    [4] CMsgQuestMapNodeCondition_Logic::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgQuestMapNodeCondition_Logic::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgQuestMapNodeCondition_Logic::ByteSize() const
+    [9] CMsgQuestMapNodeCondition_Logic::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgQuestMapNodeCondition_Logic::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgQuestMapNodeCondition_Logic::GetCachedSize() const
+    [12] CMsgQuestMapNodeCondition_Logic::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgQuestMapNodeCondition_Logic::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgQuestMapNodeCondition_Logic::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgQuestMapNodeCondition_Logic::GetMetadata() const

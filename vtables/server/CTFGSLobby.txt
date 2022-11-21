@@ -1,0 +1,18 @@
+VTable for CTFGSLobby:
+    [0] CTFGSLobby::~CTFGSLobby()
+    [1] CTFLobbyShared::GetGroupID() const
+    [2] CTFLobbyShared::GetNumMembers() const
+    [3] CTFLobbyShared::GetMember(int) const
+    [4] CTFLobbyShared::GetMemberIndexBySteamID(CSteamID const&) const
+    [5] CTFGSLobby::GetSharedObjectForMember(CSteamID const&)
+    [6] CTFGSLobby::Dump() const
+    [7] CTFLobbyShared::GetLeader() const
+    [8] CTFLobbyShared::GetNumPendingPlayers() const
+    [9] CTFLobbyShared::GetPendingPlayer(int) const
+    [10] CTFLobbyShared::GetPendingPlayerInviter(int) const
+    [11] CTFLobbyShared::GetPendingPlayerType(int) const
+    [12] CTFLobbyShared::GetPendingPlayerIndexBySteamID(CSteamID const&) const
+    [13] CTFLobbyShared::GetMemberDetails(int) const
+    [14] CTFLobbyShared::SpewDebugSummary() const
+    [15] CTFGSLobby::GSObj() const
+    [16] CTFGSLobby::GSObj()

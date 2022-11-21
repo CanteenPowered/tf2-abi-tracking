@@ -1,0 +1,20 @@
+VTable for CMsgGCGetEmailTemplateResponse:
+    [0] CMsgGCGetEmailTemplateResponse::~CMsgGCGetEmailTemplateResponse()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCGetEmailTemplateResponse::New() const
+    [3] CMsgGCGetEmailTemplateResponse::Clear()
+    [4] CMsgGCGetEmailTemplateResponse::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCGetEmailTemplateResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCGetEmailTemplateResponse::ByteSize() const
+    [9] CMsgGCGetEmailTemplateResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCGetEmailTemplateResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCGetEmailTemplateResponse::GetCachedSize() const
+    [12] CMsgGCGetEmailTemplateResponse::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCGetEmailTemplateResponse::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCGetEmailTemplateResponse::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCGetEmailTemplateResponse::GetMetadata() const

@@ -1,0 +1,10 @@
+VTable for google::protobuf::io::CopyingInputStreamAdaptor:
+    [0] google::protobuf::io::CopyingInputStream::Skip(int)
+VTable for google::protobuf::io::CopyingOutputStreamAdaptor:
+    [0] google::protobuf::io::OstreamOutputStream::CopyingOstreamOutputStream::~CopyingOstreamOutputStream()
+    [1] google::protobuf::io::OstreamOutputStream::CopyingOstreamOutputStream::Write(void const*, int)
+VTable for google::protobuf::io::CopyingOutputStream:
+    [0] google::protobuf::io::ZeroCopyOutputStream::WriteAliasedRaw(void const*, int)
+    [1] google::protobuf::io::ZeroCopyOutputStream::AllowsAliasing() const
+VTable for google::protobuf::io::CopyingInputStream:
+    [0] google::protobuf::io::IstreamInputStream::ByteCount() const

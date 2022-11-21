@@ -1,0 +1,3 @@
+VTable for GCSDK::CRefCount:
+    [0] GCSDK::CRefCount::~CRefCount()
+    [1] GCSDK::CRefCount::DestroyThis()

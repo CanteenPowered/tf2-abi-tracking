@@ -1,0 +1,20 @@
+VTable for CMsgQuestProgressReport:
+    [0] CMsgQuestProgressReport::~CMsgQuestProgressReport()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgQuestProgressReport::New() const
+    [3] CMsgQuestProgressReport::Clear()
+    [4] CMsgQuestProgressReport::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgQuestProgressReport::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgQuestProgressReport::ByteSize() const
+    [9] CMsgQuestProgressReport::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgQuestProgressReport::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgQuestProgressReport::GetCachedSize() const
+    [12] CMsgQuestProgressReport::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgQuestProgressReport::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgQuestProgressReport::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgQuestProgressReport::GetMetadata() const

@@ -1,0 +1,20 @@
+VTable for CMsgQuestMapNodeDef:
+    [0] CMsgQuestMapNodeDef::~CMsgQuestMapNodeDef()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgQuestMapNodeDef::New() const
+    [3] CMsgQuestMapNodeDef::Clear()
+    [4] CMsgQuestMapNodeDef::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgQuestMapNodeDef::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgQuestMapNodeDef::ByteSize() const
+    [9] CMsgQuestMapNodeDef::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgQuestMapNodeDef::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgQuestMapNodeDef::GetCachedSize() const
+    [12] CMsgQuestMapNodeDef::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgQuestMapNodeDef::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgQuestMapNodeDef::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgQuestMapNodeDef::GetMetadata() const

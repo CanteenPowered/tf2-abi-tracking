@@ -1,0 +1,5 @@
+VTable for CEngineBSPTree:
+    [0] CEngineBSPTree::EnumerateLeavesAtPoint(Vector const&, ISpatialLeafEnumerator*, int)
+    [1] CEngineBSPTree::EnumerateLeavesInBox(Vector const&, Vector const&, ISpatialLeafEnumerator*, int)
+    [2] CEngineBSPTree::EnumerateLeavesInSphere(Vector const&, float, ISpatialLeafEnumerator*, int)
+    [3] CEngineBSPTree::EnumerateLeavesAlongRay(Ray_t const&, ISpatialLeafEnumerator*, int)

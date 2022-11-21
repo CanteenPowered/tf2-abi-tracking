@@ -1,0 +1,9 @@
+VTable for GCSDK::CProtoBufMsg<CMsgTFCoaching_CoachJoining>:
+    [0] GCSDK::CProtoBufMsg<CMsgTFCoaching_CoachJoining>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgTFCoaching_CoachJoining>::GetGenericBody() const
+VTable for GCSDK::CProtoBufMsg<CMsgTFCoaching_RemoveCurrentCoach>:
+    [0] GCSDK::CProtoBufMsg<CMsgTFCoaching_RemoveCurrentCoach>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgTFCoaching_RemoveCurrentCoach>::GetGenericBody() const
+VTable for GCSDK::CProtoBufMsg<CMsgTFCoaching_CoachJoined>:
+    [0] GCSDK::CProtoBufMsg<CMsgTFCoaching_CoachJoined>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgTFCoaching_CoachJoined>::GetGenericBody() const

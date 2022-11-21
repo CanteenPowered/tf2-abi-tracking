@@ -1,0 +1,3 @@
+VTable for CryptoPP::InvalidArgument:
+    [0] CryptoPP::InvalidArgument::~InvalidArgument()
+    [1] CryptoPP::Exception::what() const

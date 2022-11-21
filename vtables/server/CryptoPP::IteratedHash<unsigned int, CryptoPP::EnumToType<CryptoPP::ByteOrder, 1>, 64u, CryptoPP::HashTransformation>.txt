@@ -1,0 +1,8 @@
+VTable for CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>:
+    [0] CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>::~IteratedHash()
+    [1] CryptoPP::Clonable::Clone() const
+    [2] CryptoPP::Algorithm::AlgorithmName() const
+    [3] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::Update(unsigned char const*, unsigned int)
+    [4] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::CreateUpdateSpace(unsigned int&)
+    [5] CryptoPP::HashTransformation::Final(unsigned char*)
+    [6] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::Restart()

@@ -1,0 +1,2 @@
+VTable for CTraceFilterAgainstEntityList:
+    [0] CTraceFilterAgainstEntityList::GetTraceType() const

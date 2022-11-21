@@ -1,0 +1,20 @@
+VTable for CMsgGCRemoveCustomizationAttributeSimple:
+    [0] CMsgGCRemoveCustomizationAttributeSimple::~CMsgGCRemoveCustomizationAttributeSimple()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCRemoveCustomizationAttributeSimple::New() const
+    [3] CMsgGCRemoveCustomizationAttributeSimple::Clear()
+    [4] CMsgGCRemoveCustomizationAttributeSimple::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCRemoveCustomizationAttributeSimple::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCRemoveCustomizationAttributeSimple::ByteSize() const
+    [9] CMsgGCRemoveCustomizationAttributeSimple::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCRemoveCustomizationAttributeSimple::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCRemoveCustomizationAttributeSimple::GetCachedSize() const
+    [12] CMsgGCRemoveCustomizationAttributeSimple::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCRemoveCustomizationAttributeSimple::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCRemoveCustomizationAttributeSimple::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCRemoveCustomizationAttributeSimple::GetMetadata() const

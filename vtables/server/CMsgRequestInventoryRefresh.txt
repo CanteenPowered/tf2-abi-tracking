@@ -1,0 +1,20 @@
+VTable for CMsgRequestInventoryRefresh:
+    [0] CMsgRequestInventoryRefresh::~CMsgRequestInventoryRefresh()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgRequestInventoryRefresh::New() const
+    [3] CMsgRequestInventoryRefresh::Clear()
+    [4] CMsgRequestInventoryRefresh::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgRequestInventoryRefresh::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgRequestInventoryRefresh::ByteSize() const
+    [9] CMsgRequestInventoryRefresh::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgRequestInventoryRefresh::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgRequestInventoryRefresh::GetCachedSize() const
+    [12] CMsgRequestInventoryRefresh::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgRequestInventoryRefresh::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgRequestInventoryRefresh::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgRequestInventoryRefresh::GetMetadata() const

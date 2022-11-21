@@ -1,0 +1,2 @@
+VTable for IServer:
+    [0] IServer::~IServer()

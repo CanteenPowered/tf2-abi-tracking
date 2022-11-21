@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CFlextalkActor>:
+    [0] CEntityFactory<CFlextalkActor>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CFlextalkActor>::GetEntitySize()

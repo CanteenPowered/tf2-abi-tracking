@@ -1,0 +1,3 @@
+VTable for COrHoliday:
+    [0] COrHoliday::~COrHoliday()
+    [1] COrHoliday::IsActive(CRTime const&)

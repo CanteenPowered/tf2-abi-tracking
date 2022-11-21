@@ -1,0 +1,3 @@
+VTable for CryptoPP::RSAFunction:
+    [0] CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::~ASN1CryptoMaterial()
+    [1] CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::~ASN1CryptoMaterial()

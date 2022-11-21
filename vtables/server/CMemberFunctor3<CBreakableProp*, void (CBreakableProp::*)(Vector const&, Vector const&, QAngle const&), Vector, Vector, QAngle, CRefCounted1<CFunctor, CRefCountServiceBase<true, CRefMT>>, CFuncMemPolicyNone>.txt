@@ -1,0 +1,5 @@
+VTable for CMemberFunctor3<CBreakableProp*, void (CBreakableProp::*)(Vector const&, Vector const&, QAngle const&), Vector, Vector, QAngle, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>:
+    [0] CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>::Release()
+    [1] CMemberFunctor3<CBreakableProp*, void (CBreakableProp::*)(Vector const&, Vector const&, QAngle const&), Vector, Vector, QAngle, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::~CMemberFunctor3()
+    [2] CMemberFunctor3<CBreakableProp*, void (CBreakableProp::*)(Vector const&, Vector const&, QAngle const&), Vector, Vector, QAngle, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::~CMemberFunctor3()
+    [3] CMemberFunctor3<CBreakableProp*, void (CBreakableProp::*)(Vector const&, Vector const&, QAngle const&), Vector, Vector, QAngle, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::operator()()

@@ -1,0 +1,16 @@
+VTable for CryptoPP::Inflator::Err:
+    [0] non-virtual thunk to CryptoPP::ECB_OneWay::~ECB_OneWay()
+    [1] non-virtual thunk to CryptoPP::ECB_OneWay::~ECB_OneWay()
+    [2] CryptoPP::Clonable::Clone() const
+    [3] CryptoPP::Algorithm::AlgorithmName() const
+    [4] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::MandatoryBlockSize() const
+    [5] non-virtual thunk to CryptoPP::ECB_OneWay::OptimalBlockSize() const
+    [6] CryptoPP::StreamTransformation::GetOptimalBlockSizeUsed() const
+    [7] non-virtual thunk to CryptoPP::CipherModeBase::OptimalDataAlignment() const
+    [8] non-virtual thunk to CryptoPP::ECB_OneWay::ProcessData(unsigned char*, unsigned char const*, unsigned int)
+    [9] CryptoPP::StreamTransformation::ProcessLastBlock(unsigned char*, unsigned char const*, unsigned int)
+    [10] CryptoPP::StreamTransformation::MinLastBlockSize() const
+    [11] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::IsRandomAccess() const
+    [12] CryptoPP::StreamTransformation::Seek(unsigned long long)
+    [13] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::IsSelfInverting() const
+    [14] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::IsForwardTransformation() const

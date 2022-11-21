@@ -1,0 +1,2 @@
+VTable for CEntFireAutoCompletionFunctor:
+    [0] CEntFireAutoCompletionFunctor::CommandCompletionCallback(char const*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>&)

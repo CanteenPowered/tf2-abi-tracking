@@ -1,0 +1,2 @@
+VTable for CBotCmd:
+    [0] CBotCmd::~CBotCmd()

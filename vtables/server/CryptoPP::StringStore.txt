@@ -1,0 +1,3 @@
+VTable for CryptoPP::StringStore:
+    [0] CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::~ASN1CryptoMaterial()
+    [1] CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::~ASN1CryptoMaterial()

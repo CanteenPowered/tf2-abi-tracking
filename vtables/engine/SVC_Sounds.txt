@@ -1,0 +1,16 @@
+VTable for SVC_Sounds:
+    [0] SVC_Sounds::~SVC_Sounds()
+    [1] CNetMessage::SetNetChannel(INetChannel*)
+    [2] CNetMessage::SetReliable(bool)
+    [3] SVC_Sounds::Process()
+    [4] SVC_Sounds::ReadFromBuffer(bf_read&)
+    [5] SVC_Sounds::WriteToBuffer(bf_write&)
+    [6] CNetMessage::IsReliable() const
+    [7] SVC_Sounds::GetType() const
+    [8] SVC_Sounds::GetGroup() const
+    [9] SVC_Sounds::GetName() const
+    [10] CNetMessage::GetNetChannel() const
+    [11] SVC_Sounds::ToString() const
+    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
+    [13] SVC_Sounds::GetSize() const
+    [14] CNetMessage::SetRatePolicy()

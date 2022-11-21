@@ -1,0 +1,4 @@
+VTable for CryptoPP::AsymmetricAlgorithm:
+    [0] CryptoPP::AsymmetricAlgorithm::~AsymmetricAlgorithm()
+    [1] CryptoPP::Clonable::Clone() const
+    [2] CryptoPP::Algorithm::AlgorithmName() const

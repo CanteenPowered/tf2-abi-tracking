@@ -1,0 +1,2 @@
+VTable for CryptoPP::NameValuePairs:
+    [0] CryptoPP::NameValuePairs::~NameValuePairs()

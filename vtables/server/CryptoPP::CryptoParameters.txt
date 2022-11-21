@@ -1,0 +1,7 @@
+VTable for CryptoPP::CryptoParameters:
+    [0] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>::ProcessData(unsigned char*, unsigned char const*, unsigned int)
+    [1] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>::OptimalBlockSize() const
+    [2] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>::IsSelfInverting() const
+    [3] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>::IsForwardTransformation() const
+    [4] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>::IsRandomAccess() const
+    [5] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>::Seek(unsigned long long)

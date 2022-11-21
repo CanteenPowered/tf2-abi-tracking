@@ -1,0 +1,3 @@
+VTable for CTFItemSystem:
+    [0] CTFItemSystem::~CTFItemSystem()
+    [1] CTFItemSystem::GenerateBaseItem(baseitemcriteria_t*)

@@ -1,0 +1,14 @@
+VTable for CryptoPP::CFB_EncryptionTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::CFB_CipherAbstractPolicy, CryptoPP::CFB_ModePolicy>>:
+    [0] CryptoPP::UnknownOID::~UnknownOID()
+    [1] CryptoPP::Exception::what() const
+VTable for CryptoPP::CFB_EncryptionTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::CFB_CipherAbstractPolicy, CryptoPP::SymmetricCipher>>:
+    [0] non-virtual thunk to CryptoPP::ECB_OneWay::OptimalBlockSize() const
+    [1] CryptoPP::StreamTransformation::GetOptimalBlockSizeUsed() const
+    [2] non-virtual thunk to CryptoPP::CipherModeBase::OptimalDataAlignment() const
+    [3] non-virtual thunk to CryptoPP::ECB_OneWay::ProcessData(unsigned char*, unsigned char const*, unsigned int)
+    [4] CryptoPP::StreamTransformation::ProcessLastBlock(unsigned char*, unsigned char const*, unsigned int)
+    [5] CryptoPP::StreamTransformation::MinLastBlockSize() const
+    [6] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::IsRandomAccess() const
+    [7] CryptoPP::StreamTransformation::Seek(unsigned long long)
+    [8] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::IsSelfInverting() const
+    [9] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::IsForwardTransformation() const

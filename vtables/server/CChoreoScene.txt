@@ -1,0 +1,5 @@
+VTable for CChoreoScene:
+    [0] CChoreoScene::~CChoreoScene()
+    [1] CChoreoScene::GetDuration()
+    [2] CChoreoScene::CurveHasEndTime()
+    [3] CChoreoScene::GetDefaultCurveType()

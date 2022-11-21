@@ -1,0 +1,40 @@
+VTable for CMsgEconPlayerStrangeCountAdjustment:
+    [0] CMsgEconPlayerStrangeCountAdjustment::~CMsgEconPlayerStrangeCountAdjustment()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgEconPlayerStrangeCountAdjustment::New() const
+    [3] CMsgEconPlayerStrangeCountAdjustment::Clear()
+    [4] CMsgEconPlayerStrangeCountAdjustment::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgEconPlayerStrangeCountAdjustment::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgEconPlayerStrangeCountAdjustment::ByteSize() const
+    [9] CMsgEconPlayerStrangeCountAdjustment::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgEconPlayerStrangeCountAdjustment::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgEconPlayerStrangeCountAdjustment::GetCachedSize() const
+    [12] CMsgEconPlayerStrangeCountAdjustment::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgEconPlayerStrangeCountAdjustment::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgEconPlayerStrangeCountAdjustment::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgEconPlayerStrangeCountAdjustment::GetMetadata() const
+VTable for CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment:
+    [0] CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::~CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::New() const
+    [3] CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::Clear()
+    [4] CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::ByteSize() const
+    [9] CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::GetCachedSize() const
+    [12] CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::GetMetadata() const

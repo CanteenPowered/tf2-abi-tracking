@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPhysicsPropMultiplayer>:
+    [0] CEntityFactory<CPhysicsPropMultiplayer>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPhysicsPropMultiplayer>::GetEntitySize()

@@ -1,0 +1,20 @@
+VTable for CMsgGCClientPing:
+    [0] CMsgGCClientPing::~CMsgGCClientPing()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCClientPing::New() const
+    [3] CMsgGCClientPing::Clear()
+    [4] CMsgGCClientPing::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCClientPing::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCClientPing::ByteSize() const
+    [9] CMsgGCClientPing::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCClientPing::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCClientPing::GetCachedSize() const
+    [12] CMsgGCClientPing::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCClientPing::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCClientPing::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCClientPing::GetMetadata() const

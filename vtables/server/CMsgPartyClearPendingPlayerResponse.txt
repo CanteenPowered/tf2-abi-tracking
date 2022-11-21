@@ -1,0 +1,20 @@
+VTable for CMsgPartyClearPendingPlayerResponse:
+    [0] CMsgPartyClearPendingPlayerResponse::~CMsgPartyClearPendingPlayerResponse()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgPartyClearPendingPlayerResponse::New() const
+    [3] CMsgPartyClearPendingPlayerResponse::Clear()
+    [4] CMsgPartyClearPendingPlayerResponse::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgPartyClearPendingPlayerResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgPartyClearPendingPlayerResponse::ByteSize() const
+    [9] CMsgPartyClearPendingPlayerResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgPartyClearPendingPlayerResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgPartyClearPendingPlayerResponse::GetCachedSize() const
+    [12] CMsgPartyClearPendingPlayerResponse::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgPartyClearPendingPlayerResponse::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgPartyClearPendingPlayerResponse::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgPartyClearPendingPlayerResponse::GetMetadata() const

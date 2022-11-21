@@ -1,0 +1,6 @@
+VTable for CEntityFactory<CTFParachute_Primary>:
+    [0] CEntityFactory<CTFParachute_Primary>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFParachute_Primary>::GetEntitySize()
+VTable for CEntityFactory<CTFParachute_Secondary>:
+    [0] CEntityFactory<CTFParachute_Secondary>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFParachute_Secondary>::GetEntitySize()

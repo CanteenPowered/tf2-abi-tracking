@@ -1,0 +1,20 @@
+VTable for CMsgAMAddFreeLicense:
+    [0] CMsgAMAddFreeLicense::~CMsgAMAddFreeLicense()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgAMAddFreeLicense::New() const
+    [3] CMsgAMAddFreeLicense::Clear()
+    [4] CMsgAMAddFreeLicense::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgAMAddFreeLicense::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgAMAddFreeLicense::ByteSize() const
+    [9] CMsgAMAddFreeLicense::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgAMAddFreeLicense::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgAMAddFreeLicense::GetCachedSize() const
+    [12] CMsgAMAddFreeLicense::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgAMAddFreeLicense::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgAMAddFreeLicense::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgAMAddFreeLicense::GetMetadata() const

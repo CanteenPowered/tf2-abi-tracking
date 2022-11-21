@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CSprayCan>:
+    [0] CEntityFactory<CSprayCan>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CSprayCan>::GetEntitySize()

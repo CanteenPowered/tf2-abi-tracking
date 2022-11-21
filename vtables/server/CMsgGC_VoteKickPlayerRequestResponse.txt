@@ -1,0 +1,20 @@
+VTable for CMsgGC_VoteKickPlayerRequestResponse:
+    [0] CMsgGC_VoteKickPlayerRequestResponse::~CMsgGC_VoteKickPlayerRequestResponse()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGC_VoteKickPlayerRequestResponse::New() const
+    [3] CMsgGC_VoteKickPlayerRequestResponse::Clear()
+    [4] CMsgGC_VoteKickPlayerRequestResponse::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGC_VoteKickPlayerRequestResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGC_VoteKickPlayerRequestResponse::ByteSize() const
+    [9] CMsgGC_VoteKickPlayerRequestResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGC_VoteKickPlayerRequestResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGC_VoteKickPlayerRequestResponse::GetCachedSize() const
+    [12] CMsgGC_VoteKickPlayerRequestResponse::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGC_VoteKickPlayerRequestResponse::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGC_VoteKickPlayerRequestResponse::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGC_VoteKickPlayerRequestResponse::GetMetadata() const

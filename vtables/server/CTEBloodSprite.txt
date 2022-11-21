@@ -1,0 +1,7 @@
+VTable for CTEBloodSprite:
+    [0] CTEBloodSprite::YouForgotToImplementOrDeclareServerClass()
+    [1] CTEBloodSprite::~CTEBloodSprite()
+    [2] CTEBloodSprite::~CTEBloodSprite()
+    [3] CTEBloodSprite::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

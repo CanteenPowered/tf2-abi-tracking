@@ -1,0 +1,9 @@
+VTable for CRecipeComponentMatchingIterator:
+    [0] CRecipeComponentMatchingIterator::~CRecipeComponentMatchingIterator()
+    [1] CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned int)
+    [2] CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, float)
+    [3] CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned long long const&)
+    [4] CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_String const&)
+    [5] CRecipeComponentMatchingIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_DynamicRecipeComponent const&)
+    [6] CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_ItemSlotCriteria const&)
+    [7] CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_WorldItemPlacement const&)

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFCompoundBow>:
+    [0] CEntityFactory<CTFCompoundBow>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFCompoundBow>::GetEntitySize()

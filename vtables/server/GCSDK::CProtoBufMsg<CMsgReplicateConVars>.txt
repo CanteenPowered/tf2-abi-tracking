@@ -1,0 +1,3 @@
+VTable for GCSDK::CProtoBufMsg<CMsgReplicateConVars>:
+    [0] GCSDK::CProtoBufMsg<CMsgReplicateConVars>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgReplicateConVars>::GetGenericBody() const

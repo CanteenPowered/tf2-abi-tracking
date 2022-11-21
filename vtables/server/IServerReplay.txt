@@ -1,0 +1,2 @@
+VTable for IServerReplay:
+    [0] IServerReplay::~IServerReplay()

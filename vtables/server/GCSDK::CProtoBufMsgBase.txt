@@ -1,0 +1,2 @@
+VTable for GCSDK::CProtoBufMsgBase:
+    [0] GCSDK::CProtoBufMsgBase::~CProtoBufMsgBase()

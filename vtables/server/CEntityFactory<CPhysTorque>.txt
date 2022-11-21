@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPhysTorque>:
+    [0] CEntityFactory<CPhysTorque>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPhysTorque>::GetEntitySize()

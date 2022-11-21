@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CInfoOverlayAccessor>:
+    [0] CEntityFactory<CInfoOverlayAccessor>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CInfoOverlayAccessor>::GetEntitySize()

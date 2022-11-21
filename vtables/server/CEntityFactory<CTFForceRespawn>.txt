@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFForceRespawn>:
+    [0] CEntityFactory<CTFForceRespawn>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFForceRespawn>::GetEntitySize()

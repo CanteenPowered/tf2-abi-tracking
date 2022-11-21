@@ -1,0 +1,2 @@
+VTable for IDelayedSchemaData:
+    [0] IDelayedSchemaData::~IDelayedSchemaData()

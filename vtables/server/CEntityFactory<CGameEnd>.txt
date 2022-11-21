@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CGameEnd>:
+    [0] CEntityFactory<CGameEnd>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CGameEnd>::GetEntitySize()

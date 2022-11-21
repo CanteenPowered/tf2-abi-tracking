@@ -1,0 +1,20 @@
+VTable for CSOEconItemEquipped:
+    [0] CSOEconItemEquipped::~CSOEconItemEquipped()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CSOEconItemEquipped::New() const
+    [3] CSOEconItemEquipped::Clear()
+    [4] CSOEconItemEquipped::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CSOEconItemEquipped::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CSOEconItemEquipped::ByteSize() const
+    [9] CSOEconItemEquipped::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CSOEconItemEquipped::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CSOEconItemEquipped::GetCachedSize() const
+    [12] CSOEconItemEquipped::CopyFrom(google::protobuf::Message const&)
+    [13] CSOEconItemEquipped::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CSOEconItemEquipped::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CSOEconItemEquipped::GetMetadata() const

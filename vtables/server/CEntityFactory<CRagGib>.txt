@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CRagGib>:
+    [0] CEntityFactory<CRagGib>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CRagGib>::GetEntitySize()

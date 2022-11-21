@@ -1,0 +1,6 @@
+VTable for CReliableBroadcastRecipientFilter:
+    [0] CReliableBroadcastRecipientFilter::~CReliableBroadcastRecipientFilter()
+    [1] CRecipientFilter::IsReliable() const
+    [2] CRecipientFilter::IsInitMessage() const
+    [3] CRecipientFilter::GetRecipientCount() const
+    [4] CRecipientFilter::GetRecipientIndex(int) const

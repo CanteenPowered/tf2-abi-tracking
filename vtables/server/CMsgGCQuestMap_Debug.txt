@@ -1,0 +1,20 @@
+VTable for CMsgGCQuestMap_Debug:
+    [0] CMsgGCQuestMap_Debug::~CMsgGCQuestMap_Debug()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCQuestMap_Debug::New() const
+    [3] CMsgGCQuestMap_Debug::Clear()
+    [4] CMsgGCQuestMap_Debug::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCQuestMap_Debug::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCQuestMap_Debug::ByteSize() const
+    [9] CMsgGCQuestMap_Debug::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCQuestMap_Debug::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCQuestMap_Debug::GetCachedSize() const
+    [12] CMsgGCQuestMap_Debug::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCQuestMap_Debug::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCQuestMap_Debug::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCQuestMap_Debug::GetMetadata() const

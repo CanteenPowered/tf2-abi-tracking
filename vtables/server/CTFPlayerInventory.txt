@@ -1,0 +1,25 @@
+VTable for CTFPlayerInventory:
+    [0] CPlayerInventory::PreSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)
+    [1] CTFPlayerInventory::SOUpdated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)
+    [2] CPlayerInventory::PostSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)
+    [3] CPlayerInventory::SODestroyed(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)
+    [4] CPlayerInventory::SOCacheSubscribed(CSteamID const&, GCSDK::ESOCacheEvent)
+    [5] CPlayerInventory::SOCacheUnsubscribed(CSteamID const&, GCSDK::ESOCacheEvent)
+    [6] CTFPlayerInventory::~CTFPlayerInventory()
+    [7] CTFPlayerInventory::~CTFPlayerInventory()
+    [8] CTFPlayerInventory::CanPurchaseItems(int) const
+    [9] CTFPlayerInventory::GetMaxItemCount() const
+    [10] CTFPlayerInventory::GetItemInLoadout(int, int)
+    [11] CPlayerInventory::ItemShouldBeIncluded(int)
+    [12] CTFPlayerInventory::DumpInventoryToConsole(bool)
+    [13] CTFPlayerInventory::ExtractInventorySortPosition(unsigned int)
+    [14] CTFPlayerInventory::GetPreviewItemDef() const
+    [15] CPlayerInventory::SOClear()
+    [16] CTFPlayerInventory::NotifyHasNewItems()
+    [17] CPlayerInventory::AddEconItem(CEconItem*, bool, bool, bool)
+    [18] CPlayerInventory::RemoveItem(unsigned long long)
+    [19] CTFPlayerInventory::OnHasNewItems()
+    [20] CPlayerInventory::OnItemChangedPosition(CEconItemView*, unsigned int)
+    [21] CTFPlayerInventory::ValidateInventoryPositions()
+    [22] CTFPlayerInventory::ItemHasBeenUpdated(CEconItemView*, bool, bool)
+    [23] CTFPlayerInventory::ItemIsBeingRemoved(CEconItemView*)

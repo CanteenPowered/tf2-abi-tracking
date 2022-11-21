@@ -1,0 +1,5 @@
+VTable for CPureServerWhitelist:
+    [0] CPureServerWhitelist::Release()
+    [1] CPureServerWhitelist::GetFileClass(char const*)
+    [2] CPureServerWhitelist::GetTrustedKeyCount() const
+    [3] CPureServerWhitelist::GetTrustedKey(int, int*) const

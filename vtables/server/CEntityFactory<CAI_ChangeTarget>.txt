@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CAI_ChangeTarget>:
+    [0] CEntityFactory<CAI_ChangeTarget>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CAI_ChangeTarget>::GetEntitySize()

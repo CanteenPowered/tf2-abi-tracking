@@ -1,0 +1,10 @@
+VTable for google::protobuf::ServiceOptions:
+    [0] CryptoPP::ClassNullRNG::AlgorithmName() const
+    [1] CryptoPP::RandomNumberGenerator::IncorporateEntropy(unsigned char const*, unsigned int)
+    [2] CryptoPP::RandomNumberGenerator::CanIncorporateEntropy() const
+    [3] CryptoPP::RandomNumberGenerator::GenerateByte()
+    [4] CryptoPP::RandomNumberGenerator::GenerateBit()
+    [5] CryptoPP::RandomNumberGenerator::GenerateWord32(unsigned int, unsigned int)
+    [6] CryptoPP::ClassNullRNG::GenerateBlock(unsigned char*, unsigned int)
+    [7] CryptoPP::RandomNumberGenerator::GenerateIntoBufferedTransformation(CryptoPP::BufferedTransformation&, std::string const&, unsigned long long)
+    [8] CryptoPP::RandomNumberGenerator::DiscardBytes(unsigned int)

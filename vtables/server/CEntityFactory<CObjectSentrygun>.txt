@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CObjectSentrygun>:
+    [0] CEntityFactory<CObjectSentrygun>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CObjectSentrygun>::GetEntitySize()

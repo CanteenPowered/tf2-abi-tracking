@@ -1,0 +1,8 @@
+VTable for CServerGameEnts:
+    [0] CServerGameEnts::~CServerGameEnts()
+    [1] CServerGameEnts::SetDebugEdictBase(edict_t*)
+    [2] CServerGameEnts::MarkEntitiesAsTouching(edict_t*, edict_t*)
+    [3] CServerGameEnts::FreeContainingEntity(edict_t*)
+    [4] CServerGameEnts::BaseEntityToEdict(CBaseEntity*)
+    [5] CServerGameEnts::EdictToBaseEntity(edict_t*)
+    [6] CServerGameEnts::CheckTransmit(CCheckTransmitInfo*, unsigned short const*, int)

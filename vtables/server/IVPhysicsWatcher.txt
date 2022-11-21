@@ -1,0 +1,2 @@
+VTable for IVPhysicsWatcher:
+    [0] IVPhysicsWatcher::~IVPhysicsWatcher()

@@ -1,0 +1,5 @@
+VTable for google::protobuf::UninterpretedOption:
+VTable for google::protobuf::UninterpretedOption_NamePart:
+    [0] CryptoPP::BufferedTransformation::GetNextMessageSeries()
+    [1] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
+    [2] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CVGuiScreen>:
+    [0] CEntityFactory<CVGuiScreen>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CVGuiScreen>::GetEntitySize()

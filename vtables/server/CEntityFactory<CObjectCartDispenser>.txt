@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CObjectCartDispenser>:
+    [0] CEntityFactory<CObjectCartDispenser>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CObjectCartDispenser>::GetEntitySize()

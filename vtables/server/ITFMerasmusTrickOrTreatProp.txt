@@ -1,0 +1,2 @@
+VTable for ITFMerasmusTrickOrTreatProp:
+    [0] ITFMerasmusTrickOrTreatProp::~ITFMerasmusTrickOrTreatProp()

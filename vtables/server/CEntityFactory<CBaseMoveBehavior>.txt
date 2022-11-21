@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CBaseMoveBehavior>:
+    [0] CEntityFactory<CBaseMoveBehavior>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CBaseMoveBehavior>::GetEntitySize()

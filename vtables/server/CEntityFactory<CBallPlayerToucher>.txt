@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CBallPlayerToucher>:
+    [0] CEntityFactory<CBallPlayerToucher>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CBallPlayerToucher>::GetEntitySize()

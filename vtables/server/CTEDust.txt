@@ -1,0 +1,7 @@
+VTable for CTEDust:
+    [0] CTEDust::YouForgotToImplementOrDeclareServerClass()
+    [1] CTEDust::~CTEDust()
+    [2] CTEDust::~CTEDust()
+    [3] CTEDust::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

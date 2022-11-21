@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CFuncSmokeVolume>:
+    [0] CEntityFactory<CFuncSmokeVolume>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CFuncSmokeVolume>::GetEntitySize()

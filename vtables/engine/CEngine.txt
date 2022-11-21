@@ -1,0 +1,11 @@
+VTable for CEngine:
+    [0] CEngine::~CEngine()
+    [1] CEngine::Load(bool, char const*)
+    [2] CEngine::Unload()
+    [3] CEngine::SetNextState(IEngine::EngineState_t)
+    [4] CEngine::GetState()
+    [5] CEngine::Frame()
+    [6] CEngine::GetFrameTime()
+    [7] CEngine::GetCurTime()
+    [8] CEngine::GetQuitting()
+    [9] CEngine::SetQuitting(int)

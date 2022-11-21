@@ -1,0 +1,20 @@
+VTable for CTFPerPlayerMatchCriteriaProto:
+    [0] CTFPerPlayerMatchCriteriaProto::~CTFPerPlayerMatchCriteriaProto()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CTFPerPlayerMatchCriteriaProto::New() const
+    [3] CTFPerPlayerMatchCriteriaProto::Clear()
+    [4] CTFPerPlayerMatchCriteriaProto::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CTFPerPlayerMatchCriteriaProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CTFPerPlayerMatchCriteriaProto::ByteSize() const
+    [9] CTFPerPlayerMatchCriteriaProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CTFPerPlayerMatchCriteriaProto::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CTFPerPlayerMatchCriteriaProto::GetCachedSize() const
+    [12] CTFPerPlayerMatchCriteriaProto::CopyFrom(google::protobuf::Message const&)
+    [13] CTFPerPlayerMatchCriteriaProto::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CTFPerPlayerMatchCriteriaProto::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CTFPerPlayerMatchCriteriaProto::GetMetadata() const

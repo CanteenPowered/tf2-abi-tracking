@@ -1,0 +1,3 @@
+VTable for CEntityFactory<ParticleSmokeGrenade>:
+    [0] CEntityFactory<ParticleSmokeGrenade>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<ParticleSmokeGrenade>::GetEntitySize()

@@ -1,0 +1,5 @@
+VTable for CEventsSaveDataOps:
+    [0] CEventsSaveDataOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CEventsSaveDataOps::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CEventsSaveDataOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CEventsSaveDataOps::Parse(SaveRestoreFieldInfo_t const&, char const*)

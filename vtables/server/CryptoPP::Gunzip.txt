@@ -1,0 +1,2 @@
+VTable for CryptoPP::Gunzip:
+    [0] CryptoPP::CBC_CTS_Encryption::ProcessLastBlock(unsigned char*, unsigned char const*, unsigned int)

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CFuncNavObstruction>:
+    [0] CEntityFactory<CFuncNavObstruction>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CFuncNavObstruction>::GetEntitySize()

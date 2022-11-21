@@ -1,0 +1,20 @@
+VTable for CMsgNotificationAcknowledgeReply:
+    [0] CMsgNotificationAcknowledgeReply::~CMsgNotificationAcknowledgeReply()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgNotificationAcknowledgeReply::New() const
+    [3] CMsgNotificationAcknowledgeReply::Clear()
+    [4] CMsgNotificationAcknowledgeReply::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgNotificationAcknowledgeReply::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgNotificationAcknowledgeReply::ByteSize() const
+    [9] CMsgNotificationAcknowledgeReply::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgNotificationAcknowledgeReply::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgNotificationAcknowledgeReply::GetCachedSize() const
+    [12] CMsgNotificationAcknowledgeReply::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgNotificationAcknowledgeReply::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgNotificationAcknowledgeReply::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgNotificationAcknowledgeReply::GetMetadata() const

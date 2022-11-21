@@ -1,0 +1,4 @@
+VTable for CResourcePreloadModel:
+    [0] CResourcePreloadModel::PurgeUnreferencedResources()
+    [1] CResourcePreloadModel::OnEndMapLoading(bool)
+    [2] CResourcePreloadModel::PurgeAll()

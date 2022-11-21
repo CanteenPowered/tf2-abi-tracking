@@ -1,0 +1,2 @@
+VTable for IBaseObjectAutoList:
+    [0] IBaseObjectAutoList::~IBaseObjectAutoList()

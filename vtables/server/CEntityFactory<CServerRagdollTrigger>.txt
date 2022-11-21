@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CServerRagdollTrigger>:
+    [0] CEntityFactory<CServerRagdollTrigger>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CServerRagdollTrigger>::GetEntitySize()

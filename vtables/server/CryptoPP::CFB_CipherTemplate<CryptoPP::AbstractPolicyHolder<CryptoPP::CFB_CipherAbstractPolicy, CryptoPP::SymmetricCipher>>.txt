@@ -1,0 +1,2 @@
+VTable for CryptoPP::CFB_CipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::CFB_CipherAbstractPolicy, CryptoPP::SymmetricCipher>>:
+VTable for CryptoPP::CFB_CipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::CFB_CipherAbstractPolicy, CryptoPP::CFB_ModePolicy>>:

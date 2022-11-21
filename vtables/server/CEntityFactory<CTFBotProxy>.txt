@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFBotProxy>:
+    [0] CEntityFactory<CTFBotProxy>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFBotProxy>::GetEntitySize()

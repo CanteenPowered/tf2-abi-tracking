@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFMinigameLogic>:
+    [0] CEntityFactory<CTFMinigameLogic>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFMinigameLogic>::GetEntitySize()

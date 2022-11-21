@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFBotHintTeleporterExit>:
+    [0] CEntityFactory<CTFBotHintTeleporterExit>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFBotHintTeleporterExit>::GetEntitySize()

@@ -1,0 +1,20 @@
+VTable for TFPendingPartyMember:
+    [0] TFPendingPartyMember::~TFPendingPartyMember()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] TFPendingPartyMember::New() const
+    [3] TFPendingPartyMember::Clear()
+    [4] TFPendingPartyMember::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] TFPendingPartyMember::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] TFPendingPartyMember::ByteSize() const
+    [9] TFPendingPartyMember::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] TFPendingPartyMember::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] TFPendingPartyMember::GetCachedSize() const
+    [12] TFPendingPartyMember::CopyFrom(google::protobuf::Message const&)
+    [13] TFPendingPartyMember::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] TFPendingPartyMember::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] TFPendingPartyMember::GetMetadata() const

@@ -1,0 +1,2 @@
+VTable for CBasePlayer::NetworkVar_m_Local:
+    [0] CBasePlayer::NetworkVar_m_Local::NetworkStateChanged(void*)

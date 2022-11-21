@@ -1,0 +1,16 @@
+VTable for CLC_VoiceData:
+    [0] CLC_VoiceData::~CLC_VoiceData()
+    [1] CNetMessage::SetNetChannel(INetChannel*)
+    [2] CNetMessage::SetReliable(bool)
+    [3] CLC_VoiceData::Process()
+    [4] CLC_VoiceData::ReadFromBuffer(bf_read&)
+    [5] CLC_VoiceData::WriteToBuffer(bf_write&)
+    [6] CNetMessage::IsReliable() const
+    [7] CLC_VoiceData::GetType() const
+    [8] CLC_VoiceData::GetGroup() const
+    [9] CLC_VoiceData::GetName() const
+    [10] CNetMessage::GetNetChannel() const
+    [11] CLC_VoiceData::ToString() const
+    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
+    [13] CLC_VoiceData::GetSize() const
+    [14] CLC_VoiceData::SetRatePolicy()

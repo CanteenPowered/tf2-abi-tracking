@@ -1,0 +1,3 @@
+VTable for CConditionFortuneTellerEffect:
+    [0] CConditionFortuneTellerEffect::~CConditionFortuneTellerEffect()
+    [1] CConditionFortuneTellerEffect::FireGameEvent(IGameEvent*)

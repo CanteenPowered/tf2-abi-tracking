@@ -1,0 +1,2 @@
+VTable for IMerasmusAutoList:
+    [0] IMerasmusAutoList::~IMerasmusAutoList()

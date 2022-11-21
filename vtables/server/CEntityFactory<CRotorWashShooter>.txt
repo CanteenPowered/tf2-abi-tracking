@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CRotorWashShooter>:
+    [0] CEntityFactory<CRotorWashShooter>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CRotorWashShooter>::GetEntitySize()

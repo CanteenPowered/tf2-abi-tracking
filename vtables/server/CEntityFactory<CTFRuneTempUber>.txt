@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFRuneTempUber>:
+    [0] CEntityFactory<CTFRuneTempUber>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFRuneTempUber>::GetEntitySize()

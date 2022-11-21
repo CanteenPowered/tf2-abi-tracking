@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CSteamJet>:
+    [0] CEntityFactory<CSteamJet>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CSteamJet>::GetEntitySize()

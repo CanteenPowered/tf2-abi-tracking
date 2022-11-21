@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CInfoLadderDismount>:
+    [0] CEntityFactory<CInfoLadderDismount>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CInfoLadderDismount>::GetEntitySize()

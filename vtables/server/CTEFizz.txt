@@ -1,0 +1,7 @@
+VTable for CTEFizz:
+    [0] CTEFizz::YouForgotToImplementOrDeclareServerClass()
+    [1] CTEFizz::~CTEFizz()
+    [2] CTEFizz::~CTEFizz()
+    [3] CTEFizz::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CTEFizz::Precache()

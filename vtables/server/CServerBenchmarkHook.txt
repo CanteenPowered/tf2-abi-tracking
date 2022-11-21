@@ -1,0 +1,3 @@
+VTable for CServerBenchmarkHook:
+    [0] CServerBenchmarkHook::UpdateBenchmark()
+    [1] CServerBenchmarkHook::EndBenchmark()

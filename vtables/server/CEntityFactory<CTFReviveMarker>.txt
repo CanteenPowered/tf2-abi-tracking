@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFReviveMarker>:
+    [0] CEntityFactory<CTFReviveMarker>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFReviveMarker>::GetEntitySize()

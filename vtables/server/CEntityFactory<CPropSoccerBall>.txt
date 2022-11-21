@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPropSoccerBall>:
+    [0] CEntityFactory<CPropSoccerBall>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPropSoccerBall>::GetEntitySize()

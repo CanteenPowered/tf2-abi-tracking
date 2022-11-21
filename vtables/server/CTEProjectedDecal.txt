@@ -1,0 +1,7 @@
+VTable for CTEProjectedDecal:
+    [0] CTEProjectedDecal::YouForgotToImplementOrDeclareServerClass()
+    [1] CTEProjectedDecal::~CTEProjectedDecal()
+    [2] CTEProjectedDecal::~CTEProjectedDecal()
+    [3] CTEProjectedDecal::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

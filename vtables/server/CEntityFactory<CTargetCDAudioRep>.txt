@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTargetCDAudioRep>:
+    [0] CEntityFactory<CTargetCDAudioRep>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTargetCDAudioRep>::GetEntitySize()

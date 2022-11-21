@@ -1,0 +1,20 @@
+VTable for CMsgPartyPromoteToLeader:
+    [0] CMsgPartyPromoteToLeader::~CMsgPartyPromoteToLeader()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgPartyPromoteToLeader::New() const
+    [3] CMsgPartyPromoteToLeader::Clear()
+    [4] CMsgPartyPromoteToLeader::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgPartyPromoteToLeader::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgPartyPromoteToLeader::ByteSize() const
+    [9] CMsgPartyPromoteToLeader::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgPartyPromoteToLeader::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgPartyPromoteToLeader::GetCachedSize() const
+    [12] CMsgPartyPromoteToLeader::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgPartyPromoteToLeader::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgPartyPromoteToLeader::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgPartyPromoteToLeader::GetMetadata() const

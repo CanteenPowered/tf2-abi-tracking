@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CAmmoPackMedium>:
+    [0] CEntityFactory<CAmmoPackMedium>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CAmmoPackMedium>::GetEntitySize()

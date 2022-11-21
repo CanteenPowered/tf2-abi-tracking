@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CMedievalLogic>:
+    [0] CEntityFactory<CMedievalLogic>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CMedievalLogic>::GetEntitySize()

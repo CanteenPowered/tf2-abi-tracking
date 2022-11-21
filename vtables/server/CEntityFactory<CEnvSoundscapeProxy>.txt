@@ -1,0 +1,9 @@
+VTable for CEntityFactory<CEnvSoundscape>:
+    [0] CEntityFactory<CEnvSoundscape>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CEnvSoundscape>::GetEntitySize()
+VTable for CEntityFactory<CEnvSoundscapeTriggerable>:
+    [0] CEntityFactory<CEnvSoundscapeTriggerable>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CEnvSoundscapeTriggerable>::GetEntitySize()
+VTable for CEntityFactory<CEnvSoundscapeProxy>:
+    [0] CEntityFactory<CEnvSoundscapeProxy>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CEnvSoundscapeProxy>::GetEntitySize()

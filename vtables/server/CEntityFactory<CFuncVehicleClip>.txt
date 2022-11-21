@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CFuncVehicleClip>:
+    [0] CEntityFactory<CFuncVehicleClip>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CFuncVehicleClip>::GetEntitySize()

@@ -1,0 +1,2 @@
+VTable for snappy::Sink:
+    [0] snappy::Sink::~Sink()

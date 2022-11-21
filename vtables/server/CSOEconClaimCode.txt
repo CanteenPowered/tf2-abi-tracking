@@ -1,0 +1,20 @@
+VTable for CSOEconClaimCode:
+    [0] CSOEconClaimCode::~CSOEconClaimCode()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CSOEconClaimCode::New() const
+    [3] CSOEconClaimCode::Clear()
+    [4] CSOEconClaimCode::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CSOEconClaimCode::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CSOEconClaimCode::ByteSize() const
+    [9] CSOEconClaimCode::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CSOEconClaimCode::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CSOEconClaimCode::GetCachedSize() const
+    [12] CSOEconClaimCode::CopyFrom(google::protobuf::Message const&)
+    [13] CSOEconClaimCode::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CSOEconClaimCode::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CSOEconClaimCode::GetMetadata() const

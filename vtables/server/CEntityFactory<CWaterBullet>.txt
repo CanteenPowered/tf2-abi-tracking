@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CWaterBullet>:
+    [0] CEntityFactory<CWaterBullet>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CWaterBullet>::GetEntitySize()

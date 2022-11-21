@@ -1,0 +1,14 @@
+VTable for CBSPTreeData:
+    [0] CBSPTreeData::~CBSPTreeData()
+    [1] CBSPTreeData::Init(ISpatialQuery*)
+    [2] CBSPTreeData::Shutdown()
+    [3] CBSPTreeData::Insert(int, Vector const&, Vector const&)
+    [4] CBSPTreeData::Remove(unsigned short)
+    [5] CBSPTreeData::ElementMoved(unsigned short, Vector const&, Vector const&)
+    [6] CBSPTreeData::EnumerateElementsInLeaf(int, IBSPTreeDataEnumerator*, int)
+    [7] CBSPTreeData::IsElementInTree(unsigned short) const
+    [8] CBSPTreeData::EnumerateLeavesAtPoint(Vector const&, ISpatialLeafEnumerator*, int)
+    [9] CBSPTreeData::EnumerateLeavesInBox(Vector const&, Vector const&, ISpatialLeafEnumerator*, int)
+    [10] CBSPTreeData::EnumerateLeavesInSphere(Vector const&, float, ISpatialLeafEnumerator*, int)
+    [11] CBSPTreeData::EnumerateLeavesAlongRay(Ray_t const&, ISpatialLeafEnumerator*, int)
+    [12] CBSPTreeData::EnumerateLeaf(int, int)

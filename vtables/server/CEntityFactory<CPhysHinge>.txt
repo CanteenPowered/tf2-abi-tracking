@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPhysHinge>:
+    [0] CEntityFactory<CPhysHinge>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPhysHinge>::GetEntitySize()

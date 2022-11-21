@@ -1,0 +1,3 @@
+VTable for CryptoPP::TF_EncryptorBase:
+    [0] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::~ASN1CryptoMaterial()
+    [1] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::~ASN1CryptoMaterial()

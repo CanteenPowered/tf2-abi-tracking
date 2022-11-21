@@ -1,0 +1,2 @@
+VTable for IIsHolidayActive:
+    [0] IIsHolidayActive::~IIsHolidayActive()

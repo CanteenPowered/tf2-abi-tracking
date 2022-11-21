@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CInfoCameraLink>:
+    [0] CEntityFactory<CInfoCameraLink>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CInfoCameraLink>::GetEntitySize()

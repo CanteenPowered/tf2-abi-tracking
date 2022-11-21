@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTargetChangeGravity>:
+    [0] CEntityFactory<CTargetChangeGravity>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTargetChangeGravity>::GetEntitySize()

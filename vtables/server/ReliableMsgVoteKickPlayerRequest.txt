@@ -1,0 +1,9 @@
+VTable for ReliableMsgVoteKickPlayerRequest:
+    [0] ReliableMsgVoteKickPlayerRequest::~ReliableMsgVoteKickPlayerRequest()
+    [1] CJobReliableMessageBase<ReliableMsgVoteKickPlayerRequest, CMsgGC_TFVoteKickPlayerRequest, (ETFGCMsg)6513, CMsgGC_VoteKickPlayerRequestResponse, (ETFGCMsg)6514>::BYieldingRunJob(void*)
+    [2] GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)
+    [3] GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()
+    [4] GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)
+    [5] GCSDK::CGCClientJob::BYieldingRunGCJob()
+    [6] GCSDK::CGCClientJob::GetServerType()
+    [7] CJobReliableMessageBase<ReliableMsgVoteKickPlayerRequest, CMsgGC_TFVoteKickPlayerRequest, (ETFGCMsg)6513, CMsgGC_VoteKickPlayerRequestResponse, (ETFGCMsg)6514>::Finalize()

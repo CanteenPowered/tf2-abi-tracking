@@ -1,0 +1,5 @@
+VTable for CConceptHistoriesDataOps:
+    [0] CConceptHistoriesDataOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CConceptHistoriesDataOps::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CConceptHistoriesDataOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)

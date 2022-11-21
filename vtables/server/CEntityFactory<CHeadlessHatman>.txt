@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CHeadlessHatman>:
+    [0] CEntityFactory<CHeadlessHatman>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CHeadlessHatman>::GetEntitySize()

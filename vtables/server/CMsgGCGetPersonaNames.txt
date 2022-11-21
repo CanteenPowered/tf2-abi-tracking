@@ -1,0 +1,20 @@
+VTable for CMsgGCGetPersonaNames:
+    [0] CMsgGCGetPersonaNames::~CMsgGCGetPersonaNames()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCGetPersonaNames::New() const
+    [3] CMsgGCGetPersonaNames::Clear()
+    [4] CMsgGCGetPersonaNames::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCGetPersonaNames::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCGetPersonaNames::ByteSize() const
+    [9] CMsgGCGetPersonaNames::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCGetPersonaNames::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCGetPersonaNames::GetCachedSize() const
+    [12] CMsgGCGetPersonaNames::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCGetPersonaNames::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCGetPersonaNames::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCGetPersonaNames::GetMetadata() const

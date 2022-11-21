@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CNPCMaker>:
+    [0] CEntityFactory<CNPCMaker>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CNPCMaker>::GetEntitySize()

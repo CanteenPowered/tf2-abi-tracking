@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPhysPulley>:
+    [0] CEntityFactory<CPhysPulley>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPhysPulley>::GetEntitySize()

@@ -1,0 +1,2 @@
+VTable for ICurveDataAccessor:
+    [0] ICurveDataAccessor::~ICurveDataAccessor()

@@ -1,0 +1,11 @@
+VTable for CBaseIssue:
+    [0] CBaseIssue::~CBaseIssue()
+    [1] CBaseIssue::GetTypeStringLocalized()
+    [2] CBaseIssue::GetDetailsString()
+    [3] CBaseIssue::SetIssueDetails(char const*)
+    [4] CBaseIssue::OnVoteFailed(int)
+    [5] CBaseIssue::OnVoteStarted()
+    [6] CBaseIssue::IsEnabled()
+    [7] CBaseIssue::CanTeamCallVote(int) const
+    [8] CBaseIssue::RequestCallVote(int, char const*, vote_create_failed_t&, int&)
+    [9] CBaseIssue::IsTeamRestrictedVote()

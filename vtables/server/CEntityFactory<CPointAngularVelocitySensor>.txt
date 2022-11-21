@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPointAngularVelocitySensor>:
+    [0] CEntityFactory<CPointAngularVelocitySensor>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPointAngularVelocitySensor>::GetEntitySize()

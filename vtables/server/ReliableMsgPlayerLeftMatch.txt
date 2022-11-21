@@ -1,0 +1,9 @@
+VTable for ReliableMsgPlayerLeftMatch:
+    [0] ReliableMsgPlayerLeftMatch::~ReliableMsgPlayerLeftMatch()
+    [1] CJobReliableMessageBase<ReliableMsgPlayerLeftMatch, CMsgPlayerLeftMatch, (ETFGCMsg)6522, CMsgPlayerLeftMatchResponse, (ETFGCMsg)6523>::BYieldingRunJob(void*)
+    [2] GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)
+    [3] GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()
+    [4] GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)
+    [5] GCSDK::CGCClientJob::BYieldingRunGCJob()
+    [6] GCSDK::CGCClientJob::GetServerType()
+    [7] CJobReliableMessageBase<ReliableMsgPlayerLeftMatch, CMsgPlayerLeftMatch, (ETFGCMsg)6522, CMsgPlayerLeftMatchResponse, (ETFGCMsg)6523>::Finalize()

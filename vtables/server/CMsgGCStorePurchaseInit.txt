@@ -1,0 +1,20 @@
+VTable for CMsgGCStorePurchaseInit:
+    [0] CMsgGCStorePurchaseInit::~CMsgGCStorePurchaseInit()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCStorePurchaseInit::New() const
+    [3] CMsgGCStorePurchaseInit::Clear()
+    [4] CMsgGCStorePurchaseInit::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCStorePurchaseInit::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCStorePurchaseInit::ByteSize() const
+    [9] CMsgGCStorePurchaseInit::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCStorePurchaseInit::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCStorePurchaseInit::GetCachedSize() const
+    [12] CMsgGCStorePurchaseInit::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCStorePurchaseInit::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCStorePurchaseInit::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCStorePurchaseInit::GetMetadata() const

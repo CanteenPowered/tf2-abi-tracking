@@ -1,0 +1,16 @@
+VTable for CConCommandMemberAccessor<CCvar>:
+    [0] CConCommandMemberAccessor<CCvar>::~CConCommandMemberAccessor()
+    [1] ConCommand::IsCommand() const
+    [2] ConCommandBase::IsFlagSet(int) const
+    [3] ConCommandBase::AddFlags(int)
+    [4] ConCommandBase::GetName() const
+    [5] ConCommandBase::GetHelpText() const
+    [6] ConCommandBase::IsRegistered() const
+    [7] ConCommandBase::GetDLLIdentifier() const
+    [8] ConCommandBase::CreateBase(char const*, char const*, int)
+    [9] ConCommandBase::Init()
+    [10] ConCommand::AutoCompleteSuggest(char const*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>&)
+    [11] ConCommand::CanAutoComplete()
+    [12] ConCommand::Dispatch(CCommand const&)
+    [13] CConCommandMemberAccessor<CCvar>::CommandCallback(CCommand const&)
+    [14] CConCommandMemberAccessor<CCvar>::CommandCompletionCallback(char const*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>&)

@@ -1,0 +1,2 @@
+VTable for tf_point_t:
+    [0] tf_point_t::~tf_point_t()

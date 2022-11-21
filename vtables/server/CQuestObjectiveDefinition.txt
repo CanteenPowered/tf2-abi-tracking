@@ -1,0 +1,10 @@
+VTable for CQuestObjectiveDefinition:
+    [0] CQuestObjectiveDefinition::~CQuestObjectiveDefinition()
+    [1] CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetMsg() const
+    [2] CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetDefType() const
+    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
+    [4] CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetTopLayerMessage() const
+    [5] CQuestObjectiveDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [7] CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetMutableTopLayerMsg()
+    [8] CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetMutableMsg()

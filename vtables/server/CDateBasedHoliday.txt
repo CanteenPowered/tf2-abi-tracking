@@ -1,0 +1,3 @@
+VTable for CDateBasedHoliday:
+    [0] CDateBasedHoliday::~CDateBasedHoliday()
+    [1] CDateBasedHoliday::IsActive(CRTime const&)

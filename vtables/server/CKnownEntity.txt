@@ -1,0 +1,21 @@
+VTable for CKnownEntity:
+    [0] CKnownEntity::~CKnownEntity()
+    [1] CKnownEntity::Destroy()
+    [2] CKnownEntity::UpdatePosition()
+    [3] CKnownEntity::GetEntity() const
+    [4] CKnownEntity::GetLastKnownPosition() const
+    [5] CKnownEntity::HasLastKnownPositionBeenSeen() const
+    [6] CKnownEntity::MarkLastKnownPositionAsSeen()
+    [7] CKnownEntity::GetLastKnownArea() const
+    [8] CKnownEntity::GetTimeSinceLastKnown() const
+    [9] CKnownEntity::GetTimeSinceBecameKnown() const
+    [10] CKnownEntity::UpdateVisibilityStatus(bool)
+    [11] CKnownEntity::IsVisibleInFOVNow() const
+    [12] CKnownEntity::IsVisibleRecently() const
+    [13] CKnownEntity::GetTimeSinceBecameVisible() const
+    [14] CKnownEntity::GetTimeWhenBecameVisible() const
+    [15] CKnownEntity::GetTimeSinceLastSeen() const
+    [16] CKnownEntity::WasEverVisible() const
+    [17] CKnownEntity::IsObsolete() const
+    [18] CKnownEntity::operator==(CKnownEntity const&) const
+    [19] CKnownEntity::Is(CBaseEntity*) const

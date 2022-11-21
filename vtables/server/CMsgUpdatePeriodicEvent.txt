@@ -1,0 +1,20 @@
+VTable for CMsgUpdatePeriodicEvent:
+    [0] CMsgUpdatePeriodicEvent::~CMsgUpdatePeriodicEvent()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgUpdatePeriodicEvent::New() const
+    [3] CMsgUpdatePeriodicEvent::Clear()
+    [4] CMsgUpdatePeriodicEvent::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgUpdatePeriodicEvent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgUpdatePeriodicEvent::ByteSize() const
+    [9] CMsgUpdatePeriodicEvent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgUpdatePeriodicEvent::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgUpdatePeriodicEvent::GetCachedSize() const
+    [12] CMsgUpdatePeriodicEvent::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgUpdatePeriodicEvent::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgUpdatePeriodicEvent::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgUpdatePeriodicEvent::GetMetadata() const

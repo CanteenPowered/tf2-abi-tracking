@@ -1,0 +1,2 @@
+VTable for IConnectionlessPacketHandler:
+    [0] IConnectionlessPacketHandler::~IConnectionlessPacketHandler()

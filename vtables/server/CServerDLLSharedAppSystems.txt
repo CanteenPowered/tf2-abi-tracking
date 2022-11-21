@@ -1,0 +1,3 @@
+VTable for CServerDLLSharedAppSystems:
+    [0] CServerDLLSharedAppSystems::GetDllName(int)
+    [1] CServerDLLSharedAppSystems::GetInterfaceName(int)

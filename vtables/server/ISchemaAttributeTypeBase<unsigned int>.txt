@@ -1,0 +1,10 @@
+VTable for ISchemaAttributeTypeBase<unsigned int>:
+    [0] ISchemaAttributeTypeBase<unsigned int>::~ISchemaAttributeTypeBase()
+    [1] ISchemaAttributeTypeBase<unsigned int>::GetTypeUniqueIdentifier() const
+    [2] ISchemaAttributeTypeBase<unsigned int>::LoadEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const
+    [3] ISchemaAttributeTypeBase<unsigned int>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&, std::string*) const
+VTable for ISchemaAttributeTypeBase<unsigned long long>:
+    [0] ISchemaAttributeTypeBase<unsigned long long>::~ISchemaAttributeTypeBase()
+    [1] ISchemaAttributeTypeBase<unsigned long long>::GetTypeUniqueIdentifier() const
+    [2] ISchemaAttributeTypeBase<unsigned long long>::LoadEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const
+    [3] ISchemaAttributeTypeBase<unsigned long long>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&, std::string*) const

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPopulationManager>:
+    [0] CEntityFactory<CPopulationManager>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPopulationManager>::GetEntitySize()

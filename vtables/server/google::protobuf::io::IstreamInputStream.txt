@@ -1,0 +1,12 @@
+VTable for google::protobuf::io::IstreamInputStream:
+    [0] CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
+    [1] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
+    [2] CryptoPP::Filter::NewDefaultAttachment() const
+    [3] CryptoPP::Filter::ShouldPropagateMessageEnd() const
+    [4] CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const
+    [5] CryptoPP::Unflushable<CryptoPP::Filter>::InputBufferIsEmpty() const
+VTable for google::protobuf::io::IstreamInputStream::CopyingIstreamInputStream:
+    [0] non-virtual thunk to CryptoPP::BaseN_Encoder::~BaseN_Encoder()
+    [1] non-virtual thunk to CryptoPP::BaseN_Encoder::~BaseN_Encoder()
+    [2] non-virtual thunk to CryptoPP::BufferedTransformation::GetMaxWaitObjectCount() const
+    [3] non-virtual thunk to CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)

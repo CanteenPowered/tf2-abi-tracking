@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPlayerResource>:
+    [0] CEntityFactory<CPlayerResource>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPlayerResource>::GetEntitySize()

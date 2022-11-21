@@ -1,0 +1,2 @@
+VTable for IGameServerData:
+    [0] IGameServerData::~IGameServerData()

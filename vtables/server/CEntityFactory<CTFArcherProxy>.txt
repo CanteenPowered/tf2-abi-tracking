@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFArcherProxy>:
+    [0] CEntityFactory<CTFArcherProxy>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFArcherProxy>::GetEntitySize()

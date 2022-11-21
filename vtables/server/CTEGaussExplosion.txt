@@ -1,0 +1,7 @@
+VTable for CTEGaussExplosion:
+    [0] CTEGaussExplosion::YouForgotToImplementOrDeclareServerClass()
+    [1] CTEGaussExplosion::~CTEGaussExplosion()
+    [2] CTEGaussExplosion::~CTEGaussExplosion()
+    [3] CTEGaussExplosion::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

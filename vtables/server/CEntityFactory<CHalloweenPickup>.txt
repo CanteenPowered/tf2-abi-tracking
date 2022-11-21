@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CHalloweenPickup>:
+    [0] CEntityFactory<CHalloweenPickup>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CHalloweenPickup>::GetEntitySize()

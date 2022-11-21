@@ -1,0 +1,3 @@
+VTable for GCSDK::CWorkItem:
+    [0] GCSDK::CWorkItem::~CWorkItem()
+    [1] GCSDK::CRefCount::DestroyThis()

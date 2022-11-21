@@ -1,0 +1,20 @@
+VTable for CMsgLeaveGameAndPrepareToJoinParty:
+    [0] CMsgLeaveGameAndPrepareToJoinParty::~CMsgLeaveGameAndPrepareToJoinParty()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgLeaveGameAndPrepareToJoinParty::New() const
+    [3] CMsgLeaveGameAndPrepareToJoinParty::Clear()
+    [4] CMsgLeaveGameAndPrepareToJoinParty::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgLeaveGameAndPrepareToJoinParty::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgLeaveGameAndPrepareToJoinParty::ByteSize() const
+    [9] CMsgLeaveGameAndPrepareToJoinParty::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgLeaveGameAndPrepareToJoinParty::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgLeaveGameAndPrepareToJoinParty::GetCachedSize() const
+    [12] CMsgLeaveGameAndPrepareToJoinParty::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgLeaveGameAndPrepareToJoinParty::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgLeaveGameAndPrepareToJoinParty::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgLeaveGameAndPrepareToJoinParty::GetMetadata() const

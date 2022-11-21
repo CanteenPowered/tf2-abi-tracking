@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CFogController>:
+    [0] CEntityFactory<CFogController>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CFogController>::GetEntitySize()

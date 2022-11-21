@@ -1,0 +1,13 @@
+VTable for CDefaultResponseSystem:
+    [0] CDefaultResponseSystem::~CDefaultResponseSystem()
+    [1] CResponseSystem::FindBestResponse(AI_CriteriaSet const&, AI_Response&, IResponseFilter*)
+    [2] CResponseSystem::GetAllResponses(CUtlVector<AI_Response*, CUtlMemory<AI_Response*, int>>*)
+    [3] CResponseSystem::PrecacheResponses(bool)
+    [4] CDefaultResponseSystem::Release()
+    [5] CResponseSystem::DumpRules()
+    [6] CResponseSystem::Precache()
+    [7] CDefaultResponseSystem::GetScriptFile()
+    [8] CDefaultResponseSystem::Init()
+    [9] CDefaultResponseSystem::Shutdown()
+    [10] CDefaultResponseSystem::LevelInitPostEntity()
+    [11] CDefaultResponseSystem::LevelInitPreEntity()

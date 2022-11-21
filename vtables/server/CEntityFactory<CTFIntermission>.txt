@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFIntermission>:
+    [0] CEntityFactory<CTFIntermission>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFIntermission>::GetEntitySize()

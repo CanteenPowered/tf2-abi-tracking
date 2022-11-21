@@ -1,0 +1,10 @@
+VTable for CQuestMapRegion:
+    [0] CQuestMapRegion::~CQuestMapRegion()
+    [1] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetMsg() const
+    [2] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetDefType() const
+    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
+    [4] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetTopLayerMessage() const
+    [5] CQuestMapRegion::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [7] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetMutableTopLayerMsg()
+    [8] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetMutableMsg()

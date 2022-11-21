@@ -1,0 +1,140 @@
+VTable for CUtlVectorDataOps<CUtlVector<CAnimationLayer, CUtlMemory<CAnimationLayer, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<CAnimationLayer, CUtlMemory<CAnimationLayer, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<CAnimationLayer, CUtlMemory<CAnimationLayer, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<CAnimationLayer, CUtlMemory<CAnimationLayer, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<modifiedconvars_t, CUtlMemory<modifiedconvars_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<modifiedconvars_t, CUtlMemory<modifiedconvars_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<modifiedconvars_t, CUtlMemory<modifiedconvars_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<modifiedconvars_t, CUtlMemory<modifiedconvars_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<template_t, CUtlMemory<template_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<template_t, CUtlMemory<template_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<template_t, CUtlMemory<template_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<template_t, CUtlMemory<template_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<CHandle<CBaseFlex>, CUtlMemory<CHandle<CBaseFlex>, int>>, 13>:
+    [0] CUtlVectorDataOps<CUtlVector<CHandle<CBaseFlex>, CUtlMemory<CHandle<CBaseFlex>, int>>, 13>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<CHandle<CBaseFlex>, CUtlMemory<CHandle<CBaseFlex>, int>>, 13>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<CHandle<CBaseFlex>, CUtlMemory<CHandle<CBaseFlex>, int>>, 13>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>, 13>:
+    [0] CUtlVectorDataOps<CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>, 13>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>, 13>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>, 13>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<CPassengerInfo, CUtlMemory<CPassengerInfo, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<CPassengerInfo, CUtlMemory<CPassengerInfo, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<CPassengerInfo, CUtlMemory<CPassengerInfo, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<CPassengerInfo, CUtlMemory<CPassengerInfo, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<CHandle<CSceneListManager>, CUtlMemory<CHandle<CSceneListManager>, int>>, 13>:
+    [0] CUtlVectorDataOps<CUtlVector<CHandle<CSceneListManager>, CUtlMemory<CHandle<CSceneListManager>, int>>, 13>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<CHandle<CSceneListManager>, CUtlMemory<CHandle<CSceneListManager>, int>>, 13>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<CHandle<CSceneListManager>, CUtlMemory<CHandle<CSceneListManager>, int>>, 13>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<UnreachableEnt_t, CUtlMemory<UnreachableEnt_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<UnreachableEnt_t, CUtlMemory<UnreachableEnt_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<UnreachableEnt_t, CUtlMemory<UnreachableEnt_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<UnreachableEnt_t, CUtlMemory<UnreachableEnt_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<int, CUtlMemory<int, int>>, 5>:
+    [0] CUtlVectorDataOps<CUtlVector<int, CUtlMemory<int, int>>, 5>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<int, CUtlMemory<int, int>>, 5>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<int, CUtlMemory<int, int>>, 5>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<CHandle<CSceneEntity>, CUtlMemory<CHandle<CSceneEntity>, int>>, 13>:
+    [0] CUtlVectorDataOps<CUtlVector<CHandle<CSceneEntity>, CUtlMemory<CHandle<CSceneEntity>, int>>, 13>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<CHandle<CSceneEntity>, CUtlMemory<CHandle<CSceneEntity>, int>>, 13>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<CHandle<CSceneEntity>, CUtlMemory<CHandle<CSceneEntity>, int>>, 13>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<globalentity_t, CUtlMemory<globalentity_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<globalentity_t, CUtlMemory<globalentity_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<globalentity_t, CUtlMemory<globalentity_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<globalentity_t, CUtlMemory<globalentity_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<AISquadEnemyInfo_t, CUtlMemory<AISquadEnemyInfo_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<AISquadEnemyInfo_t, CUtlMemory<AISquadEnemyInfo_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<AISquadEnemyInfo_t, CUtlMemory<AISquadEnemyInfo_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<AISquadEnemyInfo_t, CUtlMemory<AISquadEnemyInfo_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<CHandle<CAI_BaseNPC>, CUtlMemory<CHandle<CAI_BaseNPC>, int>>, 13>:
+    [0] CUtlVectorDataOps<CUtlVector<CHandle<CAI_BaseNPC>, CUtlMemory<CHandle<CAI_BaseNPC>, int>>, 13>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<CHandle<CAI_BaseNPC>, CUtlMemory<CHandle<CAI_BaseNPC>, int>>, 13>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<CHandle<CAI_BaseNPC>, CUtlMemory<CHandle<CAI_BaseNPC>, int>>, 13>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<vehicle_crashsound_t, CUtlMemory<vehicle_crashsound_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<vehicle_crashsound_t, CUtlMemory<vehicle_crashsound_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<vehicle_crashsound_t, CUtlMemory<vehicle_crashsound_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<vehicle_crashsound_t, CUtlMemory<vehicle_crashsound_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<Relationship_t, CUtlMemory<Relationship_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<Relationship_t, CUtlMemory<Relationship_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<Relationship_t, CUtlMemory<Relationship_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<Relationship_t, CUtlMemory<Relationship_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<CHandle<CVGuiScreen>, CUtlMemory<CHandle<CVGuiScreen>, int>>, 13>:
+    [0] CUtlVectorDataOps<CUtlVector<CHandle<CVGuiScreen>, CUtlMemory<CHandle<CVGuiScreen>, int>>, 13>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<CHandle<CVGuiScreen>, CUtlMemory<CHandle<CVGuiScreen>, int>>, 13>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<CHandle<CVGuiScreen>, CUtlMemory<CHandle<CVGuiScreen>, int>>, 13>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<CAI_ScriptConditionsElement, CUtlMemory<CAI_ScriptConditionsElement, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<CAI_ScriptConditionsElement, CUtlMemory<CAI_ScriptConditionsElement, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<CAI_ScriptConditionsElement, CUtlMemory<CAI_ScriptConditionsElement, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<CAI_ScriptConditionsElement, CUtlMemory<CAI_ScriptConditionsElement, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<CBaseEntity*, CUtlMemory<CBaseEntity*, int>>, 12>:
+    [0] CUtlVectorDataOps<CUtlVector<CBaseEntity*, CUtlMemory<CBaseEntity*, int>>, 12>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<CBaseEntity*, CUtlMemory<CBaseEntity*, int>>, 12>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<CBaseEntity*, CUtlMemory<CBaseEntity*, int>>, 12>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<CHandle<CFish>, CUtlMemory<CHandle<CFish>, int>>, 13>:
+    [0] CUtlVectorDataOps<CUtlVector<CHandle<CFish>, CUtlMemory<CHandle<CFish>, int>>, 13>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<CHandle<CFish>, CUtlMemory<CHandle<CFish>, int>>, 13>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<CHandle<CFish>, CUtlMemory<CHandle<CFish>, int>>, 13>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<CHandle<CBasePlayer>, CUtlMemory<CHandle<CBasePlayer>, int>>, 13>:
+    [0] CUtlVectorDataOps<CUtlVector<CHandle<CBasePlayer>, CUtlMemory<CHandle<CBasePlayer>, int>>, 13>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<CHandle<CBasePlayer>, CUtlMemory<CHandle<CBasePlayer>, int>>, 13>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<CHandle<CBasePlayer>, CUtlMemory<CHandle<CBasePlayer>, int>>, 13>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<AI_Waypoint_t, CUtlMemory<AI_Waypoint_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<AI_Waypoint_t, CUtlMemory<AI_Waypoint_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<AI_Waypoint_t, CUtlMemory<AI_Waypoint_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<AI_Waypoint_t, CUtlMemory<AI_Waypoint_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<thinkfunc_t, CUtlMemory<thinkfunc_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<thinkfunc_t, CUtlMemory<thinkfunc_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<thinkfunc_t, CUtlMemory<thinkfunc_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<thinkfunc_t, CUtlMemory<thinkfunc_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<SaveRestoreBlockHeader_t, CUtlMemory<SaveRestoreBlockHeader_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<SaveRestoreBlockHeader_t, CUtlMemory<SaveRestoreBlockHeader_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<SaveRestoreBlockHeader_t, CUtlMemory<SaveRestoreBlockHeader_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<SaveRestoreBlockHeader_t, CUtlMemory<SaveRestoreBlockHeader_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<vehicle_gear_t, CUtlMemory<vehicle_gear_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<vehicle_gear_t, CUtlMemory<vehicle_gear_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<vehicle_gear_t, CUtlMemory<vehicle_gear_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<vehicle_gear_t, CUtlMemory<vehicle_gear_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<physfollower_t, CUtlMemory<physfollower_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<physfollower_t, CUtlMemory<physfollower_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<physfollower_t, CUtlMemory<physfollower_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<physfollower_t, CUtlMemory<physfollower_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<ResponseContext_t, CUtlMemory<ResponseContext_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<ResponseContext_t, CUtlMemory<ResponseContext_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<ResponseContext_t, CUtlMemory<ResponseContext_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<ResponseContext_t, CUtlMemory<ResponseContext_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<magnetted_objects_t, CUtlMemory<magnetted_objects_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<magnetted_objects_t, CUtlMemory<magnetted_objects_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<magnetted_objects_t, CUtlMemory<magnetted_objects_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<magnetted_objects_t, CUtlMemory<magnetted_objects_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+VTable for CUtlVectorDataOps<CUtlVector<ScriptedNPCInteraction_t, CUtlMemory<ScriptedNPCInteraction_t, int>>, 10>:
+    [0] CUtlVectorDataOps<CUtlVector<ScriptedNPCInteraction_t, CUtlMemory<ScriptedNPCInteraction_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlVectorDataOps<CUtlVector<ScriptedNPCInteraction_t, CUtlMemory<ScriptedNPCInteraction_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlVectorDataOps<CUtlVector<ScriptedNPCInteraction_t, CUtlMemory<ScriptedNPCInteraction_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)

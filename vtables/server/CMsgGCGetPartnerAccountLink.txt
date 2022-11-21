@@ -1,0 +1,20 @@
+VTable for CMsgGCGetPartnerAccountLink:
+    [0] CMsgGCGetPartnerAccountLink::~CMsgGCGetPartnerAccountLink()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCGetPartnerAccountLink::New() const
+    [3] CMsgGCGetPartnerAccountLink::Clear()
+    [4] CMsgGCGetPartnerAccountLink::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCGetPartnerAccountLink::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCGetPartnerAccountLink::ByteSize() const
+    [9] CMsgGCGetPartnerAccountLink::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCGetPartnerAccountLink::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCGetPartnerAccountLink::GetCachedSize() const
+    [12] CMsgGCGetPartnerAccountLink::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCGetPartnerAccountLink::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCGetPartnerAccountLink::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCGetPartnerAccountLink::GetMetadata() const

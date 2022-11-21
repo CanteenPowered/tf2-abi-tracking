@@ -1,0 +1,7 @@
+VTable for CTETFExplosion:
+    [0] CTETFExplosion::YouForgotToImplementOrDeclareServerClass()
+    [1] CTETFExplosion::~CTETFExplosion()
+    [2] CTETFExplosion::~CTETFExplosion()
+    [3] CBaseTempEntity::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

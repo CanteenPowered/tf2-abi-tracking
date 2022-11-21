@@ -1,0 +1,20 @@
+VTable for CMsgAMGetUserGameStats:
+    [0] CMsgAMGetUserGameStats::~CMsgAMGetUserGameStats()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgAMGetUserGameStats::New() const
+    [3] CMsgAMGetUserGameStats::Clear()
+    [4] CMsgAMGetUserGameStats::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgAMGetUserGameStats::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgAMGetUserGameStats::ByteSize() const
+    [9] CMsgAMGetUserGameStats::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgAMGetUserGameStats::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgAMGetUserGameStats::GetCachedSize() const
+    [12] CMsgAMGetUserGameStats::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgAMGetUserGameStats::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgAMGetUserGameStats::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgAMGetUserGameStats::GetMetadata() const

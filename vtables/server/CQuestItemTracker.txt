@@ -1,0 +1,14 @@
+VTable for CQuestItemTracker:
+    [0] CQuestItemTracker::~CQuestItemTracker()
+    [1] CQuestItemTracker::Spew() const
+    [2] CQuestItemTracker::CommitChangesToDB()
+    [3] CQuestItemTracker::OnUpdate()
+    [4] CQuestItemTracker::OnRemove()
+    [5] CQuestItemTracker::FireGameEvent(IGameEvent*)
+    [6] CQuestItemTracker::SOCreated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)
+    [7] CQuestItemTracker::PreSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)
+    [8] CQuestItemTracker::PostSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)
+    [9] CQuestItemTracker::SODestroyed(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)
+    [10] CQuestItemTracker::SOCacheSubscribed(CSteamID const&, GCSDK::ESOCacheEvent)
+    [11] CQuestItemTracker::SOCacheUnsubscribed(CSteamID const&, GCSDK::ESOCacheEvent)
+    [12] CQuestItemTracker::SOUpdated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)

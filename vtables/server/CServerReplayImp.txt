@@ -1,0 +1,3 @@
+VTable for CServerReplayImp:
+    [0] CServerReplayImp::~CServerReplayImp()
+    [1] CServerReplayImp::UploadOgsData(KeyValues*, bool)

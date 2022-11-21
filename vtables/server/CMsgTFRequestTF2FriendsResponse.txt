@@ -1,0 +1,20 @@
+VTable for CMsgTFRequestTF2FriendsResponse:
+    [0] CMsgTFRequestTF2FriendsResponse::~CMsgTFRequestTF2FriendsResponse()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgTFRequestTF2FriendsResponse::New() const
+    [3] CMsgTFRequestTF2FriendsResponse::Clear()
+    [4] CMsgTFRequestTF2FriendsResponse::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgTFRequestTF2FriendsResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgTFRequestTF2FriendsResponse::ByteSize() const
+    [9] CMsgTFRequestTF2FriendsResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgTFRequestTF2FriendsResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgTFRequestTF2FriendsResponse::GetCachedSize() const
+    [12] CMsgTFRequestTF2FriendsResponse::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgTFRequestTF2FriendsResponse::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgTFRequestTF2FriendsResponse::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgTFRequestTF2FriendsResponse::GetMetadata() const

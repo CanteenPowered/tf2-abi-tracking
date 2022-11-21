@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CRobotDestructionVaultTrigger>:
+    [0] CEntityFactory<CRobotDestructionVaultTrigger>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CRobotDestructionVaultTrigger>::GetEntitySize()

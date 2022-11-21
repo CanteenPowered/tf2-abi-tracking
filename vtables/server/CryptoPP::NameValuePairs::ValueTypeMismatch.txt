@@ -1,0 +1,3 @@
+VTable for CryptoPP::NameValuePairs::ValueTypeMismatch:
+    [0] CryptoPP::NameValuePairs::ValueTypeMismatch::~ValueTypeMismatch()
+    [1] CryptoPP::Exception::what() const

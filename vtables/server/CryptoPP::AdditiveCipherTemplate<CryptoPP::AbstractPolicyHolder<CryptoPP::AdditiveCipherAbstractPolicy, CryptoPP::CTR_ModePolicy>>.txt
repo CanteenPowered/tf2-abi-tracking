@@ -1,0 +1,11 @@
+VTable for CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::OFB_ModePolicy>>:
+    [0] CryptoPP::CryptoMaterial::ThrowIfInvalid(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    [1] CryptoPP::CryptoMaterial::Save(CryptoPP::BufferedTransformation&) const
+    [2] CryptoPP::CryptoMaterial::Load(CryptoPP::BufferedTransformation&)
+    [3] CryptoPP::CryptoMaterial::SupportsPrecomputation() const
+    [4] CryptoPP::CryptoMaterial::Precompute(unsigned int)
+    [5] CryptoPP::CryptoMaterial::LoadPrecomputation(CryptoPP::BufferedTransformation&)
+    [6] CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    [7] CryptoPP::GeneratableCryptoMaterial::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+VTable for CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>:
+VTable for CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::SymmetricCipher>>:

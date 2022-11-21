@@ -1,0 +1,3 @@
+VTable for CNoHoliday:
+    [0] CNoHoliday::~CNoHoliday()
+    [1] CNoHoliday::IsActive(CRTime const&)

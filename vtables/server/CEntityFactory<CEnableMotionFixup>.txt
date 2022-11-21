@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CEnableMotionFixup>:
+    [0] CEntityFactory<CEnableMotionFixup>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CEnableMotionFixup>::GetEntitySize()

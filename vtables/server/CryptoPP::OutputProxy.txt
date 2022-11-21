@@ -1,0 +1,3 @@
+VTable for CryptoPP::OutputProxy:
+    [0] CryptoPP::FilterWithBufferedInput::FlushDerived()
+    [1] CryptoPP::FilterWithBufferedInput::NextPut(unsigned char const*, unsigned int)

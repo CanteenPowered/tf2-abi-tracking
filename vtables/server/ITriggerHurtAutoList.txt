@@ -1,0 +1,2 @@
+VTable for ITriggerHurtAutoList:
+    [0] ITriggerHurtAutoList::~ITriggerHurtAutoList()

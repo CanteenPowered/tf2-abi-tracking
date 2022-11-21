@@ -1,0 +1,3 @@
+VTable for GCSDK::CWorkThreadPool:
+    [0] GCSDK::CWorkThreadPool::~CWorkThreadPool()
+    [1] GCSDK::CWorkThreadPool::OnWorkItemCompleted(GCSDK::CWorkItem*)

@@ -1,0 +1,2 @@
+VTable for CSceneFindMarkFilter:
+    [0] CSceneFindMarkFilter::GetFilterResult()

@@ -1,0 +1,20 @@
+VTable for CMsgGCQuestIdentify:
+    [0] CMsgGCQuestIdentify::~CMsgGCQuestIdentify()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCQuestIdentify::New() const
+    [3] CMsgGCQuestIdentify::Clear()
+    [4] CMsgGCQuestIdentify::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCQuestIdentify::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCQuestIdentify::ByteSize() const
+    [9] CMsgGCQuestIdentify::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCQuestIdentify::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCQuestIdentify::GetCachedSize() const
+    [12] CMsgGCQuestIdentify::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCQuestIdentify::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCQuestIdentify::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCQuestIdentify::GetMetadata() const

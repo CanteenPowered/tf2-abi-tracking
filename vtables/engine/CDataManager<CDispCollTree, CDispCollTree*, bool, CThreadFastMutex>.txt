@@ -1,0 +1,7 @@
+VTable for CDataManager<CDispCollTree, CDispCollTree*, bool, CThreadFastMutex>:
+    [0] CDataManager<CDispCollTree, CDispCollTree*, bool, CThreadFastMutex>::TryLock()
+    [1] CDataManager<CDispCollTree, CDispCollTree*, bool, CThreadFastMutex>::Unlock()
+    [2] CDataManager<CDispCollTree, CDispCollTree*, bool, CThreadFastMutex>::~CDataManager()
+    [3] CDataManager<CDispCollTree, CDispCollTree*, bool, CThreadFastMutex>::~CDataManager()
+    [4] CDataManager<CDispCollTree, CDispCollTree*, bool, CThreadFastMutex>::DestroyResourceStorage(void*)
+    [5] CDataManager<CDispCollTree, CDispCollTree*, bool, CThreadFastMutex>::GetRealSize(void*)

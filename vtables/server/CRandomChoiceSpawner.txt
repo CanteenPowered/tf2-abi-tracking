@@ -1,0 +1,12 @@
+VTable for CRandomChoiceSpawner:
+    [0] CRandomChoiceSpawner::~CRandomChoiceSpawner()
+    [1] CRandomChoiceSpawner::Parse(KeyValues*)
+    [2] CRandomChoiceSpawner::Spawn(Vector const&, CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>*)
+    [3] IPopulationSpawner::IsWhereRequired() const
+    [4] CRandomChoiceSpawner::IsVarious()
+    [5] CRandomChoiceSpawner::GetClass(int)
+    [6] CRandomChoiceSpawner::GetClassIcon(int)
+    [7] CRandomChoiceSpawner::GetHealth(int)
+    [8] CRandomChoiceSpawner::IsMiniBoss(int)
+    [9] CRandomChoiceSpawner::HasAttribute(CTFBot::AttributeType, int)
+    [10] CRandomChoiceSpawner::HasEventChangeAttributes(char const*) const

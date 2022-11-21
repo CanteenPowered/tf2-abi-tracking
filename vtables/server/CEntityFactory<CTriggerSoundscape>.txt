@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTriggerSoundscape>:
+    [0] CEntityFactory<CTriggerSoundscape>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTriggerSoundscape>::GetEntitySize()

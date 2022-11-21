@@ -1,0 +1,2 @@
+VTable for CryptoPP::BlockCipher:
+    [0] CryptoPP::BlockCipher::~BlockCipher()

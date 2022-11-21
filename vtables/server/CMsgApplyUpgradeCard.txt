@@ -1,0 +1,20 @@
+VTable for CMsgApplyUpgradeCard:
+    [0] CMsgApplyUpgradeCard::~CMsgApplyUpgradeCard()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgApplyUpgradeCard::New() const
+    [3] CMsgApplyUpgradeCard::Clear()
+    [4] CMsgApplyUpgradeCard::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgApplyUpgradeCard::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgApplyUpgradeCard::ByteSize() const
+    [9] CMsgApplyUpgradeCard::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgApplyUpgradeCard::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgApplyUpgradeCard::GetCachedSize() const
+    [12] CMsgApplyUpgradeCard::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgApplyUpgradeCard::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgApplyUpgradeCard::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgApplyUpgradeCard::GetMetadata() const

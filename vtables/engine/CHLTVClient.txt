@@ -1,0 +1,75 @@
+VTable for CHLTVClient:
+    [0] CHLTVClient::~CHLTVClient()
+    [1] CBaseClient::FireGameEvent(IGameEvent*)
+    [2] CBaseClient::GetPlayerSlot() const
+    [3] CBaseClient::GetUserID() const
+    [4] CBaseClient::GetNetworkID() const
+    [5] CBaseClient::GetClientName() const
+    [6] CBaseClient::GetNetChannel()
+    [7] CBaseClient::GetServer()
+    [8] CBaseClient::GetUserSetting(char const*) const
+    [9] CBaseClient::GetNetworkIDString() const
+    [10] CBaseClient::Connect(char const*, int, INetChannel*, bool, int)
+    [11] CBaseClient::Inactivate()
+    [12] CBaseClient::Reconnect()
+    [13] CBaseClient::Disconnect(char const*, ...)
+    [14] CHLTVClient::SetRate(int, bool)
+    [15] CBaseClient::GetRate() const
+    [16] CHLTVClient::SetUpdateRate(int, bool)
+    [17] CBaseClient::GetUpdateRate() const
+    [18] CBaseClient::Clear()
+    [19] CBaseClient::DemoRestart()
+    [20] CBaseClient::GetMaxAckTickCount() const
+    [21] CHLTVClient::ExecuteStringCommand(char const*)
+    [22] CBaseClient::SendNetMsg(INetMessage&, bool)
+    [23] CBaseClient::ClientPrintf(char const*, ...)
+    [24] CBaseClient::IsConnected() const
+    [25] CBaseClient::IsSpawned() const
+    [26] CBaseClient::IsActive() const
+    [27] CBaseClient::IsFakeClient() const
+    [28] CBaseClient::IsHLTV() const
+    [29] CBaseClient::IsReplay() const
+    [30] CBaseClient::IsHearingClient(int) const
+    [31] CBaseClient::IsProximityHearingClient(int) const
+    [32] CBaseClient::SetMaxRoutablePayloadSize(int)
+    [33] CBaseClient::IsSplitScreenUser() const
+    [34] CBaseClient::ProcessTick(NET_Tick*)
+    [35] CBaseClient::ProcessStringCmd(NET_StringCmd*)
+    [36] CHLTVClient::ProcessSetConVar(NET_SetConVar*)
+    [37] CBaseClient::ProcessSignonState(NET_SignonState*)
+    [38] CHLTVClient::ProcessClientInfo(CLC_ClientInfo*)
+    [39] CBaseClient::ProcessBaselineAck(CLC_BaselineAck*)
+    [40] CHLTVClient::ProcessListenEvents(CLC_ListenEvents*)
+    [41] CBaseClient::ProcessCmdKeyValues(CLC_CmdKeyValues*)
+    [42] CBaseClient::ConnectionStart(INetChannel*)
+    [43] CBaseClient::UpdateAcknowledgedFramecount(int)
+    [44] CHLTVClient::ShouldSendMessages()
+    [45] CBaseClient::UpdateSendState()
+    [46] CBaseClient::FillUserInfo(player_info_s&)
+    [47] CHLTVClient::UpdateUserSettings()
+    [48] CBaseClient::SetSignonState(int, int)
+    [49] CBaseClient::WriteGameSounds(bf_write&)
+    [50] CHLTVClient::GetDeltaFrame(int)
+    [51] CHLTVClient::SendSnapshot(CClientFrame*)
+    [52] CBaseClient::SendServerInfo()
+    [53] CHLTVClient::SendSignonData()
+    [54] CHLTVClient::SpawnPlayer()
+    [55] CBaseClient::ActivatePlayer()
+    [56] CBaseClient::SetName(char const*)
+    [57] CBaseClient::SetUserCVar(char const*, char const*)
+    [58] CBaseClient::FreeBaselines()
+    [59] CBaseClient::IgnoreTempEntity(CEventInfo*)
+    [60] CHLTVClient::ConnectionClosing(char const*)
+    [61] CHLTVClient::ConnectionCrashed(char const*)
+    [62] CHLTVClient::PacketStart(int, int)
+    [63] CHLTVClient::PacketEnd()
+    [64] CHLTVClient::FileReceived(char const*, unsigned int)
+    [65] CHLTVClient::FileRequested(char const*, unsigned int)
+    [66] CHLTVClient::FileDenied(char const*, unsigned int)
+    [67] CHLTVClient::FileSent(char const*, unsigned int)
+    [68] CHLTVClient::ProcessMove(CLC_Move*)
+    [69] CHLTVClient::ProcessVoiceData(CLC_VoiceData*)
+    [70] CHLTVClient::ProcessRespondCvarValue(CLC_RespondCvarValue*)
+    [71] CHLTVClient::ProcessFileCRCCheck(CLC_FileCRCCheck*)
+    [72] CHLTVClient::ProcessFileMD5Check(CLC_FileMD5Check*)
+    [73] CHLTVClient::ProcessSaveReplay(CLC_SaveReplay*)

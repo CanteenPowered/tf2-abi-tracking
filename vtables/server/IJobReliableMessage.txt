@@ -1,0 +1,8 @@
+VTable for IJobReliableMessage:
+    [0] IJobReliableMessage::~IJobReliableMessage()
+    [1] GCSDK::CGCClientJob::BYieldingRunJob(void*)
+    [2] GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)
+    [3] GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()
+    [4] GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)
+    [5] GCSDK::CGCClientJob::BYieldingRunGCJob()
+    [6] GCSDK::CGCClientJob::GetServerType()

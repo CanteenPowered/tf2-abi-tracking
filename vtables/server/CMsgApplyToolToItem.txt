@@ -1,0 +1,20 @@
+VTable for CMsgApplyToolToItem:
+    [0] CMsgApplyToolToItem::~CMsgApplyToolToItem()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgApplyToolToItem::New() const
+    [3] CMsgApplyToolToItem::Clear()
+    [4] CMsgApplyToolToItem::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgApplyToolToItem::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgApplyToolToItem::ByteSize() const
+    [9] CMsgApplyToolToItem::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgApplyToolToItem::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgApplyToolToItem::GetCachedSize() const
+    [12] CMsgApplyToolToItem::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgApplyToolToItem::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgApplyToolToItem::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgApplyToolToItem::GetMetadata() const

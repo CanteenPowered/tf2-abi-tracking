@@ -1,0 +1,2 @@
+VTable for CEntityInfo:
+    [0] CEntityInfo::~CEntityInfo()

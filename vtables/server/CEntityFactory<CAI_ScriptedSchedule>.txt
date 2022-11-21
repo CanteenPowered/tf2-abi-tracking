@@ -1,0 +1,9 @@
+VTable for CEntityFactory<CAI_ScriptedSchedule>:
+    [0] CEntityFactory<CAI_ScriptedSchedule>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CAI_ScriptedSchedule>::GetEntitySize()
+VTable for CEntityFactory<CAI_ScriptedSentence>:
+    [0] CEntityFactory<CAI_ScriptedSentence>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CAI_ScriptedSentence>::GetEntitySize()
+VTable for CEntityFactory<CAI_ScriptedSequence>:
+    [0] CEntityFactory<CAI_ScriptedSequence>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CAI_ScriptedSequence>::GetEntitySize()

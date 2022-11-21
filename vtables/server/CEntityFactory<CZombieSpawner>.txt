@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CZombieSpawner>:
+    [0] CEntityFactory<CZombieSpawner>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CZombieSpawner>::GetEntitySize()

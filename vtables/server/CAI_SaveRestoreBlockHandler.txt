@@ -1,0 +1,9 @@
+VTable for CAI_SaveRestoreBlockHandler:
+    [0] CDefSaveRestoreBlockHandler::PreSave(CSaveRestoreData*)
+    [1] CAI_SaveRestoreBlockHandler::Save(ISave*)
+    [2] CAI_SaveRestoreBlockHandler::WriteSaveHeaders(ISave*)
+    [3] CDefSaveRestoreBlockHandler::PostSave()
+    [4] CDefSaveRestoreBlockHandler::PreRestore()
+    [5] CAI_SaveRestoreBlockHandler::ReadRestoreHeaders(IRestore*)
+    [6] CAI_SaveRestoreBlockHandler::Restore(IRestore*, bool)
+    [7] CAI_SaveRestoreBlockHandler::PostRestore()

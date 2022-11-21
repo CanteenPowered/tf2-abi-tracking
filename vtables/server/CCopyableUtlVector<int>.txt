@@ -1,0 +1,2 @@
+VTable for CCopyableUtlVector<int>:
+    [0] CCopyableUtlVector<int>::~CCopyableUtlVector()

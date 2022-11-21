@@ -1,0 +1,3 @@
+VTable for CHLTVFrame:
+    [0] CHLTVFrame::~CHLTVFrame()
+    [1] CHLTVFrame::IsMemPoolAllocated()

@@ -1,0 +1,20 @@
+VTable for CMsgAMSendEmail:
+    [0] CMsgAMSendEmail::~CMsgAMSendEmail()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgAMSendEmail::New() const
+    [3] CMsgAMSendEmail::Clear()
+    [4] CMsgAMSendEmail::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgAMSendEmail::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgAMSendEmail::ByteSize() const
+    [9] CMsgAMSendEmail::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgAMSendEmail::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgAMSendEmail::GetCachedSize() const
+    [12] CMsgAMSendEmail::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgAMSendEmail::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgAMSendEmail::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgAMSendEmail::GetMetadata() const

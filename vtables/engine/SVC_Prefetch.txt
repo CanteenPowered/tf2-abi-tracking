@@ -1,0 +1,16 @@
+VTable for SVC_Prefetch:
+    [0] SVC_Prefetch::~SVC_Prefetch()
+    [1] CNetMessage::SetNetChannel(INetChannel*)
+    [2] CNetMessage::SetReliable(bool)
+    [3] SVC_Prefetch::Process()
+    [4] SVC_Prefetch::ReadFromBuffer(bf_read&)
+    [5] SVC_Prefetch::WriteToBuffer(bf_write&)
+    [6] CNetMessage::IsReliable() const
+    [7] SVC_Prefetch::GetType() const
+    [8] SVC_Prefetch::GetGroup() const
+    [9] SVC_Prefetch::GetName() const
+    [10] CNetMessage::GetNetChannel() const
+    [11] SVC_Prefetch::ToString() const
+    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
+    [13] SVC_Prefetch::GetSize() const
+    [14] CNetMessage::SetRatePolicy()

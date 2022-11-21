@@ -1,0 +1,6 @@
+VTable for CCallResult<CUGCFileRequest, RemoteStorageDownloadUGCResult_t>:
+    [0] CCallResult<CUGCFileRequest, RemoteStorageDownloadUGCResult_t>::Run(void*, bool, unsigned long long)
+    [1] CCallResult<CUGCFileRequest, RemoteStorageDownloadUGCResult_t>::GetCallbackSizeBytes()
+VTable for CCallResult<CUGCFileRequest, RemoteStorageFileShareResult_t>:
+    [0] CCallResult<CUGCFileRequest, RemoteStorageFileShareResult_t>::Run(void*, bool, unsigned long long)
+    [1] CCallResult<CUGCFileRequest, RemoteStorageFileShareResult_t>::GetCallbackSizeBytes()

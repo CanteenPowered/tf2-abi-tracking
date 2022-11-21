@@ -1,0 +1,2 @@
+VTable for ITFTeamSpawnAutoList:
+    [0] ITFTeamSpawnAutoList::~ITFTeamSpawnAutoList()

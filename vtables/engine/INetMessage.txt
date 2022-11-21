@@ -1,0 +1,2 @@
+VTable for INetMessage:
+    [0] INetMessage::~INetMessage()

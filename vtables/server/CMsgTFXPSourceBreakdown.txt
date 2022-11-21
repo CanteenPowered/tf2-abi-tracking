@@ -1,0 +1,20 @@
+VTable for CMsgTFXPSourceBreakdown:
+    [0] CMsgTFXPSourceBreakdown::~CMsgTFXPSourceBreakdown()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgTFXPSourceBreakdown::New() const
+    [3] CMsgTFXPSourceBreakdown::Clear()
+    [4] CMsgTFXPSourceBreakdown::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgTFXPSourceBreakdown::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgTFXPSourceBreakdown::ByteSize() const
+    [9] CMsgTFXPSourceBreakdown::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgTFXPSourceBreakdown::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgTFXPSourceBreakdown::GetCachedSize() const
+    [12] CMsgTFXPSourceBreakdown::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgTFXPSourceBreakdown::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgTFXPSourceBreakdown::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgTFXPSourceBreakdown::GetMetadata() const

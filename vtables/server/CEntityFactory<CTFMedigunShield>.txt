@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFMedigunShield>:
+    [0] CEntityFactory<CTFMedigunShield>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFMedigunShield>::GetEntitySize()

@@ -1,0 +1,2 @@
+VTable for audioparams_t:
+    [0] audioparams_t::NetworkStateChanged(void*)

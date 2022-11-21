@@ -1,0 +1,46 @@
+VTable for CryptoPP::ModePolicyCommonTemplate<CryptoPP::CFB_CipherAbstractPolicy>:
+    [0] CryptoPP::CipherModeFinalTemplate_ExternalCipher<CryptoPP::CBC_CTS_Encryption>::~CipherModeFinalTemplate_ExternalCipher()
+    [1] CryptoPP::CipherModeBase::MinKeyLength() const
+    [2] CryptoPP::CipherModeBase::MaxKeyLength() const
+    [3] CryptoPP::CipherModeBase::DefaultKeyLength() const
+    [4] CryptoPP::CipherModeBase::GetValidKeyLength(unsigned int) const
+    [5] CryptoPP::CipherModeBase::IsValidKeyLength(unsigned int) const
+    [6] CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [7] CryptoPP::CBC_ModeBase::IVRequirement() const
+    [8] CryptoPP::CipherModeBase::IVSize() const
+    [9] CryptoPP::SimpleKeyingInterface::MinIVLength() const
+    [10] CryptoPP::SimpleKeyingInterface::MaxIVLength() const
+    [11] CryptoPP::BlockOrientedCipherModeBase::Resynchronize(unsigned char const*, int)
+    [12] CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator&, unsigned char*)
+    [13] CryptoPP::SymmetricCipher::GetAlgorithm() const
+    [14] CryptoPP::CBC_CTS_Encryption::UncheckedSetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [15] CryptoPP::CipherModeBase::OptimalDataAlignment() const
+    [16] CryptoPP::CipherModeBase::SetFeedbackSize(unsigned int)
+    [17] CryptoPP::BlockOrientedCipherModeBase::ResizeBuffers()
+    [18] CryptoPP::BlockOrientedCipherModeBase::MandatoryBlockSize() const
+    [19] CryptoPP::BlockOrientedCipherModeBase::IsRandomAccess() const
+    [20] CryptoPP::BlockOrientedCipherModeBase::IsSelfInverting() const
+    [21] CryptoPP::BlockOrientedCipherModeBase::IsForwardTransformation() const
+    [22] CryptoPP::CBC_CTS_Encryption::MinLastBlockSize() const
+    [23] CryptoPP::CBC_Encryption::ProcessData(unsigned char*, unsigned char const*, unsigned int)
+    [24] CryptoPP::CBC_CTS_Encryption::ProcessLastBlock(unsigned char*, unsigned char const*, unsigned int)
+    [25] CryptoPP::CipherModeFinalTemplate_ExternalCipher<CryptoPP::CBC_CTS_Encryption>::AlgorithmName() const
+VTable for CryptoPP::ModePolicyCommonTemplate<CryptoPP::AdditiveCipherAbstractPolicy>:
+    [0] CryptoPP::CipherModeBase::IVSize() const
+    [1] CryptoPP::SimpleKeyingInterface::MinIVLength() const
+    [2] CryptoPP::SimpleKeyingInterface::MaxIVLength() const
+    [3] CryptoPP::BlockOrientedCipherModeBase::Resynchronize(unsigned char const*, int)
+    [4] CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator&, unsigned char*)
+    [5] CryptoPP::SymmetricCipher::GetAlgorithm() const
+    [6] CryptoPP::BlockOrientedCipherModeBase::UncheckedSetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [7] CryptoPP::CipherModeBase::OptimalDataAlignment() const
+    [8] CryptoPP::CipherModeBase::SetFeedbackSize(unsigned int)
+    [9] CryptoPP::CBC_Decryption::ResizeBuffers()
+    [10] CryptoPP::BlockOrientedCipherModeBase::MandatoryBlockSize() const
+    [11] CryptoPP::BlockOrientedCipherModeBase::IsRandomAccess() const
+    [12] CryptoPP::BlockOrientedCipherModeBase::IsSelfInverting() const
+    [13] CryptoPP::BlockOrientedCipherModeBase::IsForwardTransformation() const
+    [14] CryptoPP::CBC_CTS_Decryption::MinLastBlockSize() const
+    [15] CryptoPP::CBC_Decryption::ProcessData(unsigned char*, unsigned char const*, unsigned int)
+    [16] CryptoPP::CBC_CTS_Decryption::ProcessLastBlock(unsigned char*, unsigned char const*, unsigned int)
+    [17] CryptoPP::CipherModeFinalTemplate_ExternalCipher<CryptoPP::CBC_CTS_Decryption>::AlgorithmName() const

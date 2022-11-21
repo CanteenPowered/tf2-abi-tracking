@@ -1,0 +1,3 @@
+VTable for GCSDK::CProtoBufMsg<CMsgTFQuickplay_PlayerJoining>:
+    [0] GCSDK::CProtoBufMsg<CMsgTFQuickplay_PlayerJoining>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgTFQuickplay_PlayerJoining>::GetGenericBody() const

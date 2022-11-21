@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTriggerTimerDoor>:
+    [0] CEntityFactory<CTriggerTimerDoor>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTriggerTimerDoor>::GetEntitySize()

@@ -1,0 +1,2 @@
+VTable for IServerUnknown:
+    [0] IServerUnknown::~IServerUnknown()

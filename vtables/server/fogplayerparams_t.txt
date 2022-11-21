@@ -1,0 +1,2 @@
+VTable for fogplayerparams_t:
+    [0] fogplayerparams_t::NetworkStateChanged(void*)

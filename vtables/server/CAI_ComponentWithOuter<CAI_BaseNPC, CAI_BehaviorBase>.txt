@@ -1,0 +1,5 @@
+VTable for CAI_ComponentWithOuter<CAI_BaseNPC, CAI_BehaviorBase>:
+    [0] CAI_ComponentWithOuter<CAI_BaseNPC, CAI_BehaviorBase>::~CAI_ComponentWithOuter()
+    [1] CAI_ComponentWithOuter<CAI_BaseNPC, CAI_BehaviorBase>::SetOuter(CAI_BaseNPC*)
+    [2] CAI_Component::TaskFail(int)
+    [3] CAI_Component::TaskComplete(bool)

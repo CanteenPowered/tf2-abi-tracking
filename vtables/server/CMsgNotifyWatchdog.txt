@@ -1,0 +1,20 @@
+VTable for CMsgNotifyWatchdog:
+    [0] CMsgNotifyWatchdog::~CMsgNotifyWatchdog()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgNotifyWatchdog::New() const
+    [3] CMsgNotifyWatchdog::Clear()
+    [4] CMsgNotifyWatchdog::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgNotifyWatchdog::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgNotifyWatchdog::ByteSize() const
+    [9] CMsgNotifyWatchdog::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgNotifyWatchdog::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgNotifyWatchdog::GetCachedSize() const
+    [12] CMsgNotifyWatchdog::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgNotifyWatchdog::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgNotifyWatchdog::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgNotifyWatchdog::GetMetadata() const

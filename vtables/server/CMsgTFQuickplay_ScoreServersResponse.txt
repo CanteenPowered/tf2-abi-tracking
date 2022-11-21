@@ -1,0 +1,80 @@
+VTable for CMsgTFQuickplay_ScoreServers_ServerInfo:
+    [0] CMsgTFQuickplay_ScoreServers_ServerInfo::~CMsgTFQuickplay_ScoreServers_ServerInfo()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgTFQuickplay_ScoreServers_ServerInfo::New() const
+    [3] CMsgTFQuickplay_ScoreServers_ServerInfo::Clear()
+    [4] CMsgTFQuickplay_ScoreServers_ServerInfo::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgTFQuickplay_ScoreServers_ServerInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgTFQuickplay_ScoreServers_ServerInfo::ByteSize() const
+    [9] CMsgTFQuickplay_ScoreServers_ServerInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgTFQuickplay_ScoreServers_ServerInfo::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgTFQuickplay_ScoreServers_ServerInfo::GetCachedSize() const
+    [12] CMsgTFQuickplay_ScoreServers_ServerInfo::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgTFQuickplay_ScoreServers_ServerInfo::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgTFQuickplay_ScoreServers_ServerInfo::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgTFQuickplay_ScoreServers_ServerInfo::GetMetadata() const
+VTable for CMsgTFQuickplay_ScoreServersResponse:
+    [0] CMsgTFQuickplay_ScoreServersResponse::~CMsgTFQuickplay_ScoreServersResponse()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgTFQuickplay_ScoreServersResponse::New() const
+    [3] CMsgTFQuickplay_ScoreServersResponse::Clear()
+    [4] CMsgTFQuickplay_ScoreServersResponse::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgTFQuickplay_ScoreServersResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgTFQuickplay_ScoreServersResponse::ByteSize() const
+    [9] CMsgTFQuickplay_ScoreServersResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgTFQuickplay_ScoreServersResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgTFQuickplay_ScoreServersResponse::GetCachedSize() const
+    [12] CMsgTFQuickplay_ScoreServersResponse::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgTFQuickplay_ScoreServersResponse::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgTFQuickplay_ScoreServersResponse::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgTFQuickplay_ScoreServersResponse::GetMetadata() const
+VTable for CMsgTFQuickplay_ScoreServersResponse_ServerInfo:
+    [0] CMsgTFQuickplay_ScoreServersResponse_ServerInfo::~CMsgTFQuickplay_ScoreServersResponse_ServerInfo()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgTFQuickplay_ScoreServersResponse_ServerInfo::New() const
+    [3] CMsgTFQuickplay_ScoreServersResponse_ServerInfo::Clear()
+    [4] CMsgTFQuickplay_ScoreServersResponse_ServerInfo::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgTFQuickplay_ScoreServersResponse_ServerInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgTFQuickplay_ScoreServersResponse_ServerInfo::ByteSize() const
+    [9] CMsgTFQuickplay_ScoreServersResponse_ServerInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgTFQuickplay_ScoreServersResponse_ServerInfo::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgTFQuickplay_ScoreServersResponse_ServerInfo::GetCachedSize() const
+    [12] CMsgTFQuickplay_ScoreServersResponse_ServerInfo::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgTFQuickplay_ScoreServersResponse_ServerInfo::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgTFQuickplay_ScoreServersResponse_ServerInfo::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgTFQuickplay_ScoreServersResponse_ServerInfo::GetMetadata() const
+VTable for CMsgTFQuickplay_ScoreServers:
+    [0] CMsgTFQuickplay_ScoreServers::~CMsgTFQuickplay_ScoreServers()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgTFQuickplay_ScoreServers::New() const
+    [3] CMsgTFQuickplay_ScoreServers::Clear()
+    [4] CMsgTFQuickplay_ScoreServers::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgTFQuickplay_ScoreServers::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgTFQuickplay_ScoreServers::ByteSize() const
+    [9] CMsgTFQuickplay_ScoreServers::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgTFQuickplay_ScoreServers::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgTFQuickplay_ScoreServers::GetCachedSize() const
+    [12] CMsgTFQuickplay_ScoreServers::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgTFQuickplay_ScoreServers::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgTFQuickplay_ScoreServers::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgTFQuickplay_ScoreServers::GetMetadata() const

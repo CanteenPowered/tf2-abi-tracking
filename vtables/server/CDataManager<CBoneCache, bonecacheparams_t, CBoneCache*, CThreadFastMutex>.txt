@@ -1,0 +1,7 @@
+VTable for CDataManager<CBoneCache, bonecacheparams_t, CBoneCache*, CThreadFastMutex>:
+    [0] CDataManager<CBoneCache, bonecacheparams_t, CBoneCache*, CThreadFastMutex>::TryLock()
+    [1] CDataManager<CBoneCache, bonecacheparams_t, CBoneCache*, CThreadFastMutex>::Unlock()
+    [2] CDataManager<CBoneCache, bonecacheparams_t, CBoneCache*, CThreadFastMutex>::~CDataManager()
+    [3] CDataManager<CBoneCache, bonecacheparams_t, CBoneCache*, CThreadFastMutex>::~CDataManager()
+    [4] CDataManager<CBoneCache, bonecacheparams_t, CBoneCache*, CThreadFastMutex>::DestroyResourceStorage(void*)
+    [5] CDataManager<CBoneCache, bonecacheparams_t, CBoneCache*, CThreadFastMutex>::GetRealSize(void*)

@@ -1,0 +1,8 @@
+VTable for CGC_RespawnPostLoadoutChange:
+    [0] CGC_RespawnPostLoadoutChange::~CGC_RespawnPostLoadoutChange()
+    [1] GCSDK::CGCClientJob::BYieldingRunJob(void*)
+    [2] GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)
+    [3] GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()
+    [4] CGC_RespawnPostLoadoutChange::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)
+    [5] GCSDK::CGCClientJob::BYieldingRunGCJob()
+    [6] GCSDK::CGCClientJob::GetServerType()

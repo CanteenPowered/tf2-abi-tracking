@@ -1,0 +1,2 @@
+VTable for CBaseRopePhysics:
+    [0] CBaseRopePhysics::ApplyConstraints(CSimplePhysics::CNode*, int)

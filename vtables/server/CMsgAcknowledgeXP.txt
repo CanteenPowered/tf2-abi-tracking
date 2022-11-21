@@ -1,0 +1,20 @@
+VTable for CMsgAcknowledgeXP:
+    [0] CMsgAcknowledgeXP::~CMsgAcknowledgeXP()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgAcknowledgeXP::New() const
+    [3] CMsgAcknowledgeXP::Clear()
+    [4] CMsgAcknowledgeXP::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgAcknowledgeXP::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgAcknowledgeXP::ByteSize() const
+    [9] CMsgAcknowledgeXP::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgAcknowledgeXP::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgAcknowledgeXP::GetCachedSize() const
+    [12] CMsgAcknowledgeXP::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgAcknowledgeXP::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgAcknowledgeXP::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgAcknowledgeXP::GetMetadata() const

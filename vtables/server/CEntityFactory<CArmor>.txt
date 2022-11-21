@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CArmor>:
+    [0] CEntityFactory<CArmor>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CArmor>::GetEntitySize()

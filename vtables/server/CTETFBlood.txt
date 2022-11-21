@@ -1,0 +1,7 @@
+VTable for CTETFBlood:
+    [0] CTETFBlood::YouForgotToImplementOrDeclareServerClass()
+    [1] CTETFBlood::~CTETFBlood()
+    [2] CTETFBlood::~CTETFBlood()
+    [3] CTETFBlood::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

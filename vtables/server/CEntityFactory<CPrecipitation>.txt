@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPrecipitation>:
+    [0] CEntityFactory<CPrecipitation>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPrecipitation>::GetEntitySize()

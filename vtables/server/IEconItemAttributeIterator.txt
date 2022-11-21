@@ -1,0 +1,2 @@
+VTable for IEconItemAttributeIterator:
+    [0] IEconItemAttributeIterator::~IEconItemAttributeIterator()

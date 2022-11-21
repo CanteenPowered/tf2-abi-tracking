@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CDynamicProp>:
+    [0] CEntityFactory<CDynamicProp>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CDynamicProp>::GetEntitySize()

@@ -1,0 +1,9 @@
+VTable for ThreadPoolTest::CCountJob:
+    [0] CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT>>::Release()
+    [1] ThreadPoolTest::CCountJob::~CCountJob()
+    [2] ThreadPoolTest::CCountJob::~CCountJob()
+    [3] CJob::Describe()
+    [4] CJob::SetDescription(char const*)
+    [5] ThreadPoolTest::CCountJob::DoExecute()
+    [6] CJob::DoAbort(bool)
+    [7] CJob::DoCleanup()

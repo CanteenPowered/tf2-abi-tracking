@@ -1,0 +1,40 @@
+VTable for CMsgNotificationOfSuspiciousActivity_MultipleGameInstances:
+    [0] CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::~CMsgNotificationOfSuspiciousActivity_MultipleGameInstances()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::New() const
+    [3] CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::Clear()
+    [4] CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::ByteSize() const
+    [9] CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::GetCachedSize() const
+    [12] CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::GetMetadata() const
+VTable for CMsgNotificationOfSuspiciousActivity:
+    [0] CMsgNotificationOfSuspiciousActivity::~CMsgNotificationOfSuspiciousActivity()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgNotificationOfSuspiciousActivity::New() const
+    [3] CMsgNotificationOfSuspiciousActivity::Clear()
+    [4] CMsgNotificationOfSuspiciousActivity::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgNotificationOfSuspiciousActivity::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgNotificationOfSuspiciousActivity::ByteSize() const
+    [9] CMsgNotificationOfSuspiciousActivity::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgNotificationOfSuspiciousActivity::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgNotificationOfSuspiciousActivity::GetCachedSize() const
+    [12] CMsgNotificationOfSuspiciousActivity::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgNotificationOfSuspiciousActivity::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgNotificationOfSuspiciousActivity::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgNotificationOfSuspiciousActivity::GetMetadata() const

@@ -1,0 +1,6 @@
+VTable for CSearchForCover:
+    [0] CSearchForCover::~CSearchForCover()
+    [1] CSearchForCover::operator()(CNavArea*, CNavArea*, float)
+    [2] CSearchForCover::ShouldSearch(CNavArea*, CNavArea*, float)
+    [3] ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)
+    [4] CSearchForCover::PostSearch()

@@ -1,0 +1,2 @@
+VTable for CryptoPP::PK_CryptoSystem:
+    [0] CryptoPP::PK_CryptoSystem::~PK_CryptoSystem()

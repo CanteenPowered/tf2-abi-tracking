@@ -1,0 +1,2 @@
+VTable for CGlobalEntityList:
+    [0] CGlobalEntityList::OnRemoveEntity(IHandleEntity*, CBaseHandle)

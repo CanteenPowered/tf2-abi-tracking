@@ -1,0 +1,9 @@
+VTable for CAI_ProxyMovementSink:
+    [0] CAI_ProxyMovementSink::OnCalcBaseMove(AILocalMoveGoal_t*, float, AIMoveResult_t*)
+    [1] CAI_ProxyMovementSink::OnObstructionPreSteer(AILocalMoveGoal_t*, float, AIMoveResult_t*)
+    [2] CAI_ProxyMovementSink::OnFailedSteer(AILocalMoveGoal_t*, float, AIMoveResult_t*)
+    [3] CAI_ProxyMovementSink::OnFailedLocalNavigation(AILocalMoveGoal_t*, float, AIMoveResult_t*)
+    [4] CAI_ProxyMovementSink::OnInsufficientStopDist(AILocalMoveGoal_t*, float, AIMoveResult_t*)
+    [5] CAI_ProxyMovementSink::OnMoveBlocked(AIMoveResult_t*)
+    [6] CAI_ProxyMovementSink::OnMoveStalled(AILocalMoveGoal_t const&)
+    [7] CAI_ProxyMovementSink::OnMoveExecuteFailed(AILocalMoveGoal_t const&, AIMoveTrace_t const&, AIMotorMoveResult_t, AIMoveResult_t*)

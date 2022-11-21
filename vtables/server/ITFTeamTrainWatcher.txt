@@ -1,0 +1,2 @@
+VTable for ITFTeamTrainWatcher:
+    [0] ITFTeamTrainWatcher::~ITFTeamTrainWatcher()

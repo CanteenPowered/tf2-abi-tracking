@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTextureToggle>:
+    [0] CEntityFactory<CTextureToggle>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTextureToggle>::GetEntitySize()

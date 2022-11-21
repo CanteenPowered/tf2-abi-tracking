@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CNPC_VehicleDriver>:
+    [0] CEntityFactory<CNPC_VehicleDriver>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CNPC_VehicleDriver>::GetEntitySize()

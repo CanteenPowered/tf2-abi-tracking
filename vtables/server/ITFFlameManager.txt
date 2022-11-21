@@ -1,0 +1,2 @@
+VTable for ITFFlameManager:
+    [0] ITFFlameManager::~ITFFlameManager()

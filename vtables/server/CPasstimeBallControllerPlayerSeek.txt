@@ -1,0 +1,10 @@
+VTable for CPasstimeBallControllerPlayerSeek:
+    [0] CPasstimeBallControllerPlayerSeek::~CPasstimeBallControllerPlayerSeek()
+    [1] CPasstimeBallControllerPlayerSeek::Apply(CPasstimeBall*)
+    [2] CPasstimeBallControllerPlayerSeek::IsActive() const
+    [3] CPasstimeBallController::OnBallCollision(CPasstimeBall*, int, gamevcollisionevent_t*)
+    [4] CPasstimeBallController::OnBallPickedUp(CPasstimeBall*, CTFPlayer*)
+    [5] CPasstimeBallController::OnBallDamaged(CPasstimeBall*)
+    [6] CPasstimeBallControllerPlayerSeek::OnBallSpawned(CPasstimeBall*)
+    [7] CPasstimeBallController::OnEnabled()
+    [8] CPasstimeBallControllerPlayerSeek::OnDisabled()

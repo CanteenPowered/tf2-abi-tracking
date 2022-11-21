@@ -1,0 +1,3 @@
+VTable for GCSDK::IMsgNetPacket:
+    [0] GCSDK::IMsgNetPacket::~IMsgNetPacket()
+    [1] GCSDK::CRefCount::DestroyThis()

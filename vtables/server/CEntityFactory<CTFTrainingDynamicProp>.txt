@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFTrainingDynamicProp>:
+    [0] CEntityFactory<CTFTrainingDynamicProp>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFTrainingDynamicProp>::GetEntitySize()

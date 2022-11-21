@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CGhost>:
+    [0] CEntityFactory<CGhost>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CGhost>::GetEntitySize()

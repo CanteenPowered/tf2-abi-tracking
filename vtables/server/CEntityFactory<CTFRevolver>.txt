@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFRevolver>:
+    [0] CEntityFactory<CTFRevolver>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFRevolver>::GetEntitySize()

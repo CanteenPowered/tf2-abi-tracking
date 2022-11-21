@@ -1,0 +1,4 @@
+VTable for snappy::UncheckedByteArraySink:
+    [0] snappy::UncheckedByteArraySink::~UncheckedByteArraySink()
+    [1] snappy::UncheckedByteArraySink::Append(char const*, unsigned int)
+    [2] snappy::UncheckedByteArraySink::GetAppendBuffer(unsigned int, char*)

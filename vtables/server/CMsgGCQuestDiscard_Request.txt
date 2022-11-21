@@ -1,0 +1,20 @@
+VTable for CMsgGCQuestDiscard_Request:
+    [0] CMsgGCQuestDiscard_Request::~CMsgGCQuestDiscard_Request()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCQuestDiscard_Request::New() const
+    [3] CMsgGCQuestDiscard_Request::Clear()
+    [4] CMsgGCQuestDiscard_Request::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCQuestDiscard_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCQuestDiscard_Request::ByteSize() const
+    [9] CMsgGCQuestDiscard_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCQuestDiscard_Request::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCQuestDiscard_Request::GetCachedSize() const
+    [12] CMsgGCQuestDiscard_Request::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCQuestDiscard_Request::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCQuestDiscard_Request::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCQuestDiscard_Request::GetMetadata() const

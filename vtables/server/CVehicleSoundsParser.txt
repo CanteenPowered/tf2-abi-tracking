@@ -1,0 +1,2 @@
+VTable for CVehicleSoundsParser:
+    [0] CVehicleSoundsParser::SetDefaults(void*)

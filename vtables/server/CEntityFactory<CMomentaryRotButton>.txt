@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CMomentaryRotButton>:
+    [0] CEntityFactory<CMomentaryRotButton>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CMomentaryRotButton>::GetEntitySize()

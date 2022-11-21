@@ -1,0 +1,16 @@
+VTable for SVC_UpdateStringTable:
+    [0] SVC_UpdateStringTable::~SVC_UpdateStringTable()
+    [1] CNetMessage::SetNetChannel(INetChannel*)
+    [2] CNetMessage::SetReliable(bool)
+    [3] SVC_UpdateStringTable::Process()
+    [4] SVC_UpdateStringTable::ReadFromBuffer(bf_read&)
+    [5] SVC_UpdateStringTable::WriteToBuffer(bf_write&)
+    [6] CNetMessage::IsReliable() const
+    [7] SVC_UpdateStringTable::GetType() const
+    [8] SVC_UpdateStringTable::GetGroup() const
+    [9] SVC_UpdateStringTable::GetName() const
+    [10] CNetMessage::GetNetChannel() const
+    [11] SVC_UpdateStringTable::ToString() const
+    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
+    [13] SVC_UpdateStringTable::GetSize() const
+    [14] CNetMessage::SetRatePolicy()

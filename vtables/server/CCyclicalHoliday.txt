@@ -1,0 +1,3 @@
+VTable for CCyclicalHoliday:
+    [0] CCyclicalHoliday::~CCyclicalHoliday()
+    [1] CCyclicalHoliday::IsActive(CRTime const&)

@@ -1,0 +1,7 @@
+VTable for GCSDK::CJobThreadFuncWorkItem:
+    [0] GCSDK::CJobThreadFuncWorkItem::~CJobThreadFuncWorkItem()
+    [1] GCSDK::CRefCount::DestroyThis()
+    [2] GCSDK::CJobThreadFuncWorkItem::GetDispatchCompletedName() const
+    [3] GCSDK::CJobThreadFuncWorkItem::GetThreadProcessName() const
+    [4] GCSDK::CJobThreadFuncWorkItem::ThreadProcess(GCSDK::CWorkThread*)
+    [5] GCSDK::CWorkItem::DispatchCompletedWorkItem(GCSDK::CJobMgr*)

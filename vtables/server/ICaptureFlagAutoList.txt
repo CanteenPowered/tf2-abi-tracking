@@ -1,0 +1,2 @@
+VTable for ICaptureFlagAutoList:
+    [0] ICaptureFlagAutoList::~ICaptureFlagAutoList()

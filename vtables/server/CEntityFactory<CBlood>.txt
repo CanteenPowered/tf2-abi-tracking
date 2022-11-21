@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CBlood>:
+    [0] CEntityFactory<CBlood>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CBlood>::GetEntitySize()

@@ -1,0 +1,7 @@
+VTable for GCSDK::CSharedObjectTypeCache:
+    [0] GCSDK::CSharedObjectTypeCache::~CSharedObjectTypeCache()
+    [1] GCSDK::CSharedObjectTypeCache::AddObject(GCSDK::CSharedObject*)
+    [2] GCSDK::CSharedObjectTypeCache::AddObjectClean(GCSDK::CSharedObject*)
+    [3] GCSDK::CSharedObjectTypeCache::RemoveObject(GCSDK::CSharedObject const&)
+    [4] GCSDK::CSharedObjectTypeCache::EnsureCapacity(unsigned int)
+    [5] GCSDK::CSharedObjectTypeCache::Dump() const

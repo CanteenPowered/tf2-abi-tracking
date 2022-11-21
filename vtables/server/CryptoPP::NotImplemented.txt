@@ -1,0 +1,3 @@
+VTable for CryptoPP::NotImplemented:
+    [0] CryptoPP::NotImplemented::~NotImplemented()
+    [1] CryptoPP::Exception::what() const

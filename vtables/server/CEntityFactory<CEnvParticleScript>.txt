@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CEnvParticleScript>:
+    [0] CEntityFactory<CEnvParticleScript>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CEnvParticleScript>::GetEntitySize()

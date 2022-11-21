@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CEconWearable>:
+    [0] CEntityFactory<CEconWearable>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CEconWearable>::GetEntitySize()

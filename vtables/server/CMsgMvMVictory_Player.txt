@@ -1,0 +1,20 @@
+VTable for CMsgMvMVictory_Player:
+    [0] CMsgMvMVictory_Player::~CMsgMvMVictory_Player()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgMvMVictory_Player::New() const
+    [3] CMsgMvMVictory_Player::Clear()
+    [4] CMsgMvMVictory_Player::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgMvMVictory_Player::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgMvMVictory_Player::ByteSize() const
+    [9] CMsgMvMVictory_Player::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgMvMVictory_Player::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgMvMVictory_Player::GetCachedSize() const
+    [12] CMsgMvMVictory_Player::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgMvMVictory_Player::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgMvMVictory_Player::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgMvMVictory_Player::GetMetadata() const

@@ -1,0 +1,20 @@
+VTable for CIPLocationInfo:
+    [0] CIPLocationInfo::~CIPLocationInfo()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CIPLocationInfo::New() const
+    [3] CIPLocationInfo::Clear()
+    [4] CIPLocationInfo::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CIPLocationInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CIPLocationInfo::ByteSize() const
+    [9] CIPLocationInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CIPLocationInfo::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CIPLocationInfo::GetCachedSize() const
+    [12] CIPLocationInfo::CopyFrom(google::protobuf::Message const&)
+    [13] CIPLocationInfo::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CIPLocationInfo::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CIPLocationInfo::GetMetadata() const

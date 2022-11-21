@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CSniperDot>:
+    [0] CEntityFactory<CSniperDot>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CSniperDot>::GetEntitySize()

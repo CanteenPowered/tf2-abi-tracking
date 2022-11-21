@@ -1,0 +1,2 @@
+VTable for IEngineReplay:
+    [0] IEngineReplay::~IEngineReplay()

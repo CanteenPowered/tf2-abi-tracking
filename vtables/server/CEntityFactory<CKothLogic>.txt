@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CKothLogic>:
+    [0] CEntityFactory<CKothLogic>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CKothLogic>::GetEntitySize()

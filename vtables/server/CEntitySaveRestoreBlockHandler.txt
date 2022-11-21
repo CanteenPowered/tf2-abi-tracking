@@ -1,0 +1,9 @@
+VTable for CEntitySaveRestoreBlockHandler:
+    [0] CEntitySaveRestoreBlockHandler::PreSave(CSaveRestoreData*)
+    [1] CEntitySaveRestoreBlockHandler::Save(ISave*)
+    [2] CEntitySaveRestoreBlockHandler::WriteSaveHeaders(ISave*)
+    [3] CEntitySaveRestoreBlockHandler::PostSave()
+    [4] CEntitySaveRestoreBlockHandler::PreRestore()
+    [5] CEntitySaveRestoreBlockHandler::ReadRestoreHeaders(IRestore*)
+    [6] CEntitySaveRestoreBlockHandler::Restore(IRestore*, bool)
+    [7] CEntitySaveRestoreBlockHandler::PostRestore()

@@ -1,0 +1,20 @@
+VTable for CMsgPartyInvitePlayer:
+    [0] CMsgPartyInvitePlayer::~CMsgPartyInvitePlayer()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgPartyInvitePlayer::New() const
+    [3] CMsgPartyInvitePlayer::Clear()
+    [4] CMsgPartyInvitePlayer::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgPartyInvitePlayer::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgPartyInvitePlayer::ByteSize() const
+    [9] CMsgPartyInvitePlayer::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgPartyInvitePlayer::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgPartyInvitePlayer::GetCachedSize() const
+    [12] CMsgPartyInvitePlayer::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgPartyInvitePlayer::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgPartyInvitePlayer::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgPartyInvitePlayer::GetMetadata() const

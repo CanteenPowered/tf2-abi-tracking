@@ -1,0 +1,20 @@
+VTable for CMsgGCHAccountPhoneNumberChange:
+    [0] CMsgGCHAccountPhoneNumberChange::~CMsgGCHAccountPhoneNumberChange()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCHAccountPhoneNumberChange::New() const
+    [3] CMsgGCHAccountPhoneNumberChange::Clear()
+    [4] CMsgGCHAccountPhoneNumberChange::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCHAccountPhoneNumberChange::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCHAccountPhoneNumberChange::ByteSize() const
+    [9] CMsgGCHAccountPhoneNumberChange::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCHAccountPhoneNumberChange::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCHAccountPhoneNumberChange::GetCachedSize() const
+    [12] CMsgGCHAccountPhoneNumberChange::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCHAccountPhoneNumberChange::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCHAccountPhoneNumberChange::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCHAccountPhoneNumberChange::GetMetadata() const

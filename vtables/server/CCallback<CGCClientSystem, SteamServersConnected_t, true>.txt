@@ -1,0 +1,5 @@
+VTable for CCallback<CGCClientSystem, SteamServersConnected_t, true>:
+    [0] CCallbackImpl<1>::Run(void*, bool, unsigned long long)
+    [1] CCallbackImpl<1>::GetCallbackSizeBytes()
+    [2] CCallback<CGCClientSystem, SteamServersConnected_t, true>::~CCallback()
+    [3] CCallback<CGCClientSystem, SteamServersConnected_t, true>::~CCallback()

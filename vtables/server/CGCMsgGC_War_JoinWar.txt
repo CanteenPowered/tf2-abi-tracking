@@ -1,0 +1,20 @@
+VTable for CGCMsgGC_War_JoinWar:
+    [0] CGCMsgGC_War_JoinWar::~CGCMsgGC_War_JoinWar()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CGCMsgGC_War_JoinWar::New() const
+    [3] CGCMsgGC_War_JoinWar::Clear()
+    [4] CGCMsgGC_War_JoinWar::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CGCMsgGC_War_JoinWar::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CGCMsgGC_War_JoinWar::ByteSize() const
+    [9] CGCMsgGC_War_JoinWar::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CGCMsgGC_War_JoinWar::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CGCMsgGC_War_JoinWar::GetCachedSize() const
+    [12] CGCMsgGC_War_JoinWar::CopyFrom(google::protobuf::Message const&)
+    [13] CGCMsgGC_War_JoinWar::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CGCMsgGC_War_JoinWar::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CGCMsgGC_War_JoinWar::GetMetadata() const

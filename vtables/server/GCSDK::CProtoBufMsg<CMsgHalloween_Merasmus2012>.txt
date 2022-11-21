@@ -1,0 +1,3 @@
+VTable for GCSDK::CProtoBufMsg<CMsgHalloween_Merasmus2012>:
+    [0] GCSDK::CProtoBufMsg<CMsgHalloween_Merasmus2012>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgHalloween_Merasmus2012>::GetGenericBody() const

@@ -1,0 +1,5 @@
+VTable for CDataManagerBase:
+    [0] CDataManagerBase::TryLock()
+    [1] CDataManagerBase::Unlock()
+    [2] CDataManagerBase::~CDataManagerBase()
+    [3] CDataManagerBase::~CDataManagerBase()

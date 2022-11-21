@@ -1,0 +1,20 @@
+VTable for CSOTFMapContribution:
+    [0] CSOTFMapContribution::~CSOTFMapContribution()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CSOTFMapContribution::New() const
+    [3] CSOTFMapContribution::Clear()
+    [4] CSOTFMapContribution::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CSOTFMapContribution::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CSOTFMapContribution::ByteSize() const
+    [9] CSOTFMapContribution::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CSOTFMapContribution::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CSOTFMapContribution::GetCachedSize() const
+    [12] CSOTFMapContribution::CopyFrom(google::protobuf::Message const&)
+    [13] CSOTFMapContribution::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CSOTFMapContribution::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CSOTFMapContribution::GetMetadata() const

@@ -1,0 +1,2 @@
+VTable for IPooledVBAllocator:
+    [0] IPooledVBAllocator::~IPooledVBAllocator()

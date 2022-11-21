@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTriggerBotTag>:
+    [0] CEntityFactory<CTriggerBotTag>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTriggerBotTag>::GetEntitySize()

@@ -1,0 +1,3 @@
+VTable for CTFPhysicsPushEntities:
+    [0] CTFPhysicsPushEntities::SpeculativelyCheckLinearPush(Vector const&)
+    [1] CTFPhysicsPushEntities::FinishRotPushedEntity(CBaseEntity*, CPhysicsPushedEntities::RotatingPushMove_t const&)

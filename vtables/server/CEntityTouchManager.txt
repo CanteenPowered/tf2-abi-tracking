@@ -1,0 +1,3 @@
+VTable for CEntityTouchManager:
+    [0] IEntityListener::OnEntitySpawned(CBaseEntity*)
+    [1] CEntityTouchManager::OnEntityDeleted(CBaseEntity*)

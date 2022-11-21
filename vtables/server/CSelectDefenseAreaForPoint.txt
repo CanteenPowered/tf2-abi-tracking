@@ -1,0 +1,6 @@
+VTable for CSelectDefenseAreaForPoint:
+    [0] CSelectDefenseAreaForPoint::~CSelectDefenseAreaForPoint()
+    [1] CSelectDefenseAreaForPoint::operator()(CNavArea*, CNavArea*, float)
+    [2] CSelectDefenseAreaForPoint::ShouldSearch(CNavArea*, CNavArea*, float)
+    [3] ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)
+    [4] ISearchSurroundingAreasFunctor::PostSearch()

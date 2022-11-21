@@ -1,0 +1,20 @@
+VTable for CMsgGCHUpdateSession_ExtraField:
+    [0] CMsgGCHUpdateSession_ExtraField::~CMsgGCHUpdateSession_ExtraField()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCHUpdateSession_ExtraField::New() const
+    [3] CMsgGCHUpdateSession_ExtraField::Clear()
+    [4] CMsgGCHUpdateSession_ExtraField::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCHUpdateSession_ExtraField::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCHUpdateSession_ExtraField::ByteSize() const
+    [9] CMsgGCHUpdateSession_ExtraField::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCHUpdateSession_ExtraField::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCHUpdateSession_ExtraField::GetCachedSize() const
+    [12] CMsgGCHUpdateSession_ExtraField::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCHUpdateSession_ExtraField::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCHUpdateSession_ExtraField::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCHUpdateSession_ExtraField::GetMetadata() const

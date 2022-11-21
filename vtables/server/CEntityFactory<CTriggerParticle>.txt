@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTriggerParticle>:
+    [0] CEntityFactory<CTriggerParticle>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTriggerParticle>::GetEntitySize()

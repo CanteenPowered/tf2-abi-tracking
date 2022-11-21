@@ -1,0 +1,6 @@
+VTable for CTFLobbyShared:
+    [0] CTFLobbyShared::~CTFLobbyShared()
+    [1] CTFLobbyShared::GetGroupID() const
+    [2] CTFLobbyShared::GetNumMembers() const
+    [3] CTFLobbyShared::GetMember(int) const
+    [4] CTFLobbyShared::GetMemberIndexBySteamID(CSteamID const&) const

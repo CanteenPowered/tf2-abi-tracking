@@ -1,0 +1,3 @@
+VTable for CEntityFactory<SmokeTrail>:
+    [0] CEntityFactory<SmokeTrail>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<SmokeTrail>::GetEntitySize()

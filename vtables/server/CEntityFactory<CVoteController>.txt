@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CVoteController>:
+    [0] CEntityFactory<CVoteController>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CVoteController>::GetEntitySize()

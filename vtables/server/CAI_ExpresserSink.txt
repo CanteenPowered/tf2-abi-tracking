@@ -1,0 +1,3 @@
+VTable for CAI_ExpresserSink:
+    [0] CAI_ExpresserSink::OnStartSpeaking()
+    [1] CAI_ExpresserSink::UseSemaphore()

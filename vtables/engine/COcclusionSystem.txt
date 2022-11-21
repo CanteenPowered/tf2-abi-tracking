@@ -1,0 +1,6 @@
+VTable for COcclusionSystem:
+    [0] COcclusionSystem::SetView(Vector const&, float, VMatrix const&, VMatrix const&, VPlane const&)
+    [1] COcclusionSystem::IsOccluded(Vector const&, Vector const&)
+    [2] COcclusionSystem::SetOcclusionParameters(float, float)
+    [3] COcclusionSystem::MinOccluderArea() const
+    [4] COcclusionSystem::DrawDebugOverlays()

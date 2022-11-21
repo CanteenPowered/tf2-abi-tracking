@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPhysBoxMultiplayer>:
+    [0] CEntityFactory<CPhysBoxMultiplayer>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPhysBoxMultiplayer>::GetEntitySize()

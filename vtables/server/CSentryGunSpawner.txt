@@ -1,0 +1,12 @@
+VTable for CSentryGunSpawner:
+    [0] CSentryGunSpawner::~CSentryGunSpawner()
+    [1] CSentryGunSpawner::Parse(KeyValues*)
+    [2] CSentryGunSpawner::Spawn(Vector const&, CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>*)
+    [3] IPopulationSpawner::IsWhereRequired() const
+    [4] IPopulationSpawner::IsVarious()
+    [5] IPopulationSpawner::GetClass(int)
+    [6] IPopulationSpawner::GetClassIcon(int)
+    [7] IPopulationSpawner::GetHealth(int)
+    [8] IPopulationSpawner::IsMiniBoss(int)
+    [9] IPopulationSpawner::HasAttribute(CTFBot::AttributeType, int)
+    [10] CSentryGunSpawner::HasEventChangeAttributes(char const*) const

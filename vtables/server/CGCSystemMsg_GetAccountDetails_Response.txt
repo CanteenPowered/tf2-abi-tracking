@@ -1,0 +1,40 @@
+VTable for CGCSystemMsg_GetAccountDetails_Response:
+    [0] CGCSystemMsg_GetAccountDetails_Response::~CGCSystemMsg_GetAccountDetails_Response()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CGCSystemMsg_GetAccountDetails_Response::New() const
+    [3] CGCSystemMsg_GetAccountDetails_Response::Clear()
+    [4] CGCSystemMsg_GetAccountDetails_Response::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CGCSystemMsg_GetAccountDetails_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CGCSystemMsg_GetAccountDetails_Response::ByteSize() const
+    [9] CGCSystemMsg_GetAccountDetails_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CGCSystemMsg_GetAccountDetails_Response::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CGCSystemMsg_GetAccountDetails_Response::GetCachedSize() const
+    [12] CGCSystemMsg_GetAccountDetails_Response::CopyFrom(google::protobuf::Message const&)
+    [13] CGCSystemMsg_GetAccountDetails_Response::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CGCSystemMsg_GetAccountDetails_Response::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CGCSystemMsg_GetAccountDetails_Response::GetMetadata() const
+VTable for CGCSystemMsg_GetAccountDetails:
+    [0] CGCSystemMsg_GetAccountDetails::~CGCSystemMsg_GetAccountDetails()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CGCSystemMsg_GetAccountDetails::New() const
+    [3] CGCSystemMsg_GetAccountDetails::Clear()
+    [4] CGCSystemMsg_GetAccountDetails::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CGCSystemMsg_GetAccountDetails::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CGCSystemMsg_GetAccountDetails::ByteSize() const
+    [9] CGCSystemMsg_GetAccountDetails::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CGCSystemMsg_GetAccountDetails::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CGCSystemMsg_GetAccountDetails::GetCachedSize() const
+    [12] CGCSystemMsg_GetAccountDetails::CopyFrom(google::protobuf::Message const&)
+    [13] CGCSystemMsg_GetAccountDetails::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CGCSystemMsg_GetAccountDetails::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CGCSystemMsg_GetAccountDetails::GetMetadata() const

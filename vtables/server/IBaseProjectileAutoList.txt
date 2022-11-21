@@ -1,0 +1,2 @@
+VTable for IBaseProjectileAutoList:
+    [0] IBaseProjectileAutoList::~IBaseProjectileAutoList()

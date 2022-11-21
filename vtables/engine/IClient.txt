@@ -1,0 +1,2 @@
+VTable for IClient:
+    [0] IClient::~IClient()

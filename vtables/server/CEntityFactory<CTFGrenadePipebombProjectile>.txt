@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFGrenadePipebombProjectile>:
+    [0] CEntityFactory<CTFGrenadePipebombProjectile>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFGrenadePipebombProjectile>::GetEntitySize()

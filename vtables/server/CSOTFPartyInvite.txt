@@ -1,0 +1,20 @@
+VTable for CSOTFPartyInvite:
+    [0] CSOTFPartyInvite::~CSOTFPartyInvite()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CSOTFPartyInvite::New() const
+    [3] CSOTFPartyInvite::Clear()
+    [4] CSOTFPartyInvite::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CSOTFPartyInvite::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CSOTFPartyInvite::ByteSize() const
+    [9] CSOTFPartyInvite::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CSOTFPartyInvite::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CSOTFPartyInvite::GetCachedSize() const
+    [12] CSOTFPartyInvite::CopyFrom(google::protobuf::Message const&)
+    [13] CSOTFPartyInvite::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CSOTFPartyInvite::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CSOTFPartyInvite::GetMetadata() const

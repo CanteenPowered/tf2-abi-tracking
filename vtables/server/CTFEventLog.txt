@@ -1,0 +1,10 @@
+VTable for CTFEventLog:
+    [0] CTFEventLog::~CTFEventLog()
+    [1] CEventLog::FireGameEvent(IGameEvent*)
+    [2] CTFEventLog::Init()
+    [3] CEventLog::Shutdown()
+    [4] CTFEventLog::PrintEvent(IGameEvent*)
+    [5] CEventLog::PrintGameEvent(IGameEvent*)
+    [6] CEventLog::PrintPlayerEvent(IGameEvent*)
+    [7] CEventLog::PrintTeamEvent(IGameEvent*)
+    [8] CEventLog::PrintOtherEvent(IGameEvent*)

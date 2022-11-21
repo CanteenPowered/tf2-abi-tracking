@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPowerupVolume>:
+    [0] CEntityFactory<CPowerupVolume>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPowerupVolume>::GetEntitySize()

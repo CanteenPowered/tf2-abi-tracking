@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CFuncWall>:
+    [0] CEntityFactory<CFuncWall>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CFuncWall>::GetEntitySize()

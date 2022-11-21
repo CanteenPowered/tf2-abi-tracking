@@ -1,0 +1,2 @@
+VTable for IGameEventManager:
+    [0] IGameEventManager::~IGameEventManager()

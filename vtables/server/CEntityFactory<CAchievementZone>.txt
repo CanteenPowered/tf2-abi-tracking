@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CAchievementZone>:
+    [0] CEntityFactory<CAchievementZone>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CAchievementZone>::GetEntitySize()

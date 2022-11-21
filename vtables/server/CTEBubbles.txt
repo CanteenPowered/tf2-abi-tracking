@@ -1,0 +1,7 @@
+VTable for CTEBubbles:
+    [0] CTEBubbles::YouForgotToImplementOrDeclareServerClass()
+    [1] CTEBubbles::~CTEBubbles()
+    [2] CTEBubbles::~CTEBubbles()
+    [3] CTEBubbles::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

@@ -1,0 +1,20 @@
+VTable for CMsgCraftCommonStatClock:
+    [0] CMsgCraftCommonStatClock::~CMsgCraftCommonStatClock()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgCraftCommonStatClock::New() const
+    [3] CMsgCraftCommonStatClock::Clear()
+    [4] CMsgCraftCommonStatClock::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgCraftCommonStatClock::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgCraftCommonStatClock::ByteSize() const
+    [9] CMsgCraftCommonStatClock::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgCraftCommonStatClock::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgCraftCommonStatClock::GetCachedSize() const
+    [12] CMsgCraftCommonStatClock::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgCraftCommonStatClock::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgCraftCommonStatClock::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgCraftCommonStatClock::GetMetadata() const

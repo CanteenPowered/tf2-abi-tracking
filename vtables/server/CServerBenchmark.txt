@@ -1,0 +1,8 @@
+VTable for CServerBenchmark:
+    [0] CServerBenchmark::UpdateBenchmark()
+    [1] CServerBenchmark::EndBenchmark()
+    [2] CServerBenchmark::IsBenchmarkRunning()
+    [3] CServerBenchmark::IsLocalBenchmarkPlayer(CBasePlayer*)
+    [4] CServerBenchmark::RandomInt(int, int)
+    [5] CServerBenchmark::RandomFloat(float, float)
+    [6] CServerBenchmark::GetTickOffset()

@@ -1,0 +1,3 @@
+VTable for CryptoPP::DL_PublicKey_GFP<CryptoPP::DL_GroupParameters_DSA>:
+    [0] CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    [1] CryptoPP::GeneratableCryptoMaterial::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CMerasmus>:
+    [0] CEntityFactory<CMerasmus>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CMerasmus>::GetEntitySize()

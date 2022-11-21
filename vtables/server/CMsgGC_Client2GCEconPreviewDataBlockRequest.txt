@@ -1,0 +1,40 @@
+VTable for CMsgGC_Client2GCEconPreviewDataBlockRequest:
+    [0] CMsgGC_Client2GCEconPreviewDataBlockRequest::~CMsgGC_Client2GCEconPreviewDataBlockRequest()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGC_Client2GCEconPreviewDataBlockRequest::New() const
+    [3] CMsgGC_Client2GCEconPreviewDataBlockRequest::Clear()
+    [4] CMsgGC_Client2GCEconPreviewDataBlockRequest::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGC_Client2GCEconPreviewDataBlockRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGC_Client2GCEconPreviewDataBlockRequest::ByteSize() const
+    [9] CMsgGC_Client2GCEconPreviewDataBlockRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGC_Client2GCEconPreviewDataBlockRequest::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGC_Client2GCEconPreviewDataBlockRequest::GetCachedSize() const
+    [12] CMsgGC_Client2GCEconPreviewDataBlockRequest::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGC_Client2GCEconPreviewDataBlockRequest::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGC_Client2GCEconPreviewDataBlockRequest::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGC_Client2GCEconPreviewDataBlockRequest::GetMetadata() const
+VTable for CMsgGC_Client2GCEconPreviewDataBlockResponse:
+    [0] CMsgGC_Client2GCEconPreviewDataBlockResponse::~CMsgGC_Client2GCEconPreviewDataBlockResponse()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGC_Client2GCEconPreviewDataBlockResponse::New() const
+    [3] CMsgGC_Client2GCEconPreviewDataBlockResponse::Clear()
+    [4] CMsgGC_Client2GCEconPreviewDataBlockResponse::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGC_Client2GCEconPreviewDataBlockResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGC_Client2GCEconPreviewDataBlockResponse::ByteSize() const
+    [9] CMsgGC_Client2GCEconPreviewDataBlockResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGC_Client2GCEconPreviewDataBlockResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGC_Client2GCEconPreviewDataBlockResponse::GetCachedSize() const
+    [12] CMsgGC_Client2GCEconPreviewDataBlockResponse::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGC_Client2GCEconPreviewDataBlockResponse::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGC_Client2GCEconPreviewDataBlockResponse::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGC_Client2GCEconPreviewDataBlockResponse::GetMetadata() const

@@ -1,0 +1,16 @@
+VTable for MM_RegisterResponse:
+    [0] MM_RegisterResponse::~MM_RegisterResponse()
+    [1] CNetMessage::SetNetChannel(INetChannel*)
+    [2] CNetMessage::SetReliable(bool)
+    [3] MM_RegisterResponse::Process()
+    [4] MM_RegisterResponse::ReadFromBuffer(bf_read&)
+    [5] MM_RegisterResponse::WriteToBuffer(bf_write&)
+    [6] CNetMessage::IsReliable() const
+    [7] MM_RegisterResponse::GetType() const
+    [8] CNetMessage::GetGroup() const
+    [9] MM_RegisterResponse::GetName() const
+    [10] CNetMessage::GetNetChannel() const
+    [11] MM_RegisterResponse::ToString() const
+    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
+    [13] MM_RegisterResponse::GetSize() const
+    [14] CNetMessage::SetRatePolicy()

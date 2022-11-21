@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CIntroViewpoint>:
+    [0] CEntityFactory<CIntroViewpoint>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CIntroViewpoint>::GetEntitySize()

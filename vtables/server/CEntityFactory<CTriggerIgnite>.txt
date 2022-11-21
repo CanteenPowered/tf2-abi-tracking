@@ -1,0 +1,6 @@
+VTable for CEntityFactory<CTriggerIgnite>:
+    [0] CEntityFactory<CTriggerIgnite>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTriggerIgnite>::GetEntitySize()
+VTable for CEntityFactory<CTriggerIgniteArrows>:
+    [0] CEntityFactory<CTriggerIgniteArrows>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTriggerIgniteArrows>::GetEntitySize()

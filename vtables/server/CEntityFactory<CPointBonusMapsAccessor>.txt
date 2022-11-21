@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPointBonusMapsAccessor>:
+    [0] CEntityFactory<CPointBonusMapsAccessor>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPointBonusMapsAccessor>::GetEntitySize()

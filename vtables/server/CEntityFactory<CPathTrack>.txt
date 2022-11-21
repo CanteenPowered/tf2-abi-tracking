@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPathTrack>:
+    [0] CEntityFactory<CPathTrack>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPathTrack>::GetEntitySize()

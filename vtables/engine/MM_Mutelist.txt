@@ -1,0 +1,16 @@
+VTable for MM_Mutelist:
+    [0] MM_Mutelist::~MM_Mutelist()
+    [1] CNetMessage::SetNetChannel(INetChannel*)
+    [2] CNetMessage::SetReliable(bool)
+    [3] MM_Mutelist::Process()
+    [4] MM_Mutelist::ReadFromBuffer(bf_read&)
+    [5] MM_Mutelist::WriteToBuffer(bf_write&)
+    [6] CNetMessage::IsReliable() const
+    [7] MM_Mutelist::GetType() const
+    [8] CNetMessage::GetGroup() const
+    [9] MM_Mutelist::GetName() const
+    [10] CNetMessage::GetNetChannel() const
+    [11] MM_Mutelist::ToString() const
+    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
+    [13] MM_Mutelist::GetSize() const
+    [14] CNetMessage::SetRatePolicy()

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CFilterTFBotHasTag>:
+    [0] CEntityFactory<CFilterTFBotHasTag>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CFilterTFBotHasTag>::GetEntitySize()

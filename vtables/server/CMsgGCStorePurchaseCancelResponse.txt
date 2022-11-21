@@ -1,0 +1,20 @@
+VTable for CMsgGCStorePurchaseCancelResponse:
+    [0] CMsgGCStorePurchaseCancelResponse::~CMsgGCStorePurchaseCancelResponse()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCStorePurchaseCancelResponse::New() const
+    [3] CMsgGCStorePurchaseCancelResponse::Clear()
+    [4] CMsgGCStorePurchaseCancelResponse::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCStorePurchaseCancelResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCStorePurchaseCancelResponse::ByteSize() const
+    [9] CMsgGCStorePurchaseCancelResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCStorePurchaseCancelResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCStorePurchaseCancelResponse::GetCachedSize() const
+    [12] CMsgGCStorePurchaseCancelResponse::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCStorePurchaseCancelResponse::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCStorePurchaseCancelResponse::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCStorePurchaseCancelResponse::GetMetadata() const

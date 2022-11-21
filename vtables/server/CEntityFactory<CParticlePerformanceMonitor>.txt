@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CParticlePerformanceMonitor>:
+    [0] CEntityFactory<CParticlePerformanceMonitor>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CParticlePerformanceMonitor>::GetEntitySize()

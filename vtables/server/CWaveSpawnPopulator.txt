@@ -1,0 +1,8 @@
+VTable for CWaveSpawnPopulator:
+    [0] CWaveSpawnPopulator::~CWaveSpawnPopulator()
+    [1] CWaveSpawnPopulator::Parse(KeyValues*)
+    [2] IPopulator::PostInitialize()
+    [3] CWaveSpawnPopulator::Update()
+    [4] IPopulator::UnpauseSpawning()
+    [5] CWaveSpawnPopulator::OnPlayerKilled(CTFPlayer*)
+    [6] IPopulator::HasEventChangeAttributes(char const*) const

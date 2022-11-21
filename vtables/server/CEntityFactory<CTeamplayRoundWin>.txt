@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTeamplayRoundWin>:
+    [0] CEntityFactory<CTeamplayRoundWin>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTeamplayRoundWin>::GetEntitySize()

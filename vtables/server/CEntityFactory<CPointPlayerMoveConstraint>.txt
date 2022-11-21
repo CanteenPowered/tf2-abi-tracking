@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPointPlayerMoveConstraint>:
+    [0] CEntityFactory<CPointPlayerMoveConstraint>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPointPlayerMoveConstraint>::GetEntitySize()

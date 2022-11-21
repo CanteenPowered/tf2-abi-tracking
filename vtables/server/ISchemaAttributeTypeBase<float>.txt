@@ -1,0 +1,5 @@
+VTable for ISchemaAttributeTypeBase<float>:
+    [0] ISchemaAttributeTypeBase<float>::~ISchemaAttributeTypeBase()
+    [1] ISchemaAttributeTypeBase<float>::GetTypeUniqueIdentifier() const
+    [2] ISchemaAttributeTypeBase<float>::LoadEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const
+    [3] ISchemaAttributeTypeBase<float>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&, std::string*) const

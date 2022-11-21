@@ -1,0 +1,5 @@
+VTable for CryptoPP::OS_RNG_Err:
+    [0] CryptoPP::CryptoMaterial::Precompute(unsigned int)
+    [1] CryptoPP::CryptoMaterial::LoadPrecomputation(CryptoPP::BufferedTransformation&)
+    [2] CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    [3] CryptoPP::GeneratableCryptoMaterial::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)

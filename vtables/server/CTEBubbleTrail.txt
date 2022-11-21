@@ -1,0 +1,7 @@
+VTable for CTEBubbleTrail:
+    [0] CTEBubbleTrail::YouForgotToImplementOrDeclareServerClass()
+    [1] CTEBubbleTrail::~CTEBubbleTrail()
+    [2] CTEBubbleTrail::~CTEBubbleTrail()
+    [3] CTEBubbleTrail::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

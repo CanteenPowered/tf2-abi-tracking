@@ -1,0 +1,20 @@
+VTable for CMsgPaintKit_Operation_TextureStage:
+    [0] CMsgPaintKit_Operation_TextureStage::~CMsgPaintKit_Operation_TextureStage()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgPaintKit_Operation_TextureStage::New() const
+    [3] CMsgPaintKit_Operation_TextureStage::Clear()
+    [4] CMsgPaintKit_Operation_TextureStage::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgPaintKit_Operation_TextureStage::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgPaintKit_Operation_TextureStage::ByteSize() const
+    [9] CMsgPaintKit_Operation_TextureStage::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgPaintKit_Operation_TextureStage::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgPaintKit_Operation_TextureStage::GetCachedSize() const
+    [12] CMsgPaintKit_Operation_TextureStage::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgPaintKit_Operation_TextureStage::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgPaintKit_Operation_TextureStage::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgPaintKit_Operation_TextureStage::GetMetadata() const

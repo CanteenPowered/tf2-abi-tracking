@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CLogicOnHoliday>:
+    [0] CEntityFactory<CLogicOnHoliday>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CLogicOnHoliday>::GetEntitySize()

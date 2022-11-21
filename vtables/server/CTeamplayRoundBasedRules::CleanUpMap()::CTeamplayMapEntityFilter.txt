@@ -1,0 +1,2 @@
+VTable for CTeamplayRoundBasedRules::CleanUpMap()::CTeamplayMapEntityFilter:
+    [0] CTeamplayRoundBasedRules::CleanUpMap()::CTeamplayMapEntityFilter::CreateNextEntity(char const*)

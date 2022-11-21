@@ -1,0 +1,9 @@
+VTable for CFunctorJob:
+    [0] CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT>>::Release()
+    [1] CFunctorJob::~CFunctorJob()
+    [2] CFunctorJob::~CFunctorJob()
+    [3] CFunctorJob::Describe()
+    [4] CJob::SetDescription(char const*)
+    [5] CFunctorJob::DoExecute()
+    [6] CJob::DoAbort(bool)
+    [7] CJob::DoCleanup()

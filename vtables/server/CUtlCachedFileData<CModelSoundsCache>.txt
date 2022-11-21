@@ -1,0 +1,2 @@
+VTable for CUtlCachedFileData<CModelSoundsCache>:
+    [0] CUtlCachedFileData<CModelSoundsCache>::~CUtlCachedFileData()

@@ -1,0 +1,4 @@
+VTable for GCSDK::CGCMsg<MsgGC_Duel_Response_t>:
+    [0] GCSDK::CGCMsg<MsgGC_Duel_Response_t>::~CGCMsg()
+VTable for GCSDK::CGCMsg<MsgGC_Duel_Results_t>:
+    [0] GCSDK::CGCMsg<MsgGC_Duel_Results_t>::~CGCMsg()

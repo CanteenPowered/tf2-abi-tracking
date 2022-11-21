@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPropVehicleDriveable>:
+    [0] CEntityFactory<CPropVehicleDriveable>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPropVehicleDriveable>::GetEntitySize()

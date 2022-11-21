@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFWeaponSapper>:
+    [0] CEntityFactory<CTFWeaponSapper>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFWeaponSapper>::GetEntitySize()

@@ -1,0 +1,20 @@
+VTable for CMsgSOCacheSubscriptionRefresh:
+    [0] CMsgSOCacheSubscriptionRefresh::~CMsgSOCacheSubscriptionRefresh()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgSOCacheSubscriptionRefresh::New() const
+    [3] CMsgSOCacheSubscriptionRefresh::Clear()
+    [4] CMsgSOCacheSubscriptionRefresh::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgSOCacheSubscriptionRefresh::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgSOCacheSubscriptionRefresh::ByteSize() const
+    [9] CMsgSOCacheSubscriptionRefresh::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgSOCacheSubscriptionRefresh::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgSOCacheSubscriptionRefresh::GetCachedSize() const
+    [12] CMsgSOCacheSubscriptionRefresh::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgSOCacheSubscriptionRefresh::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgSOCacheSubscriptionRefresh::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgSOCacheSubscriptionRefresh::GetMetadata() const

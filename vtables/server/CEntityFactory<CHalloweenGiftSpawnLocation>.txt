@@ -1,0 +1,6 @@
+VTable for CEntityFactory<CHalloweenGiftSpawnLocation>:
+    [0] CEntityFactory<CHalloweenGiftSpawnLocation>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CHalloweenGiftSpawnLocation>::GetEntitySize()
+VTable for CEntityFactory<CHalloweenGiftPickup>:
+    [0] CEntityFactory<CHalloweenGiftPickup>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CHalloweenGiftPickup>::GetEntitySize()

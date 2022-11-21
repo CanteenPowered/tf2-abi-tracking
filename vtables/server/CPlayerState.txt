@@ -1,0 +1,4 @@
+VTable for CPlayerState:
+    [0] CPlayerState::NetworkStateChanged(void*)
+    [1] CPlayerState::~CPlayerState()
+    [2] CPlayerState::~CPlayerState()

@@ -1,0 +1,3 @@
+VTable for CQuestObjectiveConditionsDefinition:
+    [0] CQuestObjectiveConditionsDefinition::~CQuestObjectiveConditionsDefinition()
+    [1] CQuestObjectiveConditionsDefinition::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)

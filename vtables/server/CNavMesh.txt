@@ -1,0 +1,38 @@
+VTable for CNavMesh:
+    [0] CNavMesh::~CNavMesh()
+    [1] CNavMesh::FireGameEvent(IGameEvent*)
+    [2] CNavMesh::PreLoadAreas(int)
+    [3] CNavMesh::CreateArea() const
+    [4] CNavMesh::DestroyArea(CNavArea*) const
+    [5] CNavMesh::CreateHidingSpot() const
+    [6] CNavMesh::Reset()
+    [7] CNavMesh::Update()
+    [8] CNavMesh::Load()
+    [9] CNavMesh::PostLoad(unsigned int)
+    [10] CNavMesh::IsAuthoritative() const
+    [11] CNavMesh::Save() const
+    [12] CNavMesh::GetSubVersionNumber() const
+    [13] CNavMesh::SaveCustomData(CUtlBuffer&) const
+    [14] CNavMesh::LoadCustomData(CUtlBuffer&, unsigned int)
+    [15] CNavMesh::SaveCustomDataPreArea(CUtlBuffer&) const
+    [16] CNavMesh::LoadCustomDataPreArea(CUtlBuffer&, unsigned int)
+    [17] CNavMesh::OnServerActivate()
+    [18] CNavMesh::OnRoundRestart()
+    [19] CNavMesh::OnRoundRestartPreEntity()
+    [20] CNavMesh::OnBreakableCreated(CBaseEntity*)
+    [21] CNavMesh::OnBreakableBroken(CBaseEntity*)
+    [22] CNavMesh::OnAreaBlocked(CNavArea*)
+    [23] CNavMesh::OnAreaUnblocked(CNavArea*)
+    [24] CNavMesh::OnAvoidanceObstacleEnteredArea(CNavArea*)
+    [25] CNavMesh::OnAvoidanceObstacleLeftArea(CNavArea*)
+    [26] CNavMesh::OnEditCreateNotify(CNavArea*)
+    [27] CNavMesh::OnEditDestroyNotify(CNavArea*)
+    [28] CNavMesh::OnEditDestroyNotify(CNavLadder*)
+    [29] CNavMesh::OnNodeAdded(CNavNode*)
+    [30] CNavMesh::AddWalkableSeeds()
+    [31] CNavMesh::GetGenerationTraceMask() const
+    [32] CNavMesh::CommandNavFloodSelect(CCommand const&)
+    [33] CNavMesh::PostCustomAnalysis()
+    [34] CNavMesh::RemoveNavArea(CNavArea*)
+    [35] CNavMesh::BeginCustomAnalysis(bool)
+    [36] CNavMesh::EndCustomAnalysis()

@@ -1,0 +1,6 @@
+VTable for GCSDK::CProtoBufMsg<CMsgGCChangeMatchPlayerTeamsResponse>:
+    [0] GCSDK::CProtoBufMsg<CMsgGCChangeMatchPlayerTeamsResponse>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgGCChangeMatchPlayerTeamsResponse>::GetGenericBody() const
+VTable for GCSDK::CProtoBufMsg<CMsgGCChangeMatchPlayerTeamsRequest>:
+    [0] GCSDK::CProtoBufMsg<CMsgGCChangeMatchPlayerTeamsRequest>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgGCChangeMatchPlayerTeamsRequest>::GetGenericBody() const

@@ -1,0 +1,7 @@
+VTable for CTEDecal:
+    [0] CTEDecal::YouForgotToImplementOrDeclareServerClass()
+    [1] CTEDecal::~CTEDecal()
+    [2] CTEDecal::~CTEDecal()
+    [3] CTEDecal::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

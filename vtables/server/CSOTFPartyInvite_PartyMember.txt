@@ -1,0 +1,20 @@
+VTable for CSOTFPartyInvite_PartyMember:
+    [0] CSOTFPartyInvite_PartyMember::~CSOTFPartyInvite_PartyMember()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CSOTFPartyInvite_PartyMember::New() const
+    [3] CSOTFPartyInvite_PartyMember::Clear()
+    [4] CSOTFPartyInvite_PartyMember::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CSOTFPartyInvite_PartyMember::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CSOTFPartyInvite_PartyMember::ByteSize() const
+    [9] CSOTFPartyInvite_PartyMember::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CSOTFPartyInvite_PartyMember::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CSOTFPartyInvite_PartyMember::GetCachedSize() const
+    [12] CSOTFPartyInvite_PartyMember::CopyFrom(google::protobuf::Message const&)
+    [13] CSOTFPartyInvite_PartyMember::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CSOTFPartyInvite_PartyMember::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CSOTFPartyInvite_PartyMember::GetMetadata() const

@@ -1,0 +1,2 @@
+VTable for CClientFrameManager:
+    [0] CClientFrameManager::~CClientFrameManager()

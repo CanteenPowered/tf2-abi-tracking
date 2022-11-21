@@ -1,0 +1,8 @@
+VTable for CVGUILocalizationProvider:
+    [0] CVGUILocalizationProvider::ConvertLoccharToANSI(wchar_t const*, CUtlConstStringBase<char>*) const
+    [1] CVGUILocalizationProvider::ConvertLoccharToUnicode(wchar_t const*, CUtlConstStringBase<wchar_t>*) const
+    [2] CVGUILocalizationProvider::ConvertUTF8ToLocchar(char const*, CUtlConstStringBase<wchar_t>*) const
+    [3] CVGUILocalizationProvider::ConvertLoccharToANSI(wchar_t const*, char*, int) const
+    [4] CVGUILocalizationProvider::ConvertLoccharToUnicode(wchar_t const*, wchar_t*, int) const
+    [5] CVGUILocalizationProvider::ConvertUTF8ToLocchar(char const*, wchar_t*, int) const
+    [6] CVGUILocalizationProvider::GetELang() const

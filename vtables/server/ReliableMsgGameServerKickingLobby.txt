@@ -1,0 +1,9 @@
+VTable for ReliableMsgGameServerKickingLobby:
+    [0] ReliableMsgGameServerKickingLobby::~ReliableMsgGameServerKickingLobby()
+    [1] CJobReliableMessageBase<ReliableMsgGameServerKickingLobby, CMsgGameServerKickingLobby, (ETFGCMsg)6299, CMsgGameServerKickingLobbyResponse, (ETFGCMsg)6521>::BYieldingRunJob(void*)
+    [2] GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)
+    [3] GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()
+    [4] GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)
+    [5] GCSDK::CGCClientJob::BYieldingRunGCJob()
+    [6] GCSDK::CGCClientJob::GetServerType()
+    [7] CJobReliableMessageBase<ReliableMsgGameServerKickingLobby, CMsgGameServerKickingLobby, (ETFGCMsg)6299, CMsgGameServerKickingLobbyResponse, (ETFGCMsg)6521>::Finalize()

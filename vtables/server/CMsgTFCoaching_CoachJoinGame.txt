@@ -1,0 +1,20 @@
+VTable for CMsgTFCoaching_CoachJoinGame:
+    [0] CMsgTFCoaching_CoachJoinGame::~CMsgTFCoaching_CoachJoinGame()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgTFCoaching_CoachJoinGame::New() const
+    [3] CMsgTFCoaching_CoachJoinGame::Clear()
+    [4] CMsgTFCoaching_CoachJoinGame::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgTFCoaching_CoachJoinGame::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgTFCoaching_CoachJoinGame::ByteSize() const
+    [9] CMsgTFCoaching_CoachJoinGame::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgTFCoaching_CoachJoinGame::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgTFCoaching_CoachJoinGame::GetCachedSize() const
+    [12] CMsgTFCoaching_CoachJoinGame::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgTFCoaching_CoachJoinGame::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgTFCoaching_CoachJoinGame::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgTFCoaching_CoachJoinGame::GetMetadata() const

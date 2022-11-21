@@ -1,0 +1,3 @@
+VTable for google::protobuf::MethodOptions:
+    [0] CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
+    [1] CryptoPP::BufferedTransformation::IsolatedInitialize(CryptoPP::NameValuePairs const&)

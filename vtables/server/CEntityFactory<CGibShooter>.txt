@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CGibShooter>:
+    [0] CEntityFactory<CGibShooter>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CGibShooter>::GetEntitySize()

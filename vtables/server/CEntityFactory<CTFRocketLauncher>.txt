@@ -1,0 +1,9 @@
+VTable for CEntityFactory<CTFRocketLauncher_DirectHit>:
+    [0] CEntityFactory<CTFRocketLauncher_DirectHit>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFRocketLauncher_DirectHit>::GetEntitySize()
+VTable for CEntityFactory<CTFRocketLauncher_AirStrike>:
+    [0] CEntityFactory<CTFRocketLauncher_AirStrike>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFRocketLauncher_AirStrike>::GetEntitySize()
+VTable for CEntityFactory<CTFRocketLauncher>:
+    [0] CEntityFactory<CTFRocketLauncher>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFRocketLauncher>::GetEntitySize()

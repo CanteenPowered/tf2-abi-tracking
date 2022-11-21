@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPopulatorInternalSpawnPoint>:
+    [0] CEntityFactory<CPopulatorInternalSpawnPoint>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPopulatorInternalSpawnPoint>::GetEntitySize()

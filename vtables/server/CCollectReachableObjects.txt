@@ -1,0 +1,6 @@
+VTable for CCollectReachableObjects:
+    [0] CCollectReachableObjects::~CCollectReachableObjects()
+    [1] CCollectReachableObjects::operator()(CNavArea*, CNavArea*, float)
+    [2] CCollectReachableObjects::ShouldSearch(CNavArea*, CNavArea*, float)
+    [3] ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)
+    [4] ISearchSurroundingAreasFunctor::PostSearch()

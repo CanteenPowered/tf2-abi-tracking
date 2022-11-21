@@ -1,0 +1,5 @@
+VTable for CVariantSaveDataOps:
+    [0] CVariantSaveDataOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CVariantSaveDataOps::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CVariantSaveDataOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)

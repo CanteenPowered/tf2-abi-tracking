@@ -1,0 +1,20 @@
+VTable for CCallback<CSteam3Server, SteamNetworkingFakeIPResult_t, true>:
+    [0] CCallbackImpl<160>::Run(void*, bool, unsigned long long)
+    [1] CCallbackImpl<160>::GetCallbackSizeBytes()
+    [2] CCallback<CSteam3Server, SteamNetworkingFakeIPResult_t, true>::~CCallback()
+    [3] CCallback<CSteam3Server, SteamNetworkingFakeIPResult_t, true>::~CCallback()
+VTable for CCallback<CSteam3Server, SteamServerConnectFailure_t, true>:
+    [0] CCallbackImpl<8>::Run(void*, bool, unsigned long long)
+    [1] CCallbackImpl<8>::GetCallbackSizeBytes()
+    [2] CCallback<CSteam3Server, SteamServerConnectFailure_t, true>::~CCallback()
+    [3] CCallback<CSteam3Server, SteamServerConnectFailure_t, true>::~CCallback()
+VTable for CCallback<CSteam3Server, SteamServersDisconnected_t, true>:
+    [0] CCallbackImpl<4>::Run(void*, bool, unsigned long long)
+    [1] CCallbackImpl<4>::GetCallbackSizeBytes()
+    [2] CCallback<CSteam3Server, SteamServersDisconnected_t, true>::~CCallback()
+    [3] CCallback<CSteam3Server, SteamServersDisconnected_t, true>::~CCallback()
+VTable for CCallback<CSteam3Server, SteamServersConnected_t, true>:
+    [0] CCallbackImpl<1>::Run(void*, bool, unsigned long long)
+    [1] CCallbackImpl<1>::GetCallbackSizeBytes()
+    [2] CCallback<CSteam3Server, SteamServersConnected_t, true>::~CCallback()
+    [3] CCallback<CSteam3Server, SteamServersConnected_t, true>::~CCallback()

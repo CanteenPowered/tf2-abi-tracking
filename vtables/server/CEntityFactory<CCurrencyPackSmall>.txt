@@ -1,0 +1,12 @@
+VTable for CEntityFactory<CCurrencyPack>:
+    [0] CEntityFactory<CCurrencyPack>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CCurrencyPack>::GetEntitySize()
+VTable for CEntityFactory<CCurrencyPackSmall>:
+    [0] CEntityFactory<CCurrencyPackSmall>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CCurrencyPackSmall>::GetEntitySize()
+VTable for CEntityFactory<CCurrencyPackCustom>:
+    [0] CEntityFactory<CCurrencyPackCustom>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CCurrencyPackCustom>::GetEntitySize()
+VTable for CEntityFactory<CCurrencyPackMedium>:
+    [0] CEntityFactory<CCurrencyPackMedium>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CCurrencyPackMedium>::GetEntitySize()

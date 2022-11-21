@@ -1,0 +1,15 @@
+VTable for CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>:
+VTable for CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT:
+VTable for CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroupT:
+    [0] CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint>::GetSubgroupGenerator() const
+    [1] CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint>::SetSubgroupGenerator(CryptoPP::EC2NPoint const&)
+    [2] CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint>::ExponentiateBase(CryptoPP::Integer const&) const
+    [3] CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint>::ExponentiateElement(CryptoPP::EC2NPoint const&, CryptoPP::Integer const&) const
+VTable for CryptoPP::AbstractRing<CryptoPP::Integer>:
+    [0] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::LoadPrecomputation(CryptoPP::BufferedTransformation&)
+    [1] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    [2] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    [3] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::GetSubgroupGenerator() const
+    [4] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::SetSubgroupGenerator(CryptoPP::Integer const&)
+    [5] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::ExponentiateBase(CryptoPP::Integer const&) const
+    [6] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::ExponentiateElement(CryptoPP::Integer const&, CryptoPP::Integer const&) const

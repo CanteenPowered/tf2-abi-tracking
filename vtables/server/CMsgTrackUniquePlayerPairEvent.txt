@@ -1,0 +1,20 @@
+VTable for CMsgTrackUniquePlayerPairEvent:
+    [0] CMsgTrackUniquePlayerPairEvent::~CMsgTrackUniquePlayerPairEvent()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgTrackUniquePlayerPairEvent::New() const
+    [3] CMsgTrackUniquePlayerPairEvent::Clear()
+    [4] CMsgTrackUniquePlayerPairEvent::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgTrackUniquePlayerPairEvent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgTrackUniquePlayerPairEvent::ByteSize() const
+    [9] CMsgTrackUniquePlayerPairEvent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgTrackUniquePlayerPairEvent::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgTrackUniquePlayerPairEvent::GetCachedSize() const
+    [12] CMsgTrackUniquePlayerPairEvent::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgTrackUniquePlayerPairEvent::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgTrackUniquePlayerPairEvent::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgTrackUniquePlayerPairEvent::GetMetadata() const

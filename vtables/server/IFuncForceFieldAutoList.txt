@@ -1,0 +1,2 @@
+VTable for IFuncForceFieldAutoList:
+    [0] IFuncForceFieldAutoList::~IFuncForceFieldAutoList()

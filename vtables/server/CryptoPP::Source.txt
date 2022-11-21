@@ -1,0 +1,3 @@
+VTable for CryptoPP::Source:
+    [0] CryptoPP::PK_SignatureMessageEncodingMethod::RecoverMessageFromRepresentative(CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, bool, unsigned char*, unsigned int, unsigned char*) const
+    [1] CryptoPP::PK_SignatureMessageEncodingMethod::RecoverMessageFromSemisignature(CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, unsigned char const*, unsigned int, unsigned char const*, unsigned int, unsigned char*) const

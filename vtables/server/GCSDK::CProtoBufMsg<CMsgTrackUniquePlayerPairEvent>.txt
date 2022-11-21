@@ -1,0 +1,3 @@
+VTable for GCSDK::CProtoBufMsg<CMsgTrackUniquePlayerPairEvent>:
+    [0] GCSDK::CProtoBufMsg<CMsgTrackUniquePlayerPairEvent>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgTrackUniquePlayerPairEvent>::GetGenericBody() const

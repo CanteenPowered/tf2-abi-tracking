@@ -1,0 +1,1 @@
+VTable for CFmtStrN<32, false>:

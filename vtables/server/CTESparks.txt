@@ -1,0 +1,7 @@
+VTable for CTESparks:
+    [0] CTESparks::YouForgotToImplementOrDeclareServerClass()
+    [1] CTESparks::~CTESparks()
+    [2] CTESparks::~CTESparks()
+    [3] CTESparks::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

@@ -1,0 +1,7 @@
+VTable for CTEMuzzleFlash:
+    [0] CTEMuzzleFlash::YouForgotToImplementOrDeclareServerClass()
+    [1] CTEMuzzleFlash::~CTEMuzzleFlash()
+    [2] CTEMuzzleFlash::~CTEMuzzleFlash()
+    [3] CTEMuzzleFlash::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

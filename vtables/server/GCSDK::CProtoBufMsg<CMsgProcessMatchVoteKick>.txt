@@ -1,0 +1,6 @@
+VTable for GCSDK::CProtoBufMsg<CMsgProcessMatchVoteKick>:
+    [0] GCSDK::CProtoBufMsg<CMsgProcessMatchVoteKick>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgProcessMatchVoteKick>::GetGenericBody() const
+VTable for GCSDK::CProtoBufMsg<CMsgProcessMatchVoteKickResponse>:
+    [0] GCSDK::CProtoBufMsg<CMsgProcessMatchVoteKickResponse>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgProcessMatchVoteKickResponse>::GetGenericBody() const

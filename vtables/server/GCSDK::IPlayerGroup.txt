@@ -1,0 +1,2 @@
+VTable for GCSDK::IPlayerGroup:
+    [0] GCSDK::IPlayerGroup::~IPlayerGroup()

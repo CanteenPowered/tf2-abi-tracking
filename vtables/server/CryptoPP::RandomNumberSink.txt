@@ -1,0 +1,10 @@
+VTable for CryptoPP::RandomNumberSink:
+    [0] CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::MultiplicativeInverse(CryptoPP::PolynomialMod2 const&) const
+    [1] CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::Square(CryptoPP::PolynomialMod2 const&) const
+    [2] CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::Divide(CryptoPP::PolynomialMod2 const&, CryptoPP::PolynomialMod2 const&) const
+    [3] CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::Exponentiate(CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&) const
+    [4] CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::CascadeExponentiate(CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&, CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&) const
+    [5] CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::SimultaneousExponentiate(CryptoPP::PolynomialMod2*, CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const*, unsigned int) const
+    [6] CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroup() const
+    [7] CryptoPP::GF2NPP::Clone() const
+    [8] CryptoPP::GF2NPP::DEREncode(CryptoPP::BufferedTransformation&) const

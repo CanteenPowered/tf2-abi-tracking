@@ -1,0 +1,6 @@
+VTable for CEconTool_UpgradeCard:
+    [0] CEconTool_UpgradeCard::~CEconTool_UpgradeCard()
+    [1] CEconTool_UpgradeCard::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
+    [2] IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
+    [3] IEconTool::RequiresToolEscrowPeriod() const
+    [4] CEconTool_UpgradeCard::BFinishInitialization()

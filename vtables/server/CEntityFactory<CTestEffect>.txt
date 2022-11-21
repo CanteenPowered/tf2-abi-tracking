@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTestEffect>:
+    [0] CEntityFactory<CTestEffect>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTestEffect>::GetEntitySize()

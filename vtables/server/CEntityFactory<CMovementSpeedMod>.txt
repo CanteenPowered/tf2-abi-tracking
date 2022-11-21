@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CMovementSpeedMod>:
+    [0] CEntityFactory<CMovementSpeedMod>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CMovementSpeedMod>::GetEntitySize()

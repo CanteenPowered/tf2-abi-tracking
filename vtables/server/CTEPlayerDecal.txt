@@ -1,0 +1,7 @@
+VTable for CTEPlayerDecal:
+    [0] CTEPlayerDecal::YouForgotToImplementOrDeclareServerClass()
+    [1] CTEPlayerDecal::~CTEPlayerDecal()
+    [2] CTEPlayerDecal::~CTEPlayerDecal()
+    [3] CTEPlayerDecal::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

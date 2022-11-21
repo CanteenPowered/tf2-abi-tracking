@@ -1,0 +1,4 @@
+VTable for CTFDefendPointSniperZone:
+    [0] CTacticalMissionZone::ForEachArea(IForEachNavArea&) const
+    [1] CTFDefendPointSniperZone::~CTFDefendPointSniperZone()
+    [2] CTFDefendPointSniperZone::~CTFDefendPointSniperZone()

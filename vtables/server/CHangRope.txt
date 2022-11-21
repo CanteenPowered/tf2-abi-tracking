@@ -1,0 +1,2 @@
+VTable for CHangRope:
+    [0] CHangRope::ApplyConstraints(CSimplePhysics::CNode*, int)

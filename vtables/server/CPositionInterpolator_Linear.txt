@@ -1,0 +1,5 @@
+VTable for CPositionInterpolator_Linear:
+    [0] CPositionInterpolator_Linear::GetDetails(char**, int*, int*)
+    [1] CPositionInterpolator_Linear::SetKeyPosition(int, Vector const&)
+    [2] CPositionInterpolator_Linear::InterpolatePosition(float, Vector&)
+    [3] CPositionInterpolator_Linear::ProcessKey(char const*, char const*)

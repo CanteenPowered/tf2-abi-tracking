@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFWearableCampaignItem>:
+    [0] CEntityFactory<CTFWearableCampaignItem>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFWearableCampaignItem>::GetEntitySize()

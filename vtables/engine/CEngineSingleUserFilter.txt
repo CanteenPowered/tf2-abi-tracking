@@ -1,0 +1,7 @@
+VTable for CEngineSingleUserFilter:
+    [0] CEngineSingleUserFilter::~CEngineSingleUserFilter()
+    [1] CEngineSingleUserFilter::IsReliable() const
+    [2] CEngineSingleUserFilter::IsInitMessage() const
+    [3] CEngineSingleUserFilter::GetRecipientCount() const
+    [4] CEngineSingleUserFilter::GetRecipientIndex(int) const
+    [5] CEngineSingleUserFilter::IsBroadcastMessage() const

@@ -1,0 +1,40 @@
+VTable for CMsgIncrementKillCountAttribute:
+    [0] CMsgIncrementKillCountAttribute::~CMsgIncrementKillCountAttribute()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgIncrementKillCountAttribute::New() const
+    [3] CMsgIncrementKillCountAttribute::Clear()
+    [4] CMsgIncrementKillCountAttribute::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgIncrementKillCountAttribute::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgIncrementKillCountAttribute::ByteSize() const
+    [9] CMsgIncrementKillCountAttribute::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgIncrementKillCountAttribute::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgIncrementKillCountAttribute::GetCachedSize() const
+    [12] CMsgIncrementKillCountAttribute::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgIncrementKillCountAttribute::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgIncrementKillCountAttribute::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgIncrementKillCountAttribute::GetMetadata() const
+VTable for CMsgIncrementKillCountAttribute_Multiple:
+    [0] CMsgIncrementKillCountAttribute_Multiple::~CMsgIncrementKillCountAttribute_Multiple()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgIncrementKillCountAttribute_Multiple::New() const
+    [3] CMsgIncrementKillCountAttribute_Multiple::Clear()
+    [4] CMsgIncrementKillCountAttribute_Multiple::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgIncrementKillCountAttribute_Multiple::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgIncrementKillCountAttribute_Multiple::ByteSize() const
+    [9] CMsgIncrementKillCountAttribute_Multiple::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgIncrementKillCountAttribute_Multiple::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgIncrementKillCountAttribute_Multiple::GetCachedSize() const
+    [12] CMsgIncrementKillCountAttribute_Multiple::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgIncrementKillCountAttribute_Multiple::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgIncrementKillCountAttribute_Multiple::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgIncrementKillCountAttribute_Multiple::GetMetadata() const

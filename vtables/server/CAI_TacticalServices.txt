@@ -1,0 +1,5 @@
+VTable for CAI_TacticalServices:
+    [0] CAI_TacticalServices::~CAI_TacticalServices()
+    [1] CAI_Component::SetOuter(CAI_BaseNPC*)
+    [2] CAI_Component::TaskFail(int)
+    [3] CAI_Component::TaskComplete(bool)

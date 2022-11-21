@@ -1,0 +1,3 @@
+VTable for ConstRefTFPerPlayerMatchCriteria:
+    [0] ConstRefTFPerPlayerMatchCriteria::~ConstRefTFPerPlayerMatchCriteria()
+    [1] ConstRefTFPerPlayerMatchCriteria::Proto() const

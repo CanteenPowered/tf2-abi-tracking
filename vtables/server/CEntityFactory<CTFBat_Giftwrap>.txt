@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFBat_Giftwrap>:
+    [0] CEntityFactory<CTFBat_Giftwrap>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFBat_Giftwrap>::GetEntitySize()

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CDispenserTouchTrigger>:
+    [0] CEntityFactory<CDispenserTouchTrigger>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CDispenserTouchTrigger>::GetEntitySize()

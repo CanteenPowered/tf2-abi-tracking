@@ -1,0 +1,5 @@
+VTable for CMemberFunctor2<CAI_Navigator*, bool (CAI_Navigator::*)(AI_NavGoal_t const&, unsigned int), AI_NavGoal_t, unsigned int, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>:
+    [0] CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>::Release()
+    [1] CMemberFunctor2<CAI_Navigator*, bool (CAI_Navigator::*)(AI_NavGoal_t const&, unsigned int), AI_NavGoal_t, unsigned int, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::~CMemberFunctor2()
+    [2] CMemberFunctor2<CAI_Navigator*, bool (CAI_Navigator::*)(AI_NavGoal_t const&, unsigned int), AI_NavGoal_t, unsigned int, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::~CMemberFunctor2()
+    [3] CMemberFunctor2<CAI_Navigator*, bool (CAI_Navigator::*)(AI_NavGoal_t const&, unsigned int), AI_NavGoal_t, unsigned int, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::operator()()

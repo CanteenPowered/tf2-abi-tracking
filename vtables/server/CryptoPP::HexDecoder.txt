@@ -1,0 +1,6 @@
+VTable for CryptoPP::HexDecoder:
+    [0] CryptoPP::AutoSignaling<CryptoPP::BufferedTransformation>::~AutoSignaling()
+    [1] CryptoPP::Clonable::Clone() const
+    [2] CryptoPP::Algorithm::AlgorithmName() const
+    [3] CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    [4] CryptoPP::BufferedTransformation::CanModifyInput() const

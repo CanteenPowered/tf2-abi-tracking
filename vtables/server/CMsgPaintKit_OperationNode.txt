@@ -1,0 +1,20 @@
+VTable for CMsgPaintKit_OperationNode:
+    [0] CMsgPaintKit_OperationNode::~CMsgPaintKit_OperationNode()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgPaintKit_OperationNode::New() const
+    [3] CMsgPaintKit_OperationNode::Clear()
+    [4] CMsgPaintKit_OperationNode::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgPaintKit_OperationNode::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgPaintKit_OperationNode::ByteSize() const
+    [9] CMsgPaintKit_OperationNode::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgPaintKit_OperationNode::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgPaintKit_OperationNode::GetCachedSize() const
+    [12] CMsgPaintKit_OperationNode::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgPaintKit_OperationNode::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgPaintKit_OperationNode::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgPaintKit_OperationNode::GetMetadata() const

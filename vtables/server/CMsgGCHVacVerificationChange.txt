@@ -1,0 +1,20 @@
+VTable for CMsgGCHVacVerificationChange:
+    [0] CMsgGCHVacVerificationChange::~CMsgGCHVacVerificationChange()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCHVacVerificationChange::New() const
+    [3] CMsgGCHVacVerificationChange::Clear()
+    [4] CMsgGCHVacVerificationChange::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCHVacVerificationChange::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCHVacVerificationChange::ByteSize() const
+    [9] CMsgGCHVacVerificationChange::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCHVacVerificationChange::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCHVacVerificationChange::GetCachedSize() const
+    [12] CMsgGCHVacVerificationChange::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCHVacVerificationChange::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCHVacVerificationChange::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCHVacVerificationChange::GetMetadata() const

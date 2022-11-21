@@ -1,0 +1,5 @@
+VTable for CResponseSystemSaveRestoreOps:
+    [0] CResponseSystemSaveRestoreOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CDefSaveRestoreOps::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CDefSaveRestoreOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)

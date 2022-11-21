@@ -1,0 +1,2 @@
+VTable for PressAltFireButtonReply:
+    [0] INextBotReply::OnFail(INextBot*, INextBotReply::FailureReason)

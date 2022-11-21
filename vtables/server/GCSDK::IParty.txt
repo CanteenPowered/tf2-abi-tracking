@@ -1,0 +1,2 @@
+VTable for GCSDK::IParty:
+    [0] GCSDK::IParty::~IParty()

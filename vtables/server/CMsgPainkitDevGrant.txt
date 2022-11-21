@@ -1,0 +1,20 @@
+VTable for CMsgPainkitDevGrant:
+    [0] CMsgPainkitDevGrant::~CMsgPainkitDevGrant()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgPainkitDevGrant::New() const
+    [3] CMsgPainkitDevGrant::Clear()
+    [4] CMsgPainkitDevGrant::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgPainkitDevGrant::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgPainkitDevGrant::ByteSize() const
+    [9] CMsgPainkitDevGrant::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgPainkitDevGrant::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgPainkitDevGrant::GetCachedSize() const
+    [12] CMsgPainkitDevGrant::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgPainkitDevGrant::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgPainkitDevGrant::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgPainkitDevGrant::GetMetadata() const

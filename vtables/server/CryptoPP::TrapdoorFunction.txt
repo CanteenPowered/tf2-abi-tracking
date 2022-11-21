@@ -1,0 +1,2 @@
+VTable for CryptoPP::TrapdoorFunction:
+    [0] CryptoPP::TrapdoorFunction::~TrapdoorFunction()

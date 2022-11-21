@@ -1,0 +1,3 @@
+VTable for GCSDK::CProtoBufMsg<CMsgSOMultipleObjects>:
+    [0] GCSDK::CProtoBufMsg<CMsgSOMultipleObjects>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgSOMultipleObjects>::GetGenericBody() const

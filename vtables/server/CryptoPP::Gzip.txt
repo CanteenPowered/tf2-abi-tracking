@@ -1,0 +1,17 @@
+VTable for CryptoPP::Gzip:
+    [0] CryptoPP::CipherModeBase::IVSize() const
+    [1] CryptoPP::SimpleKeyingInterface::MinIVLength() const
+    [2] CryptoPP::SimpleKeyingInterface::MaxIVLength() const
+    [3] CryptoPP::BlockOrientedCipherModeBase::Resynchronize(unsigned char const*, int)
+    [4] CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator&, unsigned char*)
+    [5] CryptoPP::SymmetricCipher::GetAlgorithm() const
+    [6] CryptoPP::BlockOrientedCipherModeBase::UncheckedSetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [7] CryptoPP::CipherModeBase::OptimalDataAlignment() const
+    [8] CryptoPP::CipherModeBase::SetFeedbackSize(unsigned int)
+    [9] CryptoPP::BlockOrientedCipherModeBase::ResizeBuffers()
+    [10] CryptoPP::BlockOrientedCipherModeBase::MandatoryBlockSize() const
+    [11] CryptoPP::BlockOrientedCipherModeBase::IsRandomAccess() const
+    [12] CryptoPP::BlockOrientedCipherModeBase::IsSelfInverting() const
+    [13] CryptoPP::BlockOrientedCipherModeBase::IsForwardTransformation() const
+    [14] CryptoPP::CBC_ModeBase::MinLastBlockSize() const
+    [15] CryptoPP::CBC_Encryption::ProcessData(unsigned char*, unsigned char const*, unsigned int)

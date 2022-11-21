@@ -1,0 +1,6 @@
+VTable for CEntityFactory<CBaseGrenadeContact>:
+    [0] CEntityFactory<CBaseGrenadeContact>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CBaseGrenadeContact>::GetEntitySize()
+VTable for CEntityFactory<CBaseGrenadeConcussion>:
+    [0] CEntityFactory<CBaseGrenadeConcussion>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CBaseGrenadeConcussion>::GetEntitySize()

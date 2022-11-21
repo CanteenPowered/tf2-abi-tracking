@@ -1,0 +1,2 @@
+VTable for CPluginBotManager:
+    [0] CPluginBotManager::CreateBot(char const*)

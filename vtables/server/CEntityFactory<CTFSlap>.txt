@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFSlap>:
+    [0] CEntityFactory<CTFSlap>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFSlap>::GetEntitySize()

@@ -1,0 +1,2 @@
+VTable for IClientUnknown:
+    [0] IClientUnknown::~IClientUnknown()

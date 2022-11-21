@@ -1,0 +1,2 @@
+VTable for IFuncPowerupVolumeAutoList:
+    [0] IFuncPowerupVolumeAutoList::~IFuncPowerupVolumeAutoList()

@@ -1,0 +1,2 @@
+VTable for GCSDK::CSharedObjectCache:
+    [0] GCSDK::CSharedObjectCache::~CSharedObjectCache()

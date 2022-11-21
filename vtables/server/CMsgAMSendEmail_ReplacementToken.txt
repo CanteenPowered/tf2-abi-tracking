@@ -1,0 +1,20 @@
+VTable for CMsgAMSendEmail_ReplacementToken:
+    [0] CMsgAMSendEmail_ReplacementToken::~CMsgAMSendEmail_ReplacementToken()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgAMSendEmail_ReplacementToken::New() const
+    [3] CMsgAMSendEmail_ReplacementToken::Clear()
+    [4] CMsgAMSendEmail_ReplacementToken::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgAMSendEmail_ReplacementToken::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgAMSendEmail_ReplacementToken::ByteSize() const
+    [9] CMsgAMSendEmail_ReplacementToken::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgAMSendEmail_ReplacementToken::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgAMSendEmail_ReplacementToken::GetCachedSize() const
+    [12] CMsgAMSendEmail_ReplacementToken::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgAMSendEmail_ReplacementToken::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgAMSendEmail_ReplacementToken::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgAMSendEmail_ReplacementToken::GetMetadata() const

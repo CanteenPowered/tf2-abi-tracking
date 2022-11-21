@@ -1,0 +1,21 @@
+VTable for CEconTool_ItemDynamicRecipe::CBaseRecipeComponent:
+    [0] CEconTool_ItemDynamicRecipe::CBaseRecipeComponent::~CBaseRecipeComponent()
+    [1] CEconTool_ItemDynamicRecipe::CBaseRecipeComponent::ParseKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [2] CEconTool_ItemDynamicRecipe::CBaseRecipeComponent::BFinishInitialization_Internal(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*, CUtlVector<CEconItemAttributeDefinition const*, CUtlMemory<CEconItemAttributeDefinition const*, int>>*)
+VTable for CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentDefinedItem:
+    [0] CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentDefinedItem::~CDynamicRecipeComponentDefinedItem()
+    [1] CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentDefinedItem::ParseKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [2] CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentDefinedItem::BFinishInitialization_Internal(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*, CUtlVector<CEconItemAttributeDefinition const*, CUtlMemory<CEconItemAttributeDefinition const*, int>>*)
+VTable for CEconTool_ItemDynamicRecipe::CRecipeComponentInputDefIndexIterator:
+    [0] CEconTool_ItemDynamicRecipe::CRecipeComponentInputDefIndexIterator::~CRecipeComponentInputDefIndexIterator()
+    [1] CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned int)
+    [2] CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, float)
+    [3] CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned long long const&)
+    [4] CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_String const&)
+    [5] CEconTool_ItemDynamicRecipe::CRecipeComponentInputDefIndexIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_DynamicRecipeComponent const&)
+    [6] CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_ItemSlotCriteria const&)
+    [7] CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_WorldItemPlacement const&)
+VTable for CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentLootList:
+    [0] CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentLootList::~CDynamicRecipeComponentLootList()
+    [1] CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentLootList::ParseKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [2] CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentLootList::BFinishInitialization_Internal(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*, CUtlVector<CEconItemAttributeDefinition const*, CUtlMemory<CEconItemAttributeDefinition const*, int>>*)

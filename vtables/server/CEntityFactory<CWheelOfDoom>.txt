@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CWheelOfDoom>:
+    [0] CEntityFactory<CWheelOfDoom>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CWheelOfDoom>::GetEntitySize()

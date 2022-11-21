@@ -1,0 +1,3 @@
+VTable for CryptoPP::LC_RNG:
+    [0] CryptoPP::X509PublicKey::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
+    [1] CryptoPP::X509PublicKey::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const

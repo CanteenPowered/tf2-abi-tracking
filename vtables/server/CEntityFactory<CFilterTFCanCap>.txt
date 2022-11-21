@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CFilterTFCanCap>:
+    [0] CEntityFactory<CFilterTFCanCap>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CFilterTFCanCap>::GetEntitySize()

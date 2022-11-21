@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CFunc_DustMotes>:
+    [0] CEntityFactory<CFunc_DustMotes>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CFunc_DustMotes>::GetEntitySize()

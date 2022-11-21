@@ -1,0 +1,2 @@
+VTable for SendProp:
+    [0] SendProp::~SendProp()

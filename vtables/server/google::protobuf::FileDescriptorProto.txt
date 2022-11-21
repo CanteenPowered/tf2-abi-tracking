@@ -1,0 +1,2 @@
+VTable for google::protobuf::FileDescriptorProto:
+VTable for google::protobuf::FileDescriptorSet:

@@ -1,0 +1,2 @@
+VTable for IFuncRespawnRoomAutoList:
+    [0] IFuncRespawnRoomAutoList::~IFuncRespawnRoomAutoList()

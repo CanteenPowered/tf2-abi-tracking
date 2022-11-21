@@ -1,0 +1,5 @@
+VTable for CUtlMapDataOps<CUtlMap<string_t, CSimpleSimTimer, char, bool (*)(string_t const&, string_t const&)>, 2, 10>:
+    [0] CUtlMapDataOps<CUtlMap<string_t, CSimpleSimTimer, char, bool (*)(string_t const&, string_t const&)>, 2, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CUtlMapDataOps<CUtlMap<string_t, CSimpleSimTimer, char, bool (*)(string_t const&, string_t const&)>, 2, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CUtlMapDataOps<CUtlMap<string_t, CSimpleSimTimer, char, bool (*)(string_t const&, string_t const&)>, 2, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)

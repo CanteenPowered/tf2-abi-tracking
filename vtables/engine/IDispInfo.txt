@@ -1,0 +1,2 @@
+VTable for IDispInfo:
+    [0] IDispInfo::~IDispInfo()

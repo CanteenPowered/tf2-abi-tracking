@@ -1,0 +1,10 @@
+VTable for CQuestMapNodeDefinition:
+    [0] CQuestMapNodeDefinition::~CQuestMapNodeDefinition()
+    [1] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetMsg() const
+    [2] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetDefType() const
+    [3] CQuestMapNodeDefinition::GetDisplayName() const
+    [4] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetTopLayerMessage() const
+    [5] CQuestMapNodeDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [7] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetMutableTopLayerMsg()
+    [8] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetMutableMsg()

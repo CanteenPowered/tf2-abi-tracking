@@ -1,0 +1,83 @@
+VTable for CHeadlessHatmanBody:
+    [0] CHeadlessHatmanBody::~CHeadlessHatmanBody()
+    [1] INextBotEventResponder::FirstContainedResponder() const
+    [2] INextBotEventResponder::NextContainedResponder(INextBotEventResponder*) const
+    [3] INextBotEventResponder::OnLeaveGround(CBaseEntity*)
+    [4] INextBotEventResponder::OnLandOnGround(CBaseEntity*)
+    [5] INextBotEventResponder::OnContact(CBaseEntity*, CGameTrace*)
+    [6] INextBotEventResponder::OnMoveToSuccess(Path const*)
+    [7] INextBotEventResponder::OnMoveToFailure(Path const*, MoveToFailureType)
+    [8] INextBotEventResponder::OnStuck()
+    [9] INextBotEventResponder::OnUnStuck()
+    [10] INextBotEventResponder::OnPostureChanged()
+    [11] INextBotEventResponder::OnAnimationActivityComplete(int)
+    [12] INextBotEventResponder::OnAnimationActivityInterrupted(int)
+    [13] INextBotEventResponder::OnAnimationEvent(animevent_t*)
+    [14] INextBotEventResponder::OnIgnite()
+    [15] INextBotEventResponder::OnInjured(CTakeDamageInfo const&)
+    [16] INextBotEventResponder::OnKilled(CTakeDamageInfo const&)
+    [17] INextBotEventResponder::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)
+    [18] INextBotEventResponder::OnSight(CBaseEntity*)
+    [19] INextBotEventResponder::OnLostSight(CBaseEntity*)
+    [20] INextBotEventResponder::OnSound(CBaseEntity*, Vector const&, KeyValues*)
+    [21] INextBotEventResponder::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)
+    [22] INextBotEventResponder::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)
+    [23] INextBotEventResponder::OnNavAreaChanged(CNavArea*, CNavArea*)
+    [24] INextBotEventResponder::OnModelChanged()
+    [25] INextBotEventResponder::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)
+    [26] INextBotEventResponder::OnDrop(CBaseEntity*)
+    [27] INextBotEventResponder::OnActorEmoted(CBaseCombatCharacter*, int)
+    [28] INextBotEventResponder::OnCommandAttack(CBaseEntity*)
+    [29] INextBotEventResponder::OnCommandApproach(Vector const&, float)
+    [30] INextBotEventResponder::OnCommandApproach(CBaseEntity*)
+    [31] INextBotEventResponder::OnCommandRetreat(CBaseEntity*, float)
+    [32] INextBotEventResponder::OnCommandPause(float)
+    [33] INextBotEventResponder::OnCommandResume()
+    [34] INextBotEventResponder::OnCommandString(char const*)
+    [35] INextBotEventResponder::OnShoved(CBaseEntity*)
+    [36] INextBotEventResponder::OnBlinded(CBaseEntity*)
+    [37] INextBotEventResponder::OnTerritoryContested(int)
+    [38] INextBotEventResponder::OnTerritoryCaptured(int)
+    [39] INextBotEventResponder::OnTerritoryLost(int)
+    [40] INextBotEventResponder::OnWin()
+    [41] INextBotEventResponder::OnLose()
+    [42] IBody::Reset()
+    [43] CHeadlessHatmanBody::Update()
+    [44] INextBotComponent::Upkeep()
+    [45] INextBotComponent::GetBot() const
+    [46] IBody::SetPosition(Vector const&)
+    [47] IBody::GetEyePosition() const
+    [48] IBody::GetViewVector() const
+    [49] IBody::AimHeadTowards(Vector const&, IBody::LookAtPriorityType, float, INextBotReply*, char const*)
+    [50] IBody::AimHeadTowards(CBaseEntity*, IBody::LookAtPriorityType, float, INextBotReply*, char const*)
+    [51] IBody::IsHeadAimingOnTarget() const
+    [52] IBody::IsHeadSteady() const
+    [53] IBody::GetHeadSteadyDuration() const
+    [54] IBody::GetHeadAimSubjectLeadTime() const
+    [55] IBody::GetHeadAimTrackingInterval() const
+    [56] IBody::ClearPendingAimReply()
+    [57] IBody::GetMaxHeadAngularVelocity() const
+    [58] CHeadlessHatmanBody::StartActivity(Activity, unsigned int)
+    [59] IBody::SelectAnimationSequence(Activity) const
+    [60] CHeadlessHatmanBody::GetActivity() const
+    [61] CHeadlessHatmanBody::IsActivity(Activity) const
+    [62] IBody::HasActivityType(unsigned int) const
+    [63] IBody::SetDesiredPosture(IBody::PostureType)
+    [64] IBody::GetDesiredPosture() const
+    [65] IBody::IsDesiredPosture(IBody::PostureType) const
+    [66] IBody::IsInDesiredPosture() const
+    [67] IBody::GetActualPosture() const
+    [68] IBody::IsActualPosture(IBody::PostureType) const
+    [69] IBody::IsPostureMobile() const
+    [70] IBody::IsPostureChanging() const
+    [71] IBody::SetArousal(IBody::ArousalType)
+    [72] IBody::GetArousal() const
+    [73] IBody::IsArousal(IBody::ArousalType) const
+    [74] IBody::GetHullWidth() const
+    [75] IBody::GetHullHeight() const
+    [76] IBody::GetStandHullHeight() const
+    [77] IBody::GetCrouchHullHeight() const
+    [78] IBody::GetHullMins() const
+    [79] IBody::GetHullMaxs() const
+    [80] CHeadlessHatmanBody::GetSolidMask() const
+    [81] IBody::GetCollisionGroup() const

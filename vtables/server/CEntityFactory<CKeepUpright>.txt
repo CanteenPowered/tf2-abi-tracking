@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CKeepUpright>:
+    [0] CEntityFactory<CKeepUpright>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CKeepUpright>::GetEntitySize()

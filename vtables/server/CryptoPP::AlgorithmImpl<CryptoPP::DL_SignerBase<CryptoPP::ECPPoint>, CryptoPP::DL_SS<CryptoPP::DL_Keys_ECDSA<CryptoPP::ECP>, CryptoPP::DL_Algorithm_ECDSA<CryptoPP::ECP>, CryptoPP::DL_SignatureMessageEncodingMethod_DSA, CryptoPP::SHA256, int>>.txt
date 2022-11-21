@@ -1,0 +1,178 @@
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA256>>, CryptoPP::HMAC<CryptoPP::SHA256>>:
+    [0] CryptoPP::AlgorithmImpl<CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA256>>, CryptoPP::HMAC<CryptoPP::SHA256>>::~AlgorithmImpl()
+    [1] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA256>>::MinKeyLength() const
+    [2] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA256>>::MaxKeyLength() const
+    [3] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA256>>::DefaultKeyLength() const
+    [4] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA256>>::GetValidKeyLength(unsigned int) const
+    [5] CryptoPP::SimpleKeyingInterface::IsValidKeyLength(unsigned int) const
+    [6] CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [7] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA256>>::IVRequirement() const
+    [8] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA256>>::IVSize() const
+    [9] CryptoPP::SimpleKeyingInterface::MinIVLength() const
+    [10] CryptoPP::SimpleKeyingInterface::MaxIVLength() const
+    [11] CryptoPP::SimpleKeyingInterface::Resynchronize(unsigned char const*, int)
+    [12] CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator&, unsigned char*)
+    [13] CryptoPP::MessageAuthenticationCode::GetAlgorithm() const
+    [14] CryptoPP::HMAC_Base::UncheckedSetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [15] CryptoPP::HMAC_Base::Restart()
+    [16] CryptoPP::HMAC_Base::Update(unsigned char const*, unsigned int)
+    [17] CryptoPP::HMAC_Base::TruncatedFinal(unsigned char*, unsigned int)
+    [18] CryptoPP::HMAC_Base::OptimalBlockSize() const
+    [19] CryptoPP::HMAC_Base::DigestSize() const
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::TF_VerifierBase, CryptoPP::TF_SS<CryptoPP::PKCS1v15, CryptoPP::SHA1, CryptoPP::RSA, int>>:
+    [0] CryptoPP::AlgorithmImpl<CryptoPP::TF_VerifierBase, CryptoPP::TF_SS<CryptoPP::PKCS1v15, CryptoPP::SHA1, CryptoPP::RSA, int>>::~AlgorithmImpl()
+    [1] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::SignatureLength() const
+    [2] CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
+    [3] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::MaxRecoverableLength() const
+    [4] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
+    [5] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::IsProbabilistic() const
+    [6] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::AllowNonrecoverablePart() const
+    [7] CryptoPP::PK_SignatureScheme::SignatureUpfront() const
+    [8] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::RecoverablePartFirst() const
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>, CryptoPP::SHA256>:
+    [0] CryptoPP::AlgorithmImpl<CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>, CryptoPP::SHA256>::~AlgorithmImpl()
+    [1] CryptoPP::Clonable::Clone() const
+    [2] CryptoPP::AlgorithmImpl<CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>, CryptoPP::SHA256>::AlgorithmName() const
+    [3] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::Update(unsigned char const*, unsigned int)
+    [4] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::CreateUpdateSpace(unsigned int&)
+    [5] CryptoPP::HashTransformation::Final(unsigned char*)
+    [6] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::Restart()
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::TF_SignerBase, CryptoPP::TF_SS<CryptoPP::PKCS1v15, CryptoPP::SHA256, CryptoPP::RSA, int>>:
+    [0] CryptoPP::AlgorithmImpl<CryptoPP::TF_SignerBase, CryptoPP::TF_SS<CryptoPP::PKCS1v15, CryptoPP::SHA256, CryptoPP::RSA, int>>::~AlgorithmImpl()
+    [1] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::SignatureLength() const
+    [2] CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
+    [3] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::MaxRecoverableLength() const
+    [4] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
+    [5] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::IsProbabilistic() const
+    [6] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::AllowNonrecoverablePart() const
+    [7] CryptoPP::PK_SignatureScheme::SignatureUpfront() const
+    [8] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::RecoverablePartFirst() const
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::DL_SignerBase<CryptoPP::Integer>, CryptoPP::DSA2<CryptoPP::SHA1>>:
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::DL_VerifierBase<CryptoPP::Integer>, CryptoPP::DSA2<CryptoPP::SHA1>>:
+    [0] CryptoPP::DL_ObjectImpl<CryptoPP::DL_SignerBase<CryptoPP::EC2NPoint>, CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DL_SS<CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256, int>, CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256>, CryptoPP::DL_PrivateKey_WithSignaturePairwiseConsistencyTest<CryptoPP::DL_PrivateKey_EC<CryptoPP::EC2N>, CryptoPP::ECDSA<CryptoPP::EC2N, CryptoPP::SHA256>>>::GetMessageEncodingInterface() const
+    [1] CryptoPP::DL_ObjectImpl<CryptoPP::DL_SignerBase<CryptoPP::EC2NPoint>, CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DL_SS<CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256, int>, CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256>, CryptoPP::DL_PrivateKey_WithSignaturePairwiseConsistencyTest<CryptoPP::DL_PrivateKey_EC<CryptoPP::EC2N>, CryptoPP::ECDSA<CryptoPP::EC2N, CryptoPP::SHA256>>>::GetHashIdentifier() const
+    [2] CryptoPP::DL_ObjectImplBase<CryptoPP::DL_SignerBase<CryptoPP::EC2NPoint>, CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DL_SS<CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256, int>, CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256>, CryptoPP::DL_PrivateKey_WithSignaturePairwiseConsistencyTest<CryptoPP::DL_PrivateKey_EC<CryptoPP::EC2N>, CryptoPP::ECDSA<CryptoPP::EC2N, CryptoPP::SHA256>>>::GetDigestSize() const
+    [3] CryptoPP::AlgorithmImpl<CryptoPP::DL_SignerBase<CryptoPP::EC2NPoint>, CryptoPP::DL_SS<CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256, int>>::AlgorithmName() const
+    [4] CryptoPP::DL_ObjectImplBase<CryptoPP::DL_SignerBase<CryptoPP::EC2NPoint>, CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DL_SS<CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256, int>, CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256>, CryptoPP::DL_PrivateKey_WithSignaturePairwiseConsistencyTest<CryptoPP::DL_PrivateKey_EC<CryptoPP::EC2N>, CryptoPP::ECDSA<CryptoPP::EC2N, CryptoPP::SHA256>>>::AccessPrivateKey()
+    [5] CryptoPP::DL_ObjectImplBase<CryptoPP::DL_SignerBase<CryptoPP::EC2NPoint>, CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DL_SS<CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256, int>, CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256>, CryptoPP::DL_PrivateKey_WithSignaturePairwiseConsistencyTest<CryptoPP::DL_PrivateKey_EC<CryptoPP::EC2N>, CryptoPP::ECDSA<CryptoPP::EC2N, CryptoPP::SHA256>>>::AccessKeyInterface()
+    [6] CryptoPP::DL_ObjectImplBase<CryptoPP::DL_SignerBase<CryptoPP::EC2NPoint>, CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DL_SS<CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256, int>, CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256>, CryptoPP::DL_PrivateKey_WithSignaturePairwiseConsistencyTest<CryptoPP::DL_PrivateKey_EC<CryptoPP::EC2N>, CryptoPP::ECDSA<CryptoPP::EC2N, CryptoPP::SHA256>>>::GetKeyInterface() const
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::TF_DecryptorBase, CryptoPP::TF_ES<CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>, CryptoPP::RSA, int>>:
+    [0] CryptoPP::AlgorithmImpl<CryptoPP::TF_DecryptorBase, CryptoPP::TF_ES<CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>, CryptoPP::RSA, int>>::~AlgorithmImpl()
+    [1] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>::MaxPlaintextLength(unsigned int) const
+    [2] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>::CiphertextLength(unsigned int) const
+    [3] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>::ParameterSupported(char const*) const
+    [4] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedCiphertextLength() const
+    [5] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedMaxPlaintextLength() const
+    [6] CryptoPP::TF_DecryptorBase::Decrypt(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned int, unsigned char*, CryptoPP::NameValuePairs const&) const
+    [7] CryptoPP::PK_Decryptor::CreateDecryptionFilter(CryptoPP::RandomNumberGenerator&, CryptoPP::BufferedTransformation*, CryptoPP::NameValuePairs const&) const
+    [8] CryptoPP::AlgorithmImpl<CryptoPP::TF_DecryptorBase, CryptoPP::TF_ES<CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>, CryptoPP::RSA, int>>::AlgorithmName() const
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::TF_VerifierBase, CryptoPP::TF_SS<CryptoPP::PKCS1v15, CryptoPP::SHA256, CryptoPP::RSA, int>>:
+    [0] CryptoPP::AlgorithmImpl<CryptoPP::TF_VerifierBase, CryptoPP::TF_SS<CryptoPP::PKCS1v15, CryptoPP::SHA256, CryptoPP::RSA, int>>::~AlgorithmImpl()
+    [1] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::SignatureLength() const
+    [2] CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
+    [3] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::MaxRecoverableLength() const
+    [4] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
+    [5] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::IsProbabilistic() const
+    [6] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::AllowNonrecoverablePart() const
+    [7] CryptoPP::PK_SignatureScheme::SignatureUpfront() const
+    [8] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::RecoverablePartFirst() const
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::DL_VerifierBase<CryptoPP::ECPPoint>, CryptoPP::DL_SS<CryptoPP::DL_Keys_ECDSA<CryptoPP::ECP>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::ECP>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256, int>>:
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::DL_SignerBase<CryptoPP::EC2NPoint>, CryptoPP::DL_SS<CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256, int>>:
+    [0] CryptoPP::MeterFilter::ShouldPropagateMessageSeriesEnd() const
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>, CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>>, CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>, CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>>>:
+    [0] CryptoPP::AlgorithmImpl<CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>, CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>>, CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>, CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>>>::~AlgorithmImpl()
+    [1] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>, CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>>::MinKeyLength() const
+    [2] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>, CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>>::MaxKeyLength() const
+    [3] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>, CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>>::DefaultKeyLength() const
+    [4] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>, CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>>::GetValidKeyLength(unsigned int) const
+    [5] CryptoPP::SimpleKeyingInterface::IsValidKeyLength(unsigned int) const
+    [6] CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [7] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>, CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>>::IVRequirement() const
+    [8] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>, CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>>::IVSize() const
+    [9] CryptoPP::SimpleKeyingInterface::MinIVLength() const
+    [10] CryptoPP::SimpleKeyingInterface::MaxIVLength() const
+    [11] CryptoPP::SimpleKeyingInterface::Resynchronize(unsigned char const*, int)
+    [12] CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator&, unsigned char*)
+    [13] CryptoPP::BlockCipher::GetAlgorithm() const
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::DL_VerifierBase<CryptoPP::EC2NPoint>, CryptoPP::DL_SS<CryptoPP::DL_Keys_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256, int>>:
+    [0] CryptoPP::BufferedTransformation::GetAutoSignalPropagation() const
+    [1] CryptoPP::BufferedTransformation::MaxRetrievable() const
+    [2] CryptoPP::BufferedTransformation::AnyRetrievable() const
+    [3] CryptoPP::BufferedTransformation::Get(unsigned char&)
+    [4] CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
+    [5] CryptoPP::BufferedTransformation::Peek(unsigned char&) const
+    [6] CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
+    [7] CryptoPP::BufferedTransformation::Skip(unsigned long long)
+    [8] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
+    [9] CryptoPP::BufferedTransformation::NumberOfMessages() const
+    [10] CryptoPP::BufferedTransformation::AnyMessages() const
+    [11] CryptoPP::BufferedTransformation::GetNextMessage()
+    [12] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
+    [13] CryptoPP::BufferedTransformation::SkipAll()
+    [14] CryptoPP::BufferedTransformation::GetNextMessageSeries()
+    [15] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
+    [16] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
+    [17] CryptoPP::Sink::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
+    [18] CryptoPP::Sink::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
+    [19] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
+    [20] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
+    [21] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
+    [22] CryptoPP::BufferedTransformation::ChannelFlush(std::string const&, bool, int, bool)
+    [23] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
+    [24] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
+    [25] CryptoPP::BufferedTransformation::Attachable()
+    [26] CryptoPP::BufferedTransformation::AttachedTransformation()
+    [27] CryptoPP::BufferedTransformation::AttachedTransformation() const
+    [28] CryptoPP::BufferedTransformation::Detach(CryptoPP::BufferedTransformation*)
+    [29] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>, CryptoPP::SHA1>:
+    [0] CryptoPP::AlgorithmImpl<CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>, CryptoPP::SHA1>::~AlgorithmImpl()
+    [1] CryptoPP::Clonable::Clone() const
+    [2] CryptoPP::AlgorithmImpl<CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>, CryptoPP::SHA1>::AlgorithmName() const
+    [3] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::Update(unsigned char const*, unsigned int)
+    [4] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::CreateUpdateSpace(unsigned int&)
+    [5] CryptoPP::HashTransformation::Final(unsigned char*)
+    [6] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::Restart()
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA1>>, CryptoPP::HMAC<CryptoPP::SHA1>>:
+    [0] CryptoPP::AlgorithmImpl<CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA1>>, CryptoPP::HMAC<CryptoPP::SHA1>>::~AlgorithmImpl()
+    [1] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA1>>::MinKeyLength() const
+    [2] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA1>>::MaxKeyLength() const
+    [3] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA1>>::DefaultKeyLength() const
+    [4] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA1>>::GetValidKeyLength(unsigned int) const
+    [5] CryptoPP::SimpleKeyingInterface::IsValidKeyLength(unsigned int) const
+    [6] CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [7] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA1>>::IVRequirement() const
+    [8] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA1>>::IVSize() const
+    [9] CryptoPP::SimpleKeyingInterface::MinIVLength() const
+    [10] CryptoPP::SimpleKeyingInterface::MaxIVLength() const
+    [11] CryptoPP::SimpleKeyingInterface::Resynchronize(unsigned char const*, int)
+    [12] CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator&, unsigned char*)
+    [13] CryptoPP::MessageAuthenticationCode::GetAlgorithm() const
+    [14] CryptoPP::HMAC_Base::UncheckedSetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [15] CryptoPP::HMAC_Base::Restart()
+    [16] CryptoPP::HMAC_Base::Update(unsigned char const*, unsigned int)
+    [17] CryptoPP::HMAC_Base::TruncatedFinal(unsigned char*, unsigned int)
+    [18] CryptoPP::HMAC_Base::OptimalBlockSize() const
+    [19] CryptoPP::HMAC_Base::DigestSize() const
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::TF_EncryptorBase, CryptoPP::TF_ES<CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>, CryptoPP::RSA, int>>:
+    [0] CryptoPP::AlgorithmImpl<CryptoPP::TF_EncryptorBase, CryptoPP::TF_ES<CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>, CryptoPP::RSA, int>>::~AlgorithmImpl()
+    [1] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::MaxPlaintextLength(unsigned int) const
+    [2] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::CiphertextLength(unsigned int) const
+    [3] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::ParameterSupported(char const*) const
+    [4] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedCiphertextLength() const
+    [5] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedMaxPlaintextLength() const
+    [6] CryptoPP::TF_EncryptorBase::Encrypt(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned int, unsigned char*, CryptoPP::NameValuePairs const&) const
+    [7] CryptoPP::PK_Encryptor::CreateEncryptionFilter(CryptoPP::RandomNumberGenerator&, CryptoPP::BufferedTransformation*, CryptoPP::NameValuePairs const&) const
+    [8] CryptoPP::AlgorithmImpl<CryptoPP::TF_EncryptorBase, CryptoPP::TF_ES<CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>, CryptoPP::RSA, int>>::AlgorithmName() const
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>, CryptoPP::SHA224>:
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::TF_SignerBase, CryptoPP::TF_SS<CryptoPP::PKCS1v15, CryptoPP::SHA1, CryptoPP::RSA, int>>:
+    [0] CryptoPP::AlgorithmImpl<CryptoPP::TF_SignerBase, CryptoPP::TF_SS<CryptoPP::PKCS1v15, CryptoPP::SHA1, CryptoPP::RSA, int>>::~AlgorithmImpl()
+    [1] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::SignatureLength() const
+    [2] CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
+    [3] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::MaxRecoverableLength() const
+    [4] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
+    [5] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::IsProbabilistic() const
+    [6] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::AllowNonrecoverablePart() const
+    [7] CryptoPP::PK_SignatureScheme::SignatureUpfront() const
+    [8] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::RecoverablePartFirst() const
+VTable for CryptoPP::AlgorithmImpl<CryptoPP::DL_SignerBase<CryptoPP::ECPPoint>, CryptoPP::DL_SS<CryptoPP::DL_Keys_ECDSA<CryptoPP::ECP>, CryptoPP::DL_Algorithm_ECDSA<CryptoPP::ECP>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA256, int>>:

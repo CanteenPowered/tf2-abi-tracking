@@ -1,0 +1,6 @@
+VTable for CEconTool_GrantOperationPass:
+    [0] CEconTool_GrantOperationPass::~CEconTool_GrantOperationPass()
+    [1] IEconTool::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
+    [2] IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
+    [3] IEconTool::RequiresToolEscrowPeriod() const
+    [4] IEconTool::BFinishInitialization()

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFFireAxe>:
+    [0] CEntityFactory<CTFFireAxe>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFFireAxe>::GetEntitySize()

@@ -1,0 +1,13 @@
+VTable for CryptoPP::DL_PrivateKey_EC<CryptoPP::ECP>:
+    [0] CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::~DL_KeyImpl()
+    [1] CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::~DL_KeyImpl()
+    [2] CryptoPP::PKCS8PrivateKey::BERDecode(CryptoPP::BufferedTransformation&)
+    [3] CryptoPP::PKCS8PrivateKey::DEREncode(CryptoPP::BufferedTransformation&) const
+    [4] CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    [5] CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Save(CryptoPP::BufferedTransformation&) const
+    [6] CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Load(CryptoPP::BufferedTransformation&)
+    [7] CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::GetAlgorithmID() const
+    [8] CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
+    [9] CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const
+VTable for CryptoPP::DL_PrivateKey_EC<CryptoPP::EC2N>:
+    [0] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::RecoverablePartFirst() const

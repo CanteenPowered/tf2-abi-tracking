@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CCommentaryAuto>:
+    [0] CEntityFactory<CCommentaryAuto>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CCommentaryAuto>::GetEntitySize()

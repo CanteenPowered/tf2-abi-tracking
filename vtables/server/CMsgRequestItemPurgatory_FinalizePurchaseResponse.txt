@@ -1,0 +1,40 @@
+VTable for CMsgRequestItemPurgatory_FinalizePurchase:
+    [0] CMsgRequestItemPurgatory_FinalizePurchase::~CMsgRequestItemPurgatory_FinalizePurchase()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgRequestItemPurgatory_FinalizePurchase::New() const
+    [3] CMsgRequestItemPurgatory_FinalizePurchase::Clear()
+    [4] CMsgRequestItemPurgatory_FinalizePurchase::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgRequestItemPurgatory_FinalizePurchase::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgRequestItemPurgatory_FinalizePurchase::ByteSize() const
+    [9] CMsgRequestItemPurgatory_FinalizePurchase::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgRequestItemPurgatory_FinalizePurchase::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgRequestItemPurgatory_FinalizePurchase::GetCachedSize() const
+    [12] CMsgRequestItemPurgatory_FinalizePurchase::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgRequestItemPurgatory_FinalizePurchase::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgRequestItemPurgatory_FinalizePurchase::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgRequestItemPurgatory_FinalizePurchase::GetMetadata() const
+VTable for CMsgRequestItemPurgatory_FinalizePurchaseResponse:
+    [0] CMsgRequestItemPurgatory_FinalizePurchaseResponse::~CMsgRequestItemPurgatory_FinalizePurchaseResponse()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgRequestItemPurgatory_FinalizePurchaseResponse::New() const
+    [3] CMsgRequestItemPurgatory_FinalizePurchaseResponse::Clear()
+    [4] CMsgRequestItemPurgatory_FinalizePurchaseResponse::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgRequestItemPurgatory_FinalizePurchaseResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgRequestItemPurgatory_FinalizePurchaseResponse::ByteSize() const
+    [9] CMsgRequestItemPurgatory_FinalizePurchaseResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgRequestItemPurgatory_FinalizePurchaseResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgRequestItemPurgatory_FinalizePurchaseResponse::GetCachedSize() const
+    [12] CMsgRequestItemPurgatory_FinalizePurchaseResponse::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgRequestItemPurgatory_FinalizePurchaseResponse::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgRequestItemPurgatory_FinalizePurchaseResponse::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgRequestItemPurgatory_FinalizePurchaseResponse::GetMetadata() const

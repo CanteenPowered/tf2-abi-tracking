@@ -1,0 +1,2 @@
+VTable for IFlagDetectionZoneAutoList:
+    [0] IFlagDetectionZoneAutoList::~IFlagDetectionZoneAutoList()

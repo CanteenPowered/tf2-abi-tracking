@@ -1,0 +1,20 @@
+VTable for CTFCasualMatchCriteria:
+    [0] CTFCasualMatchCriteria::~CTFCasualMatchCriteria()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CTFCasualMatchCriteria::New() const
+    [3] CTFCasualMatchCriteria::Clear()
+    [4] CTFCasualMatchCriteria::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CTFCasualMatchCriteria::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CTFCasualMatchCriteria::ByteSize() const
+    [9] CTFCasualMatchCriteria::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CTFCasualMatchCriteria::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CTFCasualMatchCriteria::GetCachedSize() const
+    [12] CTFCasualMatchCriteria::CopyFrom(google::protobuf::Message const&)
+    [13] CTFCasualMatchCriteria::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CTFCasualMatchCriteria::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CTFCasualMatchCriteria::GetMetadata() const

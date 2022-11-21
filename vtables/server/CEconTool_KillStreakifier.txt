@@ -1,0 +1,6 @@
+VTable for CEconTool_KillStreakifier:
+    [0] CEconTool_KillStreakifier::~CEconTool_KillStreakifier()
+    [1] CEconTool_KillStreakifier::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
+    [2] IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
+    [3] IEconTool::RequiresToolEscrowPeriod() const
+    [4] IEconTool::BFinishInitialization()

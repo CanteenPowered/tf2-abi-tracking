@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTankTargetChange>:
+    [0] CEntityFactory<CTankTargetChange>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTankTargetChange>::GetEntitySize()

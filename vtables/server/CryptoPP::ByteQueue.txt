@@ -1,0 +1,8 @@
+VTable for CryptoPP::ByteQueue:
+    [0] CryptoPP::RSAFunction::ApplyFunction(CryptoPP::Integer const&) const
+    [1] CryptoPP::RSAFunction::GetAlgorithmID() const
+    [2] CryptoPP::RSAFunction::BERDecodePublicKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
+    [3] CryptoPP::RSAFunction::DEREncodePublicKey(CryptoPP::BufferedTransformation&) const
+    [4] CryptoPP::RSAFunction::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    [5] CryptoPP::RSAFunction::GetVoidValue(char const*, std::type_info const&, void*) const
+    [6] CryptoPP::RSAFunction::AssignFrom(CryptoPP::NameValuePairs const&)

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CBonusRoundLogic>:
+    [0] CEntityFactory<CBonusRoundLogic>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CBonusRoundLogic>::GetEntitySize()

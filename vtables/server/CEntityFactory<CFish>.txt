@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CFish>:
+    [0] CEntityFactory<CFish>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CFish>::GetEntitySize()

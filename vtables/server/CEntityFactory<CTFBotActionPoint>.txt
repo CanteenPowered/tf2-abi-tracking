@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFBotActionPoint>:
+    [0] CEntityFactory<CTFBotActionPoint>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFBotActionPoint>::GetEntitySize()

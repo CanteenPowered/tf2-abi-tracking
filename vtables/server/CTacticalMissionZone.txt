@@ -1,0 +1,2 @@
+VTable for CTacticalMissionZone:
+    [0] CTacticalMissionZone::ForEachArea(IForEachNavArea&) const

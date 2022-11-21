@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CRegenerateZone>:
+    [0] CEntityFactory<CRegenerateZone>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CRegenerateZone>::GetEntitySize()

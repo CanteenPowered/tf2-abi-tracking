@@ -1,0 +1,3 @@
+VTable for GCSDK::CProtoBufMsg<CMsgGC_TFVoteKickPlayerRequest>:
+    [0] GCSDK::CProtoBufMsg<CMsgGC_TFVoteKickPlayerRequest>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgGC_TFVoteKickPlayerRequest>::GetGenericBody() const

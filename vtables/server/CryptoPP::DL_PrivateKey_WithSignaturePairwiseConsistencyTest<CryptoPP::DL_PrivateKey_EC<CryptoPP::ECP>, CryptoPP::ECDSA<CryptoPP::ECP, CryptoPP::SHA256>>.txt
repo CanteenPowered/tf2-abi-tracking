@@ -1,0 +1,28 @@
+VTable for CryptoPP::DL_PrivateKey_WithSignaturePairwiseConsistencyTest<CryptoPP::DL_PrivateKey_EC<CryptoPP::EC2N>, CryptoPP::ECDSA<CryptoPP::EC2N, CryptoPP::SHA256>>:
+VTable for CryptoPP::DL_PrivateKey_WithSignaturePairwiseConsistencyTest<CryptoPP::DL_PrivateKey_EC<CryptoPP::ECP>, CryptoPP::ECDSA<CryptoPP::ECP, CryptoPP::SHA256>>:
+    [0] CryptoPP::DL_VerifierImpl<CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DSA2<CryptoPP::SHA1>, CryptoPP::DL_Keys_DSA, CryptoPP::DL_Algorithm_GDSA<CryptoPP::Integer>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA1>>::~DL_VerifierImpl()
+    [1] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::SignatureLength() const
+    [2] CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
+    [3] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::MaxRecoverableLength() const
+    [4] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
+    [5] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::IsProbabilistic() const
+    [6] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::AllowNonrecoverablePart() const
+    [7] CryptoPP::PK_SignatureScheme::SignatureUpfront() const
+    [8] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::RecoverablePartFirst() const
+    [9] CryptoPP::DL_VerifierImpl<CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DSA2<CryptoPP::SHA1>, CryptoPP::DL_Keys_DSA, CryptoPP::DL_Algorithm_GDSA<CryptoPP::Integer>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA1>>::NewVerificationAccumulator() const
+    [10] CryptoPP::DL_VerifierBase<CryptoPP::Integer>::InputSignature(CryptoPP::PK_MessageAccumulator&, unsigned char const*, unsigned int) const
+    [11] CryptoPP::PK_Verifier::Verify(CryptoPP::PK_MessageAccumulator*) const
+    [12] CryptoPP::DL_VerifierBase<CryptoPP::Integer>::VerifyAndRestart(CryptoPP::PK_MessageAccumulator&) const
+    [13] CryptoPP::PK_Verifier::VerifyMessage(unsigned char const*, unsigned int, unsigned char const*, unsigned int) const
+    [14] CryptoPP::PK_Verifier::Recover(unsigned char*, CryptoPP::PK_MessageAccumulator*) const
+    [15] CryptoPP::DL_VerifierBase<CryptoPP::Integer>::RecoverAndRestart(unsigned char*, CryptoPP::PK_MessageAccumulator&) const
+    [16] CryptoPP::PK_Verifier::RecoverMessage(unsigned char*, unsigned char const*, unsigned int, unsigned char const*, unsigned int) const
+    [17] CryptoPP::DL_ObjectImpl<CryptoPP::DL_VerifierBase<CryptoPP::Integer>, CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DSA2<CryptoPP::SHA1>, CryptoPP::DL_Keys_DSA, CryptoPP::DL_Algorithm_GDSA<CryptoPP::Integer>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA1>, CryptoPP::DL_PublicKey_GFP<CryptoPP::DL_GroupParameters_DSA>>::GetSignatureAlgorithm() const
+    [18] CryptoPP::DL_ObjectImpl<CryptoPP::DL_VerifierBase<CryptoPP::Integer>, CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DSA2<CryptoPP::SHA1>, CryptoPP::DL_Keys_DSA, CryptoPP::DL_Algorithm_GDSA<CryptoPP::Integer>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA1>, CryptoPP::DL_PublicKey_GFP<CryptoPP::DL_GroupParameters_DSA>>::GetMessageEncodingInterface() const
+    [19] CryptoPP::DL_ObjectImpl<CryptoPP::DL_VerifierBase<CryptoPP::Integer>, CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DSA2<CryptoPP::SHA1>, CryptoPP::DL_Keys_DSA, CryptoPP::DL_Algorithm_GDSA<CryptoPP::Integer>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA1>, CryptoPP::DL_PublicKey_GFP<CryptoPP::DL_GroupParameters_DSA>>::GetHashIdentifier() const
+    [20] CryptoPP::DL_ObjectImplBase<CryptoPP::DL_VerifierBase<CryptoPP::Integer>, CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DSA2<CryptoPP::SHA1>, CryptoPP::DL_Keys_DSA, CryptoPP::DL_Algorithm_GDSA<CryptoPP::Integer>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA1>, CryptoPP::DL_PublicKey_GFP<CryptoPP::DL_GroupParameters_DSA>>::GetDigestSize() const
+    [21] CryptoPP::AlgorithmImpl<CryptoPP::DL_VerifierBase<CryptoPP::Integer>, CryptoPP::DSA2<CryptoPP::SHA1>>::AlgorithmName() const
+    [22] CryptoPP::DL_ObjectImplBase<CryptoPP::DL_VerifierBase<CryptoPP::Integer>, CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DSA2<CryptoPP::SHA1>, CryptoPP::DL_Keys_DSA, CryptoPP::DL_Algorithm_GDSA<CryptoPP::Integer>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA1>, CryptoPP::DL_PublicKey_GFP<CryptoPP::DL_GroupParameters_DSA>>::AccessPublicKey()
+    [23] CryptoPP::DL_ObjectImplBase<CryptoPP::DL_VerifierBase<CryptoPP::Integer>, CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DSA2<CryptoPP::SHA1>, CryptoPP::DL_Keys_DSA, CryptoPP::DL_Algorithm_GDSA<CryptoPP::Integer>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA1>, CryptoPP::DL_PublicKey_GFP<CryptoPP::DL_GroupParameters_DSA>>::AccessKeyInterface()
+    [24] CryptoPP::DL_ObjectImplBase<CryptoPP::DL_VerifierBase<CryptoPP::Integer>, CryptoPP::DL_SignatureSchemeOptions<CryptoPP::DSA2<CryptoPP::SHA1>, CryptoPP::DL_Keys_DSA, CryptoPP::DL_Algorithm_GDSA<CryptoPP::Integer>, CryptoPP::DL_SignatureMessageEncodingMethod_DSA, CryptoPP::SHA1>, CryptoPP::DL_PublicKey_GFP<CryptoPP::DL_GroupParameters_DSA>>::GetKeyInterface() const
+VTable for CryptoPP::DL_PrivateKey_WithSignaturePairwiseConsistencyTest<CryptoPP::DL_PrivateKey_GFP<CryptoPP::DL_GroupParameters_DSA>, CryptoPP::DSA2<CryptoPP::SHA1>>:

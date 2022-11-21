@@ -1,0 +1,3 @@
+VTable for CRConServer:
+    [0] CRConServer::OnSocketAccepted(int, netadr_s const&, void**)
+    [1] CRConServer::OnSocketClosed(int, netadr_s const&, void*)

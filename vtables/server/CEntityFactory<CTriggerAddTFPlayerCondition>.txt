@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTriggerAddTFPlayerCondition>:
+    [0] CEntityFactory<CTriggerAddTFPlayerCondition>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTriggerAddTFPlayerCondition>::GetEntitySize()

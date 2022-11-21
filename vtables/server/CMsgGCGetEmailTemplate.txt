@@ -1,0 +1,20 @@
+VTable for CMsgGCGetEmailTemplate:
+    [0] CMsgGCGetEmailTemplate::~CMsgGCGetEmailTemplate()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCGetEmailTemplate::New() const
+    [3] CMsgGCGetEmailTemplate::Clear()
+    [4] CMsgGCGetEmailTemplate::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCGetEmailTemplate::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCGetEmailTemplate::ByteSize() const
+    [9] CMsgGCGetEmailTemplate::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCGetEmailTemplate::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCGetEmailTemplate::GetCachedSize() const
+    [12] CMsgGCGetEmailTemplate::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCGetEmailTemplate::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCGetEmailTemplate::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCGetEmailTemplate::GetMetadata() const

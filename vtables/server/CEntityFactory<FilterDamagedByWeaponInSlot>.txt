@@ -1,0 +1,3 @@
+VTable for CEntityFactory<FilterDamagedByWeaponInSlot>:
+    [0] CEntityFactory<FilterDamagedByWeaponInSlot>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<FilterDamagedByWeaponInSlot>::GetEntitySize()

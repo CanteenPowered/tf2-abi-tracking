@@ -1,0 +1,2 @@
+VTable for IDroppedWeaponAutoList:
+    [0] IDroppedWeaponAutoList::~IDroppedWeaponAutoList()

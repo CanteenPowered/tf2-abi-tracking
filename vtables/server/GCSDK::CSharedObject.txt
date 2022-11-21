@@ -1,0 +1,2 @@
+VTable for GCSDK::CSharedObject:
+    [0] GCSDK::CSharedObject::~CSharedObject()

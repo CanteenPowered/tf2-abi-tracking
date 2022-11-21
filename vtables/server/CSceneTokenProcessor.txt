@@ -1,0 +1,4 @@
+VTable for CSceneTokenProcessor:
+    [0] CSceneTokenProcessor::GetToken(bool)
+    [1] CSceneTokenProcessor::TokenAvailable()
+    [2] CSceneTokenProcessor::Error(char const*, ...)

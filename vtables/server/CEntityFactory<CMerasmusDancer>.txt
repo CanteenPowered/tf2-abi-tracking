@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CMerasmusDancer>:
+    [0] CEntityFactory<CMerasmusDancer>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CMerasmusDancer>::GetEntitySize()

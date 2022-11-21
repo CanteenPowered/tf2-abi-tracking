@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CGenericNPC>:
+    [0] CEntityFactory<CGenericNPC>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CGenericNPC>::GetEntitySize()

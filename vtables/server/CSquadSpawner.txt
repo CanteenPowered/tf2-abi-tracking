@@ -1,0 +1,12 @@
+VTable for CSquadSpawner:
+    [0] CSquadSpawner::~CSquadSpawner()
+    [1] CSquadSpawner::Parse(KeyValues*)
+    [2] CSquadSpawner::Spawn(Vector const&, CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>*)
+    [3] IPopulationSpawner::IsWhereRequired() const
+    [4] CSquadSpawner::IsVarious()
+    [5] CSquadSpawner::GetClass(int)
+    [6] CSquadSpawner::GetClassIcon(int)
+    [7] CSquadSpawner::GetHealth(int)
+    [8] CSquadSpawner::IsMiniBoss(int)
+    [9] CSquadSpawner::HasAttribute(CTFBot::AttributeType, int)
+    [10] CSquadSpawner::HasEventChangeAttributes(char const*) const

@@ -1,0 +1,2 @@
+VTable for ICvar::ICVarIteratorInternal:
+    [0] ICvar::ICVarIteratorInternal::~ICVarIteratorInternal()

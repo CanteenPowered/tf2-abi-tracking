@@ -1,0 +1,4 @@
+VTable for IKeyValuesDumpContextAsText:
+    [0] IKeyValuesDumpContextAsText::KvWriteValue(KeyValues*, int)
+    [1] IKeyValuesDumpContextAsText::KvEndKey(KeyValues*, int)
+    [2] IKeyValuesDumpContextAsText::KvWriteIndent(int)

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CRagdollMagnet>:
+    [0] CEntityFactory<CRagdollMagnet>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CRagdollMagnet>::GetEntitySize()

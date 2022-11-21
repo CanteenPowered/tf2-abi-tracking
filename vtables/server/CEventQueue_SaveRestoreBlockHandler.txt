@@ -1,0 +1,9 @@
+VTable for CEventQueue_SaveRestoreBlockHandler:
+    [0] CDefSaveRestoreBlockHandler::PreSave(CSaveRestoreData*)
+    [1] CEventQueue_SaveRestoreBlockHandler::Save(ISave*)
+    [2] CEventQueue_SaveRestoreBlockHandler::WriteSaveHeaders(ISave*)
+    [3] CDefSaveRestoreBlockHandler::PostSave()
+    [4] CDefSaveRestoreBlockHandler::PreRestore()
+    [5] CEventQueue_SaveRestoreBlockHandler::ReadRestoreHeaders(IRestore*)
+    [6] CEventQueue_SaveRestoreBlockHandler::Restore(IRestore*, bool)
+    [7] CDefSaveRestoreBlockHandler::PostRestore()

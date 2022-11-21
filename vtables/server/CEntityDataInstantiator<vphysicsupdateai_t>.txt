@@ -1,0 +1,5 @@
+VTable for CEntityDataInstantiator<vphysicsupdateai_t>:
+    [0] CEntityDataInstantiator<vphysicsupdateai_t>::~CEntityDataInstantiator()
+    [1] CEntityDataInstantiator<vphysicsupdateai_t>::GetDataObject(CBaseEntity const*)
+    [2] CEntityDataInstantiator<vphysicsupdateai_t>::CreateDataObject(CBaseEntity const*)
+    [3] CEntityDataInstantiator<vphysicsupdateai_t>::DestroyDataObject(CBaseEntity const*)

@@ -1,0 +1,5 @@
+VTable for CNetMessage:
+    [0] CNetMessage::~CNetMessage()
+    [1] CNetMessage::SetNetChannel(INetChannel*)
+    [2] CNetMessage::SetReliable(bool)
+    [3] CNetMessage::Process()

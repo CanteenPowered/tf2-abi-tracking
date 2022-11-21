@@ -1,0 +1,5 @@
+VTable for CVoiceServer:
+    [0] CVoiceServer::~CVoiceServer()
+    [1] CVoiceServer::GetClientListening(int, int)
+    [2] CVoiceServer::SetClientListening(int, int, bool)
+    [3] CVoiceServer::SetClientProximity(int, int, bool)

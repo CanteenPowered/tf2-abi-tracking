@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFScatterGun>:
+    [0] CEntityFactory<CTFScatterGun>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFScatterGun>::GetEntitySize()

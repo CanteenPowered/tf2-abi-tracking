@@ -1,0 +1,16 @@
+VTable for CLC_ListenEvents:
+    [0] CLC_ListenEvents::~CLC_ListenEvents()
+    [1] CNetMessage::SetNetChannel(INetChannel*)
+    [2] CNetMessage::SetReliable(bool)
+    [3] CLC_ListenEvents::Process()
+    [4] CLC_ListenEvents::ReadFromBuffer(bf_read&)
+    [5] CLC_ListenEvents::WriteToBuffer(bf_write&)
+    [6] CNetMessage::IsReliable() const
+    [7] CLC_ListenEvents::GetType() const
+    [8] CLC_ListenEvents::GetGroup() const
+    [9] CLC_ListenEvents::GetName() const
+    [10] CNetMessage::GetNetChannel() const
+    [11] CLC_ListenEvents::ToString() const
+    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
+    [13] CLC_ListenEvents::GetSize() const
+    [14] CLC_ListenEvents::SetRatePolicy()

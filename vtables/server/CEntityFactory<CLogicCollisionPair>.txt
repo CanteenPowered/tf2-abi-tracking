@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CLogicCollisionPair>:
+    [0] CEntityFactory<CLogicCollisionPair>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CLogicCollisionPair>::GetEntitySize()

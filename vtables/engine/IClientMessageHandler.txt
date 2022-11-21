@@ -1,0 +1,2 @@
+VTable for IClientMessageHandler:
+    [0] IClientMessageHandler::~IClientMessageHandler()

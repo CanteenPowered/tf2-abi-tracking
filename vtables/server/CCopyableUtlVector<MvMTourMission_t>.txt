@@ -1,0 +1,2 @@
+VTable for CCopyableUtlVector<MvMTourMission_t>:
+    [0] CCopyableUtlVector<MvMTourMission_t>::~CCopyableUtlVector()

@@ -1,0 +1,10 @@
+VTable for CryptoPP::InvertibleRSAFunction:
+    [0] virtual thunk to CryptoPP::InvertibleRSAFunction::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    [1] CryptoPP::CryptoMaterial::ThrowIfInvalid(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    [2] virtual thunk to CryptoPP::InvertibleRSAFunction::Save(CryptoPP::BufferedTransformation&) const
+    [3] virtual thunk to CryptoPP::InvertibleRSAFunction::Load(CryptoPP::BufferedTransformation&)
+    [4] CryptoPP::CryptoMaterial::SupportsPrecomputation() const
+    [5] CryptoPP::CryptoMaterial::Precompute(unsigned int)
+    [6] CryptoPP::CryptoMaterial::LoadPrecomputation(CryptoPP::BufferedTransformation&)
+    [7] CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+VTable for CryptoPP::InvertibleRSAFunction_ISO:

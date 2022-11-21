@@ -1,0 +1,2 @@
+VTable for CryptoPP::BlockingRng:
+    [0] CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation&) const

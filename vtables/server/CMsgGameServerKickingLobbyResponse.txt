@@ -1,0 +1,20 @@
+VTable for CMsgGameServerKickingLobbyResponse:
+    [0] CMsgGameServerKickingLobbyResponse::~CMsgGameServerKickingLobbyResponse()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGameServerKickingLobbyResponse::New() const
+    [3] CMsgGameServerKickingLobbyResponse::Clear()
+    [4] CMsgGameServerKickingLobbyResponse::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGameServerKickingLobbyResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGameServerKickingLobbyResponse::ByteSize() const
+    [9] CMsgGameServerKickingLobbyResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGameServerKickingLobbyResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGameServerKickingLobbyResponse::GetCachedSize() const
+    [12] CMsgGameServerKickingLobbyResponse::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGameServerKickingLobbyResponse::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGameServerKickingLobbyResponse::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGameServerKickingLobbyResponse::GetMetadata() const

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CAI_AllySpeechManager>:
+    [0] CEntityFactory<CAI_AllySpeechManager>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CAI_AllySpeechManager>::GetEntitySize()

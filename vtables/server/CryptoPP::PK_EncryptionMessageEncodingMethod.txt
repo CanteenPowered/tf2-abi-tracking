@@ -1,0 +1,3 @@
+VTable for CryptoPP::PK_EncryptionMessageEncodingMethod:
+    [0] CryptoPP::PK_EncryptionMessageEncodingMethod::~PK_EncryptionMessageEncodingMethod()
+    [1] CryptoPP::PK_EncryptionMessageEncodingMethod::ParameterSupported(char const*) const

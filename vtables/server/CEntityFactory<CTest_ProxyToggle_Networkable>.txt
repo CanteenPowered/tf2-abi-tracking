@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTest_ProxyToggle_Networkable>:
+    [0] CEntityFactory<CTest_ProxyToggle_Networkable>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTest_ProxyToggle_Networkable>::GetEntitySize()

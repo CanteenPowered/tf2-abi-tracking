@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFHudNotify>:
+    [0] CEntityFactory<CTFHudNotify>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFHudNotify>::GetEntitySize()

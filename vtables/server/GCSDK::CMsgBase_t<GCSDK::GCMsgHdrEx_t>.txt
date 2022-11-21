@@ -1,0 +1,2 @@
+VTable for GCSDK::CMsgBase_t<GCSDK::GCMsgHdrEx_t>:
+    [0] GCSDK::CMsgBase_t<GCSDK::GCMsgHdrEx_t>::~CMsgBase_t()

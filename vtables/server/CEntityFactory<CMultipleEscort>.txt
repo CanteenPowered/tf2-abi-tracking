@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CMultipleEscort>:
+    [0] CEntityFactory<CMultipleEscort>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CMultipleEscort>::GetEntitySize()

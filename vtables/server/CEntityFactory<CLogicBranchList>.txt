@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CLogicBranchList>:
+    [0] CEntityFactory<CLogicBranchList>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CLogicBranchList>::GetEntitySize()

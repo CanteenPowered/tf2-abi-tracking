@@ -1,0 +1,5 @@
+VTable for CPlayerMove:
+    [0] CPlayerMove::~CPlayerMove()
+    [1] CPlayerMove::SetupMove(CBasePlayer*, CUserCmd*, IMoveHelper*, CMoveData*)
+    [2] CPlayerMove::FinishMove(CBasePlayer*, CUserCmd*, CMoveData*)
+    [3] CPlayerMove::StartCommand(CBasePlayer*, CUserCmd*)

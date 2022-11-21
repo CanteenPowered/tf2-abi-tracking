@@ -1,0 +1,11 @@
+VTable for CryptoPP::BERDecodeErr:
+    [0] non-virtual thunk to CryptoPP::CTR_ModePolicy::GetBytesPerIteration() const
+    [1] CryptoPP::AdditiveCipherAbstractPolicy::GetOptimalBlockSize() const
+    [2] non-virtual thunk to CryptoPP::CTR_ModePolicy::GetIterationsToBuffer() const
+    [3] non-virtual thunk to CryptoPP::CTR_ModePolicy::WriteKeystream(unsigned char*, unsigned int)
+    [4] non-virtual thunk to CryptoPP::CTR_ModePolicy::CanOperateKeystream() const
+    [5] non-virtual thunk to CryptoPP::CTR_ModePolicy::OperateKeystream(CryptoPP::KeystreamOperation, unsigned char*, unsigned char const*, unsigned int)
+    [6] non-virtual thunk to CryptoPP::ModePolicyCommonTemplate<CryptoPP::AdditiveCipherAbstractPolicy>::CipherSetKey(CryptoPP::NameValuePairs const&, unsigned char const*, unsigned int)
+    [7] non-virtual thunk to CryptoPP::CTR_ModePolicy::CipherResynchronize(unsigned char*, unsigned char const*, unsigned int)
+    [8] non-virtual thunk to CryptoPP::CTR_ModePolicy::CipherIsRandomAccess() const
+    [9] non-virtual thunk to CryptoPP::CTR_ModePolicy::SeekToIteration(unsigned long long)

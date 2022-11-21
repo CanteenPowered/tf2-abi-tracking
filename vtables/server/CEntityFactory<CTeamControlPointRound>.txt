@@ -1,0 +1,9 @@
+VTable for CEntityFactory<CTeamControlPointRound>:
+    [0] CEntityFactory<CTeamControlPointRound>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTeamControlPointRound>::GetEntitySize()
+VTable for CEntityFactory<CTeamControlPoint>:
+    [0] CEntityFactory<CTeamControlPoint>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTeamControlPoint>::GetEntitySize()
+VTable for CEntityFactory<CTeamControlPointMaster>:
+    [0] CEntityFactory<CTeamControlPointMaster>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTeamControlPointMaster>::GetEntitySize()

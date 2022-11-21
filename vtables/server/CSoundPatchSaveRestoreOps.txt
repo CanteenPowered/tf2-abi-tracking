@@ -1,0 +1,5 @@
+VTable for CSoundPatchSaveRestoreOps:
+    [0] CSoundPatchSaveRestoreOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    [1] CClassPtrSaveRestoreOps::IsEmpty(SaveRestoreFieldInfo_t const&)
+    [2] CClassPtrSaveRestoreOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)

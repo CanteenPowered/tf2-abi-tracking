@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPoseController>:
+    [0] CEntityFactory<CPoseController>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPoseController>::GetEntitySize()

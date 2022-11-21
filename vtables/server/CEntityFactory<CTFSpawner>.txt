@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFSpawner>:
+    [0] CEntityFactory<CTFSpawner>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFSpawner>::GetEntitySize()

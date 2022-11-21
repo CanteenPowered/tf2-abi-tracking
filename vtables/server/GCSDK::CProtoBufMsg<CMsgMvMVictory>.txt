@@ -1,0 +1,3 @@
+VTable for GCSDK::CProtoBufMsg<CMsgMvMVictory>:
+    [0] GCSDK::CProtoBufMsg<CMsgMvMVictory>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgMvMVictory>::GetGenericBody() const

@@ -1,0 +1,6 @@
+VTable for CEntityFactory<CTFWeaponPDAExpansion_Dispenser>:
+    [0] CEntityFactory<CTFWeaponPDAExpansion_Dispenser>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFWeaponPDAExpansion_Dispenser>::GetEntitySize()
+VTable for CEntityFactory<CTFWeaponPDAExpansion_Teleporter>:
+    [0] CEntityFactory<CTFWeaponPDAExpansion_Teleporter>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFWeaponPDAExpansion_Teleporter>::GetEntitySize()

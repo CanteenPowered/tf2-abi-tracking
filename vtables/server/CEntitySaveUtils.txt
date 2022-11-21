@@ -1,0 +1,3 @@
+VTable for CEntitySaveUtils:
+    [0] CEntitySaveUtils::GetEntityDependencyCount(CBaseEntity*)
+    [1] CEntitySaveUtils::GetEntityDependencies(CBaseEntity*, int, CBaseEntity**)

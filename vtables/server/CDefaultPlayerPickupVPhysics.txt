@@ -1,0 +1,10 @@
+VTable for CDefaultPlayerPickupVPhysics:
+    [0] CDefaultPlayerPickupVPhysics::OnFailedPhysGunPickup(Vector)
+    [1] CDefaultPlayerPickupVPhysics::OnPhysGunPickup(CBasePlayer*, PhysGunPickup_t)
+    [2] CDefaultPlayerPickupVPhysics::OnPhysGunDrop(CBasePlayer*, PhysGunDrop_t)
+    [3] CDefaultPlayerPickupVPhysics::HasPreferredCarryAnglesForPlayer(CBasePlayer*)
+    [4] CDefaultPlayerPickupVPhysics::PreferredCarryAngles()
+    [5] CDefaultPlayerPickupVPhysics::ForcePhysgunOpen(CBasePlayer*)
+    [6] CDefaultPlayerPickupVPhysics::PhysGunLaunchAngularImpulse()
+    [7] CDefaultPlayerPickupVPhysics::ShouldPuntUseLaunchForces(PhysGunForce_t)
+    [8] CDefaultPlayerPickupVPhysics::PhysGunLaunchVelocity(Vector const&, float)

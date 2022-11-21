@@ -1,0 +1,20 @@
+VTable for CMsgConnectionStatus:
+    [0] CMsgConnectionStatus::~CMsgConnectionStatus()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgConnectionStatus::New() const
+    [3] CMsgConnectionStatus::Clear()
+    [4] CMsgConnectionStatus::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgConnectionStatus::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgConnectionStatus::ByteSize() const
+    [9] CMsgConnectionStatus::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgConnectionStatus::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgConnectionStatus::GetCachedSize() const
+    [12] CMsgConnectionStatus::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgConnectionStatus::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgConnectionStatus::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgConnectionStatus::GetMetadata() const

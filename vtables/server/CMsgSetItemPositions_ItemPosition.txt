@@ -1,0 +1,20 @@
+VTable for CMsgSetItemPositions_ItemPosition:
+    [0] CMsgSetItemPositions_ItemPosition::~CMsgSetItemPositions_ItemPosition()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgSetItemPositions_ItemPosition::New() const
+    [3] CMsgSetItemPositions_ItemPosition::Clear()
+    [4] CMsgSetItemPositions_ItemPosition::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgSetItemPositions_ItemPosition::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgSetItemPositions_ItemPosition::ByteSize() const
+    [9] CMsgSetItemPositions_ItemPosition::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgSetItemPositions_ItemPosition::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgSetItemPositions_ItemPosition::GetCachedSize() const
+    [12] CMsgSetItemPositions_ItemPosition::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgSetItemPositions_ItemPosition::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgSetItemPositions_ItemPosition::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgSetItemPositions_ItemPosition::GetMetadata() const

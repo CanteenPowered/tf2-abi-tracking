@@ -1,0 +1,2 @@
+VTable for IFuncPasstimeNoBallZoneAutoList:
+    [0] IFuncPasstimeNoBallZoneAutoList::~IFuncPasstimeNoBallZoneAutoList()

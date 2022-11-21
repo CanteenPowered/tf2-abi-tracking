@@ -1,0 +1,5 @@
+VTable for CryptoPP::SignerFilter:
+    [0] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::ValidateElement(unsigned int, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::Integer> const*) const
+    [1] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::FastSubgroupCheckAvailable() const
+    [2] non-virtual thunk to CryptoPP::DL_GroupParameters_GFP::IsIdentity(CryptoPP::Integer const&) const
+    [3] non-virtual thunk to CryptoPP::DL_GroupParameters_GFP::SimultaneousExponentiate(CryptoPP::Integer*, CryptoPP::Integer const&, CryptoPP::Integer const*, unsigned int) const

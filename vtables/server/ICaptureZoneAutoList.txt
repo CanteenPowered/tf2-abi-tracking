@@ -1,0 +1,2 @@
+VTable for ICaptureZoneAutoList:
+    [0] ICaptureZoneAutoList::~ICaptureZoneAutoList()

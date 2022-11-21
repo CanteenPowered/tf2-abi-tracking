@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CShadowControl>:
+    [0] CEntityFactory<CShadowControl>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CShadowControl>::GetEntitySize()

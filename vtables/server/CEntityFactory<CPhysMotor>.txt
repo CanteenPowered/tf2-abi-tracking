@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPhysMotor>:
+    [0] CEntityFactory<CPhysMotor>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPhysMotor>::GetEntitySize()

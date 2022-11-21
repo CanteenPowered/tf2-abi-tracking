@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CMonsterResource>:
+    [0] CEntityFactory<CMonsterResource>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CMonsterResource>::GetEntitySize()

@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTrainingModeLogic>:
+    [0] CEntityFactory<CTrainingModeLogic>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTrainingModeLogic>::GetEntitySize()

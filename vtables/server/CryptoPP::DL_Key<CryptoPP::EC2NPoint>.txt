@@ -1,0 +1,2 @@
+VTable for CryptoPP::DL_Key<CryptoPP::ECPPoint>:
+VTable for CryptoPP::DL_Key<CryptoPP::EC2NPoint>:

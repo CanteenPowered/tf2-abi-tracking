@@ -1,0 +1,5 @@
+VTable for CResponseSystem:
+    [0] CResponseSystem::~CResponseSystem()
+    [1] CResponseSystem::FindBestResponse(AI_CriteriaSet const&, AI_Response&, IResponseFilter*)
+    [2] CResponseSystem::GetAllResponses(CUtlVector<AI_Response*, CUtlMemory<AI_Response*, int>>*)
+    [3] CResponseSystem::PrecacheResponses(bool)

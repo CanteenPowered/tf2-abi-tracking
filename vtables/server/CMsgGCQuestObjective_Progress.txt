@@ -1,0 +1,20 @@
+VTable for CMsgGCQuestObjective_Progress:
+    [0] CMsgGCQuestObjective_Progress::~CMsgGCQuestObjective_Progress()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCQuestObjective_Progress::New() const
+    [3] CMsgGCQuestObjective_Progress::Clear()
+    [4] CMsgGCQuestObjective_Progress::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCQuestObjective_Progress::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCQuestObjective_Progress::ByteSize() const
+    [9] CMsgGCQuestObjective_Progress::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCQuestObjective_Progress::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCQuestObjective_Progress::GetCachedSize() const
+    [12] CMsgGCQuestObjective_Progress::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCQuestObjective_Progress::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCQuestObjective_Progress::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCQuestObjective_Progress::GetMetadata() const

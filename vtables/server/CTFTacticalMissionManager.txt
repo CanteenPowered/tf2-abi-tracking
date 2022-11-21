@@ -1,0 +1,9 @@
+VTable for CTFTacticalMissionManager:
+    [0] CTFTacticalMissionManager::~CTFTacticalMissionManager()
+    [1] CTacticalMissionManager::FireGameEvent(IGameEvent*)
+    [2] CTFTacticalMissionManager::OnServerActivate()
+    [3] CTFTacticalMissionManager::OnRoundRestart()
+    [4] CTacticalMissionManager::Register(CTacticalMission*)
+    [5] CTacticalMissionManager::Unregister(CTacticalMission*)
+    [6] CTacticalMissionManager::GetMission(char const*)
+    [7] CTacticalMissionManager::ForEachMission(CTacticalMissionManager::IForEachMission&)

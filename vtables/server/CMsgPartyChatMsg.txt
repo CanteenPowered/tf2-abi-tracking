@@ -1,0 +1,20 @@
+VTable for CMsgPartyChatMsg:
+    [0] CMsgPartyChatMsg::~CMsgPartyChatMsg()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgPartyChatMsg::New() const
+    [3] CMsgPartyChatMsg::Clear()
+    [4] CMsgPartyChatMsg::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgPartyChatMsg::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgPartyChatMsg::ByteSize() const
+    [9] CMsgPartyChatMsg::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgPartyChatMsg::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgPartyChatMsg::GetCachedSize() const
+    [12] CMsgPartyChatMsg::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgPartyChatMsg::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgPartyChatMsg::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgPartyChatMsg::GetMetadata() const

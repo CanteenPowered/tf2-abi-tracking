@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CRotDoor>:
+    [0] CEntityFactory<CRotDoor>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CRotDoor>::GetEntitySize()

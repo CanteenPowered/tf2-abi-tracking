@@ -1,0 +1,6 @@
+VTable for CTFServerBenchmark:
+    [0] CTFServerBenchmark::UpdateBenchmark()
+    [1] CServerBenchmarkHook::EndBenchmark()
+    [2] CTFServerBenchmark::GetPhysicsModelNames(CUtlVector<char*, CUtlMemory<char*, int>>&)
+    [3] CTFServerBenchmark::CreateBot()
+    [4] CTFServerBenchmark::GetBlueSpawnPoint(bool)

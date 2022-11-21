@@ -1,0 +1,2 @@
+VTable for CPasstimeBallController:
+    [0] CPasstimeBallController::~CPasstimeBallController()

@@ -1,0 +1,2 @@
+VTable for CItemSelectionCriteria::ICondition:
+    [0] CItemSelectionCriteria::ICondition::~ICondition()

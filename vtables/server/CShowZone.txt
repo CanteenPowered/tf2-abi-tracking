@@ -1,0 +1,2 @@
+VTable for CShowZone:
+    [0] IForEachNavArea::PostIteration(bool)

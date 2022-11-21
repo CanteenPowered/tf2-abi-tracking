@@ -1,0 +1,2 @@
+VTable for CTFPlayerClass:
+    [0] CTFPlayerClassShared::NetworkStateChanged(void*)

@@ -1,0 +1,2 @@
+VTable for IResponseSystem:
+    [0] IResponseSystem::~IResponseSystem()

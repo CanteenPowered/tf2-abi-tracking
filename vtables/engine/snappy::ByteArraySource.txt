@@ -1,0 +1,5 @@
+VTable for snappy::ByteArraySource:
+    [0] snappy::ByteArraySource::~ByteArraySource()
+    [1] snappy::ByteArraySource::Available() const
+    [2] snappy::ByteArraySource::Peek(unsigned int*)
+    [3] snappy::ByteArraySource::Skip(unsigned int)

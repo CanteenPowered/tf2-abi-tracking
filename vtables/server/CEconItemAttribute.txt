@@ -1,0 +1,2 @@
+VTable for CEconItemAttribute:
+    [0] CEconItemAttribute::NetworkStateChanged(void*)

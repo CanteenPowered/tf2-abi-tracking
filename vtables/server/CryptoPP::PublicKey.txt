@@ -1,0 +1,3 @@
+VTable for CryptoPP::PublicKey:
+    [0] non-virtual thunk to CryptoPP::OFB_ModePolicy::CipherIsRandomAccess() const
+    [1] CryptoPP::AdditiveCipherAbstractPolicy::SeekToIteration(unsigned long long)

@@ -1,0 +1,3 @@
+VTable for CBaseTransmitProxy:
+    [0] CBaseTransmitProxy::~CBaseTransmitProxy()
+    [1] CBaseTransmitProxy::ShouldTransmit(CCheckTransmitInfo const*, int)

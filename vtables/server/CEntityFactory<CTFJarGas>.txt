@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFJarGas>:
+    [0] CEntityFactory<CTFJarGas>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFJarGas>::GetEntitySize()

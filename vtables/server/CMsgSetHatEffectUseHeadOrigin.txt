@@ -1,0 +1,20 @@
+VTable for CMsgSetHatEffectUseHeadOrigin:
+    [0] CMsgSetHatEffectUseHeadOrigin::~CMsgSetHatEffectUseHeadOrigin()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgSetHatEffectUseHeadOrigin::New() const
+    [3] CMsgSetHatEffectUseHeadOrigin::Clear()
+    [4] CMsgSetHatEffectUseHeadOrigin::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgSetHatEffectUseHeadOrigin::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgSetHatEffectUseHeadOrigin::ByteSize() const
+    [9] CMsgSetHatEffectUseHeadOrigin::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgSetHatEffectUseHeadOrigin::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgSetHatEffectUseHeadOrigin::GetCachedSize() const
+    [12] CMsgSetHatEffectUseHeadOrigin::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgSetHatEffectUseHeadOrigin::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgSetHatEffectUseHeadOrigin::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgSetHatEffectUseHeadOrigin::GetMetadata() const

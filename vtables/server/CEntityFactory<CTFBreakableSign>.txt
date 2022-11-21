@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFBreakableSign>:
+    [0] CEntityFactory<CTFBreakableSign>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFBreakableSign>::GetEntitySize()

@@ -1,0 +1,2 @@
+VTable for IWatcherCallback:
+    [0] IWatcherCallback::~IWatcherCallback()

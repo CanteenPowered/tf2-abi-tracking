@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFStunBall>:
+    [0] CEntityFactory<CTFStunBall>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFStunBall>::GetEntitySize()

@@ -1,0 +1,4 @@
+VTable for CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::EC2NPoint>:
+    [0] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::RecoverablePartFirst() const
+VTable for CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::Integer>:
+VTable for CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::ECPPoint>:

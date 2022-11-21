@@ -1,0 +1,20 @@
+VTable for CMsgProcessMatchVoteKick_Vote:
+    [0] CMsgProcessMatchVoteKick_Vote::~CMsgProcessMatchVoteKick_Vote()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgProcessMatchVoteKick_Vote::New() const
+    [3] CMsgProcessMatchVoteKick_Vote::Clear()
+    [4] CMsgProcessMatchVoteKick_Vote::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgProcessMatchVoteKick_Vote::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgProcessMatchVoteKick_Vote::ByteSize() const
+    [9] CMsgProcessMatchVoteKick_Vote::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgProcessMatchVoteKick_Vote::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgProcessMatchVoteKick_Vote::GetCachedSize() const
+    [12] CMsgProcessMatchVoteKick_Vote::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgProcessMatchVoteKick_Vote::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgProcessMatchVoteKick_Vote::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgProcessMatchVoteKick_Vote::GetMetadata() const

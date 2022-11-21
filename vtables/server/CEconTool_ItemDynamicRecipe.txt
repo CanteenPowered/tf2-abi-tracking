@@ -1,0 +1,7 @@
+VTable for CEconTool_ItemDynamicRecipe:
+    [0] CEconTool_ItemDynamicRecipe::~CEconTool_ItemDynamicRecipe()
+    [1] CEconTool_ItemDynamicRecipe::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
+    [2] IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
+    [3] IEconTool::RequiresToolEscrowPeriod() const
+    [4] CEconTool_ItemDynamicRecipe::BFinishInitialization()
+    [5] CEconTool_ItemDynamicRecipe::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)

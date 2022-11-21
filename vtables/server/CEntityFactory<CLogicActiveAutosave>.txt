@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CLogicActiveAutosave>:
+    [0] CEntityFactory<CLogicActiveAutosave>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CLogicActiveAutosave>::GetEntitySize()

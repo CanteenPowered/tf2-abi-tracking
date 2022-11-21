@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CFuncReflectiveGlass>:
+    [0] CEntityFactory<CFuncReflectiveGlass>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CFuncReflectiveGlass>::GetEntitySize()

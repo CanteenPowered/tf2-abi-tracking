@@ -1,0 +1,11 @@
+VTable for CEngineTrace:
+    [0] CEngineTrace::GetPointContents_Collideable(ICollideable*, Vector const&)
+    [1] CEngineTrace::ClipRayToEntity(Ray_t const&, unsigned int, IHandleEntity*, CGameTrace*)
+    [2] CEngineTrace::ClipRayToCollideable(Ray_t const&, unsigned int, ICollideable*, CGameTrace*)
+    [3] CEngineTrace::TraceRay(Ray_t const&, unsigned int, ITraceFilter*, CGameTrace*)
+    [4] CEngineTrace::SetupLeafAndEntityListRay(Ray_t const&, CTraceListData&)
+    [5] CEngineTrace::SetupLeafAndEntityListBox(Vector const&, Vector const&, CTraceListData&)
+    [6] CEngineTrace::TraceRayAgainstLeafAndEntityList(Ray_t const&, CTraceListData&, unsigned int, ITraceFilter*, CGameTrace*)
+    [7] CEngineTrace::SweepCollideable(ICollideable*, Vector const&, Vector const&, QAngle const&, unsigned int, ITraceFilter*, CGameTrace*)
+    [8] CEngineTrace::EnumerateEntities(Ray_t const&, bool, IEntityEnumerator*)
+    [9] CEngineTrace::EnumerateEntities(Vector const&, Vector const&, IEntityEnumerator*)

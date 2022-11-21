@@ -1,0 +1,2 @@
+VTable for CryptoPP::PrivateKey:
+    [0] non-virtual thunk to CryptoPP::CipherModeBase::OptimalDataAlignment() const

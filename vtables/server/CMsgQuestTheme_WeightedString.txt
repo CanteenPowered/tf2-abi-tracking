@@ -1,0 +1,40 @@
+VTable for CMsgQuestTheme_WeightedStringSet:
+    [0] CMsgQuestTheme_WeightedStringSet::~CMsgQuestTheme_WeightedStringSet()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgQuestTheme_WeightedStringSet::New() const
+    [3] CMsgQuestTheme_WeightedStringSet::Clear()
+    [4] CMsgQuestTheme_WeightedStringSet::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgQuestTheme_WeightedStringSet::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgQuestTheme_WeightedStringSet::ByteSize() const
+    [9] CMsgQuestTheme_WeightedStringSet::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgQuestTheme_WeightedStringSet::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgQuestTheme_WeightedStringSet::GetCachedSize() const
+    [12] CMsgQuestTheme_WeightedStringSet::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgQuestTheme_WeightedStringSet::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgQuestTheme_WeightedStringSet::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgQuestTheme_WeightedStringSet::GetMetadata() const
+VTable for CMsgQuestTheme_WeightedString:
+    [0] CMsgQuestTheme_WeightedString::~CMsgQuestTheme_WeightedString()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgQuestTheme_WeightedString::New() const
+    [3] CMsgQuestTheme_WeightedString::Clear()
+    [4] CMsgQuestTheme_WeightedString::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgQuestTheme_WeightedString::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgQuestTheme_WeightedString::ByteSize() const
+    [9] CMsgQuestTheme_WeightedString::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgQuestTheme_WeightedString::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgQuestTheme_WeightedString::GetCachedSize() const
+    [12] CMsgQuestTheme_WeightedString::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgQuestTheme_WeightedString::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgQuestTheme_WeightedString::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgQuestTheme_WeightedString::GetMetadata() const

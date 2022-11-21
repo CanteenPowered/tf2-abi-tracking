@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CHandleTest>:
+    [0] CEntityFactory<CHandleTest>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CHandleTest>::GetEntitySize()

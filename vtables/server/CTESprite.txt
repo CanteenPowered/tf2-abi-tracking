@@ -1,0 +1,7 @@
+VTable for CTESprite:
+    [0] CTESprite::YouForgotToImplementOrDeclareServerClass()
+    [1] CTESprite::~CTESprite()
+    [2] CTESprite::~CTESprite()
+    [3] CTESprite::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CTESprite::Precache()

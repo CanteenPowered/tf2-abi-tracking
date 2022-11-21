@@ -1,0 +1,11 @@
+VTable for CInstancedResponseSystem:
+    [0] CInstancedResponseSystem::~CInstancedResponseSystem()
+    [1] CResponseSystem::FindBestResponse(AI_CriteriaSet const&, AI_Response&, IResponseFilter*)
+    [2] CResponseSystem::GetAllResponses(CUtlVector<AI_Response*, CUtlMemory<AI_Response*, int>>*)
+    [3] CResponseSystem::PrecacheResponses(bool)
+    [4] CInstancedResponseSystem::Release()
+    [5] CResponseSystem::DumpRules()
+    [6] CResponseSystem::Precache()
+    [7] CInstancedResponseSystem::GetScriptFile()
+    [8] CInstancedResponseSystem::Init()
+    [9] CInstancedResponseSystem::LevelInitPostEntity()

@@ -1,0 +1,3 @@
+VTable for CRefCountServiceBase<true, CRefMT>:
+    [0] CRefCountServiceBase<true, CRefMT>::~CRefCountServiceBase()
+    [1] CRefCountServiceBase<true, CRefMT>::OnFinalRelease()

@@ -1,0 +1,10 @@
+VTable for CPasstimeBallControllerHoming:
+    [0] CPasstimeBallControllerHoming::~CPasstimeBallControllerHoming()
+    [1] CPasstimeBallControllerHoming::Apply(CPasstimeBall*)
+    [2] CPasstimeBallControllerHoming::IsActive() const
+    [3] CPasstimeBallControllerHoming::OnBallCollision(CPasstimeBall*, int, gamevcollisionevent_t*)
+    [4] CPasstimeBallControllerHoming::OnBallPickedUp(CPasstimeBall*, CTFPlayer*)
+    [5] CPasstimeBallControllerHoming::OnBallDamaged(CPasstimeBall*)
+    [6] CPasstimeBallControllerHoming::OnBallSpawned(CPasstimeBall*)
+    [7] CPasstimeBallController::OnEnabled()
+    [8] CPasstimeBallControllerHoming::OnDisabled()

@@ -1,0 +1,5 @@
+VTable for CTraceFilterLOS:
+    [0] CTraceFilter::GetTraceType() const
+    [1] CTraceFilterSimple::SetPassEntity(IHandleEntity const*)
+    [2] CTraceFilterSimple::SetCollisionGroup(int)
+    [3] CTraceFilterSkipTwoEntities::SetPassEntity2(IHandleEntity const*)

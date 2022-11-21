@@ -1,0 +1,20 @@
+VTable for CMsgQuestDef_ObjectiveInstance:
+    [0] CMsgQuestDef_ObjectiveInstance::~CMsgQuestDef_ObjectiveInstance()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgQuestDef_ObjectiveInstance::New() const
+    [3] CMsgQuestDef_ObjectiveInstance::Clear()
+    [4] CMsgQuestDef_ObjectiveInstance::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgQuestDef_ObjectiveInstance::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgQuestDef_ObjectiveInstance::ByteSize() const
+    [9] CMsgQuestDef_ObjectiveInstance::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgQuestDef_ObjectiveInstance::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgQuestDef_ObjectiveInstance::GetCachedSize() const
+    [12] CMsgQuestDef_ObjectiveInstance::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgQuestDef_ObjectiveInstance::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgQuestDef_ObjectiveInstance::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgQuestDef_ObjectiveInstance::GetMetadata() const

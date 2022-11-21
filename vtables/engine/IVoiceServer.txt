@@ -1,0 +1,2 @@
+VTable for IVoiceServer:
+    [0] IVoiceServer::~IVoiceServer()

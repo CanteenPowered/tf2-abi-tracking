@@ -1,0 +1,2 @@
+VTable for IServerGameEnts:
+    [0] IServerGameEnts::~IServerGameEnts()

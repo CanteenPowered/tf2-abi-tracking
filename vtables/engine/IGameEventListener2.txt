@@ -1,0 +1,2 @@
+VTable for IGameEventListener2:
+    [0] IGameEventListener2::~IGameEventListener2()

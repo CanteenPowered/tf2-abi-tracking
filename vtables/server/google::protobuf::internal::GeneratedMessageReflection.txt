@@ -1,0 +1,34 @@
+VTable for google::protobuf::internal::FunctionClosure0:
+    [0] google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector::AddWarning(int, int, std::string const&)
+VTable for google::protobuf::internal::CodedOutputStreamFieldSkipper:
+VTable for google::protobuf::internal::FieldSkipper:
+VTable for google::protobuf::internal::GeneratedMessageReflection:
+VTable for google::protobuf::internal::ExtensionFinder:
+    [0] google::protobuf::(anonymous namespace)::FieldValuePrinterUtf8Escaping::PrintString(std::string const&) const
+    [1] google::protobuf::(anonymous namespace)::FieldValuePrinterUtf8Escaping::PrintBytes(std::string const&) const
+    [2] google::protobuf::TextFormat::FieldValuePrinter::PrintEnum(int, std::string const&) const
+    [3] google::protobuf::TextFormat::FieldValuePrinter::PrintFieldName(google::protobuf::Message const&, google::protobuf::Reflection const*, google::protobuf::FieldDescriptor const*) const
+    [4] google::protobuf::TextFormat::FieldValuePrinter::PrintMessageStart(google::protobuf::Message const&, int, int, bool) const
+    [5] google::protobuf::TextFormat::FieldValuePrinter::PrintMessageEnd(google::protobuf::Message const&, int, int, bool) const
+VTable for google::protobuf::internal::DescriptorPoolExtensionFinder:
+    [0] CryptoPP::Clonable::Clone() const
+    [1] CryptoPP::Algorithm::AlgorithmName() const
+    [2] CryptoPP::PrivateKeyAlgorithm::AccessMaterial()
+    [3] CryptoPP::PrivateKeyAlgorithm::GetMaterial() const
+VTable for google::protobuf::internal::MessageSetFieldSkipper:
+    [0] CryptoPP::PK_CryptoSystem::FixedCiphertextLength() const
+    [1] CryptoPP::PK_CryptoSystem::FixedMaxPlaintextLength() const
+VTable for google::protobuf::internal::FunctionClosure1<std::pair<google::protobuf::FileDescriptorTables const*, google::protobuf::SourceCodeInfo const*>*>:
+    [0] google::protobuf::io::LimitingInputStream::ByteCount() const
+VTable for google::protobuf::internal::GeneratedExtensionFinder:
+VTable for google::protobuf::internal::UnknownFieldSetFieldSkipper:
+    [0] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
+    [1] CryptoPP::Filter::Attachable()
+    [2] CryptoPP::Filter::AttachedTransformation()
+    [3] CryptoPP::Filter::AttachedTransformation() const
+    [4] CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
+    [5] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
+    [6] CryptoPP::Filter::NewDefaultAttachment() const
+    [7] CryptoPP::Filter::ShouldPropagateMessageEnd() const
+    [8] CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const
+    [9] CryptoPP::Unflushable<CryptoPP::Filter>::InputBufferIsEmpty() const

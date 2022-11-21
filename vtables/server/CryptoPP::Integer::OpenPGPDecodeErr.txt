@@ -1,0 +1,25 @@
+VTable for CryptoPP::Integer::OpenPGPDecodeErr:
+    [0] CryptoPP::Filter::Initialize(CryptoPP::NameValuePairs const&, int)
+    [1] CryptoPP::Unflushable<CryptoPP::Multichannel<CryptoPP::Filter>>::Flush(bool, int, bool)
+    [2] CryptoPP::Multichannel<CryptoPP::Filter>::MessageSeriesEnd(int, bool)
+    [3] CryptoPP::BufferedTransformation::SetAutoSignalPropagation(int)
+    [4] CryptoPP::BufferedTransformation::GetAutoSignalPropagation() const
+    [5] CryptoPP::BufferedTransformation::MaxRetrievable() const
+    [6] CryptoPP::BufferedTransformation::AnyRetrievable() const
+    [7] CryptoPP::BufferedTransformation::Get(unsigned char&)
+    [8] CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
+    [9] CryptoPP::BufferedTransformation::Peek(unsigned char&) const
+    [10] CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
+    [11] CryptoPP::BufferedTransformation::Skip(unsigned long long)
+    [12] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
+    [13] CryptoPP::BufferedTransformation::NumberOfMessages() const
+    [14] CryptoPP::BufferedTransformation::AnyMessages() const
+    [15] CryptoPP::BufferedTransformation::GetNextMessage()
+    [16] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
+    [17] CryptoPP::BufferedTransformation::SkipAll()
+    [18] CryptoPP::BufferedTransformation::GetNextMessageSeries()
+    [19] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
+    [20] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
+    [21] CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
+    [22] CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
+    [23] CryptoPP::Multichannel<CryptoPP::Filter>::ChannelCreatePutSpace(std::string const&, unsigned int&)

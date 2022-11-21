@@ -1,0 +1,7 @@
+VTable for CryptoPP::MontgomeryRepresentation:
+    [0] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
+    [1] CryptoPP::BufferedTransformation::Attachable()
+    [2] CryptoPP::BufferedTransformation::AttachedTransformation()
+    [3] CryptoPP::BufferedTransformation::AttachedTransformation() const
+    [4] CryptoPP::BufferedTransformation::Detach(CryptoPP::BufferedTransformation*)
+    [5] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)

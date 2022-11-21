@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CEnvFunnel>:
+    [0] CEntityFactory<CEnvFunnel>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CEnvFunnel>::GetEntitySize()

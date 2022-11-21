@@ -1,0 +1,3 @@
+VTable for CEconItemSystem:
+    [0] CEconItemSystem::~CEconItemSystem()
+    [1] CEconItemSystem::GenerateBaseItem(baseitemcriteria_t*)

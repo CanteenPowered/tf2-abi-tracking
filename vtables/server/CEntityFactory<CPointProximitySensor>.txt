@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPointProximitySensor>:
+    [0] CEntityFactory<CPointProximitySensor>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPointProximitySensor>::GetEntitySize()

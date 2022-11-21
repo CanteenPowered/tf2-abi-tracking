@@ -1,0 +1,2 @@
+VTable for CryptoPP::StreamTransformationFilter:
+VTable for CryptoPP::StreamTransformation:

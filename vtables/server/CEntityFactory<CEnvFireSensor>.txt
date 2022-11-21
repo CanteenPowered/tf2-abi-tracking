@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CEnvFireSensor>:
+    [0] CEntityFactory<CEnvFireSensor>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CEnvFireSensor>::GetEntitySize()

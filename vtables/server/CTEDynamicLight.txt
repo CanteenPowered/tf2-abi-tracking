@@ -1,0 +1,7 @@
+VTable for CTEDynamicLight:
+    [0] CTEDynamicLight::YouForgotToImplementOrDeclareServerClass()
+    [1] CTEDynamicLight::~CTEDynamicLight()
+    [2] CTEDynamicLight::~CTEDynamicLight()
+    [3] CTEDynamicLight::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CBaseTempEntity::Precache()

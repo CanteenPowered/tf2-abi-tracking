@@ -1,0 +1,16 @@
+VTable for SVC_SendTable:
+    [0] SVC_SendTable::~SVC_SendTable()
+    [1] CNetMessage::SetNetChannel(INetChannel*)
+    [2] CNetMessage::SetReliable(bool)
+    [3] SVC_SendTable::Process()
+    [4] SVC_SendTable::ReadFromBuffer(bf_read&)
+    [5] SVC_SendTable::WriteToBuffer(bf_write&)
+    [6] CNetMessage::IsReliable() const
+    [7] SVC_SendTable::GetType() const
+    [8] SVC_SendTable::GetGroup() const
+    [9] SVC_SendTable::GetName() const
+    [10] CNetMessage::GetNetChannel() const
+    [11] SVC_SendTable::ToString() const
+    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
+    [13] SVC_SendTable::GetSize() const
+    [14] CNetMessage::SetRatePolicy()

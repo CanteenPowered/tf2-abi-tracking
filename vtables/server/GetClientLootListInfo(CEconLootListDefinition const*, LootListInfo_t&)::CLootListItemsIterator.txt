@@ -1,0 +1,3 @@
+VTable for GetClientLootListInfo(CEconLootListDefinition const*, LootListInfo_t&)::CLootListItemsIterator:
+    [0] GetClientLootListInfo(CEconLootListDefinition const*, LootListInfo_t&)::CLootListItemsIterator::~CLootListItemsIterator()
+    [1] GetClientLootListInfo(CEconLootListDefinition const*, LootListInfo_t&)::CLootListItemsIterator::OnIterate(unsigned short)

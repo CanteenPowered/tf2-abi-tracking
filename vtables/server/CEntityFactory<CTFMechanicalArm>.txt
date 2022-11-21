@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFMechanicalArm>:
+    [0] CEntityFactory<CTFMechanicalArm>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFMechanicalArm>::GetEntitySize()

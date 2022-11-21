@@ -1,0 +1,10 @@
+VTable for CryptoPP::Filter:
+    [0] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
+    [1] CryptoPP::Filter::Attachable()
+    [2] CryptoPP::Filter::AttachedTransformation()
+    [3] CryptoPP::Filter::AttachedTransformation() const
+    [4] CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
+    [5] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
+    [6] CryptoPP::Filter::NewDefaultAttachment() const
+    [7] CryptoPP::Filter::ShouldPropagateMessageEnd() const
+    [8] CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const

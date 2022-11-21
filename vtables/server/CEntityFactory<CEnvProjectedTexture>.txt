@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CEnvProjectedTexture>:
+    [0] CEntityFactory<CEnvProjectedTexture>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CEnvProjectedTexture>::GetEntitySize()

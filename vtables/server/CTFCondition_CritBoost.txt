@@ -1,0 +1,9 @@
+VTable for CTFCondition_CritBoost:
+    [0] CTFCondition_CritBoost::~CTFCondition_CritBoost()
+    [1] CTFCondition::Add(float)
+    [2] CTFCondition_CritBoost::OnAdded()
+    [3] CTFCondition_CritBoost::OnRemoved()
+    [4] CTFCondition_CritBoost::OnThink()
+    [5] CTFCondition_CritBoost::OnServerThink()
+    [6] CTFCondition_CritBoost::IsHealable()
+    [7] CTFCondition_CritBoost::UsesMinDuration()

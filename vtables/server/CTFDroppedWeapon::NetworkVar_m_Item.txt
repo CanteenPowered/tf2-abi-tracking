@@ -1,0 +1,25 @@
+VTable for CTFDroppedWeapon::NetworkVar_m_Item:
+    [0] CTFDroppedWeapon::NetworkVar_m_Item::~NetworkVar_m_Item()
+    [1] IEconItemInterface::IsTradable() const
+    [2] IEconItemInterface::GetUntradabilityFlags() const
+    [3] IEconItemInterface::IsCommodity() const
+    [4] IEconItemInterface::IsUsableInCrafting() const
+    [5] IEconItemInterface::IsMarketable() const
+    [6] CEconItemView::GetItemDefinition() const
+    [7] CEconItemView::GetID() const
+    [8] CEconItemView::GetAccountID() const
+    [9] CEconItemView::GetQuality() const
+    [10] CEconItemView::GetStyle() const
+    [11] CEconItemView::GetFlags() const
+    [12] CEconItemView::GetOrigin() const
+    [13] CEconItemView::GetQuantity() const
+    [14] CEconItemView::GetItemLevel() const
+    [15] CEconItemView::GetInUse() const
+    [16] CEconItemView::GetCustomName() const
+    [17] CEconItemView::GetCustomDesc() const
+    [18] CEconItemView::IterateAttributes(IEconItemAttributeIterator*) const
+    [19] CEconItemView::GetItemDefIndex() const
+    [20] CMaterialOverrideContainer<IEconItemInterface>::GetMaterialOverride(int)
+    [21] CTFDroppedWeapon::NetworkVar_m_Item::NetworkStateChanged()
+    [22] CTFDroppedWeapon::NetworkVar_m_Item::NetworkStateChanged(void*)
+    [23] CEconItemView::GetDataDescMap()

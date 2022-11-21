@@ -1,0 +1,13 @@
+VTable for CryptoPP::ConcretePolicyHolder<CryptoPP::Empty, CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>, CryptoPP::AdditiveCipherAbstractPolicy>:
+    [0] CryptoPP::CryptoMaterial::ThrowIfInvalid(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    [1] CryptoPP::CryptoMaterial::Save(CryptoPP::BufferedTransformation&) const
+    [2] CryptoPP::CryptoMaterial::Load(CryptoPP::BufferedTransformation&)
+    [3] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::SupportsPrecomputation() const
+    [4] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::Precompute(unsigned int)
+    [5] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::LoadPrecomputation(CryptoPP::BufferedTransformation&)
+    [6] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    [7] CryptoPP::GeneratableCryptoMaterial::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    [8] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::GetSubgroupGenerator() const
+    [9] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::SetSubgroupGenerator(CryptoPP::Integer const&)
+    [10] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::ExponentiateBase(CryptoPP::Integer const&) const
+    [11] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::ExponentiateElement(CryptoPP::Integer const&, CryptoPP::Integer const&) const

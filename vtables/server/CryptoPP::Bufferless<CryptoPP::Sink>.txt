@@ -1,0 +1,20 @@
+VTable for CryptoPP::Bufferless<CryptoPP::Filter>:
+    [0] CryptoPP::Bufferless<CryptoPP::Filter>::~Bufferless()
+    [1] CryptoPP::Clonable::Clone() const
+    [2] CryptoPP::Algorithm::AlgorithmName() const
+    [3] CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    [4] CryptoPP::BufferedTransformation::CanModifyInput() const
+VTable for CryptoPP::Bufferless<CryptoPP::BufferedTransformation>:
+    [0] CryptoPP::X509PublicKey::~X509PublicKey()
+    [1] CryptoPP::X509PublicKey::~X509PublicKey()
+    [2] CryptoPP::X509PublicKey::BERDecode(CryptoPP::BufferedTransformation&)
+    [3] CryptoPP::X509PublicKey::DEREncode(CryptoPP::BufferedTransformation&) const
+    [4] CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    [5] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Save(CryptoPP::BufferedTransformation&) const
+    [6] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Load(CryptoPP::BufferedTransformation&)
+VTable for CryptoPP::Bufferless<CryptoPP::Sink>:
+    [0] CryptoPP::Bufferless<CryptoPP::Sink>::~Bufferless()
+    [1] CryptoPP::Clonable::Clone() const
+    [2] CryptoPP::Algorithm::AlgorithmName() const
+    [3] CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    [4] CryptoPP::BufferedTransformation::CanModifyInput() const

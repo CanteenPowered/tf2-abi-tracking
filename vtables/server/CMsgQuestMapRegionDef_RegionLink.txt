@@ -1,0 +1,20 @@
+VTable for CMsgQuestMapRegionDef_RegionLink:
+    [0] CMsgQuestMapRegionDef_RegionLink::~CMsgQuestMapRegionDef_RegionLink()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgQuestMapRegionDef_RegionLink::New() const
+    [3] CMsgQuestMapRegionDef_RegionLink::Clear()
+    [4] CMsgQuestMapRegionDef_RegionLink::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgQuestMapRegionDef_RegionLink::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgQuestMapRegionDef_RegionLink::ByteSize() const
+    [9] CMsgQuestMapRegionDef_RegionLink::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgQuestMapRegionDef_RegionLink::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgQuestMapRegionDef_RegionLink::GetCachedSize() const
+    [12] CMsgQuestMapRegionDef_RegionLink::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgQuestMapRegionDef_RegionLink::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgQuestMapRegionDef_RegionLink::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgQuestMapRegionDef_RegionLink::GetMetadata() const

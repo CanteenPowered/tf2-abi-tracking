@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPhysicsCannister>:
+    [0] CEntityFactory<CPhysicsCannister>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPhysicsCannister>::GetEntitySize()

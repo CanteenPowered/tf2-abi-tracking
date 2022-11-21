@@ -1,0 +1,9 @@
+VTable for ReliableMsgChangeMatchPlayerTeams:
+    [0] ReliableMsgChangeMatchPlayerTeams::~ReliableMsgChangeMatchPlayerTeams()
+    [1] CJobReliableMessageBase<ReliableMsgChangeMatchPlayerTeams, CMsgGCChangeMatchPlayerTeamsRequest, (ETFGCMsg)6539, CMsgGCChangeMatchPlayerTeamsResponse, (ETFGCMsg)6540>::BYieldingRunJob(void*)
+    [2] GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)
+    [3] GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()
+    [4] GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)
+    [5] GCSDK::CGCClientJob::BYieldingRunGCJob()
+    [6] GCSDK::CGCClientJob::GetServerType()
+    [7] CJobReliableMessageBase<ReliableMsgChangeMatchPlayerTeams, CMsgGCChangeMatchPlayerTeamsRequest, (ETFGCMsg)6539, CMsgGCChangeMatchPlayerTeamsResponse, (ETFGCMsg)6540>::Finalize()

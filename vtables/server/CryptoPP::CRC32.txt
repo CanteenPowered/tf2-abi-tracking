@@ -1,0 +1,2 @@
+VTable for CryptoPP::CRC32:
+    [0] CryptoPP::CFB_CipherAbstractPolicy::CipherResynchronize(unsigned char const*, unsigned int)

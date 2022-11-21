@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CEnvSpark>:
+    [0] CEntityFactory<CEnvSpark>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CEnvSpark>::GetEntitySize()

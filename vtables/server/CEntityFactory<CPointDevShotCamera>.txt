@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPointDevShotCamera>:
+    [0] CEntityFactory<CPointDevShotCamera>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPointDevShotCamera>::GetEntitySize()

@@ -1,0 +1,6 @@
+VTable for CMultiplayer_Expresser:
+    [0] CMultiplayer_Expresser::~CMultiplayer_Expresser()
+    [1] CAI_Expresser::IsValidResponse(ResponseType_t, char const*)
+    [2] CAI_Expresser::SpeakRawSentence(char const*, float, float, soundlevel_t, CBaseEntity*)
+    [3] CMultiplayer_Expresser::IsSpeaking()
+    [4] CAI_Expresser::SetOuter(CBaseFlex*)

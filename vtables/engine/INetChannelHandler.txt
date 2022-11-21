@@ -1,0 +1,2 @@
+VTable for INetChannelHandler:
+    [0] INetChannelHandler::~INetChannelHandler()

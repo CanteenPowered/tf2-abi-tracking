@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CBoneFollower>:
+    [0] CEntityFactory<CBoneFollower>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CBoneFollower>::GetEntitySize()

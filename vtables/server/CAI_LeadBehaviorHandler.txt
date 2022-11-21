@@ -1,0 +1,2 @@
+VTable for CAI_LeadBehaviorHandler:
+    [0] CAI_LeadBehaviorHandler::GetConceptModifiers(char const*)

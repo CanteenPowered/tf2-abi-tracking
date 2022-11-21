@@ -1,0 +1,8 @@
+VTable for CVProfExport:
+    [0] CVProfExport::RemoveListener()
+    [1] CVProfExport::PauseProfile()
+    [2] CVProfExport::ResumeProfile()
+    [3] CVProfExport::SetBudgetFlagsFilter(int)
+    [4] CVProfExport::GetNumBudgetGroups()
+    [5] CVProfExport::GetBudgetGroupInfos(IVProfExport::CExportedBudgetGroupInfo*)
+    [6] CVProfExport::GetBudgetGroupTimes(float*)

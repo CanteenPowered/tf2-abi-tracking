@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CObjectSapper>:
+    [0] CEntityFactory<CObjectSapper>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CObjectSapper>::GetEntitySize()

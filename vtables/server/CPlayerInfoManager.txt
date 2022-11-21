@@ -1,0 +1,2 @@
+VTable for CPlayerInfoManager:
+    [0] CPlayerInfoManager::GetGlobalVars()

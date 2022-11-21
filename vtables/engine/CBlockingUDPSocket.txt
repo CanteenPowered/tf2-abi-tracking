@@ -1,0 +1,2 @@
+VTable for CBlockingUDPSocket:
+    [0] CBlockingUDPSocket::~CBlockingUDPSocket()

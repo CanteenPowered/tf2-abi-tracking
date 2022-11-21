@@ -1,0 +1,3 @@
+VTable for CLog:
+    [0] CLog::~CLog()
+    [1] CLog::FireGameEvent(IGameEvent*)

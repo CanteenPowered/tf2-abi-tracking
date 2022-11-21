@@ -1,0 +1,2 @@
+VTable for IInfoPowerupSpawnAutoList:
+    [0] IInfoPowerupSpawnAutoList::~IInfoPowerupSpawnAutoList()

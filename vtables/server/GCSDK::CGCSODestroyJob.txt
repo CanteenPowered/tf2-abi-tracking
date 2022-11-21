@@ -1,0 +1,8 @@
+VTable for GCSDK::CGCSODestroyJob:
+    [0] GCSDK::CGCSODestroyJob::~CGCSODestroyJob()
+    [1] GCSDK::CGCClientJob::BYieldingRunJob(void*)
+    [2] GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)
+    [3] GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()
+    [4] GCSDK::CGCSODestroyJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)
+    [5] GCSDK::CGCClientJob::BYieldingRunGCJob()
+    [6] GCSDK::CGCClientJob::GetServerType()

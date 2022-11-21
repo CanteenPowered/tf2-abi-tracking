@@ -1,0 +1,5 @@
+VTable for GCSDK::CJob:
+    [0] GCSDK::CJob::~CJob()
+    [1] GCSDK::CJob::BYieldingRunJob(void*)
+    [2] GCSDK::CJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)
+    [3] GCSDK::CJob::CHeartbeatsBeforeTimeout()

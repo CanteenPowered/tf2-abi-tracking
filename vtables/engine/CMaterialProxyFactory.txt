@@ -1,0 +1,2 @@
+VTable for CMaterialProxyFactory:
+    [0] CMaterialProxyFactory::DeleteProxy(IMaterialProxy*)

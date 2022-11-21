@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFHalloweenFortuneTeller>:
+    [0] CEntityFactory<CTFHalloweenFortuneTeller>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFHalloweenFortuneTeller>::GetEntitySize()

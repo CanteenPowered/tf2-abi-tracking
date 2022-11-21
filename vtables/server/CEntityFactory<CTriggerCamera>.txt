@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTriggerCamera>:
+    [0] CEntityFactory<CTriggerCamera>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTriggerCamera>::GetEntitySize()

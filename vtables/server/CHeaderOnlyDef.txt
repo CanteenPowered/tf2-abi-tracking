@@ -1,0 +1,10 @@
+VTable for CHeaderOnlyDef:
+    [0] CHeaderOnlyDef::~CHeaderOnlyDef()
+    [1] CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetMsg() const
+    [2] CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetDefType() const
+    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
+    [4] CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetTopLayerMessage() const
+    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [7] CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetMutableTopLayerMsg()
+    [8] CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetMutableMsg()

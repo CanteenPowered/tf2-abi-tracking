@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CHalloweenSoulPack>:
+    [0] CEntityFactory<CHalloweenSoulPack>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CHalloweenSoulPack>::GetEntitySize()

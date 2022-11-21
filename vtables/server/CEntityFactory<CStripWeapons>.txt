@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CStripWeapons>:
+    [0] CEntityFactory<CStripWeapons>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CStripWeapons>::GetEntitySize()

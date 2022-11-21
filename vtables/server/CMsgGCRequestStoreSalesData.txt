@@ -1,0 +1,20 @@
+VTable for CMsgGCRequestStoreSalesData:
+    [0] CMsgGCRequestStoreSalesData::~CMsgGCRequestStoreSalesData()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCRequestStoreSalesData::New() const
+    [3] CMsgGCRequestStoreSalesData::Clear()
+    [4] CMsgGCRequestStoreSalesData::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCRequestStoreSalesData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCRequestStoreSalesData::ByteSize() const
+    [9] CMsgGCRequestStoreSalesData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCRequestStoreSalesData::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCRequestStoreSalesData::GetCachedSize() const
+    [12] CMsgGCRequestStoreSalesData::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCRequestStoreSalesData::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCRequestStoreSalesData::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCRequestStoreSalesData::GetMetadata() const

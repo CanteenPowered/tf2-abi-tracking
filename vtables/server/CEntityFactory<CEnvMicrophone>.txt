@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CEnvMicrophone>:
+    [0] CEntityFactory<CEnvMicrophone>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CEnvMicrophone>::GetEntitySize()

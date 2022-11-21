@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CBonusDuckPickup>:
+    [0] CEntityFactory<CBonusDuckPickup>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CBonusDuckPickup>::GetEntitySize()

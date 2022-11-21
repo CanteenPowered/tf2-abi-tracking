@@ -1,0 +1,16 @@
+VTable for SVC_ServerInfo:
+    [0] SVC_ServerInfo::~SVC_ServerInfo()
+    [1] CNetMessage::SetNetChannel(INetChannel*)
+    [2] CNetMessage::SetReliable(bool)
+    [3] SVC_ServerInfo::Process()
+    [4] SVC_ServerInfo::ReadFromBuffer(bf_read&)
+    [5] SVC_ServerInfo::WriteToBuffer(bf_write&)
+    [6] CNetMessage::IsReliable() const
+    [7] SVC_ServerInfo::GetType() const
+    [8] SVC_ServerInfo::GetGroup() const
+    [9] SVC_ServerInfo::GetName() const
+    [10] CNetMessage::GetNetChannel() const
+    [11] SVC_ServerInfo::ToString() const
+    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
+    [13] SVC_ServerInfo::GetSize() const
+    [14] CNetMessage::SetRatePolicy()

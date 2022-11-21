@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPlasma>:
+    [0] CEntityFactory<CPlasma>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CPlasma>::GetEntitySize()

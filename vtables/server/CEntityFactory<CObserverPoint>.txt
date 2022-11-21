@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CObserverPoint>:
+    [0] CEntityFactory<CObserverPoint>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CObserverPoint>::GetEntitySize()

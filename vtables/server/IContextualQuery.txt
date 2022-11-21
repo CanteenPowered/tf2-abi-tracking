@@ -1,0 +1,10 @@
+VTable for IContextualQuery:
+    [0] IContextualQuery::~IContextualQuery()
+    [1] IContextualQuery::ShouldPickUp(INextBot const*, CBaseEntity*) const
+    [2] IContextualQuery::ShouldHurry(INextBot const*) const
+    [3] IContextualQuery::ShouldRetreat(INextBot const*) const
+    [4] IContextualQuery::ShouldAttack(INextBot const*, CKnownEntity const*) const
+    [5] IContextualQuery::IsHindrance(INextBot const*, CBaseEntity*) const
+    [6] IContextualQuery::SelectTargetPoint(INextBot const*, CBaseCombatCharacter const*) const
+    [7] IContextualQuery::IsPositionAllowed(INextBot const*, Vector const&) const
+    [8] IContextualQuery::SelectMoreDangerousThreat(INextBot const*, CBaseCombatCharacter const*, CKnownEntity const*, CKnownEntity const*) const

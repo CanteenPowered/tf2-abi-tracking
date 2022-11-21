@@ -1,0 +1,2 @@
+VTable for CryptoPP::DL_KeyAgreementAlgorithm<CryptoPP::Integer>:
+VTable for CryptoPP::DL_KeyAgreementAlgorithm_DH<CryptoPP::Integer, CryptoPP::EnumToType<CryptoPP::CofactorMultiplicationOption, 0>>:

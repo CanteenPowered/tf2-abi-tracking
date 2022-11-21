@@ -1,0 +1,40 @@
+VTable for CMsgGCGetPersonaNames_Response_PersonaName:
+    [0] CMsgGCGetPersonaNames_Response_PersonaName::~CMsgGCGetPersonaNames_Response_PersonaName()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCGetPersonaNames_Response_PersonaName::New() const
+    [3] CMsgGCGetPersonaNames_Response_PersonaName::Clear()
+    [4] CMsgGCGetPersonaNames_Response_PersonaName::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCGetPersonaNames_Response_PersonaName::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCGetPersonaNames_Response_PersonaName::ByteSize() const
+    [9] CMsgGCGetPersonaNames_Response_PersonaName::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCGetPersonaNames_Response_PersonaName::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCGetPersonaNames_Response_PersonaName::GetCachedSize() const
+    [12] CMsgGCGetPersonaNames_Response_PersonaName::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCGetPersonaNames_Response_PersonaName::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCGetPersonaNames_Response_PersonaName::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCGetPersonaNames_Response_PersonaName::GetMetadata() const
+VTable for CMsgGCGetPersonaNames_Response:
+    [0] CMsgGCGetPersonaNames_Response::~CMsgGCGetPersonaNames_Response()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGCGetPersonaNames_Response::New() const
+    [3] CMsgGCGetPersonaNames_Response::Clear()
+    [4] CMsgGCGetPersonaNames_Response::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGCGetPersonaNames_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGCGetPersonaNames_Response::ByteSize() const
+    [9] CMsgGCGetPersonaNames_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGCGetPersonaNames_Response::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGCGetPersonaNames_Response::GetCachedSize() const
+    [12] CMsgGCGetPersonaNames_Response::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGCGetPersonaNames_Response::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGCGetPersonaNames_Response::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGCGetPersonaNames_Response::GetMetadata() const

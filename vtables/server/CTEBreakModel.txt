@@ -1,0 +1,7 @@
+VTable for CTEBreakModel:
+    [0] CTEBreakModel::YouForgotToImplementOrDeclareServerClass()
+    [1] CTEBreakModel::~CTEBreakModel()
+    [2] CTEBreakModel::~CTEBreakModel()
+    [3] CTEBreakModel::Test(Vector const&, QAngle const&)
+    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
+    [5] CTEBreakModel::Precache()

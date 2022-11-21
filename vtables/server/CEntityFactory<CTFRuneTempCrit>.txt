@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFRuneTempCrit>:
+    [0] CEntityFactory<CTFRuneTempCrit>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFRuneTempCrit>::GetEntitySize()

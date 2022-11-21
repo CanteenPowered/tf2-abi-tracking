@@ -1,0 +1,16 @@
+VTable for CLC_FileCRCCheck:
+    [0] CLC_FileCRCCheck::~CLC_FileCRCCheck()
+    [1] CNetMessage::SetNetChannel(INetChannel*)
+    [2] CNetMessage::SetReliable(bool)
+    [3] CLC_FileCRCCheck::Process()
+    [4] CLC_FileCRCCheck::ReadFromBuffer(bf_read&)
+    [5] CLC_FileCRCCheck::WriteToBuffer(bf_write&)
+    [6] CNetMessage::IsReliable() const
+    [7] CLC_FileCRCCheck::GetType() const
+    [8] CNetMessage::GetGroup() const
+    [9] CLC_FileCRCCheck::GetName() const
+    [10] CNetMessage::GetNetChannel() const
+    [11] CLC_FileCRCCheck::ToString() const
+    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
+    [13] CLC_FileCRCCheck::GetSize() const
+    [14] CNetMessage::SetRatePolicy()

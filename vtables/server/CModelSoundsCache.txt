@@ -1,0 +1,5 @@
+VTable for CModelSoundsCache:
+    [0] CModelSoundsCache::Restore(CUtlBuffer&)
+    [1] CModelSoundsCache::Rebuild(char const*)
+    [2] CModelSoundsCache::~CModelSoundsCache()
+    [3] CModelSoundsCache::~CModelSoundsCache()

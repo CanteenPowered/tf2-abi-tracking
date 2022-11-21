@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFBonesaw>:
+    [0] CEntityFactory<CTFBonesaw>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFBonesaw>::GetEntitySize()

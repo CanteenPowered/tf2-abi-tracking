@@ -1,0 +1,20 @@
+VTable for CMsgUseItem:
+    [0] CMsgUseItem::~CMsgUseItem()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgUseItem::New() const
+    [3] CMsgUseItem::Clear()
+    [4] CMsgUseItem::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgUseItem::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgUseItem::ByteSize() const
+    [9] CMsgUseItem::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgUseItem::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgUseItem::GetCachedSize() const
+    [12] CMsgUseItem::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgUseItem::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgUseItem::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgUseItem::GetMetadata() const

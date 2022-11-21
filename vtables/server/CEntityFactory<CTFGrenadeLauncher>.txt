@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFGrenadeLauncher>:
+    [0] CEntityFactory<CTFGrenadeLauncher>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFGrenadeLauncher>::GetEntitySize()

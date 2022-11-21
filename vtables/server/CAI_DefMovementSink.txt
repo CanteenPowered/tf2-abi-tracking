@@ -1,0 +1,9 @@
+VTable for CAI_DefMovementSink:
+    [0] CAI_DefMovementSink::OnCalcBaseMove(AILocalMoveGoal_t*, float, AIMoveResult_t*)
+    [1] CAI_DefMovementSink::OnObstructionPreSteer(AILocalMoveGoal_t*, float, AIMoveResult_t*)
+    [2] CAI_DefMovementSink::OnFailedSteer(AILocalMoveGoal_t*, float, AIMoveResult_t*)
+    [3] CAI_DefMovementSink::OnFailedLocalNavigation(AILocalMoveGoal_t*, float, AIMoveResult_t*)
+    [4] CAI_DefMovementSink::OnInsufficientStopDist(AILocalMoveGoal_t*, float, AIMoveResult_t*)
+    [5] CAI_DefMovementSink::OnMoveBlocked(AIMoveResult_t*)
+    [6] CAI_DefMovementSink::OnMoveStalled(AILocalMoveGoal_t const&)
+    [7] CAI_DefMovementSink::OnMoveExecuteFailed(AILocalMoveGoal_t const&, AIMoveTrace_t const&, AIMotorMoveResult_t, AIMoveResult_t*)

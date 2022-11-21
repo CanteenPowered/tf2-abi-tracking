@@ -1,0 +1,10 @@
+VTable for CPaintKitVariables:
+    [0] CPaintKitVariables::~CPaintKitVariables()
+    [1] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetMsg() const
+    [2] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetDefType() const
+    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
+    [4] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetTopLayerMessage() const
+    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    [7] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetMutableTopLayerMsg()
+    [8] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetMutableMsg()

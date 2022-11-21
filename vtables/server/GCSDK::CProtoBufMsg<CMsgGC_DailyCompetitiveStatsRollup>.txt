@@ -1,0 +1,6 @@
+VTable for GCSDK::CProtoBufMsg<CMsgGC_DailyCompetitiveStatsRollup_Response>:
+    [0] GCSDK::CProtoBufMsg<CMsgGC_DailyCompetitiveStatsRollup_Response>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgGC_DailyCompetitiveStatsRollup_Response>::GetGenericBody() const
+VTable for GCSDK::CProtoBufMsg<CMsgGC_DailyCompetitiveStatsRollup>:
+    [0] GCSDK::CProtoBufMsg<CMsgGC_DailyCompetitiveStatsRollup>::~CProtoBufMsg()
+    [1] GCSDK::CProtoBufMsg<CMsgGC_DailyCompetitiveStatsRollup>::GetGenericBody() const

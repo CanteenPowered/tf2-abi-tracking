@@ -1,0 +1,10 @@
+VTable for GetCardUpgradeForIndex(IEconItemInterface const*, int)::CGetNthUserGeneratedAttributeIterator:
+    [0] GetCardUpgradeForIndex(IEconItemInterface const*, int)::CGetNthUserGeneratedAttributeIterator::~CGetNthUserGeneratedAttributeIterator()
+    [1] IEconItemUntypedAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned int)
+    [2] IEconItemUntypedAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, float)
+    [3] IEconItemUntypedAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned long long const&)
+    [4] IEconItemUntypedAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_String const&)
+    [5] IEconItemUntypedAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_DynamicRecipeComponent const&)
+    [6] IEconItemUntypedAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_ItemSlotCriteria const&)
+    [7] IEconItemUntypedAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_WorldItemPlacement const&)
+    [8] GetCardUpgradeForIndex(IEconItemInterface const*, int)::CGetNthUserGeneratedAttributeIterator::OnIterateAttributeValueUntyped(CEconItemAttributeDefinition const*)

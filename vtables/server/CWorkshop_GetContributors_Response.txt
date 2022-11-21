@@ -1,0 +1,40 @@
+VTable for CWorkshop_GetContributors_Request:
+    [0] CWorkshop_GetContributors_Request::~CWorkshop_GetContributors_Request()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CWorkshop_GetContributors_Request::New() const
+    [3] CWorkshop_GetContributors_Request::Clear()
+    [4] CWorkshop_GetContributors_Request::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CWorkshop_GetContributors_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CWorkshop_GetContributors_Request::ByteSize() const
+    [9] CWorkshop_GetContributors_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CWorkshop_GetContributors_Request::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CWorkshop_GetContributors_Request::GetCachedSize() const
+    [12] CWorkshop_GetContributors_Request::CopyFrom(google::protobuf::Message const&)
+    [13] CWorkshop_GetContributors_Request::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CWorkshop_GetContributors_Request::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CWorkshop_GetContributors_Request::GetMetadata() const
+VTable for CWorkshop_GetContributors_Response:
+    [0] CWorkshop_GetContributors_Response::~CWorkshop_GetContributors_Response()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CWorkshop_GetContributors_Response::New() const
+    [3] CWorkshop_GetContributors_Response::Clear()
+    [4] CWorkshop_GetContributors_Response::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CWorkshop_GetContributors_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CWorkshop_GetContributors_Response::ByteSize() const
+    [9] CWorkshop_GetContributors_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CWorkshop_GetContributors_Response::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CWorkshop_GetContributors_Response::GetCachedSize() const
+    [12] CWorkshop_GetContributors_Response::CopyFrom(google::protobuf::Message const&)
+    [13] CWorkshop_GetContributors_Response::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CWorkshop_GetContributors_Response::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CWorkshop_GetContributors_Response::GetMetadata() const

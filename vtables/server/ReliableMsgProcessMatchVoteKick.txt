@@ -1,0 +1,9 @@
+VTable for ReliableMsgProcessMatchVoteKick:
+    [0] ReliableMsgProcessMatchVoteKick::~ReliableMsgProcessMatchVoteKick()
+    [1] CJobReliableMessageBase<ReliableMsgProcessMatchVoteKick, CMsgProcessMatchVoteKick, (ETFGCMsg)6581, CMsgProcessMatchVoteKickResponse, (ETFGCMsg)6582>::BYieldingRunJob(void*)
+    [2] GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)
+    [3] GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()
+    [4] GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)
+    [5] GCSDK::CGCClientJob::BYieldingRunGCJob()
+    [6] GCSDK::CGCClientJob::GetServerType()
+    [7] CJobReliableMessageBase<ReliableMsgProcessMatchVoteKick, CMsgProcessMatchVoteKick, (ETFGCMsg)6581, CMsgProcessMatchVoteKickResponse, (ETFGCMsg)6582>::Finalize()

@@ -1,0 +1,6 @@
+VTable for CEntityFactory<CAI_DynamicLinkController>:
+    [0] CEntityFactory<CAI_DynamicLinkController>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CAI_DynamicLinkController>::GetEntitySize()
+VTable for CEntityFactory<CAI_DynamicLink>:
+    [0] CEntityFactory<CAI_DynamicLink>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CAI_DynamicLink>::GetEntitySize()

@@ -1,0 +1,3 @@
+VTable for CVirtualTerrain:
+    [0] CVirtualTerrain::GetWorldspaceBounds(void*, Vector*, Vector*)
+    [1] CVirtualTerrain::GetTrianglesInSphere(void*, Vector const&, float, virtualmeshtrianglelist_t*)

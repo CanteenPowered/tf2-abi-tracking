@@ -1,0 +1,3 @@
+VTable for CClientFrame:
+    [0] CClientFrame::~CClientFrame()
+    [1] CClientFrame::IsMemPoolAllocated()

@@ -1,0 +1,6 @@
+VTable for CryptoPP::EcPrecomputation<CryptoPP::ECP>:
+    [0] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::ValidateElement(unsigned int, CryptoPP::EC2NPoint const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::EC2NPoint> const*) const
+    [1] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::FastSubgroupCheckAvailable() const
+    [2] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::IsIdentity(CryptoPP::EC2NPoint const&) const
+    [3] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::SimultaneousExponentiate(CryptoPP::EC2NPoint*, CryptoPP::EC2NPoint const&, CryptoPP::Integer const*, unsigned int) const
+VTable for CryptoPP::EcPrecomputation<CryptoPP::EC2N>:

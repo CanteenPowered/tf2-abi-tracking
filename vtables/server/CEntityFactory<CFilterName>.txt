@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CFilterName>:
+    [0] CEntityFactory<CFilterName>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CFilterName>::GetEntitySize()

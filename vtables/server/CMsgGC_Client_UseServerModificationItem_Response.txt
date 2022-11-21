@@ -1,0 +1,40 @@
+VTable for CMsgGC_Client_UseServerModificationItem_Response:
+    [0] CMsgGC_Client_UseServerModificationItem_Response::~CMsgGC_Client_UseServerModificationItem_Response()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGC_Client_UseServerModificationItem_Response::New() const
+    [3] CMsgGC_Client_UseServerModificationItem_Response::Clear()
+    [4] CMsgGC_Client_UseServerModificationItem_Response::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGC_Client_UseServerModificationItem_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGC_Client_UseServerModificationItem_Response::ByteSize() const
+    [9] CMsgGC_Client_UseServerModificationItem_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGC_Client_UseServerModificationItem_Response::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGC_Client_UseServerModificationItem_Response::GetCachedSize() const
+    [12] CMsgGC_Client_UseServerModificationItem_Response::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGC_Client_UseServerModificationItem_Response::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGC_Client_UseServerModificationItem_Response::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGC_Client_UseServerModificationItem_Response::GetMetadata() const
+VTable for CMsgGC_Client_UseServerModificationItem:
+    [0] CMsgGC_Client_UseServerModificationItem::~CMsgGC_Client_UseServerModificationItem()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGC_Client_UseServerModificationItem::New() const
+    [3] CMsgGC_Client_UseServerModificationItem::Clear()
+    [4] CMsgGC_Client_UseServerModificationItem::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGC_Client_UseServerModificationItem::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGC_Client_UseServerModificationItem::ByteSize() const
+    [9] CMsgGC_Client_UseServerModificationItem::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGC_Client_UseServerModificationItem::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGC_Client_UseServerModificationItem::GetCachedSize() const
+    [12] CMsgGC_Client_UseServerModificationItem::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGC_Client_UseServerModificationItem::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGC_Client_UseServerModificationItem::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGC_Client_UseServerModificationItem::GetMetadata() const

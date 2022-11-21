@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CWeightButton>:
+    [0] CEntityFactory<CWeightButton>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CWeightButton>::GetEntitySize()

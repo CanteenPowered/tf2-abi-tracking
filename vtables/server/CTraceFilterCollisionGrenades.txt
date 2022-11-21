@@ -1,0 +1,2 @@
+VTable for CTraceFilterCollisionGrenades:
+    [0] CTraceFilterEntitiesOnly::GetTraceType() const

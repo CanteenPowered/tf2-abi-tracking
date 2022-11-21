@@ -1,0 +1,2 @@
+VTable for CSkipKeys:
+    [0] CSkipKeys::SetDefaults(void*)

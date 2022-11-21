@@ -1,0 +1,6 @@
+VTable for CServerRemoteAccess:
+    [0] CServerRemoteAccess::~CServerRemoteAccess()
+    [1] CServerRemoteAccess::WriteDataRequest(unsigned int, void const*, int)
+    [2] CServerRemoteAccess::ReadDataResponse(unsigned int, void*, int)
+    [3] CServerRemoteAccess::GetNextListenerID(bool, netadr_s const*)
+    [4] CServerRemoteAccess::RegisterAdminUIID(unsigned int)

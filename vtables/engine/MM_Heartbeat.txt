@@ -1,0 +1,16 @@
+VTable for MM_Heartbeat:
+    [0] MM_Heartbeat::~MM_Heartbeat()
+    [1] CNetMessage::SetNetChannel(INetChannel*)
+    [2] CNetMessage::SetReliable(bool)
+    [3] MM_Heartbeat::Process()
+    [4] MM_Heartbeat::ReadFromBuffer(bf_read&)
+    [5] MM_Heartbeat::WriteToBuffer(bf_write&)
+    [6] CNetMessage::IsReliable() const
+    [7] MM_Heartbeat::GetType() const
+    [8] CNetMessage::GetGroup() const
+    [9] MM_Heartbeat::GetName() const
+    [10] CNetMessage::GetNetChannel() const
+    [11] MM_Heartbeat::ToString() const
+    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
+    [13] MM_Heartbeat::GetSize() const
+    [14] CNetMessage::SetRatePolicy()

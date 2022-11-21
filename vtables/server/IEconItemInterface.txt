@@ -1,0 +1,7 @@
+VTable for IEconItemInterface:
+    [0] IEconItemInterface::~IEconItemInterface()
+    [1] IEconItemInterface::IsTradable() const
+    [2] IEconItemInterface::GetUntradabilityFlags() const
+    [3] IEconItemInterface::IsCommodity() const
+    [4] IEconItemInterface::IsUsableInCrafting() const
+    [5] IEconItemInterface::IsMarketable() const

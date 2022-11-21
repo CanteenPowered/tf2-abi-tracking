@@ -1,0 +1,12 @@
+VTable for CProtoBufScriptObjectFactory<CQuestMapNodeDefinition>:
+VTable for CProtoBufScriptObjectFactory<CPaintKitDefinition>:
+VTable for CProtoBufScriptObjectFactory<CQuestObjectiveDefinition>:
+VTable for CProtoBufScriptObjectFactory<CHeaderOnlyDef>:
+VTable for CProtoBufScriptObjectFactory<CQuestDefinition>:
+VTable for CProtoBufScriptObjectFactory<CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>>:
+VTable for CProtoBufScriptObjectFactory<CPaintKitItemDefinition>:
+VTable for CProtoBufScriptObjectFactory<CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStoreItem, (ProtoDefTypes)11>>:
+VTable for CProtoBufScriptObjectFactory<CQuestMapRegion>:
+VTable for CProtoBufScriptObjectFactory<CQuestThemeDefinition>:
+VTable for CProtoBufScriptObjectFactory<CPaintKitVariables>:
+VTable for CProtoBufScriptObjectFactory<CPaintKitOperation>:

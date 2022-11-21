@@ -1,0 +1,5 @@
+VTable for CryptoPP::StringSinkTemplate<std::string>:
+    [0] CryptoPP::DL_GroupParameters_IntegerBased::GetEncodedElementSize(bool) const
+    [1] CryptoPP::DL_GroupParameters_IntegerBased::DecodeElement(unsigned char const*, bool) const
+    [2] CryptoPP::DL_GroupParameters_IntegerBased::ConvertElementToInteger(CryptoPP::Integer const&) const
+    [3] CryptoPP::DL_GroupParameters_IntegerBased::GetMaxExponent() const

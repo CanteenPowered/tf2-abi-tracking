@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CRobotDispenser>:
+    [0] CEntityFactory<CRobotDispenser>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CRobotDispenser>::GetEntitySize()

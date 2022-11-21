@@ -1,0 +1,9 @@
+VTable for CEntityFactory<CTFWeaponPDA_Spy>:
+    [0] CEntityFactory<CTFWeaponPDA_Spy>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFWeaponPDA_Spy>::GetEntitySize()
+VTable for CEntityFactory<CTFWeaponPDA_Engineer_Build>:
+    [0] CEntityFactory<CTFWeaponPDA_Engineer_Build>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFWeaponPDA_Engineer_Build>::GetEntitySize()
+VTable for CEntityFactory<CTFWeaponPDA_Engineer_Destroy>:
+    [0] CEntityFactory<CTFWeaponPDA_Engineer_Destroy>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFWeaponPDA_Engineer_Destroy>::GetEntitySize()

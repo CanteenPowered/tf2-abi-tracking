@@ -1,0 +1,40 @@
+VTable for CMsgGC_GameServer_AuthChallenge:
+    [0] CMsgGC_GameServer_AuthChallenge::~CMsgGC_GameServer_AuthChallenge()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGC_GameServer_AuthChallenge::New() const
+    [3] CMsgGC_GameServer_AuthChallenge::Clear()
+    [4] CMsgGC_GameServer_AuthChallenge::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGC_GameServer_AuthChallenge::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGC_GameServer_AuthChallenge::ByteSize() const
+    [9] CMsgGC_GameServer_AuthChallenge::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGC_GameServer_AuthChallenge::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGC_GameServer_AuthChallenge::GetCachedSize() const
+    [12] CMsgGC_GameServer_AuthChallenge::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGC_GameServer_AuthChallenge::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGC_GameServer_AuthChallenge::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGC_GameServer_AuthChallenge::GetMetadata() const
+VTable for CMsgGC_GameServer_AuthChallengeResponse:
+    [0] CMsgGC_GameServer_AuthChallengeResponse::~CMsgGC_GameServer_AuthChallengeResponse()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] CMsgGC_GameServer_AuthChallengeResponse::New() const
+    [3] CMsgGC_GameServer_AuthChallengeResponse::Clear()
+    [4] CMsgGC_GameServer_AuthChallengeResponse::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] CMsgGC_GameServer_AuthChallengeResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] CMsgGC_GameServer_AuthChallengeResponse::ByteSize() const
+    [9] CMsgGC_GameServer_AuthChallengeResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] CMsgGC_GameServer_AuthChallengeResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] CMsgGC_GameServer_AuthChallengeResponse::GetCachedSize() const
+    [12] CMsgGC_GameServer_AuthChallengeResponse::CopyFrom(google::protobuf::Message const&)
+    [13] CMsgGC_GameServer_AuthChallengeResponse::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] CMsgGC_GameServer_AuthChallengeResponse::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] CMsgGC_GameServer_AuthChallengeResponse::GetMetadata() const

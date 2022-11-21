@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFPointWeaponMimic>:
+    [0] CEntityFactory<CTFPointWeaponMimic>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFPointWeaponMimic>::GetEntitySize()

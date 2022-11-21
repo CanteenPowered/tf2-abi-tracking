@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CTFPEPBrawlerBlaster>:
+    [0] CEntityFactory<CTFPEPBrawlerBlaster>::Destroy(IServerNetworkable*)
+    [1] CEntityFactory<CTFPEPBrawlerBlaster>::GetEntitySize()
