@@ -1,0 +1,3 @@
+[submodule "abidump"]
+	path = abidump
+	url = git@github.com:hkva/abidump.git
