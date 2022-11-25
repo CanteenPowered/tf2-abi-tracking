@@ -36,3 +36,4 @@ VTable for CTFNavMesh:
     [34] CNavMesh::RemoveNavArea(CNavArea*)
     [35] CTFNavMesh::BeginCustomAnalysis(bool)
     [36] CTFNavMesh::EndCustomAnalysis()
+    [37] CTFNavMesh::OnDoorCreated(CBaseEntity*)

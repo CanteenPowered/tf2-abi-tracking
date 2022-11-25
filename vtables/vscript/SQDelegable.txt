@@ -1,0 +1,3 @@
+VTable for SQDelegable:
+    [0] SQDelegable::~SQDelegable()
+    [1] SQRefCounted::Iterate(CSQStateIterator*)

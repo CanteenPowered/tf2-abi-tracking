@@ -1,0 +1,4 @@
+VTable for SQString:
+    [0] SQString::~SQString()
+    [1] SQRefCounted::Iterate(CSQStateIterator*)
+    [2] SQString::Release()

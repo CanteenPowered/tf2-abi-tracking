@@ -1,0 +1,8 @@
+VTable for SQInstance:
+    [0] SQInstance::~SQInstance()
+    [1] SQInstance::Iterate(CSQStateIterator*)
+    [2] SQInstance::Release()
+    [3] SQInstance::GetType()
+    [4] SQInstance::Mark(SQCollectable**)
+    [5] SQInstance::Finalize()
+    [6] SQInstance::GetMetaMethod(SQVM*, SQMetaMethod, SQObjectPtr&)

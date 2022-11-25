@@ -6,7 +6,7 @@ VTable for CGameRules:
     [4] CBaseGameSystemPerFrame::LevelInitPostEntity()
     [5] CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()
     [6] CBaseGameSystemPerFrame::LevelShutdownPreEntity()
-    [7] CBaseGameSystemPerFrame::LevelShutdownPostEntity()
+    [7] CGameRules::LevelShutdownPostEntity()
     [8] CBaseGameSystemPerFrame::OnSave()
     [9] CBaseGameSystemPerFrame::OnRestore()
     [10] CBaseGameSystemPerFrame::SafeRemoveIfDesired()

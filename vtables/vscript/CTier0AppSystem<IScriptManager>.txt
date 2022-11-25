@@ -1,0 +1,5 @@
+VTable for CTier0AppSystem<IScriptManager>:
+    [0] CBaseAppSystem<IScriptManager>::Disconnect()
+    [1] CBaseAppSystem<IScriptManager>::QueryInterface(char const*)
+    [2] CBaseAppSystem<IScriptManager>::Init()
+    [3] CBaseAppSystem<IScriptManager>::Shutdown()

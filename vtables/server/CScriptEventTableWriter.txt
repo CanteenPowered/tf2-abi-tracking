@@ -1,0 +1,7 @@
+VTable for CScriptEventTableWriter:
+    [0] CScriptEventTableWriter::VisitString(char const*, char const*)
+    [1] CScriptEventTableWriter::VisitFloat(char const*, float)
+    [2] CScriptEventTableWriter::VisitInt(char const*, int)
+    [3] IGameEventVisitor2::VisitUint64(char const*, unsigned long long)
+    [4] IGameEventVisitor2::VisitWString(char const*, wchar_t const*)
+    [5] CScriptEventTableWriter::VisitBool(char const*, bool)

@@ -1,0 +1,19 @@
+VTable for ConVar:
+    [0] ConVar::~ConVar()
+    [1] ConVar::IsCommand() const
+    [2] ConVar::IsFlagSet(int) const
+    [3] ConVar::AddFlags(int)
+    [4] ConVar::GetName() const
+    [5] ConVar::GetHelpText() const
+    [6] ConVar::IsRegistered() const
+    [7] ConCommandBase::GetDLLIdentifier() const
+    [8] ConCommandBase::CreateBase(char const*, char const*, int)
+    [9] ConVar::Init()
+    [10] ConVar::SetValue(char const*)
+    [11] ConVar::SetValue(float)
+    [12] ConVar::SetValue(int)
+    [13] ConVar::InternalSetValue(char const*)
+    [14] ConVar::InternalSetFloatValue(float, bool)
+    [15] ConVar::InternalSetIntValue(int)
+    [16] ConVar::ClampValue(float&)
+    [17] ConVar::ChangeStringValue(char const*, float)

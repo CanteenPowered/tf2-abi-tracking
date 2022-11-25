@@ -35,3 +35,4 @@ VTable for CTFNavArea:
     [33] CTFNavArea::IsPotentiallyVisibleToTeam(int) const
     [34] CNavArea::IsCompletelyVisible(CNavArea const*) const
     [35] CNavArea::IsCompletelyVisibleToTeam(int) const
+    [36] CTFNavArea::GetScriptDesc()

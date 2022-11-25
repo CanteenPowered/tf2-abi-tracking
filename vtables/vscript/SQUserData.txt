@@ -1,0 +1,8 @@
+VTable for SQUserData:
+    [0] SQUserData::~SQUserData()
+    [1] SQUserData::Iterate(CSQStateIterator*)
+    [2] SQUserData::Release()
+    [3] SQUserData::GetType()
+    [4] SQUserData::Mark(SQCollectable**)
+    [5] SQUserData::Finalize()
+    [6] SQDelegable::GetMetaMethod(SQVM*, SQMetaMethod, SQObjectPtr&)

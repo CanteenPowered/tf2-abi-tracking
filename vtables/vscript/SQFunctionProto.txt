@@ -1,0 +1,7 @@
+VTable for SQFunctionProto:
+    [0] SQFunctionProto::~SQFunctionProto()
+    [1] SQRefCounted::Iterate(CSQStateIterator*)
+    [2] SQFunctionProto::Release()
+    [3] SQFunctionProto::GetType()
+    [4] SQFunctionProto::Mark(SQCollectable**)
+    [5] SQFunctionProto::Finalize()

@@ -1,0 +1,3 @@
+VTable for SQCollectable:
+    [0] SQCollectable::~SQCollectable()
+    [1] SQRefCounted::Iterate(CSQStateIterator*)

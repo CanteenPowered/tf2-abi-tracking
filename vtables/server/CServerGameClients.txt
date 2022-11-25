@@ -16,3 +16,4 @@ VTable for CServerGameClients:
     [14] CServerGameClients::NetworkIDValidated(char const*, char const*)
     [15] CServerGameClients::ClientCommandKeyValues(edict_t*, KeyValues*)
     [16] CServerGameClients::ClientSpawned(edict_t*)
+    [17] CServerGameClients::ClientVoice(edict_t*)

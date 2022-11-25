@@ -1,0 +1,7 @@
+VTable for SQVM:
+    [0] SQVM::~SQVM()
+    [1] SQVM::Iterate(CSQStateIterator*)
+    [2] SQVM::Release()
+    [3] SQVM::GetType()
+    [4] SQVM::Mark(SQCollectable**)
+    [5] SQVM::Finalize()
