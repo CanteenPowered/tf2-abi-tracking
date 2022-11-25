@@ -55,12 +55,14 @@ main() {
     dump_symbols    "$BASE/dedicated_server/bin/engine_srv.so"      "$BASE/symbols/engine.txt"
     dump_symbols    "$BASE/dedicated_server/bin/libtier0_srv.so"    "$BASE/symbols/tier0.txt"
     dump_symbols    "$BASE/dedicated_server/bin/libvstdlib_srv.so"  "$BASE/symbols/vstdlib.txt"
+    dump_symbols    "$BASE/dedicated_server/bin/vscript_srv.so"     "$BASE/symbols/vscript.txt"
 
     # Dump vtables
     dump_vtables    "$BASE/dedicated_server/tf/bin/server_srv.so"   "$BASE/vtables/server"
     dump_vtables    "$BASE/dedicated_server/bin/engine_srv.so"      "$BASE/vtables/engine"
     dump_vtables    "$BASE/dedicated_server/bin/libtier0_srv.so"    "$BASE/vtables/tier0"
     dump_vtables    "$BASE/dedicated_server/bin/libvstdlib_srv.so"  "$BASE/vtables/vstdlib"
+    dump_vtables    "$BASE/dedicated_server/bin/vscript_srv.so"     "$BASE/vtables/vscript"
 
     # Extract game version
     GAMEVER="$(cat "$BASE/dedicated_server/tf/steam.inf" | awk -F= '/^PatchVersion/ { print $2 }')"
