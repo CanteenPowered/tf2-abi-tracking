@@ -66,8 +66,7 @@ main() {
     GAMEVER="$(cat "$BASE/dedicated_server/tf/steam.inf" | awk -F= '/^PatchVersion/ { print $2 }')"
     GAMEVER="${GAMEVER%%[[:cntrl:]]}" # windows newlines :)
 
-    git add .
-    git commit -m "Server version $GAMEVER"
+    echo "Dumped game version $GAMEVER"
 }
 
 main "$@"
