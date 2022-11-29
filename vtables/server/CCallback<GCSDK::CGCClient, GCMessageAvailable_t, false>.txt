@@ -1,5 +1,5 @@
 VTable for CCallback<GCSDK::CGCClient, GCMessageAvailable_t, false>:
-    [0] CCallbackImpl<4>::Run(void*, bool, unsigned long long)
-    [1] CCallbackImpl<4>::GetCallbackSizeBytes()
-    [2] CCallback<GCSDK::CGCClient, GCMessageAvailable_t, false>::~CCallback()
-    [3] CCallback<GCSDK::CGCClient, GCMessageAvailable_t, false>::~CCallback()
+    CCallbackImpl<4>::Run(void*, bool, unsigned long long)
+    CCallbackImpl<4>::GetCallbackSizeBytes()
+    CCallback<GCSDK::CGCClient, GCMessageAvailable_t, false>::~CCallback()
+    CCallback<GCSDK::CGCClient, GCMessageAvailable_t, false>::~CCallback()

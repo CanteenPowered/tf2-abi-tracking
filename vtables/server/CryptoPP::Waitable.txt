@@ -1,2 +1,2 @@
 VTable for CryptoPP::Waitable:
-    [0] CryptoPP::Waitable::~Waitable()
+    CryptoPP::Waitable::~Waitable()

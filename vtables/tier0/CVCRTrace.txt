@@ -1,2 +1,2 @@
 VTable for CVCRTrace:
-    [0] CVCRTrace::Read(void*, int)
+    CVCRTrace::Read(void*, int)

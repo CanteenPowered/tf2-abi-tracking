@@ -1,20 +1,20 @@
 VTable for CMsgItemAcknowledged:
-    [0] CMsgItemAcknowledged::~CMsgItemAcknowledged()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgItemAcknowledged::New() const
-    [3] CMsgItemAcknowledged::Clear()
-    [4] CMsgItemAcknowledged::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgItemAcknowledged::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgItemAcknowledged::ByteSize() const
-    [9] CMsgItemAcknowledged::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgItemAcknowledged::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgItemAcknowledged::GetCachedSize() const
-    [12] CMsgItemAcknowledged::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgItemAcknowledged::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgItemAcknowledged::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgItemAcknowledged::GetMetadata() const
+    CMsgItemAcknowledged::~CMsgItemAcknowledged()
+    google::protobuf::Message::GetTypeName() const
+    CMsgItemAcknowledged::New() const
+    CMsgItemAcknowledged::Clear()
+    CMsgItemAcknowledged::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgItemAcknowledged::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgItemAcknowledged::ByteSize() const
+    CMsgItemAcknowledged::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgItemAcknowledged::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgItemAcknowledged::GetCachedSize() const
+    CMsgItemAcknowledged::CopyFrom(google::protobuf::Message const&)
+    CMsgItemAcknowledged::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgItemAcknowledged::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgItemAcknowledged::GetMetadata() const

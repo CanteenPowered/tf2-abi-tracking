@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFDRGPomson>:
-    [0] CEntityFactory<CTFDRGPomson>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFDRGPomson>::GetEntitySize()
+    CEntityFactory<CTFDRGPomson>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFDRGPomson>::GetEntitySize()

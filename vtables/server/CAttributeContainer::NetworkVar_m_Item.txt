@@ -1,25 +1,25 @@
 VTable for CAttributeContainer::NetworkVar_m_Item:
-    [0] CAttributeContainer::NetworkVar_m_Item::~NetworkVar_m_Item()
-    [1] IEconItemInterface::IsTradable() const
-    [2] IEconItemInterface::GetUntradabilityFlags() const
-    [3] IEconItemInterface::IsCommodity() const
-    [4] IEconItemInterface::IsUsableInCrafting() const
-    [5] IEconItemInterface::IsMarketable() const
-    [6] CEconItemView::GetItemDefinition() const
-    [7] CEconItemView::GetID() const
-    [8] CEconItemView::GetAccountID() const
-    [9] CEconItemView::GetQuality() const
-    [10] CEconItemView::GetStyle() const
-    [11] CEconItemView::GetFlags() const
-    [12] CEconItemView::GetOrigin() const
-    [13] CEconItemView::GetQuantity() const
-    [14] CEconItemView::GetItemLevel() const
-    [15] CEconItemView::GetInUse() const
-    [16] CEconItemView::GetCustomName() const
-    [17] CEconItemView::GetCustomDesc() const
-    [18] CEconItemView::IterateAttributes(IEconItemAttributeIterator*) const
-    [19] CEconItemView::GetItemDefIndex() const
-    [20] CMaterialOverrideContainer<IEconItemInterface>::GetMaterialOverride(int)
-    [21] CAttributeContainer::NetworkVar_m_Item::NetworkStateChanged()
-    [22] CAttributeContainer::NetworkVar_m_Item::NetworkStateChanged(void*)
-    [23] CEconItemView::GetDataDescMap()
+    CAttributeContainer::NetworkVar_m_Item::~NetworkVar_m_Item()
+    IEconItemInterface::IsTradable() const
+    IEconItemInterface::GetUntradabilityFlags() const
+    IEconItemInterface::IsCommodity() const
+    IEconItemInterface::IsUsableInCrafting() const
+    IEconItemInterface::IsMarketable() const
+    CEconItemView::GetItemDefinition() const
+    CEconItemView::GetID() const
+    CEconItemView::GetAccountID() const
+    CEconItemView::GetQuality() const
+    CEconItemView::GetStyle() const
+    CEconItemView::GetFlags() const
+    CEconItemView::GetOrigin() const
+    CEconItemView::GetQuantity() const
+    CEconItemView::GetItemLevel() const
+    CEconItemView::GetInUse() const
+    CEconItemView::GetCustomName() const
+    CEconItemView::GetCustomDesc() const
+    CEconItemView::IterateAttributes(IEconItemAttributeIterator*) const
+    CEconItemView::GetItemDefIndex() const
+    CMaterialOverrideContainer<IEconItemInterface>::GetMaterialOverride(int)
+    CAttributeContainer::NetworkVar_m_Item::NetworkStateChanged()
+    CAttributeContainer::NetworkVar_m_Item::NetworkStateChanged(void*)
+    CEconItemView::GetDataDescMap()

@@ -1,20 +1,20 @@
 VTable for google::protobuf::ServiceOptions:
-    [0] google::protobuf::ServiceOptions::~ServiceOptions()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] google::protobuf::ServiceOptions::New() const
-    [3] google::protobuf::ServiceOptions::Clear()
-    [4] google::protobuf::ServiceOptions::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] google::protobuf::ServiceOptions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] google::protobuf::ServiceOptions::ByteSize() const
-    [9] google::protobuf::ServiceOptions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] google::protobuf::ServiceOptions::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] google::protobuf::ServiceOptions::GetCachedSize() const
-    [12] google::protobuf::ServiceOptions::CopyFrom(google::protobuf::Message const&)
-    [13] google::protobuf::ServiceOptions::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] google::protobuf::ServiceOptions::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] google::protobuf::ServiceOptions::GetMetadata() const
+    google::protobuf::ServiceOptions::~ServiceOptions()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::ServiceOptions::New() const
+    google::protobuf::ServiceOptions::Clear()
+    google::protobuf::ServiceOptions::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::ServiceOptions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::ServiceOptions::ByteSize() const
+    google::protobuf::ServiceOptions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::ServiceOptions::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::ServiceOptions::GetCachedSize() const
+    google::protobuf::ServiceOptions::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::ServiceOptions::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::ServiceOptions::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::ServiceOptions::GetMetadata() const

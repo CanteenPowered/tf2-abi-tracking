@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CSkyboxSwapper>:
-    [0] CEntityFactory<CSkyboxSwapper>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CSkyboxSwapper>::GetEntitySize()
+    CEntityFactory<CSkyboxSwapper>::Destroy(IServerNetworkable*)
+    CEntityFactory<CSkyboxSwapper>::GetEntitySize()

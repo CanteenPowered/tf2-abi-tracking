@@ -1,2 +1,2 @@
 VTable for IMinigameAutoList:
-    [0] IMinigameAutoList::~IMinigameAutoList()
+    IMinigameAutoList::~IMinigameAutoList()

@@ -1,20 +1,20 @@
 VTable for CMsgTFXPSource:
-    [0] CMsgTFXPSource::~CMsgTFXPSource()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgTFXPSource::New() const
-    [3] CMsgTFXPSource::Clear()
-    [4] CMsgTFXPSource::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgTFXPSource::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgTFXPSource::ByteSize() const
-    [9] CMsgTFXPSource::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgTFXPSource::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgTFXPSource::GetCachedSize() const
-    [12] CMsgTFXPSource::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgTFXPSource::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgTFXPSource::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgTFXPSource::GetMetadata() const
+    CMsgTFXPSource::~CMsgTFXPSource()
+    google::protobuf::Message::GetTypeName() const
+    CMsgTFXPSource::New() const
+    CMsgTFXPSource::Clear()
+    CMsgTFXPSource::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgTFXPSource::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgTFXPSource::ByteSize() const
+    CMsgTFXPSource::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgTFXPSource::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgTFXPSource::GetCachedSize() const
+    CMsgTFXPSource::CopyFrom(google::protobuf::Message const&)
+    CMsgTFXPSource::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgTFXPSource::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgTFXPSource::GetMetadata() const

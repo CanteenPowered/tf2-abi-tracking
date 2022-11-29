@@ -1,2 +1,2 @@
 VTable for CVoiceGameMgr:
-    [0] CVoiceGameMgr::~CVoiceGameMgr()
+    CVoiceGameMgr::~CVoiceGameMgr()

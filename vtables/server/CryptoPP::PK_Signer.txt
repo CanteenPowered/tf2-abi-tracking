@@ -1,2 +1,2 @@
 VTable for CryptoPP::PK_Signer:
-    [0] CryptoPP::PK_Signer::~PK_Signer()
+    CryptoPP::PK_Signer::~PK_Signer()

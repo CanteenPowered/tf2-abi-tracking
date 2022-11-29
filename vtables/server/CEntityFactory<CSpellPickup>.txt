@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CSpellPickup>:
-    [0] CEntityFactory<CSpellPickup>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CSpellPickup>::GetEntitySize()
+    CEntityFactory<CSpellPickup>::Destroy(IServerNetworkable*)
+    CEntityFactory<CSpellPickup>::GetEntitySize()

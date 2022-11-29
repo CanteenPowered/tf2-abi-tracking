@@ -1,8 +1,8 @@
 VTable for CryptoPP::X509PublicKey:
-    [0] CryptoPP::X509PublicKey::~X509PublicKey()
-    [1] CryptoPP::X509PublicKey::~X509PublicKey()
-    [2] CryptoPP::X509PublicKey::BERDecode(CryptoPP::BufferedTransformation&)
-    [3] CryptoPP::X509PublicKey::DEREncode(CryptoPP::BufferedTransformation&) const
-    [4] CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
-    [5] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Save(CryptoPP::BufferedTransformation&) const
-    [6] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::X509PublicKey::~X509PublicKey()
+    CryptoPP::X509PublicKey::~X509PublicKey()
+    CryptoPP::X509PublicKey::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::X509PublicKey::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Load(CryptoPP::BufferedTransformation&)

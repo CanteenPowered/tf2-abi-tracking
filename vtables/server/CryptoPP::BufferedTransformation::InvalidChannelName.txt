@@ -1,15 +1,15 @@
 VTable for CryptoPP::BufferedTransformation::InvalidChannelName:
-    [0] CryptoPP::BufferedTransformation::InvalidChannelName::~InvalidChannelName()
-    [1] CryptoPP::Exception::what() const
+    CryptoPP::BufferedTransformation::InvalidChannelName::~InvalidChannelName()
+    CryptoPP::Exception::what() const
 VTable for CryptoPP::BufferedTransformation:
-    [0] CryptoPP::BufferedTransformation::~BufferedTransformation()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
-    [4] CryptoPP::BufferedTransformation::CanModifyInput() const
+    CryptoPP::BufferedTransformation::~BufferedTransformation()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    CryptoPP::BufferedTransformation::CanModifyInput() const
 VTable for CryptoPP::BufferedTransformation::NoChannelSupport:
-    [0] CryptoPP::BufferedTransformation::NoChannelSupport::~NoChannelSupport()
-    [1] CryptoPP::Exception::what() const
+    CryptoPP::BufferedTransformation::NoChannelSupport::~NoChannelSupport()
+    CryptoPP::Exception::what() const
 VTable for CryptoPP::BufferedTransformation::BlockingInputOnly:
-    [0] CryptoPP::BufferedTransformation::BlockingInputOnly::~BlockingInputOnly()
-    [1] CryptoPP::Exception::what() const
+    CryptoPP::BufferedTransformation::BlockingInputOnly::~BlockingInputOnly()
+    CryptoPP::Exception::what() const

@@ -1,2 +1,2 @@
 VTable for CWorkerThread:
-    [0] CWorkerThread::~CWorkerThread()
+    CWorkerThread::~CWorkerThread()

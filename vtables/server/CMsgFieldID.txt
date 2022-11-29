@@ -1,20 +1,20 @@
 VTable for CMsgFieldID:
-    [0] CMsgFieldID::~CMsgFieldID()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgFieldID::New() const
-    [3] CMsgFieldID::Clear()
-    [4] CMsgFieldID::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgFieldID::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgFieldID::ByteSize() const
-    [9] CMsgFieldID::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgFieldID::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgFieldID::GetCachedSize() const
-    [12] CMsgFieldID::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgFieldID::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgFieldID::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgFieldID::GetMetadata() const
+    CMsgFieldID::~CMsgFieldID()
+    google::protobuf::Message::GetTypeName() const
+    CMsgFieldID::New() const
+    CMsgFieldID::Clear()
+    CMsgFieldID::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgFieldID::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgFieldID::ByteSize() const
+    CMsgFieldID::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgFieldID::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgFieldID::GetCachedSize() const
+    CMsgFieldID::CopyFrom(google::protobuf::Message const&)
+    CMsgFieldID::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgFieldID::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgFieldID::GetMetadata() const

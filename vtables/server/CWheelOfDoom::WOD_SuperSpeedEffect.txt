@@ -1,4 +1,4 @@
 VTable for CWheelOfDoom::WOD_SuperSpeedEffect:
-    [0] CWheelOfDoom::WOD_SuperSpeedEffect::ActivateEffect(CWheelOfDoom::EffectData_t&)
-    [1] CWheelOfDoom::WOD_BaseEffect::UpdateEffect(CWheelOfDoom::EffectData_t&)
-    [2] CWheelOfDoom::WOD_SuperSpeedEffect::DeactivateEffect(CWheelOfDoom::EffectData_t&)
+    CWheelOfDoom::WOD_SuperSpeedEffect::ActivateEffect(CWheelOfDoom::EffectData_t&)
+    CWheelOfDoom::WOD_BaseEffect::UpdateEffect(CWheelOfDoom::EffectData_t&)
+    CWheelOfDoom::WOD_SuperSpeedEffect::DeactivateEffect(CWheelOfDoom::EffectData_t&)

@@ -1,7 +1,7 @@
 VTable for CItemSelectionCriteria::CCondition:
-    [0] CItemSelectionCriteria::CCondition::~CCondition()
-    [1] CItemSelectionCriteria::CCondition::BItemDefinitionPassesCriteria(CEconItemDefinition const*) const
-    [2] CItemSelectionCriteria::CCondition::GetEOp() const
-    [3] CItemSelectionCriteria::CCondition::GetField() const
-    [4] CItemSelectionCriteria::CCondition::GetValue() const
-    [5] CItemSelectionCriteria::CCondition::BSerializeToMsg(CSOItemCriteriaCondition&) const
+    CItemSelectionCriteria::CCondition::~CCondition()
+    CItemSelectionCriteria::CCondition::BItemDefinitionPassesCriteria(CEconItemDefinition const*) const
+    CItemSelectionCriteria::CCondition::GetEOp() const
+    CItemSelectionCriteria::CCondition::GetField() const
+    CItemSelectionCriteria::CCondition::GetValue() const
+    CItemSelectionCriteria::CCondition::BSerializeToMsg(CSOItemCriteriaCondition&) const

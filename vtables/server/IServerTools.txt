@@ -1,2 +1,2 @@
 VTable for IServerTools:
-    [0] IServerTools::~IServerTools()
+    IServerTools::~IServerTools()

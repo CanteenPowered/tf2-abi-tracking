@@ -1,5 +1,5 @@
 VTable for CryptoPP::Integer:
-    [0] CryptoPP::Integer::~Integer()
-    [1] CryptoPP::Integer::BERDecode(CryptoPP::BufferedTransformation&)
-    [2] CryptoPP::Integer::DEREncode(CryptoPP::BufferedTransformation&) const
-    [3] CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::Integer::~Integer()
+    CryptoPP::Integer::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::Integer::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const

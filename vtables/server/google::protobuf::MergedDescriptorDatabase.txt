@@ -1,6 +1,6 @@
 VTable for google::protobuf::MergedDescriptorDatabase:
-    [0] google::protobuf::MergedDescriptorDatabase::~MergedDescriptorDatabase()
-    [1] google::protobuf::MergedDescriptorDatabase::FindFileByName(std::string const&, google::protobuf::FileDescriptorProto*)
-    [2] google::protobuf::MergedDescriptorDatabase::FindFileContainingSymbol(std::string const&, google::protobuf::FileDescriptorProto*)
-    [3] google::protobuf::MergedDescriptorDatabase::FindFileContainingExtension(std::string const&, int, google::protobuf::FileDescriptorProto*)
-    [4] google::protobuf::MergedDescriptorDatabase::FindAllExtensionNumbers(std::string const&, std::vector<int, std::allocator<int>>*)
+    google::protobuf::MergedDescriptorDatabase::~MergedDescriptorDatabase()
+    google::protobuf::MergedDescriptorDatabase::FindFileByName(std::string const&, google::protobuf::FileDescriptorProto*)
+    google::protobuf::MergedDescriptorDatabase::FindFileContainingSymbol(std::string const&, google::protobuf::FileDescriptorProto*)
+    google::protobuf::MergedDescriptorDatabase::FindFileContainingExtension(std::string const&, int, google::protobuf::FileDescriptorProto*)
+    google::protobuf::MergedDescriptorDatabase::FindAllExtensionNumbers(std::string const&, std::vector<int, std::allocator<int>>*)

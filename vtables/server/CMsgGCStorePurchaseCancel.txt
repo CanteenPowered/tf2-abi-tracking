@@ -1,20 +1,20 @@
 VTable for CMsgGCStorePurchaseCancel:
-    [0] CMsgGCStorePurchaseCancel::~CMsgGCStorePurchaseCancel()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCStorePurchaseCancel::New() const
-    [3] CMsgGCStorePurchaseCancel::Clear()
-    [4] CMsgGCStorePurchaseCancel::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCStorePurchaseCancel::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCStorePurchaseCancel::ByteSize() const
-    [9] CMsgGCStorePurchaseCancel::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCStorePurchaseCancel::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCStorePurchaseCancel::GetCachedSize() const
-    [12] CMsgGCStorePurchaseCancel::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCStorePurchaseCancel::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCStorePurchaseCancel::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCStorePurchaseCancel::GetMetadata() const
+    CMsgGCStorePurchaseCancel::~CMsgGCStorePurchaseCancel()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCStorePurchaseCancel::New() const
+    CMsgGCStorePurchaseCancel::Clear()
+    CMsgGCStorePurchaseCancel::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCStorePurchaseCancel::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCStorePurchaseCancel::ByteSize() const
+    CMsgGCStorePurchaseCancel::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCStorePurchaseCancel::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCStorePurchaseCancel::GetCachedSize() const
+    CMsgGCStorePurchaseCancel::CopyFrom(google::protobuf::Message const&)
+    CMsgGCStorePurchaseCancel::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCStorePurchaseCancel::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCStorePurchaseCancel::GetMetadata() const

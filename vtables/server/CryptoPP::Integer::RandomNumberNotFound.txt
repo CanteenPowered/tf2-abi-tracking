@@ -1,3 +1,3 @@
 VTable for CryptoPP::Integer::RandomNumberNotFound:
-    [0] CryptoPP::Integer::RandomNumberNotFound::~RandomNumberNotFound()
-    [1] CryptoPP::Exception::what() const
+    CryptoPP::Integer::RandomNumberNotFound::~RandomNumberNotFound()
+    CryptoPP::Exception::what() const

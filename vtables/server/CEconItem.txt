@@ -1,28 +1,28 @@
 VTable for CEconItem:
-    [0] CEconItem::~CEconItem()
-    [1] CEconItem::GetTypeID() const
-    [2] CEconItem::BParseFromMessage(CUtlBuffer const&)
-    [3] CEconItem::BParseFromMessage(std::string const&)
-    [4] CEconItem::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] CEconItem::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] CEconItem::Copy(GCSDK::CSharedObject const&)
-    [7] CEconItem::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] CEconItem::GetDebugString() const
-    [10] CEconItem::GetItemDefinition() const
-    [11] CEconItem::IterateAttributes(IEconItemAttributeIterator*) const
-    [12] CEconItem::GetID() const
-    [13] CEconItem::GetAccountID() const
-    [14] CEconItem::GetItemLevel() const
-    [15] CEconItem::GetQuality() const
-    [16] CEconItem::GetQuantity() const
-    [17] CEconItem::GetFlags() const
-    [18] CEconItem::GetOrigin() const
-    [19] CEconItem::GetStyle() const
-    [20] CEconItem::GetCustomName() const
-    [21] CEconItem::GetCustomDesc() const
-    [22] CEconItem::GetInUse() const
-    [23] CEconItem::IsTradable() const
-    [24] CEconItem::IsMarketable() const
-    [25] CEconItem::IsCommodity() const
-    [26] CEconItem::IsUsableInCrafting() const
+    CEconItem::~CEconItem()
+    CEconItem::GetTypeID() const
+    CEconItem::BParseFromMessage(CUtlBuffer const&)
+    CEconItem::BParseFromMessage(std::string const&)
+    CEconItem::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    CEconItem::BIsKeyLess(GCSDK::CSharedObject const&) const
+    CEconItem::Copy(GCSDK::CSharedObject const&)
+    CEconItem::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    CEconItem::GetDebugString() const
+    CEconItem::GetItemDefinition() const
+    CEconItem::IterateAttributes(IEconItemAttributeIterator*) const
+    CEconItem::GetID() const
+    CEconItem::GetAccountID() const
+    CEconItem::GetItemLevel() const
+    CEconItem::GetQuality() const
+    CEconItem::GetQuantity() const
+    CEconItem::GetFlags() const
+    CEconItem::GetOrigin() const
+    CEconItem::GetStyle() const
+    CEconItem::GetCustomName() const
+    CEconItem::GetCustomDesc() const
+    CEconItem::GetInUse() const
+    CEconItem::IsTradable() const
+    CEconItem::IsMarketable() const
+    CEconItem::IsCommodity() const
+    CEconItem::IsUsableInCrafting() const

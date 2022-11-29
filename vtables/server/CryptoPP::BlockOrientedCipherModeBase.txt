@@ -1,8 +1,8 @@
 VTable for CryptoPP::BlockOrientedCipherModeBase:
-    [0] CryptoPP::BlockOrientedCipherModeBase::~BlockOrientedCipherModeBase()
-    [1] CryptoPP::CipherModeBase::MinKeyLength() const
-    [2] CryptoPP::CipherModeBase::MaxKeyLength() const
-    [3] CryptoPP::CipherModeBase::DefaultKeyLength() const
-    [4] CryptoPP::CipherModeBase::GetValidKeyLength(unsigned int) const
-    [5] CryptoPP::CipherModeBase::IsValidKeyLength(unsigned int) const
-    [6] CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    CryptoPP::BlockOrientedCipherModeBase::~BlockOrientedCipherModeBase()
+    CryptoPP::CipherModeBase::MinKeyLength() const
+    CryptoPP::CipherModeBase::MaxKeyLength() const
+    CryptoPP::CipherModeBase::DefaultKeyLength() const
+    CryptoPP::CipherModeBase::GetValidKeyLength(unsigned int) const
+    CryptoPP::CipherModeBase::IsValidKeyLength(unsigned int) const
+    CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)

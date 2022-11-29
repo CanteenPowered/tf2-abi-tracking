@@ -1,7 +1,7 @@
 VTable for SQOuter:
-    [0] SQOuter::~SQOuter()
-    [1] SQRefCounted::Iterate(CSQStateIterator*)
-    [2] SQOuter::Release()
-    [3] SQOuter::GetType()
-    [4] SQOuter::Mark(SQCollectable**)
-    [5] SQOuter::Finalize()
+    SQOuter::~SQOuter()
+    SQRefCounted::Iterate(CSQStateIterator*)
+    SQOuter::Release()
+    SQOuter::GetType()
+    SQOuter::Mark(SQCollectable**)
+    SQOuter::Finalize()

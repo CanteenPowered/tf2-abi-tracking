@@ -1,2 +1,2 @@
 VTable for IZombieAutoList:
-    [0] IZombieAutoList::~IZombieAutoList()
+    IZombieAutoList::~IZombieAutoList()

@@ -1,7 +1,7 @@
 VTable for CUploadGameStats:
-    [0] CUploadGameStats::InitConnection()
-    [1] CUploadGameStats::UpdateConnection()
-    [2] CUploadGameStats::IsGameStatsLoggingEnabled()
-    [3] CUploadGameStats::GetPseudoUniqueId(char*, unsigned int)
-    [4] CUploadGameStats::IsCyberCafeUser()
-    [5] CUploadGameStats::IsHDREnabled()
+    CUploadGameStats::InitConnection()
+    CUploadGameStats::UpdateConnection()
+    CUploadGameStats::IsGameStatsLoggingEnabled()
+    CUploadGameStats::GetPseudoUniqueId(char*, unsigned int)
+    CUploadGameStats::IsCyberCafeUser()
+    CUploadGameStats::IsHDREnabled()

@@ -1,6 +1,6 @@
 VTable for google::protobuf::EncodedDescriptorDatabase:
-    [0] google::protobuf::EncodedDescriptorDatabase::~EncodedDescriptorDatabase()
-    [1] google::protobuf::EncodedDescriptorDatabase::FindFileByName(std::string const&, google::protobuf::FileDescriptorProto*)
-    [2] google::protobuf::EncodedDescriptorDatabase::FindFileContainingSymbol(std::string const&, google::protobuf::FileDescriptorProto*)
-    [3] google::protobuf::EncodedDescriptorDatabase::FindFileContainingExtension(std::string const&, int, google::protobuf::FileDescriptorProto*)
-    [4] google::protobuf::EncodedDescriptorDatabase::FindAllExtensionNumbers(std::string const&, std::vector<int, std::allocator<int>>*)
+    google::protobuf::EncodedDescriptorDatabase::~EncodedDescriptorDatabase()
+    google::protobuf::EncodedDescriptorDatabase::FindFileByName(std::string const&, google::protobuf::FileDescriptorProto*)
+    google::protobuf::EncodedDescriptorDatabase::FindFileContainingSymbol(std::string const&, google::protobuf::FileDescriptorProto*)
+    google::protobuf::EncodedDescriptorDatabase::FindFileContainingExtension(std::string const&, int, google::protobuf::FileDescriptorProto*)
+    google::protobuf::EncodedDescriptorDatabase::FindAllExtensionNumbers(std::string const&, std::vector<int, std::allocator<int>>*)

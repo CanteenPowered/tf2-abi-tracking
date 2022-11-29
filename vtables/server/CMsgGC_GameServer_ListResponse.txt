@@ -1,40 +1,40 @@
 VTable for CMsgGC_GameServer_ListResponse:
-    [0] CMsgGC_GameServer_ListResponse::~CMsgGC_GameServer_ListResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGC_GameServer_ListResponse::New() const
-    [3] CMsgGC_GameServer_ListResponse::Clear()
-    [4] CMsgGC_GameServer_ListResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGC_GameServer_ListResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGC_GameServer_ListResponse::ByteSize() const
-    [9] CMsgGC_GameServer_ListResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGC_GameServer_ListResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGC_GameServer_ListResponse::GetCachedSize() const
-    [12] CMsgGC_GameServer_ListResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGC_GameServer_ListResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGC_GameServer_ListResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGC_GameServer_ListResponse::GetMetadata() const
+    CMsgGC_GameServer_ListResponse::~CMsgGC_GameServer_ListResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGC_GameServer_ListResponse::New() const
+    CMsgGC_GameServer_ListResponse::Clear()
+    CMsgGC_GameServer_ListResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGC_GameServer_ListResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGC_GameServer_ListResponse::ByteSize() const
+    CMsgGC_GameServer_ListResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGC_GameServer_ListResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGC_GameServer_ListResponse::GetCachedSize() const
+    CMsgGC_GameServer_ListResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgGC_GameServer_ListResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGC_GameServer_ListResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGC_GameServer_ListResponse::GetMetadata() const
 VTable for CMsgGC_GameServer_ListResponse_GameServerIdentity:
-    [0] CMsgGC_GameServer_ListResponse_GameServerIdentity::~CMsgGC_GameServer_ListResponse_GameServerIdentity()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGC_GameServer_ListResponse_GameServerIdentity::New() const
-    [3] CMsgGC_GameServer_ListResponse_GameServerIdentity::Clear()
-    [4] CMsgGC_GameServer_ListResponse_GameServerIdentity::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGC_GameServer_ListResponse_GameServerIdentity::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGC_GameServer_ListResponse_GameServerIdentity::ByteSize() const
-    [9] CMsgGC_GameServer_ListResponse_GameServerIdentity::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGC_GameServer_ListResponse_GameServerIdentity::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGC_GameServer_ListResponse_GameServerIdentity::GetCachedSize() const
-    [12] CMsgGC_GameServer_ListResponse_GameServerIdentity::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGC_GameServer_ListResponse_GameServerIdentity::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGC_GameServer_ListResponse_GameServerIdentity::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGC_GameServer_ListResponse_GameServerIdentity::GetMetadata() const
+    CMsgGC_GameServer_ListResponse_GameServerIdentity::~CMsgGC_GameServer_ListResponse_GameServerIdentity()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGC_GameServer_ListResponse_GameServerIdentity::New() const
+    CMsgGC_GameServer_ListResponse_GameServerIdentity::Clear()
+    CMsgGC_GameServer_ListResponse_GameServerIdentity::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGC_GameServer_ListResponse_GameServerIdentity::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGC_GameServer_ListResponse_GameServerIdentity::ByteSize() const
+    CMsgGC_GameServer_ListResponse_GameServerIdentity::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGC_GameServer_ListResponse_GameServerIdentity::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGC_GameServer_ListResponse_GameServerIdentity::GetCachedSize() const
+    CMsgGC_GameServer_ListResponse_GameServerIdentity::CopyFrom(google::protobuf::Message const&)
+    CMsgGC_GameServer_ListResponse_GameServerIdentity::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGC_GameServer_ListResponse_GameServerIdentity::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGC_GameServer_ListResponse_GameServerIdentity::GetMetadata() const

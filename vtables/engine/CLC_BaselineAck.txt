@@ -1,16 +1,16 @@
 VTable for CLC_BaselineAck:
-    [0] CLC_BaselineAck::~CLC_BaselineAck()
-    [1] CNetMessage::SetNetChannel(INetChannel*)
-    [2] CNetMessage::SetReliable(bool)
-    [3] CLC_BaselineAck::Process()
-    [4] CLC_BaselineAck::ReadFromBuffer(bf_read&)
-    [5] CLC_BaselineAck::WriteToBuffer(bf_write&)
-    [6] CNetMessage::IsReliable() const
-    [7] CLC_BaselineAck::GetType() const
-    [8] CLC_BaselineAck::GetGroup() const
-    [9] CLC_BaselineAck::GetName() const
-    [10] CNetMessage::GetNetChannel() const
-    [11] CLC_BaselineAck::ToString() const
-    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
-    [13] CLC_BaselineAck::GetSize() const
-    [14] CNetMessage::SetRatePolicy()
+    CLC_BaselineAck::~CLC_BaselineAck()
+    CNetMessage::SetNetChannel(INetChannel*)
+    CNetMessage::SetReliable(bool)
+    CLC_BaselineAck::Process()
+    CLC_BaselineAck::ReadFromBuffer(bf_read&)
+    CLC_BaselineAck::WriteToBuffer(bf_write&)
+    CNetMessage::IsReliable() const
+    CLC_BaselineAck::GetType() const
+    CLC_BaselineAck::GetGroup() const
+    CLC_BaselineAck::GetName() const
+    CNetMessage::GetNetChannel() const
+    CLC_BaselineAck::ToString() const
+    CNetMessage::BIncomingMessageForProcessing(double, int)
+    CLC_BaselineAck::GetSize() const
+    CNetMessage::SetRatePolicy()

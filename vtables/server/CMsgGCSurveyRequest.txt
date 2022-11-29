@@ -1,20 +1,20 @@
 VTable for CMsgGCSurveyRequest:
-    [0] CMsgGCSurveyRequest::~CMsgGCSurveyRequest()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCSurveyRequest::New() const
-    [3] CMsgGCSurveyRequest::Clear()
-    [4] CMsgGCSurveyRequest::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCSurveyRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCSurveyRequest::ByteSize() const
-    [9] CMsgGCSurveyRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCSurveyRequest::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCSurveyRequest::GetCachedSize() const
-    [12] CMsgGCSurveyRequest::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCSurveyRequest::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCSurveyRequest::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCSurveyRequest::GetMetadata() const
+    CMsgGCSurveyRequest::~CMsgGCSurveyRequest()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCSurveyRequest::New() const
+    CMsgGCSurveyRequest::Clear()
+    CMsgGCSurveyRequest::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCSurveyRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCSurveyRequest::ByteSize() const
+    CMsgGCSurveyRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCSurveyRequest::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCSurveyRequest::GetCachedSize() const
+    CMsgGCSurveyRequest::CopyFrom(google::protobuf::Message const&)
+    CMsgGCSurveyRequest::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCSurveyRequest::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCSurveyRequest::GetMetadata() const

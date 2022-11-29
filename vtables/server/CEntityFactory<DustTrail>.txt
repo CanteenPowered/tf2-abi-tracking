@@ -1,3 +1,3 @@
 VTable for CEntityFactory<DustTrail>:
-    [0] CEntityFactory<DustTrail>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<DustTrail>::GetEntitySize()
+    CEntityFactory<DustTrail>::Destroy(IServerNetworkable*)
+    CEntityFactory<DustTrail>::GetEntitySize()

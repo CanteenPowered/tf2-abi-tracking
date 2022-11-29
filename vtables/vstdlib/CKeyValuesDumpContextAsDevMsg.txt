@@ -1,5 +1,5 @@
 VTable for CKeyValuesDumpContextAsDevMsg:
-    [0] IKeyValuesDumpContextAsText::KvWriteValue(KeyValues*, int)
-    [1] IKeyValuesDumpContextAsText::KvEndKey(KeyValues*, int)
-    [2] IKeyValuesDumpContextAsText::KvWriteIndent(int)
-    [3] CKeyValuesDumpContextAsDevMsg::KvWriteText(char const*)
+    IKeyValuesDumpContextAsText::KvWriteValue(KeyValues*, int)
+    IKeyValuesDumpContextAsText::KvEndKey(KeyValues*, int)
+    IKeyValuesDumpContextAsText::KvWriteIndent(int)
+    CKeyValuesDumpContextAsDevMsg::KvWriteText(char const*)

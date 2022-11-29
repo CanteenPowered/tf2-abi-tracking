@@ -1,20 +1,20 @@
 VTable for CMsgGCItemPreviewItemBoughtNotification:
-    [0] CMsgGCItemPreviewItemBoughtNotification::~CMsgGCItemPreviewItemBoughtNotification()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCItemPreviewItemBoughtNotification::New() const
-    [3] CMsgGCItemPreviewItemBoughtNotification::Clear()
-    [4] CMsgGCItemPreviewItemBoughtNotification::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCItemPreviewItemBoughtNotification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCItemPreviewItemBoughtNotification::ByteSize() const
-    [9] CMsgGCItemPreviewItemBoughtNotification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCItemPreviewItemBoughtNotification::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCItemPreviewItemBoughtNotification::GetCachedSize() const
-    [12] CMsgGCItemPreviewItemBoughtNotification::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCItemPreviewItemBoughtNotification::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCItemPreviewItemBoughtNotification::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCItemPreviewItemBoughtNotification::GetMetadata() const
+    CMsgGCItemPreviewItemBoughtNotification::~CMsgGCItemPreviewItemBoughtNotification()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCItemPreviewItemBoughtNotification::New() const
+    CMsgGCItemPreviewItemBoughtNotification::Clear()
+    CMsgGCItemPreviewItemBoughtNotification::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCItemPreviewItemBoughtNotification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCItemPreviewItemBoughtNotification::ByteSize() const
+    CMsgGCItemPreviewItemBoughtNotification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCItemPreviewItemBoughtNotification::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCItemPreviewItemBoughtNotification::GetCachedSize() const
+    CMsgGCItemPreviewItemBoughtNotification::CopyFrom(google::protobuf::Message const&)
+    CMsgGCItemPreviewItemBoughtNotification::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCItemPreviewItemBoughtNotification::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCItemPreviewItemBoughtNotification::GetMetadata() const

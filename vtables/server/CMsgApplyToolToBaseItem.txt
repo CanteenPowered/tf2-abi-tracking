@@ -1,20 +1,20 @@
 VTable for CMsgApplyToolToBaseItem:
-    [0] CMsgApplyToolToBaseItem::~CMsgApplyToolToBaseItem()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgApplyToolToBaseItem::New() const
-    [3] CMsgApplyToolToBaseItem::Clear()
-    [4] CMsgApplyToolToBaseItem::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgApplyToolToBaseItem::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgApplyToolToBaseItem::ByteSize() const
-    [9] CMsgApplyToolToBaseItem::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgApplyToolToBaseItem::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgApplyToolToBaseItem::GetCachedSize() const
-    [12] CMsgApplyToolToBaseItem::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgApplyToolToBaseItem::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgApplyToolToBaseItem::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgApplyToolToBaseItem::GetMetadata() const
+    CMsgApplyToolToBaseItem::~CMsgApplyToolToBaseItem()
+    google::protobuf::Message::GetTypeName() const
+    CMsgApplyToolToBaseItem::New() const
+    CMsgApplyToolToBaseItem::Clear()
+    CMsgApplyToolToBaseItem::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgApplyToolToBaseItem::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgApplyToolToBaseItem::ByteSize() const
+    CMsgApplyToolToBaseItem::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgApplyToolToBaseItem::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgApplyToolToBaseItem::GetCachedSize() const
+    CMsgApplyToolToBaseItem::CopyFrom(google::protobuf::Message const&)
+    CMsgApplyToolToBaseItem::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgApplyToolToBaseItem::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgApplyToolToBaseItem::GetMetadata() const

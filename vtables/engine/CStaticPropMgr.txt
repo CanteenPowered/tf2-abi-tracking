@@ -1,29 +1,29 @@
 VTable for CStaticPropMgr:
-    [0] CStaticPropMgr::Shutdown()
-    [1] CStaticPropMgr::LevelInit()
-    [2] CStaticPropMgr::LevelInitClient()
-    [3] CStaticPropMgr::LevelShutdownClient()
-    [4] CStaticPropMgr::LevelShutdown()
-    [5] CStaticPropMgr::RecomputeStaticLighting()
-    [6] CStaticPropMgr::IsPropInPVS(IHandleEntity*, unsigned char const*) const
-    [7] CStaticPropMgr::GetStaticProp(IHandleEntity*)
-    [8] CStaticPropMgr::GetLightCacheHandleForStaticProp(IHandleEntity*)
-    [9] CStaticPropMgr::IsStaticProp(IHandleEntity*) const
-    [10] CStaticPropMgr::IsStaticProp(CBaseHandle) const
-    [11] CStaticPropMgr::GetStaticPropIndex(IHandleEntity*) const
-    [12] CStaticPropMgr::PropHasBakedLightingDisabled(IHandleEntity*) const
-    [13] CStaticPropMgr::~CStaticPropMgr()
-    [14] CStaticPropMgr::~CStaticPropMgr()
-    [15] CStaticPropMgr::GetStaticPropByIndex(int)
-    [16] CStaticPropMgr::ComputePropOpacity(Vector const&, float)
-    [17] CStaticPropMgr::TraceRayAgainstStaticProp(Ray_t const&, int, CGameTrace&)
-    [18] CStaticPropMgr::AddDecalToStaticProp(Vector const&, Vector const&, int, int, bool, CGameTrace&)
-    [19] CStaticPropMgr::AddColorDecalToStaticProp(Vector const&, Vector const&, int, int, bool, CGameTrace&, bool, Color)
-    [20] CStaticPropMgr::AddShadowToStaticProp(unsigned short, IClientRenderable*)
-    [21] CStaticPropMgr::RemoveAllShadowsFromStaticProp(IClientRenderable*)
-    [22] CStaticPropMgr::GetStaticPropMaterialColorAndLighting(CGameTrace*, int, Vector&, Vector&)
-    [23] CStaticPropMgr::CreateVPhysicsRepresentations(IPhysicsEnvironment*, IVPhysicsKeyHandler*, void*)
-    [24] CStaticPropMgr::GetAllStaticProps(CUtlVector<ICollideable*, CUtlMemory<ICollideable*, int>>*)
-    [25] CStaticPropMgr::GetAllStaticPropsInAABB(Vector const&, Vector const&, CUtlVector<ICollideable*, CUtlMemory<ICollideable*, int>>*)
-    [26] CStaticPropMgr::GetAllStaticPropsInOBB(Vector const&, Vector const&, Vector const&, Vector const&, CUtlVector<ICollideable*, CUtlMemory<ICollideable*, int>>*)
-    [27] CStaticPropMgr::DrawStaticProps(IClientRenderable**, int, bool, bool)
+    CStaticPropMgr::Shutdown()
+    CStaticPropMgr::LevelInit()
+    CStaticPropMgr::LevelInitClient()
+    CStaticPropMgr::LevelShutdownClient()
+    CStaticPropMgr::LevelShutdown()
+    CStaticPropMgr::RecomputeStaticLighting()
+    CStaticPropMgr::IsPropInPVS(IHandleEntity*, unsigned char const*) const
+    CStaticPropMgr::GetStaticProp(IHandleEntity*)
+    CStaticPropMgr::GetLightCacheHandleForStaticProp(IHandleEntity*)
+    CStaticPropMgr::IsStaticProp(IHandleEntity*) const
+    CStaticPropMgr::IsStaticProp(CBaseHandle) const
+    CStaticPropMgr::GetStaticPropIndex(IHandleEntity*) const
+    CStaticPropMgr::PropHasBakedLightingDisabled(IHandleEntity*) const
+    CStaticPropMgr::~CStaticPropMgr()
+    CStaticPropMgr::~CStaticPropMgr()
+    CStaticPropMgr::GetStaticPropByIndex(int)
+    CStaticPropMgr::ComputePropOpacity(Vector const&, float)
+    CStaticPropMgr::TraceRayAgainstStaticProp(Ray_t const&, int, CGameTrace&)
+    CStaticPropMgr::AddDecalToStaticProp(Vector const&, Vector const&, int, int, bool, CGameTrace&)
+    CStaticPropMgr::AddColorDecalToStaticProp(Vector const&, Vector const&, int, int, bool, CGameTrace&, bool, Color)
+    CStaticPropMgr::AddShadowToStaticProp(unsigned short, IClientRenderable*)
+    CStaticPropMgr::RemoveAllShadowsFromStaticProp(IClientRenderable*)
+    CStaticPropMgr::GetStaticPropMaterialColorAndLighting(CGameTrace*, int, Vector&, Vector&)
+    CStaticPropMgr::CreateVPhysicsRepresentations(IPhysicsEnvironment*, IVPhysicsKeyHandler*, void*)
+    CStaticPropMgr::GetAllStaticProps(CUtlVector<ICollideable*, CUtlMemory<ICollideable*, int>>*)
+    CStaticPropMgr::GetAllStaticPropsInAABB(Vector const&, Vector const&, CUtlVector<ICollideable*, CUtlMemory<ICollideable*, int>>*)
+    CStaticPropMgr::GetAllStaticPropsInOBB(Vector const&, Vector const&, Vector const&, Vector const&, CUtlVector<ICollideable*, CUtlMemory<ICollideable*, int>>*)
+    CStaticPropMgr::DrawStaticProps(IClientRenderable**, int, bool, bool)

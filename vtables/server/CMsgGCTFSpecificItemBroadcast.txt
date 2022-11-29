@@ -1,20 +1,20 @@
 VTable for CMsgGCTFSpecificItemBroadcast:
-    [0] CMsgGCTFSpecificItemBroadcast::~CMsgGCTFSpecificItemBroadcast()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCTFSpecificItemBroadcast::New() const
-    [3] CMsgGCTFSpecificItemBroadcast::Clear()
-    [4] CMsgGCTFSpecificItemBroadcast::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCTFSpecificItemBroadcast::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCTFSpecificItemBroadcast::ByteSize() const
-    [9] CMsgGCTFSpecificItemBroadcast::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCTFSpecificItemBroadcast::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCTFSpecificItemBroadcast::GetCachedSize() const
-    [12] CMsgGCTFSpecificItemBroadcast::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCTFSpecificItemBroadcast::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCTFSpecificItemBroadcast::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCTFSpecificItemBroadcast::GetMetadata() const
+    CMsgGCTFSpecificItemBroadcast::~CMsgGCTFSpecificItemBroadcast()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCTFSpecificItemBroadcast::New() const
+    CMsgGCTFSpecificItemBroadcast::Clear()
+    CMsgGCTFSpecificItemBroadcast::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCTFSpecificItemBroadcast::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCTFSpecificItemBroadcast::ByteSize() const
+    CMsgGCTFSpecificItemBroadcast::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCTFSpecificItemBroadcast::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCTFSpecificItemBroadcast::GetCachedSize() const
+    CMsgGCTFSpecificItemBroadcast::CopyFrom(google::protobuf::Message const&)
+    CMsgGCTFSpecificItemBroadcast::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCTFSpecificItemBroadcast::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCTFSpecificItemBroadcast::GetMetadata() const

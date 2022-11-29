@@ -1,2 +1,2 @@
 VTable for CryptoPP::HMAC_Base:
-    [0] CryptoPP::HMAC_Base::~HMAC_Base()
+    CryptoPP::HMAC_Base::~HMAC_Base()

@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTempEntTester>:
-    [0] CEntityFactory<CTempEntTester>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTempEntTester>::GetEntitySize()
+    CEntityFactory<CTempEntTester>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTempEntTester>::GetEntitySize()

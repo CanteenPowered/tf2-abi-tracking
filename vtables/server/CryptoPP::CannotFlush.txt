@@ -1,3 +1,3 @@
 VTable for CryptoPP::CannotFlush:
-    [0] CryptoPP::CannotFlush::~CannotFlush()
-    [1] CryptoPP::Exception::what() const
+    CryptoPP::CannotFlush::~CannotFlush()
+    CryptoPP::Exception::what() const

@@ -1,6 +1,6 @@
 VTable for CEconTool_KeylessCase:
-    [0] CEconTool_KeylessCase::~CEconTool_KeylessCase()
-    [1] IEconTool::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
-    [2] IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
-    [3] IEconTool::RequiresToolEscrowPeriod() const
-    [4] IEconTool::BFinishInitialization()
+    CEconTool_KeylessCase::~CEconTool_KeylessCase()
+    IEconTool::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
+    IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
+    IEconTool::RequiresToolEscrowPeriod() const
+    IEconTool::BFinishInitialization()

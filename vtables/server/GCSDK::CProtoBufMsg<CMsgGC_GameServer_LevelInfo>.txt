@@ -1,24 +1,24 @@
 VTable for GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthChallenge>:
-    [0] GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthChallenge>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthChallenge>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthChallenge>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthChallenge>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgGC_GameServer_ServerModificationItemExpired>:
-    [0] GCSDK::CProtoBufMsg<CMsgGC_GameServer_ServerModificationItemExpired>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGC_GameServer_ServerModificationItemExpired>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_ServerModificationItemExpired>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_ServerModificationItemExpired>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgGC_GameServer_UseServerModificationItem>:
-    [0] GCSDK::CProtoBufMsg<CMsgGC_GameServer_UseServerModificationItem>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGC_GameServer_UseServerModificationItem>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_UseServerModificationItem>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_UseServerModificationItem>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgGC_GameServer_LevelInfo>:
-    [0] GCSDK::CProtoBufMsg<CMsgGC_GameServer_LevelInfo>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGC_GameServer_LevelInfo>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_LevelInfo>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_LevelInfo>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthResult>:
-    [0] GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthResult>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthResult>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthResult>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthResult>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthChallengeResponse>:
-    [0] GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthChallengeResponse>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthChallengeResponse>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthChallengeResponse>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_AuthChallengeResponse>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgGC_GameServer_UseServerModificationItem_Response>:
-    [0] GCSDK::CProtoBufMsg<CMsgGC_GameServer_UseServerModificationItem_Response>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGC_GameServer_UseServerModificationItem_Response>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_UseServerModificationItem_Response>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_UseServerModificationItem_Response>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgGC_GameServer_ServerModificationItem>:
-    [0] GCSDK::CProtoBufMsg<CMsgGC_GameServer_ServerModificationItem>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGC_GameServer_ServerModificationItem>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_ServerModificationItem>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGC_GameServer_ServerModificationItem>::GetGenericBody() const

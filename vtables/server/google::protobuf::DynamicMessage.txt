@@ -1,23 +1,23 @@
 VTable for google::protobuf::DynamicMessageFactory:
-    [0] google::protobuf::DynamicMessageFactory::~DynamicMessageFactory()
-    [1] google::protobuf::DynamicMessageFactory::GetPrototype(google::protobuf::Descriptor const*)
+    google::protobuf::DynamicMessageFactory::~DynamicMessageFactory()
+    google::protobuf::DynamicMessageFactory::GetPrototype(google::protobuf::Descriptor const*)
 VTable for google::protobuf::DynamicMessage:
-    [0] google::protobuf::DynamicMessage::~DynamicMessage()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] google::protobuf::DynamicMessage::New() const
-    [3] google::protobuf::Message::Clear()
-    [4] google::protobuf::Message::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] google::protobuf::Message::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] google::protobuf::Message::ByteSize() const
-    [9] google::protobuf::Message::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] google::protobuf::MessageLite::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] google::protobuf::DynamicMessage::GetCachedSize() const
-    [12] google::protobuf::Message::CopyFrom(google::protobuf::Message const&)
-    [13] google::protobuf::Message::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] google::protobuf::DynamicMessage::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] google::protobuf::DynamicMessage::GetMetadata() const
+    google::protobuf::DynamicMessage::~DynamicMessage()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::DynamicMessage::New() const
+    google::protobuf::Message::Clear()
+    google::protobuf::Message::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::Message::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::Message::ByteSize() const
+    google::protobuf::Message::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::MessageLite::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::DynamicMessage::GetCachedSize() const
+    google::protobuf::Message::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::Message::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::DynamicMessage::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::DynamicMessage::GetMetadata() const

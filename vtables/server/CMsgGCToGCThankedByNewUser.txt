@@ -1,20 +1,20 @@
 VTable for CMsgGCToGCThankedByNewUser:
-    [0] CMsgGCToGCThankedByNewUser::~CMsgGCToGCThankedByNewUser()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCToGCThankedByNewUser::New() const
-    [3] CMsgGCToGCThankedByNewUser::Clear()
-    [4] CMsgGCToGCThankedByNewUser::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCToGCThankedByNewUser::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCToGCThankedByNewUser::ByteSize() const
-    [9] CMsgGCToGCThankedByNewUser::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCToGCThankedByNewUser::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCToGCThankedByNewUser::GetCachedSize() const
-    [12] CMsgGCToGCThankedByNewUser::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCToGCThankedByNewUser::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCToGCThankedByNewUser::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCToGCThankedByNewUser::GetMetadata() const
+    CMsgGCToGCThankedByNewUser::~CMsgGCToGCThankedByNewUser()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCToGCThankedByNewUser::New() const
+    CMsgGCToGCThankedByNewUser::Clear()
+    CMsgGCToGCThankedByNewUser::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCToGCThankedByNewUser::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCToGCThankedByNewUser::ByteSize() const
+    CMsgGCToGCThankedByNewUser::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCToGCThankedByNewUser::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCToGCThankedByNewUser::GetCachedSize() const
+    CMsgGCToGCThankedByNewUser::CopyFrom(google::protobuf::Message const&)
+    CMsgGCToGCThankedByNewUser::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCToGCThankedByNewUser::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCToGCThankedByNewUser::GetMetadata() const

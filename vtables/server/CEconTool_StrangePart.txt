@@ -1,6 +1,6 @@
 VTable for CEconTool_StrangePart:
-    [0] CEconTool_StrangePart::~CEconTool_StrangePart()
-    [1] CEconTool_StrangePart::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
-    [2] IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
-    [3] IEconTool::RequiresToolEscrowPeriod() const
-    [4] IEconTool::BFinishInitialization()
+    CEconTool_StrangePart::~CEconTool_StrangePart()
+    CEconTool_StrangePart::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
+    IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
+    IEconTool::RequiresToolEscrowPeriod() const
+    IEconTool::BFinishInitialization()

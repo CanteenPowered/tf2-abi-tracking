@@ -1,14 +1,14 @@
 VTable for CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>:
-    [0] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>::~TF_CryptoSystemBase()
-    [1] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>::MaxPlaintextLength(unsigned int) const
-    [2] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>::CiphertextLength(unsigned int) const
-    [3] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>::ParameterSupported(char const*) const
-    [4] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedCiphertextLength() const
-    [5] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedMaxPlaintextLength() const
+    CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>::~TF_CryptoSystemBase()
+    CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>::MaxPlaintextLength(unsigned int) const
+    CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>::CiphertextLength(unsigned int) const
+    CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>::ParameterSupported(char const*) const
+    CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedCiphertextLength() const
+    CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedMaxPlaintextLength() const
 VTable for CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>:
-    [0] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::~TF_CryptoSystemBase()
-    [1] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::MaxPlaintextLength(unsigned int) const
-    [2] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::CiphertextLength(unsigned int) const
-    [3] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::ParameterSupported(char const*) const
-    [4] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedCiphertextLength() const
-    [5] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedMaxPlaintextLength() const
+    CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::~TF_CryptoSystemBase()
+    CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::MaxPlaintextLength(unsigned int) const
+    CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::CiphertextLength(unsigned int) const
+    CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::ParameterSupported(char const*) const
+    CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedCiphertextLength() const
+    CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedMaxPlaintextLength() const

@@ -1,20 +1,20 @@
 VTable for CMsgServerGoodbye:
-    [0] CMsgServerGoodbye::~CMsgServerGoodbye()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgServerGoodbye::New() const
-    [3] CMsgServerGoodbye::Clear()
-    [4] CMsgServerGoodbye::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgServerGoodbye::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgServerGoodbye::ByteSize() const
-    [9] CMsgServerGoodbye::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgServerGoodbye::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgServerGoodbye::GetCachedSize() const
-    [12] CMsgServerGoodbye::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgServerGoodbye::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgServerGoodbye::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgServerGoodbye::GetMetadata() const
+    CMsgServerGoodbye::~CMsgServerGoodbye()
+    google::protobuf::Message::GetTypeName() const
+    CMsgServerGoodbye::New() const
+    CMsgServerGoodbye::Clear()
+    CMsgServerGoodbye::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgServerGoodbye::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgServerGoodbye::ByteSize() const
+    CMsgServerGoodbye::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgServerGoodbye::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgServerGoodbye::GetCachedSize() const
+    CMsgServerGoodbye::CopyFrom(google::protobuf::Message const&)
+    CMsgServerGoodbye::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgServerGoodbye::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgServerGoodbye::GetMetadata() const

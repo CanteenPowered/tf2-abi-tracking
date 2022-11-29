@@ -1,5 +1,5 @@
 VTable for CTacticalMission:
-    [0] CTacticalMission::~CTacticalMission()
-    [1] CTacticalMission::GetDeployZone(CBasePlayer*) const
-    [2] CTacticalMission::GetObjectiveZone() const
-    [3] CTacticalMission::GetEnemyZone() const
+    CTacticalMission::~CTacticalMission()
+    CTacticalMission::GetDeployZone(CBasePlayer*) const
+    CTacticalMission::GetObjectiveZone() const
+    CTacticalMission::GetEnemyZone() const

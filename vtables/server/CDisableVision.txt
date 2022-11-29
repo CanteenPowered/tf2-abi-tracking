@@ -1,75 +1,75 @@
 VTable for CDisableVision:
-    [0] CDisableVision::~CDisableVision()
-    [1] INextBotEventResponder::FirstContainedResponder() const
-    [2] INextBotEventResponder::NextContainedResponder(INextBotEventResponder*) const
-    [3] INextBotEventResponder::OnLeaveGround(CBaseEntity*)
-    [4] INextBotEventResponder::OnLandOnGround(CBaseEntity*)
-    [5] INextBotEventResponder::OnContact(CBaseEntity*, CGameTrace*)
-    [6] INextBotEventResponder::OnMoveToSuccess(Path const*)
-    [7] INextBotEventResponder::OnMoveToFailure(Path const*, MoveToFailureType)
-    [8] INextBotEventResponder::OnStuck()
-    [9] INextBotEventResponder::OnUnStuck()
-    [10] INextBotEventResponder::OnPostureChanged()
-    [11] INextBotEventResponder::OnAnimationActivityComplete(int)
-    [12] INextBotEventResponder::OnAnimationActivityInterrupted(int)
-    [13] INextBotEventResponder::OnAnimationEvent(animevent_t*)
-    [14] INextBotEventResponder::OnIgnite()
-    [15] INextBotEventResponder::OnInjured(CTakeDamageInfo const&)
-    [16] INextBotEventResponder::OnKilled(CTakeDamageInfo const&)
-    [17] INextBotEventResponder::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)
-    [18] INextBotEventResponder::OnSight(CBaseEntity*)
-    [19] INextBotEventResponder::OnLostSight(CBaseEntity*)
-    [20] INextBotEventResponder::OnSound(CBaseEntity*, Vector const&, KeyValues*)
-    [21] INextBotEventResponder::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)
-    [22] INextBotEventResponder::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)
-    [23] INextBotEventResponder::OnNavAreaChanged(CNavArea*, CNavArea*)
-    [24] INextBotEventResponder::OnModelChanged()
-    [25] INextBotEventResponder::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)
-    [26] INextBotEventResponder::OnDrop(CBaseEntity*)
-    [27] INextBotEventResponder::OnActorEmoted(CBaseCombatCharacter*, int)
-    [28] INextBotEventResponder::OnCommandAttack(CBaseEntity*)
-    [29] INextBotEventResponder::OnCommandApproach(Vector const&, float)
-    [30] INextBotEventResponder::OnCommandApproach(CBaseEntity*)
-    [31] INextBotEventResponder::OnCommandRetreat(CBaseEntity*, float)
-    [32] INextBotEventResponder::OnCommandPause(float)
-    [33] INextBotEventResponder::OnCommandResume()
-    [34] INextBotEventResponder::OnCommandString(char const*)
-    [35] INextBotEventResponder::OnShoved(CBaseEntity*)
-    [36] INextBotEventResponder::OnBlinded(CBaseEntity*)
-    [37] INextBotEventResponder::OnTerritoryContested(int)
-    [38] INextBotEventResponder::OnTerritoryCaptured(int)
-    [39] INextBotEventResponder::OnTerritoryLost(int)
-    [40] INextBotEventResponder::OnWin()
-    [41] INextBotEventResponder::OnLose()
-    [42] CDisableVision::Reset()
-    [43] CDisableVision::Update()
-    [44] INextBotComponent::Upkeep()
-    [45] INextBotComponent::GetBot() const
-    [46] INextBotComponent::GetScriptDesc()
-    [47] IVision::ForEachKnownEntity(IVision::IForEachKnownEntity&)
-    [48] IVision::CollectKnownEntities(CUtlVector<CKnownEntity, CUtlMemory<CKnownEntity, int>>*)
-    [49] IVision::GetPrimaryKnownThreat(bool) const
-    [50] IVision::GetTimeSinceVisible(int) const
-    [51] IVision::GetClosestKnown(int) const
-    [52] IVision::GetKnownCount(int, bool, float) const
-    [53] IVision::GetClosestKnown(INextBotEntityFilter const&) const
-    [54] IVision::GetKnown(CBaseEntity const*) const
-    [55] IVision::AddKnownEntity(CBaseEntity*)
-    [56] IVision::ForgetEntity(CBaseEntity*)
-    [57] IVision::ForgetAllKnownEntities()
-    [58] IVision::CollectPotentiallyVisibleEntities(CUtlVector<CBaseEntity*, CUtlMemory<CBaseEntity*, int>>*)
-    [59] IVision::GetMaxVisionRange() const
-    [60] IVision::GetMinRecognizeTime() const
-    [61] IVision::IsAbleToSee(CBaseEntity*, IVision::FieldOfViewCheckType, Vector*) const
-    [62] IVision::IsAbleToSee(Vector const&, IVision::FieldOfViewCheckType) const
-    [63] IVision::IsIgnored(CBaseEntity*) const
-    [64] IVision::IsVisibleEntityNoticed(CBaseEntity*) const
-    [65] IVision::IsInFieldOfView(Vector const&) const
-    [66] IVision::IsInFieldOfView(CBaseEntity*) const
-    [67] IVision::GetDefaultFieldOfView() const
-    [68] IVision::GetFieldOfView() const
-    [69] IVision::SetFieldOfView(float)
-    [70] IVision::IsLineOfSightClear(Vector const&) const
-    [71] IVision::IsLineOfSightClearToEntity(CBaseEntity const*, Vector*) const
-    [72] IVision::IsLookingAt(Vector const&, float) const
-    [73] IVision::IsLookingAt(CBaseCombatCharacter const*, float) const
+    CDisableVision::~CDisableVision()
+    INextBotEventResponder::FirstContainedResponder() const
+    INextBotEventResponder::NextContainedResponder(INextBotEventResponder*) const
+    INextBotEventResponder::OnLeaveGround(CBaseEntity*)
+    INextBotEventResponder::OnLandOnGround(CBaseEntity*)
+    INextBotEventResponder::OnContact(CBaseEntity*, CGameTrace*)
+    INextBotEventResponder::OnMoveToSuccess(Path const*)
+    INextBotEventResponder::OnMoveToFailure(Path const*, MoveToFailureType)
+    INextBotEventResponder::OnStuck()
+    INextBotEventResponder::OnUnStuck()
+    INextBotEventResponder::OnPostureChanged()
+    INextBotEventResponder::OnAnimationActivityComplete(int)
+    INextBotEventResponder::OnAnimationActivityInterrupted(int)
+    INextBotEventResponder::OnAnimationEvent(animevent_t*)
+    INextBotEventResponder::OnIgnite()
+    INextBotEventResponder::OnInjured(CTakeDamageInfo const&)
+    INextBotEventResponder::OnKilled(CTakeDamageInfo const&)
+    INextBotEventResponder::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)
+    INextBotEventResponder::OnSight(CBaseEntity*)
+    INextBotEventResponder::OnLostSight(CBaseEntity*)
+    INextBotEventResponder::OnSound(CBaseEntity*, Vector const&, KeyValues*)
+    INextBotEventResponder::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)
+    INextBotEventResponder::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)
+    INextBotEventResponder::OnNavAreaChanged(CNavArea*, CNavArea*)
+    INextBotEventResponder::OnModelChanged()
+    INextBotEventResponder::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)
+    INextBotEventResponder::OnDrop(CBaseEntity*)
+    INextBotEventResponder::OnActorEmoted(CBaseCombatCharacter*, int)
+    INextBotEventResponder::OnCommandAttack(CBaseEntity*)
+    INextBotEventResponder::OnCommandApproach(Vector const&, float)
+    INextBotEventResponder::OnCommandApproach(CBaseEntity*)
+    INextBotEventResponder::OnCommandRetreat(CBaseEntity*, float)
+    INextBotEventResponder::OnCommandPause(float)
+    INextBotEventResponder::OnCommandResume()
+    INextBotEventResponder::OnCommandString(char const*)
+    INextBotEventResponder::OnShoved(CBaseEntity*)
+    INextBotEventResponder::OnBlinded(CBaseEntity*)
+    INextBotEventResponder::OnTerritoryContested(int)
+    INextBotEventResponder::OnTerritoryCaptured(int)
+    INextBotEventResponder::OnTerritoryLost(int)
+    INextBotEventResponder::OnWin()
+    INextBotEventResponder::OnLose()
+    CDisableVision::Reset()
+    CDisableVision::Update()
+    INextBotComponent::Upkeep()
+    INextBotComponent::GetBot() const
+    INextBotComponent::GetScriptDesc()
+    IVision::ForEachKnownEntity(IVision::IForEachKnownEntity&)
+    IVision::CollectKnownEntities(CUtlVector<CKnownEntity, CUtlMemory<CKnownEntity, int>>*)
+    IVision::GetPrimaryKnownThreat(bool) const
+    IVision::GetTimeSinceVisible(int) const
+    IVision::GetClosestKnown(int) const
+    IVision::GetKnownCount(int, bool, float) const
+    IVision::GetClosestKnown(INextBotEntityFilter const&) const
+    IVision::GetKnown(CBaseEntity const*) const
+    IVision::AddKnownEntity(CBaseEntity*)
+    IVision::ForgetEntity(CBaseEntity*)
+    IVision::ForgetAllKnownEntities()
+    IVision::CollectPotentiallyVisibleEntities(CUtlVector<CBaseEntity*, CUtlMemory<CBaseEntity*, int>>*)
+    IVision::GetMaxVisionRange() const
+    IVision::GetMinRecognizeTime() const
+    IVision::IsAbleToSee(CBaseEntity*, IVision::FieldOfViewCheckType, Vector*) const
+    IVision::IsAbleToSee(Vector const&, IVision::FieldOfViewCheckType) const
+    IVision::IsIgnored(CBaseEntity*) const
+    IVision::IsVisibleEntityNoticed(CBaseEntity*) const
+    IVision::IsInFieldOfView(Vector const&) const
+    IVision::IsInFieldOfView(CBaseEntity*) const
+    IVision::GetDefaultFieldOfView() const
+    IVision::GetFieldOfView() const
+    IVision::SetFieldOfView(float)
+    IVision::IsLineOfSightClear(Vector const&) const
+    IVision::IsLineOfSightClearToEntity(CBaseEntity const*, Vector*) const
+    IVision::IsLookingAt(Vector const&, float) const
+    IVision::IsLookingAt(CBaseCombatCharacter const*, float) const

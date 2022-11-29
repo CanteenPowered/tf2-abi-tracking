@@ -1,2 +1,2 @@
 VTable for IFuncNavPrerequisiteAutoList:
-    [0] IFuncNavPrerequisiteAutoList::~IFuncNavPrerequisiteAutoList()
+    IFuncNavPrerequisiteAutoList::~IFuncNavPrerequisiteAutoList()

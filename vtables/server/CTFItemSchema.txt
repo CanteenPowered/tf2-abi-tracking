@@ -1,22 +1,22 @@
 VTable for CTFItemSchema:
-    [0] CTFItemSchema::~CTFItemSchema()
-    [1] CEconItemSchema::BInit(char const*, char const*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [2] CEconItemSchema::GetRarityDefinitionCount() const
-    [3] CEconItemSchema::GetRarityName(unsigned char)
-    [4] CEconItemSchema::GetRarityLocKey(unsigned char)
-    [5] CEconItemSchema::GetRarityColor(unsigned char)
-    [6] CEconItemSchema::GetRarityIndex(char const*)
-    [7] CEconItemSchema::GetItemSeriesDefinitionCount() const
-    [8] CTFItemSchema::GetCustomExpirationDate(char const*) const
-    [9] CTFItemSchema::CreateEconItemDefinition()
-    [10] CTFItemSchema::CreateCraftingRecipeDefinition()
-    [11] CTFItemSchema::CreateEconStyleInfo()
-    [12] CEconItemSchema::CreateQuestDefinition()
-    [13] CTFItemSchema::CreateEconToolImpl(char const*, char const*, char const*, item_capabilities_t, KeyValues*)
-    [14] CEconItemSchema::CreateItemCriteria(char const*, KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [15] CEconItemSchema::CreateRandomAttribute(char const*, KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [16] CEconItemSchema::CreateLootlistJob(char const*, KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [17] CTFItemSchema::BCanStrangeFilterApplyToStrangeSlotInItem(unsigned int, unsigned int, IEconItemInterface const*, int, unsigned int*) const
-    [18] CTFItemSchema::Reset()
-    [19] CTFItemSchema::BInitSchema(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [20] CTFItemSchema::BPostSchemaInit(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTFItemSchema::~CTFItemSchema()
+    CEconItemSchema::BInit(char const*, char const*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CEconItemSchema::GetRarityDefinitionCount() const
+    CEconItemSchema::GetRarityName(unsigned char)
+    CEconItemSchema::GetRarityLocKey(unsigned char)
+    CEconItemSchema::GetRarityColor(unsigned char)
+    CEconItemSchema::GetRarityIndex(char const*)
+    CEconItemSchema::GetItemSeriesDefinitionCount() const
+    CTFItemSchema::GetCustomExpirationDate(char const*) const
+    CTFItemSchema::CreateEconItemDefinition()
+    CTFItemSchema::CreateCraftingRecipeDefinition()
+    CTFItemSchema::CreateEconStyleInfo()
+    CEconItemSchema::CreateQuestDefinition()
+    CTFItemSchema::CreateEconToolImpl(char const*, char const*, char const*, item_capabilities_t, KeyValues*)
+    CEconItemSchema::CreateItemCriteria(char const*, KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CEconItemSchema::CreateRandomAttribute(char const*, KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CEconItemSchema::CreateLootlistJob(char const*, KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTFItemSchema::BCanStrangeFilterApplyToStrangeSlotInItem(unsigned int, unsigned int, IEconItemInterface const*, int, unsigned int*) const
+    CTFItemSchema::Reset()
+    CTFItemSchema::BInitSchema(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTFItemSchema::BPostSchemaInit(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)

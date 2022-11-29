@@ -1,61 +1,61 @@
 VTable for CBaseClient:
-    [0] CBaseClient::~CBaseClient()
-    [1] CBaseClient::FireGameEvent(IGameEvent*)
-    [2] CBaseClient::GetPlayerSlot() const
-    [3] CBaseClient::GetUserID() const
-    [4] CBaseClient::GetNetworkID() const
-    [5] CBaseClient::GetClientName() const
-    [6] CBaseClient::GetNetChannel()
-    [7] CBaseClient::GetServer()
-    [8] CBaseClient::GetUserSetting(char const*) const
-    [9] CBaseClient::GetNetworkIDString() const
-    [10] CBaseClient::Connect(char const*, int, INetChannel*, bool, int)
-    [11] CBaseClient::Inactivate()
-    [12] CBaseClient::Reconnect()
-    [13] CBaseClient::Disconnect(char const*, ...)
-    [14] CBaseClient::SetRate(int, bool)
-    [15] CBaseClient::GetRate() const
-    [16] CBaseClient::SetUpdateRate(int, bool)
-    [17] CBaseClient::GetUpdateRate() const
-    [18] CBaseClient::Clear()
-    [19] CBaseClient::DemoRestart()
-    [20] CBaseClient::GetMaxAckTickCount() const
-    [21] CBaseClient::ExecuteStringCommand(char const*)
-    [22] CBaseClient::SendNetMsg(INetMessage&, bool)
-    [23] CBaseClient::ClientPrintf(char const*, ...)
-    [24] CBaseClient::IsConnected() const
-    [25] CBaseClient::IsSpawned() const
-    [26] CBaseClient::IsActive() const
-    [27] CBaseClient::IsFakeClient() const
-    [28] CBaseClient::IsHLTV() const
-    [29] CBaseClient::IsReplay() const
-    [30] CBaseClient::IsHearingClient(int) const
-    [31] CBaseClient::IsProximityHearingClient(int) const
-    [32] CBaseClient::SetMaxRoutablePayloadSize(int)
-    [33] CBaseClient::IsSplitScreenUser() const
-    [34] CBaseClient::ProcessTick(NET_Tick*)
-    [35] CBaseClient::ProcessStringCmd(NET_StringCmd*)
-    [36] CBaseClient::ProcessSetConVar(NET_SetConVar*)
-    [37] CBaseClient::ProcessSignonState(NET_SignonState*)
-    [38] CBaseClient::ProcessClientInfo(CLC_ClientInfo*)
-    [39] CBaseClient::ProcessBaselineAck(CLC_BaselineAck*)
-    [40] CBaseClient::ProcessListenEvents(CLC_ListenEvents*)
-    [41] CBaseClient::ProcessCmdKeyValues(CLC_CmdKeyValues*)
-    [42] CBaseClient::ConnectionStart(INetChannel*)
-    [43] CBaseClient::UpdateAcknowledgedFramecount(int)
-    [44] CBaseClient::ShouldSendMessages()
-    [45] CBaseClient::UpdateSendState()
-    [46] CBaseClient::FillUserInfo(player_info_s&)
-    [47] CBaseClient::UpdateUserSettings()
-    [48] CBaseClient::SetSignonState(int, int)
-    [49] CBaseClient::WriteGameSounds(bf_write&)
-    [50] CBaseClient::GetDeltaFrame(int)
-    [51] CBaseClient::SendSnapshot(CClientFrame*)
-    [52] CBaseClient::SendServerInfo()
-    [53] CBaseClient::SendSignonData()
-    [54] CBaseClient::SpawnPlayer()
-    [55] CBaseClient::ActivatePlayer()
-    [56] CBaseClient::SetName(char const*)
-    [57] CBaseClient::SetUserCVar(char const*, char const*)
-    [58] CBaseClient::FreeBaselines()
-    [59] CBaseClient::IgnoreTempEntity(CEventInfo*)
+    CBaseClient::~CBaseClient()
+    CBaseClient::FireGameEvent(IGameEvent*)
+    CBaseClient::GetPlayerSlot() const
+    CBaseClient::GetUserID() const
+    CBaseClient::GetNetworkID() const
+    CBaseClient::GetClientName() const
+    CBaseClient::GetNetChannel()
+    CBaseClient::GetServer()
+    CBaseClient::GetUserSetting(char const*) const
+    CBaseClient::GetNetworkIDString() const
+    CBaseClient::Connect(char const*, int, INetChannel*, bool, int)
+    CBaseClient::Inactivate()
+    CBaseClient::Reconnect()
+    CBaseClient::Disconnect(char const*, ...)
+    CBaseClient::SetRate(int, bool)
+    CBaseClient::GetRate() const
+    CBaseClient::SetUpdateRate(int, bool)
+    CBaseClient::GetUpdateRate() const
+    CBaseClient::Clear()
+    CBaseClient::DemoRestart()
+    CBaseClient::GetMaxAckTickCount() const
+    CBaseClient::ExecuteStringCommand(char const*)
+    CBaseClient::SendNetMsg(INetMessage&, bool)
+    CBaseClient::ClientPrintf(char const*, ...)
+    CBaseClient::IsConnected() const
+    CBaseClient::IsSpawned() const
+    CBaseClient::IsActive() const
+    CBaseClient::IsFakeClient() const
+    CBaseClient::IsHLTV() const
+    CBaseClient::IsReplay() const
+    CBaseClient::IsHearingClient(int) const
+    CBaseClient::IsProximityHearingClient(int) const
+    CBaseClient::SetMaxRoutablePayloadSize(int)
+    CBaseClient::IsSplitScreenUser() const
+    CBaseClient::ProcessTick(NET_Tick*)
+    CBaseClient::ProcessStringCmd(NET_StringCmd*)
+    CBaseClient::ProcessSetConVar(NET_SetConVar*)
+    CBaseClient::ProcessSignonState(NET_SignonState*)
+    CBaseClient::ProcessClientInfo(CLC_ClientInfo*)
+    CBaseClient::ProcessBaselineAck(CLC_BaselineAck*)
+    CBaseClient::ProcessListenEvents(CLC_ListenEvents*)
+    CBaseClient::ProcessCmdKeyValues(CLC_CmdKeyValues*)
+    CBaseClient::ConnectionStart(INetChannel*)
+    CBaseClient::UpdateAcknowledgedFramecount(int)
+    CBaseClient::ShouldSendMessages()
+    CBaseClient::UpdateSendState()
+    CBaseClient::FillUserInfo(player_info_s&)
+    CBaseClient::UpdateUserSettings()
+    CBaseClient::SetSignonState(int, int)
+    CBaseClient::WriteGameSounds(bf_write&)
+    CBaseClient::GetDeltaFrame(int)
+    CBaseClient::SendSnapshot(CClientFrame*)
+    CBaseClient::SendServerInfo()
+    CBaseClient::SendSignonData()
+    CBaseClient::SpawnPlayer()
+    CBaseClient::ActivatePlayer()
+    CBaseClient::SetName(char const*)
+    CBaseClient::SetUserCVar(char const*, char const*)
+    CBaseClient::FreeBaselines()
+    CBaseClient::IgnoreTempEntity(CEventInfo*)

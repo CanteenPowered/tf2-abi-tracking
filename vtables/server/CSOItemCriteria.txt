@@ -1,20 +1,20 @@
 VTable for CSOItemCriteria:
-    [0] CSOItemCriteria::~CSOItemCriteria()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CSOItemCriteria::New() const
-    [3] CSOItemCriteria::Clear()
-    [4] CSOItemCriteria::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CSOItemCriteria::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CSOItemCriteria::ByteSize() const
-    [9] CSOItemCriteria::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CSOItemCriteria::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CSOItemCriteria::GetCachedSize() const
-    [12] CSOItemCriteria::CopyFrom(google::protobuf::Message const&)
-    [13] CSOItemCriteria::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CSOItemCriteria::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CSOItemCriteria::GetMetadata() const
+    CSOItemCriteria::~CSOItemCriteria()
+    google::protobuf::Message::GetTypeName() const
+    CSOItemCriteria::New() const
+    CSOItemCriteria::Clear()
+    CSOItemCriteria::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CSOItemCriteria::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CSOItemCriteria::ByteSize() const
+    CSOItemCriteria::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CSOItemCriteria::SerializeWithCachedSizesToArray(unsigned char*) const
+    CSOItemCriteria::GetCachedSize() const
+    CSOItemCriteria::CopyFrom(google::protobuf::Message const&)
+    CSOItemCriteria::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CSOItemCriteria::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CSOItemCriteria::GetMetadata() const

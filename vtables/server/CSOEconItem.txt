@@ -1,20 +1,20 @@
 VTable for CSOEconItem:
-    [0] CSOEconItem::~CSOEconItem()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CSOEconItem::New() const
-    [3] CSOEconItem::Clear()
-    [4] CSOEconItem::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CSOEconItem::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CSOEconItem::ByteSize() const
-    [9] CSOEconItem::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CSOEconItem::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CSOEconItem::GetCachedSize() const
-    [12] CSOEconItem::CopyFrom(google::protobuf::Message const&)
-    [13] CSOEconItem::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CSOEconItem::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CSOEconItem::GetMetadata() const
+    CSOEconItem::~CSOEconItem()
+    google::protobuf::Message::GetTypeName() const
+    CSOEconItem::New() const
+    CSOEconItem::Clear()
+    CSOEconItem::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CSOEconItem::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CSOEconItem::ByteSize() const
+    CSOEconItem::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CSOEconItem::SerializeWithCachedSizesToArray(unsigned char*) const
+    CSOEconItem::GetCachedSize() const
+    CSOEconItem::CopyFrom(google::protobuf::Message const&)
+    CSOEconItem::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CSOEconItem::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CSOEconItem::GetMetadata() const

@@ -1,20 +1,20 @@
 VTable for CMsgGCToGCGrantSelfMadeItemToAccount:
-    [0] CMsgGCToGCGrantSelfMadeItemToAccount::~CMsgGCToGCGrantSelfMadeItemToAccount()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCToGCGrantSelfMadeItemToAccount::New() const
-    [3] CMsgGCToGCGrantSelfMadeItemToAccount::Clear()
-    [4] CMsgGCToGCGrantSelfMadeItemToAccount::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCToGCGrantSelfMadeItemToAccount::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCToGCGrantSelfMadeItemToAccount::ByteSize() const
-    [9] CMsgGCToGCGrantSelfMadeItemToAccount::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCToGCGrantSelfMadeItemToAccount::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCToGCGrantSelfMadeItemToAccount::GetCachedSize() const
-    [12] CMsgGCToGCGrantSelfMadeItemToAccount::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCToGCGrantSelfMadeItemToAccount::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCToGCGrantSelfMadeItemToAccount::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCToGCGrantSelfMadeItemToAccount::GetMetadata() const
+    CMsgGCToGCGrantSelfMadeItemToAccount::~CMsgGCToGCGrantSelfMadeItemToAccount()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCToGCGrantSelfMadeItemToAccount::New() const
+    CMsgGCToGCGrantSelfMadeItemToAccount::Clear()
+    CMsgGCToGCGrantSelfMadeItemToAccount::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCToGCGrantSelfMadeItemToAccount::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCToGCGrantSelfMadeItemToAccount::ByteSize() const
+    CMsgGCToGCGrantSelfMadeItemToAccount::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCToGCGrantSelfMadeItemToAccount::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCToGCGrantSelfMadeItemToAccount::GetCachedSize() const
+    CMsgGCToGCGrantSelfMadeItemToAccount::CopyFrom(google::protobuf::Message const&)
+    CMsgGCToGCGrantSelfMadeItemToAccount::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCToGCGrantSelfMadeItemToAccount::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCToGCGrantSelfMadeItemToAccount::GetMetadata() const

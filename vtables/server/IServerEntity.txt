@@ -1,2 +1,2 @@
 VTable for IServerEntity:
-    [0] IServerEntity::~IServerEntity()
+    IServerEntity::~IServerEntity()

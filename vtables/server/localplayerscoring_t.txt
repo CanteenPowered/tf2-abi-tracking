@@ -1,2 +1,2 @@
 VTable for localplayerscoring_t:
-    [0] localplayerscoring_t::NetworkStateChanged(void*)
+    localplayerscoring_t::NetworkStateChanged(void*)

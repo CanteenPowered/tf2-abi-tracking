@@ -1,2 +1,2 @@
 VTable for CChoreoStringPool:
-    [0] CChoreoStringPool::GetString(short, char*, int)
+    CChoreoStringPool::GetString(short, char*, int)

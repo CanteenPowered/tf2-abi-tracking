@@ -1,2 +1,2 @@
 VTable for IEconLootList::IEconLootListIterator:
-    [0] IEconLootList::IEconLootListIterator::~IEconLootListIterator()
+    IEconLootList::IEconLootListIterator::~IEconLootListIterator()

@@ -1,20 +1,20 @@
 VTable for CMsgGCQuestObjective_PointsChange:
-    [0] CMsgGCQuestObjective_PointsChange::~CMsgGCQuestObjective_PointsChange()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCQuestObjective_PointsChange::New() const
-    [3] CMsgGCQuestObjective_PointsChange::Clear()
-    [4] CMsgGCQuestObjective_PointsChange::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCQuestObjective_PointsChange::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCQuestObjective_PointsChange::ByteSize() const
-    [9] CMsgGCQuestObjective_PointsChange::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCQuestObjective_PointsChange::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCQuestObjective_PointsChange::GetCachedSize() const
-    [12] CMsgGCQuestObjective_PointsChange::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCQuestObjective_PointsChange::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCQuestObjective_PointsChange::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCQuestObjective_PointsChange::GetMetadata() const
+    CMsgGCQuestObjective_PointsChange::~CMsgGCQuestObjective_PointsChange()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCQuestObjective_PointsChange::New() const
+    CMsgGCQuestObjective_PointsChange::Clear()
+    CMsgGCQuestObjective_PointsChange::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCQuestObjective_PointsChange::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCQuestObjective_PointsChange::ByteSize() const
+    CMsgGCQuestObjective_PointsChange::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCQuestObjective_PointsChange::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCQuestObjective_PointsChange::GetCachedSize() const
+    CMsgGCQuestObjective_PointsChange::CopyFrom(google::protobuf::Message const&)
+    CMsgGCQuestObjective_PointsChange::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCQuestObjective_PointsChange::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCQuestObjective_PointsChange::GetMetadata() const

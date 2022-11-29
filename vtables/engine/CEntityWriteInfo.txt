@@ -1,2 +1,2 @@
 VTable for CEntityWriteInfo:
-    [0] CEntityWriteInfo::~CEntityWriteInfo()
+    CEntityWriteInfo::~CEntityWriteInfo()

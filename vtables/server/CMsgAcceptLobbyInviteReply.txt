@@ -1,20 +1,20 @@
 VTable for CMsgAcceptLobbyInviteReply:
-    [0] CMsgAcceptLobbyInviteReply::~CMsgAcceptLobbyInviteReply()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgAcceptLobbyInviteReply::New() const
-    [3] CMsgAcceptLobbyInviteReply::Clear()
-    [4] CMsgAcceptLobbyInviteReply::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgAcceptLobbyInviteReply::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgAcceptLobbyInviteReply::ByteSize() const
-    [9] CMsgAcceptLobbyInviteReply::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgAcceptLobbyInviteReply::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgAcceptLobbyInviteReply::GetCachedSize() const
-    [12] CMsgAcceptLobbyInviteReply::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgAcceptLobbyInviteReply::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgAcceptLobbyInviteReply::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgAcceptLobbyInviteReply::GetMetadata() const
+    CMsgAcceptLobbyInviteReply::~CMsgAcceptLobbyInviteReply()
+    google::protobuf::Message::GetTypeName() const
+    CMsgAcceptLobbyInviteReply::New() const
+    CMsgAcceptLobbyInviteReply::Clear()
+    CMsgAcceptLobbyInviteReply::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgAcceptLobbyInviteReply::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgAcceptLobbyInviteReply::ByteSize() const
+    CMsgAcceptLobbyInviteReply::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgAcceptLobbyInviteReply::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgAcceptLobbyInviteReply::GetCachedSize() const
+    CMsgAcceptLobbyInviteReply::CopyFrom(google::protobuf::Message const&)
+    CMsgAcceptLobbyInviteReply::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgAcceptLobbyInviteReply::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgAcceptLobbyInviteReply::GetMetadata() const

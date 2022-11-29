@@ -1,5 +1,5 @@
 VTable for CEntityDataInstantiator<physicspushlist_t>:
-    [0] CEntityDataInstantiator<physicspushlist_t>::~CEntityDataInstantiator()
-    [1] CEntityDataInstantiator<physicspushlist_t>::GetDataObject(CBaseEntity const*)
-    [2] CEntityDataInstantiator<physicspushlist_t>::CreateDataObject(CBaseEntity const*)
-    [3] CEntityDataInstantiator<physicspushlist_t>::DestroyDataObject(CBaseEntity const*)
+    CEntityDataInstantiator<physicspushlist_t>::~CEntityDataInstantiator()
+    CEntityDataInstantiator<physicspushlist_t>::GetDataObject(CBaseEntity const*)
+    CEntityDataInstantiator<physicspushlist_t>::CreateDataObject(CBaseEntity const*)
+    CEntityDataInstantiator<physicspushlist_t>::DestroyDataObject(CBaseEntity const*)

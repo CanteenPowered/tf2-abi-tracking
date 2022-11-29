@@ -1,10 +1,10 @@
 VTable for CCallback<CTFMapsWorkshop, DownloadItemResult_t, false>:
-    [0] CCallbackImpl<16>::Run(void*, bool, unsigned long long)
-    [1] CCallbackImpl<16>::GetCallbackSizeBytes()
-    [2] CCallback<CTFMapsWorkshop, DownloadItemResult_t, false>::~CCallback()
-    [3] CCallback<CTFMapsWorkshop, DownloadItemResult_t, false>::~CCallback()
+    CCallbackImpl<16>::Run(void*, bool, unsigned long long)
+    CCallbackImpl<16>::GetCallbackSizeBytes()
+    CCallback<CTFMapsWorkshop, DownloadItemResult_t, false>::~CCallback()
+    CCallback<CTFMapsWorkshop, DownloadItemResult_t, false>::~CCallback()
 VTable for CCallback<CTFMapsWorkshop, DownloadItemResult_t, true>:
-    [0] CCallbackImpl<16>::Run(void*, bool, unsigned long long)
-    [1] CCallbackImpl<16>::GetCallbackSizeBytes()
-    [2] CCallback<CTFMapsWorkshop, DownloadItemResult_t, true>::~CCallback()
-    [3] CCallback<CTFMapsWorkshop, DownloadItemResult_t, true>::~CCallback()
+    CCallbackImpl<16>::Run(void*, bool, unsigned long long)
+    CCallbackImpl<16>::GetCallbackSizeBytes()
+    CCallback<CTFMapsWorkshop, DownloadItemResult_t, true>::~CCallback()
+    CCallback<CTFMapsWorkshop, DownloadItemResult_t, true>::~CCallback()

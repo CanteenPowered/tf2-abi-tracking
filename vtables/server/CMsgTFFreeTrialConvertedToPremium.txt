@@ -1,20 +1,20 @@
 VTable for CMsgTFFreeTrialConvertedToPremium:
-    [0] CMsgTFFreeTrialConvertedToPremium::~CMsgTFFreeTrialConvertedToPremium()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgTFFreeTrialConvertedToPremium::New() const
-    [3] CMsgTFFreeTrialConvertedToPremium::Clear()
-    [4] CMsgTFFreeTrialConvertedToPremium::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgTFFreeTrialConvertedToPremium::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgTFFreeTrialConvertedToPremium::ByteSize() const
-    [9] CMsgTFFreeTrialConvertedToPremium::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgTFFreeTrialConvertedToPremium::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgTFFreeTrialConvertedToPremium::GetCachedSize() const
-    [12] CMsgTFFreeTrialConvertedToPremium::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgTFFreeTrialConvertedToPremium::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgTFFreeTrialConvertedToPremium::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgTFFreeTrialConvertedToPremium::GetMetadata() const
+    CMsgTFFreeTrialConvertedToPremium::~CMsgTFFreeTrialConvertedToPremium()
+    google::protobuf::Message::GetTypeName() const
+    CMsgTFFreeTrialConvertedToPremium::New() const
+    CMsgTFFreeTrialConvertedToPremium::Clear()
+    CMsgTFFreeTrialConvertedToPremium::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgTFFreeTrialConvertedToPremium::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgTFFreeTrialConvertedToPremium::ByteSize() const
+    CMsgTFFreeTrialConvertedToPremium::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgTFFreeTrialConvertedToPremium::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgTFFreeTrialConvertedToPremium::GetCachedSize() const
+    CMsgTFFreeTrialConvertedToPremium::CopyFrom(google::protobuf::Message const&)
+    CMsgTFFreeTrialConvertedToPremium::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgTFFreeTrialConvertedToPremium::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgTFFreeTrialConvertedToPremium::GetMetadata() const

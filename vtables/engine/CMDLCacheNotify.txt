@@ -1,2 +1,2 @@
 VTable for CMDLCacheNotify:
-    [0] CMDLCacheNotify::OnDataUnloaded(MDLCacheDataType_t, unsigned short)
+    CMDLCacheNotify::OnDataUnloaded(MDLCacheDataType_t, unsigned short)

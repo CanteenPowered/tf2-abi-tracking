@@ -1,3 +1,3 @@
 VTable for GCSDK::CProtoBufMsg<GCQuestStrangeEvent>:
-    [0] GCSDK::CProtoBufMsg<GCQuestStrangeEvent>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<GCQuestStrangeEvent>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<GCQuestStrangeEvent>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<GCQuestStrangeEvent>::GetGenericBody() const

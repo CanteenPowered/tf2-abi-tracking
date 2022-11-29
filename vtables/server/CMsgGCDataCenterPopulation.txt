@@ -1,20 +1,20 @@
 VTable for CMsgGCDataCenterPopulation:
-    [0] CMsgGCDataCenterPopulation::~CMsgGCDataCenterPopulation()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCDataCenterPopulation::New() const
-    [3] CMsgGCDataCenterPopulation::Clear()
-    [4] CMsgGCDataCenterPopulation::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCDataCenterPopulation::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCDataCenterPopulation::ByteSize() const
-    [9] CMsgGCDataCenterPopulation::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCDataCenterPopulation::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCDataCenterPopulation::GetCachedSize() const
-    [12] CMsgGCDataCenterPopulation::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCDataCenterPopulation::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCDataCenterPopulation::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCDataCenterPopulation::GetMetadata() const
+    CMsgGCDataCenterPopulation::~CMsgGCDataCenterPopulation()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCDataCenterPopulation::New() const
+    CMsgGCDataCenterPopulation::Clear()
+    CMsgGCDataCenterPopulation::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCDataCenterPopulation::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCDataCenterPopulation::ByteSize() const
+    CMsgGCDataCenterPopulation::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCDataCenterPopulation::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCDataCenterPopulation::GetCachedSize() const
+    CMsgGCDataCenterPopulation::CopyFrom(google::protobuf::Message const&)
+    CMsgGCDataCenterPopulation::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCDataCenterPopulation::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCDataCenterPopulation::GetMetadata() const

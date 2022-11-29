@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFGameRulesProxy>:
-    [0] CEntityFactory<CTFGameRulesProxy>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFGameRulesProxy>::GetEntitySize()
+    CEntityFactory<CTFGameRulesProxy>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFGameRulesProxy>::GetEntitySize()

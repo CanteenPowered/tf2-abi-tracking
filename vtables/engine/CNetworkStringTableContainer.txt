@@ -1,9 +1,9 @@
 VTable for CNetworkStringTableContainer:
-    [0] CNetworkStringTableContainer::~CNetworkStringTableContainer()
-    [1] CNetworkStringTableContainer::CreateStringTable(char const*, int, int, int)
-    [2] CNetworkStringTableContainer::RemoveAllTables()
-    [3] CNetworkStringTableContainer::FindTable(char const*) const
-    [4] CNetworkStringTableContainer::GetTable(int) const
-    [5] CNetworkStringTableContainer::GetNumTables() const
-    [6] CNetworkStringTableContainer::CreateStringTableEx(char const*, int, int, int, bool)
-    [7] CNetworkStringTableContainer::SetAllowClientSideAddString(INetworkStringTable*, bool)
+    CNetworkStringTableContainer::~CNetworkStringTableContainer()
+    CNetworkStringTableContainer::CreateStringTable(char const*, int, int, int)
+    CNetworkStringTableContainer::RemoveAllTables()
+    CNetworkStringTableContainer::FindTable(char const*) const
+    CNetworkStringTableContainer::GetTable(int) const
+    CNetworkStringTableContainer::GetNumTables() const
+    CNetworkStringTableContainer::CreateStringTableEx(char const*, int, int, int, bool)
+    CNetworkStringTableContainer::SetAllowClientSideAddString(INetworkStringTable*, bool)

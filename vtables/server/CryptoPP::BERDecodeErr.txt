@@ -1,3 +1,3 @@
 VTable for CryptoPP::BERDecodeErr:
-    [0] CryptoPP::BERDecodeErr::~BERDecodeErr()
-    [1] CryptoPP::Exception::what() const
+    CryptoPP::BERDecodeErr::~BERDecodeErr()
+    CryptoPP::Exception::what() const

@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CRopeKeyframe>:
-    [0] CEntityFactory<CRopeKeyframe>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CRopeKeyframe>::GetEntitySize()
+    CEntityFactory<CRopeKeyframe>::Destroy(IServerNetworkable*)
+    CEntityFactory<CRopeKeyframe>::GetEntitySize()

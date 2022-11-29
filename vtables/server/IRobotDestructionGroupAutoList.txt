@@ -1,2 +1,2 @@
 VTable for IRobotDestructionGroupAutoList:
-    [0] IRobotDestructionGroupAutoList::~IRobotDestructionGroupAutoList()
+    IRobotDestructionGroupAutoList::~IRobotDestructionGroupAutoList()

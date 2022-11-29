@@ -1,20 +1,20 @@
 VTable for CSOEconGameAccountClient:
-    [0] CSOEconGameAccountClient::~CSOEconGameAccountClient()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CSOEconGameAccountClient::New() const
-    [3] CSOEconGameAccountClient::Clear()
-    [4] CSOEconGameAccountClient::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CSOEconGameAccountClient::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CSOEconGameAccountClient::ByteSize() const
-    [9] CSOEconGameAccountClient::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CSOEconGameAccountClient::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CSOEconGameAccountClient::GetCachedSize() const
-    [12] CSOEconGameAccountClient::CopyFrom(google::protobuf::Message const&)
-    [13] CSOEconGameAccountClient::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CSOEconGameAccountClient::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CSOEconGameAccountClient::GetMetadata() const
+    CSOEconGameAccountClient::~CSOEconGameAccountClient()
+    google::protobuf::Message::GetTypeName() const
+    CSOEconGameAccountClient::New() const
+    CSOEconGameAccountClient::Clear()
+    CSOEconGameAccountClient::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CSOEconGameAccountClient::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CSOEconGameAccountClient::ByteSize() const
+    CSOEconGameAccountClient::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CSOEconGameAccountClient::SerializeWithCachedSizesToArray(unsigned char*) const
+    CSOEconGameAccountClient::GetCachedSize() const
+    CSOEconGameAccountClient::CopyFrom(google::protobuf::Message const&)
+    CSOEconGameAccountClient::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CSOEconGameAccountClient::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CSOEconGameAccountClient::GetMetadata() const

@@ -1,6 +1,6 @@
 VTable for CryptoPP::PrivateKeyAlgorithm:
-    [0] CryptoPP::PrivateKeyAlgorithm::~PrivateKeyAlgorithm()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::PrivateKeyAlgorithm::AccessMaterial()
-    [4] CryptoPP::PrivateKeyAlgorithm::GetMaterial() const
+    CryptoPP::PrivateKeyAlgorithm::~PrivateKeyAlgorithm()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::PrivateKeyAlgorithm::AccessMaterial()
+    CryptoPP::PrivateKeyAlgorithm::GetMaterial() const

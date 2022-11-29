@@ -1,63 +1,63 @@
 VTable for CryptoPP::PK_MessageAccumulatorImpl<CryptoPP::SHA1>:
-    [0] CryptoPP::PK_MessageAccumulatorImpl<CryptoPP::SHA1>::~PK_MessageAccumulatorImpl()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::PK_MessageAccumulatorBase::Update(unsigned char const*, unsigned int)
-    [4] CryptoPP::HashTransformation::CreateUpdateSpace(unsigned int&)
-    [5] CryptoPP::HashTransformation::Final(unsigned char*)
-    [6] CryptoPP::HashTransformation::Restart()
-    [7] CryptoPP::PK_MessageAccumulator::DigestSize() const
-    [8] CryptoPP::HashTransformation::BlockSize() const
-    [9] CryptoPP::HashTransformation::OptimalBlockSize() const
-    [10] CryptoPP::HashTransformation::OptimalDataAlignment() const
-    [11] CryptoPP::HashTransformation::CalculateDigest(unsigned char*, unsigned char const*, unsigned int)
-    [12] CryptoPP::HashTransformation::Verify(unsigned char const*)
-    [13] CryptoPP::HashTransformation::VerifyDigest(unsigned char const*, unsigned char const*, unsigned int)
-    [14] CryptoPP::PK_MessageAccumulator::TruncatedFinal(unsigned char*, unsigned int)
-    [15] CryptoPP::HashTransformation::CalculateTruncatedDigest(unsigned char*, unsigned int, unsigned char const*, unsigned int)
-    [16] CryptoPP::HashTransformation::TruncatedVerify(unsigned char const*, unsigned int)
-    [17] CryptoPP::HashTransformation::VerifyTruncatedDigest(unsigned char const*, unsigned int, unsigned char const*, unsigned int)
-    [18] CryptoPP::PK_MessageAccumulatorImpl<CryptoPP::SHA1>::AccessHash()
+    CryptoPP::PK_MessageAccumulatorImpl<CryptoPP::SHA1>::~PK_MessageAccumulatorImpl()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::PK_MessageAccumulatorBase::Update(unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::CreateUpdateSpace(unsigned int&)
+    CryptoPP::HashTransformation::Final(unsigned char*)
+    CryptoPP::HashTransformation::Restart()
+    CryptoPP::PK_MessageAccumulator::DigestSize() const
+    CryptoPP::HashTransformation::BlockSize() const
+    CryptoPP::HashTransformation::OptimalBlockSize() const
+    CryptoPP::HashTransformation::OptimalDataAlignment() const
+    CryptoPP::HashTransformation::CalculateDigest(unsigned char*, unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::Verify(unsigned char const*)
+    CryptoPP::HashTransformation::VerifyDigest(unsigned char const*, unsigned char const*, unsigned int)
+    CryptoPP::PK_MessageAccumulator::TruncatedFinal(unsigned char*, unsigned int)
+    CryptoPP::HashTransformation::CalculateTruncatedDigest(unsigned char*, unsigned int, unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::TruncatedVerify(unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::VerifyTruncatedDigest(unsigned char const*, unsigned int, unsigned char const*, unsigned int)
+    CryptoPP::PK_MessageAccumulatorImpl<CryptoPP::SHA1>::AccessHash()
 VTable for CryptoPP::PK_MessageAccumulator:
-    [0] CryptoPP::PK_MessageAccumulator::~PK_MessageAccumulator()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::PK_MessageAccumulator::~PK_MessageAccumulator()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
 VTable for CryptoPP::PK_MessageAccumulatorBase:
-    [0] CryptoPP::PK_MessageAccumulatorBase::~PK_MessageAccumulatorBase()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::PK_MessageAccumulatorBase::Update(unsigned char const*, unsigned int)
-    [4] CryptoPP::HashTransformation::CreateUpdateSpace(unsigned int&)
-    [5] CryptoPP::HashTransformation::Final(unsigned char*)
-    [6] CryptoPP::HashTransformation::Restart()
-    [7] CryptoPP::PK_MessageAccumulator::DigestSize() const
-    [8] CryptoPP::HashTransformation::BlockSize() const
-    [9] CryptoPP::HashTransformation::OptimalBlockSize() const
-    [10] CryptoPP::HashTransformation::OptimalDataAlignment() const
-    [11] CryptoPP::HashTransformation::CalculateDigest(unsigned char*, unsigned char const*, unsigned int)
-    [12] CryptoPP::HashTransformation::Verify(unsigned char const*)
-    [13] CryptoPP::HashTransformation::VerifyDigest(unsigned char const*, unsigned char const*, unsigned int)
-    [14] CryptoPP::PK_MessageAccumulator::TruncatedFinal(unsigned char*, unsigned int)
-    [15] CryptoPP::HashTransformation::CalculateTruncatedDigest(unsigned char*, unsigned int, unsigned char const*, unsigned int)
-    [16] CryptoPP::HashTransformation::TruncatedVerify(unsigned char const*, unsigned int)
-    [17] CryptoPP::HashTransformation::VerifyTruncatedDigest(unsigned char const*, unsigned int, unsigned char const*, unsigned int)
+    CryptoPP::PK_MessageAccumulatorBase::~PK_MessageAccumulatorBase()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::PK_MessageAccumulatorBase::Update(unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::CreateUpdateSpace(unsigned int&)
+    CryptoPP::HashTransformation::Final(unsigned char*)
+    CryptoPP::HashTransformation::Restart()
+    CryptoPP::PK_MessageAccumulator::DigestSize() const
+    CryptoPP::HashTransformation::BlockSize() const
+    CryptoPP::HashTransformation::OptimalBlockSize() const
+    CryptoPP::HashTransformation::OptimalDataAlignment() const
+    CryptoPP::HashTransformation::CalculateDigest(unsigned char*, unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::Verify(unsigned char const*)
+    CryptoPP::HashTransformation::VerifyDigest(unsigned char const*, unsigned char const*, unsigned int)
+    CryptoPP::PK_MessageAccumulator::TruncatedFinal(unsigned char*, unsigned int)
+    CryptoPP::HashTransformation::CalculateTruncatedDigest(unsigned char*, unsigned int, unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::TruncatedVerify(unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::VerifyTruncatedDigest(unsigned char const*, unsigned int, unsigned char const*, unsigned int)
 VTable for CryptoPP::PK_MessageAccumulatorImpl<CryptoPP::SHA256>:
-    [0] CryptoPP::PK_MessageAccumulatorImpl<CryptoPP::SHA256>::~PK_MessageAccumulatorImpl()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::PK_MessageAccumulatorBase::Update(unsigned char const*, unsigned int)
-    [4] CryptoPP::HashTransformation::CreateUpdateSpace(unsigned int&)
-    [5] CryptoPP::HashTransformation::Final(unsigned char*)
-    [6] CryptoPP::HashTransformation::Restart()
-    [7] CryptoPP::PK_MessageAccumulator::DigestSize() const
-    [8] CryptoPP::HashTransformation::BlockSize() const
-    [9] CryptoPP::HashTransformation::OptimalBlockSize() const
-    [10] CryptoPP::HashTransformation::OptimalDataAlignment() const
-    [11] CryptoPP::HashTransformation::CalculateDigest(unsigned char*, unsigned char const*, unsigned int)
-    [12] CryptoPP::HashTransformation::Verify(unsigned char const*)
-    [13] CryptoPP::HashTransformation::VerifyDigest(unsigned char const*, unsigned char const*, unsigned int)
-    [14] CryptoPP::PK_MessageAccumulator::TruncatedFinal(unsigned char*, unsigned int)
-    [15] CryptoPP::HashTransformation::CalculateTruncatedDigest(unsigned char*, unsigned int, unsigned char const*, unsigned int)
-    [16] CryptoPP::HashTransformation::TruncatedVerify(unsigned char const*, unsigned int)
-    [17] CryptoPP::HashTransformation::VerifyTruncatedDigest(unsigned char const*, unsigned int, unsigned char const*, unsigned int)
-    [18] CryptoPP::PK_MessageAccumulatorImpl<CryptoPP::SHA256>::AccessHash()
+    CryptoPP::PK_MessageAccumulatorImpl<CryptoPP::SHA256>::~PK_MessageAccumulatorImpl()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::PK_MessageAccumulatorBase::Update(unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::CreateUpdateSpace(unsigned int&)
+    CryptoPP::HashTransformation::Final(unsigned char*)
+    CryptoPP::HashTransformation::Restart()
+    CryptoPP::PK_MessageAccumulator::DigestSize() const
+    CryptoPP::HashTransformation::BlockSize() const
+    CryptoPP::HashTransformation::OptimalBlockSize() const
+    CryptoPP::HashTransformation::OptimalDataAlignment() const
+    CryptoPP::HashTransformation::CalculateDigest(unsigned char*, unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::Verify(unsigned char const*)
+    CryptoPP::HashTransformation::VerifyDigest(unsigned char const*, unsigned char const*, unsigned int)
+    CryptoPP::PK_MessageAccumulator::TruncatedFinal(unsigned char*, unsigned int)
+    CryptoPP::HashTransformation::CalculateTruncatedDigest(unsigned char*, unsigned int, unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::TruncatedVerify(unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::VerifyTruncatedDigest(unsigned char const*, unsigned int, unsigned char const*, unsigned int)
+    CryptoPP::PK_MessageAccumulatorImpl<CryptoPP::SHA256>::AccessHash()

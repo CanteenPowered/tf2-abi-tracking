@@ -1,2 +1,2 @@
 VTable for CryptoPP::ThreadUserTimer:
-    [0] CryptoPP::ThreadUserTimer::TicksPerSecond()
+    CryptoPP::ThreadUserTimer::TicksPerSecond()

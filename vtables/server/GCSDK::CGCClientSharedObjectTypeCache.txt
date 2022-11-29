@@ -1,13 +1,13 @@
 VTable for GCSDK::CGCClientSharedObjectTypeCache:
-    [0] GCSDK::CGCClientSharedObjectTypeCache::~CGCClientSharedObjectTypeCache()
-    [1] GCSDK::CSharedObjectTypeCache::AddObject(GCSDK::CSharedObject*)
-    [2] GCSDK::CSharedObjectTypeCache::AddObjectClean(GCSDK::CSharedObject*)
-    [3] GCSDK::CSharedObjectTypeCache::RemoveObject(GCSDK::CSharedObject const&)
-    [4] GCSDK::CSharedObjectTypeCache::EnsureCapacity(unsigned int)
-    [5] GCSDK::CSharedObjectTypeCache::Dump() const
+    GCSDK::CGCClientSharedObjectTypeCache::~CGCClientSharedObjectTypeCache()
+    GCSDK::CSharedObjectTypeCache::AddObject(GCSDK::CSharedObject*)
+    GCSDK::CSharedObjectTypeCache::AddObjectClean(GCSDK::CSharedObject*)
+    GCSDK::CSharedObjectTypeCache::RemoveObject(GCSDK::CSharedObject const&)
+    GCSDK::CSharedObjectTypeCache::EnsureCapacity(unsigned int)
+    GCSDK::CSharedObjectTypeCache::Dump() const
 VTable for GCSDK::CGCClientSharedObjectCache:
-    [0] GCSDK::CGCClientSharedObjectCache::~CGCClientSharedObjectCache()
-    [1] GCSDK::CGCClientSharedObjectCache::GetOwner() const
-    [2] GCSDK::CSharedObjectCache::MarkDirty()
-    [3] GCSDK::CSharedObjectCache::Dump() const
-    [4] GCSDK::CGCClientSharedObjectCache::AllocateTypeCache(int) const
+    GCSDK::CGCClientSharedObjectCache::~CGCClientSharedObjectCache()
+    GCSDK::CGCClientSharedObjectCache::GetOwner() const
+    GCSDK::CSharedObjectCache::MarkDirty()
+    GCSDK::CSharedObjectCache::Dump() const
+    GCSDK::CGCClientSharedObjectCache::AllocateTypeCache(int) const

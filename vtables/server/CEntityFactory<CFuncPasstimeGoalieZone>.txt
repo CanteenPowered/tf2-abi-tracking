@@ -1,9 +1,9 @@
 VTable for CEntityFactory<CFuncPasstimeGoal>:
-    [0] CEntityFactory<CFuncPasstimeGoal>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CFuncPasstimeGoal>::GetEntitySize()
+    CEntityFactory<CFuncPasstimeGoal>::Destroy(IServerNetworkable*)
+    CEntityFactory<CFuncPasstimeGoal>::GetEntitySize()
 VTable for CEntityFactory<CFuncPasstimeNoBallZone>:
-    [0] CEntityFactory<CFuncPasstimeNoBallZone>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CFuncPasstimeNoBallZone>::GetEntitySize()
+    CEntityFactory<CFuncPasstimeNoBallZone>::Destroy(IServerNetworkable*)
+    CEntityFactory<CFuncPasstimeNoBallZone>::GetEntitySize()
 VTable for CEntityFactory<CFuncPasstimeGoalieZone>:
-    [0] CEntityFactory<CFuncPasstimeGoalieZone>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CFuncPasstimeGoalieZone>::GetEntitySize()
+    CEntityFactory<CFuncPasstimeGoalieZone>::Destroy(IServerNetworkable*)
+    CEntityFactory<CFuncPasstimeGoalieZone>::GetEntitySize()

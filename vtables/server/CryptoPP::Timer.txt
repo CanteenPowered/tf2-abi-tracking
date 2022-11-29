@@ -1,2 +1,2 @@
 VTable for CryptoPP::Timer:
-    [0] CryptoPP::Timer::TicksPerSecond()
+    CryptoPP::Timer::TicksPerSecond()

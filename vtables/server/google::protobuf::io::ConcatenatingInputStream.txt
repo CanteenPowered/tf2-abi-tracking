@@ -1,6 +1,6 @@
 VTable for google::protobuf::io::ConcatenatingInputStream:
-    [0] google::protobuf::io::ConcatenatingInputStream::~ConcatenatingInputStream()
-    [1] google::protobuf::io::ConcatenatingInputStream::Next(void const**, int*)
-    [2] google::protobuf::io::ConcatenatingInputStream::BackUp(int)
-    [3] google::protobuf::io::ConcatenatingInputStream::Skip(int)
-    [4] google::protobuf::io::ConcatenatingInputStream::ByteCount() const
+    google::protobuf::io::ConcatenatingInputStream::~ConcatenatingInputStream()
+    google::protobuf::io::ConcatenatingInputStream::Next(void const**, int*)
+    google::protobuf::io::ConcatenatingInputStream::BackUp(int)
+    google::protobuf::io::ConcatenatingInputStream::Skip(int)
+    google::protobuf::io::ConcatenatingInputStream::ByteCount() const

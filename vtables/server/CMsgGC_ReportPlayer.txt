@@ -1,20 +1,20 @@
 VTable for CMsgGC_ReportPlayer:
-    [0] CMsgGC_ReportPlayer::~CMsgGC_ReportPlayer()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGC_ReportPlayer::New() const
-    [3] CMsgGC_ReportPlayer::Clear()
-    [4] CMsgGC_ReportPlayer::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGC_ReportPlayer::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGC_ReportPlayer::ByteSize() const
-    [9] CMsgGC_ReportPlayer::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGC_ReportPlayer::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGC_ReportPlayer::GetCachedSize() const
-    [12] CMsgGC_ReportPlayer::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGC_ReportPlayer::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGC_ReportPlayer::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGC_ReportPlayer::GetMetadata() const
+    CMsgGC_ReportPlayer::~CMsgGC_ReportPlayer()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGC_ReportPlayer::New() const
+    CMsgGC_ReportPlayer::Clear()
+    CMsgGC_ReportPlayer::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGC_ReportPlayer::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGC_ReportPlayer::ByteSize() const
+    CMsgGC_ReportPlayer::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGC_ReportPlayer::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGC_ReportPlayer::GetCachedSize() const
+    CMsgGC_ReportPlayer::CopyFrom(google::protobuf::Message const&)
+    CMsgGC_ReportPlayer::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGC_ReportPlayer::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGC_ReportPlayer::GetMetadata() const

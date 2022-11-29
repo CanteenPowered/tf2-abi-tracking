@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFHolidayEntity>:
-    [0] CEntityFactory<CTFHolidayEntity>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFHolidayEntity>::GetEntitySize()
+    CEntityFactory<CTFHolidayEntity>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFHolidayEntity>::GetEntitySize()

@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFGenericBomb>:
-    [0] CEntityFactory<CTFGenericBomb>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFGenericBomb>::GetEntitySize()
+    CEntityFactory<CTFGenericBomb>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFGenericBomb>::GetEntitySize()

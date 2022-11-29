@@ -1,120 +1,120 @@
 VTable for CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>:
-    [0] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::~CTypedProtoBufScriptObjectDefinition()
-    [1] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetMsg() const
-    [2] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetDefType() const
-    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
-    [4] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetTopLayerMessage() const
-    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [7] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetMutableTopLayerMsg()
-    [8] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetMutableMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::~CTypedProtoBufScriptObjectDefinition()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetMsg() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetDefType() const
+    IProtoBufScriptObjectDefinition::GetDisplayName() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetTopLayerMessage() const
+    IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetMutableTopLayerMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetMutableMsg()
 VTable for CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>:
-    [0] CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::~CTypedProtoBufScriptObjectDefinition()
-    [1] CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetMsg() const
-    [2] CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetDefType() const
-    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
-    [4] CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetTopLayerMessage() const
-    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [7] CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetMutableTopLayerMsg()
-    [8] CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetMutableMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::~CTypedProtoBufScriptObjectDefinition()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetMsg() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetDefType() const
+    IProtoBufScriptObjectDefinition::GetDisplayName() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetTopLayerMessage() const
+    IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetMutableTopLayerMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetMutableMsg()
 VTable for CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>:
-    [0] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::~CTypedProtoBufScriptObjectDefinition()
-    [1] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetMsg() const
-    [2] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetDefType() const
-    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
-    [4] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetTopLayerMessage() const
-    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [7] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetMutableTopLayerMsg()
-    [8] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetMutableMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::~CTypedProtoBufScriptObjectDefinition()
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetMsg() const
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetDefType() const
+    IProtoBufScriptObjectDefinition::GetDisplayName() const
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetTopLayerMessage() const
+    IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetMutableTopLayerMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetMutableMsg()
 VTable for CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>:
-    [0] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::~CTypedProtoBufScriptObjectDefinition()
-    [1] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetMsg() const
-    [2] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetDefType() const
-    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
-    [4] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetTopLayerMessage() const
-    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [7] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetMutableTopLayerMsg()
-    [8] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetMutableMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::~CTypedProtoBufScriptObjectDefinition()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetMsg() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetDefType() const
+    IProtoBufScriptObjectDefinition::GetDisplayName() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetTopLayerMessage() const
+    IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetMutableTopLayerMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetMutableMsg()
 VTable for CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>:
-    [0] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::~CTypedProtoBufScriptObjectDefinition()
-    [1] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetMsg() const
-    [2] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetDefType() const
-    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
-    [4] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetTopLayerMessage() const
-    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [7] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetMutableTopLayerMsg()
-    [8] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetMutableMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::~CTypedProtoBufScriptObjectDefinition()
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetMsg() const
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetDefType() const
+    IProtoBufScriptObjectDefinition::GetDisplayName() const
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetTopLayerMessage() const
+    IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetMutableTopLayerMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetMutableMsg()
 VTable for CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>:
-    [0] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::~CTypedProtoBufScriptObjectDefinition()
-    [1] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetMsg() const
-    [2] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetDefType() const
-    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
-    [4] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetTopLayerMessage() const
-    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [7] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetMutableTopLayerMsg()
-    [8] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetMutableMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::~CTypedProtoBufScriptObjectDefinition()
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetMsg() const
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetDefType() const
+    IProtoBufScriptObjectDefinition::GetDisplayName() const
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetTopLayerMessage() const
+    IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetMutableTopLayerMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetMutableMsg()
 VTable for CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>:
-    [0] CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::~CTypedProtoBufScriptObjectDefinition()
-    [1] CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetMsg() const
-    [2] CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetDefType() const
-    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
-    [4] CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetTopLayerMessage() const
-    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [7] CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetMutableTopLayerMsg()
-    [8] CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetMutableMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::~CTypedProtoBufScriptObjectDefinition()
+    CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetMsg() const
+    CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetDefType() const
+    IProtoBufScriptObjectDefinition::GetDisplayName() const
+    CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetTopLayerMessage() const
+    IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetMutableTopLayerMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgHeaderOnly, (ProtoDefTypes)10>::GetMutableMsg()
 VTable for CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>:
-    [0] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::~CTypedProtoBufScriptObjectDefinition()
-    [1] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetMsg() const
-    [2] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetDefType() const
-    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
-    [4] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetTopLayerMessage() const
-    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [7] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetMutableTopLayerMsg()
-    [8] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetMutableMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::~CTypedProtoBufScriptObjectDefinition()
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetMsg() const
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetDefType() const
+    IProtoBufScriptObjectDefinition::GetDisplayName() const
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetTopLayerMessage() const
+    IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetMutableTopLayerMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Variables, (ProtoDefTypes)6>::GetMutableMsg()
 VTable for CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>:
-    [0] CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::~CTypedProtoBufScriptObjectDefinition()
-    [1] CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetMsg() const
-    [2] CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetDefType() const
-    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
-    [4] CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetTopLayerMessage() const
-    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [7] CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetMutableTopLayerMsg()
-    [8] CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetMutableMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::~CTypedProtoBufScriptObjectDefinition()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetMsg() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetDefType() const
+    IProtoBufScriptObjectDefinition::GetDisplayName() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetTopLayerMessage() const
+    IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetMutableTopLayerMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestObjectiveDef, (ProtoDefTypes)5>::GetMutableMsg()
 VTable for CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStoreItem, (ProtoDefTypes)11>:
-    [0] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStoreItem, (ProtoDefTypes)11>::~CTypedProtoBufScriptObjectDefinition()
-    [1] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStoreItem, (ProtoDefTypes)11>::GetMsg() const
-    [2] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStoreItem, (ProtoDefTypes)11>::GetDefType() const
-    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
-    [4] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStoreItem, (ProtoDefTypes)11>::GetTopLayerMessage() const
-    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [7] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStoreItem, (ProtoDefTypes)11>::GetMutableTopLayerMsg()
-    [8] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStoreItem, (ProtoDefTypes)11>::GetMutableMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStoreItem, (ProtoDefTypes)11>::~CTypedProtoBufScriptObjectDefinition()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStoreItem, (ProtoDefTypes)11>::GetMsg() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStoreItem, (ProtoDefTypes)11>::GetDefType() const
+    IProtoBufScriptObjectDefinition::GetDisplayName() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStoreItem, (ProtoDefTypes)11>::GetTopLayerMessage() const
+    IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStoreItem, (ProtoDefTypes)11>::GetMutableTopLayerMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStoreItem, (ProtoDefTypes)11>::GetMutableMsg()
 VTable for CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>:
-    [0] CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::~CTypedProtoBufScriptObjectDefinition()
-    [1] CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMsg() const
-    [2] CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetDefType() const
-    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
-    [4] CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetTopLayerMessage() const
-    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [7] CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMutableTopLayerMsg()
-    [8] CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMutableMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::~CTypedProtoBufScriptObjectDefinition()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMsg() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetDefType() const
+    IProtoBufScriptObjectDefinition::GetDisplayName() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetTopLayerMessage() const
+    IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMutableTopLayerMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMutableMsg()
 VTable for CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>:
-    [0] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::~CTypedProtoBufScriptObjectDefinition()
-    [1] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetMsg() const
-    [2] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetDefType() const
-    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
-    [4] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetTopLayerMessage() const
-    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [7] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetMutableTopLayerMsg()
-    [8] CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetMutableMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::~CTypedProtoBufScriptObjectDefinition()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetMsg() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetDefType() const
+    IProtoBufScriptObjectDefinition::GetDisplayName() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetTopLayerMessage() const
+    IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetMutableTopLayerMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetMutableMsg()

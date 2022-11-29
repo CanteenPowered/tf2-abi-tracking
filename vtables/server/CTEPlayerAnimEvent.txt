@@ -1,7 +1,7 @@
 VTable for CTEPlayerAnimEvent:
-    [0] CTEPlayerAnimEvent::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEPlayerAnimEvent::~CTEPlayerAnimEvent()
-    [2] CTEPlayerAnimEvent::~CTEPlayerAnimEvent()
-    [3] CBaseTempEntity::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTEPlayerAnimEvent::YouForgotToImplementOrDeclareServerClass()
+    CTEPlayerAnimEvent::~CTEPlayerAnimEvent()
+    CTEPlayerAnimEvent::~CTEPlayerAnimEvent()
+    CBaseTempEntity::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

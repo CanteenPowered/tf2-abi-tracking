@@ -1,2 +1,2 @@
 VTable for IEntityDataInstantiator:
-    [0] IEntityDataInstantiator::~IEntityDataInstantiator()
+    IEntityDataInstantiator::~IEntityDataInstantiator()

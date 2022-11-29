@@ -1,7 +1,7 @@
 VTable for CEconLootListDefinition:
-    [0] CEconLootListDefinition::~CEconLootListDefinition()
-    [1] CEconLootListDefinition::BPublicListContents() const
-    [2] CEconLootListDefinition::GetLootListHeaderLocalizationKey() const
-    [3] CEconLootListDefinition::GetLootListFooterLocalizationKey() const
-    [4] CEconLootListDefinition::GetLootListCollectionReference() const
-    [5] CEconLootListDefinition::EnumerateUserFacingPotentialDrops(IEconLootList::IEconLootListIterator*) const
+    CEconLootListDefinition::~CEconLootListDefinition()
+    CEconLootListDefinition::BPublicListContents() const
+    CEconLootListDefinition::GetLootListHeaderLocalizationKey() const
+    CEconLootListDefinition::GetLootListFooterLocalizationKey() const
+    CEconLootListDefinition::GetLootListCollectionReference() const
+    CEconLootListDefinition::EnumerateUserFacingPotentialDrops(IEconLootList::IEconLootListIterator*) const

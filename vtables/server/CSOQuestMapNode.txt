@@ -1,20 +1,20 @@
 VTable for CSOQuestMapNode:
-    [0] CSOQuestMapNode::~CSOQuestMapNode()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CSOQuestMapNode::New() const
-    [3] CSOQuestMapNode::Clear()
-    [4] CSOQuestMapNode::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CSOQuestMapNode::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CSOQuestMapNode::ByteSize() const
-    [9] CSOQuestMapNode::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CSOQuestMapNode::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CSOQuestMapNode::GetCachedSize() const
-    [12] CSOQuestMapNode::CopyFrom(google::protobuf::Message const&)
-    [13] CSOQuestMapNode::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CSOQuestMapNode::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CSOQuestMapNode::GetMetadata() const
+    CSOQuestMapNode::~CSOQuestMapNode()
+    google::protobuf::Message::GetTypeName() const
+    CSOQuestMapNode::New() const
+    CSOQuestMapNode::Clear()
+    CSOQuestMapNode::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CSOQuestMapNode::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CSOQuestMapNode::ByteSize() const
+    CSOQuestMapNode::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CSOQuestMapNode::SerializeWithCachedSizesToArray(unsigned char*) const
+    CSOQuestMapNode::GetCachedSize() const
+    CSOQuestMapNode::CopyFrom(google::protobuf::Message const&)
+    CSOQuestMapNode::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CSOQuestMapNode::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CSOQuestMapNode::GetMetadata() const

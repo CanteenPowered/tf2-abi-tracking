@@ -1,16 +1,16 @@
 VTable for SVC_GameEventList:
-    [0] SVC_GameEventList::~SVC_GameEventList()
-    [1] CNetMessage::SetNetChannel(INetChannel*)
-    [2] CNetMessage::SetReliable(bool)
-    [3] SVC_GameEventList::Process()
-    [4] SVC_GameEventList::ReadFromBuffer(bf_read&)
-    [5] SVC_GameEventList::WriteToBuffer(bf_write&)
-    [6] CNetMessage::IsReliable() const
-    [7] SVC_GameEventList::GetType() const
-    [8] CNetMessage::GetGroup() const
-    [9] SVC_GameEventList::GetName() const
-    [10] CNetMessage::GetNetChannel() const
-    [11] SVC_GameEventList::ToString() const
-    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
-    [13] SVC_GameEventList::GetSize() const
-    [14] CNetMessage::SetRatePolicy()
+    SVC_GameEventList::~SVC_GameEventList()
+    CNetMessage::SetNetChannel(INetChannel*)
+    CNetMessage::SetReliable(bool)
+    SVC_GameEventList::Process()
+    SVC_GameEventList::ReadFromBuffer(bf_read&)
+    SVC_GameEventList::WriteToBuffer(bf_write&)
+    CNetMessage::IsReliable() const
+    SVC_GameEventList::GetType() const
+    CNetMessage::GetGroup() const
+    SVC_GameEventList::GetName() const
+    CNetMessage::GetNetChannel() const
+    SVC_GameEventList::ToString() const
+    CNetMessage::BIncomingMessageForProcessing(double, int)
+    SVC_GameEventList::GetSize() const
+    CNetMessage::SetRatePolicy()

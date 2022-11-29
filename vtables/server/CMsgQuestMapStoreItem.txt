@@ -1,20 +1,20 @@
 VTable for CMsgQuestMapStoreItem:
-    [0] CMsgQuestMapStoreItem::~CMsgQuestMapStoreItem()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgQuestMapStoreItem::New() const
-    [3] CMsgQuestMapStoreItem::Clear()
-    [4] CMsgQuestMapStoreItem::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgQuestMapStoreItem::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgQuestMapStoreItem::ByteSize() const
-    [9] CMsgQuestMapStoreItem::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgQuestMapStoreItem::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgQuestMapStoreItem::GetCachedSize() const
-    [12] CMsgQuestMapStoreItem::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgQuestMapStoreItem::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgQuestMapStoreItem::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgQuestMapStoreItem::GetMetadata() const
+    CMsgQuestMapStoreItem::~CMsgQuestMapStoreItem()
+    google::protobuf::Message::GetTypeName() const
+    CMsgQuestMapStoreItem::New() const
+    CMsgQuestMapStoreItem::Clear()
+    CMsgQuestMapStoreItem::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgQuestMapStoreItem::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgQuestMapStoreItem::ByteSize() const
+    CMsgQuestMapStoreItem::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgQuestMapStoreItem::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgQuestMapStoreItem::GetCachedSize() const
+    CMsgQuestMapStoreItem::CopyFrom(google::protobuf::Message const&)
+    CMsgQuestMapStoreItem::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgQuestMapStoreItem::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgQuestMapStoreItem::GetMetadata() const

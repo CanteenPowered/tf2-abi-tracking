@@ -1,10 +1,10 @@
 VTable for CNetworkStringFilenameDict:
-    [0] CNetworkStringFilenameDict::~CNetworkStringFilenameDict()
-    [1] CNetworkStringFilenameDict::Count()
-    [2] CNetworkStringFilenameDict::Purge()
-    [3] CNetworkStringFilenameDict::String(int)
-    [4] CNetworkStringFilenameDict::IsValidIndex(int)
-    [5] CNetworkStringFilenameDict::Insert(char const*)
-    [6] CNetworkStringFilenameDict::Find(char const*)
-    [7] CNetworkStringFilenameDict::Element(int)
-    [8] CNetworkStringFilenameDict::Element(int) const
+    CNetworkStringFilenameDict::~CNetworkStringFilenameDict()
+    CNetworkStringFilenameDict::Count()
+    CNetworkStringFilenameDict::Purge()
+    CNetworkStringFilenameDict::String(int)
+    CNetworkStringFilenameDict::IsValidIndex(int)
+    CNetworkStringFilenameDict::Insert(char const*)
+    CNetworkStringFilenameDict::Find(char const*)
+    CNetworkStringFilenameDict::Element(int)
+    CNetworkStringFilenameDict::Element(int) const

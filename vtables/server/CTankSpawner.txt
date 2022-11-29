@@ -1,12 +1,12 @@
 VTable for CTankSpawner:
-    [0] CTankSpawner::~CTankSpawner()
-    [1] CTankSpawner::Parse(KeyValues*)
-    [2] CTankSpawner::Spawn(Vector const&, CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>*)
-    [3] CTankSpawner::IsWhereRequired() const
-    [4] IPopulationSpawner::IsVarious()
-    [5] IPopulationSpawner::GetClass(int)
-    [6] CTankSpawner::GetClassIcon(int)
-    [7] CTankSpawner::GetHealth(int)
-    [8] CTankSpawner::IsMiniBoss(int)
-    [9] IPopulationSpawner::HasAttribute(CTFBot::AttributeType, int)
-    [10] CTankSpawner::HasEventChangeAttributes(char const*) const
+    CTankSpawner::~CTankSpawner()
+    CTankSpawner::Parse(KeyValues*)
+    CTankSpawner::Spawn(Vector const&, CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>*)
+    CTankSpawner::IsWhereRequired() const
+    IPopulationSpawner::IsVarious()
+    IPopulationSpawner::GetClass(int)
+    CTankSpawner::GetClassIcon(int)
+    CTankSpawner::GetHealth(int)
+    CTankSpawner::IsMiniBoss(int)
+    IPopulationSpawner::HasAttribute(CTFBot::AttributeType, int)
+    CTankSpawner::HasEventChangeAttributes(char const*) const

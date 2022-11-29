@@ -1,2 +1,2 @@
 VTable for google::protobuf::MessageLite:
-    [0] google::protobuf::MessageLite::~MessageLite()
+    google::protobuf::MessageLite::~MessageLite()

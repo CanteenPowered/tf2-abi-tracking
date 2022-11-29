@@ -1,6 +1,6 @@
 VTable for CryptoPP::Filter:
-    [0] CryptoPP::Filter::~Filter()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
-    [4] CryptoPP::BufferedTransformation::CanModifyInput() const
+    CryptoPP::Filter::~Filter()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    CryptoPP::BufferedTransformation::CanModifyInput() const

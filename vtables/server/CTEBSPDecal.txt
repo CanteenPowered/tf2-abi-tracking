@@ -1,7 +1,7 @@
 VTable for CTEBSPDecal:
-    [0] CTEBSPDecal::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEBSPDecal::~CTEBSPDecal()
-    [2] CTEBSPDecal::~CTEBSPDecal()
-    [3] CTEBSPDecal::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTEBSPDecal::YouForgotToImplementOrDeclareServerClass()
+    CTEBSPDecal::~CTEBSPDecal()
+    CTEBSPDecal::~CTEBSPDecal()
+    CTEBSPDecal::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

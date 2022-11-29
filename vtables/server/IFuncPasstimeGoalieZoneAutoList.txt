@@ -1,2 +1,2 @@
 VTable for IFuncPasstimeGoalieZoneAutoList:
-    [0] IFuncPasstimeGoalieZoneAutoList::~IFuncPasstimeGoalieZoneAutoList()
+    IFuncPasstimeGoalieZoneAutoList::~IFuncPasstimeGoalieZoneAutoList()

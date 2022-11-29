@@ -1,2 +1,2 @@
 VTable for CryptoPP::CFB_CipherAbstractPolicy:
-    [0] CryptoPP::CFB_CipherAbstractPolicy::~CFB_CipherAbstractPolicy()
+    CryptoPP::CFB_CipherAbstractPolicy::~CFB_CipherAbstractPolicy()

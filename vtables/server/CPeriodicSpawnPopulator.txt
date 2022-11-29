@@ -1,8 +1,8 @@
 VTable for CPeriodicSpawnPopulator:
-    [0] CPeriodicSpawnPopulator::~CPeriodicSpawnPopulator()
-    [1] CPeriodicSpawnPopulator::Parse(KeyValues*)
-    [2] CPeriodicSpawnPopulator::PostInitialize()
-    [3] CPeriodicSpawnPopulator::Update()
-    [4] CPeriodicSpawnPopulator::UnpauseSpawning()
-    [5] IPopulator::OnPlayerKilled(CTFPlayer*)
-    [6] IPopulator::HasEventChangeAttributes(char const*) const
+    CPeriodicSpawnPopulator::~CPeriodicSpawnPopulator()
+    CPeriodicSpawnPopulator::Parse(KeyValues*)
+    CPeriodicSpawnPopulator::PostInitialize()
+    CPeriodicSpawnPopulator::Update()
+    CPeriodicSpawnPopulator::UnpauseSpawning()
+    IPopulator::OnPlayerKilled(CTFPlayer*)
+    IPopulator::HasEventChangeAttributes(char const*) const

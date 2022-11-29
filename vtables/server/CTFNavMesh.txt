@@ -1,39 +1,39 @@
 VTable for CTFNavMesh:
-    [0] CTFNavMesh::~CTFNavMesh()
-    [1] CTFNavMesh::FireGameEvent(IGameEvent*)
-    [2] CNavMesh::PreLoadAreas(int)
-    [3] CTFNavMesh::CreateArea() const
-    [4] CNavMesh::DestroyArea(CNavArea*) const
-    [5] CNavMesh::CreateHidingSpot() const
-    [6] CNavMesh::Reset()
-    [7] CTFNavMesh::Update()
-    [8] CNavMesh::Load()
-    [9] CNavMesh::PostLoad(unsigned int)
-    [10] CTFNavMesh::IsAuthoritative() const
-    [11] CNavMesh::Save() const
-    [12] CTFNavMesh::GetSubVersionNumber() const
-    [13] CTFNavMesh::SaveCustomData(CUtlBuffer&) const
-    [14] CTFNavMesh::LoadCustomData(CUtlBuffer&, unsigned int)
-    [15] CNavMesh::SaveCustomDataPreArea(CUtlBuffer&) const
-    [16] CNavMesh::LoadCustomDataPreArea(CUtlBuffer&, unsigned int)
-    [17] CTFNavMesh::OnServerActivate()
-    [18] CTFNavMesh::OnRoundRestart()
-    [19] CNavMesh::OnRoundRestartPreEntity()
-    [20] CNavMesh::OnBreakableCreated(CBaseEntity*)
-    [21] CNavMesh::OnBreakableBroken(CBaseEntity*)
-    [22] CNavMesh::OnAreaBlocked(CNavArea*)
-    [23] CNavMesh::OnAreaUnblocked(CNavArea*)
-    [24] CNavMesh::OnAvoidanceObstacleEnteredArea(CNavArea*)
-    [25] CNavMesh::OnAvoidanceObstacleLeftArea(CNavArea*)
-    [26] CNavMesh::OnEditCreateNotify(CNavArea*)
-    [27] CNavMesh::OnEditDestroyNotify(CNavArea*)
-    [28] CNavMesh::OnEditDestroyNotify(CNavLadder*)
-    [29] CNavMesh::OnNodeAdded(CNavNode*)
-    [30] CNavMesh::AddWalkableSeeds()
-    [31] CTFNavMesh::GetGenerationTraceMask() const
-    [32] CNavMesh::CommandNavFloodSelect(CCommand const&)
-    [33] CTFNavMesh::PostCustomAnalysis()
-    [34] CNavMesh::RemoveNavArea(CNavArea*)
-    [35] CTFNavMesh::BeginCustomAnalysis(bool)
-    [36] CTFNavMesh::EndCustomAnalysis()
-    [37] CTFNavMesh::OnDoorCreated(CBaseEntity*)
+    CTFNavMesh::~CTFNavMesh()
+    CTFNavMesh::FireGameEvent(IGameEvent*)
+    CNavMesh::PreLoadAreas(int)
+    CTFNavMesh::CreateArea() const
+    CNavMesh::DestroyArea(CNavArea*) const
+    CNavMesh::CreateHidingSpot() const
+    CNavMesh::Reset()
+    CTFNavMesh::Update()
+    CNavMesh::Load()
+    CNavMesh::PostLoad(unsigned int)
+    CTFNavMesh::IsAuthoritative() const
+    CNavMesh::Save() const
+    CTFNavMesh::GetSubVersionNumber() const
+    CTFNavMesh::SaveCustomData(CUtlBuffer&) const
+    CTFNavMesh::LoadCustomData(CUtlBuffer&, unsigned int)
+    CNavMesh::SaveCustomDataPreArea(CUtlBuffer&) const
+    CNavMesh::LoadCustomDataPreArea(CUtlBuffer&, unsigned int)
+    CTFNavMesh::OnServerActivate()
+    CTFNavMesh::OnRoundRestart()
+    CNavMesh::OnRoundRestartPreEntity()
+    CNavMesh::OnBreakableCreated(CBaseEntity*)
+    CNavMesh::OnBreakableBroken(CBaseEntity*)
+    CNavMesh::OnAreaBlocked(CNavArea*)
+    CNavMesh::OnAreaUnblocked(CNavArea*)
+    CNavMesh::OnAvoidanceObstacleEnteredArea(CNavArea*)
+    CNavMesh::OnAvoidanceObstacleLeftArea(CNavArea*)
+    CNavMesh::OnEditCreateNotify(CNavArea*)
+    CNavMesh::OnEditDestroyNotify(CNavArea*)
+    CNavMesh::OnEditDestroyNotify(CNavLadder*)
+    CNavMesh::OnNodeAdded(CNavNode*)
+    CNavMesh::AddWalkableSeeds()
+    CTFNavMesh::GetGenerationTraceMask() const
+    CNavMesh::CommandNavFloodSelect(CCommand const&)
+    CTFNavMesh::PostCustomAnalysis()
+    CNavMesh::RemoveNavArea(CNavArea*)
+    CTFNavMesh::BeginCustomAnalysis(bool)
+    CTFNavMesh::EndCustomAnalysis()
+    CTFNavMesh::OnDoorCreated(CBaseEntity*)

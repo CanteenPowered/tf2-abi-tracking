@@ -1,20 +1,20 @@
 VTable for CMsgPartyRemoveFromQueueResponse:
-    [0] CMsgPartyRemoveFromQueueResponse::~CMsgPartyRemoveFromQueueResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgPartyRemoveFromQueueResponse::New() const
-    [3] CMsgPartyRemoveFromQueueResponse::Clear()
-    [4] CMsgPartyRemoveFromQueueResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgPartyRemoveFromQueueResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgPartyRemoveFromQueueResponse::ByteSize() const
-    [9] CMsgPartyRemoveFromQueueResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgPartyRemoveFromQueueResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgPartyRemoveFromQueueResponse::GetCachedSize() const
-    [12] CMsgPartyRemoveFromQueueResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgPartyRemoveFromQueueResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgPartyRemoveFromQueueResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgPartyRemoveFromQueueResponse::GetMetadata() const
+    CMsgPartyRemoveFromQueueResponse::~CMsgPartyRemoveFromQueueResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgPartyRemoveFromQueueResponse::New() const
+    CMsgPartyRemoveFromQueueResponse::Clear()
+    CMsgPartyRemoveFromQueueResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgPartyRemoveFromQueueResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgPartyRemoveFromQueueResponse::ByteSize() const
+    CMsgPartyRemoveFromQueueResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgPartyRemoveFromQueueResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgPartyRemoveFromQueueResponse::GetCachedSize() const
+    CMsgPartyRemoveFromQueueResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgPartyRemoveFromQueueResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgPartyRemoveFromQueueResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgPartyRemoveFromQueueResponse::GetMetadata() const

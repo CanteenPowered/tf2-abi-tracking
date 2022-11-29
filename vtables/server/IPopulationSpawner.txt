@@ -1,2 +1,2 @@
 VTable for IPopulationSpawner:
-    [0] IPopulationSpawner::~IPopulationSpawner()
+    IPopulationSpawner::~IPopulationSpawner()

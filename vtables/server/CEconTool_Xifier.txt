@@ -1,6 +1,6 @@
 VTable for CEconTool_Xifier:
-    [0] CEconTool_Xifier::~CEconTool_Xifier()
-    [1] CEconTool_Xifier::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
-    [2] IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
-    [3] IEconTool::RequiresToolEscrowPeriod() const
-    [4] IEconTool::BFinishInitialization()
+    CEconTool_Xifier::~CEconTool_Xifier()
+    CEconTool_Xifier::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
+    IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
+    IEconTool::RequiresToolEscrowPeriod() const
+    IEconTool::BFinishInitialization()

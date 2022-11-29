@@ -1,3 +1,3 @@
 VTable for CDateBasedHolidayNoSpecificYear:
-    [0] CDateBasedHolidayNoSpecificYear::~CDateBasedHolidayNoSpecificYear()
-    [1] CDateBasedHolidayNoSpecificYear::IsActive(CRTime const&)
+    CDateBasedHolidayNoSpecificYear::~CDateBasedHolidayNoSpecificYear()
+    CDateBasedHolidayNoSpecificYear::IsActive(CRTime const&)

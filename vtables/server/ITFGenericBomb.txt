@@ -1,2 +1,2 @@
 VTable for ITFGenericBomb:
-    [0] ITFGenericBomb::~ITFGenericBomb()
+    ITFGenericBomb::~ITFGenericBomb()

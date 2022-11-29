@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CGameGibManager>:
-    [0] CEntityFactory<CGameGibManager>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CGameGibManager>::GetEntitySize()
+    CEntityFactory<CGameGibManager>::Destroy(IServerNetworkable*)
+    CEntityFactory<CGameGibManager>::GetEntitySize()

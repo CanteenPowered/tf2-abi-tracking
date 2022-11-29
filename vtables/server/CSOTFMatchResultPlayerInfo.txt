@@ -1,12 +1,12 @@
 VTable for CSOTFMatchResultPlayerInfo:
-    [0] CSOTFMatchResultPlayerInfo::~CSOTFMatchResultPlayerInfo()
-    [1] GCSDK::CProtoBufSharedObject<CSOTFMatchResultPlayerStats, 40, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] GCSDK::CProtoBufSharedObjectBase::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOTFMatchResultPlayerStats, 40, true>::GetPObject()
+    CSOTFMatchResultPlayerInfo::~CSOTFMatchResultPlayerInfo()
+    GCSDK::CProtoBufSharedObject<CSOTFMatchResultPlayerStats, 40, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOTFMatchResultPlayerStats, 40, true>::GetPObject()

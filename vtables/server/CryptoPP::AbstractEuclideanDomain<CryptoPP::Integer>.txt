@@ -1,4 +1,4 @@
 VTable for CryptoPP::AbstractEuclideanDomain<CryptoPP::Integer>:
-    [0] CryptoPP::AbstractEuclideanDomain<CryptoPP::Integer>::~AbstractEuclideanDomain()
+    CryptoPP::AbstractEuclideanDomain<CryptoPP::Integer>::~AbstractEuclideanDomain()
 VTable for CryptoPP::AbstractEuclideanDomain<CryptoPP::PolynomialMod2>:
-    [0] CryptoPP::AbstractEuclideanDomain<CryptoPP::PolynomialMod2>::~AbstractEuclideanDomain()
+    CryptoPP::AbstractEuclideanDomain<CryptoPP::PolynomialMod2>::~AbstractEuclideanDomain()

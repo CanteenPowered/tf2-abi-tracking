@@ -1,23 +1,23 @@
 VTable for CTFWarTrackerManager:
-    [0] CSOTrackerManager::PreSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)
-    [1] CSOTrackerManager::SOUpdated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)
-    [2] CSOTrackerManager::PostSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)
-    [3] CSOTrackerManager::SODestroyed(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)
-    [4] CSOTrackerManager::SOCacheSubscribed(CSteamID const&, GCSDK::ESOCacheEvent)
-    [5] CSOTrackerManager::SOCacheUnsubscribed(CSteamID const&, GCSDK::ESOCacheEvent)
-    [6] CTFWarTrackerManager::~CTFWarTrackerManager()
-    [7] CTFWarTrackerManager::~CTFWarTrackerManager()
-    [8] CSOTrackerManager::Initialize()
-    [9] CSOTrackerManager::Shutdown()
-    [10] CSOTrackerManager::FireGameEvent(IGameEvent*)
-    [11] CSOTrackerManager::FrameUpdatePreEntityThink()
-    [12] CTFWarTrackerManager::GetKeyForObjectTracker(GCSDK::CSharedObject const*, CSteamID)
-    [13] CTFWarTrackerManager::GetType() const
-    [14] CTFWarTrackerManager::GetName() const
-    [15] CTFWarTrackerManager::GetDebugObjectDescription(GCSDK::CSharedObject const*) const
-    [16] CTFWarTrackerManager::AllocateNewTracker(GCSDK::CSharedObject const*, CSteamID, CSOTrackerManager*) const
-    [17] CTFWarTrackerManager::AllocateNewProtoMessage() const
-    [18] CTFWarTrackerManager::OnCommitRecieved(google::protobuf::Message const*)
-    [19] CTFWarTrackerManager::ShouldTrackObject(CSteamID const&, GCSDK::CSharedObject const*) const
-    [20] CTFWarTrackerManager::CompareRecords(google::protobuf::Message const*, google::protobuf::Message const*) const
-    [21] CTFWarTrackerManager::SendMessageForCommit(google::protobuf::Message const*) const
+    CSOTrackerManager::PreSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)
+    CSOTrackerManager::SOUpdated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)
+    CSOTrackerManager::PostSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)
+    CSOTrackerManager::SODestroyed(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)
+    CSOTrackerManager::SOCacheSubscribed(CSteamID const&, GCSDK::ESOCacheEvent)
+    CSOTrackerManager::SOCacheUnsubscribed(CSteamID const&, GCSDK::ESOCacheEvent)
+    CTFWarTrackerManager::~CTFWarTrackerManager()
+    CTFWarTrackerManager::~CTFWarTrackerManager()
+    CSOTrackerManager::Initialize()
+    CSOTrackerManager::Shutdown()
+    CSOTrackerManager::FireGameEvent(IGameEvent*)
+    CSOTrackerManager::FrameUpdatePreEntityThink()
+    CTFWarTrackerManager::GetKeyForObjectTracker(GCSDK::CSharedObject const*, CSteamID)
+    CTFWarTrackerManager::GetType() const
+    CTFWarTrackerManager::GetName() const
+    CTFWarTrackerManager::GetDebugObjectDescription(GCSDK::CSharedObject const*) const
+    CTFWarTrackerManager::AllocateNewTracker(GCSDK::CSharedObject const*, CSteamID, CSOTrackerManager*) const
+    CTFWarTrackerManager::AllocateNewProtoMessage() const
+    CTFWarTrackerManager::OnCommitRecieved(google::protobuf::Message const*)
+    CTFWarTrackerManager::ShouldTrackObject(CSteamID const&, GCSDK::CSharedObject const*) const
+    CTFWarTrackerManager::CompareRecords(google::protobuf::Message const*, google::protobuf::Message const*) const
+    CTFWarTrackerManager::SendMessageForCommit(google::protobuf::Message const*) const

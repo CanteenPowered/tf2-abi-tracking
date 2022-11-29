@@ -1,20 +1,20 @@
 VTable for CSOTFRatingData:
-    [0] CSOTFRatingData::~CSOTFRatingData()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CSOTFRatingData::New() const
-    [3] CSOTFRatingData::Clear()
-    [4] CSOTFRatingData::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CSOTFRatingData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CSOTFRatingData::ByteSize() const
-    [9] CSOTFRatingData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CSOTFRatingData::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CSOTFRatingData::GetCachedSize() const
-    [12] CSOTFRatingData::CopyFrom(google::protobuf::Message const&)
-    [13] CSOTFRatingData::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CSOTFRatingData::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CSOTFRatingData::GetMetadata() const
+    CSOTFRatingData::~CSOTFRatingData()
+    google::protobuf::Message::GetTypeName() const
+    CSOTFRatingData::New() const
+    CSOTFRatingData::Clear()
+    CSOTFRatingData::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CSOTFRatingData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CSOTFRatingData::ByteSize() const
+    CSOTFRatingData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CSOTFRatingData::SerializeWithCachedSizesToArray(unsigned char*) const
+    CSOTFRatingData::GetCachedSize() const
+    CSOTFRatingData::CopyFrom(google::protobuf::Message const&)
+    CSOTFRatingData::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CSOTFRatingData::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CSOTFRatingData::GetMetadata() const

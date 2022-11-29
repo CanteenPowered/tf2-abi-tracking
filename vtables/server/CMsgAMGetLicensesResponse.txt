@@ -1,20 +1,20 @@
 VTable for CMsgAMGetLicensesResponse:
-    [0] CMsgAMGetLicensesResponse::~CMsgAMGetLicensesResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgAMGetLicensesResponse::New() const
-    [3] CMsgAMGetLicensesResponse::Clear()
-    [4] CMsgAMGetLicensesResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgAMGetLicensesResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgAMGetLicensesResponse::ByteSize() const
-    [9] CMsgAMGetLicensesResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgAMGetLicensesResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgAMGetLicensesResponse::GetCachedSize() const
-    [12] CMsgAMGetLicensesResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgAMGetLicensesResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgAMGetLicensesResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgAMGetLicensesResponse::GetMetadata() const
+    CMsgAMGetLicensesResponse::~CMsgAMGetLicensesResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgAMGetLicensesResponse::New() const
+    CMsgAMGetLicensesResponse::Clear()
+    CMsgAMGetLicensesResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgAMGetLicensesResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgAMGetLicensesResponse::ByteSize() const
+    CMsgAMGetLicensesResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgAMGetLicensesResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgAMGetLicensesResponse::GetCachedSize() const
+    CMsgAMGetLicensesResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgAMGetLicensesResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgAMGetLicensesResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgAMGetLicensesResponse::GetMetadata() const

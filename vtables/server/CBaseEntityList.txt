@@ -1,2 +1,2 @@
 VTable for CBaseEntityList:
-    [0] CBaseEntityList::OnRemoveEntity(IHandleEntity*, CBaseHandle)
+    CBaseEntityList::OnRemoveEntity(IHandleEntity*, CBaseHandle)

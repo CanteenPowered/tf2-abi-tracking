@@ -1,10 +1,10 @@
 VTable for CryptoPP::DL_Algorithm_ECDSA<CryptoPP::EC2N>:
-    [0] CryptoPP::DL_Algorithm_GDSA<CryptoPP::EC2NPoint>::Verify(CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint> const&, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint> const&, CryptoPP::Integer const&, CryptoPP::Integer const&, CryptoPP::Integer const&) const
-    [1] CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::EC2NPoint>::RecoverPresignature(CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint> const&, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint> const&, CryptoPP::Integer const&, CryptoPP::Integer const&) const
-    [2] CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::EC2NPoint>::RLen(CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint> const&) const
-    [3] CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::EC2NPoint>::SLen(CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint> const&) const
+    CryptoPP::DL_Algorithm_GDSA<CryptoPP::EC2NPoint>::Verify(CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint> const&, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint> const&, CryptoPP::Integer const&, CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::EC2NPoint>::RecoverPresignature(CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint> const&, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint> const&, CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::EC2NPoint>::RLen(CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint> const&) const
+    CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::EC2NPoint>::SLen(CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint> const&) const
 VTable for CryptoPP::DL_Algorithm_ECDSA<CryptoPP::ECP>:
-    [0] CryptoPP::DL_Algorithm_GDSA<CryptoPP::ECPPoint>::Verify(CryptoPP::DL_GroupParameters<CryptoPP::ECPPoint> const&, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint> const&, CryptoPP::Integer const&, CryptoPP::Integer const&, CryptoPP::Integer const&) const
-    [1] CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::ECPPoint>::RecoverPresignature(CryptoPP::DL_GroupParameters<CryptoPP::ECPPoint> const&, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint> const&, CryptoPP::Integer const&, CryptoPP::Integer const&) const
-    [2] CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::ECPPoint>::RLen(CryptoPP::DL_GroupParameters<CryptoPP::ECPPoint> const&) const
-    [3] CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::ECPPoint>::SLen(CryptoPP::DL_GroupParameters<CryptoPP::ECPPoint> const&) const
+    CryptoPP::DL_Algorithm_GDSA<CryptoPP::ECPPoint>::Verify(CryptoPP::DL_GroupParameters<CryptoPP::ECPPoint> const&, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint> const&, CryptoPP::Integer const&, CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::ECPPoint>::RecoverPresignature(CryptoPP::DL_GroupParameters<CryptoPP::ECPPoint> const&, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint> const&, CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::ECPPoint>::RLen(CryptoPP::DL_GroupParameters<CryptoPP::ECPPoint> const&) const
+    CryptoPP::DL_ElgamalLikeSignatureAlgorithm<CryptoPP::ECPPoint>::SLen(CryptoPP::DL_GroupParameters<CryptoPP::ECPPoint> const&) const

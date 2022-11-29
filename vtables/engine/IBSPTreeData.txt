@@ -1,2 +1,2 @@
 VTable for IBSPTreeData:
-    [0] IBSPTreeData::~IBSPTreeData()
+    IBSPTreeData::~IBSPTreeData()

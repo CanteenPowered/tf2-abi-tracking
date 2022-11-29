@@ -1,20 +1,20 @@
 VTable for CSOTFDuelSummary:
-    [0] CSOTFDuelSummary::~CSOTFDuelSummary()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CSOTFDuelSummary::New() const
-    [3] CSOTFDuelSummary::Clear()
-    [4] CSOTFDuelSummary::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CSOTFDuelSummary::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CSOTFDuelSummary::ByteSize() const
-    [9] CSOTFDuelSummary::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CSOTFDuelSummary::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CSOTFDuelSummary::GetCachedSize() const
-    [12] CSOTFDuelSummary::CopyFrom(google::protobuf::Message const&)
-    [13] CSOTFDuelSummary::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CSOTFDuelSummary::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CSOTFDuelSummary::GetMetadata() const
+    CSOTFDuelSummary::~CSOTFDuelSummary()
+    google::protobuf::Message::GetTypeName() const
+    CSOTFDuelSummary::New() const
+    CSOTFDuelSummary::Clear()
+    CSOTFDuelSummary::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CSOTFDuelSummary::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CSOTFDuelSummary::ByteSize() const
+    CSOTFDuelSummary::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CSOTFDuelSummary::SerializeWithCachedSizesToArray(unsigned char*) const
+    CSOTFDuelSummary::GetCachedSize() const
+    CSOTFDuelSummary::CopyFrom(google::protobuf::Message const&)
+    CSOTFDuelSummary::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CSOTFDuelSummary::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CSOTFDuelSummary::GetMetadata() const

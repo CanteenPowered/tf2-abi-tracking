@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFBat_Wood>:
-    [0] CEntityFactory<CTFBat_Wood>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFBat_Wood>::GetEntitySize()
+    CEntityFactory<CTFBat_Wood>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFBat_Wood>::GetEntitySize()

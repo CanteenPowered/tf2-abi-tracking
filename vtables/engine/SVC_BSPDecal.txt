@@ -1,16 +1,16 @@
 VTable for SVC_BSPDecal:
-    [0] SVC_BSPDecal::~SVC_BSPDecal()
-    [1] CNetMessage::SetNetChannel(INetChannel*)
-    [2] CNetMessage::SetReliable(bool)
-    [3] SVC_BSPDecal::Process()
-    [4] SVC_BSPDecal::ReadFromBuffer(bf_read&)
-    [5] SVC_BSPDecal::WriteToBuffer(bf_write&)
-    [6] CNetMessage::IsReliable() const
-    [7] SVC_BSPDecal::GetType() const
-    [8] CNetMessage::GetGroup() const
-    [9] SVC_BSPDecal::GetName() const
-    [10] CNetMessage::GetNetChannel() const
-    [11] SVC_BSPDecal::ToString() const
-    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
-    [13] SVC_BSPDecal::GetSize() const
-    [14] CNetMessage::SetRatePolicy()
+    SVC_BSPDecal::~SVC_BSPDecal()
+    CNetMessage::SetNetChannel(INetChannel*)
+    CNetMessage::SetReliable(bool)
+    SVC_BSPDecal::Process()
+    SVC_BSPDecal::ReadFromBuffer(bf_read&)
+    SVC_BSPDecal::WriteToBuffer(bf_write&)
+    CNetMessage::IsReliable() const
+    SVC_BSPDecal::GetType() const
+    CNetMessage::GetGroup() const
+    SVC_BSPDecal::GetName() const
+    CNetMessage::GetNetChannel() const
+    SVC_BSPDecal::ToString() const
+    CNetMessage::BIncomingMessageForProcessing(double, int)
+    SVC_BSPDecal::GetSize() const
+    CNetMessage::SetRatePolicy()

@@ -1,2 +1,2 @@
 VTable for CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>:
-    [0] CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>::~TwoBases()
+    CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>::~TwoBases()

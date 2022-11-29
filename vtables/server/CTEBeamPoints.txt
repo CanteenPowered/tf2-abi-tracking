@@ -1,7 +1,7 @@
 VTable for CTEBeamPoints:
-    [0] CTEBeamPoints::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEBeamPoints::~CTEBeamPoints()
-    [2] CTEBeamPoints::~CTEBeamPoints()
-    [3] CTEBeamPoints::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTEBeamPoints::YouForgotToImplementOrDeclareServerClass()
+    CTEBeamPoints::~CTEBeamPoints()
+    CTEBeamPoints::~CTEBeamPoints()
+    CTEBeamPoints::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

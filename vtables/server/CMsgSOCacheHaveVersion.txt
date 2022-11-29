@@ -1,20 +1,20 @@
 VTable for CMsgSOCacheHaveVersion:
-    [0] CMsgSOCacheHaveVersion::~CMsgSOCacheHaveVersion()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgSOCacheHaveVersion::New() const
-    [3] CMsgSOCacheHaveVersion::Clear()
-    [4] CMsgSOCacheHaveVersion::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgSOCacheHaveVersion::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgSOCacheHaveVersion::ByteSize() const
-    [9] CMsgSOCacheHaveVersion::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgSOCacheHaveVersion::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgSOCacheHaveVersion::GetCachedSize() const
-    [12] CMsgSOCacheHaveVersion::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgSOCacheHaveVersion::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgSOCacheHaveVersion::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgSOCacheHaveVersion::GetMetadata() const
+    CMsgSOCacheHaveVersion::~CMsgSOCacheHaveVersion()
+    google::protobuf::Message::GetTypeName() const
+    CMsgSOCacheHaveVersion::New() const
+    CMsgSOCacheHaveVersion::Clear()
+    CMsgSOCacheHaveVersion::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgSOCacheHaveVersion::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgSOCacheHaveVersion::ByteSize() const
+    CMsgSOCacheHaveVersion::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgSOCacheHaveVersion::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgSOCacheHaveVersion::GetCachedSize() const
+    CMsgSOCacheHaveVersion::CopyFrom(google::protobuf::Message const&)
+    CMsgSOCacheHaveVersion::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgSOCacheHaveVersion::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgSOCacheHaveVersion::GetMetadata() const

@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFWearableLevelableItem>:
-    [0] CEntityFactory<CTFWearableLevelableItem>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFWearableLevelableItem>::GetEntitySize()
+    CEntityFactory<CTFWearableLevelableItem>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFWearableLevelableItem>::GetEntitySize()

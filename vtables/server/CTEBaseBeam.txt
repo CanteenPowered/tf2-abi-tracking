@@ -1,4 +1,4 @@
 VTable for CTEBaseBeam:
-    [0] CTEBaseBeam::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEBaseBeam::~CTEBaseBeam()
-    [2] CTEBaseBeam::~CTEBaseBeam()
+    CTEBaseBeam::YouForgotToImplementOrDeclareServerClass()
+    CTEBaseBeam::~CTEBaseBeam()
+    CTEBaseBeam::~CTEBaseBeam()

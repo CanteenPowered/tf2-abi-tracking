@@ -1,75 +1,75 @@
 VTable for CGameClient:
-    [0] CGameClient::~CGameClient()
-    [1] CBaseClient::FireGameEvent(IGameEvent*)
-    [2] CBaseClient::GetPlayerSlot() const
-    [3] CBaseClient::GetUserID() const
-    [4] CBaseClient::GetNetworkID() const
-    [5] CBaseClient::GetClientName() const
-    [6] CBaseClient::GetNetChannel()
-    [7] CBaseClient::GetServer()
-    [8] CBaseClient::GetUserSetting(char const*) const
-    [9] CBaseClient::GetNetworkIDString() const
-    [10] CGameClient::Connect(char const*, int, INetChannel*, bool, int)
-    [11] CGameClient::Inactivate()
-    [12] CGameClient::Reconnect()
-    [13] CGameClient::Disconnect(char const*, ...)
-    [14] CGameClient::SetRate(int, bool)
-    [15] CBaseClient::GetRate() const
-    [16] CGameClient::SetUpdateRate(int, bool)
-    [17] CBaseClient::GetUpdateRate() const
-    [18] CGameClient::Clear()
-    [19] CBaseClient::DemoRestart()
-    [20] CBaseClient::GetMaxAckTickCount() const
-    [21] CGameClient::ExecuteStringCommand(char const*)
-    [22] CGameClient::SendNetMsg(INetMessage&, bool)
-    [23] CBaseClient::ClientPrintf(char const*, ...)
-    [24] CBaseClient::IsConnected() const
-    [25] CBaseClient::IsSpawned() const
-    [26] CBaseClient::IsActive() const
-    [27] CBaseClient::IsFakeClient() const
-    [28] CBaseClient::IsHLTV() const
-    [29] CBaseClient::IsReplay() const
-    [30] CGameClient::IsHearingClient(int) const
-    [31] CGameClient::IsProximityHearingClient(int) const
-    [32] CBaseClient::SetMaxRoutablePayloadSize(int)
-    [33] CBaseClient::IsSplitScreenUser() const
-    [34] CBaseClient::ProcessTick(NET_Tick*)
-    [35] CBaseClient::ProcessStringCmd(NET_StringCmd*)
-    [36] CBaseClient::ProcessSetConVar(NET_SetConVar*)
-    [37] CBaseClient::ProcessSignonState(NET_SignonState*)
-    [38] CGameClient::ProcessClientInfo(CLC_ClientInfo*)
-    [39] CBaseClient::ProcessBaselineAck(CLC_BaselineAck*)
-    [40] CBaseClient::ProcessListenEvents(CLC_ListenEvents*)
-    [41] CGameClient::ProcessCmdKeyValues(CLC_CmdKeyValues*)
-    [42] CBaseClient::ConnectionStart(INetChannel*)
-    [43] CGameClient::UpdateAcknowledgedFramecount(int)
-    [44] CGameClient::ShouldSendMessages()
-    [45] CBaseClient::UpdateSendState()
-    [46] CBaseClient::FillUserInfo(player_info_s&)
-    [47] CGameClient::UpdateUserSettings()
-    [48] CGameClient::SetSignonState(int, int)
-    [49] CGameClient::WriteGameSounds(bf_write&)
-    [50] CGameClient::GetDeltaFrame(int)
-    [51] CGameClient::SendSnapshot(CClientFrame*)
-    [52] CBaseClient::SendServerInfo()
-    [53] CGameClient::SendSignonData()
-    [54] CGameClient::SpawnPlayer()
-    [55] CGameClient::ActivatePlayer()
-    [56] CBaseClient::SetName(char const*)
-    [57] CBaseClient::SetUserCVar(char const*, char const*)
-    [58] CBaseClient::FreeBaselines()
-    [59] CGameClient::IgnoreTempEntity(CEventInfo*)
-    [60] CGameClient::ConnectionClosing(char const*)
-    [61] CGameClient::ConnectionCrashed(char const*)
-    [62] CGameClient::PacketStart(int, int)
-    [63] CGameClient::PacketEnd()
-    [64] CGameClient::FileReceived(char const*, unsigned int)
-    [65] CGameClient::FileRequested(char const*, unsigned int)
-    [66] CGameClient::FileDenied(char const*, unsigned int)
-    [67] CGameClient::FileSent(char const*, unsigned int)
-    [68] CGameClient::ProcessMove(CLC_Move*)
-    [69] CGameClient::ProcessVoiceData(CLC_VoiceData*)
-    [70] CGameClient::ProcessRespondCvarValue(CLC_RespondCvarValue*)
-    [71] CGameClient::ProcessFileCRCCheck(CLC_FileCRCCheck*)
-    [72] CGameClient::ProcessFileMD5Check(CLC_FileMD5Check*)
-    [73] CGameClient::ProcessSaveReplay(CLC_SaveReplay*)
+    CGameClient::~CGameClient()
+    CBaseClient::FireGameEvent(IGameEvent*)
+    CBaseClient::GetPlayerSlot() const
+    CBaseClient::GetUserID() const
+    CBaseClient::GetNetworkID() const
+    CBaseClient::GetClientName() const
+    CBaseClient::GetNetChannel()
+    CBaseClient::GetServer()
+    CBaseClient::GetUserSetting(char const*) const
+    CBaseClient::GetNetworkIDString() const
+    CGameClient::Connect(char const*, int, INetChannel*, bool, int)
+    CGameClient::Inactivate()
+    CGameClient::Reconnect()
+    CGameClient::Disconnect(char const*, ...)
+    CGameClient::SetRate(int, bool)
+    CBaseClient::GetRate() const
+    CGameClient::SetUpdateRate(int, bool)
+    CBaseClient::GetUpdateRate() const
+    CGameClient::Clear()
+    CBaseClient::DemoRestart()
+    CBaseClient::GetMaxAckTickCount() const
+    CGameClient::ExecuteStringCommand(char const*)
+    CGameClient::SendNetMsg(INetMessage&, bool)
+    CBaseClient::ClientPrintf(char const*, ...)
+    CBaseClient::IsConnected() const
+    CBaseClient::IsSpawned() const
+    CBaseClient::IsActive() const
+    CBaseClient::IsFakeClient() const
+    CBaseClient::IsHLTV() const
+    CBaseClient::IsReplay() const
+    CGameClient::IsHearingClient(int) const
+    CGameClient::IsProximityHearingClient(int) const
+    CBaseClient::SetMaxRoutablePayloadSize(int)
+    CBaseClient::IsSplitScreenUser() const
+    CBaseClient::ProcessTick(NET_Tick*)
+    CBaseClient::ProcessStringCmd(NET_StringCmd*)
+    CBaseClient::ProcessSetConVar(NET_SetConVar*)
+    CBaseClient::ProcessSignonState(NET_SignonState*)
+    CGameClient::ProcessClientInfo(CLC_ClientInfo*)
+    CBaseClient::ProcessBaselineAck(CLC_BaselineAck*)
+    CBaseClient::ProcessListenEvents(CLC_ListenEvents*)
+    CGameClient::ProcessCmdKeyValues(CLC_CmdKeyValues*)
+    CBaseClient::ConnectionStart(INetChannel*)
+    CGameClient::UpdateAcknowledgedFramecount(int)
+    CGameClient::ShouldSendMessages()
+    CBaseClient::UpdateSendState()
+    CBaseClient::FillUserInfo(player_info_s&)
+    CGameClient::UpdateUserSettings()
+    CGameClient::SetSignonState(int, int)
+    CGameClient::WriteGameSounds(bf_write&)
+    CGameClient::GetDeltaFrame(int)
+    CGameClient::SendSnapshot(CClientFrame*)
+    CBaseClient::SendServerInfo()
+    CGameClient::SendSignonData()
+    CGameClient::SpawnPlayer()
+    CGameClient::ActivatePlayer()
+    CBaseClient::SetName(char const*)
+    CBaseClient::SetUserCVar(char const*, char const*)
+    CBaseClient::FreeBaselines()
+    CGameClient::IgnoreTempEntity(CEventInfo*)
+    CGameClient::ConnectionClosing(char const*)
+    CGameClient::ConnectionCrashed(char const*)
+    CGameClient::PacketStart(int, int)
+    CGameClient::PacketEnd()
+    CGameClient::FileReceived(char const*, unsigned int)
+    CGameClient::FileRequested(char const*, unsigned int)
+    CGameClient::FileDenied(char const*, unsigned int)
+    CGameClient::FileSent(char const*, unsigned int)
+    CGameClient::ProcessMove(CLC_Move*)
+    CGameClient::ProcessVoiceData(CLC_VoiceData*)
+    CGameClient::ProcessRespondCvarValue(CLC_RespondCvarValue*)
+    CGameClient::ProcessFileCRCCheck(CLC_FileCRCCheck*)
+    CGameClient::ProcessFileMD5Check(CLC_FileMD5Check*)
+    CGameClient::ProcessSaveReplay(CLC_SaveReplay*)

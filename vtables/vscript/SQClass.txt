@@ -1,7 +1,7 @@
 VTable for SQClass:
-    [0] SQClass::~SQClass()
-    [1] SQClass::Iterate(CSQStateIterator*)
-    [2] SQClass::Release()
-    [3] SQClass::GetType()
-    [4] SQClass::Mark(SQCollectable**)
-    [5] SQClass::Finalize()
+    SQClass::~SQClass()
+    SQClass::Iterate(CSQStateIterator*)
+    SQClass::Release()
+    SQClass::GetType()
+    SQClass::Mark(SQCollectable**)
+    SQClass::Finalize()

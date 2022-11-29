@@ -1,2 +1,2 @@
 VTable for ISearchSurroundingAreasFunctor:
-    [0] ISearchSurroundingAreasFunctor::~ISearchSurroundingAreasFunctor()
+    ISearchSurroundingAreasFunctor::~ISearchSurroundingAreasFunctor()

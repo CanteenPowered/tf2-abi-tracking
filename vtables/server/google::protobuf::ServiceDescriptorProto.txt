@@ -1,20 +1,20 @@
 VTable for google::protobuf::ServiceDescriptorProto:
-    [0] google::protobuf::ServiceDescriptorProto::~ServiceDescriptorProto()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] google::protobuf::ServiceDescriptorProto::New() const
-    [3] google::protobuf::ServiceDescriptorProto::Clear()
-    [4] google::protobuf::ServiceDescriptorProto::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] google::protobuf::ServiceDescriptorProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] google::protobuf::ServiceDescriptorProto::ByteSize() const
-    [9] google::protobuf::ServiceDescriptorProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] google::protobuf::ServiceDescriptorProto::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] google::protobuf::ServiceDescriptorProto::GetCachedSize() const
-    [12] google::protobuf::ServiceDescriptorProto::CopyFrom(google::protobuf::Message const&)
-    [13] google::protobuf::ServiceDescriptorProto::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] google::protobuf::ServiceDescriptorProto::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] google::protobuf::ServiceDescriptorProto::GetMetadata() const
+    google::protobuf::ServiceDescriptorProto::~ServiceDescriptorProto()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::ServiceDescriptorProto::New() const
+    google::protobuf::ServiceDescriptorProto::Clear()
+    google::protobuf::ServiceDescriptorProto::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::ServiceDescriptorProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::ServiceDescriptorProto::ByteSize() const
+    google::protobuf::ServiceDescriptorProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::ServiceDescriptorProto::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::ServiceDescriptorProto::GetCachedSize() const
+    google::protobuf::ServiceDescriptorProto::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::ServiceDescriptorProto::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::ServiceDescriptorProto::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::ServiceDescriptorProto::GetMetadata() const

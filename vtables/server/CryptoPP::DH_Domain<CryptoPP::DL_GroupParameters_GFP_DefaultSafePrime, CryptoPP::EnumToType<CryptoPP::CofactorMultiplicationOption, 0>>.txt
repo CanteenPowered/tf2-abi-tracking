@@ -1,17 +1,17 @@
 VTable for CryptoPP::DH_Domain<CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime, CryptoPP::EnumToType<CryptoPP::CofactorMultiplicationOption, 0>>:
-    [0] CryptoPP::DH_Domain<CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime, CryptoPP::EnumToType<CryptoPP::CofactorMultiplicationOption, 0>>::~DH_Domain()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::DH_Domain<CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime, CryptoPP::EnumToType<CryptoPP::CofactorMultiplicationOption, 0>>::AlgorithmName() const
-    [3] CryptoPP::KeyAgreementAlgorithm::AccessMaterial()
-    [4] CryptoPP::KeyAgreementAlgorithm::GetMaterial() const
-    [5] CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::AccessCryptoParameters()
-    [6] CryptoPP::KeyAgreementAlgorithm::GetCryptoParameters() const
-    [7] CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::AgreedValueLength() const
-    [8] CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::PrivateKeyLength() const
-    [9] CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::PublicKeyLength() const
-    [10] CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::GeneratePrivateKey(CryptoPP::RandomNumberGenerator&, unsigned char*) const
-    [11] CryptoPP::DH_Domain<CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime, CryptoPP::EnumToType<CryptoPP::CofactorMultiplicationOption, 0>>::GeneratePublicKey(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned char*) const
-    [12] CryptoPP::SimpleKeyAgreementDomain::GenerateKeyPair(CryptoPP::RandomNumberGenerator&, unsigned char*, unsigned char*) const
-    [13] CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::Agree(unsigned char*, unsigned char const*, unsigned char const*, bool) const
-    [14] CryptoPP::DH_Domain<CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime, CryptoPP::EnumToType<CryptoPP::CofactorMultiplicationOption, 0>>::GetKeyAgreementAlgorithm() const
-    [15] CryptoPP::DH_Domain<CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime, CryptoPP::EnumToType<CryptoPP::CofactorMultiplicationOption, 0>>::AccessAbstractGroupParameters()
+    CryptoPP::DH_Domain<CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime, CryptoPP::EnumToType<CryptoPP::CofactorMultiplicationOption, 0>>::~DH_Domain()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::DH_Domain<CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime, CryptoPP::EnumToType<CryptoPP::CofactorMultiplicationOption, 0>>::AlgorithmName() const
+    CryptoPP::KeyAgreementAlgorithm::AccessMaterial()
+    CryptoPP::KeyAgreementAlgorithm::GetMaterial() const
+    CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::AccessCryptoParameters()
+    CryptoPP::KeyAgreementAlgorithm::GetCryptoParameters() const
+    CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::AgreedValueLength() const
+    CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::PrivateKeyLength() const
+    CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::PublicKeyLength() const
+    CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::GeneratePrivateKey(CryptoPP::RandomNumberGenerator&, unsigned char*) const
+    CryptoPP::DH_Domain<CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime, CryptoPP::EnumToType<CryptoPP::CofactorMultiplicationOption, 0>>::GeneratePublicKey(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned char*) const
+    CryptoPP::SimpleKeyAgreementDomain::GenerateKeyPair(CryptoPP::RandomNumberGenerator&, unsigned char*, unsigned char*) const
+    CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::Agree(unsigned char*, unsigned char const*, unsigned char const*, bool) const
+    CryptoPP::DH_Domain<CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime, CryptoPP::EnumToType<CryptoPP::CofactorMultiplicationOption, 0>>::GetKeyAgreementAlgorithm() const
+    CryptoPP::DH_Domain<CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime, CryptoPP::EnumToType<CryptoPP::CofactorMultiplicationOption, 0>>::AccessAbstractGroupParameters()

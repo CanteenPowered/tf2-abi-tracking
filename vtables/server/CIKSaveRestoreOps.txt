@@ -1,5 +1,5 @@
 VTable for CIKSaveRestoreOps:
-    [0] CIKSaveRestoreOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
-    [1] CClassPtrSaveRestoreOps::IsEmpty(SaveRestoreFieldInfo_t const&)
-    [2] CClassPtrSaveRestoreOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
-    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+    CIKSaveRestoreOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    CClassPtrSaveRestoreOps::IsEmpty(SaveRestoreFieldInfo_t const&)
+    CClassPtrSaveRestoreOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)

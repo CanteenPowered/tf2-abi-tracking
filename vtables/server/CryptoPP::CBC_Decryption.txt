@@ -1,25 +1,25 @@
 VTable for CryptoPP::CBC_Decryption:
-    [0] CryptoPP::CBC_Decryption::~CBC_Decryption()
-    [1] CryptoPP::CipherModeBase::MinKeyLength() const
-    [2] CryptoPP::CipherModeBase::MaxKeyLength() const
-    [3] CryptoPP::CipherModeBase::DefaultKeyLength() const
-    [4] CryptoPP::CipherModeBase::GetValidKeyLength(unsigned int) const
-    [5] CryptoPP::CipherModeBase::IsValidKeyLength(unsigned int) const
-    [6] CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
-    [7] CryptoPP::CBC_ModeBase::IVRequirement() const
-    [8] CryptoPP::CipherModeBase::IVSize() const
-    [9] CryptoPP::SimpleKeyingInterface::MinIVLength() const
-    [10] CryptoPP::SimpleKeyingInterface::MaxIVLength() const
-    [11] CryptoPP::BlockOrientedCipherModeBase::Resynchronize(unsigned char const*, int)
-    [12] CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator&, unsigned char*)
-    [13] CryptoPP::SymmetricCipher::GetAlgorithm() const
-    [14] CryptoPP::BlockOrientedCipherModeBase::UncheckedSetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
-    [15] CryptoPP::CipherModeBase::OptimalDataAlignment() const
-    [16] CryptoPP::CipherModeBase::SetFeedbackSize(unsigned int)
-    [17] CryptoPP::CBC_Decryption::ResizeBuffers()
-    [18] CryptoPP::BlockOrientedCipherModeBase::MandatoryBlockSize() const
-    [19] CryptoPP::BlockOrientedCipherModeBase::IsRandomAccess() const
-    [20] CryptoPP::BlockOrientedCipherModeBase::IsSelfInverting() const
-    [21] CryptoPP::BlockOrientedCipherModeBase::IsForwardTransformation() const
-    [22] CryptoPP::CBC_ModeBase::MinLastBlockSize() const
-    [23] CryptoPP::CBC_Decryption::ProcessData(unsigned char*, unsigned char const*, unsigned int)
+    CryptoPP::CBC_Decryption::~CBC_Decryption()
+    CryptoPP::CipherModeBase::MinKeyLength() const
+    CryptoPP::CipherModeBase::MaxKeyLength() const
+    CryptoPP::CipherModeBase::DefaultKeyLength() const
+    CryptoPP::CipherModeBase::GetValidKeyLength(unsigned int) const
+    CryptoPP::CipherModeBase::IsValidKeyLength(unsigned int) const
+    CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    CryptoPP::CBC_ModeBase::IVRequirement() const
+    CryptoPP::CipherModeBase::IVSize() const
+    CryptoPP::SimpleKeyingInterface::MinIVLength() const
+    CryptoPP::SimpleKeyingInterface::MaxIVLength() const
+    CryptoPP::BlockOrientedCipherModeBase::Resynchronize(unsigned char const*, int)
+    CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator&, unsigned char*)
+    CryptoPP::SymmetricCipher::GetAlgorithm() const
+    CryptoPP::BlockOrientedCipherModeBase::UncheckedSetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    CryptoPP::CipherModeBase::OptimalDataAlignment() const
+    CryptoPP::CipherModeBase::SetFeedbackSize(unsigned int)
+    CryptoPP::CBC_Decryption::ResizeBuffers()
+    CryptoPP::BlockOrientedCipherModeBase::MandatoryBlockSize() const
+    CryptoPP::BlockOrientedCipherModeBase::IsRandomAccess() const
+    CryptoPP::BlockOrientedCipherModeBase::IsSelfInverting() const
+    CryptoPP::BlockOrientedCipherModeBase::IsForwardTransformation() const
+    CryptoPP::CBC_ModeBase::MinLastBlockSize() const
+    CryptoPP::CBC_Decryption::ProcessData(unsigned char*, unsigned char const*, unsigned int)

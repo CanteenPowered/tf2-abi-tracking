@@ -1,3 +1,3 @@
 VTable for CryptoPP::DL_BadElement:
-    [0] CryptoPP::DL_BadElement::~DL_BadElement()
-    [1] CryptoPP::Exception::what() const
+    CryptoPP::DL_BadElement::~DL_BadElement()
+    CryptoPP::Exception::what() const

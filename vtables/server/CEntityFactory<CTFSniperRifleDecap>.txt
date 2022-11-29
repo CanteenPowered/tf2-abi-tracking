@@ -1,9 +1,9 @@
 VTable for CEntityFactory<CTFSniperRifleClassic>:
-    [0] CEntityFactory<CTFSniperRifleClassic>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFSniperRifleClassic>::GetEntitySize()
+    CEntityFactory<CTFSniperRifleClassic>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFSniperRifleClassic>::GetEntitySize()
 VTable for CEntityFactory<CTFSniperRifle>:
-    [0] CEntityFactory<CTFSniperRifle>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFSniperRifle>::GetEntitySize()
+    CEntityFactory<CTFSniperRifle>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFSniperRifle>::GetEntitySize()
 VTable for CEntityFactory<CTFSniperRifleDecap>:
-    [0] CEntityFactory<CTFSniperRifleDecap>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFSniperRifleDecap>::GetEntitySize()
+    CEntityFactory<CTFSniperRifleDecap>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFSniperRifleDecap>::GetEntitySize()

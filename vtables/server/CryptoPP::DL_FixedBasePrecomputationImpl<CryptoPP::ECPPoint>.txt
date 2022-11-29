@@ -1,27 +1,27 @@
 VTable for CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>:
-    [0] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>::SetBase(CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint> const&, CryptoPP::ECPPoint const&)
-    [1] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>::GetBase(CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint> const&) const
-    [2] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>::Precompute(CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint> const&, unsigned int, unsigned int)
-    [3] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>::Load(CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint> const&, CryptoPP::BufferedTransformation&)
-    [4] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>::Save(CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint> const&, CryptoPP::BufferedTransformation&) const
-    [5] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>::Exponentiate(CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint> const&, CryptoPP::Integer const&) const
-    [6] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>::CascadeExponentiate(CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint> const&, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::ECPPoint> const&, CryptoPP::Integer const&) const
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>::SetBase(CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint> const&, CryptoPP::ECPPoint const&)
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>::GetBase(CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint> const&) const
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>::Precompute(CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint> const&, unsigned int, unsigned int)
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>::Load(CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint> const&, CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>::Save(CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint> const&, CryptoPP::BufferedTransformation&) const
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>::Exponentiate(CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint> const&, CryptoPP::Integer const&) const
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>::CascadeExponentiate(CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint> const&, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::ECPPoint> const&, CryptoPP::Integer const&) const
 VTable for CryptoPP::DL_FixedBasePrecomputation<CryptoPP::ECPPoint>:
 VTable for CryptoPP::DL_FixedBasePrecomputation<CryptoPP::Integer>:
 VTable for CryptoPP::DL_FixedBasePrecomputation<CryptoPP::EC2NPoint>:
 VTable for CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>:
-    [0] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>::SetBase(CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer> const&, CryptoPP::Integer const&)
-    [1] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>::GetBase(CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer> const&) const
-    [2] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>::Precompute(CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer> const&, unsigned int, unsigned int)
-    [3] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>::Load(CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer> const&, CryptoPP::BufferedTransformation&)
-    [4] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>::Save(CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer> const&, CryptoPP::BufferedTransformation&) const
-    [5] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>::Exponentiate(CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer> const&, CryptoPP::Integer const&) const
-    [6] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>::CascadeExponentiate(CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer> const&, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::Integer> const&, CryptoPP::Integer const&) const
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>::SetBase(CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer> const&, CryptoPP::Integer const&)
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>::GetBase(CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer> const&) const
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>::Precompute(CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer> const&, unsigned int, unsigned int)
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>::Load(CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer> const&, CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>::Save(CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer> const&, CryptoPP::BufferedTransformation&) const
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>::Exponentiate(CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer> const&, CryptoPP::Integer const&) const
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>::CascadeExponentiate(CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer> const&, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::Integer> const&, CryptoPP::Integer const&) const
 VTable for CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>:
-    [0] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>::SetBase(CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint> const&, CryptoPP::EC2NPoint const&)
-    [1] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>::GetBase(CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint> const&) const
-    [2] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>::Precompute(CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint> const&, unsigned int, unsigned int)
-    [3] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>::Load(CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint> const&, CryptoPP::BufferedTransformation&)
-    [4] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>::Save(CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint> const&, CryptoPP::BufferedTransformation&) const
-    [5] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>::Exponentiate(CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint> const&, CryptoPP::Integer const&) const
-    [6] CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>::CascadeExponentiate(CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint> const&, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::EC2NPoint> const&, CryptoPP::Integer const&) const
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>::SetBase(CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint> const&, CryptoPP::EC2NPoint const&)
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>::GetBase(CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint> const&) const
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>::Precompute(CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint> const&, unsigned int, unsigned int)
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>::Load(CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint> const&, CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>::Save(CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint> const&, CryptoPP::BufferedTransformation&) const
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>::Exponentiate(CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint> const&, CryptoPP::Integer const&) const
+    CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>::CascadeExponentiate(CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint> const&, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::EC2NPoint> const&, CryptoPP::Integer const&) const

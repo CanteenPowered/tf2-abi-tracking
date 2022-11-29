@@ -1,20 +1,20 @@
 VTable for CSOWarData:
-    [0] CSOWarData::~CSOWarData()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CSOWarData::New() const
-    [3] CSOWarData::Clear()
-    [4] CSOWarData::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CSOWarData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CSOWarData::ByteSize() const
-    [9] CSOWarData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CSOWarData::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CSOWarData::GetCachedSize() const
-    [12] CSOWarData::CopyFrom(google::protobuf::Message const&)
-    [13] CSOWarData::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CSOWarData::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CSOWarData::GetMetadata() const
+    CSOWarData::~CSOWarData()
+    google::protobuf::Message::GetTypeName() const
+    CSOWarData::New() const
+    CSOWarData::Clear()
+    CSOWarData::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CSOWarData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CSOWarData::ByteSize() const
+    CSOWarData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CSOWarData::SerializeWithCachedSizesToArray(unsigned char*) const
+    CSOWarData::GetCachedSize() const
+    CSOWarData::CopyFrom(google::protobuf::Message const&)
+    CSOWarData::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CSOWarData::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CSOWarData::GetMetadata() const

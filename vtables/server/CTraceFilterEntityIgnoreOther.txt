@@ -1,4 +1,4 @@
 VTable for CTraceFilterEntityIgnoreOther:
-    [0] CTraceFilter::GetTraceType() const
-    [1] CTraceFilterSimple::SetPassEntity(IHandleEntity const*)
-    [2] CTraceFilterSimple::SetCollisionGroup(int)
+    CTraceFilter::GetTraceType() const
+    CTraceFilterSimple::SetPassEntity(IHandleEntity const*)
+    CTraceFilterSimple::SetCollisionGroup(int)

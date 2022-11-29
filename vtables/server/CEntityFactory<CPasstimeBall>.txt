@@ -1,6 +1,6 @@
 VTable for CEntityFactory<CPasstimeBall>:
-    [0] CEntityFactory<CPasstimeBall>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CPasstimeBall>::GetEntitySize()
+    CEntityFactory<CPasstimeBall>::Destroy(IServerNetworkable*)
+    CEntityFactory<CPasstimeBall>::GetEntitySize()
 VTable for CEntityFactory<CPasstimeBallSpawn>:
-    [0] CEntityFactory<CPasstimeBallSpawn>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CPasstimeBallSpawn>::GetEntitySize()
+    CEntityFactory<CPasstimeBallSpawn>::Destroy(IServerNetworkable*)
+    CEntityFactory<CPasstimeBallSpawn>::GetEntitySize()

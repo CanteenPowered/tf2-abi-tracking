@@ -1,20 +1,20 @@
 VTable for CMsgFieldID_CMsgField:
-    [0] CMsgFieldID_CMsgField::~CMsgFieldID_CMsgField()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgFieldID_CMsgField::New() const
-    [3] CMsgFieldID_CMsgField::Clear()
-    [4] CMsgFieldID_CMsgField::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgFieldID_CMsgField::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgFieldID_CMsgField::ByteSize() const
-    [9] CMsgFieldID_CMsgField::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgFieldID_CMsgField::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgFieldID_CMsgField::GetCachedSize() const
-    [12] CMsgFieldID_CMsgField::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgFieldID_CMsgField::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgFieldID_CMsgField::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgFieldID_CMsgField::GetMetadata() const
+    CMsgFieldID_CMsgField::~CMsgFieldID_CMsgField()
+    google::protobuf::Message::GetTypeName() const
+    CMsgFieldID_CMsgField::New() const
+    CMsgFieldID_CMsgField::Clear()
+    CMsgFieldID_CMsgField::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgFieldID_CMsgField::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgFieldID_CMsgField::ByteSize() const
+    CMsgFieldID_CMsgField::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgFieldID_CMsgField::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgFieldID_CMsgField::GetCachedSize() const
+    CMsgFieldID_CMsgField::CopyFrom(google::protobuf::Message const&)
+    CMsgFieldID_CMsgField::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgFieldID_CMsgField::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgFieldID_CMsgField::GetMetadata() const

@@ -1,6 +1,6 @@
 VTable for CEntityFactory<CTriggerRemoveTFPlayerCondition>:
-    [0] CEntityFactory<CTriggerRemoveTFPlayerCondition>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTriggerRemoveTFPlayerCondition>::GetEntitySize()
+    CEntityFactory<CTriggerRemoveTFPlayerCondition>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTriggerRemoveTFPlayerCondition>::GetEntitySize()
 VTable for CEntityFactory<CTriggerRemove>:
-    [0] CEntityFactory<CTriggerRemove>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTriggerRemove>::GetEntitySize()
+    CEntityFactory<CTriggerRemove>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTriggerRemove>::GetEntitySize()

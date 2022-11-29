@@ -1,4 +1,4 @@
 VTable for CWheelOfDoom::WOD_Dance:
-    [0] CWheelOfDoom::WOD_BaseEffect::ActivateEffect(CWheelOfDoom::EffectData_t&)
-    [1] CWheelOfDoom::WOD_Dance::UpdateEffect(CWheelOfDoom::EffectData_t&)
-    [2] CWheelOfDoom::WOD_Dance::DeactivateEffect(CWheelOfDoom::EffectData_t&)
+    CWheelOfDoom::WOD_BaseEffect::ActivateEffect(CWheelOfDoom::EffectData_t&)
+    CWheelOfDoom::WOD_Dance::UpdateEffect(CWheelOfDoom::EffectData_t&)
+    CWheelOfDoom::WOD_Dance::DeactivateEffect(CWheelOfDoom::EffectData_t&)

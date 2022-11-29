@@ -1,2 +1,2 @@
 VTable for CTraceFilterPlayersNPCsPhysicsProps:
-    [0] CTraceFilterPlayersNPCsPhysicsProps::GetTraceType() const
+    CTraceFilterPlayersNPCsPhysicsProps::GetTraceType() const

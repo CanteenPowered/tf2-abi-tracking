@@ -1,20 +1,20 @@
 VTable for CMsgGCNotificationQueue:
-    [0] CMsgGCNotificationQueue::~CMsgGCNotificationQueue()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCNotificationQueue::New() const
-    [3] CMsgGCNotificationQueue::Clear()
-    [4] CMsgGCNotificationQueue::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCNotificationQueue::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCNotificationQueue::ByteSize() const
-    [9] CMsgGCNotificationQueue::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCNotificationQueue::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCNotificationQueue::GetCachedSize() const
-    [12] CMsgGCNotificationQueue::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCNotificationQueue::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCNotificationQueue::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCNotificationQueue::GetMetadata() const
+    CMsgGCNotificationQueue::~CMsgGCNotificationQueue()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCNotificationQueue::New() const
+    CMsgGCNotificationQueue::Clear()
+    CMsgGCNotificationQueue::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCNotificationQueue::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCNotificationQueue::ByteSize() const
+    CMsgGCNotificationQueue::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCNotificationQueue::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCNotificationQueue::GetCachedSize() const
+    CMsgGCNotificationQueue::CopyFrom(google::protobuf::Message const&)
+    CMsgGCNotificationQueue::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCNotificationQueue::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCNotificationQueue::GetMetadata() const

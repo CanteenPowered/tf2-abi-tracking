@@ -1,7 +1,7 @@
 VTable for CTEBeamSpline:
-    [0] CTEBeamSpline::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEBeamSpline::~CTEBeamSpline()
-    [2] CTEBeamSpline::~CTEBeamSpline()
-    [3] CTEBeamSpline::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTEBeamSpline::YouForgotToImplementOrDeclareServerClass()
+    CTEBeamSpline::~CTEBeamSpline()
+    CTEBeamSpline::~CTEBeamSpline()
+    CTEBeamSpline::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

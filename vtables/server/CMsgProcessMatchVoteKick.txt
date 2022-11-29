@@ -1,20 +1,20 @@
 VTable for CMsgProcessMatchVoteKick:
-    [0] CMsgProcessMatchVoteKick::~CMsgProcessMatchVoteKick()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgProcessMatchVoteKick::New() const
-    [3] CMsgProcessMatchVoteKick::Clear()
-    [4] CMsgProcessMatchVoteKick::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgProcessMatchVoteKick::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgProcessMatchVoteKick::ByteSize() const
-    [9] CMsgProcessMatchVoteKick::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgProcessMatchVoteKick::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgProcessMatchVoteKick::GetCachedSize() const
-    [12] CMsgProcessMatchVoteKick::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgProcessMatchVoteKick::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgProcessMatchVoteKick::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgProcessMatchVoteKick::GetMetadata() const
+    CMsgProcessMatchVoteKick::~CMsgProcessMatchVoteKick()
+    google::protobuf::Message::GetTypeName() const
+    CMsgProcessMatchVoteKick::New() const
+    CMsgProcessMatchVoteKick::Clear()
+    CMsgProcessMatchVoteKick::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgProcessMatchVoteKick::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgProcessMatchVoteKick::ByteSize() const
+    CMsgProcessMatchVoteKick::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgProcessMatchVoteKick::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgProcessMatchVoteKick::GetCachedSize() const
+    CMsgProcessMatchVoteKick::CopyFrom(google::protobuf::Message const&)
+    CMsgProcessMatchVoteKick::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgProcessMatchVoteKick::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgProcessMatchVoteKick::GetMetadata() const

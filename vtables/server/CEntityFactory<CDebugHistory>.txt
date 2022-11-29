@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CDebugHistory>:
-    [0] CEntityFactory<CDebugHistory>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CDebugHistory>::GetEntitySize()
+    CEntityFactory<CDebugHistory>::Destroy(IServerNetworkable*)
+    CEntityFactory<CDebugHistory>::GetEntitySize()

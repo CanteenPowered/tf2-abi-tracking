@@ -1,2 +1,2 @@
 VTable for CRagdollCollisionRules:
-    [0] CRagdollCollisionRules::SetDefaults(void*)
+    CRagdollCollisionRules::SetDefaults(void*)

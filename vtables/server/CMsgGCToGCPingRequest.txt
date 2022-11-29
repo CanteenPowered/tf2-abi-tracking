@@ -1,20 +1,20 @@
 VTable for CMsgGCToGCPingRequest:
-    [0] CMsgGCToGCPingRequest::~CMsgGCToGCPingRequest()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCToGCPingRequest::New() const
-    [3] CMsgGCToGCPingRequest::Clear()
-    [4] CMsgGCToGCPingRequest::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCToGCPingRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCToGCPingRequest::ByteSize() const
-    [9] CMsgGCToGCPingRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCToGCPingRequest::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCToGCPingRequest::GetCachedSize() const
-    [12] CMsgGCToGCPingRequest::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCToGCPingRequest::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCToGCPingRequest::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCToGCPingRequest::GetMetadata() const
+    CMsgGCToGCPingRequest::~CMsgGCToGCPingRequest()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCToGCPingRequest::New() const
+    CMsgGCToGCPingRequest::Clear()
+    CMsgGCToGCPingRequest::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCToGCPingRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCToGCPingRequest::ByteSize() const
+    CMsgGCToGCPingRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCToGCPingRequest::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCToGCPingRequest::GetCachedSize() const
+    CMsgGCToGCPingRequest::CopyFrom(google::protobuf::Message const&)
+    CMsgGCToGCPingRequest::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCToGCPingRequest::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCToGCPingRequest::GetMetadata() const

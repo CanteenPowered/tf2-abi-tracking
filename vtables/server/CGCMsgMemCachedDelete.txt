@@ -1,20 +1,20 @@
 VTable for CGCMsgMemCachedDelete:
-    [0] CGCMsgMemCachedDelete::~CGCMsgMemCachedDelete()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CGCMsgMemCachedDelete::New() const
-    [3] CGCMsgMemCachedDelete::Clear()
-    [4] CGCMsgMemCachedDelete::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CGCMsgMemCachedDelete::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CGCMsgMemCachedDelete::ByteSize() const
-    [9] CGCMsgMemCachedDelete::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CGCMsgMemCachedDelete::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CGCMsgMemCachedDelete::GetCachedSize() const
-    [12] CGCMsgMemCachedDelete::CopyFrom(google::protobuf::Message const&)
-    [13] CGCMsgMemCachedDelete::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CGCMsgMemCachedDelete::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CGCMsgMemCachedDelete::GetMetadata() const
+    CGCMsgMemCachedDelete::~CGCMsgMemCachedDelete()
+    google::protobuf::Message::GetTypeName() const
+    CGCMsgMemCachedDelete::New() const
+    CGCMsgMemCachedDelete::Clear()
+    CGCMsgMemCachedDelete::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CGCMsgMemCachedDelete::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CGCMsgMemCachedDelete::ByteSize() const
+    CGCMsgMemCachedDelete::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CGCMsgMemCachedDelete::SerializeWithCachedSizesToArray(unsigned char*) const
+    CGCMsgMemCachedDelete::GetCachedSize() const
+    CGCMsgMemCachedDelete::CopyFrom(google::protobuf::Message const&)
+    CGCMsgMemCachedDelete::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CGCMsgMemCachedDelete::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CGCMsgMemCachedDelete::GetMetadata() const

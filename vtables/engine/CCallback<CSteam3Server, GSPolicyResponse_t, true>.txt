@@ -1,5 +1,5 @@
 VTable for CCallback<CSteam3Server, GSPolicyResponse_t, true>:
-    [0] CCallbackImpl<1>::Run(void*, bool, unsigned long long)
-    [1] CCallbackImpl<1>::GetCallbackSizeBytes()
-    [2] CCallback<CSteam3Server, GSPolicyResponse_t, true>::~CCallback()
-    [3] CCallback<CSteam3Server, GSPolicyResponse_t, true>::~CCallback()
+    CCallbackImpl<1>::Run(void*, bool, unsigned long long)
+    CCallbackImpl<1>::GetCallbackSizeBytes()
+    CCallback<CSteam3Server, GSPolicyResponse_t, true>::~CCallback()
+    CCallback<CSteam3Server, GSPolicyResponse_t, true>::~CCallback()

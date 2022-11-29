@@ -1,20 +1,20 @@
 VTable for CMsgSystemBroadcast:
-    [0] CMsgSystemBroadcast::~CMsgSystemBroadcast()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgSystemBroadcast::New() const
-    [3] CMsgSystemBroadcast::Clear()
-    [4] CMsgSystemBroadcast::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgSystemBroadcast::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgSystemBroadcast::ByteSize() const
-    [9] CMsgSystemBroadcast::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgSystemBroadcast::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgSystemBroadcast::GetCachedSize() const
-    [12] CMsgSystemBroadcast::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgSystemBroadcast::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgSystemBroadcast::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgSystemBroadcast::GetMetadata() const
+    CMsgSystemBroadcast::~CMsgSystemBroadcast()
+    google::protobuf::Message::GetTypeName() const
+    CMsgSystemBroadcast::New() const
+    CMsgSystemBroadcast::Clear()
+    CMsgSystemBroadcast::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgSystemBroadcast::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgSystemBroadcast::ByteSize() const
+    CMsgSystemBroadcast::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgSystemBroadcast::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgSystemBroadcast::GetCachedSize() const
+    CMsgSystemBroadcast::CopyFrom(google::protobuf::Message const&)
+    CMsgSystemBroadcast::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgSystemBroadcast::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgSystemBroadcast::GetMetadata() const

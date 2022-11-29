@@ -1,6 +1,6 @@
 VTable for CryptoPP::PKCS_EncryptionPaddingScheme:
-    [0] CryptoPP::PKCS_EncryptionPaddingScheme::~PKCS_EncryptionPaddingScheme()
-    [1] CryptoPP::PK_EncryptionMessageEncodingMethod::ParameterSupported(char const*) const
-    [2] CryptoPP::PKCS_EncryptionPaddingScheme::MaxUnpaddedLength(unsigned int) const
-    [3] CryptoPP::PKCS_EncryptionPaddingScheme::Pad(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned int, unsigned char*, unsigned int, CryptoPP::NameValuePairs const&) const
-    [4] CryptoPP::PKCS_EncryptionPaddingScheme::Unpad(unsigned char const*, unsigned int, unsigned char*, CryptoPP::NameValuePairs const&) const
+    CryptoPP::PKCS_EncryptionPaddingScheme::~PKCS_EncryptionPaddingScheme()
+    CryptoPP::PK_EncryptionMessageEncodingMethod::ParameterSupported(char const*) const
+    CryptoPP::PKCS_EncryptionPaddingScheme::MaxUnpaddedLength(unsigned int) const
+    CryptoPP::PKCS_EncryptionPaddingScheme::Pad(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned int, unsigned char*, unsigned int, CryptoPP::NameValuePairs const&) const
+    CryptoPP::PKCS_EncryptionPaddingScheme::Unpad(unsigned char const*, unsigned int, unsigned char*, CryptoPP::NameValuePairs const&) const

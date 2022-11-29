@@ -1,2 +1,2 @@
 VTable for GCSDK::CWorkThread:
-    [0] GCSDK::CWorkThread::~CWorkThread()
+    GCSDK::CWorkThread::~CWorkThread()

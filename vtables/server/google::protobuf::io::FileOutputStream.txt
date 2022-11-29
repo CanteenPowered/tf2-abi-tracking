@@ -1,10 +1,10 @@
 VTable for google::protobuf::io::FileOutputStream:
-    [0] google::protobuf::io::FileOutputStream::~FileOutputStream()
-    [1] google::protobuf::io::FileOutputStream::Next(void**, int*)
-    [2] google::protobuf::io::FileOutputStream::BackUp(int)
-    [3] google::protobuf::io::FileOutputStream::ByteCount() const
-    [4] google::protobuf::io::ZeroCopyOutputStream::WriteAliasedRaw(void const*, int)
-    [5] google::protobuf::io::ZeroCopyOutputStream::AllowsAliasing() const
+    google::protobuf::io::FileOutputStream::~FileOutputStream()
+    google::protobuf::io::FileOutputStream::Next(void**, int*)
+    google::protobuf::io::FileOutputStream::BackUp(int)
+    google::protobuf::io::FileOutputStream::ByteCount() const
+    google::protobuf::io::ZeroCopyOutputStream::WriteAliasedRaw(void const*, int)
+    google::protobuf::io::ZeroCopyOutputStream::AllowsAliasing() const
 VTable for google::protobuf::io::FileOutputStream::CopyingFileOutputStream:
-    [0] google::protobuf::io::FileOutputStream::CopyingFileOutputStream::~CopyingFileOutputStream()
-    [1] google::protobuf::io::FileOutputStream::CopyingFileOutputStream::Write(void const*, int)
+    google::protobuf::io::FileOutputStream::CopyingFileOutputStream::~CopyingFileOutputStream()
+    google::protobuf::io::FileOutputStream::CopyingFileOutputStream::Write(void const*, int)

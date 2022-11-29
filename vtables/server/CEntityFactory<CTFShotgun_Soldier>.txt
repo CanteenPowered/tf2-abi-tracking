@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFShotgun_Soldier>:
-    [0] CEntityFactory<CTFShotgun_Soldier>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFShotgun_Soldier>::GetEntitySize()
+    CEntityFactory<CTFShotgun_Soldier>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFShotgun_Soldier>::GetEntitySize()

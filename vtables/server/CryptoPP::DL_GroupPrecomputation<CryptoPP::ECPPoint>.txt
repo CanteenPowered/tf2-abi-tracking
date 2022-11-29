@@ -1,9 +1,9 @@
 VTable for CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint>:
-    [0] CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint>::ConvertIn(CryptoPP::EC2NPoint const&) const
-    [1] CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint>::ConvertOut(CryptoPP::EC2NPoint const&) const
+    CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint>::ConvertIn(CryptoPP::EC2NPoint const&) const
+    CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint>::ConvertOut(CryptoPP::EC2NPoint const&) const
 VTable for CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint>:
-    [0] CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint>::ConvertIn(CryptoPP::ECPPoint const&) const
-    [1] CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint>::ConvertOut(CryptoPP::ECPPoint const&) const
+    CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint>::ConvertIn(CryptoPP::ECPPoint const&) const
+    CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint>::ConvertOut(CryptoPP::ECPPoint const&) const
 VTable for CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer>:
-    [0] CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer>::ConvertIn(CryptoPP::Integer const&) const
-    [1] CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer>::ConvertOut(CryptoPP::Integer const&) const
+    CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer>::ConvertIn(CryptoPP::Integer const&) const
+    CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer>::ConvertOut(CryptoPP::Integer const&) const

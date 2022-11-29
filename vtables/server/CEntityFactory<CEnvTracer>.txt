@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CEnvTracer>:
-    [0] CEntityFactory<CEnvTracer>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CEnvTracer>::GetEntitySize()
+    CEntityFactory<CEnvTracer>::Destroy(IServerNetworkable*)
+    CEntityFactory<CEnvTracer>::GetEntitySize()

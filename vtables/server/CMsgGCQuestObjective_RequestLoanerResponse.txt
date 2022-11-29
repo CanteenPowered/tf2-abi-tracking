@@ -1,40 +1,40 @@
 VTable for CMsgGCQuestObjective_RequestLoanerResponse:
-    [0] CMsgGCQuestObjective_RequestLoanerResponse::~CMsgGCQuestObjective_RequestLoanerResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCQuestObjective_RequestLoanerResponse::New() const
-    [3] CMsgGCQuestObjective_RequestLoanerResponse::Clear()
-    [4] CMsgGCQuestObjective_RequestLoanerResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCQuestObjective_RequestLoanerResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCQuestObjective_RequestLoanerResponse::ByteSize() const
-    [9] CMsgGCQuestObjective_RequestLoanerResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCQuestObjective_RequestLoanerResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCQuestObjective_RequestLoanerResponse::GetCachedSize() const
-    [12] CMsgGCQuestObjective_RequestLoanerResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCQuestObjective_RequestLoanerResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCQuestObjective_RequestLoanerResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCQuestObjective_RequestLoanerResponse::GetMetadata() const
+    CMsgGCQuestObjective_RequestLoanerResponse::~CMsgGCQuestObjective_RequestLoanerResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCQuestObjective_RequestLoanerResponse::New() const
+    CMsgGCQuestObjective_RequestLoanerResponse::Clear()
+    CMsgGCQuestObjective_RequestLoanerResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCQuestObjective_RequestLoanerResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCQuestObjective_RequestLoanerResponse::ByteSize() const
+    CMsgGCQuestObjective_RequestLoanerResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCQuestObjective_RequestLoanerResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCQuestObjective_RequestLoanerResponse::GetCachedSize() const
+    CMsgGCQuestObjective_RequestLoanerResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgGCQuestObjective_RequestLoanerResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCQuestObjective_RequestLoanerResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCQuestObjective_RequestLoanerResponse::GetMetadata() const
 VTable for CMsgGCQuestObjective_RequestLoanerItems:
-    [0] CMsgGCQuestObjective_RequestLoanerItems::~CMsgGCQuestObjective_RequestLoanerItems()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCQuestObjective_RequestLoanerItems::New() const
-    [3] CMsgGCQuestObjective_RequestLoanerItems::Clear()
-    [4] CMsgGCQuestObjective_RequestLoanerItems::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCQuestObjective_RequestLoanerItems::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCQuestObjective_RequestLoanerItems::ByteSize() const
-    [9] CMsgGCQuestObjective_RequestLoanerItems::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCQuestObjective_RequestLoanerItems::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCQuestObjective_RequestLoanerItems::GetCachedSize() const
-    [12] CMsgGCQuestObjective_RequestLoanerItems::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCQuestObjective_RequestLoanerItems::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCQuestObjective_RequestLoanerItems::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCQuestObjective_RequestLoanerItems::GetMetadata() const
+    CMsgGCQuestObjective_RequestLoanerItems::~CMsgGCQuestObjective_RequestLoanerItems()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCQuestObjective_RequestLoanerItems::New() const
+    CMsgGCQuestObjective_RequestLoanerItems::Clear()
+    CMsgGCQuestObjective_RequestLoanerItems::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCQuestObjective_RequestLoanerItems::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCQuestObjective_RequestLoanerItems::ByteSize() const
+    CMsgGCQuestObjective_RequestLoanerItems::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCQuestObjective_RequestLoanerItems::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCQuestObjective_RequestLoanerItems::GetCachedSize() const
+    CMsgGCQuestObjective_RequestLoanerItems::CopyFrom(google::protobuf::Message const&)
+    CMsgGCQuestObjective_RequestLoanerItems::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCQuestObjective_RequestLoanerItems::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCQuestObjective_RequestLoanerItems::GetMetadata() const

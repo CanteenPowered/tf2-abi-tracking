@@ -1,20 +1,20 @@
 VTable for CMsgQuestMapStarType:
-    [0] CMsgQuestMapStarType::~CMsgQuestMapStarType()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgQuestMapStarType::New() const
-    [3] CMsgQuestMapStarType::Clear()
-    [4] CMsgQuestMapStarType::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgQuestMapStarType::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgQuestMapStarType::ByteSize() const
-    [9] CMsgQuestMapStarType::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgQuestMapStarType::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgQuestMapStarType::GetCachedSize() const
-    [12] CMsgQuestMapStarType::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgQuestMapStarType::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgQuestMapStarType::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgQuestMapStarType::GetMetadata() const
+    CMsgQuestMapStarType::~CMsgQuestMapStarType()
+    google::protobuf::Message::GetTypeName() const
+    CMsgQuestMapStarType::New() const
+    CMsgQuestMapStarType::Clear()
+    CMsgQuestMapStarType::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgQuestMapStarType::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgQuestMapStarType::ByteSize() const
+    CMsgQuestMapStarType::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgQuestMapStarType::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgQuestMapStarType::GetCachedSize() const
+    CMsgQuestMapStarType::CopyFrom(google::protobuf::Message const&)
+    CMsgQuestMapStarType::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgQuestMapStarType::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgQuestMapStarType::GetMetadata() const

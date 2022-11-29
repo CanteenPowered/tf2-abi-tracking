@@ -1,9 +1,9 @@
 VTable for CEntityFactory<CTFPistol_Scout>:
-    [0] CEntityFactory<CTFPistol_Scout>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFPistol_Scout>::GetEntitySize()
+    CEntityFactory<CTFPistol_Scout>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFPistol_Scout>::GetEntitySize()
 VTable for CEntityFactory<CTFPistol_ScoutSecondary>:
-    [0] CEntityFactory<CTFPistol_ScoutSecondary>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFPistol_ScoutSecondary>::GetEntitySize()
+    CEntityFactory<CTFPistol_ScoutSecondary>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFPistol_ScoutSecondary>::GetEntitySize()
 VTable for CEntityFactory<CTFPistol_ScoutPrimary>:
-    [0] CEntityFactory<CTFPistol_ScoutPrimary>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFPistol_ScoutPrimary>::GetEntitySize()
+    CEntityFactory<CTFPistol_ScoutPrimary>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFPistol_ScoutPrimary>::GetEntitySize()

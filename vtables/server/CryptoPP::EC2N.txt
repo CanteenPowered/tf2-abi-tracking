@@ -1,14 +1,14 @@
 VTable for CryptoPP::EC2N:
-    [0] CryptoPP::EC2N::~EC2N()
-    [1] CryptoPP::EC2N::Equal(CryptoPP::EC2NPoint const&, CryptoPP::EC2NPoint const&) const
-    [2] CryptoPP::EC2N::Identity() const
-    [3] CryptoPP::EC2N::Add(CryptoPP::EC2NPoint const&, CryptoPP::EC2NPoint const&) const
-    [4] CryptoPP::EC2N::Inverse(CryptoPP::EC2NPoint const&) const
-    [5] CryptoPP::EC2N::InversionIsFast() const
-    [6] CryptoPP::EC2N::Double(CryptoPP::EC2NPoint const&) const
-    [7] CryptoPP::AbstractGroup<CryptoPP::EC2NPoint>::Subtract(CryptoPP::EC2NPoint const&, CryptoPP::EC2NPoint const&) const
-    [8] CryptoPP::AbstractGroup<CryptoPP::EC2NPoint>::Accumulate(CryptoPP::EC2NPoint&, CryptoPP::EC2NPoint const&) const
-    [9] CryptoPP::AbstractGroup<CryptoPP::EC2NPoint>::Reduce(CryptoPP::EC2NPoint&, CryptoPP::EC2NPoint const&) const
-    [10] CryptoPP::AbstractGroup<CryptoPP::EC2NPoint>::ScalarMultiply(CryptoPP::EC2NPoint const&, CryptoPP::Integer const&) const
-    [11] CryptoPP::AbstractGroup<CryptoPP::EC2NPoint>::CascadeScalarMultiply(CryptoPP::EC2NPoint const&, CryptoPP::Integer const&, CryptoPP::EC2NPoint const&, CryptoPP::Integer const&) const
-    [12] CryptoPP::AbstractGroup<CryptoPP::EC2NPoint>::SimultaneousMultiply(CryptoPP::EC2NPoint*, CryptoPP::EC2NPoint const&, CryptoPP::Integer const*, unsigned int) const
+    CryptoPP::EC2N::~EC2N()
+    CryptoPP::EC2N::Equal(CryptoPP::EC2NPoint const&, CryptoPP::EC2NPoint const&) const
+    CryptoPP::EC2N::Identity() const
+    CryptoPP::EC2N::Add(CryptoPP::EC2NPoint const&, CryptoPP::EC2NPoint const&) const
+    CryptoPP::EC2N::Inverse(CryptoPP::EC2NPoint const&) const
+    CryptoPP::EC2N::InversionIsFast() const
+    CryptoPP::EC2N::Double(CryptoPP::EC2NPoint const&) const
+    CryptoPP::AbstractGroup<CryptoPP::EC2NPoint>::Subtract(CryptoPP::EC2NPoint const&, CryptoPP::EC2NPoint const&) const
+    CryptoPP::AbstractGroup<CryptoPP::EC2NPoint>::Accumulate(CryptoPP::EC2NPoint&, CryptoPP::EC2NPoint const&) const
+    CryptoPP::AbstractGroup<CryptoPP::EC2NPoint>::Reduce(CryptoPP::EC2NPoint&, CryptoPP::EC2NPoint const&) const
+    CryptoPP::AbstractGroup<CryptoPP::EC2NPoint>::ScalarMultiply(CryptoPP::EC2NPoint const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractGroup<CryptoPP::EC2NPoint>::CascadeScalarMultiply(CryptoPP::EC2NPoint const&, CryptoPP::Integer const&, CryptoPP::EC2NPoint const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractGroup<CryptoPP::EC2NPoint>::SimultaneousMultiply(CryptoPP::EC2NPoint*, CryptoPP::EC2NPoint const&, CryptoPP::Integer const*, unsigned int) const

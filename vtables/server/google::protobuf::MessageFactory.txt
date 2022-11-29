@@ -1,2 +1,2 @@
 VTable for google::protobuf::MessageFactory:
-    [0] google::protobuf::MessageFactory::~MessageFactory()
+    google::protobuf::MessageFactory::~MessageFactory()

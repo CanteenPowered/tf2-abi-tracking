@@ -1,17 +1,17 @@
 VTable for CryptoPP::DL_PrivateKey_GFP<CryptoPP::DL_GroupParameters_DSA>:
-    [0] CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetAbstractGroupParameters() const
-    [1] CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::AccessAbstractGroupParameters()
-    [2] CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetPrivateExponent() const
-    [3] CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::SetPrivateExponent(CryptoPP::Integer const&)
-    [4] CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [5] CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetVoidValue(char const*, std::type_info const&, void*) const
-    [6] CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::AssignFrom(CryptoPP::NameValuePairs const&)
-    [7] CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
-    [8] CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::SupportsPrecomputation() const
-    [9] CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::Precompute(unsigned int)
-    [10] CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::LoadPrecomputation(CryptoPP::BufferedTransformation&)
-    [11] CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::SavePrecomputation(CryptoPP::BufferedTransformation&) const
-    [12] CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::BERDecodePrivateKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
-    [13] CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::DEREncodePrivateKey(CryptoPP::BufferedTransformation&) const
-    [14] CryptoPP::DL_PrivateKey_GFP<CryptoPP::DL_GroupParameters_DSA>::~DL_PrivateKey_GFP()
-    [15] CryptoPP::DL_PrivateKey_GFP<CryptoPP::DL_GroupParameters_DSA>::~DL_PrivateKey_GFP()
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetAbstractGroupParameters() const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::AccessAbstractGroupParameters()
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetPrivateExponent() const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::SetPrivateExponent(CryptoPP::Integer const&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetVoidValue(char const*, std::type_info const&, void*) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::AssignFrom(CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::SupportsPrecomputation() const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::Precompute(unsigned int)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::LoadPrecomputation(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::BERDecodePrivateKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::DEREncodePrivateKey(CryptoPP::BufferedTransformation&) const
+    CryptoPP::DL_PrivateKey_GFP<CryptoPP::DL_GroupParameters_DSA>::~DL_PrivateKey_GFP()
+    CryptoPP::DL_PrivateKey_GFP<CryptoPP::DL_GroupParameters_DSA>::~DL_PrivateKey_GFP()

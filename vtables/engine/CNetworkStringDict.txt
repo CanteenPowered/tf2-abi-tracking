@@ -1,10 +1,10 @@
 VTable for CNetworkStringDict:
-    [0] CNetworkStringDict::~CNetworkStringDict()
-    [1] CNetworkStringDict::Count()
-    [2] CNetworkStringDict::Purge()
-    [3] CNetworkStringDict::String(int)
-    [4] CNetworkStringDict::IsValidIndex(int)
-    [5] CNetworkStringDict::Insert(char const*)
-    [6] CNetworkStringDict::Find(char const*)
-    [7] CNetworkStringDict::Element(int)
-    [8] CNetworkStringDict::Element(int) const
+    CNetworkStringDict::~CNetworkStringDict()
+    CNetworkStringDict::Count()
+    CNetworkStringDict::Purge()
+    CNetworkStringDict::String(int)
+    CNetworkStringDict::IsValidIndex(int)
+    CNetworkStringDict::Insert(char const*)
+    CNetworkStringDict::Find(char const*)
+    CNetworkStringDict::Element(int)
+    CNetworkStringDict::Element(int) const

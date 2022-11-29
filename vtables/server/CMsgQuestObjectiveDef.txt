@@ -1,20 +1,20 @@
 VTable for CMsgQuestObjectiveDef:
-    [0] CMsgQuestObjectiveDef::~CMsgQuestObjectiveDef()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgQuestObjectiveDef::New() const
-    [3] CMsgQuestObjectiveDef::Clear()
-    [4] CMsgQuestObjectiveDef::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgQuestObjectiveDef::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgQuestObjectiveDef::ByteSize() const
-    [9] CMsgQuestObjectiveDef::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgQuestObjectiveDef::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgQuestObjectiveDef::GetCachedSize() const
-    [12] CMsgQuestObjectiveDef::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgQuestObjectiveDef::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgQuestObjectiveDef::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgQuestObjectiveDef::GetMetadata() const
+    CMsgQuestObjectiveDef::~CMsgQuestObjectiveDef()
+    google::protobuf::Message::GetTypeName() const
+    CMsgQuestObjectiveDef::New() const
+    CMsgQuestObjectiveDef::Clear()
+    CMsgQuestObjectiveDef::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgQuestObjectiveDef::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgQuestObjectiveDef::ByteSize() const
+    CMsgQuestObjectiveDef::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgQuestObjectiveDef::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgQuestObjectiveDef::GetCachedSize() const
+    CMsgQuestObjectiveDef::CopyFrom(google::protobuf::Message const&)
+    CMsgQuestObjectiveDef::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgQuestObjectiveDef::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgQuestObjectiveDef::GetMetadata() const

@@ -1,2 +1,2 @@
 VTable for PlaceStickyBombReply:
-    [0] PlaceStickyBombReply::OnFail(INextBot*, INextBotReply::FailureReason)
+    PlaceStickyBombReply::OnFail(INextBot*, INextBotReply::FailureReason)

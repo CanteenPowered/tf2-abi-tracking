@@ -1,2 +1,2 @@
 VTable for IFuncNoBuildAutoList:
-    [0] IFuncNoBuildAutoList::~IFuncNoBuildAutoList()
+    IFuncNoBuildAutoList::~IFuncNoBuildAutoList()

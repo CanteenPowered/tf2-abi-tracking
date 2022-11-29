@@ -1,4 +1,4 @@
 VTable for CryptoPP::HashTransformation:
-    [0] CryptoPP::HashTransformation::~HashTransformation()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::HashTransformation::~HashTransformation()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const

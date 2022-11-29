@@ -1,80 +1,80 @@
 VTable for CWorkshop_SetItemPaymentRules_Response:
-    [0] CWorkshop_SetItemPaymentRules_Response::~CWorkshop_SetItemPaymentRules_Response()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CWorkshop_SetItemPaymentRules_Response::New() const
-    [3] CWorkshop_SetItemPaymentRules_Response::Clear()
-    [4] CWorkshop_SetItemPaymentRules_Response::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CWorkshop_SetItemPaymentRules_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CWorkshop_SetItemPaymentRules_Response::ByteSize() const
-    [9] CWorkshop_SetItemPaymentRules_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CWorkshop_SetItemPaymentRules_Response::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CWorkshop_SetItemPaymentRules_Response::GetCachedSize() const
-    [12] CWorkshop_SetItemPaymentRules_Response::CopyFrom(google::protobuf::Message const&)
-    [13] CWorkshop_SetItemPaymentRules_Response::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CWorkshop_SetItemPaymentRules_Response::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CWorkshop_SetItemPaymentRules_Response::GetMetadata() const
+    CWorkshop_SetItemPaymentRules_Response::~CWorkshop_SetItemPaymentRules_Response()
+    google::protobuf::Message::GetTypeName() const
+    CWorkshop_SetItemPaymentRules_Response::New() const
+    CWorkshop_SetItemPaymentRules_Response::Clear()
+    CWorkshop_SetItemPaymentRules_Response::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CWorkshop_SetItemPaymentRules_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CWorkshop_SetItemPaymentRules_Response::ByteSize() const
+    CWorkshop_SetItemPaymentRules_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CWorkshop_SetItemPaymentRules_Response::SerializeWithCachedSizesToArray(unsigned char*) const
+    CWorkshop_SetItemPaymentRules_Response::GetCachedSize() const
+    CWorkshop_SetItemPaymentRules_Response::CopyFrom(google::protobuf::Message const&)
+    CWorkshop_SetItemPaymentRules_Response::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CWorkshop_SetItemPaymentRules_Response::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CWorkshop_SetItemPaymentRules_Response::GetMetadata() const
 VTable for CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule:
-    [0] CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::~CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::New() const
-    [3] CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::Clear()
-    [4] CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::ByteSize() const
-    [9] CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::GetCachedSize() const
-    [12] CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::CopyFrom(google::protobuf::Message const&)
-    [13] CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::GetMetadata() const
+    CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::~CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule()
+    google::protobuf::Message::GetTypeName() const
+    CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::New() const
+    CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::Clear()
+    CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::ByteSize() const
+    CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::SerializeWithCachedSizesToArray(unsigned char*) const
+    CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::GetCachedSize() const
+    CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::CopyFrom(google::protobuf::Message const&)
+    CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CWorkshop_SetItemPaymentRules_Request_PartnerItemPaymentRule::GetMetadata() const
 VTable for CWorkshop_SetItemPaymentRules_Request:
-    [0] CWorkshop_SetItemPaymentRules_Request::~CWorkshop_SetItemPaymentRules_Request()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CWorkshop_SetItemPaymentRules_Request::New() const
-    [3] CWorkshop_SetItemPaymentRules_Request::Clear()
-    [4] CWorkshop_SetItemPaymentRules_Request::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CWorkshop_SetItemPaymentRules_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CWorkshop_SetItemPaymentRules_Request::ByteSize() const
-    [9] CWorkshop_SetItemPaymentRules_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CWorkshop_SetItemPaymentRules_Request::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CWorkshop_SetItemPaymentRules_Request::GetCachedSize() const
-    [12] CWorkshop_SetItemPaymentRules_Request::CopyFrom(google::protobuf::Message const&)
-    [13] CWorkshop_SetItemPaymentRules_Request::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CWorkshop_SetItemPaymentRules_Request::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CWorkshop_SetItemPaymentRules_Request::GetMetadata() const
+    CWorkshop_SetItemPaymentRules_Request::~CWorkshop_SetItemPaymentRules_Request()
+    google::protobuf::Message::GetTypeName() const
+    CWorkshop_SetItemPaymentRules_Request::New() const
+    CWorkshop_SetItemPaymentRules_Request::Clear()
+    CWorkshop_SetItemPaymentRules_Request::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CWorkshop_SetItemPaymentRules_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CWorkshop_SetItemPaymentRules_Request::ByteSize() const
+    CWorkshop_SetItemPaymentRules_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CWorkshop_SetItemPaymentRules_Request::SerializeWithCachedSizesToArray(unsigned char*) const
+    CWorkshop_SetItemPaymentRules_Request::GetCachedSize() const
+    CWorkshop_SetItemPaymentRules_Request::CopyFrom(google::protobuf::Message const&)
+    CWorkshop_SetItemPaymentRules_Request::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CWorkshop_SetItemPaymentRules_Request::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CWorkshop_SetItemPaymentRules_Request::GetMetadata() const
 VTable for CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule:
-    [0] CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::~CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::New() const
-    [3] CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::Clear()
-    [4] CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::ByteSize() const
-    [9] CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::GetCachedSize() const
-    [12] CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::CopyFrom(google::protobuf::Message const&)
-    [13] CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::GetMetadata() const
+    CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::~CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule()
+    google::protobuf::Message::GetTypeName() const
+    CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::New() const
+    CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::Clear()
+    CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::ByteSize() const
+    CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::SerializeWithCachedSizesToArray(unsigned char*) const
+    CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::GetCachedSize() const
+    CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::CopyFrom(google::protobuf::Message const&)
+    CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::GetMetadata() const

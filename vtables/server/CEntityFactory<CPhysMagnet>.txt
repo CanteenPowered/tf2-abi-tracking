@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CPhysMagnet>:
-    [0] CEntityFactory<CPhysMagnet>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CPhysMagnet>::GetEntitySize()
+    CEntityFactory<CPhysMagnet>::Destroy(IServerNetworkable*)
+    CEntityFactory<CPhysMagnet>::GetEntitySize()

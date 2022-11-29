@@ -1,6 +1,6 @@
 VTable for CEconTool_DuckToken:
-    [0] CEconTool_DuckToken::~CEconTool_DuckToken()
-    [1] CEconTool_DuckToken::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
-    [2] IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
-    [3] IEconTool::RequiresToolEscrowPeriod() const
-    [4] IEconTool::BFinishInitialization()
+    CEconTool_DuckToken::~CEconTool_DuckToken()
+    CEconTool_DuckToken::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
+    IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
+    IEconTool::RequiresToolEscrowPeriod() const
+    IEconTool::BFinishInitialization()

@@ -1,2 +1,2 @@
 VTable for fogparams_t:
-    [0] fogparams_t::NetworkStateChanged(void*)
+    fogparams_t::NetworkStateChanged(void*)

@@ -1,20 +1,20 @@
 VTable for CMsgGCBannedWordListRequest:
-    [0] CMsgGCBannedWordListRequest::~CMsgGCBannedWordListRequest()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCBannedWordListRequest::New() const
-    [3] CMsgGCBannedWordListRequest::Clear()
-    [4] CMsgGCBannedWordListRequest::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCBannedWordListRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCBannedWordListRequest::ByteSize() const
-    [9] CMsgGCBannedWordListRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCBannedWordListRequest::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCBannedWordListRequest::GetCachedSize() const
-    [12] CMsgGCBannedWordListRequest::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCBannedWordListRequest::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCBannedWordListRequest::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCBannedWordListRequest::GetMetadata() const
+    CMsgGCBannedWordListRequest::~CMsgGCBannedWordListRequest()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCBannedWordListRequest::New() const
+    CMsgGCBannedWordListRequest::Clear()
+    CMsgGCBannedWordListRequest::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCBannedWordListRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCBannedWordListRequest::ByteSize() const
+    CMsgGCBannedWordListRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCBannedWordListRequest::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCBannedWordListRequest::GetCachedSize() const
+    CMsgGCBannedWordListRequest::CopyFrom(google::protobuf::Message const&)
+    CMsgGCBannedWordListRequest::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCBannedWordListRequest::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCBannedWordListRequest::GetMetadata() const

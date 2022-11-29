@@ -1,4 +1,4 @@
 VTable for TSListTests::CQueueOps:
-    [0] TSListTests::CQueueOps::Pop(int*)
-    [1] TSListTests::CQueueOps::Validate()
-    [2] TSListTests::CQueueOps::IsEmpty()
+    TSListTests::CQueueOps::Pop(int*)
+    TSListTests::CQueueOps::Validate()
+    TSListTests::CQueueOps::IsEmpty()

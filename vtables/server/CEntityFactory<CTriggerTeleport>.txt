@@ -1,6 +1,6 @@
 VTable for CEntityFactory<CTriggerTeleport>:
-    [0] CEntityFactory<CTriggerTeleport>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTriggerTeleport>::GetEntitySize()
+    CEntityFactory<CTriggerTeleport>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTriggerTeleport>::GetEntitySize()
 VTable for CEntityFactory<CTriggerTeleportRelative>:
-    [0] CEntityFactory<CTriggerTeleportRelative>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTriggerTeleportRelative>::GetEntitySize()
+    CEntityFactory<CTriggerTeleportRelative>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTriggerTeleportRelative>::GetEntitySize()

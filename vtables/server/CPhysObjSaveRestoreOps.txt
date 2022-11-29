@@ -1,5 +1,5 @@
 VTable for CPhysObjSaveRestoreOps:
-    [0] CPhysObjSaveRestoreOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
-    [1] CPhysObjSaveRestoreOps::IsEmpty(SaveRestoreFieldInfo_t const&)
-    [2] CPhysObjSaveRestoreOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
-    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+    CPhysObjSaveRestoreOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    CPhysObjSaveRestoreOps::IsEmpty(SaveRestoreFieldInfo_t const&)
+    CPhysObjSaveRestoreOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)

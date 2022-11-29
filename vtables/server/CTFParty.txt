@@ -1,23 +1,23 @@
 VTable for CTFParty:
-    [0] CTFParty::~CTFParty()
-    [1] GCSDK::CProtoBufSharedObject<CSOTFParty, 2003, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] CTFParty::Dump() const
-    [8] CTFParty::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOTFParty, 2003, true>::GetPObject()
-    [11] CTFParty::GetGroupID() const
-    [12] CTFParty::GetSharedObjectForMember(CSteamID const&)
-    [13] CTFParty::GetLeader() const
-    [14] CTFParty::GetNumMembers() const
-    [15] CTFParty::GetMember(int) const
-    [16] CTFParty::GetMemberIndexBySteamID(CSteamID const&) const
-    [17] CTFParty::GetNumPendingPlayers() const
-    [18] CTFParty::GetPendingPlayer(int) const
-    [19] CTFParty::GetPendingPlayerInviter(int) const
-    [20] CTFParty::GetPendingPlayerType(int) const
-    [21] CTFParty::GetPendingPlayerIndexBySteamID(CSteamID const&) const
+    CTFParty::~CTFParty()
+    GCSDK::CProtoBufSharedObject<CSOTFParty, 2003, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    CTFParty::Dump() const
+    CTFParty::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOTFParty, 2003, true>::GetPObject()
+    CTFParty::GetGroupID() const
+    CTFParty::GetSharedObjectForMember(CSteamID const&)
+    CTFParty::GetLeader() const
+    CTFParty::GetNumMembers() const
+    CTFParty::GetMember(int) const
+    CTFParty::GetMemberIndexBySteamID(CSteamID const&) const
+    CTFParty::GetNumPendingPlayers() const
+    CTFParty::GetPendingPlayer(int) const
+    CTFParty::GetPendingPlayerInviter(int) const
+    CTFParty::GetPendingPlayerType(int) const
+    CTFParty::GetPendingPlayerIndexBySteamID(CSteamID const&) const

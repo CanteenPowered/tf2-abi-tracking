@@ -1,20 +1,20 @@
 VTable for CMsgClientGoodbye:
-    [0] CMsgClientGoodbye::~CMsgClientGoodbye()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgClientGoodbye::New() const
-    [3] CMsgClientGoodbye::Clear()
-    [4] CMsgClientGoodbye::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgClientGoodbye::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgClientGoodbye::ByteSize() const
-    [9] CMsgClientGoodbye::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgClientGoodbye::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgClientGoodbye::GetCachedSize() const
-    [12] CMsgClientGoodbye::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgClientGoodbye::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgClientGoodbye::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgClientGoodbye::GetMetadata() const
+    CMsgClientGoodbye::~CMsgClientGoodbye()
+    google::protobuf::Message::GetTypeName() const
+    CMsgClientGoodbye::New() const
+    CMsgClientGoodbye::Clear()
+    CMsgClientGoodbye::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgClientGoodbye::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgClientGoodbye::ByteSize() const
+    CMsgClientGoodbye::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgClientGoodbye::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgClientGoodbye::GetCachedSize() const
+    CMsgClientGoodbye::CopyFrom(google::protobuf::Message const&)
+    CMsgClientGoodbye::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgClientGoodbye::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgClientGoodbye::GetMetadata() const

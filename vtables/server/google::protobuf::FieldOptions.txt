@@ -1,20 +1,20 @@
 VTable for google::protobuf::FieldOptions:
-    [0] google::protobuf::FieldOptions::~FieldOptions()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] google::protobuf::FieldOptions::New() const
-    [3] google::protobuf::FieldOptions::Clear()
-    [4] google::protobuf::FieldOptions::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] google::protobuf::FieldOptions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] google::protobuf::FieldOptions::ByteSize() const
-    [9] google::protobuf::FieldOptions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] google::protobuf::FieldOptions::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] google::protobuf::FieldOptions::GetCachedSize() const
-    [12] google::protobuf::FieldOptions::CopyFrom(google::protobuf::Message const&)
-    [13] google::protobuf::FieldOptions::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] google::protobuf::FieldOptions::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] google::protobuf::FieldOptions::GetMetadata() const
+    google::protobuf::FieldOptions::~FieldOptions()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::FieldOptions::New() const
+    google::protobuf::FieldOptions::Clear()
+    google::protobuf::FieldOptions::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::FieldOptions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::FieldOptions::ByteSize() const
+    google::protobuf::FieldOptions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::FieldOptions::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::FieldOptions::GetCachedSize() const
+    google::protobuf::FieldOptions::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::FieldOptions::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::FieldOptions::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::FieldOptions::GetMetadata() const

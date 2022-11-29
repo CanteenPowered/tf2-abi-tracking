@@ -1,20 +1,20 @@
 VTable for CSOTFPlayerInfo:
-    [0] CSOTFPlayerInfo::~CSOTFPlayerInfo()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CSOTFPlayerInfo::New() const
-    [3] CSOTFPlayerInfo::Clear()
-    [4] CSOTFPlayerInfo::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CSOTFPlayerInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CSOTFPlayerInfo::ByteSize() const
-    [9] CSOTFPlayerInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CSOTFPlayerInfo::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CSOTFPlayerInfo::GetCachedSize() const
-    [12] CSOTFPlayerInfo::CopyFrom(google::protobuf::Message const&)
-    [13] CSOTFPlayerInfo::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CSOTFPlayerInfo::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CSOTFPlayerInfo::GetMetadata() const
+    CSOTFPlayerInfo::~CSOTFPlayerInfo()
+    google::protobuf::Message::GetTypeName() const
+    CSOTFPlayerInfo::New() const
+    CSOTFPlayerInfo::Clear()
+    CSOTFPlayerInfo::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CSOTFPlayerInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CSOTFPlayerInfo::ByteSize() const
+    CSOTFPlayerInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CSOTFPlayerInfo::SerializeWithCachedSizesToArray(unsigned char*) const
+    CSOTFPlayerInfo::GetCachedSize() const
+    CSOTFPlayerInfo::CopyFrom(google::protobuf::Message const&)
+    CSOTFPlayerInfo::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CSOTFPlayerInfo::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CSOTFPlayerInfo::GetMetadata() const

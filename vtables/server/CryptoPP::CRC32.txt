@@ -1,19 +1,19 @@
 VTable for CryptoPP::CRC32:
-    [0] CryptoPP::CRC32::~CRC32()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::CRC32::AlgorithmName() const
-    [3] CryptoPP::CRC32::Update(unsigned char const*, unsigned int)
-    [4] CryptoPP::HashTransformation::CreateUpdateSpace(unsigned int&)
-    [5] CryptoPP::HashTransformation::Final(unsigned char*)
-    [6] CryptoPP::HashTransformation::Restart()
-    [7] CryptoPP::CRC32::DigestSize() const
-    [8] CryptoPP::HashTransformation::BlockSize() const
-    [9] CryptoPP::HashTransformation::OptimalBlockSize() const
-    [10] CryptoPP::HashTransformation::OptimalDataAlignment() const
-    [11] CryptoPP::HashTransformation::CalculateDigest(unsigned char*, unsigned char const*, unsigned int)
-    [12] CryptoPP::HashTransformation::Verify(unsigned char const*)
-    [13] CryptoPP::HashTransformation::VerifyDigest(unsigned char const*, unsigned char const*, unsigned int)
-    [14] CryptoPP::CRC32::TruncatedFinal(unsigned char*, unsigned int)
-    [15] CryptoPP::HashTransformation::CalculateTruncatedDigest(unsigned char*, unsigned int, unsigned char const*, unsigned int)
-    [16] CryptoPP::HashTransformation::TruncatedVerify(unsigned char const*, unsigned int)
-    [17] CryptoPP::HashTransformation::VerifyTruncatedDigest(unsigned char const*, unsigned int, unsigned char const*, unsigned int)
+    CryptoPP::CRC32::~CRC32()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::CRC32::AlgorithmName() const
+    CryptoPP::CRC32::Update(unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::CreateUpdateSpace(unsigned int&)
+    CryptoPP::HashTransformation::Final(unsigned char*)
+    CryptoPP::HashTransformation::Restart()
+    CryptoPP::CRC32::DigestSize() const
+    CryptoPP::HashTransformation::BlockSize() const
+    CryptoPP::HashTransformation::OptimalBlockSize() const
+    CryptoPP::HashTransformation::OptimalDataAlignment() const
+    CryptoPP::HashTransformation::CalculateDigest(unsigned char*, unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::Verify(unsigned char const*)
+    CryptoPP::HashTransformation::VerifyDigest(unsigned char const*, unsigned char const*, unsigned int)
+    CryptoPP::CRC32::TruncatedFinal(unsigned char*, unsigned int)
+    CryptoPP::HashTransformation::CalculateTruncatedDigest(unsigned char*, unsigned int, unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::TruncatedVerify(unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::VerifyTruncatedDigest(unsigned char const*, unsigned int, unsigned char const*, unsigned int)

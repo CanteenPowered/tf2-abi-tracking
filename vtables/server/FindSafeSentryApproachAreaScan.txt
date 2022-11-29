@@ -1,6 +1,6 @@
 VTable for FindSafeSentryApproachAreaScan:
-    [0] FindSafeSentryApproachAreaScan::~FindSafeSentryApproachAreaScan()
-    [1] FindSafeSentryApproachAreaScan::operator()(CNavArea*, CNavArea*, float)
-    [2] FindSafeSentryApproachAreaScan::ShouldSearch(CNavArea*, CNavArea*, float)
-    [3] ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)
-    [4] FindSafeSentryApproachAreaScan::PostSearch()
+    FindSafeSentryApproachAreaScan::~FindSafeSentryApproachAreaScan()
+    FindSafeSentryApproachAreaScan::operator()(CNavArea*, CNavArea*, float)
+    FindSafeSentryApproachAreaScan::ShouldSearch(CNavArea*, CNavArea*, float)
+    ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)
+    FindSafeSentryApproachAreaScan::PostSearch()

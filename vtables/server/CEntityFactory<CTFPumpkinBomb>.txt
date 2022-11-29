@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFPumpkinBomb>:
-    [0] CEntityFactory<CTFPumpkinBomb>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFPumpkinBomb>::GetEntitySize()
+    CEntityFactory<CTFPumpkinBomb>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFPumpkinBomb>::GetEntitySize()

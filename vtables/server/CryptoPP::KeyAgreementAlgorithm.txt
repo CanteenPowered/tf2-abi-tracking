@@ -1,6 +1,6 @@
 VTable for CryptoPP::KeyAgreementAlgorithm:
-    [0] CryptoPP::KeyAgreementAlgorithm::~KeyAgreementAlgorithm()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::KeyAgreementAlgorithm::AccessMaterial()
-    [4] CryptoPP::KeyAgreementAlgorithm::GetMaterial() const
+    CryptoPP::KeyAgreementAlgorithm::~KeyAgreementAlgorithm()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::KeyAgreementAlgorithm::AccessMaterial()
+    CryptoPP::KeyAgreementAlgorithm::GetMaterial() const

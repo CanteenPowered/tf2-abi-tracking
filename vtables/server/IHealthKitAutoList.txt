@@ -1,2 +1,2 @@
 VTable for IHealthKitAutoList:
-    [0] IHealthKitAutoList::~IHealthKitAutoList()
+    IHealthKitAutoList::~IHealthKitAutoList()

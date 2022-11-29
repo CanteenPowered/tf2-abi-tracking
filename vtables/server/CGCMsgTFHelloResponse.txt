@@ -1,20 +1,20 @@
 VTable for CGCMsgTFHelloResponse:
-    [0] CGCMsgTFHelloResponse::~CGCMsgTFHelloResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CGCMsgTFHelloResponse::New() const
-    [3] CGCMsgTFHelloResponse::Clear()
-    [4] CGCMsgTFHelloResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CGCMsgTFHelloResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CGCMsgTFHelloResponse::ByteSize() const
-    [9] CGCMsgTFHelloResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CGCMsgTFHelloResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CGCMsgTFHelloResponse::GetCachedSize() const
-    [12] CGCMsgTFHelloResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CGCMsgTFHelloResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CGCMsgTFHelloResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CGCMsgTFHelloResponse::GetMetadata() const
+    CGCMsgTFHelloResponse::~CGCMsgTFHelloResponse()
+    google::protobuf::Message::GetTypeName() const
+    CGCMsgTFHelloResponse::New() const
+    CGCMsgTFHelloResponse::Clear()
+    CGCMsgTFHelloResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CGCMsgTFHelloResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CGCMsgTFHelloResponse::ByteSize() const
+    CGCMsgTFHelloResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CGCMsgTFHelloResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CGCMsgTFHelloResponse::GetCachedSize() const
+    CGCMsgTFHelloResponse::CopyFrom(google::protobuf::Message const&)
+    CGCMsgTFHelloResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CGCMsgTFHelloResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CGCMsgTFHelloResponse::GetMetadata() const

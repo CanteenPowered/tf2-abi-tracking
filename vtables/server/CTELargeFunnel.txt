@@ -1,7 +1,7 @@
 VTable for CTELargeFunnel:
-    [0] CTELargeFunnel::YouForgotToImplementOrDeclareServerClass()
-    [1] CTELargeFunnel::~CTELargeFunnel()
-    [2] CTELargeFunnel::~CTELargeFunnel()
-    [3] CTELargeFunnel::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTELargeFunnel::YouForgotToImplementOrDeclareServerClass()
+    CTELargeFunnel::~CTELargeFunnel()
+    CTELargeFunnel::~CTELargeFunnel()
+    CTELargeFunnel::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

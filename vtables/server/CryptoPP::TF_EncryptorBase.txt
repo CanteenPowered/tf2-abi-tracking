@@ -1,9 +1,9 @@
 VTable for CryptoPP::TF_EncryptorBase:
-    [0] CryptoPP::TF_EncryptorBase::~TF_EncryptorBase()
-    [1] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::MaxPlaintextLength(unsigned int) const
-    [2] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::CiphertextLength(unsigned int) const
-    [3] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::ParameterSupported(char const*) const
-    [4] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedCiphertextLength() const
-    [5] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedMaxPlaintextLength() const
-    [6] CryptoPP::TF_EncryptorBase::Encrypt(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned int, unsigned char*, CryptoPP::NameValuePairs const&) const
-    [7] CryptoPP::PK_Encryptor::CreateEncryptionFilter(CryptoPP::RandomNumberGenerator&, CryptoPP::BufferedTransformation*, CryptoPP::NameValuePairs const&) const
+    CryptoPP::TF_EncryptorBase::~TF_EncryptorBase()
+    CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::MaxPlaintextLength(unsigned int) const
+    CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::CiphertextLength(unsigned int) const
+    CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::ParameterSupported(char const*) const
+    CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedCiphertextLength() const
+    CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Encryptor, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedMaxPlaintextLength() const
+    CryptoPP::TF_EncryptorBase::Encrypt(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned int, unsigned char*, CryptoPP::NameValuePairs const&) const
+    CryptoPP::PK_Encryptor::CreateEncryptionFilter(CryptoPP::RandomNumberGenerator&, CryptoPP::BufferedTransformation*, CryptoPP::NameValuePairs const&) const

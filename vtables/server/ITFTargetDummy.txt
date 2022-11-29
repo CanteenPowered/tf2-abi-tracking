@@ -1,2 +1,2 @@
 VTable for ITFTargetDummy:
-    [0] ITFTargetDummy::~ITFTargetDummy()
+    ITFTargetDummy::~ITFTargetDummy()

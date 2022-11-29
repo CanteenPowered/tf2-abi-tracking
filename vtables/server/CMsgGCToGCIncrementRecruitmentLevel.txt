@@ -1,20 +1,20 @@
 VTable for CMsgGCToGCIncrementRecruitmentLevel:
-    [0] CMsgGCToGCIncrementRecruitmentLevel::~CMsgGCToGCIncrementRecruitmentLevel()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCToGCIncrementRecruitmentLevel::New() const
-    [3] CMsgGCToGCIncrementRecruitmentLevel::Clear()
-    [4] CMsgGCToGCIncrementRecruitmentLevel::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCToGCIncrementRecruitmentLevel::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCToGCIncrementRecruitmentLevel::ByteSize() const
-    [9] CMsgGCToGCIncrementRecruitmentLevel::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCToGCIncrementRecruitmentLevel::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCToGCIncrementRecruitmentLevel::GetCachedSize() const
-    [12] CMsgGCToGCIncrementRecruitmentLevel::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCToGCIncrementRecruitmentLevel::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCToGCIncrementRecruitmentLevel::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCToGCIncrementRecruitmentLevel::GetMetadata() const
+    CMsgGCToGCIncrementRecruitmentLevel::~CMsgGCToGCIncrementRecruitmentLevel()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCToGCIncrementRecruitmentLevel::New() const
+    CMsgGCToGCIncrementRecruitmentLevel::Clear()
+    CMsgGCToGCIncrementRecruitmentLevel::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCToGCIncrementRecruitmentLevel::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCToGCIncrementRecruitmentLevel::ByteSize() const
+    CMsgGCToGCIncrementRecruitmentLevel::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCToGCIncrementRecruitmentLevel::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCToGCIncrementRecruitmentLevel::GetCachedSize() const
+    CMsgGCToGCIncrementRecruitmentLevel::CopyFrom(google::protobuf::Message const&)
+    CMsgGCToGCIncrementRecruitmentLevel::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCToGCIncrementRecruitmentLevel::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCToGCIncrementRecruitmentLevel::GetMetadata() const

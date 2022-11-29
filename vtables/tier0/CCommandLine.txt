@@ -1,17 +1,17 @@
 VTable for CCommandLine:
-    [0] CCommandLine::CreateCmdLine(int, char**)
-    [1] CCommandLine::GetCmdLine() const
-    [2] CCommandLine::CheckParm(char const*, char const**) const
-    [3] CCommandLine::RemoveParm(char const*)
-    [4] CCommandLine::AppendParm(char const*, char const*)
-    [5] CCommandLine::ParmValue(char const*, char const*) const
-    [6] CCommandLine::ParmValue(char const*, int) const
-    [7] CCommandLine::ParmValue(char const*, float) const
-    [8] CCommandLine::ParmCount() const
-    [9] CCommandLine::FindParm(char const*) const
-    [10] CCommandLine::GetParm(int) const
-    [11] CCommandLine::SetParm(int, char const*)
-    [12] CCommandLine::ParmValueByIndex(int, char const*) const
-    [13] CCommandLine::HasParm(char const*) const
-    [14] CCommandLine::~CCommandLine()
-    [15] CCommandLine::~CCommandLine()
+    CCommandLine::CreateCmdLine(int, char**)
+    CCommandLine::GetCmdLine() const
+    CCommandLine::CheckParm(char const*, char const**) const
+    CCommandLine::RemoveParm(char const*)
+    CCommandLine::AppendParm(char const*, char const*)
+    CCommandLine::ParmValue(char const*, char const*) const
+    CCommandLine::ParmValue(char const*, int) const
+    CCommandLine::ParmValue(char const*, float) const
+    CCommandLine::ParmCount() const
+    CCommandLine::FindParm(char const*) const
+    CCommandLine::GetParm(int) const
+    CCommandLine::SetParm(int, char const*)
+    CCommandLine::ParmValueByIndex(int, char const*) const
+    CCommandLine::HasParm(char const*) const
+    CCommandLine::~CCommandLine()
+    CCommandLine::~CCommandLine()

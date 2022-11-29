@@ -1,2 +1,2 @@
 VTable for IBaseInterface:
-    [0] IBaseInterface::~IBaseInterface()
+    IBaseInterface::~IBaseInterface()

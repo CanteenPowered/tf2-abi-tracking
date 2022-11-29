@@ -1,4 +1,4 @@
 VTable for CAI_SensedObjectsManager:
-    [0] CAI_SensedObjectsManager::OnEntitySpawned(CBaseEntity*)
-    [1] CAI_SensedObjectsManager::OnEntityDeleted(CBaseEntity*)
-    [2] CAI_SensedObjectsManager::AddEntity(CBaseEntity*)
+    CAI_SensedObjectsManager::OnEntitySpawned(CBaseEntity*)
+    CAI_SensedObjectsManager::OnEntityDeleted(CBaseEntity*)
+    CAI_SensedObjectsManager::AddEntity(CBaseEntity*)

@@ -1,38 +1,38 @@
 VTable for CryptoPP::AlgorithmParametersTemplate<CryptoPP::BlockPaddingSchemeDef::BlockPaddingScheme>:
-    [0] CryptoPP::AlgorithmParametersTemplate<CryptoPP::BlockPaddingSchemeDef::BlockPaddingScheme>::~AlgorithmParametersTemplate()
-    [1] CryptoPP::AlgorithmParametersTemplate<CryptoPP::BlockPaddingSchemeDef::BlockPaddingScheme>::AssignValue(char const*, std::type_info const&, void*) const
+    CryptoPP::AlgorithmParametersTemplate<CryptoPP::BlockPaddingSchemeDef::BlockPaddingScheme>::~AlgorithmParametersTemplate()
+    CryptoPP::AlgorithmParametersTemplate<CryptoPP::BlockPaddingSchemeDef::BlockPaddingScheme>::AssignValue(char const*, std::type_info const&, void*) const
 VTable for CryptoPP::AlgorithmParameters:
-    [0] CryptoPP::AlgorithmParameters::~AlgorithmParameters()
-    [1] CryptoPP::AlgorithmParameters::GetVoidValue(char const*, std::type_info const&, void*) const
+    CryptoPP::AlgorithmParameters::~AlgorithmParameters()
+    CryptoPP::AlgorithmParameters::GetVoidValue(char const*, std::type_info const&, void*) const
 VTable for CryptoPP::AlgorithmParametersTemplate<CryptoPP::PrimeSelector const*>:
-    [0] CryptoPP::AlgorithmParametersTemplate<CryptoPP::PrimeSelector const*>::~AlgorithmParametersTemplate()
-    [1] CryptoPP::AlgorithmParametersTemplate<CryptoPP::PrimeSelector const*>::AssignValue(char const*, std::type_info const&, void*) const
+    CryptoPP::AlgorithmParametersTemplate<CryptoPP::PrimeSelector const*>::~AlgorithmParametersTemplate()
+    CryptoPP::AlgorithmParametersTemplate<CryptoPP::PrimeSelector const*>::AssignValue(char const*, std::type_info const&, void*) const
 VTable for CryptoPP::AlgorithmParametersBase::ParameterNotUsed:
-    [0] CryptoPP::AlgorithmParametersBase::ParameterNotUsed::~ParameterNotUsed()
-    [1] CryptoPP::Exception::what() const
+    CryptoPP::AlgorithmParametersBase::ParameterNotUsed::~ParameterNotUsed()
+    CryptoPP::Exception::what() const
 VTable for CryptoPP::AlgorithmParametersTemplate<int const*>:
-    [0] CryptoPP::AlgorithmParametersTemplate<int const*>::~AlgorithmParametersTemplate()
-    [1] CryptoPP::AlgorithmParametersTemplate<int const*>::AssignValue(char const*, std::type_info const&, void*) const
+    CryptoPP::AlgorithmParametersTemplate<int const*>::~AlgorithmParametersTemplate()
+    CryptoPP::AlgorithmParametersTemplate<int const*>::AssignValue(char const*, std::type_info const&, void*) const
 VTable for CryptoPP::AlgorithmParametersTemplate<unsigned int>:
-    [0] CryptoPP::AlgorithmParametersTemplate<unsigned int>::~AlgorithmParametersTemplate()
-    [1] CryptoPP::AlgorithmParametersTemplate<unsigned int>::AssignValue(char const*, std::type_info const&, void*) const
+    CryptoPP::AlgorithmParametersTemplate<unsigned int>::~AlgorithmParametersTemplate()
+    CryptoPP::AlgorithmParametersTemplate<unsigned int>::AssignValue(char const*, std::type_info const&, void*) const
 VTable for CryptoPP::AlgorithmParametersTemplate<CryptoPP::ConstByteArrayParameter>:
-    [0] CryptoPP::AlgorithmParametersTemplate<CryptoPP::ConstByteArrayParameter>::~AlgorithmParametersTemplate()
-    [1] CryptoPP::AlgorithmParametersTemplate<CryptoPP::ConstByteArrayParameter>::AssignValue(char const*, std::type_info const&, void*) const
+    CryptoPP::AlgorithmParametersTemplate<CryptoPP::ConstByteArrayParameter>::~AlgorithmParametersTemplate()
+    CryptoPP::AlgorithmParametersTemplate<CryptoPP::ConstByteArrayParameter>::AssignValue(char const*, std::type_info const&, void*) const
 VTable for CryptoPP::AlgorithmParametersTemplate<int>:
-    [0] CryptoPP::AlgorithmParametersTemplate<int>::~AlgorithmParametersTemplate()
-    [1] CryptoPP::AlgorithmParametersTemplate<int>::AssignValue(char const*, std::type_info const&, void*) const
+    CryptoPP::AlgorithmParametersTemplate<int>::~AlgorithmParametersTemplate()
+    CryptoPP::AlgorithmParametersTemplate<int>::AssignValue(char const*, std::type_info const&, void*) const
 VTable for CryptoPP::AlgorithmParametersTemplate<bool>:
-    [0] CryptoPP::AlgorithmParametersTemplate<bool>::~AlgorithmParametersTemplate()
-    [1] CryptoPP::AlgorithmParametersTemplate<bool>::AssignValue(char const*, std::type_info const&, void*) const
+    CryptoPP::AlgorithmParametersTemplate<bool>::~AlgorithmParametersTemplate()
+    CryptoPP::AlgorithmParametersTemplate<bool>::AssignValue(char const*, std::type_info const&, void*) const
 VTable for CryptoPP::AlgorithmParametersTemplate<CryptoPP::Integer>:
-    [0] CryptoPP::AlgorithmParametersTemplate<CryptoPP::Integer>::~AlgorithmParametersTemplate()
-    [1] CryptoPP::AlgorithmParametersTemplate<CryptoPP::Integer>::AssignValue(char const*, std::type_info const&, void*) const
+    CryptoPP::AlgorithmParametersTemplate<CryptoPP::Integer>::~AlgorithmParametersTemplate()
+    CryptoPP::AlgorithmParametersTemplate<CryptoPP::Integer>::AssignValue(char const*, std::type_info const&, void*) const
 VTable for CryptoPP::AlgorithmParametersBase:
-    [0] CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase()
+    CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase()
 VTable for CryptoPP::AlgorithmParametersTemplate<unsigned char const*>:
-    [0] CryptoPP::AlgorithmParametersTemplate<unsigned char const*>::~AlgorithmParametersTemplate()
-    [1] CryptoPP::AlgorithmParametersTemplate<unsigned char const*>::AssignValue(char const*, std::type_info const&, void*) const
+    CryptoPP::AlgorithmParametersTemplate<unsigned char const*>::~AlgorithmParametersTemplate()
+    CryptoPP::AlgorithmParametersTemplate<unsigned char const*>::AssignValue(char const*, std::type_info const&, void*) const
 VTable for CryptoPP::AlgorithmParametersTemplate<CryptoPP::Integer::RandomNumberType>:
-    [0] CryptoPP::AlgorithmParametersTemplate<CryptoPP::Integer::RandomNumberType>::~AlgorithmParametersTemplate()
-    [1] CryptoPP::AlgorithmParametersTemplate<CryptoPP::Integer::RandomNumberType>::AssignValue(char const*, std::type_info const&, void*) const
+    CryptoPP::AlgorithmParametersTemplate<CryptoPP::Integer::RandomNumberType>::~AlgorithmParametersTemplate()
+    CryptoPP::AlgorithmParametersTemplate<CryptoPP::Integer::RandomNumberType>::AssignValue(char const*, std::type_info const&, void*) const

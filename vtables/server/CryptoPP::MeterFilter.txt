@@ -1,50 +1,50 @@
 VTable for CryptoPP::MeterFilter:
-    [0] CryptoPP::MeterFilter::~MeterFilter()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::MeterFilter::CreatePutSpace(unsigned int&)
-    [4] CryptoPP::BufferedTransformation::CanModifyInput() const
-    [5] CryptoPP::MeterFilter::Put2(unsigned char const*, unsigned int, int, bool)
-    [6] CryptoPP::MeterFilter::PutModifiable2(unsigned char*, unsigned int, int, bool)
-    [7] CryptoPP::BufferedTransformation::GetMaxWaitObjectCount() const
-    [8] CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
-    [9] CryptoPP::MeterFilter::IsolatedInitialize(CryptoPP::NameValuePairs const&)
-    [10] CryptoPP::Bufferless<CryptoPP::Filter>::IsolatedFlush(bool, bool)
-    [11] CryptoPP::MeterFilter::IsolatedMessageSeriesEnd(bool)
-    [12] CryptoPP::Filter::Initialize(CryptoPP::NameValuePairs const&, int)
-    [13] CryptoPP::Filter::Flush(bool, int, bool)
-    [14] CryptoPP::Filter::MessageSeriesEnd(int, bool)
-    [15] CryptoPP::BufferedTransformation::SetAutoSignalPropagation(int)
-    [16] CryptoPP::BufferedTransformation::GetAutoSignalPropagation() const
-    [17] CryptoPP::BufferedTransformation::MaxRetrievable() const
-    [18] CryptoPP::BufferedTransformation::AnyRetrievable() const
-    [19] CryptoPP::BufferedTransformation::Get(unsigned char&)
-    [20] CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
-    [21] CryptoPP::BufferedTransformation::Peek(unsigned char&) const
-    [22] CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
-    [23] CryptoPP::BufferedTransformation::Skip(unsigned long long)
-    [24] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
-    [25] CryptoPP::BufferedTransformation::NumberOfMessages() const
-    [26] CryptoPP::BufferedTransformation::AnyMessages() const
-    [27] CryptoPP::BufferedTransformation::GetNextMessage()
-    [28] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
-    [29] CryptoPP::BufferedTransformation::SkipAll()
-    [30] CryptoPP::BufferedTransformation::GetNextMessageSeries()
-    [31] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
-    [32] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
-    [33] CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
-    [34] CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
-    [35] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
-    [36] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
-    [37] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
-    [38] CryptoPP::BufferedTransformation::ChannelFlush(std::string const&, bool, int, bool)
-    [39] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
-    [40] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [41] CryptoPP::Filter::Attachable()
-    [42] CryptoPP::Filter::AttachedTransformation()
-    [43] CryptoPP::Filter::AttachedTransformation() const
-    [44] CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
-    [45] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
-    [46] CryptoPP::Filter::NewDefaultAttachment() const
-    [47] CryptoPP::MeterFilter::ShouldPropagateMessageEnd() const
-    [48] CryptoPP::MeterFilter::ShouldPropagateMessageSeriesEnd() const
+    CryptoPP::MeterFilter::~MeterFilter()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::MeterFilter::CreatePutSpace(unsigned int&)
+    CryptoPP::BufferedTransformation::CanModifyInput() const
+    CryptoPP::MeterFilter::Put2(unsigned char const*, unsigned int, int, bool)
+    CryptoPP::MeterFilter::PutModifiable2(unsigned char*, unsigned int, int, bool)
+    CryptoPP::BufferedTransformation::GetMaxWaitObjectCount() const
+    CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
+    CryptoPP::MeterFilter::IsolatedInitialize(CryptoPP::NameValuePairs const&)
+    CryptoPP::Bufferless<CryptoPP::Filter>::IsolatedFlush(bool, bool)
+    CryptoPP::MeterFilter::IsolatedMessageSeriesEnd(bool)
+    CryptoPP::Filter::Initialize(CryptoPP::NameValuePairs const&, int)
+    CryptoPP::Filter::Flush(bool, int, bool)
+    CryptoPP::Filter::MessageSeriesEnd(int, bool)
+    CryptoPP::BufferedTransformation::SetAutoSignalPropagation(int)
+    CryptoPP::BufferedTransformation::GetAutoSignalPropagation() const
+    CryptoPP::BufferedTransformation::MaxRetrievable() const
+    CryptoPP::BufferedTransformation::AnyRetrievable() const
+    CryptoPP::BufferedTransformation::Get(unsigned char&)
+    CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
+    CryptoPP::BufferedTransformation::Peek(unsigned char&) const
+    CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
+    CryptoPP::BufferedTransformation::Skip(unsigned long long)
+    CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
+    CryptoPP::BufferedTransformation::NumberOfMessages() const
+    CryptoPP::BufferedTransformation::AnyMessages() const
+    CryptoPP::BufferedTransformation::GetNextMessage()
+    CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
+    CryptoPP::BufferedTransformation::SkipAll()
+    CryptoPP::BufferedTransformation::GetNextMessageSeries()
+    CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
+    CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
+    CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
+    CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
+    CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
+    CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
+    CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
+    CryptoPP::BufferedTransformation::ChannelFlush(std::string const&, bool, int, bool)
+    CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
+    CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
+    CryptoPP::Filter::Attachable()
+    CryptoPP::Filter::AttachedTransformation()
+    CryptoPP::Filter::AttachedTransformation() const
+    CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
+    CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
+    CryptoPP::Filter::NewDefaultAttachment() const
+    CryptoPP::MeterFilter::ShouldPropagateMessageEnd() const
+    CryptoPP::MeterFilter::ShouldPropagateMessageSeriesEnd() const

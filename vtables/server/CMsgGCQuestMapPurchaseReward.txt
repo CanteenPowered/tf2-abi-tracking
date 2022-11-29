@@ -1,20 +1,20 @@
 VTable for CMsgGCQuestMapPurchaseReward:
-    [0] CMsgGCQuestMapPurchaseReward::~CMsgGCQuestMapPurchaseReward()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCQuestMapPurchaseReward::New() const
-    [3] CMsgGCQuestMapPurchaseReward::Clear()
-    [4] CMsgGCQuestMapPurchaseReward::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCQuestMapPurchaseReward::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCQuestMapPurchaseReward::ByteSize() const
-    [9] CMsgGCQuestMapPurchaseReward::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCQuestMapPurchaseReward::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCQuestMapPurchaseReward::GetCachedSize() const
-    [12] CMsgGCQuestMapPurchaseReward::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCQuestMapPurchaseReward::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCQuestMapPurchaseReward::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCQuestMapPurchaseReward::GetMetadata() const
+    CMsgGCQuestMapPurchaseReward::~CMsgGCQuestMapPurchaseReward()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCQuestMapPurchaseReward::New() const
+    CMsgGCQuestMapPurchaseReward::Clear()
+    CMsgGCQuestMapPurchaseReward::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCQuestMapPurchaseReward::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCQuestMapPurchaseReward::ByteSize() const
+    CMsgGCQuestMapPurchaseReward::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCQuestMapPurchaseReward::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCQuestMapPurchaseReward::GetCachedSize() const
+    CMsgGCQuestMapPurchaseReward::CopyFrom(google::protobuf::Message const&)
+    CMsgGCQuestMapPurchaseReward::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCQuestMapPurchaseReward::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCQuestMapPurchaseReward::GetMetadata() const

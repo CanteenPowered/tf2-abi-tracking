@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CGunTarget>:
-    [0] CEntityFactory<CGunTarget>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CGunTarget>::GetEntitySize()
+    CEntityFactory<CGunTarget>::Destroy(IServerNetworkable*)
+    CEntityFactory<CGunTarget>::GetEntitySize()

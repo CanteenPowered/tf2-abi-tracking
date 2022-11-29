@@ -1,5 +1,5 @@
 VTable for CTFPlayerShared:
-    [0] CTFPlayerShared::~CTFPlayerShared()
-    [1] CTFPlayerShared::FireGameEvent(IGameEvent*)
-    [2] CTFPlayerShared::NetworkStateChanged()
-    [3] CTFPlayerShared::NetworkStateChanged(void*)
+    CTFPlayerShared::~CTFPlayerShared()
+    CTFPlayerShared::FireGameEvent(IGameEvent*)
+    CTFPlayerShared::NetworkStateChanged()
+    CTFPlayerShared::NetworkStateChanged(void*)

@@ -1,4 +1,4 @@
 VTable for CWheelOfDoom::WOD_Ghosts:
-    [0] CWheelOfDoom::WOD_Ghosts::ActivateEffect(CWheelOfDoom::EffectData_t&)
-    [1] CWheelOfDoom::WOD_BaseEffect::UpdateEffect(CWheelOfDoom::EffectData_t&)
-    [2] CWheelOfDoom::WOD_Ghosts::DeactivateEffect(CWheelOfDoom::EffectData_t&)
+    CWheelOfDoom::WOD_Ghosts::ActivateEffect(CWheelOfDoom::EffectData_t&)
+    CWheelOfDoom::WOD_BaseEffect::UpdateEffect(CWheelOfDoom::EffectData_t&)
+    CWheelOfDoom::WOD_Ghosts::DeactivateEffect(CWheelOfDoom::EffectData_t&)

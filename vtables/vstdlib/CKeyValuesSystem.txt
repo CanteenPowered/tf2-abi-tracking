@@ -1,11 +1,11 @@
 VTable for CKeyValuesSystem:
-    [0] CKeyValuesSystem::AllocKeyValuesMemory(int)
-    [1] CKeyValuesSystem::FreeKeyValuesMemory(void*)
-    [2] CKeyValuesSystem::GetSymbolForString(char const*, bool)
-    [3] CKeyValuesSystem::GetStringForSymbol(int)
-    [4] CKeyValuesSystem::AddKeyValuesToMemoryLeakList(void*, int)
-    [5] CKeyValuesSystem::RemoveKeyValuesFromMemoryLeakList(void*)
-    [6] CKeyValuesSystem::AddFileKeyValuesToCache(KeyValues const*, char const*, char const*)
-    [7] CKeyValuesSystem::LoadFileKeyValuesFromCache(KeyValues*, char const*, char const*, IBaseFileSystem*) const
-    [8] CKeyValuesSystem::InvalidateCache()
-    [9] CKeyValuesSystem::InvalidateCacheForFile(char const*, char const*)
+    CKeyValuesSystem::AllocKeyValuesMemory(int)
+    CKeyValuesSystem::FreeKeyValuesMemory(void*)
+    CKeyValuesSystem::GetSymbolForString(char const*, bool)
+    CKeyValuesSystem::GetStringForSymbol(int)
+    CKeyValuesSystem::AddKeyValuesToMemoryLeakList(void*, int)
+    CKeyValuesSystem::RemoveKeyValuesFromMemoryLeakList(void*)
+    CKeyValuesSystem::AddFileKeyValuesToCache(KeyValues const*, char const*, char const*)
+    CKeyValuesSystem::LoadFileKeyValuesFromCache(KeyValues*, char const*, char const*, IBaseFileSystem*) const
+    CKeyValuesSystem::InvalidateCache()
+    CKeyValuesSystem::InvalidateCacheForFile(char const*, char const*)

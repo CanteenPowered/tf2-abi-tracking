@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CMathColorBlend>:
-    [0] CEntityFactory<CMathColorBlend>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CMathColorBlend>::GetEntitySize()
+    CEntityFactory<CMathColorBlend>::Destroy(IServerNetworkable*)
+    CEntityFactory<CMathColorBlend>::GetEntitySize()

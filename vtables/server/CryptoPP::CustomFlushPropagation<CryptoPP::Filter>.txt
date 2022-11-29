@@ -1,12 +1,12 @@
 VTable for CryptoPP::CustomFlushPropagation<CryptoPP::Filter>:
-    [0] CryptoPP::CustomFlushPropagation<CryptoPP::Filter>::~CustomFlushPropagation()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
-    [4] CryptoPP::BufferedTransformation::CanModifyInput() const
+    CryptoPP::CustomFlushPropagation<CryptoPP::Filter>::~CustomFlushPropagation()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    CryptoPP::BufferedTransformation::CanModifyInput() const
 VTable for CryptoPP::CustomFlushPropagation<CryptoPP::Sink>:
-    [0] CryptoPP::CustomFlushPropagation<CryptoPP::Sink>::~CustomFlushPropagation()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
-    [4] CryptoPP::BufferedTransformation::CanModifyInput() const
+    CryptoPP::CustomFlushPropagation<CryptoPP::Sink>::~CustomFlushPropagation()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    CryptoPP::BufferedTransformation::CanModifyInput() const

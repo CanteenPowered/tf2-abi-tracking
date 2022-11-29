@@ -1,3 +1,3 @@
 VTable for CryptoPP::HashInputTooLong:
-    [0] CryptoPP::HashInputTooLong::~HashInputTooLong()
-    [1] CryptoPP::Exception::what() const
+    CryptoPP::HashInputTooLong::~HashInputTooLong()
+    CryptoPP::Exception::what() const

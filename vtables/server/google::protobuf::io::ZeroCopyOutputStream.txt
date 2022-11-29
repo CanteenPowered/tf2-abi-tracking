@@ -1,4 +1,4 @@
 VTable for google::protobuf::io::ZeroCopyOutputStream:
-    [0] google::protobuf::io::ZeroCopyOutputStream::~ZeroCopyOutputStream()
+    google::protobuf::io::ZeroCopyOutputStream::~ZeroCopyOutputStream()
 VTable for google::protobuf::io::ZeroCopyInputStream:
-    [0] google::protobuf::io::ZeroCopyInputStream::~ZeroCopyInputStream()
+    google::protobuf::io::ZeroCopyInputStream::~ZeroCopyInputStream()

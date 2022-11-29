@@ -1,7 +1,7 @@
 VTable for CScriptManager:
-    [0] CTier1AppSystem<IScriptManager, 0>::Disconnect()
-    [1] CBaseAppSystem<IScriptManager>::QueryInterface(char const*)
-    [2] CTier1AppSystem<IScriptManager, 0>::Init()
-    [3] CTier1AppSystem<IScriptManager, 0>::Shutdown()
-    [4] CScriptManager::CreateVM(ScriptLanguage_t)
-    [5] CScriptManager::DestroyVM(IScriptVM*)
+    CTier1AppSystem<IScriptManager, 0>::Disconnect()
+    CBaseAppSystem<IScriptManager>::QueryInterface(char const*)
+    CTier1AppSystem<IScriptManager, 0>::Init()
+    CTier1AppSystem<IScriptManager, 0>::Shutdown()
+    CScriptManager::CreateVM(ScriptLanguage_t)
+    CScriptManager::DestroyVM(IScriptVM*)

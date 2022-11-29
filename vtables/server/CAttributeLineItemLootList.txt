@@ -1,7 +1,7 @@
 VTable for CAttributeLineItemLootList:
-    [0] CAttributeLineItemLootList::~CAttributeLineItemLootList()
-    [1] CAttributeLineItemLootList::BPublicListContents() const
-    [2] CAttributeLineItemLootList::GetLootListHeaderLocalizationKey() const
-    [3] CAttributeLineItemLootList::GetLootListFooterLocalizationKey() const
-    [4] CAttributeLineItemLootList::GetLootListCollectionReference() const
-    [5] CAttributeLineItemLootList::EnumerateUserFacingPotentialDrops(IEconLootList::IEconLootListIterator*) const
+    CAttributeLineItemLootList::~CAttributeLineItemLootList()
+    CAttributeLineItemLootList::BPublicListContents() const
+    CAttributeLineItemLootList::GetLootListHeaderLocalizationKey() const
+    CAttributeLineItemLootList::GetLootListFooterLocalizationKey() const
+    CAttributeLineItemLootList::GetLootListCollectionReference() const
+    CAttributeLineItemLootList::EnumerateUserFacingPotentialDrops(IEconLootList::IEconLootListIterator*) const

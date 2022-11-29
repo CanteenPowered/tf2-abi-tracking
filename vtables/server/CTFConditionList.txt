@@ -1,2 +1,2 @@
 VTable for CTFConditionList:
-    [0] CTFConditionList::NetworkStateChanged(void*)
+    CTFConditionList::NetworkStateChanged(void*)

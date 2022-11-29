@@ -1,12 +1,12 @@
 VTable for CMobSpawner:
-    [0] CMobSpawner::~CMobSpawner()
-    [1] CMobSpawner::Parse(KeyValues*)
-    [2] CMobSpawner::Spawn(Vector const&, CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>*)
-    [3] IPopulationSpawner::IsWhereRequired() const
-    [4] IPopulationSpawner::IsVarious()
-    [5] IPopulationSpawner::GetClass(int)
-    [6] IPopulationSpawner::GetClassIcon(int)
-    [7] IPopulationSpawner::GetHealth(int)
-    [8] IPopulationSpawner::IsMiniBoss(int)
-    [9] IPopulationSpawner::HasAttribute(CTFBot::AttributeType, int)
-    [10] CMobSpawner::HasEventChangeAttributes(char const*) const
+    CMobSpawner::~CMobSpawner()
+    CMobSpawner::Parse(KeyValues*)
+    CMobSpawner::Spawn(Vector const&, CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>*)
+    IPopulationSpawner::IsWhereRequired() const
+    IPopulationSpawner::IsVarious()
+    IPopulationSpawner::GetClass(int)
+    IPopulationSpawner::GetClassIcon(int)
+    IPopulationSpawner::GetHealth(int)
+    IPopulationSpawner::IsMiniBoss(int)
+    IPopulationSpawner::HasAttribute(CTFBot::AttributeType, int)
+    CMobSpawner::HasEventChangeAttributes(char const*) const

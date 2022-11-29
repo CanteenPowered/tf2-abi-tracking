@@ -1,11 +1,11 @@
 VTable for CryptoPP::PKCS1v15_SignatureMessageEncodingMethod:
-    [0] CryptoPP::PKCS1v15_SignatureMessageEncodingMethod::~PKCS1v15_SignatureMessageEncodingMethod()
-    [1] CryptoPP::PKCS1v15_SignatureMessageEncodingMethod::MinRepresentativeBitLength(unsigned int, unsigned int) const
-    [2] CryptoPP::PK_SignatureMessageEncodingMethod::MaxRecoverableLength(unsigned int, unsigned int, unsigned int) const
-    [3] CryptoPP::PK_SignatureMessageEncodingMethod::RecoverablePartFirst() const
-    [4] CryptoPP::PK_SignatureMessageEncodingMethod::ProcessSemisignature(CryptoPP::HashTransformation&, unsigned char const*, unsigned int) const
-    [5] CryptoPP::PK_SignatureMessageEncodingMethod::ProcessRecoverableMessage(CryptoPP::HashTransformation&, unsigned char const*, unsigned int, unsigned char const*, unsigned int, CryptoPP::SecBlock<unsigned char, CryptoPP::AllocatorWithCleanup<unsigned char, false>>&) const
-    [6] CryptoPP::PKCS1v15_SignatureMessageEncodingMethod::ComputeMessageRepresentative(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned int, CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, bool, unsigned char*, unsigned int) const
-    [7] CryptoPP::PK_DeterministicSignatureMessageEncodingMethod::VerifyMessageRepresentative(CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, bool, unsigned char*, unsigned int) const
-    [8] CryptoPP::PK_SignatureMessageEncodingMethod::RecoverMessageFromRepresentative(CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, bool, unsigned char*, unsigned int, unsigned char*) const
-    [9] CryptoPP::PK_SignatureMessageEncodingMethod::RecoverMessageFromSemisignature(CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, unsigned char const*, unsigned int, unsigned char const*, unsigned int, unsigned char*) const
+    CryptoPP::PKCS1v15_SignatureMessageEncodingMethod::~PKCS1v15_SignatureMessageEncodingMethod()
+    CryptoPP::PKCS1v15_SignatureMessageEncodingMethod::MinRepresentativeBitLength(unsigned int, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::MaxRecoverableLength(unsigned int, unsigned int, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::RecoverablePartFirst() const
+    CryptoPP::PK_SignatureMessageEncodingMethod::ProcessSemisignature(CryptoPP::HashTransformation&, unsigned char const*, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::ProcessRecoverableMessage(CryptoPP::HashTransformation&, unsigned char const*, unsigned int, unsigned char const*, unsigned int, CryptoPP::SecBlock<unsigned char, CryptoPP::AllocatorWithCleanup<unsigned char, false>>&) const
+    CryptoPP::PKCS1v15_SignatureMessageEncodingMethod::ComputeMessageRepresentative(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned int, CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, bool, unsigned char*, unsigned int) const
+    CryptoPP::PK_DeterministicSignatureMessageEncodingMethod::VerifyMessageRepresentative(CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, bool, unsigned char*, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::RecoverMessageFromRepresentative(CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, bool, unsigned char*, unsigned int, unsigned char*) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::RecoverMessageFromSemisignature(CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, unsigned char const*, unsigned int, unsigned char const*, unsigned int, unsigned char*) const

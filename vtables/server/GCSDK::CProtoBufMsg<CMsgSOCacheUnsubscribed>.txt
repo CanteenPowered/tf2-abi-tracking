@@ -1,12 +1,12 @@
 VTable for GCSDK::CProtoBufMsg<CMsgSOCacheSubscribed>:
-    [0] GCSDK::CProtoBufMsg<CMsgSOCacheSubscribed>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgSOCacheSubscribed>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgSOCacheSubscribed>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgSOCacheSubscribed>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgSOCacheSubscriptionCheck>:
-    [0] GCSDK::CProtoBufMsg<CMsgSOCacheSubscriptionCheck>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgSOCacheSubscriptionCheck>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgSOCacheSubscriptionCheck>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgSOCacheSubscriptionCheck>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgSOCacheUnsubscribed>:
-    [0] GCSDK::CProtoBufMsg<CMsgSOCacheUnsubscribed>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgSOCacheUnsubscribed>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgSOCacheUnsubscribed>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgSOCacheUnsubscribed>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgSOCacheSubscriptionRefresh>:
-    [0] GCSDK::CProtoBufMsg<CMsgSOCacheSubscriptionRefresh>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgSOCacheSubscriptionRefresh>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgSOCacheSubscriptionRefresh>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgSOCacheSubscriptionRefresh>::GetGenericBody() const

@@ -1,9 +1,9 @@
 VTable for CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>:
-    [0] CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::~ASN1CryptoMaterial()
-    [1] CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::~ASN1CryptoMaterial()
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::~ASN1CryptoMaterial()
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::~ASN1CryptoMaterial()
 VTable for CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>:
-    [0] CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::~ASN1CryptoMaterial()
-    [1] CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::~ASN1CryptoMaterial()
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::~ASN1CryptoMaterial()
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::~ASN1CryptoMaterial()
 VTable for CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>:
-    [0] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::~ASN1CryptoMaterial()
-    [1] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::~ASN1CryptoMaterial()
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::~ASN1CryptoMaterial()
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::~ASN1CryptoMaterial()

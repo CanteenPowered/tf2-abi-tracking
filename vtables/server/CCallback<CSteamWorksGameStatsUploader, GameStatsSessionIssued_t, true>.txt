@@ -1,10 +1,10 @@
 VTable for CCallback<CSteamWorksGameStatsUploader, GameStatsSessionIssued_t, true>:
-    [0] CCallbackImpl<16>::Run(void*, bool, unsigned long long)
-    [1] CCallbackImpl<16>::GetCallbackSizeBytes()
-    [2] CCallback<CSteamWorksGameStatsUploader, GameStatsSessionIssued_t, true>::~CCallback()
-    [3] CCallback<CSteamWorksGameStatsUploader, GameStatsSessionIssued_t, true>::~CCallback()
+    CCallbackImpl<16>::Run(void*, bool, unsigned long long)
+    CCallbackImpl<16>::GetCallbackSizeBytes()
+    CCallback<CSteamWorksGameStatsUploader, GameStatsSessionIssued_t, true>::~CCallback()
+    CCallback<CSteamWorksGameStatsUploader, GameStatsSessionIssued_t, true>::~CCallback()
 VTable for CCallback<CSteamWorksGameStatsUploader, GameStatsSessionClosed_t, true>:
-    [0] CCallbackImpl<12>::Run(void*, bool, unsigned long long)
-    [1] CCallbackImpl<12>::GetCallbackSizeBytes()
-    [2] CCallback<CSteamWorksGameStatsUploader, GameStatsSessionClosed_t, true>::~CCallback()
-    [3] CCallback<CSteamWorksGameStatsUploader, GameStatsSessionClosed_t, true>::~CCallback()
+    CCallbackImpl<12>::Run(void*, bool, unsigned long long)
+    CCallbackImpl<12>::GetCallbackSizeBytes()
+    CCallback<CSteamWorksGameStatsUploader, GameStatsSessionClosed_t, true>::~CCallback()
+    CCallback<CSteamWorksGameStatsUploader, GameStatsSessionClosed_t, true>::~CCallback()

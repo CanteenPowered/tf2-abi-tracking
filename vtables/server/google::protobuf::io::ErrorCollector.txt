@@ -1,2 +1,2 @@
 VTable for google::protobuf::io::ErrorCollector:
-    [0] google::protobuf::io::ErrorCollector::~ErrorCollector()
+    google::protobuf::io::ErrorCollector::~ErrorCollector()

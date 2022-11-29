@@ -1,6 +1,6 @@
 VTable for GCSDK::CProtoBufMsg<CMsgGC_Match_ResultResponse>:
-    [0] GCSDK::CProtoBufMsg<CMsgGC_Match_ResultResponse>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGC_Match_ResultResponse>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGC_Match_ResultResponse>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGC_Match_ResultResponse>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgGC_Match_Result>:
-    [0] GCSDK::CProtoBufMsg<CMsgGC_Match_Result>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGC_Match_Result>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGC_Match_Result>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGC_Match_Result>::GetGenericBody() const

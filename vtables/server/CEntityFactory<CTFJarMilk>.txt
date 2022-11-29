@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFJarMilk>:
-    [0] CEntityFactory<CTFJarMilk>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFJarMilk>::GetEntitySize()
+    CEntityFactory<CTFJarMilk>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFJarMilk>::GetEntitySize()

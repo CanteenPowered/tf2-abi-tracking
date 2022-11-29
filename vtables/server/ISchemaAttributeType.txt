@@ -1,2 +1,2 @@
 VTable for ISchemaAttributeType:
-    [0] ISchemaAttributeType::~ISchemaAttributeType()
+    ISchemaAttributeType::~ISchemaAttributeType()

@@ -1,20 +1,20 @@
 VTable for CMsgGCMultiplexMessage:
-    [0] CMsgGCMultiplexMessage::~CMsgGCMultiplexMessage()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCMultiplexMessage::New() const
-    [3] CMsgGCMultiplexMessage::Clear()
-    [4] CMsgGCMultiplexMessage::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCMultiplexMessage::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCMultiplexMessage::ByteSize() const
-    [9] CMsgGCMultiplexMessage::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCMultiplexMessage::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCMultiplexMessage::GetCachedSize() const
-    [12] CMsgGCMultiplexMessage::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCMultiplexMessage::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCMultiplexMessage::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCMultiplexMessage::GetMetadata() const
+    CMsgGCMultiplexMessage::~CMsgGCMultiplexMessage()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCMultiplexMessage::New() const
+    CMsgGCMultiplexMessage::Clear()
+    CMsgGCMultiplexMessage::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCMultiplexMessage::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCMultiplexMessage::ByteSize() const
+    CMsgGCMultiplexMessage::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCMultiplexMessage::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCMultiplexMessage::GetCachedSize() const
+    CMsgGCMultiplexMessage::CopyFrom(google::protobuf::Message const&)
+    CMsgGCMultiplexMessage::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCMultiplexMessage::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCMultiplexMessage::GetMetadata() const

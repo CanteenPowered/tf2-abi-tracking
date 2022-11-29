@@ -1,2 +1,2 @@
 VTable for google::protobuf::Reflection:
-    [0] google::protobuf::Reflection::~Reflection()
+    google::protobuf::Reflection::~Reflection()

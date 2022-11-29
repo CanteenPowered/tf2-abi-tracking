@@ -1,40 +1,40 @@
 VTable for CMsgGCToGCGetUserSessionServerResponse:
-    [0] CMsgGCToGCGetUserSessionServerResponse::~CMsgGCToGCGetUserSessionServerResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCToGCGetUserSessionServerResponse::New() const
-    [3] CMsgGCToGCGetUserSessionServerResponse::Clear()
-    [4] CMsgGCToGCGetUserSessionServerResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCToGCGetUserSessionServerResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCToGCGetUserSessionServerResponse::ByteSize() const
-    [9] CMsgGCToGCGetUserSessionServerResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCToGCGetUserSessionServerResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCToGCGetUserSessionServerResponse::GetCachedSize() const
-    [12] CMsgGCToGCGetUserSessionServerResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCToGCGetUserSessionServerResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCToGCGetUserSessionServerResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCToGCGetUserSessionServerResponse::GetMetadata() const
+    CMsgGCToGCGetUserSessionServerResponse::~CMsgGCToGCGetUserSessionServerResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCToGCGetUserSessionServerResponse::New() const
+    CMsgGCToGCGetUserSessionServerResponse::Clear()
+    CMsgGCToGCGetUserSessionServerResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCToGCGetUserSessionServerResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCToGCGetUserSessionServerResponse::ByteSize() const
+    CMsgGCToGCGetUserSessionServerResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCToGCGetUserSessionServerResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCToGCGetUserSessionServerResponse::GetCachedSize() const
+    CMsgGCToGCGetUserSessionServerResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgGCToGCGetUserSessionServerResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCToGCGetUserSessionServerResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCToGCGetUserSessionServerResponse::GetMetadata() const
 VTable for CMsgGCToGCGetUserSessionServer:
-    [0] CMsgGCToGCGetUserSessionServer::~CMsgGCToGCGetUserSessionServer()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCToGCGetUserSessionServer::New() const
-    [3] CMsgGCToGCGetUserSessionServer::Clear()
-    [4] CMsgGCToGCGetUserSessionServer::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCToGCGetUserSessionServer::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCToGCGetUserSessionServer::ByteSize() const
-    [9] CMsgGCToGCGetUserSessionServer::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCToGCGetUserSessionServer::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCToGCGetUserSessionServer::GetCachedSize() const
-    [12] CMsgGCToGCGetUserSessionServer::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCToGCGetUserSessionServer::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCToGCGetUserSessionServer::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCToGCGetUserSessionServer::GetMetadata() const
+    CMsgGCToGCGetUserSessionServer::~CMsgGCToGCGetUserSessionServer()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCToGCGetUserSessionServer::New() const
+    CMsgGCToGCGetUserSessionServer::Clear()
+    CMsgGCToGCGetUserSessionServer::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCToGCGetUserSessionServer::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCToGCGetUserSessionServer::ByteSize() const
+    CMsgGCToGCGetUserSessionServer::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCToGCGetUserSessionServer::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCToGCGetUserSessionServer::GetCachedSize() const
+    CMsgGCToGCGetUserSessionServer::CopyFrom(google::protobuf::Message const&)
+    CMsgGCToGCGetUserSessionServer::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCToGCGetUserSessionServer::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCToGCGetUserSessionServer::GetMetadata() const

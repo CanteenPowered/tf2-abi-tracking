@@ -1,14 +1,14 @@
 VTable for CryptoPP::ECP:
-    [0] CryptoPP::ECP::~ECP()
-    [1] CryptoPP::ECP::Equal(CryptoPP::ECPPoint const&, CryptoPP::ECPPoint const&) const
-    [2] CryptoPP::ECP::Identity() const
-    [3] CryptoPP::ECP::Add(CryptoPP::ECPPoint const&, CryptoPP::ECPPoint const&) const
-    [4] CryptoPP::ECP::Inverse(CryptoPP::ECPPoint const&) const
-    [5] CryptoPP::ECP::InversionIsFast() const
-    [6] CryptoPP::ECP::Double(CryptoPP::ECPPoint const&) const
-    [7] CryptoPP::AbstractGroup<CryptoPP::ECPPoint>::Subtract(CryptoPP::ECPPoint const&, CryptoPP::ECPPoint const&) const
-    [8] CryptoPP::AbstractGroup<CryptoPP::ECPPoint>::Accumulate(CryptoPP::ECPPoint&, CryptoPP::ECPPoint const&) const
-    [9] CryptoPP::AbstractGroup<CryptoPP::ECPPoint>::Reduce(CryptoPP::ECPPoint&, CryptoPP::ECPPoint const&) const
-    [10] CryptoPP::ECP::ScalarMultiply(CryptoPP::ECPPoint const&, CryptoPP::Integer const&) const
-    [11] CryptoPP::ECP::CascadeScalarMultiply(CryptoPP::ECPPoint const&, CryptoPP::Integer const&, CryptoPP::ECPPoint const&, CryptoPP::Integer const&) const
-    [12] CryptoPP::ECP::SimultaneousMultiply(CryptoPP::ECPPoint*, CryptoPP::ECPPoint const&, CryptoPP::Integer const*, unsigned int) const
+    CryptoPP::ECP::~ECP()
+    CryptoPP::ECP::Equal(CryptoPP::ECPPoint const&, CryptoPP::ECPPoint const&) const
+    CryptoPP::ECP::Identity() const
+    CryptoPP::ECP::Add(CryptoPP::ECPPoint const&, CryptoPP::ECPPoint const&) const
+    CryptoPP::ECP::Inverse(CryptoPP::ECPPoint const&) const
+    CryptoPP::ECP::InversionIsFast() const
+    CryptoPP::ECP::Double(CryptoPP::ECPPoint const&) const
+    CryptoPP::AbstractGroup<CryptoPP::ECPPoint>::Subtract(CryptoPP::ECPPoint const&, CryptoPP::ECPPoint const&) const
+    CryptoPP::AbstractGroup<CryptoPP::ECPPoint>::Accumulate(CryptoPP::ECPPoint&, CryptoPP::ECPPoint const&) const
+    CryptoPP::AbstractGroup<CryptoPP::ECPPoint>::Reduce(CryptoPP::ECPPoint&, CryptoPP::ECPPoint const&) const
+    CryptoPP::ECP::ScalarMultiply(CryptoPP::ECPPoint const&, CryptoPP::Integer const&) const
+    CryptoPP::ECP::CascadeScalarMultiply(CryptoPP::ECPPoint const&, CryptoPP::Integer const&, CryptoPP::ECPPoint const&, CryptoPP::Integer const&) const
+    CryptoPP::ECP::SimultaneousMultiply(CryptoPP::ECPPoint*, CryptoPP::ECPPoint const&, CryptoPP::Integer const*, unsigned int) const

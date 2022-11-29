@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CWC_UpdateIgnoreList>:
-    [0] CEntityFactory<CWC_UpdateIgnoreList>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CWC_UpdateIgnoreList>::GetEntitySize()
+    CEntityFactory<CWC_UpdateIgnoreList>::Destroy(IServerNetworkable*)
+    CEntityFactory<CWC_UpdateIgnoreList>::GetEntitySize()

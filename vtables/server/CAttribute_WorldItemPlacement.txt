@@ -1,20 +1,20 @@
 VTable for CAttribute_WorldItemPlacement:
-    [0] CAttribute_WorldItemPlacement::~CAttribute_WorldItemPlacement()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CAttribute_WorldItemPlacement::New() const
-    [3] CAttribute_WorldItemPlacement::Clear()
-    [4] CAttribute_WorldItemPlacement::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CAttribute_WorldItemPlacement::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CAttribute_WorldItemPlacement::ByteSize() const
-    [9] CAttribute_WorldItemPlacement::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CAttribute_WorldItemPlacement::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CAttribute_WorldItemPlacement::GetCachedSize() const
-    [12] CAttribute_WorldItemPlacement::CopyFrom(google::protobuf::Message const&)
-    [13] CAttribute_WorldItemPlacement::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CAttribute_WorldItemPlacement::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CAttribute_WorldItemPlacement::GetMetadata() const
+    CAttribute_WorldItemPlacement::~CAttribute_WorldItemPlacement()
+    google::protobuf::Message::GetTypeName() const
+    CAttribute_WorldItemPlacement::New() const
+    CAttribute_WorldItemPlacement::Clear()
+    CAttribute_WorldItemPlacement::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CAttribute_WorldItemPlacement::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CAttribute_WorldItemPlacement::ByteSize() const
+    CAttribute_WorldItemPlacement::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CAttribute_WorldItemPlacement::SerializeWithCachedSizesToArray(unsigned char*) const
+    CAttribute_WorldItemPlacement::GetCachedSize() const
+    CAttribute_WorldItemPlacement::CopyFrom(google::protobuf::Message const&)
+    CAttribute_WorldItemPlacement::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CAttribute_WorldItemPlacement::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CAttribute_WorldItemPlacement::GetMetadata() const

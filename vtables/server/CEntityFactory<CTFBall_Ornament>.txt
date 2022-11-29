@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFBall_Ornament>:
-    [0] CEntityFactory<CTFBall_Ornament>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFBall_Ornament>::GetEntitySize()
+    CEntityFactory<CTFBall_Ornament>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFBall_Ornament>::GetEntitySize()

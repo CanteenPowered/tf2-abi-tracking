@@ -1,20 +1,20 @@
 VTable for CMsgTFCoaching_AddToCoaches:
-    [0] CMsgTFCoaching_AddToCoaches::~CMsgTFCoaching_AddToCoaches()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgTFCoaching_AddToCoaches::New() const
-    [3] CMsgTFCoaching_AddToCoaches::Clear()
-    [4] CMsgTFCoaching_AddToCoaches::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgTFCoaching_AddToCoaches::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgTFCoaching_AddToCoaches::ByteSize() const
-    [9] CMsgTFCoaching_AddToCoaches::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgTFCoaching_AddToCoaches::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgTFCoaching_AddToCoaches::GetCachedSize() const
-    [12] CMsgTFCoaching_AddToCoaches::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgTFCoaching_AddToCoaches::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgTFCoaching_AddToCoaches::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgTFCoaching_AddToCoaches::GetMetadata() const
+    CMsgTFCoaching_AddToCoaches::~CMsgTFCoaching_AddToCoaches()
+    google::protobuf::Message::GetTypeName() const
+    CMsgTFCoaching_AddToCoaches::New() const
+    CMsgTFCoaching_AddToCoaches::Clear()
+    CMsgTFCoaching_AddToCoaches::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgTFCoaching_AddToCoaches::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgTFCoaching_AddToCoaches::ByteSize() const
+    CMsgTFCoaching_AddToCoaches::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgTFCoaching_AddToCoaches::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgTFCoaching_AddToCoaches::GetCachedSize() const
+    CMsgTFCoaching_AddToCoaches::CopyFrom(google::protobuf::Message const&)
+    CMsgTFCoaching_AddToCoaches::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgTFCoaching_AddToCoaches::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgTFCoaching_AddToCoaches::GetMetadata() const

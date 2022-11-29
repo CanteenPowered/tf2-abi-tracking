@@ -1,20 +1,20 @@
 VTable for CryptoPP::IteratedHashBase<unsigned long long, CryptoPP::MessageAuthenticationCode>:
-    [0] CryptoPP::IteratedHashBase<unsigned long long, CryptoPP::MessageAuthenticationCode>::~IteratedHashBase()
+    CryptoPP::IteratedHashBase<unsigned long long, CryptoPP::MessageAuthenticationCode>::~IteratedHashBase()
 VTable for CryptoPP::IteratedHashBase<unsigned long long, CryptoPP::HashTransformation>:
-    [0] CryptoPP::IteratedHashBase<unsigned long long, CryptoPP::HashTransformation>::~IteratedHashBase()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::IteratedHashBase<unsigned long long, CryptoPP::HashTransformation>::Update(unsigned char const*, unsigned int)
-    [4] CryptoPP::IteratedHashBase<unsigned long long, CryptoPP::HashTransformation>::CreateUpdateSpace(unsigned int&)
-    [5] CryptoPP::HashTransformation::Final(unsigned char*)
-    [6] CryptoPP::IteratedHashBase<unsigned long long, CryptoPP::HashTransformation>::Restart()
+    CryptoPP::IteratedHashBase<unsigned long long, CryptoPP::HashTransformation>::~IteratedHashBase()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::IteratedHashBase<unsigned long long, CryptoPP::HashTransformation>::Update(unsigned char const*, unsigned int)
+    CryptoPP::IteratedHashBase<unsigned long long, CryptoPP::HashTransformation>::CreateUpdateSpace(unsigned int&)
+    CryptoPP::HashTransformation::Final(unsigned char*)
+    CryptoPP::IteratedHashBase<unsigned long long, CryptoPP::HashTransformation>::Restart()
 VTable for CryptoPP::IteratedHashBase<unsigned int, CryptoPP::MessageAuthenticationCode>:
-    [0] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::MessageAuthenticationCode>::~IteratedHashBase()
+    CryptoPP::IteratedHashBase<unsigned int, CryptoPP::MessageAuthenticationCode>::~IteratedHashBase()
 VTable for CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>:
-    [0] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::~IteratedHashBase()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::Update(unsigned char const*, unsigned int)
-    [4] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::CreateUpdateSpace(unsigned int&)
-    [5] CryptoPP::HashTransformation::Final(unsigned char*)
-    [6] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::Restart()
+    CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::~IteratedHashBase()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::Update(unsigned char const*, unsigned int)
+    CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::CreateUpdateSpace(unsigned int&)
+    CryptoPP::HashTransformation::Final(unsigned char*)
+    CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::Restart()

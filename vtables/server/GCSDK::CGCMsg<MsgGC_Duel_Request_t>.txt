@@ -1,2 +1,2 @@
 VTable for GCSDK::CGCMsg<MsgGC_Duel_Request_t>:
-    [0] GCSDK::CGCMsg<MsgGC_Duel_Request_t>::~CGCMsg()
+    GCSDK::CGCMsg<MsgGC_Duel_Request_t>::~CGCMsg()

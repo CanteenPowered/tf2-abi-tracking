@@ -1,9 +1,9 @@
 VTable for GCSDK::CProtoBufMsg<CMsgServerWelcome>:
-    [0] GCSDK::CProtoBufMsg<CMsgServerWelcome>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgServerWelcome>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgServerWelcome>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgServerWelcome>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgServerGoodbye>:
-    [0] GCSDK::CProtoBufMsg<CMsgServerGoodbye>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgServerGoodbye>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgServerGoodbye>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgServerGoodbye>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgServerHello>:
-    [0] GCSDK::CProtoBufMsg<CMsgServerHello>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgServerHello>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgServerHello>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgServerHello>::GetGenericBody() const

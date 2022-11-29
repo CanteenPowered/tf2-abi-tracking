@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CAI_Relationship>:
-    [0] CEntityFactory<CAI_Relationship>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CAI_Relationship>::GetEntitySize()
+    CEntityFactory<CAI_Relationship>::Destroy(IServerNetworkable*)
+    CEntityFactory<CAI_Relationship>::GetEntitySize()

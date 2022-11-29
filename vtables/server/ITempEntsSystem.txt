@@ -1,2 +1,2 @@
 VTable for ITempEntsSystem:
-    [0] ITempEntsSystem::~ITempEntsSystem()
+    ITempEntsSystem::~ITempEntsSystem()

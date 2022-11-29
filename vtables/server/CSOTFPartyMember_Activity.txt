@@ -1,20 +1,20 @@
 VTable for CSOTFPartyMember_Activity:
-    [0] CSOTFPartyMember_Activity::~CSOTFPartyMember_Activity()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CSOTFPartyMember_Activity::New() const
-    [3] CSOTFPartyMember_Activity::Clear()
-    [4] CSOTFPartyMember_Activity::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CSOTFPartyMember_Activity::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CSOTFPartyMember_Activity::ByteSize() const
-    [9] CSOTFPartyMember_Activity::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CSOTFPartyMember_Activity::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CSOTFPartyMember_Activity::GetCachedSize() const
-    [12] CSOTFPartyMember_Activity::CopyFrom(google::protobuf::Message const&)
-    [13] CSOTFPartyMember_Activity::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CSOTFPartyMember_Activity::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CSOTFPartyMember_Activity::GetMetadata() const
+    CSOTFPartyMember_Activity::~CSOTFPartyMember_Activity()
+    google::protobuf::Message::GetTypeName() const
+    CSOTFPartyMember_Activity::New() const
+    CSOTFPartyMember_Activity::Clear()
+    CSOTFPartyMember_Activity::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CSOTFPartyMember_Activity::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CSOTFPartyMember_Activity::ByteSize() const
+    CSOTFPartyMember_Activity::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CSOTFPartyMember_Activity::SerializeWithCachedSizesToArray(unsigned char*) const
+    CSOTFPartyMember_Activity::GetCachedSize() const
+    CSOTFPartyMember_Activity::CopyFrom(google::protobuf::Message const&)
+    CSOTFPartyMember_Activity::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CSOTFPartyMember_Activity::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CSOTFPartyMember_Activity::GetMetadata() const

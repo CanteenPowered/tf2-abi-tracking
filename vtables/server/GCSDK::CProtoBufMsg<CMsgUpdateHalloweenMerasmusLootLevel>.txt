@@ -1,9 +1,9 @@
 VTable for GCSDK::CProtoBufMsg<CMsgUpdateItemSchema>:
-    [0] GCSDK::CProtoBufMsg<CMsgUpdateItemSchema>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgUpdateItemSchema>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgUpdateItemSchema>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgUpdateItemSchema>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgUpdatePeriodicEvent>:
-    [0] GCSDK::CProtoBufMsg<CMsgUpdatePeriodicEvent>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgUpdatePeriodicEvent>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgUpdatePeriodicEvent>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgUpdatePeriodicEvent>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgUpdateHalloweenMerasmusLootLevel>:
-    [0] GCSDK::CProtoBufMsg<CMsgUpdateHalloweenMerasmusLootLevel>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgUpdateHalloweenMerasmusLootLevel>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgUpdateHalloweenMerasmusLootLevel>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgUpdateHalloweenMerasmusLootLevel>::GetGenericBody() const

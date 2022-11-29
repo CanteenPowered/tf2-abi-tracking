@@ -1,2 +1,2 @@
 VTable for GCSDK::CGCMsg<MsgGCRespawnPostLoadoutChange_t>:
-    [0] GCSDK::CGCMsg<MsgGCRespawnPostLoadoutChange_t>::~CGCMsg()
+    GCSDK::CGCMsg<MsgGCRespawnPostLoadoutChange_t>::~CGCMsg()

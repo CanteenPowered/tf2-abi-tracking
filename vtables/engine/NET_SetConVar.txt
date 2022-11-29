@@ -1,16 +1,16 @@
 VTable for NET_SetConVar:
-    [0] NET_SetConVar::~NET_SetConVar()
-    [1] CNetMessage::SetNetChannel(INetChannel*)
-    [2] CNetMessage::SetReliable(bool)
-    [3] NET_SetConVar::Process()
-    [4] NET_SetConVar::ReadFromBuffer(bf_read&)
-    [5] NET_SetConVar::WriteToBuffer(bf_write&)
-    [6] CNetMessage::IsReliable() const
-    [7] NET_SetConVar::GetType() const
-    [8] NET_SetConVar::GetGroup() const
-    [9] NET_SetConVar::GetName() const
-    [10] CNetMessage::GetNetChannel() const
-    [11] NET_SetConVar::ToString() const
-    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
-    [13] NET_SetConVar::GetSize() const
-    [14] CNetMessage::SetRatePolicy()
+    NET_SetConVar::~NET_SetConVar()
+    CNetMessage::SetNetChannel(INetChannel*)
+    CNetMessage::SetReliable(bool)
+    NET_SetConVar::Process()
+    NET_SetConVar::ReadFromBuffer(bf_read&)
+    NET_SetConVar::WriteToBuffer(bf_write&)
+    CNetMessage::IsReliable() const
+    NET_SetConVar::GetType() const
+    NET_SetConVar::GetGroup() const
+    NET_SetConVar::GetName() const
+    CNetMessage::GetNetChannel() const
+    NET_SetConVar::ToString() const
+    CNetMessage::BIncomingMessageForProcessing(double, int)
+    NET_SetConVar::GetSize() const
+    CNetMessage::SetRatePolicy()

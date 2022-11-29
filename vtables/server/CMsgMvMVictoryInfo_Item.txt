@@ -1,20 +1,20 @@
 VTable for CMsgMvMVictoryInfo_Item:
-    [0] CMsgMvMVictoryInfo_Item::~CMsgMvMVictoryInfo_Item()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgMvMVictoryInfo_Item::New() const
-    [3] CMsgMvMVictoryInfo_Item::Clear()
-    [4] CMsgMvMVictoryInfo_Item::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgMvMVictoryInfo_Item::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgMvMVictoryInfo_Item::ByteSize() const
-    [9] CMsgMvMVictoryInfo_Item::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgMvMVictoryInfo_Item::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgMvMVictoryInfo_Item::GetCachedSize() const
-    [12] CMsgMvMVictoryInfo_Item::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgMvMVictoryInfo_Item::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgMvMVictoryInfo_Item::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgMvMVictoryInfo_Item::GetMetadata() const
+    CMsgMvMVictoryInfo_Item::~CMsgMvMVictoryInfo_Item()
+    google::protobuf::Message::GetTypeName() const
+    CMsgMvMVictoryInfo_Item::New() const
+    CMsgMvMVictoryInfo_Item::Clear()
+    CMsgMvMVictoryInfo_Item::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgMvMVictoryInfo_Item::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgMvMVictoryInfo_Item::ByteSize() const
+    CMsgMvMVictoryInfo_Item::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgMvMVictoryInfo_Item::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgMvMVictoryInfo_Item::GetCachedSize() const
+    CMsgMvMVictoryInfo_Item::CopyFrom(google::protobuf::Message const&)
+    CMsgMvMVictoryInfo_Item::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgMvMVictoryInfo_Item::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgMvMVictoryInfo_Item::GetMetadata() const

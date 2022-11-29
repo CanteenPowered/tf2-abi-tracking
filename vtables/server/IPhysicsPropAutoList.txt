@@ -1,2 +1,2 @@
 VTable for IPhysicsPropAutoList:
-    [0] IPhysicsPropAutoList::~IPhysicsPropAutoList()
+    IPhysicsPropAutoList::~IPhysicsPropAutoList()

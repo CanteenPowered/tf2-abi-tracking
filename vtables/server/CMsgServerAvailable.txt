@@ -1,20 +1,20 @@
 VTable for CMsgServerAvailable:
-    [0] CMsgServerAvailable::~CMsgServerAvailable()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgServerAvailable::New() const
-    [3] CMsgServerAvailable::Clear()
-    [4] CMsgServerAvailable::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgServerAvailable::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgServerAvailable::ByteSize() const
-    [9] CMsgServerAvailable::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgServerAvailable::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgServerAvailable::GetCachedSize() const
-    [12] CMsgServerAvailable::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgServerAvailable::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgServerAvailable::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgServerAvailable::GetMetadata() const
+    CMsgServerAvailable::~CMsgServerAvailable()
+    google::protobuf::Message::GetTypeName() const
+    CMsgServerAvailable::New() const
+    CMsgServerAvailable::Clear()
+    CMsgServerAvailable::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgServerAvailable::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgServerAvailable::ByteSize() const
+    CMsgServerAvailable::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgServerAvailable::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgServerAvailable::GetCachedSize() const
+    CMsgServerAvailable::CopyFrom(google::protobuf::Message const&)
+    CMsgServerAvailable::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgServerAvailable::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgServerAvailable::GetMetadata() const

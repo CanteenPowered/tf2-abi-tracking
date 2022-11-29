@@ -1,6 +1,6 @@
 VTable for CryptoPP::PublicKeyAlgorithm:
-    [0] CryptoPP::PublicKeyAlgorithm::~PublicKeyAlgorithm()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::PublicKeyAlgorithm::AccessMaterial()
-    [4] CryptoPP::PublicKeyAlgorithm::GetMaterial() const
+    CryptoPP::PublicKeyAlgorithm::~PublicKeyAlgorithm()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::PublicKeyAlgorithm::AccessMaterial()
+    CryptoPP::PublicKeyAlgorithm::GetMaterial() const

@@ -1,12 +1,12 @@
 VTable for CryptoPP::EcPrecomputation<CryptoPP::ECP>:
-    [0] CryptoPP::EcPrecomputation<CryptoPP::ECP>::ConvertIn(CryptoPP::ECPPoint const&) const
-    [1] CryptoPP::EcPrecomputation<CryptoPP::ECP>::ConvertOut(CryptoPP::ECPPoint const&) const
-    [2] CryptoPP::EcPrecomputation<CryptoPP::ECP>::GetGroup() const
-    [3] CryptoPP::EcPrecomputation<CryptoPP::ECP>::BERDecodeElement(CryptoPP::BufferedTransformation&) const
-    [4] CryptoPP::EcPrecomputation<CryptoPP::ECP>::DEREncodeElement(CryptoPP::BufferedTransformation&, CryptoPP::ECPPoint const&) const
+    CryptoPP::EcPrecomputation<CryptoPP::ECP>::ConvertIn(CryptoPP::ECPPoint const&) const
+    CryptoPP::EcPrecomputation<CryptoPP::ECP>::ConvertOut(CryptoPP::ECPPoint const&) const
+    CryptoPP::EcPrecomputation<CryptoPP::ECP>::GetGroup() const
+    CryptoPP::EcPrecomputation<CryptoPP::ECP>::BERDecodeElement(CryptoPP::BufferedTransformation&) const
+    CryptoPP::EcPrecomputation<CryptoPP::ECP>::DEREncodeElement(CryptoPP::BufferedTransformation&, CryptoPP::ECPPoint const&) const
 VTable for CryptoPP::EcPrecomputation<CryptoPP::EC2N>:
-    [0] CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint>::ConvertIn(CryptoPP::EC2NPoint const&) const
-    [1] CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint>::ConvertOut(CryptoPP::EC2NPoint const&) const
-    [2] CryptoPP::EcPrecomputation<CryptoPP::EC2N>::GetGroup() const
-    [3] CryptoPP::EcPrecomputation<CryptoPP::EC2N>::BERDecodeElement(CryptoPP::BufferedTransformation&) const
-    [4] CryptoPP::EcPrecomputation<CryptoPP::EC2N>::DEREncodeElement(CryptoPP::BufferedTransformation&, CryptoPP::EC2NPoint const&) const
+    CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint>::ConvertIn(CryptoPP::EC2NPoint const&) const
+    CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint>::ConvertOut(CryptoPP::EC2NPoint const&) const
+    CryptoPP::EcPrecomputation<CryptoPP::EC2N>::GetGroup() const
+    CryptoPP::EcPrecomputation<CryptoPP::EC2N>::BERDecodeElement(CryptoPP::BufferedTransformation&) const
+    CryptoPP::EcPrecomputation<CryptoPP::EC2N>::DEREncodeElement(CryptoPP::BufferedTransformation&, CryptoPP::EC2NPoint const&) const

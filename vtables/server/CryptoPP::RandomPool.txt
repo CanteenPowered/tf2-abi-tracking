@@ -1,12 +1,12 @@
 VTable for CryptoPP::RandomPool:
-    [0] CryptoPP::RandomPool::~RandomPool()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::RandomPool::IncorporateEntropy(unsigned char const*, unsigned int)
-    [4] CryptoPP::RandomPool::CanIncorporateEntropy() const
-    [5] CryptoPP::RandomNumberGenerator::GenerateByte()
-    [6] CryptoPP::RandomNumberGenerator::GenerateBit()
-    [7] CryptoPP::RandomNumberGenerator::GenerateWord32(unsigned int, unsigned int)
-    [8] CryptoPP::RandomNumberGenerator::GenerateBlock(unsigned char*, unsigned int)
-    [9] CryptoPP::RandomPool::GenerateIntoBufferedTransformation(CryptoPP::BufferedTransformation&, std::string const&, unsigned long long)
-    [10] CryptoPP::RandomNumberGenerator::DiscardBytes(unsigned int)
+    CryptoPP::RandomPool::~RandomPool()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::RandomPool::IncorporateEntropy(unsigned char const*, unsigned int)
+    CryptoPP::RandomPool::CanIncorporateEntropy() const
+    CryptoPP::RandomNumberGenerator::GenerateByte()
+    CryptoPP::RandomNumberGenerator::GenerateBit()
+    CryptoPP::RandomNumberGenerator::GenerateWord32(unsigned int, unsigned int)
+    CryptoPP::RandomNumberGenerator::GenerateBlock(unsigned char*, unsigned int)
+    CryptoPP::RandomPool::GenerateIntoBufferedTransformation(CryptoPP::BufferedTransformation&, std::string const&, unsigned long long)
+    CryptoPP::RandomNumberGenerator::DiscardBytes(unsigned int)

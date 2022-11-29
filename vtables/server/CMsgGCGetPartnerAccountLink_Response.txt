@@ -1,20 +1,20 @@
 VTable for CMsgGCGetPartnerAccountLink_Response:
-    [0] CMsgGCGetPartnerAccountLink_Response::~CMsgGCGetPartnerAccountLink_Response()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCGetPartnerAccountLink_Response::New() const
-    [3] CMsgGCGetPartnerAccountLink_Response::Clear()
-    [4] CMsgGCGetPartnerAccountLink_Response::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCGetPartnerAccountLink_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCGetPartnerAccountLink_Response::ByteSize() const
-    [9] CMsgGCGetPartnerAccountLink_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCGetPartnerAccountLink_Response::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCGetPartnerAccountLink_Response::GetCachedSize() const
-    [12] CMsgGCGetPartnerAccountLink_Response::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCGetPartnerAccountLink_Response::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCGetPartnerAccountLink_Response::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCGetPartnerAccountLink_Response::GetMetadata() const
+    CMsgGCGetPartnerAccountLink_Response::~CMsgGCGetPartnerAccountLink_Response()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCGetPartnerAccountLink_Response::New() const
+    CMsgGCGetPartnerAccountLink_Response::Clear()
+    CMsgGCGetPartnerAccountLink_Response::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCGetPartnerAccountLink_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCGetPartnerAccountLink_Response::ByteSize() const
+    CMsgGCGetPartnerAccountLink_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCGetPartnerAccountLink_Response::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCGetPartnerAccountLink_Response::GetCachedSize() const
+    CMsgGCGetPartnerAccountLink_Response::CopyFrom(google::protobuf::Message const&)
+    CMsgGCGetPartnerAccountLink_Response::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCGetPartnerAccountLink_Response::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCGetPartnerAccountLink_Response::GetMetadata() const

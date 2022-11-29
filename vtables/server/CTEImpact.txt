@@ -1,7 +1,7 @@
 VTable for CTEImpact:
-    [0] CTEImpact::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEImpact::~CTEImpact()
-    [2] CTEImpact::~CTEImpact()
-    [3] CBaseTempEntity::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CTEImpact::Precache()
+    CTEImpact::YouForgotToImplementOrDeclareServerClass()
+    CTEImpact::~CTEImpact()
+    CTEImpact::~CTEImpact()
+    CBaseTempEntity::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CTEImpact::Precache()

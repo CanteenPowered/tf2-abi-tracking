@@ -1,3 +1,3 @@
 VTable for CryptoPP::Clonable:
-    [0] CryptoPP::Clonable::~Clonable()
-    [1] CryptoPP::Clonable::Clone() const
+    CryptoPP::Clonable::~Clonable()
+    CryptoPP::Clonable::Clone() const

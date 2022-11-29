@@ -1,2 +1,2 @@
 VTable for ITriggerPlayerRespawnOverride:
-    [0] ITriggerPlayerRespawnOverride::~ITriggerPlayerRespawnOverride()
+    ITriggerPlayerRespawnOverride::~ITriggerPlayerRespawnOverride()

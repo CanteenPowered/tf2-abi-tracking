@@ -1,2 +1,2 @@
 VTable for IFuncRespawnRoomVisualizerAutoList:
-    [0] IFuncRespawnRoomVisualizerAutoList::~IFuncRespawnRoomVisualizerAutoList()
+    IFuncRespawnRoomVisualizerAutoList::~IFuncRespawnRoomVisualizerAutoList()

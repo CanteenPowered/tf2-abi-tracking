@@ -1,60 +1,60 @@
 VTable for CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>:
-    [0] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::~DL_SignatureSchemeBase()
-    [1] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::SignatureLength() const
-    [2] CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
-    [3] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::MaxRecoverableLength() const
-    [4] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
-    [5] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::IsProbabilistic() const
-    [6] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::AllowNonrecoverablePart() const
-    [7] CryptoPP::PK_SignatureScheme::SignatureUpfront() const
-    [8] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::RecoverablePartFirst() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::~DL_SignatureSchemeBase()
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::SignatureLength() const
+    CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::MaxRecoverableLength() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::IsProbabilistic() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::AllowNonrecoverablePart() const
+    CryptoPP::PK_SignatureScheme::SignatureUpfront() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::RecoverablePartFirst() const
 VTable for CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>:
-    [0] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>::~DL_SignatureSchemeBase()
-    [1] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>::SignatureLength() const
-    [2] CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
-    [3] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>::MaxRecoverableLength() const
-    [4] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
-    [5] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>::IsProbabilistic() const
-    [6] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>::AllowNonrecoverablePart() const
-    [7] CryptoPP::PK_SignatureScheme::SignatureUpfront() const
-    [8] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>::RecoverablePartFirst() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>::~DL_SignatureSchemeBase()
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>::SignatureLength() const
+    CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>::MaxRecoverableLength() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>::IsProbabilistic() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>::AllowNonrecoverablePart() const
+    CryptoPP::PK_SignatureScheme::SignatureUpfront() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>::RecoverablePartFirst() const
 VTable for CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>:
-    [0] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::~DL_SignatureSchemeBase()
-    [1] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::SignatureLength() const
-    [2] CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
-    [3] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::MaxRecoverableLength() const
-    [4] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
-    [5] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::IsProbabilistic() const
-    [6] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::AllowNonrecoverablePart() const
-    [7] CryptoPP::PK_SignatureScheme::SignatureUpfront() const
-    [8] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::RecoverablePartFirst() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::~DL_SignatureSchemeBase()
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::SignatureLength() const
+    CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::MaxRecoverableLength() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::IsProbabilistic() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::AllowNonrecoverablePart() const
+    CryptoPP::PK_SignatureScheme::SignatureUpfront() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::RecoverablePartFirst() const
 VTable for CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>:
-    [0] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::~DL_SignatureSchemeBase()
-    [1] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::SignatureLength() const
-    [2] CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
-    [3] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::MaxRecoverableLength() const
-    [4] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
-    [5] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::IsProbabilistic() const
-    [6] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::AllowNonrecoverablePart() const
-    [7] CryptoPP::PK_SignatureScheme::SignatureUpfront() const
-    [8] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::RecoverablePartFirst() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::~DL_SignatureSchemeBase()
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::SignatureLength() const
+    CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::MaxRecoverableLength() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::IsProbabilistic() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::AllowNonrecoverablePart() const
+    CryptoPP::PK_SignatureScheme::SignatureUpfront() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::RecoverablePartFirst() const
 VTable for CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>:
-    [0] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::~DL_SignatureSchemeBase()
-    [1] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::SignatureLength() const
-    [2] CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
-    [3] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::MaxRecoverableLength() const
-    [4] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
-    [5] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::IsProbabilistic() const
-    [6] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::AllowNonrecoverablePart() const
-    [7] CryptoPP::PK_SignatureScheme::SignatureUpfront() const
-    [8] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::RecoverablePartFirst() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::~DL_SignatureSchemeBase()
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::SignatureLength() const
+    CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::MaxRecoverableLength() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::IsProbabilistic() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::AllowNonrecoverablePart() const
+    CryptoPP::PK_SignatureScheme::SignatureUpfront() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::Integer>>::RecoverablePartFirst() const
 VTable for CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>:
-    [0] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::~DL_SignatureSchemeBase()
-    [1] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::SignatureLength() const
-    [2] CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
-    [3] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::MaxRecoverableLength() const
-    [4] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
-    [5] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::IsProbabilistic() const
-    [6] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::AllowNonrecoverablePart() const
-    [7] CryptoPP::PK_SignatureScheme::SignatureUpfront() const
-    [8] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::RecoverablePartFirst() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::~DL_SignatureSchemeBase()
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::SignatureLength() const
+    CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::MaxRecoverableLength() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::IsProbabilistic() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::AllowNonrecoverablePart() const
+    CryptoPP::PK_SignatureScheme::SignatureUpfront() const
+    CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::Integer>>::RecoverablePartFirst() const

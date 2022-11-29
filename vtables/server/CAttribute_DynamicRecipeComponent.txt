@@ -1,40 +1,40 @@
 VTable for CAttribute_DynamicRecipeComponent:
-    [0] CAttribute_DynamicRecipeComponent::~CAttribute_DynamicRecipeComponent()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CAttribute_DynamicRecipeComponent::New() const
-    [3] CAttribute_DynamicRecipeComponent::Clear()
-    [4] CAttribute_DynamicRecipeComponent::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CAttribute_DynamicRecipeComponent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CAttribute_DynamicRecipeComponent::ByteSize() const
-    [9] CAttribute_DynamicRecipeComponent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CAttribute_DynamicRecipeComponent::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CAttribute_DynamicRecipeComponent::GetCachedSize() const
-    [12] CAttribute_DynamicRecipeComponent::CopyFrom(google::protobuf::Message const&)
-    [13] CAttribute_DynamicRecipeComponent::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CAttribute_DynamicRecipeComponent::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CAttribute_DynamicRecipeComponent::GetMetadata() const
+    CAttribute_DynamicRecipeComponent::~CAttribute_DynamicRecipeComponent()
+    google::protobuf::Message::GetTypeName() const
+    CAttribute_DynamicRecipeComponent::New() const
+    CAttribute_DynamicRecipeComponent::Clear()
+    CAttribute_DynamicRecipeComponent::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CAttribute_DynamicRecipeComponent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CAttribute_DynamicRecipeComponent::ByteSize() const
+    CAttribute_DynamicRecipeComponent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CAttribute_DynamicRecipeComponent::SerializeWithCachedSizesToArray(unsigned char*) const
+    CAttribute_DynamicRecipeComponent::GetCachedSize() const
+    CAttribute_DynamicRecipeComponent::CopyFrom(google::protobuf::Message const&)
+    CAttribute_DynamicRecipeComponent::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CAttribute_DynamicRecipeComponent::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CAttribute_DynamicRecipeComponent::GetMetadata() const
 VTable for CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT:
-    [0] CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::~CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::New() const
-    [3] CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::Clear()
-    [4] CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::ByteSize() const
-    [9] CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::GetCachedSize() const
-    [12] CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::CopyFrom(google::protobuf::Message const&)
-    [13] CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::GetMetadata() const
+    CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::~CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT()
+    google::protobuf::Message::GetTypeName() const
+    CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::New() const
+    CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::Clear()
+    CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::ByteSize() const
+    CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::SerializeWithCachedSizesToArray(unsigned char*) const
+    CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::GetCachedSize() const
+    CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::CopyFrom(google::protobuf::Message const&)
+    CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CAttribute_DynamicRecipeComponent_COMPAT_NEVER_SERIALIZE_THIS_OUT::GetMetadata() const

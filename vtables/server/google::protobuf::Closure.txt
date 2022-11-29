@@ -1,2 +1,2 @@
 VTable for google::protobuf::Closure:
-    [0] google::protobuf::Closure::~Closure()
+    google::protobuf::Closure::~Closure()

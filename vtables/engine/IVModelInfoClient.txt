@@ -1,2 +1,2 @@
 VTable for IVModelInfoClient:
-    [0] IVModelInfoClient::~IVModelInfoClient()
+    IVModelInfoClient::~IVModelInfoClient()

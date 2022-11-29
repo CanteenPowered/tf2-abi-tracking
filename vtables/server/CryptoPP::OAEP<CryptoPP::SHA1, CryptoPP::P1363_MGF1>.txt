@@ -1,9 +1,9 @@
 VTable for CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>:
-    [0] CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>::~OAEP()
-    [1] CryptoPP::OAEP_Base::ParameterSupported(char const*) const
-    [2] CryptoPP::OAEP_Base::MaxUnpaddedLength(unsigned int) const
-    [3] CryptoPP::OAEP_Base::Pad(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned int, unsigned char*, unsigned int, CryptoPP::NameValuePairs const&) const
-    [4] CryptoPP::OAEP_Base::Unpad(unsigned char const*, unsigned int, unsigned char*, CryptoPP::NameValuePairs const&) const
-    [5] CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>::DigestSize() const
-    [6] CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>::NewHash() const
-    [7] CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>::NewMGF() const
+    CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>::~OAEP()
+    CryptoPP::OAEP_Base::ParameterSupported(char const*) const
+    CryptoPP::OAEP_Base::MaxUnpaddedLength(unsigned int) const
+    CryptoPP::OAEP_Base::Pad(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned int, unsigned char*, unsigned int, CryptoPP::NameValuePairs const&) const
+    CryptoPP::OAEP_Base::Unpad(unsigned char const*, unsigned int, unsigned char*, CryptoPP::NameValuePairs const&) const
+    CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>::DigestSize() const
+    CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>::NewHash() const
+    CryptoPP::OAEP<CryptoPP::SHA1, CryptoPP::P1363_MGF1>::NewMGF() const

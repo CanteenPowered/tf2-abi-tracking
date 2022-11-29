@@ -1,20 +1,20 @@
 VTable for CGCMsgSQLStats:
-    [0] CGCMsgSQLStats::~CGCMsgSQLStats()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CGCMsgSQLStats::New() const
-    [3] CGCMsgSQLStats::Clear()
-    [4] CGCMsgSQLStats::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CGCMsgSQLStats::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CGCMsgSQLStats::ByteSize() const
-    [9] CGCMsgSQLStats::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CGCMsgSQLStats::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CGCMsgSQLStats::GetCachedSize() const
-    [12] CGCMsgSQLStats::CopyFrom(google::protobuf::Message const&)
-    [13] CGCMsgSQLStats::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CGCMsgSQLStats::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CGCMsgSQLStats::GetMetadata() const
+    CGCMsgSQLStats::~CGCMsgSQLStats()
+    google::protobuf::Message::GetTypeName() const
+    CGCMsgSQLStats::New() const
+    CGCMsgSQLStats::Clear()
+    CGCMsgSQLStats::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CGCMsgSQLStats::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CGCMsgSQLStats::ByteSize() const
+    CGCMsgSQLStats::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CGCMsgSQLStats::SerializeWithCachedSizesToArray(unsigned char*) const
+    CGCMsgSQLStats::GetCachedSize() const
+    CGCMsgSQLStats::CopyFrom(google::protobuf::Message const&)
+    CGCMsgSQLStats::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CGCMsgSQLStats::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CGCMsgSQLStats::GetMetadata() const

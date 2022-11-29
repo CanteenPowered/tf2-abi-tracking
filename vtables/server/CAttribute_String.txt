@@ -1,20 +1,20 @@
 VTable for CAttribute_String:
-    [0] CAttribute_String::~CAttribute_String()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CAttribute_String::New() const
-    [3] CAttribute_String::Clear()
-    [4] CAttribute_String::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CAttribute_String::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CAttribute_String::ByteSize() const
-    [9] CAttribute_String::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CAttribute_String::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CAttribute_String::GetCachedSize() const
-    [12] CAttribute_String::CopyFrom(google::protobuf::Message const&)
-    [13] CAttribute_String::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CAttribute_String::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CAttribute_String::GetMetadata() const
+    CAttribute_String::~CAttribute_String()
+    google::protobuf::Message::GetTypeName() const
+    CAttribute_String::New() const
+    CAttribute_String::Clear()
+    CAttribute_String::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CAttribute_String::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CAttribute_String::ByteSize() const
+    CAttribute_String::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CAttribute_String::SerializeWithCachedSizesToArray(unsigned char*) const
+    CAttribute_String::GetCachedSize() const
+    CAttribute_String::CopyFrom(google::protobuf::Message const&)
+    CAttribute_String::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CAttribute_String::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CAttribute_String::GetMetadata() const

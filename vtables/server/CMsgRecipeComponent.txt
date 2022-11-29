@@ -1,20 +1,20 @@
 VTable for CMsgRecipeComponent:
-    [0] CMsgRecipeComponent::~CMsgRecipeComponent()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgRecipeComponent::New() const
-    [3] CMsgRecipeComponent::Clear()
-    [4] CMsgRecipeComponent::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgRecipeComponent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgRecipeComponent::ByteSize() const
-    [9] CMsgRecipeComponent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgRecipeComponent::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgRecipeComponent::GetCachedSize() const
-    [12] CMsgRecipeComponent::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgRecipeComponent::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgRecipeComponent::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgRecipeComponent::GetMetadata() const
+    CMsgRecipeComponent::~CMsgRecipeComponent()
+    google::protobuf::Message::GetTypeName() const
+    CMsgRecipeComponent::New() const
+    CMsgRecipeComponent::Clear()
+    CMsgRecipeComponent::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgRecipeComponent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgRecipeComponent::ByteSize() const
+    CMsgRecipeComponent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgRecipeComponent::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgRecipeComponent::GetCachedSize() const
+    CMsgRecipeComponent::CopyFrom(google::protobuf::Message const&)
+    CMsgRecipeComponent::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgRecipeComponent::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgRecipeComponent::GetMetadata() const

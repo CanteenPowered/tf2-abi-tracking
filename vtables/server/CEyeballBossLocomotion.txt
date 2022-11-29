@@ -1,106 +1,106 @@
 VTable for CEyeballBossLocomotion:
-    [0] CEyeballBossLocomotion::~CEyeballBossLocomotion()
-    [1] INextBotEventResponder::FirstContainedResponder() const
-    [2] INextBotEventResponder::NextContainedResponder(INextBotEventResponder*) const
-    [3] ILocomotion::OnLeaveGround(CBaseEntity*)
-    [4] ILocomotion::OnLandOnGround(CBaseEntity*)
-    [5] INextBotEventResponder::OnContact(CBaseEntity*, CGameTrace*)
-    [6] INextBotEventResponder::OnMoveToSuccess(Path const*)
-    [7] INextBotEventResponder::OnMoveToFailure(Path const*, MoveToFailureType)
-    [8] INextBotEventResponder::OnStuck()
-    [9] INextBotEventResponder::OnUnStuck()
-    [10] INextBotEventResponder::OnPostureChanged()
-    [11] INextBotEventResponder::OnAnimationActivityComplete(int)
-    [12] INextBotEventResponder::OnAnimationActivityInterrupted(int)
-    [13] INextBotEventResponder::OnAnimationEvent(animevent_t*)
-    [14] INextBotEventResponder::OnIgnite()
-    [15] INextBotEventResponder::OnInjured(CTakeDamageInfo const&)
-    [16] INextBotEventResponder::OnKilled(CTakeDamageInfo const&)
-    [17] INextBotEventResponder::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)
-    [18] INextBotEventResponder::OnSight(CBaseEntity*)
-    [19] INextBotEventResponder::OnLostSight(CBaseEntity*)
-    [20] INextBotEventResponder::OnSound(CBaseEntity*, Vector const&, KeyValues*)
-    [21] INextBotEventResponder::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)
-    [22] INextBotEventResponder::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)
-    [23] INextBotEventResponder::OnNavAreaChanged(CNavArea*, CNavArea*)
-    [24] INextBotEventResponder::OnModelChanged()
-    [25] INextBotEventResponder::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)
-    [26] INextBotEventResponder::OnDrop(CBaseEntity*)
-    [27] INextBotEventResponder::OnActorEmoted(CBaseCombatCharacter*, int)
-    [28] INextBotEventResponder::OnCommandAttack(CBaseEntity*)
-    [29] INextBotEventResponder::OnCommandApproach(Vector const&, float)
-    [30] INextBotEventResponder::OnCommandApproach(CBaseEntity*)
-    [31] INextBotEventResponder::OnCommandRetreat(CBaseEntity*, float)
-    [32] INextBotEventResponder::OnCommandPause(float)
-    [33] INextBotEventResponder::OnCommandResume()
-    [34] INextBotEventResponder::OnCommandString(char const*)
-    [35] INextBotEventResponder::OnShoved(CBaseEntity*)
-    [36] INextBotEventResponder::OnBlinded(CBaseEntity*)
-    [37] INextBotEventResponder::OnTerritoryContested(int)
-    [38] INextBotEventResponder::OnTerritoryCaptured(int)
-    [39] INextBotEventResponder::OnTerritoryLost(int)
-    [40] INextBotEventResponder::OnWin()
-    [41] INextBotEventResponder::OnLose()
-    [42] CEyeballBossLocomotion::Reset()
-    [43] CEyeballBossLocomotion::Update()
-    [44] INextBotComponent::Upkeep()
-    [45] INextBotComponent::GetBot() const
-    [46] ILocomotion::GetScriptDesc()
-    [47] CEyeballBossLocomotion::Approach(Vector const&, float)
-    [48] ILocomotion::DriveTo(Vector const&)
-    [49] ILocomotion::ClimbUpToLedge(Vector const&, Vector const&, CBaseEntity const*)
-    [50] ILocomotion::JumpAcrossGap(Vector const&, Vector const&)
-    [51] ILocomotion::Jump()
-    [52] ILocomotion::IsClimbingOrJumping() const
-    [53] ILocomotion::IsClimbingUpToLedge() const
-    [54] ILocomotion::IsJumpingAcrossGap() const
-    [55] ILocomotion::IsScrambling() const
-    [56] ILocomotion::Run()
-    [57] ILocomotion::Walk()
-    [58] ILocomotion::Stop()
-    [59] ILocomotion::IsRunning() const
-    [60] CEyeballBossLocomotion::SetDesiredSpeed(float)
-    [61] CEyeballBossLocomotion::GetDesiredSpeed() const
-    [62] ILocomotion::SetSpeedLimit(float)
-    [63] ILocomotion::GetSpeedLimit() const
-    [64] ILocomotion::IsOnGround() const
-    [65] ILocomotion::GetGround() const
-    [66] CEyeballBossLocomotion::GetGroundNormal() const
-    [67] ILocomotion::GetGroundSpeed() const
-    [68] ILocomotion::GetGroundMotionVector() const
-    [69] ILocomotion::ClimbLadder(CNavLadder const*, CNavArea const*)
-    [70] ILocomotion::DescendLadder(CNavLadder const*, CNavArea const*)
-    [71] ILocomotion::IsUsingLadder() const
-    [72] ILocomotion::IsAscendingOrDescendingLadder() const
-    [73] ILocomotion::IsAbleToAutoCenterOnLadder() const
-    [74] CEyeballBossLocomotion::FaceTowards(Vector const&)
-    [75] ILocomotion::SetDesiredLean(QAngle const&)
-    [76] ILocomotion::GetDesiredLean() const
-    [77] ILocomotion::IsAbleToJumpAcrossGaps() const
-    [78] ILocomotion::IsAbleToClimb() const
-    [79] CEyeballBossLocomotion::GetFeet() const
-    [80] CEyeballBossLocomotion::GetStepHeight() const
-    [81] CEyeballBossLocomotion::GetMaxJumpHeight() const
-    [82] CEyeballBossLocomotion::GetDeathDropHeight() const
-    [83] ILocomotion::GetRunSpeed() const
-    [84] ILocomotion::GetWalkSpeed() const
-    [85] ILocomotion::GetMaxAcceleration() const
-    [86] ILocomotion::GetMaxDeceleration() const
-    [87] CEyeballBossLocomotion::GetVelocity() const
-    [88] ILocomotion::GetSpeed() const
-    [89] ILocomotion::GetMotionVector() const
-    [90] ILocomotion::IsAreaTraversable(CNavArea const*) const
-    [91] ILocomotion::GetTraversableSlopeLimit() const
-    [92] ILocomotion::IsPotentiallyTraversable(Vector const&, Vector const&, ILocomotion::TraverseWhenType, float*) const
-    [93] ILocomotion::HasPotentialGap(Vector const&, Vector const&, float*) const
-    [94] ILocomotion::IsGap(Vector const&, Vector const&) const
-    [95] ILocomotion::IsEntityTraversable(CBaseEntity*, ILocomotion::TraverseWhenType) const
-    [96] ILocomotion::IsStuck() const
-    [97] ILocomotion::GetStuckDuration() const
-    [98] ILocomotion::ClearStuckStatus(char const*)
-    [99] ILocomotion::IsAttemptingToMove() const
-    [100] ILocomotion::ShouldCollideWith(CBaseEntity const*) const
-    [101] ILocomotion::AdjustPosture(Vector const&)
-    [102] ILocomotion::StuckMonitor()
-    [103] CEyeballBossLocomotion::SetDesiredAltitude(float)
-    [104] CEyeballBossLocomotion::GetDesiredAltitude() const
+    CEyeballBossLocomotion::~CEyeballBossLocomotion()
+    INextBotEventResponder::FirstContainedResponder() const
+    INextBotEventResponder::NextContainedResponder(INextBotEventResponder*) const
+    ILocomotion::OnLeaveGround(CBaseEntity*)
+    ILocomotion::OnLandOnGround(CBaseEntity*)
+    INextBotEventResponder::OnContact(CBaseEntity*, CGameTrace*)
+    INextBotEventResponder::OnMoveToSuccess(Path const*)
+    INextBotEventResponder::OnMoveToFailure(Path const*, MoveToFailureType)
+    INextBotEventResponder::OnStuck()
+    INextBotEventResponder::OnUnStuck()
+    INextBotEventResponder::OnPostureChanged()
+    INextBotEventResponder::OnAnimationActivityComplete(int)
+    INextBotEventResponder::OnAnimationActivityInterrupted(int)
+    INextBotEventResponder::OnAnimationEvent(animevent_t*)
+    INextBotEventResponder::OnIgnite()
+    INextBotEventResponder::OnInjured(CTakeDamageInfo const&)
+    INextBotEventResponder::OnKilled(CTakeDamageInfo const&)
+    INextBotEventResponder::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)
+    INextBotEventResponder::OnSight(CBaseEntity*)
+    INextBotEventResponder::OnLostSight(CBaseEntity*)
+    INextBotEventResponder::OnSound(CBaseEntity*, Vector const&, KeyValues*)
+    INextBotEventResponder::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)
+    INextBotEventResponder::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)
+    INextBotEventResponder::OnNavAreaChanged(CNavArea*, CNavArea*)
+    INextBotEventResponder::OnModelChanged()
+    INextBotEventResponder::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)
+    INextBotEventResponder::OnDrop(CBaseEntity*)
+    INextBotEventResponder::OnActorEmoted(CBaseCombatCharacter*, int)
+    INextBotEventResponder::OnCommandAttack(CBaseEntity*)
+    INextBotEventResponder::OnCommandApproach(Vector const&, float)
+    INextBotEventResponder::OnCommandApproach(CBaseEntity*)
+    INextBotEventResponder::OnCommandRetreat(CBaseEntity*, float)
+    INextBotEventResponder::OnCommandPause(float)
+    INextBotEventResponder::OnCommandResume()
+    INextBotEventResponder::OnCommandString(char const*)
+    INextBotEventResponder::OnShoved(CBaseEntity*)
+    INextBotEventResponder::OnBlinded(CBaseEntity*)
+    INextBotEventResponder::OnTerritoryContested(int)
+    INextBotEventResponder::OnTerritoryCaptured(int)
+    INextBotEventResponder::OnTerritoryLost(int)
+    INextBotEventResponder::OnWin()
+    INextBotEventResponder::OnLose()
+    CEyeballBossLocomotion::Reset()
+    CEyeballBossLocomotion::Update()
+    INextBotComponent::Upkeep()
+    INextBotComponent::GetBot() const
+    ILocomotion::GetScriptDesc()
+    CEyeballBossLocomotion::Approach(Vector const&, float)
+    ILocomotion::DriveTo(Vector const&)
+    ILocomotion::ClimbUpToLedge(Vector const&, Vector const&, CBaseEntity const*)
+    ILocomotion::JumpAcrossGap(Vector const&, Vector const&)
+    ILocomotion::Jump()
+    ILocomotion::IsClimbingOrJumping() const
+    ILocomotion::IsClimbingUpToLedge() const
+    ILocomotion::IsJumpingAcrossGap() const
+    ILocomotion::IsScrambling() const
+    ILocomotion::Run()
+    ILocomotion::Walk()
+    ILocomotion::Stop()
+    ILocomotion::IsRunning() const
+    CEyeballBossLocomotion::SetDesiredSpeed(float)
+    CEyeballBossLocomotion::GetDesiredSpeed() const
+    ILocomotion::SetSpeedLimit(float)
+    ILocomotion::GetSpeedLimit() const
+    ILocomotion::IsOnGround() const
+    ILocomotion::GetGround() const
+    CEyeballBossLocomotion::GetGroundNormal() const
+    ILocomotion::GetGroundSpeed() const
+    ILocomotion::GetGroundMotionVector() const
+    ILocomotion::ClimbLadder(CNavLadder const*, CNavArea const*)
+    ILocomotion::DescendLadder(CNavLadder const*, CNavArea const*)
+    ILocomotion::IsUsingLadder() const
+    ILocomotion::IsAscendingOrDescendingLadder() const
+    ILocomotion::IsAbleToAutoCenterOnLadder() const
+    CEyeballBossLocomotion::FaceTowards(Vector const&)
+    ILocomotion::SetDesiredLean(QAngle const&)
+    ILocomotion::GetDesiredLean() const
+    ILocomotion::IsAbleToJumpAcrossGaps() const
+    ILocomotion::IsAbleToClimb() const
+    CEyeballBossLocomotion::GetFeet() const
+    CEyeballBossLocomotion::GetStepHeight() const
+    CEyeballBossLocomotion::GetMaxJumpHeight() const
+    CEyeballBossLocomotion::GetDeathDropHeight() const
+    ILocomotion::GetRunSpeed() const
+    ILocomotion::GetWalkSpeed() const
+    ILocomotion::GetMaxAcceleration() const
+    ILocomotion::GetMaxDeceleration() const
+    CEyeballBossLocomotion::GetVelocity() const
+    ILocomotion::GetSpeed() const
+    ILocomotion::GetMotionVector() const
+    ILocomotion::IsAreaTraversable(CNavArea const*) const
+    ILocomotion::GetTraversableSlopeLimit() const
+    ILocomotion::IsPotentiallyTraversable(Vector const&, Vector const&, ILocomotion::TraverseWhenType, float*) const
+    ILocomotion::HasPotentialGap(Vector const&, Vector const&, float*) const
+    ILocomotion::IsGap(Vector const&, Vector const&) const
+    ILocomotion::IsEntityTraversable(CBaseEntity*, ILocomotion::TraverseWhenType) const
+    ILocomotion::IsStuck() const
+    ILocomotion::GetStuckDuration() const
+    ILocomotion::ClearStuckStatus(char const*)
+    ILocomotion::IsAttemptingToMove() const
+    ILocomotion::ShouldCollideWith(CBaseEntity const*) const
+    ILocomotion::AdjustPosture(Vector const&)
+    ILocomotion::StuckMonitor()
+    CEyeballBossLocomotion::SetDesiredAltitude(float)
+    CEyeballBossLocomotion::GetDesiredAltitude() const

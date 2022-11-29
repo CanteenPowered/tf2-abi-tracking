@@ -1,40 +1,40 @@
 VTable for google::protobuf::SourceCodeInfo:
-    [0] google::protobuf::SourceCodeInfo::~SourceCodeInfo()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] google::protobuf::SourceCodeInfo::New() const
-    [3] google::protobuf::SourceCodeInfo::Clear()
-    [4] google::protobuf::SourceCodeInfo::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] google::protobuf::SourceCodeInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] google::protobuf::SourceCodeInfo::ByteSize() const
-    [9] google::protobuf::SourceCodeInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] google::protobuf::SourceCodeInfo::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] google::protobuf::SourceCodeInfo::GetCachedSize() const
-    [12] google::protobuf::SourceCodeInfo::CopyFrom(google::protobuf::Message const&)
-    [13] google::protobuf::SourceCodeInfo::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] google::protobuf::SourceCodeInfo::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] google::protobuf::SourceCodeInfo::GetMetadata() const
+    google::protobuf::SourceCodeInfo::~SourceCodeInfo()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::SourceCodeInfo::New() const
+    google::protobuf::SourceCodeInfo::Clear()
+    google::protobuf::SourceCodeInfo::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::SourceCodeInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::SourceCodeInfo::ByteSize() const
+    google::protobuf::SourceCodeInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::SourceCodeInfo::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::SourceCodeInfo::GetCachedSize() const
+    google::protobuf::SourceCodeInfo::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::SourceCodeInfo::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::SourceCodeInfo::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::SourceCodeInfo::GetMetadata() const
 VTable for google::protobuf::SourceCodeInfo_Location:
-    [0] google::protobuf::SourceCodeInfo_Location::~SourceCodeInfo_Location()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] google::protobuf::SourceCodeInfo_Location::New() const
-    [3] google::protobuf::SourceCodeInfo_Location::Clear()
-    [4] google::protobuf::SourceCodeInfo_Location::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] google::protobuf::SourceCodeInfo_Location::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] google::protobuf::SourceCodeInfo_Location::ByteSize() const
-    [9] google::protobuf::SourceCodeInfo_Location::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] google::protobuf::SourceCodeInfo_Location::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] google::protobuf::SourceCodeInfo_Location::GetCachedSize() const
-    [12] google::protobuf::SourceCodeInfo_Location::CopyFrom(google::protobuf::Message const&)
-    [13] google::protobuf::SourceCodeInfo_Location::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] google::protobuf::SourceCodeInfo_Location::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] google::protobuf::SourceCodeInfo_Location::GetMetadata() const
+    google::protobuf::SourceCodeInfo_Location::~SourceCodeInfo_Location()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::SourceCodeInfo_Location::New() const
+    google::protobuf::SourceCodeInfo_Location::Clear()
+    google::protobuf::SourceCodeInfo_Location::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::SourceCodeInfo_Location::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::SourceCodeInfo_Location::ByteSize() const
+    google::protobuf::SourceCodeInfo_Location::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::SourceCodeInfo_Location::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::SourceCodeInfo_Location::GetCachedSize() const
+    google::protobuf::SourceCodeInfo_Location::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::SourceCodeInfo_Location::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::SourceCodeInfo_Location::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::SourceCodeInfo_Location::GetMetadata() const

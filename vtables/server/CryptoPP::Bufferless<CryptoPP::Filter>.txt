@@ -1,18 +1,18 @@
 VTable for CryptoPP::Bufferless<CryptoPP::Filter>:
-    [0] CryptoPP::Bufferless<CryptoPP::Filter>::~Bufferless()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
-    [4] CryptoPP::BufferedTransformation::CanModifyInput() const
+    CryptoPP::Bufferless<CryptoPP::Filter>::~Bufferless()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    CryptoPP::BufferedTransformation::CanModifyInput() const
 VTable for CryptoPP::Bufferless<CryptoPP::BufferedTransformation>:
-    [0] CryptoPP::Bufferless<CryptoPP::BufferedTransformation>::~Bufferless()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
-    [4] CryptoPP::BufferedTransformation::CanModifyInput() const
+    CryptoPP::Bufferless<CryptoPP::BufferedTransformation>::~Bufferless()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    CryptoPP::BufferedTransformation::CanModifyInput() const
 VTable for CryptoPP::Bufferless<CryptoPP::Sink>:
-    [0] CryptoPP::Bufferless<CryptoPP::Sink>::~Bufferless()
-    [1] CryptoPP::Clonable::Clone() const
-    [2] CryptoPP::Algorithm::AlgorithmName() const
-    [3] CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
-    [4] CryptoPP::BufferedTransformation::CanModifyInput() const
+    CryptoPP::Bufferless<CryptoPP::Sink>::~Bufferless()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    CryptoPP::BufferedTransformation::CanModifyInput() const

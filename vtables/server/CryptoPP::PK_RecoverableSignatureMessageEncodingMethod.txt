@@ -1,7 +1,7 @@
 VTable for CryptoPP::PK_RecoverableSignatureMessageEncodingMethod:
-    [0] CryptoPP::PK_RecoverableSignatureMessageEncodingMethod::~PK_RecoverableSignatureMessageEncodingMethod()
-    [1] CryptoPP::PK_SignatureMessageEncodingMethod::MinRepresentativeBitLength(unsigned int, unsigned int) const
-    [2] CryptoPP::PK_SignatureMessageEncodingMethod::MaxRecoverableLength(unsigned int, unsigned int, unsigned int) const
-    [3] CryptoPP::PK_SignatureMessageEncodingMethod::RecoverablePartFirst() const
-    [4] CryptoPP::PK_SignatureMessageEncodingMethod::ProcessSemisignature(CryptoPP::HashTransformation&, unsigned char const*, unsigned int) const
-    [5] CryptoPP::PK_SignatureMessageEncodingMethod::ProcessRecoverableMessage(CryptoPP::HashTransformation&, unsigned char const*, unsigned int, unsigned char const*, unsigned int, CryptoPP::SecBlock<unsigned char, CryptoPP::AllocatorWithCleanup<unsigned char, false>>&) const
+    CryptoPP::PK_RecoverableSignatureMessageEncodingMethod::~PK_RecoverableSignatureMessageEncodingMethod()
+    CryptoPP::PK_SignatureMessageEncodingMethod::MinRepresentativeBitLength(unsigned int, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::MaxRecoverableLength(unsigned int, unsigned int, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::RecoverablePartFirst() const
+    CryptoPP::PK_SignatureMessageEncodingMethod::ProcessSemisignature(CryptoPP::HashTransformation&, unsigned char const*, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::ProcessRecoverableMessage(CryptoPP::HashTransformation&, unsigned char const*, unsigned int, unsigned char const*, unsigned int, CryptoPP::SecBlock<unsigned char, CryptoPP::AllocatorWithCleanup<unsigned char, false>>&) const

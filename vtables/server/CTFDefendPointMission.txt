@@ -1,6 +1,6 @@
 VTable for CTFDefendPointMission:
-    [0] CTFDefendPointMission::~CTFDefendPointMission()
-    [1] CTFDefendPointMission::GetDeployZone(CBasePlayer*) const
-    [2] CTFDefendPointMission::GetObjectiveZone() const
-    [3] CTFDefendPointMission::GetEnemyZone() const
-    [4] CTFDefendPointMission::GetName() const
+    CTFDefendPointMission::~CTFDefendPointMission()
+    CTFDefendPointMission::GetDeployZone(CBasePlayer*) const
+    CTFDefendPointMission::GetObjectiveZone() const
+    CTFDefendPointMission::GetEnemyZone() const
+    CTFDefendPointMission::GetName() const

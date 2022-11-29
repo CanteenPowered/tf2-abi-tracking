@@ -1,7 +1,7 @@
 VTable for CCasualMatchGroupDescription:
-    [0] CCasualMatchGroupDescription::InitGameRulesSettings() const
-    [1] CCasualMatchGroupDescription::InitGameRulesSettingsPostEntity() const
-    [2] CCasualMatchGroupDescription::PostMatchClearServerSettings() const
-    [3] CCasualMatchGroupDescription::ShouldRequestLateJoin() const
-    [4] CCasualMatchGroupDescription::BMatchIsSafeToLeaveForPlayer(CMatchInfo const*, CMatchInfo::PlayerMatchData_t const*) const
-    [5] CCasualMatchGroupDescription::BPlayWinMusic(int, bool) const
+    CCasualMatchGroupDescription::InitGameRulesSettings() const
+    CCasualMatchGroupDescription::InitGameRulesSettingsPostEntity() const
+    CCasualMatchGroupDescription::PostMatchClearServerSettings() const
+    CCasualMatchGroupDescription::ShouldRequestLateJoin() const
+    CCasualMatchGroupDescription::BMatchIsSafeToLeaveForPlayer(CMatchInfo const*, CMatchInfo::PlayerMatchData_t const*) const
+    CCasualMatchGroupDescription::BPlayWinMusic(int, bool) const

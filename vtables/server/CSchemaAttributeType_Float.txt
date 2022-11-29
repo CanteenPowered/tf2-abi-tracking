@@ -1,14 +1,14 @@
 VTable for CSchemaAttributeType_Float:
-    [0] CSchemaAttributeType_Float::~CSchemaAttributeType_Float()
-    [1] ISchemaAttributeTypeBase<float>::GetTypeUniqueIdentifier() const
-    [2] ISchemaAttributeTypeBase<float>::LoadEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const
-    [3] ISchemaAttributeTypeBase<float>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&, std::string*) const
-    [4] CSchemaAttributeType_Float::BConvertStringToEconAttributeValue(CEconItemAttributeDefinition const*, char const*, attribute_data_union_t*, bool) const
-    [5] CSchemaAttributeType_Float::ConvertEconAttributeValueToString(CEconItemAttributeDefinition const*, attribute_data_union_t const&, std::string*) const
-    [6] ISchemaAttributeTypeBase<float>::LoadByteStreamToEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, std::string const&) const
-    [7] ISchemaAttributeTypeBase<float>::InitializeNewEconAttributeValue(attribute_data_union_t*) const
-    [8] ISchemaAttributeTypeBase<float>::UnloadEconAttributeValue(attribute_data_union_t*) const
-    [9] ISchemaAttributeTypeBase<float>::OnIterateAttributeValue(IEconItemAttributeIterator*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const
-    [10] CSchemaAttributeType_Float::BSupportsGameplayModificationAndNetworking() const
-    [11] CSchemaAttributeType_Float::ConvertTypedValueToByteStream(float const&, std::string*) const
-    [12] CSchemaAttributeType_Float::ConvertByteStreamToTypedValue(std::string const&, float*) const
+    CSchemaAttributeType_Float::~CSchemaAttributeType_Float()
+    ISchemaAttributeTypeBase<float>::GetTypeUniqueIdentifier() const
+    ISchemaAttributeTypeBase<float>::LoadEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const
+    ISchemaAttributeTypeBase<float>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&, std::string*) const
+    CSchemaAttributeType_Float::BConvertStringToEconAttributeValue(CEconItemAttributeDefinition const*, char const*, attribute_data_union_t*, bool) const
+    CSchemaAttributeType_Float::ConvertEconAttributeValueToString(CEconItemAttributeDefinition const*, attribute_data_union_t const&, std::string*) const
+    ISchemaAttributeTypeBase<float>::LoadByteStreamToEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, std::string const&) const
+    ISchemaAttributeTypeBase<float>::InitializeNewEconAttributeValue(attribute_data_union_t*) const
+    ISchemaAttributeTypeBase<float>::UnloadEconAttributeValue(attribute_data_union_t*) const
+    ISchemaAttributeTypeBase<float>::OnIterateAttributeValue(IEconItemAttributeIterator*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const
+    CSchemaAttributeType_Float::BSupportsGameplayModificationAndNetworking() const
+    CSchemaAttributeType_Float::ConvertTypedValueToByteStream(float const&, std::string*) const
+    CSchemaAttributeType_Float::ConvertByteStreamToTypedValue(std::string const&, float*) const

@@ -1,20 +1,20 @@
 VTable for CMsgTFThankedSomeone:
-    [0] CMsgTFThankedSomeone::~CMsgTFThankedSomeone()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgTFThankedSomeone::New() const
-    [3] CMsgTFThankedSomeone::Clear()
-    [4] CMsgTFThankedSomeone::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgTFThankedSomeone::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgTFThankedSomeone::ByteSize() const
-    [9] CMsgTFThankedSomeone::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgTFThankedSomeone::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgTFThankedSomeone::GetCachedSize() const
-    [12] CMsgTFThankedSomeone::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgTFThankedSomeone::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgTFThankedSomeone::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgTFThankedSomeone::GetMetadata() const
+    CMsgTFThankedSomeone::~CMsgTFThankedSomeone()
+    google::protobuf::Message::GetTypeName() const
+    CMsgTFThankedSomeone::New() const
+    CMsgTFThankedSomeone::Clear()
+    CMsgTFThankedSomeone::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgTFThankedSomeone::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgTFThankedSomeone::ByteSize() const
+    CMsgTFThankedSomeone::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgTFThankedSomeone::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgTFThankedSomeone::GetCachedSize() const
+    CMsgTFThankedSomeone::CopyFrom(google::protobuf::Message const&)
+    CMsgTFThankedSomeone::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgTFThankedSomeone::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgTFThankedSomeone::GetMetadata() const

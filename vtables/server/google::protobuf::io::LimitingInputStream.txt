@@ -1,6 +1,6 @@
 VTable for google::protobuf::io::LimitingInputStream:
-    [0] google::protobuf::io::LimitingInputStream::~LimitingInputStream()
-    [1] google::protobuf::io::LimitingInputStream::Next(void const**, int*)
-    [2] google::protobuf::io::LimitingInputStream::BackUp(int)
-    [3] google::protobuf::io::LimitingInputStream::Skip(int)
-    [4] google::protobuf::io::LimitingInputStream::ByteCount() const
+    google::protobuf::io::LimitingInputStream::~LimitingInputStream()
+    google::protobuf::io::LimitingInputStream::Next(void const**, int*)
+    google::protobuf::io::LimitingInputStream::BackUp(int)
+    google::protobuf::io::LimitingInputStream::Skip(int)
+    google::protobuf::io::LimitingInputStream::ByteCount() const

@@ -1,5 +1,5 @@
 VTable for CEntityDataInstantiator<ModelScale>:
-    [0] CEntityDataInstantiator<ModelScale>::~CEntityDataInstantiator()
-    [1] CEntityDataInstantiator<ModelScale>::GetDataObject(CBaseEntity const*)
-    [2] CEntityDataInstantiator<ModelScale>::CreateDataObject(CBaseEntity const*)
-    [3] CEntityDataInstantiator<ModelScale>::DestroyDataObject(CBaseEntity const*)
+    CEntityDataInstantiator<ModelScale>::~CEntityDataInstantiator()
+    CEntityDataInstantiator<ModelScale>::GetDataObject(CBaseEntity const*)
+    CEntityDataInstantiator<ModelScale>::CreateDataObject(CBaseEntity const*)
+    CEntityDataInstantiator<ModelScale>::DestroyDataObject(CBaseEntity const*)

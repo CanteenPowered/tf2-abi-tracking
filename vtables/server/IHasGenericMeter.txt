@@ -1,4 +1,4 @@
 VTable for IHasGenericMeter:
-    [0] IHasGenericMeter::GetMeterMultiplier() const
-    [1] IHasGenericMeter::OnResourceMeterFilled()
-    [2] IHasGenericMeter::GetChargeInterval() const
+    IHasGenericMeter::GetMeterMultiplier() const
+    IHasGenericMeter::OnResourceMeterFilled()
+    IHasGenericMeter::GetChargeInterval() const

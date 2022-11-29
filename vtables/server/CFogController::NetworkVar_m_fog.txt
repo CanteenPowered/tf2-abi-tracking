@@ -1,2 +1,2 @@
 VTable for CFogController::NetworkVar_m_fog:
-    [0] CFogController::NetworkVar_m_fog::NetworkStateChanged(void*)
+    CFogController::NetworkVar_m_fog::NetworkStateChanged(void*)

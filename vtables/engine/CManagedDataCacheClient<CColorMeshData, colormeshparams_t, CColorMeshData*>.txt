@@ -1,2 +1,2 @@
 VTable for CManagedDataCacheClient<CColorMeshData, colormeshparams_t, CColorMeshData*>:
-    [0] CDefaultDataCacheClient::GetItemName(unsigned int, void const*, char*, unsigned int)
+    CDefaultDataCacheClient::GetItemName(unsigned int, void const*, char*, unsigned int)

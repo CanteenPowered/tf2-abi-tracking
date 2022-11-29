@@ -1,3 +1,3 @@
 VTable for CPhysicsPushedEntities:
-    [0] CPhysicsPushedEntities::SpeculativelyCheckLinearPush(Vector const&)
-    [1] CPhysicsPushedEntities::FinishRotPushedEntity(CBaseEntity*, CPhysicsPushedEntities::RotatingPushMove_t const&)
+    CPhysicsPushedEntities::SpeculativelyCheckLinearPush(Vector const&)
+    CPhysicsPushedEntities::FinishRotPushedEntity(CBaseEntity*, CPhysicsPushedEntities::RotatingPushMove_t const&)

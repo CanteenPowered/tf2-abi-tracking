@@ -1,3 +1,3 @@
 VTable for CryptoPP::CryptoMaterial::InvalidMaterial:
-    [0] CryptoPP::CryptoMaterial::InvalidMaterial::~InvalidMaterial()
-    [1] CryptoPP::Exception::what() const
+    CryptoPP::CryptoMaterial::InvalidMaterial::~InvalidMaterial()
+    CryptoPP::Exception::what() const

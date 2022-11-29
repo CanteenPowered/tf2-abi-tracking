@@ -1,8 +1,8 @@
 VTable for CItemSelectionCriteria::CFloatCondition:
-    [0] CItemSelectionCriteria::CFloatCondition::~CFloatCondition()
-    [1] CItemSelectionCriteria::CCondition::BItemDefinitionPassesCriteria(CEconItemDefinition const*) const
-    [2] CItemSelectionCriteria::CCondition::GetEOp() const
-    [3] CItemSelectionCriteria::CCondition::GetField() const
-    [4] CItemSelectionCriteria::CCondition::GetValue() const
-    [5] CItemSelectionCriteria::CFloatCondition::BSerializeToMsg(CSOItemCriteriaCondition&) const
-    [6] CItemSelectionCriteria::CFloatCondition::BInternalEvaluate(KeyValues*) const
+    CItemSelectionCriteria::CFloatCondition::~CFloatCondition()
+    CItemSelectionCriteria::CCondition::BItemDefinitionPassesCriteria(CEconItemDefinition const*) const
+    CItemSelectionCriteria::CCondition::GetEOp() const
+    CItemSelectionCriteria::CCondition::GetField() const
+    CItemSelectionCriteria::CCondition::GetValue() const
+    CItemSelectionCriteria::CFloatCondition::BSerializeToMsg(CSOItemCriteriaCondition&) const
+    CItemSelectionCriteria::CFloatCondition::BInternalEvaluate(KeyValues*) const

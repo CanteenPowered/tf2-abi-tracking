@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CGamePlayerEquip>:
-    [0] CEntityFactory<CGamePlayerEquip>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CGamePlayerEquip>::GetEntitySize()
+    CEntityFactory<CGamePlayerEquip>::Destroy(IServerNetworkable*)
+    CEntityFactory<CGamePlayerEquip>::GetEntitySize()

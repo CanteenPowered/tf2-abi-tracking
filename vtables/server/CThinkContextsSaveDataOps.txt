@@ -1,5 +1,5 @@
 VTable for CThinkContextsSaveDataOps:
-    [0] CThinkContextsSaveDataOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
-    [1] CThinkContextsSaveDataOps::IsEmpty(SaveRestoreFieldInfo_t const&)
-    [2] CThinkContextsSaveDataOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
-    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+    CThinkContextsSaveDataOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    CThinkContextsSaveDataOps::IsEmpty(SaveRestoreFieldInfo_t const&)
+    CThinkContextsSaveDataOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)

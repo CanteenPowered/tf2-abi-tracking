@@ -1,2 +1,2 @@
 VTable for CCopyableUtlVector<static_attrib_t>:
-    [0] CCopyableUtlVector<static_attrib_t>::~CCopyableUtlVector()
+    CCopyableUtlVector<static_attrib_t>::~CCopyableUtlVector()

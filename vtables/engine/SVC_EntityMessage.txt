@@ -1,16 +1,16 @@
 VTable for SVC_EntityMessage:
-    [0] SVC_EntityMessage::~SVC_EntityMessage()
-    [1] CNetMessage::SetNetChannel(INetChannel*)
-    [2] CNetMessage::SetReliable(bool)
-    [3] SVC_EntityMessage::Process()
-    [4] SVC_EntityMessage::ReadFromBuffer(bf_read&)
-    [5] SVC_EntityMessage::WriteToBuffer(bf_write&)
-    [6] CNetMessage::IsReliable() const
-    [7] SVC_EntityMessage::GetType() const
-    [8] SVC_EntityMessage::GetGroup() const
-    [9] SVC_EntityMessage::GetName() const
-    [10] CNetMessage::GetNetChannel() const
-    [11] SVC_EntityMessage::ToString() const
-    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
-    [13] SVC_EntityMessage::GetSize() const
-    [14] CNetMessage::SetRatePolicy()
+    SVC_EntityMessage::~SVC_EntityMessage()
+    CNetMessage::SetNetChannel(INetChannel*)
+    CNetMessage::SetReliable(bool)
+    SVC_EntityMessage::Process()
+    SVC_EntityMessage::ReadFromBuffer(bf_read&)
+    SVC_EntityMessage::WriteToBuffer(bf_write&)
+    CNetMessage::IsReliable() const
+    SVC_EntityMessage::GetType() const
+    SVC_EntityMessage::GetGroup() const
+    SVC_EntityMessage::GetName() const
+    CNetMessage::GetNetChannel() const
+    SVC_EntityMessage::ToString() const
+    CNetMessage::BIncomingMessageForProcessing(double, int)
+    SVC_EntityMessage::GetSize() const
+    CNetMessage::SetRatePolicy()

@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFInfoPowerupSpawn>:
-    [0] CEntityFactory<CTFInfoPowerupSpawn>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFInfoPowerupSpawn>::GetEntitySize()
+    CEntityFactory<CTFInfoPowerupSpawn>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFInfoPowerupSpawn>::GetEntitySize()

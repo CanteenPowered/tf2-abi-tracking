@@ -1,7 +1,7 @@
 VTable for CBaseTempEntity:
-    [0] CBaseTempEntity::YouForgotToImplementOrDeclareServerClass()
-    [1] CBaseTempEntity::~CBaseTempEntity()
-    [2] CBaseTempEntity::~CBaseTempEntity()
-    [3] CBaseTempEntity::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CBaseTempEntity::YouForgotToImplementOrDeclareServerClass()
+    CBaseTempEntity::~CBaseTempEntity()
+    CBaseTempEntity::~CBaseTempEntity()
+    CBaseTempEntity::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

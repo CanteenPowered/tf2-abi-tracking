@@ -1,22 +1,22 @@
 VTable for CTFQuestNotOperatorRestriction:
-    [0] CTFQuestNotOperatorRestriction::~CTFQuestNotOperatorRestriction()
-    [1] CTFQuestRestriction::GetBaseName() const
-    [2] CTFQuestCondition::GetConditionName() const
-    [3] CTFQuestCondition::GetValueString() const
-    [4] CTFQuestOperatorRestriction::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [5] CTFQuestNotOperatorRestriction::PrintDebugText() const
-    [6] CTFQuestCondition::GetQuestOwner() const
-    [7] CTFQuestNotOperatorRestriction::IsValidForPlayer(CTFPlayer const*, InvalidReason&) const
-    [8] CTFQuestOperatorRestriction::IsOperator() const
-    [9] CTFQuestCondition::IsEvaluator() const
-    [10] CTFQuestOperatorRestriction::AddChildByName(char const*)
-    [11] CTFQuestOperatorRestriction::GetChildren(CUtlVector<CTFQuestCondition*, CUtlMemory<CTFQuestCondition*, int>>&)
-    [12] CTFQuestOperatorRestriction::RemoveAndDeleteChild(CTFQuestCondition*)
-    [13] CTFQuestCondition::GetRequiredParamKeys(KeyValues*)
-    [14] CTFQuestCondition::GetOutputKeyValues(KeyValues*)
-    [15] CTFQuestRestriction::GetValidTypes(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const
-    [16] CTFQuestRestriction::GetValidChildren(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const
-    [17] CTFQuestNotOperatorRestriction::GetMaxInputCount() const
-    [18] CTFQuestRestriction::GetEventName() const
-    [19] CTFQuestRestriction::SetEventName(char const*)
-    [20] CTFQuestNotOperatorRestriction::PassesRestrictions(IGameEvent*) const
+    CTFQuestNotOperatorRestriction::~CTFQuestNotOperatorRestriction()
+    CTFQuestRestriction::GetBaseName() const
+    CTFQuestCondition::GetConditionName() const
+    CTFQuestCondition::GetValueString() const
+    CTFQuestOperatorRestriction::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTFQuestNotOperatorRestriction::PrintDebugText() const
+    CTFQuestCondition::GetQuestOwner() const
+    CTFQuestNotOperatorRestriction::IsValidForPlayer(CTFPlayer const*, InvalidReason&) const
+    CTFQuestOperatorRestriction::IsOperator() const
+    CTFQuestCondition::IsEvaluator() const
+    CTFQuestOperatorRestriction::AddChildByName(char const*)
+    CTFQuestOperatorRestriction::GetChildren(CUtlVector<CTFQuestCondition*, CUtlMemory<CTFQuestCondition*, int>>&)
+    CTFQuestOperatorRestriction::RemoveAndDeleteChild(CTFQuestCondition*)
+    CTFQuestCondition::GetRequiredParamKeys(KeyValues*)
+    CTFQuestCondition::GetOutputKeyValues(KeyValues*)
+    CTFQuestRestriction::GetValidTypes(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const
+    CTFQuestRestriction::GetValidChildren(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const
+    CTFQuestNotOperatorRestriction::GetMaxInputCount() const
+    CTFQuestRestriction::GetEventName() const
+    CTFQuestRestriction::SetEventName(char const*)
+    CTFQuestNotOperatorRestriction::PassesRestrictions(IGameEvent*) const

@@ -1,7 +1,7 @@
 VTable for IInventoryUpdateListener:
-    [0] IInventoryUpdateListener::PreSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)
-    [1] IInventoryUpdateListener::SOUpdated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)
-    [2] IInventoryUpdateListener::PostSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)
-    [3] IInventoryUpdateListener::SODestroyed(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)
-    [4] IInventoryUpdateListener::SOCacheSubscribed(CSteamID const&, GCSDK::ESOCacheEvent)
-    [5] IInventoryUpdateListener::SOCacheUnsubscribed(CSteamID const&, GCSDK::ESOCacheEvent)
+    IInventoryUpdateListener::PreSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)
+    IInventoryUpdateListener::SOUpdated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)
+    IInventoryUpdateListener::PostSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)
+    IInventoryUpdateListener::SODestroyed(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)
+    IInventoryUpdateListener::SOCacheSubscribed(CSteamID const&, GCSDK::ESOCacheEvent)
+    IInventoryUpdateListener::SOCacheUnsubscribed(CSteamID const&, GCSDK::ESOCacheEvent)

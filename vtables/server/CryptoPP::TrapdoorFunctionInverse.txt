@@ -1,4 +1,4 @@
 VTable for CryptoPP::TrapdoorFunctionInverse:
-    [0] CryptoPP::TrapdoorFunctionInverse::~TrapdoorFunctionInverse()
-    [1] CryptoPP::TrapdoorFunctionInverse::CalculateRandomizedInverse(CryptoPP::RandomNumberGenerator&, CryptoPP::Integer const&) const
-    [2] CryptoPP::TrapdoorFunctionInverse::IsRandomized() const
+    CryptoPP::TrapdoorFunctionInverse::~TrapdoorFunctionInverse()
+    CryptoPP::TrapdoorFunctionInverse::CalculateRandomizedInverse(CryptoPP::RandomNumberGenerator&, CryptoPP::Integer const&) const
+    CryptoPP::TrapdoorFunctionInverse::IsRandomized() const

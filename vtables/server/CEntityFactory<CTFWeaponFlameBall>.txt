@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFWeaponFlameBall>:
-    [0] CEntityFactory<CTFWeaponFlameBall>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFWeaponFlameBall>::GetEntitySize()
+    CEntityFactory<CTFWeaponFlameBall>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFWeaponFlameBall>::GetEntitySize()

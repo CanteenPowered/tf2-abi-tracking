@@ -1,10 +1,10 @@
 VTable for google::protobuf::io::IstreamInputStream:
-    [0] google::protobuf::io::IstreamInputStream::~IstreamInputStream()
-    [1] google::protobuf::io::IstreamInputStream::Next(void const**, int*)
-    [2] google::protobuf::io::IstreamInputStream::BackUp(int)
-    [3] google::protobuf::io::IstreamInputStream::Skip(int)
-    [4] google::protobuf::io::IstreamInputStream::ByteCount() const
+    google::protobuf::io::IstreamInputStream::~IstreamInputStream()
+    google::protobuf::io::IstreamInputStream::Next(void const**, int*)
+    google::protobuf::io::IstreamInputStream::BackUp(int)
+    google::protobuf::io::IstreamInputStream::Skip(int)
+    google::protobuf::io::IstreamInputStream::ByteCount() const
 VTable for google::protobuf::io::IstreamInputStream::CopyingIstreamInputStream:
-    [0] google::protobuf::io::IstreamInputStream::CopyingIstreamInputStream::~CopyingIstreamInputStream()
-    [1] google::protobuf::io::IstreamInputStream::CopyingIstreamInputStream::Read(void*, int)
-    [2] google::protobuf::io::CopyingInputStream::Skip(int)
+    google::protobuf::io::IstreamInputStream::CopyingIstreamInputStream::~CopyingIstreamInputStream()
+    google::protobuf::io::IstreamInputStream::CopyingIstreamInputStream::Read(void*, int)
+    google::protobuf::io::CopyingInputStream::Skip(int)

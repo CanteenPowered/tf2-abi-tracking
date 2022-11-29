@@ -1,10 +1,10 @@
 VTable for google::protobuf::io::FileInputStream::CopyingFileInputStream:
-    [0] google::protobuf::io::FileInputStream::CopyingFileInputStream::~CopyingFileInputStream()
-    [1] google::protobuf::io::FileInputStream::CopyingFileInputStream::Read(void*, int)
-    [2] google::protobuf::io::FileInputStream::CopyingFileInputStream::Skip(int)
+    google::protobuf::io::FileInputStream::CopyingFileInputStream::~CopyingFileInputStream()
+    google::protobuf::io::FileInputStream::CopyingFileInputStream::Read(void*, int)
+    google::protobuf::io::FileInputStream::CopyingFileInputStream::Skip(int)
 VTable for google::protobuf::io::FileInputStream:
-    [0] google::protobuf::io::FileInputStream::~FileInputStream()
-    [1] google::protobuf::io::FileInputStream::Next(void const**, int*)
-    [2] google::protobuf::io::FileInputStream::BackUp(int)
-    [3] google::protobuf::io::FileInputStream::Skip(int)
-    [4] google::protobuf::io::FileInputStream::ByteCount() const
+    google::protobuf::io::FileInputStream::~FileInputStream()
+    google::protobuf::io::FileInputStream::Next(void const**, int*)
+    google::protobuf::io::FileInputStream::BackUp(int)
+    google::protobuf::io::FileInputStream::Skip(int)
+    google::protobuf::io::FileInputStream::ByteCount() const

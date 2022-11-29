@@ -1,6 +1,6 @@
 VTable for CJob:
-    [0] CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT>>::Release()
-    [1] CJob::~CJob()
-    [2] CJob::~CJob()
-    [3] CJob::Describe()
-    [4] CJob::SetDescription(char const*)
+    CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT>>::Release()
+    CJob::~CJob()
+    CJob::~CJob()
+    CJob::Describe()
+    CJob::SetDescription(char const*)

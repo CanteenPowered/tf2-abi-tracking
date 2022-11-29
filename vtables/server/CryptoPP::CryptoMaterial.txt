@@ -1,2 +1,2 @@
 VTable for CryptoPP::CryptoMaterial:
-    [0] CryptoPP::CryptoMaterial::~CryptoMaterial()
+    CryptoPP::CryptoMaterial::~CryptoMaterial()

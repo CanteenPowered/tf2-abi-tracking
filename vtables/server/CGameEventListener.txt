@@ -1,2 +1,2 @@
 VTable for CGameEventListener:
-    [0] CGameEventListener::~CGameEventListener()
+    CGameEventListener::~CGameEventListener()

@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFWeaponInvis>:
-    [0] CEntityFactory<CTFWeaponInvis>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFWeaponInvis>::GetEntitySize()
+    CEntityFactory<CTFWeaponInvis>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFWeaponInvis>::GetEntitySize()

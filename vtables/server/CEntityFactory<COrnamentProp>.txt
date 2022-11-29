@@ -1,3 +1,3 @@
 VTable for CEntityFactory<COrnamentProp>:
-    [0] CEntityFactory<COrnamentProp>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<COrnamentProp>::GetEntitySize()
+    CEntityFactory<COrnamentProp>::Destroy(IServerNetworkable*)
+    CEntityFactory<COrnamentProp>::GetEntitySize()

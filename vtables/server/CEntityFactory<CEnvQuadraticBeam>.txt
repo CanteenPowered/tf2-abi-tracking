@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CEnvQuadraticBeam>:
-    [0] CEntityFactory<CEnvQuadraticBeam>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CEnvQuadraticBeam>::GetEntitySize()
+    CEntityFactory<CEnvQuadraticBeam>::Destroy(IServerNetworkable*)
+    CEntityFactory<CEnvQuadraticBeam>::GetEntitySize()

@@ -1,3 +1,3 @@
 VTable for CryptoPP::AdditiveCipherAbstractPolicy:
-    [0] CryptoPP::AdditiveCipherAbstractPolicy::~AdditiveCipherAbstractPolicy()
-    [1] CryptoPP::AdditiveCipherAbstractPolicy::GetAlignment() const
+    CryptoPP::AdditiveCipherAbstractPolicy::~AdditiveCipherAbstractPolicy()
+    CryptoPP::AdditiveCipherAbstractPolicy::GetAlignment() const

@@ -1,7 +1,7 @@
 VTable for CTEBeamLaser:
-    [0] CTEBeamLaser::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEBeamLaser::~CTEBeamLaser()
-    [2] CTEBeamLaser::~CTEBeamLaser()
-    [3] CTEBeamLaser::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTEBeamLaser::YouForgotToImplementOrDeclareServerClass()
+    CTEBeamLaser::~CTEBeamLaser()
+    CTEBeamLaser::~CTEBeamLaser()
+    CTEBeamLaser::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

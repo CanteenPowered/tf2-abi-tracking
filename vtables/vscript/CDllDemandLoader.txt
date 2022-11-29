@@ -1,2 +1,2 @@
 VTable for CDllDemandLoader:
-    [0] CDllDemandLoader::~CDllDemandLoader()
+    CDllDemandLoader::~CDllDemandLoader()

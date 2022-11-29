@@ -1,2 +1,2 @@
 VTable for GCSDK::CGCMsg<MsgGCStandardResponse_t>:
-    [0] GCSDK::CGCMsg<MsgGCStandardResponse_t>::~CGCMsg()
+    GCSDK::CGCMsg<MsgGCStandardResponse_t>::~CGCMsg()

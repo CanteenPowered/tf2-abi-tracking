@@ -1,12 +1,12 @@
 VTable for CEntityFactory<CExtraMapEntity_Rocket>:
-    [0] CEntityFactory<CExtraMapEntity_Rocket>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CExtraMapEntity_Rocket>::GetEntitySize()
+    CEntityFactory<CExtraMapEntity_Rocket>::Destroy(IServerNetworkable*)
+    CEntityFactory<CExtraMapEntity_Rocket>::GetEntitySize()
 VTable for CEntityFactory<CExtraMapEntity_Carrier>:
-    [0] CEntityFactory<CExtraMapEntity_Carrier>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CExtraMapEntity_Carrier>::GetEntitySize()
+    CEntityFactory<CExtraMapEntity_Carrier>::Destroy(IServerNetworkable*)
+    CEntityFactory<CExtraMapEntity_Carrier>::GetEntitySize()
 VTable for CEntityFactory<CExtraMapEntity_Saucer>:
-    [0] CEntityFactory<CExtraMapEntity_Saucer>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CExtraMapEntity_Saucer>::GetEntitySize()
+    CEntityFactory<CExtraMapEntity_Saucer>::Destroy(IServerNetworkable*)
+    CEntityFactory<CExtraMapEntity_Saucer>::GetEntitySize()
 VTable for CEntityFactory<CExtraMapEntity_Sign>:
-    [0] CEntityFactory<CExtraMapEntity_Sign>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CExtraMapEntity_Sign>::GetEntitySize()
+    CEntityFactory<CExtraMapEntity_Sign>::Destroy(IServerNetworkable*)
+    CEntityFactory<CExtraMapEntity_Sign>::GetEntitySize()

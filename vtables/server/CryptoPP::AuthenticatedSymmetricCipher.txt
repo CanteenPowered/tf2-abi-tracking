@@ -1,2 +1,2 @@
 VTable for CryptoPP::AuthenticatedSymmetricCipher:
-    [0] CryptoPP::AuthenticatedSymmetricCipher::~AuthenticatedSymmetricCipher()
+    CryptoPP::AuthenticatedSymmetricCipher::~AuthenticatedSymmetricCipher()

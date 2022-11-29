@@ -1,16 +1,16 @@
 VTable for CLC_ClientInfo:
-    [0] CLC_ClientInfo::~CLC_ClientInfo()
-    [1] CNetMessage::SetNetChannel(INetChannel*)
-    [2] CNetMessage::SetReliable(bool)
-    [3] CLC_ClientInfo::Process()
-    [4] CLC_ClientInfo::ReadFromBuffer(bf_read&)
-    [5] CLC_ClientInfo::WriteToBuffer(bf_write&)
-    [6] CNetMessage::IsReliable() const
-    [7] CLC_ClientInfo::GetType() const
-    [8] CNetMessage::GetGroup() const
-    [9] CLC_ClientInfo::GetName() const
-    [10] CNetMessage::GetNetChannel() const
-    [11] CLC_ClientInfo::ToString() const
-    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
-    [13] CLC_ClientInfo::GetSize() const
-    [14] CNetMessage::SetRatePolicy()
+    CLC_ClientInfo::~CLC_ClientInfo()
+    CNetMessage::SetNetChannel(INetChannel*)
+    CNetMessage::SetReliable(bool)
+    CLC_ClientInfo::Process()
+    CLC_ClientInfo::ReadFromBuffer(bf_read&)
+    CLC_ClientInfo::WriteToBuffer(bf_write&)
+    CNetMessage::IsReliable() const
+    CLC_ClientInfo::GetType() const
+    CNetMessage::GetGroup() const
+    CLC_ClientInfo::GetName() const
+    CNetMessage::GetNetChannel() const
+    CLC_ClientInfo::ToString() const
+    CNetMessage::BIncomingMessageForProcessing(double, int)
+    CLC_ClientInfo::GetSize() const
+    CNetMessage::SetRatePolicy()
