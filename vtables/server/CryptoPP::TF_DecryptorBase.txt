@@ -1,1 +1,9 @@
 VTable for CryptoPP::TF_DecryptorBase:
+    [0] CryptoPP::TF_DecryptorBase::~TF_DecryptorBase()
+    [1] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>::MaxPlaintextLength(unsigned int) const
+    [2] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>::CiphertextLength(unsigned int) const
+    [3] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>::ParameterSupported(char const*) const
+    [4] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedCiphertextLength() const
+    [5] CryptoPP::TF_CryptoSystemBase<CryptoPP::PK_Decryptor, CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>>::FixedMaxPlaintextLength() const
+    [6] CryptoPP::TF_DecryptorBase::Decrypt(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned int, unsigned char*, CryptoPP::NameValuePairs const&) const
+    [7] CryptoPP::PK_Decryptor::CreateDecryptionFilter(CryptoPP::RandomNumberGenerator&, CryptoPP::BufferedTransformation*, CryptoPP::NameValuePairs const&) const

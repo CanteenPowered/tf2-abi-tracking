@@ -1,3 +1,16 @@
 VTable for CryptoPP::RSAFunction:
-    [0] CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::~ASN1CryptoMaterial()
-    [1] CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::~ASN1CryptoMaterial()
+    [0] CryptoPP::RSAFunction::~RSAFunction()
+    [1] CryptoPP::RSAFunction::~RSAFunction()
+    [2] CryptoPP::RSAFunction::PreimageBound() const
+    [3] CryptoPP::RSAFunction::ImageBound() const
+    [4] CryptoPP::TrapdoorFunctionBounds::MaxPreimage() const
+    [5] CryptoPP::TrapdoorFunctionBounds::MaxImage() const
+    [6] CryptoPP::TrapdoorFunction::ApplyRandomizedFunction(CryptoPP::RandomNumberGenerator&, CryptoPP::Integer const&) const
+    [7] CryptoPP::TrapdoorFunction::IsRandomized() const
+    [8] CryptoPP::RSAFunction::ApplyFunction(CryptoPP::Integer const&) const
+    [9] CryptoPP::RSAFunction::GetAlgorithmID() const
+    [10] CryptoPP::RSAFunction::BERDecodePublicKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
+    [11] CryptoPP::RSAFunction::DEREncodePublicKey(CryptoPP::BufferedTransformation&) const
+    [12] CryptoPP::RSAFunction::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    [13] CryptoPP::RSAFunction::GetVoidValue(char const*, std::type_info const&, void*) const
+    [14] CryptoPP::RSAFunction::AssignFrom(CryptoPP::NameValuePairs const&)

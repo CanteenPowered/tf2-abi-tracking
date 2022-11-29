@@ -1,13 +1,3 @@
 VTable for CryptoPP::AdditiveCipherAbstractPolicy:
-    [0] non-virtual thunk to CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>::~AdditiveCipherTemplate()
-    [1] non-virtual thunk to CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>::~AdditiveCipherTemplate()
-    [2] CryptoPP::Clonable::Clone() const
-    [3] CryptoPP::Algorithm::AlgorithmName() const
-    [4] CryptoPP::RandomNumberGenerator::IncorporateEntropy(unsigned char const*, unsigned int)
-    [5] CryptoPP::RandomNumberGenerator::CanIncorporateEntropy() const
-    [6] CryptoPP::RandomNumberGenerator::GenerateByte()
-    [7] CryptoPP::RandomNumberGenerator::GenerateBit()
-    [8] CryptoPP::RandomNumberGenerator::GenerateWord32(unsigned int, unsigned int)
-    [9] non-virtual thunk to CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>::GenerateBlock(unsigned char*, unsigned int)
-    [10] CryptoPP::RandomNumberGenerator::GenerateIntoBufferedTransformation(CryptoPP::BufferedTransformation&, std::string const&, unsigned long long)
-    [11] CryptoPP::RandomNumberGenerator::DiscardBytes(unsigned int)
+    [0] CryptoPP::AdditiveCipherAbstractPolicy::~AdditiveCipherAbstractPolicy()
+    [1] CryptoPP::AdditiveCipherAbstractPolicy::GetAlignment() const

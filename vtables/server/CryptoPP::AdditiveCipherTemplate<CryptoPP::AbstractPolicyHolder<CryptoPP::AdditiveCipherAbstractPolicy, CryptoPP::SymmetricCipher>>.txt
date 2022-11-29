@@ -1,11 +1,58 @@
 VTable for CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::OFB_ModePolicy>>:
-    [0] CryptoPP::CryptoMaterial::ThrowIfInvalid(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [1] CryptoPP::CryptoMaterial::Save(CryptoPP::BufferedTransformation&) const
-    [2] CryptoPP::CryptoMaterial::Load(CryptoPP::BufferedTransformation&)
-    [3] CryptoPP::CryptoMaterial::SupportsPrecomputation() const
-    [4] CryptoPP::CryptoMaterial::Precompute(unsigned int)
-    [5] CryptoPP::CryptoMaterial::LoadPrecomputation(CryptoPP::BufferedTransformation&)
-    [6] CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation&) const
-    [7] CryptoPP::GeneratableCryptoMaterial::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    [0] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::OFB_ModePolicy>>::~AdditiveCipherTemplate()
+    [1] CryptoPP::CipherModeBase::MinKeyLength() const
+    [2] CryptoPP::CipherModeBase::MaxKeyLength() const
+    [3] CryptoPP::CipherModeBase::DefaultKeyLength() const
+    [4] CryptoPP::CipherModeBase::GetValidKeyLength(unsigned int) const
+    [5] CryptoPP::CipherModeBase::IsValidKeyLength(unsigned int) const
+    [6] CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [7] CryptoPP::OFB_ModePolicy::IVRequirement() const
+    [8] CryptoPP::CipherModeBase::IVSize() const
+    [9] CryptoPP::SimpleKeyingInterface::MinIVLength() const
+    [10] CryptoPP::SimpleKeyingInterface::MaxIVLength() const
+    [11] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::OFB_ModePolicy>>::Resynchronize(unsigned char const*, int)
+    [12] CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator&, unsigned char*)
+    [13] CryptoPP::SymmetricCipher::GetAlgorithm() const
+    [14] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::OFB_ModePolicy>>::UncheckedSetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [15] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::OFB_ModePolicy>>::OptimalDataAlignment() const
+    [16] CryptoPP::CipherModeBase::SetFeedbackSize(unsigned int)
+    [17] CryptoPP::CipherModeBase::ResizeBuffers()
+    [18] CryptoPP::ModePolicyCommonTemplate<CryptoPP::AdditiveCipherAbstractPolicy>::GetAlignment() const
+    [19] CryptoPP::ModePolicyCommonTemplate<CryptoPP::AdditiveCipherAbstractPolicy>::CipherSetKey(CryptoPP::NameValuePairs const&, unsigned char const*, unsigned int)
+    [20] CryptoPP::OFB_ModePolicy::CipherIsRandomAccess() const
+    [21] CryptoPP::OFB_ModePolicy::GetBytesPerIteration() const
+    [22] CryptoPP::OFB_ModePolicy::GetIterationsToBuffer() const
+    [23] CryptoPP::OFB_ModePolicy::WriteKeystream(unsigned char*, unsigned int)
+    [24] CryptoPP::OFB_ModePolicy::CipherResynchronize(unsigned char*, unsigned char const*, unsigned int)
 VTable for CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>:
+    [0] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>::~AdditiveCipherTemplate()
+    [1] CryptoPP::CipherModeBase::MinKeyLength() const
+    [2] CryptoPP::CipherModeBase::MaxKeyLength() const
+    [3] CryptoPP::CipherModeBase::DefaultKeyLength() const
+    [4] CryptoPP::CipherModeBase::GetValidKeyLength(unsigned int) const
+    [5] CryptoPP::CipherModeBase::IsValidKeyLength(unsigned int) const
+    [6] CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [7] CryptoPP::CTR_ModePolicy::IVRequirement() const
+    [8] CryptoPP::CipherModeBase::IVSize() const
+    [9] CryptoPP::SimpleKeyingInterface::MinIVLength() const
+    [10] CryptoPP::SimpleKeyingInterface::MaxIVLength() const
+    [11] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>::Resynchronize(unsigned char const*, int)
+    [12] CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator&, unsigned char*)
+    [13] CryptoPP::SymmetricCipher::GetAlgorithm() const
+    [14] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>::UncheckedSetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [15] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::CTR_ModePolicy>>::OptimalDataAlignment() const
+    [16] CryptoPP::CipherModeBase::SetFeedbackSize(unsigned int)
+    [17] CryptoPP::CipherModeBase::ResizeBuffers()
+    [18] CryptoPP::CTR_ModePolicy::GetAlignment() const
+    [19] CryptoPP::ModePolicyCommonTemplate<CryptoPP::AdditiveCipherAbstractPolicy>::CipherSetKey(CryptoPP::NameValuePairs const&, unsigned char const*, unsigned int)
+    [20] CryptoPP::CTR_ModePolicy::CipherIsRandomAccess() const
+    [21] CryptoPP::CTR_ModePolicy::IncrementCounterBy256()
+    [22] CryptoPP::CTR_ModePolicy::GetBytesPerIteration() const
+    [23] CryptoPP::CTR_ModePolicy::GetIterationsToBuffer() const
+    [24] CryptoPP::CTR_ModePolicy::WriteKeystream(unsigned char*, unsigned int)
+    [25] CryptoPP::CTR_ModePolicy::CanOperateKeystream() const
+    [26] CryptoPP::CTR_ModePolicy::OperateKeystream(CryptoPP::KeystreamOperation, unsigned char*, unsigned char const*, unsigned int)
+    [27] CryptoPP::CTR_ModePolicy::CipherResynchronize(unsigned char*, unsigned char const*, unsigned int)
+    [28] CryptoPP::CTR_ModePolicy::SeekToIteration(unsigned long long)
 VTable for CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::SymmetricCipher>>:
+    [0] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::SymmetricCipher>>::~AdditiveCipherTemplate()

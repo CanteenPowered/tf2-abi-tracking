@@ -1,1 +1,3 @@
 VTable for google::protobuf::FatalException:
+    [0] google::protobuf::FatalException::~FatalException()
+    [1] google::protobuf::FatalException::what() const

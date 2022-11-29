@@ -1,18 +1,8 @@
 VTable for CryptoPP::BlockOrientedCipherModeBase:
-    [0] CryptoPP::BufferedTransformation::GetAutoSignalPropagation() const
-    [1] CryptoPP::BufferedTransformation::MaxRetrievable() const
-    [2] CryptoPP::BufferedTransformation::AnyRetrievable() const
-    [3] CryptoPP::BufferedTransformation::Get(unsigned char&)
-    [4] CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
-    [5] CryptoPP::BufferedTransformation::Peek(unsigned char&) const
-    [6] CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
-    [7] CryptoPP::BufferedTransformation::Skip(unsigned long long)
-    [8] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
-    [9] CryptoPP::BufferedTransformation::NumberOfMessages() const
-    [10] CryptoPP::BufferedTransformation::AnyMessages() const
-    [11] CryptoPP::BufferedTransformation::GetNextMessage()
-    [12] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
-    [13] CryptoPP::BufferedTransformation::SkipAll()
-    [14] CryptoPP::BufferedTransformation::GetNextMessageSeries()
-    [15] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
-    [16] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
+    [0] CryptoPP::BlockOrientedCipherModeBase::~BlockOrientedCipherModeBase()
+    [1] CryptoPP::CipherModeBase::MinKeyLength() const
+    [2] CryptoPP::CipherModeBase::MaxKeyLength() const
+    [3] CryptoPP::CipherModeBase::DefaultKeyLength() const
+    [4] CryptoPP::CipherModeBase::GetValidKeyLength(unsigned int) const
+    [5] CryptoPP::CipherModeBase::IsValidKeyLength(unsigned int) const
+    [6] CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)

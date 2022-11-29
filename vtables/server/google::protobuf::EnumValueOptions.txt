@@ -1,1 +1,20 @@
 VTable for google::protobuf::EnumValueOptions:
+    [0] google::protobuf::EnumValueOptions::~EnumValueOptions()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] google::protobuf::EnumValueOptions::New() const
+    [3] google::protobuf::EnumValueOptions::Clear()
+    [4] google::protobuf::EnumValueOptions::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] google::protobuf::EnumValueOptions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] google::protobuf::EnumValueOptions::ByteSize() const
+    [9] google::protobuf::EnumValueOptions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] google::protobuf::EnumValueOptions::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] google::protobuf::EnumValueOptions::GetCachedSize() const
+    [12] google::protobuf::EnumValueOptions::CopyFrom(google::protobuf::Message const&)
+    [13] google::protobuf::EnumValueOptions::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] google::protobuf::EnumValueOptions::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] google::protobuf::EnumValueOptions::GetMetadata() const

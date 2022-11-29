@@ -45,39 +45,40 @@ VTable for CHeadlessHatmanBody:
     [43] CHeadlessHatmanBody::Update()
     [44] INextBotComponent::Upkeep()
     [45] INextBotComponent::GetBot() const
-    [46] IBody::SetPosition(Vector const&)
-    [47] IBody::GetEyePosition() const
-    [48] IBody::GetViewVector() const
-    [49] IBody::AimHeadTowards(Vector const&, IBody::LookAtPriorityType, float, INextBotReply*, char const*)
-    [50] IBody::AimHeadTowards(CBaseEntity*, IBody::LookAtPriorityType, float, INextBotReply*, char const*)
-    [51] IBody::IsHeadAimingOnTarget() const
-    [52] IBody::IsHeadSteady() const
-    [53] IBody::GetHeadSteadyDuration() const
-    [54] IBody::GetHeadAimSubjectLeadTime() const
-    [55] IBody::GetHeadAimTrackingInterval() const
-    [56] IBody::ClearPendingAimReply()
-    [57] IBody::GetMaxHeadAngularVelocity() const
-    [58] CHeadlessHatmanBody::StartActivity(Activity, unsigned int)
-    [59] IBody::SelectAnimationSequence(Activity) const
-    [60] CHeadlessHatmanBody::GetActivity() const
-    [61] CHeadlessHatmanBody::IsActivity(Activity) const
-    [62] IBody::HasActivityType(unsigned int) const
-    [63] IBody::SetDesiredPosture(IBody::PostureType)
-    [64] IBody::GetDesiredPosture() const
-    [65] IBody::IsDesiredPosture(IBody::PostureType) const
-    [66] IBody::IsInDesiredPosture() const
-    [67] IBody::GetActualPosture() const
-    [68] IBody::IsActualPosture(IBody::PostureType) const
-    [69] IBody::IsPostureMobile() const
-    [70] IBody::IsPostureChanging() const
-    [71] IBody::SetArousal(IBody::ArousalType)
-    [72] IBody::GetArousal() const
-    [73] IBody::IsArousal(IBody::ArousalType) const
-    [74] IBody::GetHullWidth() const
-    [75] IBody::GetHullHeight() const
-    [76] IBody::GetStandHullHeight() const
-    [77] IBody::GetCrouchHullHeight() const
-    [78] IBody::GetHullMins() const
-    [79] IBody::GetHullMaxs() const
-    [80] CHeadlessHatmanBody::GetSolidMask() const
-    [81] IBody::GetCollisionGroup() const
+    [46] INextBotComponent::GetScriptDesc()
+    [47] IBody::SetPosition(Vector const&)
+    [48] IBody::GetEyePosition() const
+    [49] IBody::GetViewVector() const
+    [50] IBody::AimHeadTowards(Vector const&, IBody::LookAtPriorityType, float, INextBotReply*, char const*)
+    [51] IBody::AimHeadTowards(CBaseEntity*, IBody::LookAtPriorityType, float, INextBotReply*, char const*)
+    [52] IBody::IsHeadAimingOnTarget() const
+    [53] IBody::IsHeadSteady() const
+    [54] IBody::GetHeadSteadyDuration() const
+    [55] IBody::GetHeadAimSubjectLeadTime() const
+    [56] IBody::GetHeadAimTrackingInterval() const
+    [57] IBody::ClearPendingAimReply()
+    [58] IBody::GetMaxHeadAngularVelocity() const
+    [59] CHeadlessHatmanBody::StartActivity(Activity, unsigned int)
+    [60] IBody::SelectAnimationSequence(Activity) const
+    [61] CHeadlessHatmanBody::GetActivity() const
+    [62] CHeadlessHatmanBody::IsActivity(Activity) const
+    [63] IBody::HasActivityType(unsigned int) const
+    [64] IBody::SetDesiredPosture(IBody::PostureType)
+    [65] IBody::GetDesiredPosture() const
+    [66] IBody::IsDesiredPosture(IBody::PostureType) const
+    [67] IBody::IsInDesiredPosture() const
+    [68] IBody::GetActualPosture() const
+    [69] IBody::IsActualPosture(IBody::PostureType) const
+    [70] IBody::IsPostureMobile() const
+    [71] IBody::IsPostureChanging() const
+    [72] IBody::SetArousal(IBody::ArousalType)
+    [73] IBody::GetArousal() const
+    [74] IBody::IsArousal(IBody::ArousalType) const
+    [75] IBody::GetHullWidth() const
+    [76] IBody::GetHullHeight() const
+    [77] IBody::GetStandHullHeight() const
+    [78] IBody::GetCrouchHullHeight() const
+    [79] IBody::GetHullMins() const
+    [80] IBody::GetHullMaxs() const
+    [81] CHeadlessHatmanBody::GetSolidMask() const
+    [82] IBody::GetCollisionGroup() const

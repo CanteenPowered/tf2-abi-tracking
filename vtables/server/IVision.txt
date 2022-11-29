@@ -45,30 +45,31 @@ VTable for IVision:
     [43] IVision::Update()
     [44] INextBotComponent::Upkeep()
     [45] INextBotComponent::GetBot() const
-    [46] IVision::ForEachKnownEntity(IVision::IForEachKnownEntity&)
-    [47] IVision::CollectKnownEntities(CUtlVector<CKnownEntity, CUtlMemory<CKnownEntity, int>>*)
-    [48] IVision::GetPrimaryKnownThreat(bool) const
-    [49] IVision::GetTimeSinceVisible(int) const
-    [50] IVision::GetClosestKnown(int) const
-    [51] IVision::GetKnownCount(int, bool, float) const
-    [52] IVision::GetClosestKnown(INextBotEntityFilter const&) const
-    [53] IVision::GetKnown(CBaseEntity const*) const
-    [54] IVision::AddKnownEntity(CBaseEntity*)
-    [55] IVision::ForgetEntity(CBaseEntity*)
-    [56] IVision::ForgetAllKnownEntities()
-    [57] IVision::CollectPotentiallyVisibleEntities(CUtlVector<CBaseEntity*, CUtlMemory<CBaseEntity*, int>>*)
-    [58] IVision::GetMaxVisionRange() const
-    [59] IVision::GetMinRecognizeTime() const
-    [60] IVision::IsAbleToSee(CBaseEntity*, IVision::FieldOfViewCheckType, Vector*) const
-    [61] IVision::IsAbleToSee(Vector const&, IVision::FieldOfViewCheckType) const
-    [62] IVision::IsIgnored(CBaseEntity*) const
-    [63] IVision::IsVisibleEntityNoticed(CBaseEntity*) const
-    [64] IVision::IsInFieldOfView(Vector const&) const
-    [65] IVision::IsInFieldOfView(CBaseEntity*) const
-    [66] IVision::GetDefaultFieldOfView() const
-    [67] IVision::GetFieldOfView() const
-    [68] IVision::SetFieldOfView(float)
-    [69] IVision::IsLineOfSightClear(Vector const&) const
-    [70] IVision::IsLineOfSightClearToEntity(CBaseEntity const*, Vector*) const
-    [71] IVision::IsLookingAt(Vector const&, float) const
-    [72] IVision::IsLookingAt(CBaseCombatCharacter const*, float) const
+    [46] INextBotComponent::GetScriptDesc()
+    [47] IVision::ForEachKnownEntity(IVision::IForEachKnownEntity&)
+    [48] IVision::CollectKnownEntities(CUtlVector<CKnownEntity, CUtlMemory<CKnownEntity, int>>*)
+    [49] IVision::GetPrimaryKnownThreat(bool) const
+    [50] IVision::GetTimeSinceVisible(int) const
+    [51] IVision::GetClosestKnown(int) const
+    [52] IVision::GetKnownCount(int, bool, float) const
+    [53] IVision::GetClosestKnown(INextBotEntityFilter const&) const
+    [54] IVision::GetKnown(CBaseEntity const*) const
+    [55] IVision::AddKnownEntity(CBaseEntity*)
+    [56] IVision::ForgetEntity(CBaseEntity*)
+    [57] IVision::ForgetAllKnownEntities()
+    [58] IVision::CollectPotentiallyVisibleEntities(CUtlVector<CBaseEntity*, CUtlMemory<CBaseEntity*, int>>*)
+    [59] IVision::GetMaxVisionRange() const
+    [60] IVision::GetMinRecognizeTime() const
+    [61] IVision::IsAbleToSee(CBaseEntity*, IVision::FieldOfViewCheckType, Vector*) const
+    [62] IVision::IsAbleToSee(Vector const&, IVision::FieldOfViewCheckType) const
+    [63] IVision::IsIgnored(CBaseEntity*) const
+    [64] IVision::IsVisibleEntityNoticed(CBaseEntity*) const
+    [65] IVision::IsInFieldOfView(Vector const&) const
+    [66] IVision::IsInFieldOfView(CBaseEntity*) const
+    [67] IVision::GetDefaultFieldOfView() const
+    [68] IVision::GetFieldOfView() const
+    [69] IVision::SetFieldOfView(float)
+    [70] IVision::IsLineOfSightClear(Vector const&) const
+    [71] IVision::IsLineOfSightClearToEntity(CBaseEntity const*, Vector*) const
+    [72] IVision::IsLookingAt(Vector const&, float) const
+    [73] IVision::IsLookingAt(CBaseCombatCharacter const*, float) const

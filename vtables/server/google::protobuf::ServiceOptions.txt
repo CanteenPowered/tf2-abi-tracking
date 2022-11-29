@@ -1,10 +1,20 @@
 VTable for google::protobuf::ServiceOptions:
-    [0] CryptoPP::ClassNullRNG::AlgorithmName() const
-    [1] CryptoPP::RandomNumberGenerator::IncorporateEntropy(unsigned char const*, unsigned int)
-    [2] CryptoPP::RandomNumberGenerator::CanIncorporateEntropy() const
-    [3] CryptoPP::RandomNumberGenerator::GenerateByte()
-    [4] CryptoPP::RandomNumberGenerator::GenerateBit()
-    [5] CryptoPP::RandomNumberGenerator::GenerateWord32(unsigned int, unsigned int)
-    [6] CryptoPP::ClassNullRNG::GenerateBlock(unsigned char*, unsigned int)
-    [7] CryptoPP::RandomNumberGenerator::GenerateIntoBufferedTransformation(CryptoPP::BufferedTransformation&, std::string const&, unsigned long long)
-    [8] CryptoPP::RandomNumberGenerator::DiscardBytes(unsigned int)
+    [0] google::protobuf::ServiceOptions::~ServiceOptions()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] google::protobuf::ServiceOptions::New() const
+    [3] google::protobuf::ServiceOptions::Clear()
+    [4] google::protobuf::ServiceOptions::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] google::protobuf::ServiceOptions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] google::protobuf::ServiceOptions::ByteSize() const
+    [9] google::protobuf::ServiceOptions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] google::protobuf::ServiceOptions::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] google::protobuf::ServiceOptions::GetCachedSize() const
+    [12] google::protobuf::ServiceOptions::CopyFrom(google::protobuf::Message const&)
+    [13] google::protobuf::ServiceOptions::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] google::protobuf::ServiceOptions::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] google::protobuf::ServiceOptions::GetMetadata() const

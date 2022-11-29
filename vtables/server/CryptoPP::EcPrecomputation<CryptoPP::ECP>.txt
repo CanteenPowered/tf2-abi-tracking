@@ -1,6 +1,12 @@
 VTable for CryptoPP::EcPrecomputation<CryptoPP::ECP>:
-    [0] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::ValidateElement(unsigned int, CryptoPP::EC2NPoint const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::EC2NPoint> const*) const
-    [1] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::FastSubgroupCheckAvailable() const
-    [2] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::IsIdentity(CryptoPP::EC2NPoint const&) const
-    [3] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::SimultaneousExponentiate(CryptoPP::EC2NPoint*, CryptoPP::EC2NPoint const&, CryptoPP::Integer const*, unsigned int) const
+    [0] CryptoPP::EcPrecomputation<CryptoPP::ECP>::ConvertIn(CryptoPP::ECPPoint const&) const
+    [1] CryptoPP::EcPrecomputation<CryptoPP::ECP>::ConvertOut(CryptoPP::ECPPoint const&) const
+    [2] CryptoPP::EcPrecomputation<CryptoPP::ECP>::GetGroup() const
+    [3] CryptoPP::EcPrecomputation<CryptoPP::ECP>::BERDecodeElement(CryptoPP::BufferedTransformation&) const
+    [4] CryptoPP::EcPrecomputation<CryptoPP::ECP>::DEREncodeElement(CryptoPP::BufferedTransformation&, CryptoPP::ECPPoint const&) const
 VTable for CryptoPP::EcPrecomputation<CryptoPP::EC2N>:
+    [0] CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint>::ConvertIn(CryptoPP::EC2NPoint const&) const
+    [1] CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint>::ConvertOut(CryptoPP::EC2NPoint const&) const
+    [2] CryptoPP::EcPrecomputation<CryptoPP::EC2N>::GetGroup() const
+    [3] CryptoPP::EcPrecomputation<CryptoPP::EC2N>::BERDecodeElement(CryptoPP::BufferedTransformation&) const
+    [4] CryptoPP::EcPrecomputation<CryptoPP::EC2N>::DEREncodeElement(CryptoPP::BufferedTransformation&, CryptoPP::EC2NPoint const&) const

@@ -45,40 +45,41 @@ VTable for CTFBotBody:
     [43] IBody::Update()
     [44] PlayerBody::Upkeep()
     [45] INextBotComponent::GetBot() const
-    [46] PlayerBody::SetPosition(Vector const&)
-    [47] PlayerBody::GetEyePosition() const
-    [48] PlayerBody::GetViewVector() const
-    [49] PlayerBody::AimHeadTowards(Vector const&, IBody::LookAtPriorityType, float, INextBotReply*, char const*)
-    [50] PlayerBody::AimHeadTowards(CBaseEntity*, IBody::LookAtPriorityType, float, INextBotReply*, char const*)
-    [51] PlayerBody::IsHeadAimingOnTarget() const
-    [52] PlayerBody::IsHeadSteady() const
-    [53] PlayerBody::GetHeadSteadyDuration() const
-    [54] IBody::GetHeadAimSubjectLeadTime() const
-    [55] CTFBotBody::GetHeadAimTrackingInterval() const
-    [56] PlayerBody::ClearPendingAimReply()
-    [57] PlayerBody::GetMaxHeadAngularVelocity() const
-    [58] PlayerBody::StartActivity(Activity, unsigned int)
-    [59] IBody::SelectAnimationSequence(Activity) const
-    [60] PlayerBody::GetActivity() const
-    [61] PlayerBody::IsActivity(Activity) const
-    [62] PlayerBody::HasActivityType(unsigned int) const
-    [63] PlayerBody::SetDesiredPosture(IBody::PostureType)
-    [64] PlayerBody::GetDesiredPosture() const
-    [65] PlayerBody::IsDesiredPosture(IBody::PostureType) const
-    [66] PlayerBody::IsInDesiredPosture() const
-    [67] PlayerBody::GetActualPosture() const
-    [68] PlayerBody::IsActualPosture(IBody::PostureType) const
-    [69] PlayerBody::IsPostureMobile() const
-    [70] PlayerBody::IsPostureChanging() const
-    [71] PlayerBody::SetArousal(IBody::ArousalType)
-    [72] PlayerBody::GetArousal() const
-    [73] PlayerBody::IsArousal(IBody::ArousalType) const
-    [74] PlayerBody::GetHullWidth() const
-    [75] PlayerBody::GetHullHeight() const
-    [76] PlayerBody::GetStandHullHeight() const
-    [77] PlayerBody::GetCrouchHullHeight() const
-    [78] PlayerBody::GetHullMins() const
-    [79] PlayerBody::GetHullMaxs() const
-    [80] PlayerBody::GetSolidMask() const
-    [81] IBody::GetCollisionGroup() const
-    [82] PlayerBody::GetEntity()
+    [46] INextBotComponent::GetScriptDesc()
+    [47] PlayerBody::SetPosition(Vector const&)
+    [48] PlayerBody::GetEyePosition() const
+    [49] PlayerBody::GetViewVector() const
+    [50] PlayerBody::AimHeadTowards(Vector const&, IBody::LookAtPriorityType, float, INextBotReply*, char const*)
+    [51] PlayerBody::AimHeadTowards(CBaseEntity*, IBody::LookAtPriorityType, float, INextBotReply*, char const*)
+    [52] PlayerBody::IsHeadAimingOnTarget() const
+    [53] PlayerBody::IsHeadSteady() const
+    [54] PlayerBody::GetHeadSteadyDuration() const
+    [55] IBody::GetHeadAimSubjectLeadTime() const
+    [56] CTFBotBody::GetHeadAimTrackingInterval() const
+    [57] PlayerBody::ClearPendingAimReply()
+    [58] PlayerBody::GetMaxHeadAngularVelocity() const
+    [59] PlayerBody::StartActivity(Activity, unsigned int)
+    [60] IBody::SelectAnimationSequence(Activity) const
+    [61] PlayerBody::GetActivity() const
+    [62] PlayerBody::IsActivity(Activity) const
+    [63] PlayerBody::HasActivityType(unsigned int) const
+    [64] PlayerBody::SetDesiredPosture(IBody::PostureType)
+    [65] PlayerBody::GetDesiredPosture() const
+    [66] PlayerBody::IsDesiredPosture(IBody::PostureType) const
+    [67] PlayerBody::IsInDesiredPosture() const
+    [68] PlayerBody::GetActualPosture() const
+    [69] PlayerBody::IsActualPosture(IBody::PostureType) const
+    [70] PlayerBody::IsPostureMobile() const
+    [71] PlayerBody::IsPostureChanging() const
+    [72] PlayerBody::SetArousal(IBody::ArousalType)
+    [73] PlayerBody::GetArousal() const
+    [74] PlayerBody::IsArousal(IBody::ArousalType) const
+    [75] PlayerBody::GetHullWidth() const
+    [76] PlayerBody::GetHullHeight() const
+    [77] PlayerBody::GetStandHullHeight() const
+    [78] PlayerBody::GetCrouchHullHeight() const
+    [79] PlayerBody::GetHullMins() const
+    [80] PlayerBody::GetHullMaxs() const
+    [81] PlayerBody::GetSolidMask() const
+    [82] IBody::GetCollisionGroup() const
+    [83] PlayerBody::GetEntity()

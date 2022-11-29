@@ -35,6 +35,7 @@ VTable for CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HM
     [18] CryptoPP::HMAC_Base::OptimalBlockSize() const
     [19] CryptoPP::HMAC_Base::DigestSize() const
 VTable for CryptoPP::SimpleKeyingInterface:
+    [0] CryptoPP::SimpleKeyingInterface::~SimpleKeyingInterface()
 VTable for CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA1>>:
     [0] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA1>>::~SimpleKeyingInterfaceImpl()
     [1] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::HMAC_Base, CryptoPP::HMAC<CryptoPP::SHA1>>::MinKeyLength() const

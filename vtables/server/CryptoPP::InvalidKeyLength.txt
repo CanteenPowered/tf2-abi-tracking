@@ -1,1 +1,3 @@
 VTable for CryptoPP::InvalidKeyLength:
+    [0] CryptoPP::InvalidKeyLength::~InvalidKeyLength()
+    [1] CryptoPP::Exception::what() const

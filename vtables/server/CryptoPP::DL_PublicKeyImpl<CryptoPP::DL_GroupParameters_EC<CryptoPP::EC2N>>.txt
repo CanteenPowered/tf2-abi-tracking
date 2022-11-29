@@ -1,6 +1,54 @@
 VTable for CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>:
-    [0] CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation&) const
-    [1] CryptoPP::GeneratableCryptoMaterial::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    [0] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::GetAbstractGroupParameters() const
+    [1] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::AccessAbstractGroupParameters()
+    [2] CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>::GetPublicElement() const
+    [3] CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>::SetPublicElement(CryptoPP::EC2NPoint const&)
+    [4] CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>::ExponentiatePublicElement(CryptoPP::Integer const&) const
+    [5] CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>::CascadeExponentiateBaseAndPublicElement(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    [6] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::GetPublicPrecomputation() const
+    [7] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::AccessPublicPrecomputation()
+    [8] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    [9] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::GetVoidValue(char const*, std::type_info const&, void*) const
+    [10] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::AssignFrom(CryptoPP::NameValuePairs const&)
+    [11] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::SupportsPrecomputation() const
+    [12] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::Precompute(unsigned int)
+    [13] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::LoadPrecomputation(CryptoPP::BufferedTransformation&)
+    [14] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    [15] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::~DL_PublicKeyImpl()
+    [16] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::~DL_PublicKeyImpl()
 VTable for CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>:
-    [0] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::~DL_PublicKeyImpl()
+    [0] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::GetAbstractGroupParameters() const
+    [1] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::AccessAbstractGroupParameters()
+    [2] CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>::GetPublicElement() const
+    [3] CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>::SetPublicElement(CryptoPP::ECPPoint const&)
+    [4] CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>::ExponentiatePublicElement(CryptoPP::Integer const&) const
+    [5] CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>::CascadeExponentiateBaseAndPublicElement(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    [6] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::GetPublicPrecomputation() const
+    [7] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::AccessPublicPrecomputation()
+    [8] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    [9] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::GetVoidValue(char const*, std::type_info const&, void*) const
+    [10] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::AssignFrom(CryptoPP::NameValuePairs const&)
+    [11] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::SupportsPrecomputation() const
+    [12] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::Precompute(unsigned int)
+    [13] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::LoadPrecomputation(CryptoPP::BufferedTransformation&)
+    [14] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    [15] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::~DL_PublicKeyImpl()
+    [16] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::~DL_PublicKeyImpl()
 VTable for CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>:
+    [0] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetAbstractGroupParameters() const
+    [1] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::AccessAbstractGroupParameters()
+    [2] CryptoPP::DL_PublicKey<CryptoPP::Integer>::GetPublicElement() const
+    [3] CryptoPP::DL_PublicKey<CryptoPP::Integer>::SetPublicElement(CryptoPP::Integer const&)
+    [4] CryptoPP::DL_PublicKey<CryptoPP::Integer>::ExponentiatePublicElement(CryptoPP::Integer const&) const
+    [5] CryptoPP::DL_PublicKey<CryptoPP::Integer>::CascadeExponentiateBaseAndPublicElement(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    [6] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetPublicPrecomputation() const
+    [7] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::AccessPublicPrecomputation()
+    [8] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    [9] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetVoidValue(char const*, std::type_info const&, void*) const
+    [10] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::AssignFrom(CryptoPP::NameValuePairs const&)
+    [11] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::SupportsPrecomputation() const
+    [12] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::Precompute(unsigned int)
+    [13] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::LoadPrecomputation(CryptoPP::BufferedTransformation&)
+    [14] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    [15] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::~DL_PublicKeyImpl()
+    [16] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::~DL_PublicKeyImpl()

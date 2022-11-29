@@ -45,11 +45,12 @@ VTable for IIntention:
     [43] IIntention::Update()
     [44] INextBotComponent::Upkeep()
     [45] INextBotComponent::GetBot() const
-    [46] IIntention::ShouldPickUp(INextBot const*, CBaseEntity*) const
-    [47] IIntention::ShouldHurry(INextBot const*) const
-    [48] IIntention::ShouldRetreat(INextBot const*) const
-    [49] IIntention::ShouldAttack(INextBot const*, CKnownEntity const*) const
-    [50] IIntention::IsHindrance(INextBot const*, CBaseEntity*) const
-    [51] IIntention::SelectTargetPoint(INextBot const*, CBaseCombatCharacter const*) const
-    [52] IIntention::IsPositionAllowed(INextBot const*, Vector const&) const
-    [53] IIntention::SelectMoreDangerousThreat(INextBot const*, CBaseCombatCharacter const*, CKnownEntity const*, CKnownEntity const*) const
+    [46] INextBotComponent::GetScriptDesc()
+    [47] IIntention::ShouldPickUp(INextBot const*, CBaseEntity*) const
+    [48] IIntention::ShouldHurry(INextBot const*) const
+    [49] IIntention::ShouldRetreat(INextBot const*) const
+    [50] IIntention::ShouldAttack(INextBot const*, CKnownEntity const*) const
+    [51] IIntention::IsHindrance(INextBot const*, CBaseEntity*) const
+    [52] IIntention::SelectTargetPoint(INextBot const*, CBaseCombatCharacter const*) const
+    [53] IIntention::IsPositionAllowed(INextBot const*, Vector const&) const
+    [54] IIntention::SelectMoreDangerousThreat(INextBot const*, CBaseCombatCharacter const*, CKnownEntity const*, CKnownEntity const*) const

@@ -1,1 +1,2 @@
 VTable for CryptoPP::PK_Verifier:
+    [0] CryptoPP::PK_Verifier::~PK_Verifier()

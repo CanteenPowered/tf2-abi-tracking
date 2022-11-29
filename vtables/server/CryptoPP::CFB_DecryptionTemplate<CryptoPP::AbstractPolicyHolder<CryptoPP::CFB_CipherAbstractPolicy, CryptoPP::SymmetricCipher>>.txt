@@ -1,50 +1,29 @@
 VTable for CryptoPP::CFB_DecryptionTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::CFB_CipherAbstractPolicy, CryptoPP::CFB_ModePolicy>>:
-    [0] CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
-    [1] CryptoPP::ByteQueue::IsolatedInitialize(CryptoPP::NameValuePairs const&)
-    [2] CryptoPP::Bufferless<CryptoPP::BufferedTransformation>::IsolatedFlush(bool, bool)
-    [3] CryptoPP::BufferedTransformation::IsolatedMessageSeriesEnd(bool)
-    [4] CryptoPP::BufferedTransformation::Initialize(CryptoPP::NameValuePairs const&, int)
-    [5] CryptoPP::BufferedTransformation::Flush(bool, int, bool)
-    [6] CryptoPP::BufferedTransformation::MessageSeriesEnd(int, bool)
-    [7] CryptoPP::BufferedTransformation::SetAutoSignalPropagation(int)
-    [8] CryptoPP::BufferedTransformation::GetAutoSignalPropagation() const
-    [9] CryptoPP::ByteQueue::MaxRetrievable() const
-    [10] CryptoPP::ByteQueue::AnyRetrievable() const
-    [11] CryptoPP::ByteQueue::Get(unsigned char&)
-    [12] CryptoPP::ByteQueue::Get(unsigned char*, unsigned int)
-    [13] CryptoPP::ByteQueue::Peek(unsigned char&) const
-    [14] CryptoPP::ByteQueue::Peek(unsigned char*, unsigned int) const
-    [15] CryptoPP::BufferedTransformation::Skip(unsigned long long)
-    [16] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
-    [17] CryptoPP::BufferedTransformation::NumberOfMessages() const
-    [18] CryptoPP::BufferedTransformation::AnyMessages() const
-    [19] CryptoPP::BufferedTransformation::GetNextMessage()
-    [20] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
-    [21] CryptoPP::BufferedTransformation::SkipAll()
-    [22] CryptoPP::BufferedTransformation::GetNextMessageSeries()
-    [23] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
-    [24] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
-    [25] CryptoPP::ByteQueue::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
-    [26] CryptoPP::ByteQueue::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
-    [27] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
-    [28] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
-    [29] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
-    [30] CryptoPP::BufferedTransformation::ChannelFlush(std::string const&, bool, int, bool)
-    [31] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
-    [32] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [33] CryptoPP::BufferedTransformation::Attachable()
-    [34] CryptoPP::BufferedTransformation::AttachedTransformation()
-    [35] CryptoPP::BufferedTransformation::AttachedTransformation() const
-    [36] CryptoPP::BufferedTransformation::Detach(CryptoPP::BufferedTransformation*)
-    [37] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
+    [0] CryptoPP::CFB_DecryptionTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::CFB_CipherAbstractPolicy, CryptoPP::CFB_ModePolicy>>::~CFB_DecryptionTemplate()
+    [1] CryptoPP::CipherModeBase::MinKeyLength() const
+    [2] CryptoPP::CipherModeBase::MaxKeyLength() const
+    [3] CryptoPP::CipherModeBase::DefaultKeyLength() const
+    [4] CryptoPP::CipherModeBase::GetValidKeyLength(unsigned int) const
+    [5] CryptoPP::CipherModeBase::IsValidKeyLength(unsigned int) const
+    [6] CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [7] CryptoPP::CFB_ModePolicy::IVRequirement() const
+    [8] CryptoPP::CipherModeBase::IVSize() const
+    [9] CryptoPP::SimpleKeyingInterface::MinIVLength() const
+    [10] CryptoPP::SimpleKeyingInterface::MaxIVLength() const
+    [11] CryptoPP::CFB_CipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::CFB_CipherAbstractPolicy, CryptoPP::CFB_ModePolicy>>::Resynchronize(unsigned char const*, int)
+    [12] CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator&, unsigned char*)
+    [13] CryptoPP::SymmetricCipher::GetAlgorithm() const
+    [14] CryptoPP::CFB_CipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::CFB_CipherAbstractPolicy, CryptoPP::CFB_ModePolicy>>::UncheckedSetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [15] CryptoPP::CFB_CipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::CFB_CipherAbstractPolicy, CryptoPP::CFB_ModePolicy>>::OptimalDataAlignment() const
+    [16] CryptoPP::CFB_ModePolicy::SetFeedbackSize(unsigned int)
+    [17] CryptoPP::CFB_ModePolicy::ResizeBuffers()
+    [18] CryptoPP::ModePolicyCommonTemplate<CryptoPP::CFB_CipherAbstractPolicy>::GetAlignment() const
+    [19] CryptoPP::ModePolicyCommonTemplate<CryptoPP::CFB_CipherAbstractPolicy>::CipherSetKey(CryptoPP::NameValuePairs const&, unsigned char const*, unsigned int)
+    [20] CryptoPP::CFB_ModePolicy::GetBytesPerIteration() const
+    [21] CryptoPP::CFB_ModePolicy::GetRegisterBegin()
+    [22] CryptoPP::CFB_ModePolicy::CanIterate() const
+    [23] CryptoPP::CFB_ModePolicy::Iterate(unsigned char*, unsigned char const*, CryptoPP::CipherDir, unsigned int)
+    [24] CryptoPP::CFB_ModePolicy::TransformRegister()
+    [25] CryptoPP::CFB_ModePolicy::CipherResynchronize(unsigned char const*, unsigned int)
 VTable for CryptoPP::CFB_DecryptionTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::CFB_CipherAbstractPolicy, CryptoPP::SymmetricCipher>>:
-    [0] CryptoPP::StreamTransformation::OptimalBlockSize() const
-    [1] CryptoPP::StreamTransformation::GetOptimalBlockSizeUsed() const
-    [2] non-virtual thunk to CryptoPP::CipherModeBase::OptimalDataAlignment() const
-    [3] non-virtual thunk to CryptoPP::CBC_Encryption::ProcessData(unsigned char*, unsigned char const*, unsigned int)
-    [4] CryptoPP::StreamTransformation::ProcessLastBlock(unsigned char*, unsigned char const*, unsigned int)
-    [5] non-virtual thunk to CryptoPP::CBC_ModeBase::MinLastBlockSize() const
-    [6] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::IsRandomAccess() const
-    [7] CryptoPP::StreamTransformation::Seek(unsigned long long)
-    [8] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::IsSelfInverting() const
-    [9] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::IsForwardTransformation() const
+    [0] CryptoPP::CFB_DecryptionTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::CFB_CipherAbstractPolicy, CryptoPP::SymmetricCipher>>::~CFB_DecryptionTemplate()

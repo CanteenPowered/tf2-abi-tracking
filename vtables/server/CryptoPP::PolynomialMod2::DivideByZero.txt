@@ -1,1 +1,3 @@
 VTable for CryptoPP::PolynomialMod2::DivideByZero:
+    [0] CryptoPP::PolynomialMod2::DivideByZero::~DivideByZero()
+    [1] CryptoPP::Exception::what() const

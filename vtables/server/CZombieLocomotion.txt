@@ -45,66 +45,67 @@ VTable for CZombieLocomotion:
     [43] NextBotGroundLocomotion::Update()
     [44] INextBotComponent::Upkeep()
     [45] INextBotComponent::GetBot() const
-    [46] NextBotGroundLocomotion::Approach(Vector const&, float)
-    [47] NextBotGroundLocomotion::DriveTo(Vector const&)
-    [48] NextBotGroundLocomotion::ClimbUpToLedge(Vector const&, Vector const&, CBaseEntity const*)
-    [49] NextBotGroundLocomotion::JumpAcrossGap(Vector const&, Vector const&)
-    [50] NextBotGroundLocomotion::Jump()
-    [51] NextBotGroundLocomotion::IsClimbingOrJumping() const
-    [52] NextBotGroundLocomotion::IsClimbingUpToLedge() const
-    [53] NextBotGroundLocomotion::IsJumpingAcrossGap() const
-    [54] ILocomotion::IsScrambling() const
-    [55] NextBotGroundLocomotion::Run()
-    [56] NextBotGroundLocomotion::Walk()
-    [57] NextBotGroundLocomotion::Stop()
-    [58] NextBotGroundLocomotion::IsRunning() const
-    [59] NextBotGroundLocomotion::SetDesiredSpeed(float)
-    [60] NextBotGroundLocomotion::GetDesiredSpeed() const
-    [61] ILocomotion::SetSpeedLimit(float)
-    [62] NextBotGroundLocomotion::GetSpeedLimit() const
-    [63] NextBotGroundLocomotion::IsOnGround() const
-    [64] NextBotGroundLocomotion::GetGround() const
-    [65] NextBotGroundLocomotion::GetGroundNormal() const
-    [66] ILocomotion::GetGroundSpeed() const
-    [67] ILocomotion::GetGroundMotionVector() const
-    [68] NextBotGroundLocomotion::ClimbLadder(CNavLadder const*, CNavArea const*)
-    [69] NextBotGroundLocomotion::DescendLadder(CNavLadder const*, CNavArea const*)
-    [70] NextBotGroundLocomotion::IsUsingLadder() const
-    [71] NextBotGroundLocomotion::IsAscendingOrDescendingLadder() const
-    [72] ILocomotion::IsAbleToAutoCenterOnLadder() const
-    [73] NextBotGroundLocomotion::FaceTowards(Vector const&)
-    [74] NextBotGroundLocomotion::SetDesiredLean(QAngle const&)
-    [75] NextBotGroundLocomotion::GetDesiredLean() const
-    [76] ILocomotion::IsAbleToJumpAcrossGaps() const
-    [77] ILocomotion::IsAbleToClimb() const
-    [78] NextBotGroundLocomotion::GetFeet() const
-    [79] CZombieLocomotion::GetStepHeight() const
-    [80] CZombieLocomotion::GetMaxJumpHeight() const
-    [81] NextBotGroundLocomotion::GetDeathDropHeight() const
-    [82] CZombieLocomotion::GetRunSpeed() const
-    [83] NextBotGroundLocomotion::GetWalkSpeed() const
-    [84] NextBotGroundLocomotion::GetMaxAcceleration() const
-    [85] NextBotGroundLocomotion::GetMaxDeceleration() const
-    [86] NextBotGroundLocomotion::GetVelocity() const
-    [87] ILocomotion::GetSpeed() const
-    [88] ILocomotion::GetMotionVector() const
-    [89] ILocomotion::IsAreaTraversable(CNavArea const*) const
-    [90] ILocomotion::GetTraversableSlopeLimit() const
-    [91] ILocomotion::IsPotentiallyTraversable(Vector const&, Vector const&, ILocomotion::TraverseWhenType, float*) const
-    [92] ILocomotion::HasPotentialGap(Vector const&, Vector const&, float*) const
-    [93] ILocomotion::IsGap(Vector const&, Vector const&) const
-    [94] ILocomotion::IsEntityTraversable(CBaseEntity*, ILocomotion::TraverseWhenType) const
-    [95] ILocomotion::IsStuck() const
-    [96] ILocomotion::GetStuckDuration() const
-    [97] ILocomotion::ClearStuckStatus(char const*)
-    [98] ILocomotion::IsAttemptingToMove() const
-    [99] CZombieLocomotion::ShouldCollideWith(CBaseEntity const*) const
-    [100] ILocomotion::AdjustPosture(Vector const&)
-    [101] ILocomotion::StuckMonitor()
-    [102] NextBotGroundLocomotion::GetAcceleration() const
-    [103] NextBotGroundLocomotion::SetAcceleration(Vector const&)
-    [104] NextBotGroundLocomotion::SetVelocity(Vector const&)
-    [105] NextBotGroundLocomotion::GetGravity() const
-    [106] NextBotGroundLocomotion::GetFrictionForward() const
-    [107] NextBotGroundLocomotion::GetFrictionSideways() const
-    [108] CZombieLocomotion::GetMaxYawRate() const
+    [46] ILocomotion::GetScriptDesc()
+    [47] NextBotGroundLocomotion::Approach(Vector const&, float)
+    [48] NextBotGroundLocomotion::DriveTo(Vector const&)
+    [49] NextBotGroundLocomotion::ClimbUpToLedge(Vector const&, Vector const&, CBaseEntity const*)
+    [50] NextBotGroundLocomotion::JumpAcrossGap(Vector const&, Vector const&)
+    [51] NextBotGroundLocomotion::Jump()
+    [52] NextBotGroundLocomotion::IsClimbingOrJumping() const
+    [53] NextBotGroundLocomotion::IsClimbingUpToLedge() const
+    [54] NextBotGroundLocomotion::IsJumpingAcrossGap() const
+    [55] ILocomotion::IsScrambling() const
+    [56] NextBotGroundLocomotion::Run()
+    [57] NextBotGroundLocomotion::Walk()
+    [58] NextBotGroundLocomotion::Stop()
+    [59] NextBotGroundLocomotion::IsRunning() const
+    [60] NextBotGroundLocomotion::SetDesiredSpeed(float)
+    [61] NextBotGroundLocomotion::GetDesiredSpeed() const
+    [62] ILocomotion::SetSpeedLimit(float)
+    [63] NextBotGroundLocomotion::GetSpeedLimit() const
+    [64] NextBotGroundLocomotion::IsOnGround() const
+    [65] NextBotGroundLocomotion::GetGround() const
+    [66] NextBotGroundLocomotion::GetGroundNormal() const
+    [67] ILocomotion::GetGroundSpeed() const
+    [68] ILocomotion::GetGroundMotionVector() const
+    [69] NextBotGroundLocomotion::ClimbLadder(CNavLadder const*, CNavArea const*)
+    [70] NextBotGroundLocomotion::DescendLadder(CNavLadder const*, CNavArea const*)
+    [71] NextBotGroundLocomotion::IsUsingLadder() const
+    [72] NextBotGroundLocomotion::IsAscendingOrDescendingLadder() const
+    [73] ILocomotion::IsAbleToAutoCenterOnLadder() const
+    [74] NextBotGroundLocomotion::FaceTowards(Vector const&)
+    [75] NextBotGroundLocomotion::SetDesiredLean(QAngle const&)
+    [76] NextBotGroundLocomotion::GetDesiredLean() const
+    [77] ILocomotion::IsAbleToJumpAcrossGaps() const
+    [78] ILocomotion::IsAbleToClimb() const
+    [79] NextBotGroundLocomotion::GetFeet() const
+    [80] CZombieLocomotion::GetStepHeight() const
+    [81] CZombieLocomotion::GetMaxJumpHeight() const
+    [82] NextBotGroundLocomotion::GetDeathDropHeight() const
+    [83] CZombieLocomotion::GetRunSpeed() const
+    [84] NextBotGroundLocomotion::GetWalkSpeed() const
+    [85] NextBotGroundLocomotion::GetMaxAcceleration() const
+    [86] NextBotGroundLocomotion::GetMaxDeceleration() const
+    [87] NextBotGroundLocomotion::GetVelocity() const
+    [88] ILocomotion::GetSpeed() const
+    [89] ILocomotion::GetMotionVector() const
+    [90] ILocomotion::IsAreaTraversable(CNavArea const*) const
+    [91] ILocomotion::GetTraversableSlopeLimit() const
+    [92] ILocomotion::IsPotentiallyTraversable(Vector const&, Vector const&, ILocomotion::TraverseWhenType, float*) const
+    [93] ILocomotion::HasPotentialGap(Vector const&, Vector const&, float*) const
+    [94] ILocomotion::IsGap(Vector const&, Vector const&) const
+    [95] ILocomotion::IsEntityTraversable(CBaseEntity*, ILocomotion::TraverseWhenType) const
+    [96] ILocomotion::IsStuck() const
+    [97] ILocomotion::GetStuckDuration() const
+    [98] ILocomotion::ClearStuckStatus(char const*)
+    [99] ILocomotion::IsAttemptingToMove() const
+    [100] CZombieLocomotion::ShouldCollideWith(CBaseEntity const*) const
+    [101] ILocomotion::AdjustPosture(Vector const&)
+    [102] ILocomotion::StuckMonitor()
+    [103] NextBotGroundLocomotion::GetAcceleration() const
+    [104] NextBotGroundLocomotion::SetAcceleration(Vector const&)
+    [105] NextBotGroundLocomotion::SetVelocity(Vector const&)
+    [106] NextBotGroundLocomotion::GetGravity() const
+    [107] NextBotGroundLocomotion::GetFrictionForward() const
+    [108] NextBotGroundLocomotion::GetFrictionSideways() const
+    [109] CZombieLocomotion::GetMaxYawRate() const

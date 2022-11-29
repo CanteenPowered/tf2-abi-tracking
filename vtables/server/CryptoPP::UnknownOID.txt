@@ -1,1 +1,3 @@
 VTable for CryptoPP::UnknownOID:
+    [0] CryptoPP::UnknownOID::~UnknownOID()
+    [1] CryptoPP::Exception::what() const

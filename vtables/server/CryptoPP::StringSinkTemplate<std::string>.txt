@@ -1,5 +1,47 @@
 VTable for CryptoPP::StringSinkTemplate<std::string>:
-    [0] CryptoPP::DL_GroupParameters_IntegerBased::GetEncodedElementSize(bool) const
-    [1] CryptoPP::DL_GroupParameters_IntegerBased::DecodeElement(unsigned char const*, bool) const
-    [2] CryptoPP::DL_GroupParameters_IntegerBased::ConvertElementToInteger(CryptoPP::Integer const&) const
-    [3] CryptoPP::DL_GroupParameters_IntegerBased::GetMaxExponent() const
+    [0] CryptoPP::StringSinkTemplate<std::string>::~StringSinkTemplate()
+    [1] CryptoPP::Clonable::Clone() const
+    [2] CryptoPP::Algorithm::AlgorithmName() const
+    [3] CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    [4] CryptoPP::BufferedTransformation::CanModifyInput() const
+    [5] CryptoPP::StringSinkTemplate<std::string>::Put2(unsigned char const*, unsigned int, int, bool)
+    [6] CryptoPP::BufferedTransformation::PutModifiable2(unsigned char*, unsigned int, int, bool)
+    [7] CryptoPP::BufferedTransformation::GetMaxWaitObjectCount() const
+    [8] CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
+    [9] CryptoPP::StringSinkTemplate<std::string>::IsolatedInitialize(CryptoPP::NameValuePairs const&)
+    [10] CryptoPP::Bufferless<CryptoPP::Sink>::IsolatedFlush(bool, bool)
+    [11] CryptoPP::BufferedTransformation::IsolatedMessageSeriesEnd(bool)
+    [12] CryptoPP::BufferedTransformation::Initialize(CryptoPP::NameValuePairs const&, int)
+    [13] CryptoPP::BufferedTransformation::Flush(bool, int, bool)
+    [14] CryptoPP::BufferedTransformation::MessageSeriesEnd(int, bool)
+    [15] CryptoPP::BufferedTransformation::SetAutoSignalPropagation(int)
+    [16] CryptoPP::BufferedTransformation::GetAutoSignalPropagation() const
+    [17] CryptoPP::BufferedTransformation::MaxRetrievable() const
+    [18] CryptoPP::BufferedTransformation::AnyRetrievable() const
+    [19] CryptoPP::BufferedTransformation::Get(unsigned char&)
+    [20] CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
+    [21] CryptoPP::BufferedTransformation::Peek(unsigned char&) const
+    [22] CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
+    [23] CryptoPP::BufferedTransformation::Skip(unsigned long long)
+    [24] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
+    [25] CryptoPP::BufferedTransformation::NumberOfMessages() const
+    [26] CryptoPP::BufferedTransformation::AnyMessages() const
+    [27] CryptoPP::BufferedTransformation::GetNextMessage()
+    [28] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
+    [29] CryptoPP::BufferedTransformation::SkipAll()
+    [30] CryptoPP::BufferedTransformation::GetNextMessageSeries()
+    [31] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
+    [32] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
+    [33] CryptoPP::Sink::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
+    [34] CryptoPP::Sink::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
+    [35] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
+    [36] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
+    [37] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
+    [38] CryptoPP::BufferedTransformation::ChannelFlush(std::string const&, bool, int, bool)
+    [39] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
+    [40] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
+    [41] CryptoPP::BufferedTransformation::Attachable()
+    [42] CryptoPP::BufferedTransformation::AttachedTransformation()
+    [43] CryptoPP::BufferedTransformation::AttachedTransformation() const
+    [44] CryptoPP::BufferedTransformation::Detach(CryptoPP::BufferedTransformation*)
+    [45] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)

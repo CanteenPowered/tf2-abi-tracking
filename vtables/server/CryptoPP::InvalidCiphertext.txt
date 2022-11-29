@@ -1,1 +1,3 @@
 VTable for CryptoPP::InvalidCiphertext:
+    [0] CryptoPP::InvalidCiphertext::~InvalidCiphertext()
+    [1] CryptoPP::Exception::what() const

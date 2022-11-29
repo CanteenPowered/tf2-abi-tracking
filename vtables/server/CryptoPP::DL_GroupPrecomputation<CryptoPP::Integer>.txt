@@ -1,15 +1,9 @@
 VTable for CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint>:
+    [0] CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint>::ConvertIn(CryptoPP::EC2NPoint const&) const
+    [1] CryptoPP::DL_GroupPrecomputation<CryptoPP::EC2NPoint>::ConvertOut(CryptoPP::EC2NPoint const&) const
 VTable for CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint>:
-    [0] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::GetMaxExponent() const
-    [1] CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint>::GetGroupOrder() const
-    [2] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::GetCofactor() const
-    [3] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::GetEncodedElementSize(bool) const
-    [4] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::EncodeElement(bool, CryptoPP::EC2NPoint const&, unsigned char*) const
-    [5] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::DecodeElement(unsigned char const*, bool) const
-    [6] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::ConvertElementToInteger(CryptoPP::EC2NPoint const&) const
-    [7] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::ValidateGroup(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [8] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::ValidateElement(unsigned int, CryptoPP::EC2NPoint const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::EC2NPoint> const*) const
-    [9] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::FastSubgroupCheckAvailable() const
-    [10] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::IsIdentity(CryptoPP::EC2NPoint const&) const
-    [11] CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>::SimultaneousExponentiate(CryptoPP::EC2NPoint*, CryptoPP::EC2NPoint const&, CryptoPP::Integer const*, unsigned int) const
+    [0] CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint>::ConvertIn(CryptoPP::ECPPoint const&) const
+    [1] CryptoPP::DL_GroupPrecomputation<CryptoPP::ECPPoint>::ConvertOut(CryptoPP::ECPPoint const&) const
 VTable for CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer>:
+    [0] CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer>::ConvertIn(CryptoPP::Integer const&) const
+    [1] CryptoPP::DL_GroupPrecomputation<CryptoPP::Integer>::ConvertOut(CryptoPP::Integer const&) const

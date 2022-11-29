@@ -1,4 +1,3 @@
 VTable for CryptoPP::Gunzip::TailErr:
-    [0] CryptoPP::StreamTransformation::Seek(unsigned long long)
-    [1] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::IsSelfInverting() const
-    [2] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::IsForwardTransformation() const
+    [0] CryptoPP::Gunzip::TailErr::~TailErr()
+    [1] CryptoPP::Exception::what() const

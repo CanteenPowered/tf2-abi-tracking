@@ -36,6 +36,13 @@ VTable for CryptoPP::ClonableImpl<CryptoPP::BlockCipherFinal<(CryptoPP::CipherDi
     [18] CryptoPP::Rijndael::Dec::AdvancedProcessBlocks(unsigned char const*, unsigned char const*, unsigned char*, unsigned int, unsigned int) const
     [19] CryptoPP::ClonableImpl<CryptoPP::BlockCipherFinal<(CryptoPP::CipherDir)1, CryptoPP::Rijndael::Dec>, CryptoPP::Rijndael::Dec>::Clone() const
 VTable for CryptoPP::ClonableImpl<CryptoPP::SHA224, CryptoPP::AlgorithmImpl<CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>, CryptoPP::SHA224>>:
+    [0] CryptoPP::ClonableImpl<CryptoPP::SHA224, CryptoPP::AlgorithmImpl<CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>, CryptoPP::SHA224>>::~ClonableImpl()
+    [1] CryptoPP::ClonableImpl<CryptoPP::SHA224, CryptoPP::AlgorithmImpl<CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>, CryptoPP::SHA224>>::Clone() const
+    [2] CryptoPP::AlgorithmImpl<CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>, CryptoPP::SHA224>::AlgorithmName() const
+    [3] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::Update(unsigned char const*, unsigned int)
+    [4] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::CreateUpdateSpace(unsigned int&)
+    [5] CryptoPP::HashTransformation::Final(unsigned char*)
+    [6] CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::Restart()
 VTable for CryptoPP::ClonableImpl<CryptoPP::BlockCipherFinal<(CryptoPP::CipherDir)0, CryptoPP::Rijndael::Enc>, CryptoPP::Rijndael::Enc>:
     [0] CryptoPP::ClonableImpl<CryptoPP::BlockCipherFinal<(CryptoPP::CipherDir)0, CryptoPP::Rijndael::Enc>, CryptoPP::Rijndael::Enc>::~ClonableImpl()
     [1] CryptoPP::SimpleKeyingInterfaceImpl<CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>, CryptoPP::TwoBases<CryptoPP::BlockCipher, CryptoPP::Rijndael_Info>>::MinKeyLength() const

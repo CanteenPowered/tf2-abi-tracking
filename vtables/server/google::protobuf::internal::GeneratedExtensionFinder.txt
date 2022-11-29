@@ -1,34 +1,109 @@
 VTable for google::protobuf::internal::FunctionClosure0:
-    [0] google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector::AddWarning(int, int, std::string const&)
+    [0] google::protobuf::internal::FunctionClosure0::~FunctionClosure0()
+    [1] google::protobuf::internal::FunctionClosure0::Run()
 VTable for google::protobuf::internal::CodedOutputStreamFieldSkipper:
+    [0] google::protobuf::internal::CodedOutputStreamFieldSkipper::~CodedOutputStreamFieldSkipper()
+    [1] google::protobuf::internal::CodedOutputStreamFieldSkipper::SkipField(google::protobuf::io::CodedInputStream*, unsigned int)
+    [2] google::protobuf::internal::CodedOutputStreamFieldSkipper::SkipMessage(google::protobuf::io::CodedInputStream*)
+    [3] google::protobuf::internal::CodedOutputStreamFieldSkipper::SkipUnknownEnum(int, int)
 VTable for google::protobuf::internal::FieldSkipper:
+    [0] google::protobuf::internal::FieldSkipper::~FieldSkipper()
+    [1] google::protobuf::internal::FieldSkipper::SkipField(google::protobuf::io::CodedInputStream*, unsigned int)
+    [2] google::protobuf::internal::FieldSkipper::SkipMessage(google::protobuf::io::CodedInputStream*)
+    [3] google::protobuf::internal::FieldSkipper::SkipUnknownEnum(int, int)
 VTable for google::protobuf::internal::GeneratedMessageReflection:
+    [0] google::protobuf::internal::GeneratedMessageReflection::~GeneratedMessageReflection()
+    [1] google::protobuf::internal::GeneratedMessageReflection::GetUnknownFields(google::protobuf::Message const&) const
+    [2] google::protobuf::internal::GeneratedMessageReflection::MutableUnknownFields(google::protobuf::Message*) const
+    [3] google::protobuf::internal::GeneratedMessageReflection::SpaceUsed(google::protobuf::Message const&) const
+    [4] google::protobuf::internal::GeneratedMessageReflection::HasField(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*) const
+    [5] google::protobuf::internal::GeneratedMessageReflection::FieldSize(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*) const
+    [6] google::protobuf::internal::GeneratedMessageReflection::ClearField(google::protobuf::Message*, google::protobuf::FieldDescriptor const*) const
+    [7] google::protobuf::internal::GeneratedMessageReflection::HasOneof(google::protobuf::Message const&, google::protobuf::OneofDescriptor const*) const
+    [8] google::protobuf::internal::GeneratedMessageReflection::ClearOneof(google::protobuf::Message*, google::protobuf::OneofDescriptor const*) const
+    [9] google::protobuf::internal::GeneratedMessageReflection::GetOneofFieldDescriptor(google::protobuf::Message const&, google::protobuf::OneofDescriptor const*) const
+    [10] google::protobuf::internal::GeneratedMessageReflection::RemoveLast(google::protobuf::Message*, google::protobuf::FieldDescriptor const*) const
+    [11] google::protobuf::internal::GeneratedMessageReflection::ReleaseLast(google::protobuf::Message*, google::protobuf::FieldDescriptor const*) const
+    [12] google::protobuf::internal::GeneratedMessageReflection::Swap(google::protobuf::Message*, google::protobuf::Message*) const
+    [13] google::protobuf::internal::GeneratedMessageReflection::SwapFields(google::protobuf::Message*, google::protobuf::Message*, std::vector<google::protobuf::FieldDescriptor const*, std::allocator<google::protobuf::FieldDescriptor const*>> const&) const
+    [14] google::protobuf::internal::GeneratedMessageReflection::SwapElements(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, int, int) const
+    [15] google::protobuf::internal::GeneratedMessageReflection::ListFields(google::protobuf::Message const&, std::vector<google::protobuf::FieldDescriptor const*, std::allocator<google::protobuf::FieldDescriptor const*>>*) const
+    [16] google::protobuf::internal::GeneratedMessageReflection::GetInt32(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*) const
+    [17] google::protobuf::internal::GeneratedMessageReflection::GetInt64(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*) const
+    [18] google::protobuf::internal::GeneratedMessageReflection::GetUInt32(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*) const
+    [19] google::protobuf::internal::GeneratedMessageReflection::GetUInt64(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*) const
+    [20] google::protobuf::internal::GeneratedMessageReflection::GetFloat(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*) const
+    [21] google::protobuf::internal::GeneratedMessageReflection::GetDouble(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*) const
+    [22] google::protobuf::internal::GeneratedMessageReflection::GetBool(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*) const
+    [23] google::protobuf::internal::GeneratedMessageReflection::GetString(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*) const
+    [24] google::protobuf::internal::GeneratedMessageReflection::GetEnum(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*) const
+    [25] google::protobuf::internal::GeneratedMessageReflection::GetMessage(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*, google::protobuf::MessageFactory*) const
+    [26] google::protobuf::internal::GeneratedMessageReflection::GetStringReference(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*, std::string*) const
+    [27] google::protobuf::internal::GeneratedMessageReflection::SetInt32(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, int) const
+    [28] google::protobuf::internal::GeneratedMessageReflection::SetInt64(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, long long) const
+    [29] google::protobuf::internal::GeneratedMessageReflection::SetUInt32(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, unsigned int) const
+    [30] google::protobuf::internal::GeneratedMessageReflection::SetUInt64(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, unsigned long long) const
+    [31] google::protobuf::internal::GeneratedMessageReflection::SetFloat(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, float) const
+    [32] google::protobuf::internal::GeneratedMessageReflection::SetDouble(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, double) const
+    [33] google::protobuf::internal::GeneratedMessageReflection::SetBool(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, bool) const
+    [34] google::protobuf::internal::GeneratedMessageReflection::SetString(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, std::string const&) const
+    [35] google::protobuf::internal::GeneratedMessageReflection::SetEnum(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, google::protobuf::EnumValueDescriptor const*) const
+    [36] google::protobuf::internal::GeneratedMessageReflection::MutableMessage(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, google::protobuf::MessageFactory*) const
+    [37] google::protobuf::internal::GeneratedMessageReflection::SetAllocatedMessage(google::protobuf::Message*, google::protobuf::Message*, google::protobuf::FieldDescriptor const*) const
+    [38] google::protobuf::internal::GeneratedMessageReflection::ReleaseMessage(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, google::protobuf::MessageFactory*) const
+    [39] google::protobuf::internal::GeneratedMessageReflection::GetRepeatedInt32(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*, int) const
+    [40] google::protobuf::internal::GeneratedMessageReflection::GetRepeatedInt64(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*, int) const
+    [41] google::protobuf::internal::GeneratedMessageReflection::GetRepeatedUInt32(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*, int) const
+    [42] google::protobuf::internal::GeneratedMessageReflection::GetRepeatedUInt64(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*, int) const
+    [43] google::protobuf::internal::GeneratedMessageReflection::GetRepeatedFloat(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*, int) const
+    [44] google::protobuf::internal::GeneratedMessageReflection::GetRepeatedDouble(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*, int) const
+    [45] google::protobuf::internal::GeneratedMessageReflection::GetRepeatedBool(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*, int) const
+    [46] google::protobuf::internal::GeneratedMessageReflection::GetRepeatedString(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*, int) const
+    [47] google::protobuf::internal::GeneratedMessageReflection::GetRepeatedEnum(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*, int) const
+    [48] google::protobuf::internal::GeneratedMessageReflection::GetRepeatedMessage(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*, int) const
+    [49] google::protobuf::internal::GeneratedMessageReflection::GetRepeatedStringReference(google::protobuf::Message const&, google::protobuf::FieldDescriptor const*, int, std::string*) const
+    [50] google::protobuf::internal::GeneratedMessageReflection::SetRepeatedInt32(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, int, int) const
+    [51] google::protobuf::internal::GeneratedMessageReflection::SetRepeatedInt64(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, int, long long) const
+    [52] google::protobuf::internal::GeneratedMessageReflection::SetRepeatedUInt32(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, int, unsigned int) const
+    [53] google::protobuf::internal::GeneratedMessageReflection::SetRepeatedUInt64(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, int, unsigned long long) const
+    [54] google::protobuf::internal::GeneratedMessageReflection::SetRepeatedFloat(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, int, float) const
+    [55] google::protobuf::internal::GeneratedMessageReflection::SetRepeatedDouble(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, int, double) const
+    [56] google::protobuf::internal::GeneratedMessageReflection::SetRepeatedBool(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, int, bool) const
+    [57] google::protobuf::internal::GeneratedMessageReflection::SetRepeatedString(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, int, std::string const&) const
+    [58] google::protobuf::internal::GeneratedMessageReflection::SetRepeatedEnum(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, int, google::protobuf::EnumValueDescriptor const*) const
+    [59] google::protobuf::internal::GeneratedMessageReflection::MutableRepeatedMessage(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, int) const
+    [60] google::protobuf::internal::GeneratedMessageReflection::AddInt32(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, int) const
+    [61] google::protobuf::internal::GeneratedMessageReflection::AddInt64(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, long long) const
+    [62] google::protobuf::internal::GeneratedMessageReflection::AddUInt32(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, unsigned int) const
+    [63] google::protobuf::internal::GeneratedMessageReflection::AddUInt64(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, unsigned long long) const
+    [64] google::protobuf::internal::GeneratedMessageReflection::AddFloat(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, float) const
+    [65] google::protobuf::internal::GeneratedMessageReflection::AddDouble(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, double) const
+    [66] google::protobuf::internal::GeneratedMessageReflection::AddBool(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, bool) const
+    [67] google::protobuf::internal::GeneratedMessageReflection::AddString(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, std::string const&) const
+    [68] google::protobuf::internal::GeneratedMessageReflection::AddEnum(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, google::protobuf::EnumValueDescriptor const*) const
+    [69] google::protobuf::internal::GeneratedMessageReflection::AddMessage(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, google::protobuf::MessageFactory*) const
+    [70] google::protobuf::internal::GeneratedMessageReflection::FindKnownExtensionByName(std::string const&) const
+    [71] google::protobuf::internal::GeneratedMessageReflection::FindKnownExtensionByNumber(int) const
+    [72] google::protobuf::internal::GeneratedMessageReflection::MutableRawRepeatedField(google::protobuf::Message*, google::protobuf::FieldDescriptor const*, google::protobuf::FieldDescriptor::CppType, int, google::protobuf::Descriptor const*) const
 VTable for google::protobuf::internal::ExtensionFinder:
-    [0] google::protobuf::(anonymous namespace)::FieldValuePrinterUtf8Escaping::PrintString(std::string const&) const
-    [1] google::protobuf::(anonymous namespace)::FieldValuePrinterUtf8Escaping::PrintBytes(std::string const&) const
-    [2] google::protobuf::TextFormat::FieldValuePrinter::PrintEnum(int, std::string const&) const
-    [3] google::protobuf::TextFormat::FieldValuePrinter::PrintFieldName(google::protobuf::Message const&, google::protobuf::Reflection const*, google::protobuf::FieldDescriptor const*) const
-    [4] google::protobuf::TextFormat::FieldValuePrinter::PrintMessageStart(google::protobuf::Message const&, int, int, bool) const
-    [5] google::protobuf::TextFormat::FieldValuePrinter::PrintMessageEnd(google::protobuf::Message const&, int, int, bool) const
+    [0] google::protobuf::internal::ExtensionFinder::~ExtensionFinder()
 VTable for google::protobuf::internal::DescriptorPoolExtensionFinder:
-    [0] CryptoPP::Clonable::Clone() const
-    [1] CryptoPP::Algorithm::AlgorithmName() const
-    [2] CryptoPP::PrivateKeyAlgorithm::AccessMaterial()
-    [3] CryptoPP::PrivateKeyAlgorithm::GetMaterial() const
+    [0] google::protobuf::internal::DescriptorPoolExtensionFinder::~DescriptorPoolExtensionFinder()
+    [1] google::protobuf::internal::DescriptorPoolExtensionFinder::Find(int, google::protobuf::internal::ExtensionInfo*)
 VTable for google::protobuf::internal::MessageSetFieldSkipper:
-    [0] CryptoPP::PK_CryptoSystem::FixedCiphertextLength() const
-    [1] CryptoPP::PK_CryptoSystem::FixedMaxPlaintextLength() const
+    [0] google::protobuf::internal::MessageSetFieldSkipper::~MessageSetFieldSkipper()
+    [1] google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipField(google::protobuf::io::CodedInputStream*, unsigned int)
+    [2] google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipMessage(google::protobuf::io::CodedInputStream*)
+    [3] google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipUnknownEnum(int, int)
+    [4] google::protobuf::internal::MessageSetFieldSkipper::SkipMessageSetField(google::protobuf::io::CodedInputStream*, int)
 VTable for google::protobuf::internal::FunctionClosure1<std::pair<google::protobuf::FileDescriptorTables const*, google::protobuf::SourceCodeInfo const*>*>:
-    [0] google::protobuf::io::LimitingInputStream::ByteCount() const
+    [0] google::protobuf::internal::FunctionClosure1<std::pair<google::protobuf::FileDescriptorTables const*, google::protobuf::SourceCodeInfo const*>*>::~FunctionClosure1()
+    [1] google::protobuf::internal::FunctionClosure1<std::pair<google::protobuf::FileDescriptorTables const*, google::protobuf::SourceCodeInfo const*>*>::Run()
 VTable for google::protobuf::internal::GeneratedExtensionFinder:
+    [0] google::protobuf::internal::GeneratedExtensionFinder::~GeneratedExtensionFinder()
+    [1] google::protobuf::internal::GeneratedExtensionFinder::Find(int, google::protobuf::internal::ExtensionInfo*)
 VTable for google::protobuf::internal::UnknownFieldSetFieldSkipper:
-    [0] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [1] CryptoPP::Filter::Attachable()
-    [2] CryptoPP::Filter::AttachedTransformation()
-    [3] CryptoPP::Filter::AttachedTransformation() const
-    [4] CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
-    [5] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
-    [6] CryptoPP::Filter::NewDefaultAttachment() const
-    [7] CryptoPP::Filter::ShouldPropagateMessageEnd() const
-    [8] CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const
-    [9] CryptoPP::Unflushable<CryptoPP::Filter>::InputBufferIsEmpty() const
+    [0] google::protobuf::internal::UnknownFieldSetFieldSkipper::~UnknownFieldSetFieldSkipper()
+    [1] google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipField(google::protobuf::io::CodedInputStream*, unsigned int)
+    [2] google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipMessage(google::protobuf::io::CodedInputStream*)
+    [3] google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipUnknownEnum(int, int)

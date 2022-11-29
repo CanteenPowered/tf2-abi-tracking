@@ -45,61 +45,62 @@ VTable for PlayerLocomotion:
     [43] PlayerLocomotion::Update()
     [44] INextBotComponent::Upkeep()
     [45] INextBotComponent::GetBot() const
-    [46] PlayerLocomotion::Approach(Vector const&, float)
-    [47] PlayerLocomotion::DriveTo(Vector const&)
-    [48] PlayerLocomotion::ClimbUpToLedge(Vector const&, Vector const&, CBaseEntity const*)
-    [49] PlayerLocomotion::JumpAcrossGap(Vector const&, Vector const&)
-    [50] PlayerLocomotion::Jump()
-    [51] PlayerLocomotion::IsClimbingOrJumping() const
-    [52] PlayerLocomotion::IsClimbingUpToLedge() const
-    [53] PlayerLocomotion::IsJumpingAcrossGap() const
-    [54] ILocomotion::IsScrambling() const
-    [55] PlayerLocomotion::Run()
-    [56] PlayerLocomotion::Walk()
-    [57] PlayerLocomotion::Stop()
-    [58] PlayerLocomotion::IsRunning() const
-    [59] PlayerLocomotion::SetDesiredSpeed(float)
-    [60] PlayerLocomotion::GetDesiredSpeed() const
-    [61] ILocomotion::SetSpeedLimit(float)
-    [62] ILocomotion::GetSpeedLimit() const
-    [63] PlayerLocomotion::IsOnGround() const
-    [64] PlayerLocomotion::GetGround() const
-    [65] PlayerLocomotion::GetGroundNormal() const
-    [66] ILocomotion::GetGroundSpeed() const
-    [67] ILocomotion::GetGroundMotionVector() const
-    [68] PlayerLocomotion::ClimbLadder(CNavLadder const*, CNavArea const*)
-    [69] PlayerLocomotion::DescendLadder(CNavLadder const*, CNavArea const*)
-    [70] PlayerLocomotion::IsUsingLadder() const
-    [71] PlayerLocomotion::IsAscendingOrDescendingLadder() const
-    [72] PlayerLocomotion::IsAbleToAutoCenterOnLadder() const
-    [73] PlayerLocomotion::FaceTowards(Vector const&)
-    [74] PlayerLocomotion::SetDesiredLean(QAngle const&)
-    [75] PlayerLocomotion::GetDesiredLean() const
-    [76] ILocomotion::IsAbleToJumpAcrossGaps() const
-    [77] ILocomotion::IsAbleToClimb() const
-    [78] PlayerLocomotion::GetFeet() const
-    [79] PlayerLocomotion::GetStepHeight() const
-    [80] PlayerLocomotion::GetMaxJumpHeight() const
-    [81] PlayerLocomotion::GetDeathDropHeight() const
-    [82] PlayerLocomotion::GetRunSpeed() const
-    [83] PlayerLocomotion::GetWalkSpeed() const
-    [84] PlayerLocomotion::GetMaxAcceleration() const
-    [85] PlayerLocomotion::GetMaxDeceleration() const
-    [86] PlayerLocomotion::GetVelocity() const
-    [87] ILocomotion::GetSpeed() const
-    [88] ILocomotion::GetMotionVector() const
-    [89] ILocomotion::IsAreaTraversable(CNavArea const*) const
-    [90] ILocomotion::GetTraversableSlopeLimit() const
-    [91] ILocomotion::IsPotentiallyTraversable(Vector const&, Vector const&, ILocomotion::TraverseWhenType, float*) const
-    [92] ILocomotion::HasPotentialGap(Vector const&, Vector const&, float*) const
-    [93] ILocomotion::IsGap(Vector const&, Vector const&) const
-    [94] ILocomotion::IsEntityTraversable(CBaseEntity*, ILocomotion::TraverseWhenType) const
-    [95] ILocomotion::IsStuck() const
-    [96] ILocomotion::GetStuckDuration() const
-    [97] ILocomotion::ClearStuckStatus(char const*)
-    [98] ILocomotion::IsAttemptingToMove() const
-    [99] ILocomotion::ShouldCollideWith(CBaseEntity const*) const
-    [100] PlayerLocomotion::AdjustPosture(Vector const&)
-    [101] ILocomotion::StuckMonitor()
-    [102] PlayerLocomotion::SetMinimumSpeedLimit(float)
-    [103] PlayerLocomotion::SetMaximumSpeedLimit(float)
+    [46] ILocomotion::GetScriptDesc()
+    [47] PlayerLocomotion::Approach(Vector const&, float)
+    [48] PlayerLocomotion::DriveTo(Vector const&)
+    [49] PlayerLocomotion::ClimbUpToLedge(Vector const&, Vector const&, CBaseEntity const*)
+    [50] PlayerLocomotion::JumpAcrossGap(Vector const&, Vector const&)
+    [51] PlayerLocomotion::Jump()
+    [52] PlayerLocomotion::IsClimbingOrJumping() const
+    [53] PlayerLocomotion::IsClimbingUpToLedge() const
+    [54] PlayerLocomotion::IsJumpingAcrossGap() const
+    [55] ILocomotion::IsScrambling() const
+    [56] PlayerLocomotion::Run()
+    [57] PlayerLocomotion::Walk()
+    [58] PlayerLocomotion::Stop()
+    [59] PlayerLocomotion::IsRunning() const
+    [60] PlayerLocomotion::SetDesiredSpeed(float)
+    [61] PlayerLocomotion::GetDesiredSpeed() const
+    [62] ILocomotion::SetSpeedLimit(float)
+    [63] ILocomotion::GetSpeedLimit() const
+    [64] PlayerLocomotion::IsOnGround() const
+    [65] PlayerLocomotion::GetGround() const
+    [66] PlayerLocomotion::GetGroundNormal() const
+    [67] ILocomotion::GetGroundSpeed() const
+    [68] ILocomotion::GetGroundMotionVector() const
+    [69] PlayerLocomotion::ClimbLadder(CNavLadder const*, CNavArea const*)
+    [70] PlayerLocomotion::DescendLadder(CNavLadder const*, CNavArea const*)
+    [71] PlayerLocomotion::IsUsingLadder() const
+    [72] PlayerLocomotion::IsAscendingOrDescendingLadder() const
+    [73] PlayerLocomotion::IsAbleToAutoCenterOnLadder() const
+    [74] PlayerLocomotion::FaceTowards(Vector const&)
+    [75] PlayerLocomotion::SetDesiredLean(QAngle const&)
+    [76] PlayerLocomotion::GetDesiredLean() const
+    [77] ILocomotion::IsAbleToJumpAcrossGaps() const
+    [78] ILocomotion::IsAbleToClimb() const
+    [79] PlayerLocomotion::GetFeet() const
+    [80] PlayerLocomotion::GetStepHeight() const
+    [81] PlayerLocomotion::GetMaxJumpHeight() const
+    [82] PlayerLocomotion::GetDeathDropHeight() const
+    [83] PlayerLocomotion::GetRunSpeed() const
+    [84] PlayerLocomotion::GetWalkSpeed() const
+    [85] PlayerLocomotion::GetMaxAcceleration() const
+    [86] PlayerLocomotion::GetMaxDeceleration() const
+    [87] PlayerLocomotion::GetVelocity() const
+    [88] ILocomotion::GetSpeed() const
+    [89] ILocomotion::GetMotionVector() const
+    [90] ILocomotion::IsAreaTraversable(CNavArea const*) const
+    [91] ILocomotion::GetTraversableSlopeLimit() const
+    [92] ILocomotion::IsPotentiallyTraversable(Vector const&, Vector const&, ILocomotion::TraverseWhenType, float*) const
+    [93] ILocomotion::HasPotentialGap(Vector const&, Vector const&, float*) const
+    [94] ILocomotion::IsGap(Vector const&, Vector const&) const
+    [95] ILocomotion::IsEntityTraversable(CBaseEntity*, ILocomotion::TraverseWhenType) const
+    [96] ILocomotion::IsStuck() const
+    [97] ILocomotion::GetStuckDuration() const
+    [98] ILocomotion::ClearStuckStatus(char const*)
+    [99] ILocomotion::IsAttemptingToMove() const
+    [100] ILocomotion::ShouldCollideWith(CBaseEntity const*) const
+    [101] PlayerLocomotion::AdjustPosture(Vector const&)
+    [102] ILocomotion::StuckMonitor()
+    [103] PlayerLocomotion::SetMinimumSpeedLimit(float)
+    [104] PlayerLocomotion::SetMaximumSpeedLimit(float)

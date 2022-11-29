@@ -1,5 +1,8 @@
 VTable for CryptoPP::PK_SignatureScheme::KeyTooShort:
+    [0] CryptoPP::PK_SignatureScheme::KeyTooShort::~KeyTooShort()
+    [1] CryptoPP::Exception::what() const
 VTable for CryptoPP::PK_SignatureScheme::InvalidKeyLength:
-    [0] CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Load(CryptoPP::BufferedTransformation&)
+    [0] CryptoPP::PK_SignatureScheme::InvalidKeyLength::~InvalidKeyLength()
+    [1] CryptoPP::Exception::what() const
 VTable for CryptoPP::PK_SignatureScheme:
     [0] CryptoPP::PK_SignatureScheme::~PK_SignatureScheme()

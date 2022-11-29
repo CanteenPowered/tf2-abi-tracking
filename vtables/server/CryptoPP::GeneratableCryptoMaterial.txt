@@ -1,3 +1,1 @@
 VTable for CryptoPP::GeneratableCryptoMaterial:
-    [0] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::OFB_ModePolicy>>::IsRandomAccess() const
-    [1] CryptoPP::AdditiveCipherTemplate<CryptoPP::AbstractPolicyHolder<CryptoPP::AdditiveCipherAbstractPolicy, CryptoPP::OFB_ModePolicy>>::Seek(unsigned long long)

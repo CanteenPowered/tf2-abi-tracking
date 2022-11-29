@@ -1,0 +1,3 @@
+VTable for INextBotComponentScriptInstanceHelper:
+    [0] INextBotComponentScriptInstanceHelper::ToString(void*, char*, int)
+    [1] IScriptInstanceHelper::BindOnRead(HSCRIPT__*, void*, char const*)

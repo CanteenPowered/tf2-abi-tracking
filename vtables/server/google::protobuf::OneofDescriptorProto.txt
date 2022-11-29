@@ -1,25 +1,20 @@
 VTable for google::protobuf::OneofDescriptorProto:
-    [0] CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
-    [1] CryptoPP::BufferedTransformation::Skip(unsigned long long)
-    [2] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
-    [3] CryptoPP::BufferedTransformation::NumberOfMessages() const
-    [4] CryptoPP::BufferedTransformation::AnyMessages() const
-    [5] CryptoPP::BufferedTransformation::GetNextMessage()
-    [6] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
-    [7] CryptoPP::BufferedTransformation::SkipAll()
-    [8] CryptoPP::BufferedTransformation::GetNextMessageSeries()
-    [9] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
-    [10] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
-    [11] CryptoPP::Sink::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
-    [12] CryptoPP::Sink::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
-    [13] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
-    [14] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
-    [15] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
-    [16] CryptoPP::BufferedTransformation::ChannelFlush(std::string const&, bool, int, bool)
-    [17] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
-    [18] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [19] CryptoPP::BufferedTransformation::Attachable()
-    [20] CryptoPP::BufferedTransformation::AttachedTransformation()
-    [21] CryptoPP::BufferedTransformation::AttachedTransformation() const
-    [22] CryptoPP::BufferedTransformation::Detach(CryptoPP::BufferedTransformation*)
-    [23] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
+    [0] google::protobuf::OneofDescriptorProto::~OneofDescriptorProto()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] google::protobuf::OneofDescriptorProto::New() const
+    [3] google::protobuf::OneofDescriptorProto::Clear()
+    [4] google::protobuf::OneofDescriptorProto::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] google::protobuf::OneofDescriptorProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] google::protobuf::OneofDescriptorProto::ByteSize() const
+    [9] google::protobuf::OneofDescriptorProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] google::protobuf::OneofDescriptorProto::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] google::protobuf::OneofDescriptorProto::GetCachedSize() const
+    [12] google::protobuf::OneofDescriptorProto::CopyFrom(google::protobuf::Message const&)
+    [13] google::protobuf::OneofDescriptorProto::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] google::protobuf::OneofDescriptorProto::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] google::protobuf::OneofDescriptorProto::GetMetadata() const

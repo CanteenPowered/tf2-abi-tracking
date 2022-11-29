@@ -1,3 +1,20 @@
 VTable for google::protobuf::EnumOptions:
-    [0] CryptoPP::HashTransformation::Verify(unsigned char const*)
-    [1] CryptoPP::HashTransformation::VerifyDigest(unsigned char const*, unsigned char const*, unsigned int)
+    [0] google::protobuf::EnumOptions::~EnumOptions()
+    [1] google::protobuf::Message::GetTypeName() const
+    [2] google::protobuf::EnumOptions::New() const
+    [3] google::protobuf::EnumOptions::Clear()
+    [4] google::protobuf::EnumOptions::IsInitialized() const
+    [5] google::protobuf::Message::InitializationErrorString() const
+    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    [7] google::protobuf::EnumOptions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    [8] google::protobuf::EnumOptions::ByteSize() const
+    [9] google::protobuf::EnumOptions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    [10] google::protobuf::EnumOptions::SerializeWithCachedSizesToArray(unsigned char*) const
+    [11] google::protobuf::EnumOptions::GetCachedSize() const
+    [12] google::protobuf::EnumOptions::CopyFrom(google::protobuf::Message const&)
+    [13] google::protobuf::EnumOptions::MergeFrom(google::protobuf::Message const&)
+    [14] google::protobuf::Message::DiscardUnknownFields()
+    [15] google::protobuf::Message::SpaceUsed() const
+    [16] google::protobuf::EnumOptions::SetCachedSize(int) const
+    [17] google::protobuf::Message::GetReflection() const
+    [18] google::protobuf::EnumOptions::GetMetadata() const

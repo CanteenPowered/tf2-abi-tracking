@@ -1,10 +1,3 @@
 VTable for CryptoPP::Gunzip::HeaderErr:
-    [0] CryptoPP::StreamTransformation::GetOptimalBlockSizeUsed() const
-    [1] non-virtual thunk to CryptoPP::CipherModeBase::OptimalDataAlignment() const
-    [2] non-virtual thunk to CryptoPP::ECB_OneWay::ProcessData(unsigned char*, unsigned char const*, unsigned int)
-    [3] CryptoPP::StreamTransformation::ProcessLastBlock(unsigned char*, unsigned char const*, unsigned int)
-    [4] CryptoPP::StreamTransformation::MinLastBlockSize() const
-    [5] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::IsRandomAccess() const
-    [6] CryptoPP::StreamTransformation::Seek(unsigned long long)
-    [7] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::IsSelfInverting() const
-    [8] non-virtual thunk to CryptoPP::BlockOrientedCipherModeBase::IsForwardTransformation() const
+    [0] CryptoPP::Gunzip::HeaderErr::~HeaderErr()
+    [1] CryptoPP::Exception::what() const

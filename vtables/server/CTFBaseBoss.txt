@@ -11,7 +11,7 @@ VTable for CTFBaseBoss:
     [9] CTFBaseBoss::GetServerClass()
     [10] CTFBaseBoss::YouForgotToImplementOrDeclareServerClass()
     [11] CTFBaseBoss::GetDataDescMap()
-    [12] CBaseCombatCharacter::GetScriptDesc()
+    [12] NextBotCombatCharacter::GetScriptDesc()
     [13] CBaseEntity::SetModelIndexOverride(int, int)
     [14] CBaseAnimating::TestCollision(Ray_t const&, unsigned int, CGameTrace&)
     [15] CBaseAnimating::TestHitboxes(Ray_t const&, unsigned int, CGameTrace&)

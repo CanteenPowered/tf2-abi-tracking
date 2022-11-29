@@ -1,55 +1,21 @@
 VTable for google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector:
-    [0] CryptoPP::BufferedTransformation::PutModifiable2(unsigned char*, unsigned int, int, bool)
-    [1] CryptoPP::BufferedTransformation::GetMaxWaitObjectCount() const
-    [2] CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
-    [3] CryptoPP::Base32Decoder::IsolatedInitialize(CryptoPP::NameValuePairs const&)
-    [4] CryptoPP::Unflushable<CryptoPP::Filter>::IsolatedFlush(bool, bool)
-    [5] CryptoPP::BufferedTransformation::IsolatedMessageSeriesEnd(bool)
-    [6] CryptoPP::Filter::Initialize(CryptoPP::NameValuePairs const&, int)
-    [7] CryptoPP::Unflushable<CryptoPP::Filter>::Flush(bool, int, bool)
-    [8] CryptoPP::Filter::MessageSeriesEnd(int, bool)
-    [9] CryptoPP::BufferedTransformation::SetAutoSignalPropagation(int)
-    [10] CryptoPP::BufferedTransformation::GetAutoSignalPropagation() const
-    [11] CryptoPP::BufferedTransformation::MaxRetrievable() const
-    [12] CryptoPP::BufferedTransformation::AnyRetrievable() const
-    [13] CryptoPP::BufferedTransformation::Get(unsigned char&)
-    [14] CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
-    [15] CryptoPP::BufferedTransformation::Peek(unsigned char&) const
-    [16] CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
-    [17] CryptoPP::BufferedTransformation::Skip(unsigned long long)
-    [18] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
-    [19] CryptoPP::BufferedTransformation::NumberOfMessages() const
-    [20] CryptoPP::BufferedTransformation::AnyMessages() const
-    [21] CryptoPP::BufferedTransformation::GetNextMessage()
-    [22] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
-    [23] CryptoPP::BufferedTransformation::SkipAll()
-    [24] CryptoPP::BufferedTransformation::GetNextMessageSeries()
-    [25] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
-    [26] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
-    [27] CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
-    [28] CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
-    [29] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
-    [30] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
-    [31] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
-    [32] CryptoPP::Unflushable<CryptoPP::Filter>::ChannelFlush(std::string const&, bool, int, bool)
-    [33] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
-    [34] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [35] CryptoPP::Filter::Attachable()
-    [36] CryptoPP::Filter::AttachedTransformation()
-    [37] CryptoPP::Filter::AttachedTransformation() const
-    [38] CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
-    [39] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
-    [40] CryptoPP::Filter::NewDefaultAttachment() const
-    [41] CryptoPP::Filter::ShouldPropagateMessageEnd() const
-    [42] CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const
-    [43] CryptoPP::Unflushable<CryptoPP::Filter>::InputBufferIsEmpty() const
+    [0] google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector::~ParserErrorCollector()
+    [1] google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector::AddError(int, int, std::string const&)
+    [2] google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector::AddWarning(int, int, std::string const&)
 VTable for google::protobuf::TextFormat::Finder:
-    [0] CryptoPP::ProxyFilter::NextPutModifiable(unsigned char*, unsigned int)
-    [1] CryptoPP::SimpleProxyFilter::LastPut(unsigned char const*, unsigned int)
-    [2] CryptoPP::FilterWithBufferedInput::FlushDerived()
-    [3] CryptoPP::FilterWithBufferedInput::NextPut(unsigned char const*, unsigned int)
+    [0] google::protobuf::TextFormat::Finder::~Finder()
 VTable for google::protobuf::TextFormat::FieldValuePrinter:
-    [0] non-virtual thunk to CryptoPP::Base32Encoder::~Base32Encoder()
-    [1] non-virtual thunk to CryptoPP::Base32Encoder::~Base32Encoder()
-    [2] non-virtual thunk to CryptoPP::BufferedTransformation::GetMaxWaitObjectCount() const
-    [3] non-virtual thunk to CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
+    [0] google::protobuf::TextFormat::FieldValuePrinter::~FieldValuePrinter()
+    [1] google::protobuf::TextFormat::FieldValuePrinter::PrintBool(bool) const
+    [2] google::protobuf::TextFormat::FieldValuePrinter::PrintInt32(int) const
+    [3] google::protobuf::TextFormat::FieldValuePrinter::PrintUInt32(unsigned int) const
+    [4] google::protobuf::TextFormat::FieldValuePrinter::PrintInt64(long long) const
+    [5] google::protobuf::TextFormat::FieldValuePrinter::PrintUInt64(unsigned long long) const
+    [6] google::protobuf::TextFormat::FieldValuePrinter::PrintFloat(float) const
+    [7] google::protobuf::TextFormat::FieldValuePrinter::PrintDouble(double) const
+    [8] google::protobuf::TextFormat::FieldValuePrinter::PrintString(std::string const&) const
+    [9] google::protobuf::TextFormat::FieldValuePrinter::PrintBytes(std::string const&) const
+    [10] google::protobuf::TextFormat::FieldValuePrinter::PrintEnum(int, std::string const&) const
+    [11] google::protobuf::TextFormat::FieldValuePrinter::PrintFieldName(google::protobuf::Message const&, google::protobuf::Reflection const*, google::protobuf::FieldDescriptor const*) const
+    [12] google::protobuf::TextFormat::FieldValuePrinter::PrintMessageStart(google::protobuf::Message const&, int, int, bool) const
+    [13] google::protobuf::TextFormat::FieldValuePrinter::PrintMessageEnd(google::protobuf::Message const&, int, int, bool) const

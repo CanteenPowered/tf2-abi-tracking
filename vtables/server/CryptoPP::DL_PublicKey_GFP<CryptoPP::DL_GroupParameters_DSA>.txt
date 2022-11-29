@@ -1,3 +1,20 @@
 VTable for CryptoPP::DL_PublicKey_GFP<CryptoPP::DL_GroupParameters_DSA>:
-    [0] CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation&) const
-    [1] CryptoPP::GeneratableCryptoMaterial::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    [0] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetAbstractGroupParameters() const
+    [1] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::AccessAbstractGroupParameters()
+    [2] CryptoPP::DL_PublicKey<CryptoPP::Integer>::GetPublicElement() const
+    [3] CryptoPP::DL_PublicKey<CryptoPP::Integer>::SetPublicElement(CryptoPP::Integer const&)
+    [4] CryptoPP::DL_PublicKey<CryptoPP::Integer>::ExponentiatePublicElement(CryptoPP::Integer const&) const
+    [5] CryptoPP::DL_PublicKey<CryptoPP::Integer>::CascadeExponentiateBaseAndPublicElement(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    [6] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetPublicPrecomputation() const
+    [7] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::AccessPublicPrecomputation()
+    [8] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    [9] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetVoidValue(char const*, std::type_info const&, void*) const
+    [10] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::AssignFrom(CryptoPP::NameValuePairs const&)
+    [11] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::SupportsPrecomputation() const
+    [12] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::Precompute(unsigned int)
+    [13] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::LoadPrecomputation(CryptoPP::BufferedTransformation&)
+    [14] CryptoPP::DL_PublicKeyImpl<CryptoPP::DL_GroupParameters_DSA>::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    [15] CryptoPP::DL_PublicKey_GFP<CryptoPP::DL_GroupParameters_DSA>::~DL_PublicKey_GFP()
+    [16] CryptoPP::DL_PublicKey_GFP<CryptoPP::DL_GroupParameters_DSA>::~DL_PublicKey_GFP()
+    [17] CryptoPP::DL_PublicKey_GFP<CryptoPP::DL_GroupParameters_DSA>::BERDecodePublicKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
+    [18] CryptoPP::DL_PublicKey_GFP<CryptoPP::DL_GroupParameters_DSA>::DEREncodePublicKey(CryptoPP::BufferedTransformation&) const

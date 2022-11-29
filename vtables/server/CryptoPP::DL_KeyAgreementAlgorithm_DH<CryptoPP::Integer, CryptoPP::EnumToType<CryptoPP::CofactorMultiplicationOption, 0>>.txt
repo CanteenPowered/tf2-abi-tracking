@@ -1,2 +1,3 @@
 VTable for CryptoPP::DL_KeyAgreementAlgorithm<CryptoPP::Integer>:
 VTable for CryptoPP::DL_KeyAgreementAlgorithm_DH<CryptoPP::Integer, CryptoPP::EnumToType<CryptoPP::CofactorMultiplicationOption, 0>>:
+    [0] CryptoPP::DL_KeyAgreementAlgorithm_DH<CryptoPP::Integer, CryptoPP::EnumToType<CryptoPP::CofactorMultiplicationOption, 0>>::AgreeWithStaticPrivateKey(CryptoPP::DL_GroupParameters<CryptoPP::Integer> const&, CryptoPP::Integer const&, bool, CryptoPP::Integer const&) const

@@ -1,10 +1,15 @@
 VTable for CryptoPP::OFB_ModePolicy:
-    [0] CryptoPP::TF_VerifierBase::~TF_VerifierBase()
-    [1] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::SignatureLength() const
-    [2] CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
-    [3] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::MaxRecoverableLength() const
-    [4] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
-    [5] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::IsProbabilistic() const
-    [6] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::AllowNonrecoverablePart() const
-    [7] CryptoPP::PK_SignatureScheme::SignatureUpfront() const
-    [8] CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>>::RecoverablePartFirst() const
+    [0] CryptoPP::OFB_ModePolicy::~OFB_ModePolicy()
+    [1] CryptoPP::CipherModeBase::MinKeyLength() const
+    [2] CryptoPP::CipherModeBase::MaxKeyLength() const
+    [3] CryptoPP::CipherModeBase::DefaultKeyLength() const
+    [4] CryptoPP::CipherModeBase::GetValidKeyLength(unsigned int) const
+    [5] CryptoPP::CipherModeBase::IsValidKeyLength(unsigned int) const
+    [6] CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    [7] CryptoPP::OFB_ModePolicy::IVRequirement() const
+    [8] CryptoPP::CipherModeBase::IVSize() const
+    [9] CryptoPP::SimpleKeyingInterface::MinIVLength() const
+    [10] CryptoPP::SimpleKeyingInterface::MaxIVLength() const
+    [11] CryptoPP::SimpleKeyingInterface::Resynchronize(unsigned char const*, int)
+    [12] CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator&, unsigned char*)
+    [13] CryptoPP::SymmetricCipher::GetAlgorithm() const

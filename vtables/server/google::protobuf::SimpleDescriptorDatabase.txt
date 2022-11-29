@@ -1,1 +1,6 @@
 VTable for google::protobuf::SimpleDescriptorDatabase:
+    [0] google::protobuf::SimpleDescriptorDatabase::~SimpleDescriptorDatabase()
+    [1] google::protobuf::SimpleDescriptorDatabase::FindFileByName(std::string const&, google::protobuf::FileDescriptorProto*)
+    [2] google::protobuf::SimpleDescriptorDatabase::FindFileContainingSymbol(std::string const&, google::protobuf::FileDescriptorProto*)
+    [3] google::protobuf::SimpleDescriptorDatabase::FindFileContainingExtension(std::string const&, int, google::protobuf::FileDescriptorProto*)
+    [4] google::protobuf::SimpleDescriptorDatabase::FindAllExtensionNumbers(std::string const&, std::vector<int, std::allocator<int>>*)

@@ -1,1 +1,8 @@
 VTable for CryptoPP::PKCS8PrivateKey:
+    [0] CryptoPP::PKCS8PrivateKey::~PKCS8PrivateKey()
+    [1] CryptoPP::PKCS8PrivateKey::~PKCS8PrivateKey()
+    [2] CryptoPP::PKCS8PrivateKey::BERDecode(CryptoPP::BufferedTransformation&)
+    [3] CryptoPP::PKCS8PrivateKey::DEREncode(CryptoPP::BufferedTransformation&) const
+    [4] CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    [5] CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Save(CryptoPP::BufferedTransformation&) const
+    [6] CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Load(CryptoPP::BufferedTransformation&)

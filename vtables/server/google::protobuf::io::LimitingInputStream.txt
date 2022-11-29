@@ -1,33 +1,6 @@
 VTable for google::protobuf::io::LimitingInputStream:
-    [0] CryptoPP::BufferedTransformation::AnyRetrievable() const
-    [1] CryptoPP::BufferedTransformation::Get(unsigned char&)
-    [2] CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
-    [3] CryptoPP::BufferedTransformation::Peek(unsigned char&) const
-    [4] CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
-    [5] CryptoPP::BufferedTransformation::Skip(unsigned long long)
-    [6] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
-    [7] CryptoPP::BufferedTransformation::NumberOfMessages() const
-    [8] CryptoPP::BufferedTransformation::AnyMessages() const
-    [9] CryptoPP::BufferedTransformation::GetNextMessage()
-    [10] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
-    [11] CryptoPP::BufferedTransformation::SkipAll()
-    [12] CryptoPP::BufferedTransformation::GetNextMessageSeries()
-    [13] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
-    [14] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
-    [15] CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
-    [16] CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
-    [17] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
-    [18] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
-    [19] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
-    [20] CryptoPP::Unflushable<CryptoPP::Filter>::ChannelFlush(std::string const&, bool, int, bool)
-    [21] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
-    [22] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [23] CryptoPP::Filter::Attachable()
-    [24] CryptoPP::Filter::AttachedTransformation()
-    [25] CryptoPP::Filter::AttachedTransformation() const
-    [26] CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
-    [27] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
-    [28] CryptoPP::Filter::NewDefaultAttachment() const
-    [29] CryptoPP::Filter::ShouldPropagateMessageEnd() const
-    [30] CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const
-    [31] CryptoPP::Unflushable<CryptoPP::Filter>::InputBufferIsEmpty() const
+    [0] google::protobuf::io::LimitingInputStream::~LimitingInputStream()
+    [1] google::protobuf::io::LimitingInputStream::Next(void const**, int*)
+    [2] google::protobuf::io::LimitingInputStream::BackUp(int)
+    [3] google::protobuf::io::LimitingInputStream::Skip(int)
+    [4] google::protobuf::io::LimitingInputStream::ByteCount() const

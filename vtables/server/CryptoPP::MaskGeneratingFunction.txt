@@ -1,1 +1,2 @@
 VTable for CryptoPP::MaskGeneratingFunction:
+    [0] CryptoPP::MaskGeneratingFunction::~MaskGeneratingFunction()
