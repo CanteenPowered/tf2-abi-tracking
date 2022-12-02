@@ -1,1 +1,3 @@
 VTable for CryptoPP::NullNameValuePairs:
+    CryptoPP::NullNameValuePairs::~NullNameValuePairs()
+    CryptoPP::NullNameValuePairs::GetVoidValue(char const*, std::type_info const&, void*) const

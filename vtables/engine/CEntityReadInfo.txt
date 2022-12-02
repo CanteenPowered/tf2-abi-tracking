@@ -1,2 +1,2 @@
 VTable for CEntityReadInfo:
-    [0] CEntityReadInfo::~CEntityReadInfo()
+    CEntityReadInfo::~CEntityReadInfo()

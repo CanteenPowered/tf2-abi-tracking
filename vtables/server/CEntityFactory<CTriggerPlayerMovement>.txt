@@ -1,6 +1,6 @@
 VTable for CEntityFactory<CTriggerPlayerRespawnOverride>:
-    [0] CEntityFactory<CTriggerPlayerRespawnOverride>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTriggerPlayerRespawnOverride>::GetEntitySize()
+    CEntityFactory<CTriggerPlayerRespawnOverride>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTriggerPlayerRespawnOverride>::GetEntitySize()
 VTable for CEntityFactory<CTriggerPlayerMovement>:
-    [0] CEntityFactory<CTriggerPlayerMovement>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTriggerPlayerMovement>::GetEntitySize()
+    CEntityFactory<CTriggerPlayerMovement>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTriggerPlayerMovement>::GetEntitySize()

@@ -1,2 +1,2 @@
 VTable for CSendTablePrecalc:
-    [0] CSendTablePrecalc::~CSendTablePrecalc()
+    CSendTablePrecalc::~CSendTablePrecalc()

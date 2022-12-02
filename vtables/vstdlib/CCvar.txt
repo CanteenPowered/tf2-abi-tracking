@@ -1,35 +1,35 @@
 VTable for CCvar:
-    [0] CCvar::Disconnect()
-    [1] CCvar::QueryInterface(char const*)
-    [2] CCvar::Init()
-    [3] CCvar::Shutdown()
-    [4] CCvar::AllocateDLLIdentifier()
-    [5] CCvar::RegisterConCommand(ConCommandBase*)
-    [6] CCvar::UnregisterConCommand(ConCommandBase*)
-    [7] CCvar::UnregisterConCommands(int)
-    [8] CCvar::GetCommandLineValue(char const*)
-    [9] CCvar::FindCommandBase(char const*)
-    [10] CCvar::FindCommandBase(char const*) const
-    [11] CCvar::FindVar(char const*)
-    [12] CCvar::FindVar(char const*) const
-    [13] CCvar::FindCommand(char const*)
-    [14] CCvar::FindCommand(char const*) const
-    [15] CCvar::GetCommands()
-    [16] CCvar::GetCommands() const
-    [17] CCvar::InstallGlobalChangeCallback(void (*)(IConVar*, char const*, float))
-    [18] CCvar::RemoveGlobalChangeCallback(void (*)(IConVar*, char const*, float))
-    [19] CCvar::CallGlobalChangeCallbacks(ConVar*, char const*, float)
-    [20] CCvar::InstallConsoleDisplayFunc(IConsoleDisplayFunc*)
-    [21] CCvar::RemoveConsoleDisplayFunc(IConsoleDisplayFunc*)
-    [22] CCvar::ConsoleColorPrintf(Color const&, char const*, ...) const
-    [23] CCvar::ConsolePrintf(char const*, ...) const
-    [24] CCvar::ConsoleDPrintf(char const*, ...) const
-    [25] CCvar::RevertFlaggedConVars(int)
-    [26] CCvar::InstallCVarQuery(ICvarQuery*)
-    [27] CCvar::IsMaterialThreadSetAllowed() const
-    [28] CCvar::QueueMaterialThreadSetValue(ConVar*, char const*)
-    [29] CCvar::QueueMaterialThreadSetValue(ConVar*, int)
-    [30] CCvar::QueueMaterialThreadSetValue(ConVar*, float)
-    [31] CCvar::HasQueuedMaterialThreadConVarSets() const
-    [32] CCvar::ProcessQueuedMaterialThreadConVarSets()
-    [33] CCvar::FactoryInternalIterator()
+    CCvar::Disconnect()
+    CCvar::QueryInterface(char const*)
+    CCvar::Init()
+    CCvar::Shutdown()
+    CCvar::AllocateDLLIdentifier()
+    CCvar::RegisterConCommand(ConCommandBase*)
+    CCvar::UnregisterConCommand(ConCommandBase*)
+    CCvar::UnregisterConCommands(int)
+    CCvar::GetCommandLineValue(char const*)
+    CCvar::FindCommandBase(char const*)
+    CCvar::FindCommandBase(char const*) const
+    CCvar::FindVar(char const*)
+    CCvar::FindVar(char const*) const
+    CCvar::FindCommand(char const*)
+    CCvar::FindCommand(char const*) const
+    CCvar::GetCommands()
+    CCvar::GetCommands() const
+    CCvar::InstallGlobalChangeCallback(void (*)(IConVar*, char const*, float))
+    CCvar::RemoveGlobalChangeCallback(void (*)(IConVar*, char const*, float))
+    CCvar::CallGlobalChangeCallbacks(ConVar*, char const*, float)
+    CCvar::InstallConsoleDisplayFunc(IConsoleDisplayFunc*)
+    CCvar::RemoveConsoleDisplayFunc(IConsoleDisplayFunc*)
+    CCvar::ConsoleColorPrintf(Color const&, char const*, ...) const
+    CCvar::ConsolePrintf(char const*, ...) const
+    CCvar::ConsoleDPrintf(char const*, ...) const
+    CCvar::RevertFlaggedConVars(int)
+    CCvar::InstallCVarQuery(ICvarQuery*)
+    CCvar::IsMaterialThreadSetAllowed() const
+    CCvar::QueueMaterialThreadSetValue(ConVar*, char const*)
+    CCvar::QueueMaterialThreadSetValue(ConVar*, int)
+    CCvar::QueueMaterialThreadSetValue(ConVar*, float)
+    CCvar::HasQueuedMaterialThreadConVarSets() const
+    CCvar::ProcessQueuedMaterialThreadConVarSets()
+    CCvar::FactoryInternalIterator()

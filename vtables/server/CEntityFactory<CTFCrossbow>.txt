@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFCrossbow>:
-    [0] CEntityFactory<CTFCrossbow>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFCrossbow>::GetEntitySize()
+    CEntityFactory<CTFCrossbow>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFCrossbow>::GetEntitySize()

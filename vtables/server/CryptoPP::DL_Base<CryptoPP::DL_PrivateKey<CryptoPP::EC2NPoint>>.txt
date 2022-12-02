@@ -1,44 +1,6 @@
 VTable for CryptoPP::DL_Base<CryptoPP::DL_PrivateKey<CryptoPP::ECPPoint>>:
-    [0] CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
-    [1] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::MaxRecoverableLength() const
-    [2] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
-    [3] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::IsProbabilistic() const
-    [4] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::AllowNonrecoverablePart() const
-    [5] CryptoPP::PK_SignatureScheme::SignatureUpfront() const
-    [6] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>::RecoverablePartFirst() const
 VTable for CryptoPP::DL_Base<CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>:
 VTable for CryptoPP::DL_Base<CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>:
-    [0] CryptoPP::BufferedTransformation::AnyMessages() const
-    [1] CryptoPP::BufferedTransformation::GetNextMessage()
-    [2] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
-    [3] CryptoPP::BufferedTransformation::SkipAll()
-    [4] CryptoPP::BufferedTransformation::GetNextMessageSeries()
-    [5] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
-    [6] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
-    [7] CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
-    [8] CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
-    [9] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
-    [10] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
-    [11] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
-    [12] CryptoPP::BufferedTransformation::ChannelFlush(std::string const&, bool, int, bool)
-    [13] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
-    [14] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [15] CryptoPP::Filter::Attachable()
-    [16] CryptoPP::Filter::AttachedTransformation()
-    [17] CryptoPP::Filter::AttachedTransformation() const
-    [18] CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
-    [19] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
-    [20] CryptoPP::Filter::NewDefaultAttachment() const
-    [21] CryptoPP::Filter::ShouldPropagateMessageEnd() const
-    [22] CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const
 VTable for CryptoPP::DL_Base<CryptoPP::DL_PublicKey<CryptoPP::EC2NPoint>>:
-    [0] CryptoPP::FilterWithBufferedInput::FlushDerived()
-    [1] CryptoPP::FilterWithBufferedInput::NextPut(unsigned char const*, unsigned int)
 VTable for CryptoPP::DL_Base<CryptoPP::DL_PublicKey<CryptoPP::Integer>>:
-    [0] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::DL_PrivateKey<CryptoPP::EC2NPoint>>::RecoverablePartFirst() const
 VTable for CryptoPP::DL_Base<CryptoPP::DL_PrivateKey<CryptoPP::Integer>>:
-    [0] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
-    [1] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::IsProbabilistic() const
-    [2] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::AllowNonrecoverablePart() const
-    [3] CryptoPP::PK_SignatureScheme::SignatureUpfront() const
-    [4] CryptoPP::DL_SignatureSchemeBase<CryptoPP::PK_Verifier, CryptoPP::DL_PublicKey<CryptoPP::ECPPoint>>::RecoverablePartFirst() const

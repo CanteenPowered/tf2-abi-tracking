@@ -1,0 +1,8 @@
+VTable for SQTable:
+    SQTable::~SQTable()
+    SQTable::Iterate(CSQStateIterator*)
+    SQTable::Release()
+    SQTable::GetType()
+    SQTable::Mark(SQCollectable**)
+    SQTable::Finalize()
+    SQDelegable::GetMetaMethod(SQVM*, SQMetaMethod, SQObjectPtr&)

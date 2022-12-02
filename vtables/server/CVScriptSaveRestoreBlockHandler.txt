@@ -1,0 +1,9 @@
+VTable for CVScriptSaveRestoreBlockHandler:
+    CDefSaveRestoreBlockHandler::PreSave(CSaveRestoreData*)
+    CVScriptSaveRestoreBlockHandler::Save(ISave*)
+    CVScriptSaveRestoreBlockHandler::WriteSaveHeaders(ISave*)
+    CDefSaveRestoreBlockHandler::PostSave()
+    CDefSaveRestoreBlockHandler::PreRestore()
+    CVScriptSaveRestoreBlockHandler::ReadRestoreHeaders(IRestore*)
+    CVScriptSaveRestoreBlockHandler::Restore(IRestore*, bool)
+    CVScriptSaveRestoreBlockHandler::PostRestore()

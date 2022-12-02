@@ -1,6 +1,6 @@
 VTable for CFindVantagePoint:
-    [0] CFindVantagePoint::~CFindVantagePoint()
-    [1] CFindVantagePoint::operator()(CNavArea*, CNavArea*, float)
-    [2] ISearchSurroundingAreasFunctor::ShouldSearch(CNavArea*, CNavArea*, float)
-    [3] ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)
-    [4] ISearchSurroundingAreasFunctor::PostSearch()
+    CFindVantagePoint::~CFindVantagePoint()
+    CFindVantagePoint::operator()(CNavArea*, CNavArea*, float)
+    ISearchSurroundingAreasFunctor::ShouldSearch(CNavArea*, CNavArea*, float)
+    ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)
+    ISearchSurroundingAreasFunctor::PostSearch()

@@ -1,20 +1,20 @@
 VTable for CGCMsgTFSync:
-    [0] CGCMsgTFSync::~CGCMsgTFSync()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CGCMsgTFSync::New() const
-    [3] CGCMsgTFSync::Clear()
-    [4] CGCMsgTFSync::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CGCMsgTFSync::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CGCMsgTFSync::ByteSize() const
-    [9] CGCMsgTFSync::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CGCMsgTFSync::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CGCMsgTFSync::GetCachedSize() const
-    [12] CGCMsgTFSync::CopyFrom(google::protobuf::Message const&)
-    [13] CGCMsgTFSync::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CGCMsgTFSync::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CGCMsgTFSync::GetMetadata() const
+    CGCMsgTFSync::~CGCMsgTFSync()
+    google::protobuf::Message::GetTypeName() const
+    CGCMsgTFSync::New() const
+    CGCMsgTFSync::Clear()
+    CGCMsgTFSync::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CGCMsgTFSync::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CGCMsgTFSync::ByteSize() const
+    CGCMsgTFSync::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CGCMsgTFSync::SerializeWithCachedSizesToArray(unsigned char*) const
+    CGCMsgTFSync::GetCachedSize() const
+    CGCMsgTFSync::CopyFrom(google::protobuf::Message const&)
+    CGCMsgTFSync::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CGCMsgTFSync::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CGCMsgTFSync::GetMetadata() const

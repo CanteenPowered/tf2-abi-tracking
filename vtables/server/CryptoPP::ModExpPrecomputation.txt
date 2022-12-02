@@ -1,1 +1,6 @@
 VTable for CryptoPP::ModExpPrecomputation:
+    CryptoPP::ModExpPrecomputation::ConvertIn(CryptoPP::Integer const&) const
+    CryptoPP::ModExpPrecomputation::ConvertOut(CryptoPP::Integer const&) const
+    CryptoPP::ModExpPrecomputation::GetGroup() const
+    CryptoPP::ModExpPrecomputation::BERDecodeElement(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ModExpPrecomputation::DEREncodeElement(CryptoPP::BufferedTransformation&, CryptoPP::Integer const&) const

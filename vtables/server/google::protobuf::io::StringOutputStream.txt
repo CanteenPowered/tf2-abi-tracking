@@ -1,3 +1,7 @@
 VTable for google::protobuf::io::StringOutputStream:
-    [0] google::protobuf::io::FileOutputStream::CopyingFileOutputStream::~CopyingFileOutputStream()
-    [1] google::protobuf::io::FileOutputStream::CopyingFileOutputStream::Write(void const*, int)
+    google::protobuf::io::StringOutputStream::~StringOutputStream()
+    google::protobuf::io::StringOutputStream::Next(void**, int*)
+    google::protobuf::io::StringOutputStream::BackUp(int)
+    google::protobuf::io::StringOutputStream::ByteCount() const
+    google::protobuf::io::ZeroCopyOutputStream::WriteAliasedRaw(void const*, int)
+    google::protobuf::io::ZeroCopyOutputStream::AllowsAliasing() const

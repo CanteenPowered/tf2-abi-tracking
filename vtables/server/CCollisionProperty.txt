@@ -1,23 +1,23 @@
 VTable for CCollisionProperty:
-    [0] CCollisionProperty::OBBMinsPreScaled() const
-    [1] CCollisionProperty::OBBMaxsPreScaled() const
-    [2] CCollisionProperty::OBBMins() const
-    [3] CCollisionProperty::OBBMaxs() const
-    [4] CCollisionProperty::WorldSpaceTriggerBounds(Vector*, Vector*) const
-    [5] CCollisionProperty::TestCollision(Ray_t const&, unsigned int, CGameTrace&)
-    [6] CCollisionProperty::TestHitboxes(Ray_t const&, unsigned int, CGameTrace&)
-    [7] CCollisionProperty::GetCollisionModelIndex()
-    [8] CCollisionProperty::GetCollisionModel()
-    [9] CCollisionProperty::GetCollisionOrigin() const
-    [10] CCollisionProperty::GetCollisionAngles() const
-    [11] CCollisionProperty::CollisionToWorldTransform() const
-    [12] CCollisionProperty::GetSolid() const
-    [13] CCollisionProperty::GetSolidFlags() const
-    [14] CCollisionProperty::GetIClientUnknown()
-    [15] CCollisionProperty::GetCollisionGroup() const
-    [16] CCollisionProperty::WorldSpaceSurroundingBounds(Vector*, Vector*)
-    [17] CCollisionProperty::ShouldTouchTrigger(int) const
-    [18] CCollisionProperty::GetRootParentToWorldTransform() const
-    [19] CCollisionProperty::NetworkStateChanged()
-    [20] CCollisionProperty::NetworkStateChanged(void*)
-    [21] CCollisionProperty::GetDataDescMap()
+    CCollisionProperty::OBBMinsPreScaled() const
+    CCollisionProperty::OBBMaxsPreScaled() const
+    CCollisionProperty::OBBMins() const
+    CCollisionProperty::OBBMaxs() const
+    CCollisionProperty::WorldSpaceTriggerBounds(Vector*, Vector*) const
+    CCollisionProperty::TestCollision(Ray_t const&, unsigned int, CGameTrace&)
+    CCollisionProperty::TestHitboxes(Ray_t const&, unsigned int, CGameTrace&)
+    CCollisionProperty::GetCollisionModelIndex()
+    CCollisionProperty::GetCollisionModel()
+    CCollisionProperty::GetCollisionOrigin() const
+    CCollisionProperty::GetCollisionAngles() const
+    CCollisionProperty::CollisionToWorldTransform() const
+    CCollisionProperty::GetSolid() const
+    CCollisionProperty::GetSolidFlags() const
+    CCollisionProperty::GetIClientUnknown()
+    CCollisionProperty::GetCollisionGroup() const
+    CCollisionProperty::WorldSpaceSurroundingBounds(Vector*, Vector*)
+    CCollisionProperty::ShouldTouchTrigger(int) const
+    CCollisionProperty::GetRootParentToWorldTransform() const
+    CCollisionProperty::NetworkStateChanged()
+    CCollisionProperty::NetworkStateChanged(void*)
+    CCollisionProperty::GetDataDescMap()

@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CFuncWallToggle>:
-    [0] CEntityFactory<CFuncWallToggle>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CFuncWallToggle>::GetEntitySize()
+    CEntityFactory<CFuncWallToggle>::Destroy(IServerNetworkable*)
+    CEntityFactory<CFuncWallToggle>::GetEntitySize()

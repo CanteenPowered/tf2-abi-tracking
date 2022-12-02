@@ -1,20 +1,20 @@
 VTable for CMsgWebAPIKey:
-    [0] CMsgWebAPIKey::~CMsgWebAPIKey()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgWebAPIKey::New() const
-    [3] CMsgWebAPIKey::Clear()
-    [4] CMsgWebAPIKey::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgWebAPIKey::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgWebAPIKey::ByteSize() const
-    [9] CMsgWebAPIKey::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgWebAPIKey::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgWebAPIKey::GetCachedSize() const
-    [12] CMsgWebAPIKey::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgWebAPIKey::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgWebAPIKey::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgWebAPIKey::GetMetadata() const
+    CMsgWebAPIKey::~CMsgWebAPIKey()
+    google::protobuf::Message::GetTypeName() const
+    CMsgWebAPIKey::New() const
+    CMsgWebAPIKey::Clear()
+    CMsgWebAPIKey::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgWebAPIKey::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgWebAPIKey::ByteSize() const
+    CMsgWebAPIKey::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgWebAPIKey::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgWebAPIKey::GetCachedSize() const
+    CMsgWebAPIKey::CopyFrom(google::protobuf::Message const&)
+    CMsgWebAPIKey::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgWebAPIKey::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgWebAPIKey::GetMetadata() const

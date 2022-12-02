@@ -1,2 +1,2 @@
 VTable for IHalloweenGiftSpawnAutoList:
-    [0] IHalloweenGiftSpawnAutoList::~IHalloweenGiftSpawnAutoList()
+    IHalloweenGiftSpawnAutoList::~IHalloweenGiftSpawnAutoList()

@@ -1,7 +1,7 @@
 VTable for CChangeFrameList:
-    [0] CChangeFrameList::GetNumProps()
-    [1] CChangeFrameList::SetChangeTick(int const*, int, int)
-    [2] CChangeFrameList::GetPropsChangedAfterTick(int, int*, int)
-    [3] CChangeFrameList::Copy()
-    [4] CChangeFrameList::~CChangeFrameList()
-    [5] CChangeFrameList::~CChangeFrameList()
+    CChangeFrameList::GetNumProps()
+    CChangeFrameList::SetChangeTick(int const*, int, int)
+    CChangeFrameList::GetPropsChangedAfterTick(int, int*, int)
+    CChangeFrameList::Copy()
+    CChangeFrameList::~CChangeFrameList()
+    CChangeFrameList::~CChangeFrameList()

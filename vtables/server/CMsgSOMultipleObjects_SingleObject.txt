@@ -1,20 +1,20 @@
 VTable for CMsgSOMultipleObjects_SingleObject:
-    [0] CMsgSOMultipleObjects_SingleObject::~CMsgSOMultipleObjects_SingleObject()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgSOMultipleObjects_SingleObject::New() const
-    [3] CMsgSOMultipleObjects_SingleObject::Clear()
-    [4] CMsgSOMultipleObjects_SingleObject::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgSOMultipleObjects_SingleObject::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgSOMultipleObjects_SingleObject::ByteSize() const
-    [9] CMsgSOMultipleObjects_SingleObject::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgSOMultipleObjects_SingleObject::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgSOMultipleObjects_SingleObject::GetCachedSize() const
-    [12] CMsgSOMultipleObjects_SingleObject::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgSOMultipleObjects_SingleObject::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgSOMultipleObjects_SingleObject::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgSOMultipleObjects_SingleObject::GetMetadata() const
+    CMsgSOMultipleObjects_SingleObject::~CMsgSOMultipleObjects_SingleObject()
+    google::protobuf::Message::GetTypeName() const
+    CMsgSOMultipleObjects_SingleObject::New() const
+    CMsgSOMultipleObjects_SingleObject::Clear()
+    CMsgSOMultipleObjects_SingleObject::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgSOMultipleObjects_SingleObject::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgSOMultipleObjects_SingleObject::ByteSize() const
+    CMsgSOMultipleObjects_SingleObject::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgSOMultipleObjects_SingleObject::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgSOMultipleObjects_SingleObject::GetCachedSize() const
+    CMsgSOMultipleObjects_SingleObject::CopyFrom(google::protobuf::Message const&)
+    CMsgSOMultipleObjects_SingleObject::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgSOMultipleObjects_SingleObject::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgSOMultipleObjects_SingleObject::GetMetadata() const

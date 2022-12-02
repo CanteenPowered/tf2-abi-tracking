@@ -1,1 +1,3 @@
 VTable for CryptoPP::Inflator::BadBlockErr:
+    CryptoPP::Inflator::BadBlockErr::~BadBlockErr()
+    CryptoPP::Exception::what() const

@@ -1,2 +1,2 @@
 VTable for PressJumpButtonReply:
-    [0] INextBotReply::OnFail(INextBot*, INextBotReply::FailureReason)
+    INextBotReply::OnFail(INextBot*, INextBotReply::FailureReason)

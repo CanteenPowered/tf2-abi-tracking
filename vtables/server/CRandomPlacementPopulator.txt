@@ -1,8 +1,8 @@
 VTable for CRandomPlacementPopulator:
-    [0] CRandomPlacementPopulator::~CRandomPlacementPopulator()
-    [1] CRandomPlacementPopulator::Parse(KeyValues*)
-    [2] CRandomPlacementPopulator::PostInitialize()
-    [3] IPopulator::Update()
-    [4] IPopulator::UnpauseSpawning()
-    [5] IPopulator::OnPlayerKilled(CTFPlayer*)
-    [6] IPopulator::HasEventChangeAttributes(char const*) const
+    CRandomPlacementPopulator::~CRandomPlacementPopulator()
+    CRandomPlacementPopulator::Parse(KeyValues*)
+    CRandomPlacementPopulator::PostInitialize()
+    IPopulator::Update()
+    IPopulator::UnpauseSpawning()
+    IPopulator::OnPlayerKilled(CTFPlayer*)
+    IPopulator::HasEventChangeAttributes(char const*) const

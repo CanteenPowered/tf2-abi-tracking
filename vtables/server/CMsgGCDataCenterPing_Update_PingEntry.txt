@@ -1,20 +1,20 @@
 VTable for CMsgGCDataCenterPing_Update_PingEntry:
-    [0] CMsgGCDataCenterPing_Update_PingEntry::~CMsgGCDataCenterPing_Update_PingEntry()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCDataCenterPing_Update_PingEntry::New() const
-    [3] CMsgGCDataCenterPing_Update_PingEntry::Clear()
-    [4] CMsgGCDataCenterPing_Update_PingEntry::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCDataCenterPing_Update_PingEntry::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCDataCenterPing_Update_PingEntry::ByteSize() const
-    [9] CMsgGCDataCenterPing_Update_PingEntry::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCDataCenterPing_Update_PingEntry::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCDataCenterPing_Update_PingEntry::GetCachedSize() const
-    [12] CMsgGCDataCenterPing_Update_PingEntry::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCDataCenterPing_Update_PingEntry::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCDataCenterPing_Update_PingEntry::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCDataCenterPing_Update_PingEntry::GetMetadata() const
+    CMsgGCDataCenterPing_Update_PingEntry::~CMsgGCDataCenterPing_Update_PingEntry()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCDataCenterPing_Update_PingEntry::New() const
+    CMsgGCDataCenterPing_Update_PingEntry::Clear()
+    CMsgGCDataCenterPing_Update_PingEntry::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCDataCenterPing_Update_PingEntry::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCDataCenterPing_Update_PingEntry::ByteSize() const
+    CMsgGCDataCenterPing_Update_PingEntry::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCDataCenterPing_Update_PingEntry::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCDataCenterPing_Update_PingEntry::GetCachedSize() const
+    CMsgGCDataCenterPing_Update_PingEntry::CopyFrom(google::protobuf::Message const&)
+    CMsgGCDataCenterPing_Update_PingEntry::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCDataCenterPing_Update_PingEntry::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCDataCenterPing_Update_PingEntry::GetMetadata() const

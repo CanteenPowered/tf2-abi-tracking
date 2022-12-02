@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFCleaver>:
-    [0] CEntityFactory<CTFCleaver>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFCleaver>::GetEntitySize()
+    CEntityFactory<CTFCleaver>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFCleaver>::GetEntitySize()

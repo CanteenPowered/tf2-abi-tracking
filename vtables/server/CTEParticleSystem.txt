@@ -1,7 +1,7 @@
 VTable for CTEParticleSystem:
-    [0] CTEParticleSystem::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEParticleSystem::~CTEParticleSystem()
-    [2] CTEParticleSystem::~CTEParticleSystem()
-    [3] CBaseTempEntity::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTEParticleSystem::YouForgotToImplementOrDeclareServerClass()
+    CTEParticleSystem::~CTEParticleSystem()
+    CTEParticleSystem::~CTEParticleSystem()
+    CBaseTempEntity::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

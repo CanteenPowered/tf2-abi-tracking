@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFPasstimeLogic>:
-    [0] CEntityFactory<CTFPasstimeLogic>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFPasstimeLogic>::GetEntitySize()
+    CEntityFactory<CTFPasstimeLogic>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFPasstimeLogic>::GetEntitySize()

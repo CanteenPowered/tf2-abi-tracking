@@ -1,20 +1,20 @@
 VTable for CGCMsgMemCachedSet_KeyPair:
-    [0] CGCMsgMemCachedSet_KeyPair::~CGCMsgMemCachedSet_KeyPair()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CGCMsgMemCachedSet_KeyPair::New() const
-    [3] CGCMsgMemCachedSet_KeyPair::Clear()
-    [4] CGCMsgMemCachedSet_KeyPair::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CGCMsgMemCachedSet_KeyPair::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CGCMsgMemCachedSet_KeyPair::ByteSize() const
-    [9] CGCMsgMemCachedSet_KeyPair::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CGCMsgMemCachedSet_KeyPair::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CGCMsgMemCachedSet_KeyPair::GetCachedSize() const
-    [12] CGCMsgMemCachedSet_KeyPair::CopyFrom(google::protobuf::Message const&)
-    [13] CGCMsgMemCachedSet_KeyPair::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CGCMsgMemCachedSet_KeyPair::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CGCMsgMemCachedSet_KeyPair::GetMetadata() const
+    CGCMsgMemCachedSet_KeyPair::~CGCMsgMemCachedSet_KeyPair()
+    google::protobuf::Message::GetTypeName() const
+    CGCMsgMemCachedSet_KeyPair::New() const
+    CGCMsgMemCachedSet_KeyPair::Clear()
+    CGCMsgMemCachedSet_KeyPair::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CGCMsgMemCachedSet_KeyPair::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CGCMsgMemCachedSet_KeyPair::ByteSize() const
+    CGCMsgMemCachedSet_KeyPair::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CGCMsgMemCachedSet_KeyPair::SerializeWithCachedSizesToArray(unsigned char*) const
+    CGCMsgMemCachedSet_KeyPair::GetCachedSize() const
+    CGCMsgMemCachedSet_KeyPair::CopyFrom(google::protobuf::Message const&)
+    CGCMsgMemCachedSet_KeyPair::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CGCMsgMemCachedSet_KeyPair::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CGCMsgMemCachedSet_KeyPair::GetMetadata() const

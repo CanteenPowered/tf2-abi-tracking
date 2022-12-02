@@ -1,7 +1,7 @@
 VTable for CTEClientProjectile:
-    [0] CTEClientProjectile::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEClientProjectile::~CTEClientProjectile()
-    [2] CTEClientProjectile::~CTEClientProjectile()
-    [3] CTEClientProjectile::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTEClientProjectile::YouForgotToImplementOrDeclareServerClass()
+    CTEClientProjectile::~CTEClientProjectile()
+    CTEClientProjectile::~CTEClientProjectile()
+    CTEClientProjectile::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

@@ -1,20 +1,20 @@
 VTable for CSOTFMatchResultPlayerStats:
-    [0] CSOTFMatchResultPlayerStats::~CSOTFMatchResultPlayerStats()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CSOTFMatchResultPlayerStats::New() const
-    [3] CSOTFMatchResultPlayerStats::Clear()
-    [4] CSOTFMatchResultPlayerStats::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CSOTFMatchResultPlayerStats::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CSOTFMatchResultPlayerStats::ByteSize() const
-    [9] CSOTFMatchResultPlayerStats::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CSOTFMatchResultPlayerStats::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CSOTFMatchResultPlayerStats::GetCachedSize() const
-    [12] CSOTFMatchResultPlayerStats::CopyFrom(google::protobuf::Message const&)
-    [13] CSOTFMatchResultPlayerStats::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CSOTFMatchResultPlayerStats::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CSOTFMatchResultPlayerStats::GetMetadata() const
+    CSOTFMatchResultPlayerStats::~CSOTFMatchResultPlayerStats()
+    google::protobuf::Message::GetTypeName() const
+    CSOTFMatchResultPlayerStats::New() const
+    CSOTFMatchResultPlayerStats::Clear()
+    CSOTFMatchResultPlayerStats::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CSOTFMatchResultPlayerStats::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CSOTFMatchResultPlayerStats::ByteSize() const
+    CSOTFMatchResultPlayerStats::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CSOTFMatchResultPlayerStats::SerializeWithCachedSizesToArray(unsigned char*) const
+    CSOTFMatchResultPlayerStats::GetCachedSize() const
+    CSOTFMatchResultPlayerStats::CopyFrom(google::protobuf::Message const&)
+    CSOTFMatchResultPlayerStats::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CSOTFMatchResultPlayerStats::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CSOTFMatchResultPlayerStats::GetMetadata() const

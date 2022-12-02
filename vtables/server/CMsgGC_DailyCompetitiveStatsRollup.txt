@@ -1,60 +1,60 @@
 VTable for CMsgGC_DailyCompetitiveStatsRollup:
-    [0] CMsgGC_DailyCompetitiveStatsRollup::~CMsgGC_DailyCompetitiveStatsRollup()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGC_DailyCompetitiveStatsRollup::New() const
-    [3] CMsgGC_DailyCompetitiveStatsRollup::Clear()
-    [4] CMsgGC_DailyCompetitiveStatsRollup::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGC_DailyCompetitiveStatsRollup::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGC_DailyCompetitiveStatsRollup::ByteSize() const
-    [9] CMsgGC_DailyCompetitiveStatsRollup::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGC_DailyCompetitiveStatsRollup::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGC_DailyCompetitiveStatsRollup::GetCachedSize() const
-    [12] CMsgGC_DailyCompetitiveStatsRollup::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGC_DailyCompetitiveStatsRollup::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGC_DailyCompetitiveStatsRollup::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGC_DailyCompetitiveStatsRollup::GetMetadata() const
+    CMsgGC_DailyCompetitiveStatsRollup::~CMsgGC_DailyCompetitiveStatsRollup()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGC_DailyCompetitiveStatsRollup::New() const
+    CMsgGC_DailyCompetitiveStatsRollup::Clear()
+    CMsgGC_DailyCompetitiveStatsRollup::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGC_DailyCompetitiveStatsRollup::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGC_DailyCompetitiveStatsRollup::ByteSize() const
+    CMsgGC_DailyCompetitiveStatsRollup::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGC_DailyCompetitiveStatsRollup::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGC_DailyCompetitiveStatsRollup::GetCachedSize() const
+    CMsgGC_DailyCompetitiveStatsRollup::CopyFrom(google::protobuf::Message const&)
+    CMsgGC_DailyCompetitiveStatsRollup::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGC_DailyCompetitiveStatsRollup::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGC_DailyCompetitiveStatsRollup::GetMetadata() const
 VTable for CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry:
-    [0] CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::~CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::New() const
-    [3] CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::Clear()
-    [4] CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::ByteSize() const
-    [9] CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::GetCachedSize() const
-    [12] CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::GetMetadata() const
+    CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::~CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::New() const
+    CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::Clear()
+    CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::ByteSize() const
+    CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::GetCachedSize() const
+    CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::CopyFrom(google::protobuf::Message const&)
+    CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGC_DailyCompetitiveStatsRollup_Response_RankBucketEntry::GetMetadata() const
 VTable for CMsgGC_DailyCompetitiveStatsRollup_Response:
-    [0] CMsgGC_DailyCompetitiveStatsRollup_Response::~CMsgGC_DailyCompetitiveStatsRollup_Response()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGC_DailyCompetitiveStatsRollup_Response::New() const
-    [3] CMsgGC_DailyCompetitiveStatsRollup_Response::Clear()
-    [4] CMsgGC_DailyCompetitiveStatsRollup_Response::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGC_DailyCompetitiveStatsRollup_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGC_DailyCompetitiveStatsRollup_Response::ByteSize() const
-    [9] CMsgGC_DailyCompetitiveStatsRollup_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGC_DailyCompetitiveStatsRollup_Response::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGC_DailyCompetitiveStatsRollup_Response::GetCachedSize() const
-    [12] CMsgGC_DailyCompetitiveStatsRollup_Response::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGC_DailyCompetitiveStatsRollup_Response::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGC_DailyCompetitiveStatsRollup_Response::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGC_DailyCompetitiveStatsRollup_Response::GetMetadata() const
+    CMsgGC_DailyCompetitiveStatsRollup_Response::~CMsgGC_DailyCompetitiveStatsRollup_Response()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGC_DailyCompetitiveStatsRollup_Response::New() const
+    CMsgGC_DailyCompetitiveStatsRollup_Response::Clear()
+    CMsgGC_DailyCompetitiveStatsRollup_Response::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGC_DailyCompetitiveStatsRollup_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGC_DailyCompetitiveStatsRollup_Response::ByteSize() const
+    CMsgGC_DailyCompetitiveStatsRollup_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGC_DailyCompetitiveStatsRollup_Response::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGC_DailyCompetitiveStatsRollup_Response::GetCachedSize() const
+    CMsgGC_DailyCompetitiveStatsRollup_Response::CopyFrom(google::protobuf::Message const&)
+    CMsgGC_DailyCompetitiveStatsRollup_Response::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGC_DailyCompetitiveStatsRollup_Response::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGC_DailyCompetitiveStatsRollup_Response::GetMetadata() const

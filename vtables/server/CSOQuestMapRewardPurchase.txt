@@ -1,20 +1,20 @@
 VTable for CSOQuestMapRewardPurchase:
-    [0] CSOQuestMapRewardPurchase::~CSOQuestMapRewardPurchase()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CSOQuestMapRewardPurchase::New() const
-    [3] CSOQuestMapRewardPurchase::Clear()
-    [4] CSOQuestMapRewardPurchase::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CSOQuestMapRewardPurchase::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CSOQuestMapRewardPurchase::ByteSize() const
-    [9] CSOQuestMapRewardPurchase::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CSOQuestMapRewardPurchase::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CSOQuestMapRewardPurchase::GetCachedSize() const
-    [12] CSOQuestMapRewardPurchase::CopyFrom(google::protobuf::Message const&)
-    [13] CSOQuestMapRewardPurchase::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CSOQuestMapRewardPurchase::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CSOQuestMapRewardPurchase::GetMetadata() const
+    CSOQuestMapRewardPurchase::~CSOQuestMapRewardPurchase()
+    google::protobuf::Message::GetTypeName() const
+    CSOQuestMapRewardPurchase::New() const
+    CSOQuestMapRewardPurchase::Clear()
+    CSOQuestMapRewardPurchase::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CSOQuestMapRewardPurchase::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CSOQuestMapRewardPurchase::ByteSize() const
+    CSOQuestMapRewardPurchase::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CSOQuestMapRewardPurchase::SerializeWithCachedSizesToArray(unsigned char*) const
+    CSOQuestMapRewardPurchase::GetCachedSize() const
+    CSOQuestMapRewardPurchase::CopyFrom(google::protobuf::Message const&)
+    CSOQuestMapRewardPurchase::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CSOQuestMapRewardPurchase::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CSOQuestMapRewardPurchase::GetMetadata() const

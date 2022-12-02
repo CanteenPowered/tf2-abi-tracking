@@ -1,16 +1,16 @@
 VTable for CLC_CmdKeyValues:
-    [0] CLC_CmdKeyValues::~CLC_CmdKeyValues()
-    [1] CNetMessage::SetNetChannel(INetChannel*)
-    [2] CNetMessage::SetReliable(bool)
-    [3] CLC_CmdKeyValues::Process()
-    [4] CLC_CmdKeyValues::ReadFromBuffer(bf_read&)
-    [5] CLC_CmdKeyValues::WriteToBuffer(bf_write&)
-    [6] CNetMessage::IsReliable() const
-    [7] CLC_CmdKeyValues::GetType() const
-    [8] CNetMessage::GetGroup() const
-    [9] CLC_CmdKeyValues::GetName() const
-    [10] CNetMessage::GetNetChannel() const
-    [11] CLC_CmdKeyValues::ToString() const
-    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
-    [13] CLC_CmdKeyValues::GetSize() const
-    [14] CLC_CmdKeyValues::SetRatePolicy()
+    CLC_CmdKeyValues::~CLC_CmdKeyValues()
+    CNetMessage::SetNetChannel(INetChannel*)
+    CNetMessage::SetReliable(bool)
+    CLC_CmdKeyValues::Process()
+    CLC_CmdKeyValues::ReadFromBuffer(bf_read&)
+    CLC_CmdKeyValues::WriteToBuffer(bf_write&)
+    CNetMessage::IsReliable() const
+    CLC_CmdKeyValues::GetType() const
+    CNetMessage::GetGroup() const
+    CLC_CmdKeyValues::GetName() const
+    CNetMessage::GetNetChannel() const
+    CLC_CmdKeyValues::ToString() const
+    CNetMessage::BIncomingMessageForProcessing(double, int)
+    CLC_CmdKeyValues::GetSize() const
+    CLC_CmdKeyValues::SetRatePolicy()

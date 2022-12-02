@@ -1,6 +1,6 @@
 VTable for CTFPlayerShared::NetworkVar_m_ConditionList:
-    [0] CTFPlayerShared::NetworkVar_m_ConditionList::NetworkStateChanged(void*)
+    CTFPlayerShared::NetworkVar_m_ConditionList::NetworkStateChanged(void*)
 VTable for CTFPlayerShared::NetworkVar_m_ScoreData:
-    [0] CTFPlayerShared::NetworkVar_m_ScoreData::NetworkStateChanged(void*)
+    CTFPlayerShared::NetworkVar_m_ScoreData::NetworkStateChanged(void*)
 VTable for CTFPlayerShared::NetworkVar_m_RoundScoreData:
-    [0] CTFPlayerShared::NetworkVar_m_RoundScoreData::NetworkStateChanged(void*)
+    CTFPlayerShared::NetworkVar_m_RoundScoreData::NetworkStateChanged(void*)

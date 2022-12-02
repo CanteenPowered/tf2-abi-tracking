@@ -1,20 +1,20 @@
 VTable for CMsgGCToGCSOCacheSubscribe:
-    [0] CMsgGCToGCSOCacheSubscribe::~CMsgGCToGCSOCacheSubscribe()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCToGCSOCacheSubscribe::New() const
-    [3] CMsgGCToGCSOCacheSubscribe::Clear()
-    [4] CMsgGCToGCSOCacheSubscribe::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCToGCSOCacheSubscribe::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCToGCSOCacheSubscribe::ByteSize() const
-    [9] CMsgGCToGCSOCacheSubscribe::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCToGCSOCacheSubscribe::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCToGCSOCacheSubscribe::GetCachedSize() const
-    [12] CMsgGCToGCSOCacheSubscribe::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCToGCSOCacheSubscribe::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCToGCSOCacheSubscribe::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCToGCSOCacheSubscribe::GetMetadata() const
+    CMsgGCToGCSOCacheSubscribe::~CMsgGCToGCSOCacheSubscribe()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCToGCSOCacheSubscribe::New() const
+    CMsgGCToGCSOCacheSubscribe::Clear()
+    CMsgGCToGCSOCacheSubscribe::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCToGCSOCacheSubscribe::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCToGCSOCacheSubscribe::ByteSize() const
+    CMsgGCToGCSOCacheSubscribe::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCToGCSOCacheSubscribe::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCToGCSOCacheSubscribe::GetCachedSize() const
+    CMsgGCToGCSOCacheSubscribe::CopyFrom(google::protobuf::Message const&)
+    CMsgGCToGCSOCacheSubscribe::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCToGCSOCacheSubscribe::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCToGCSOCacheSubscribe::GetMetadata() const

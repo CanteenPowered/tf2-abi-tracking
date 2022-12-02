@@ -1,48 +1,22 @@
 VTable for CryptoPP::DL_SignatureMessageEncodingMethod_NR:
-    [0] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [1] CryptoPP::Filter::Attachable()
-    [2] CryptoPP::Filter::AttachedTransformation()
-    [3] CryptoPP::Filter::AttachedTransformation() const
-    [4] CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
-    [5] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
-    [6] CryptoPP::Filter::NewDefaultAttachment() const
-    [7] CryptoPP::Filter::ShouldPropagateMessageEnd() const
-    [8] CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const
-    [9] CryptoPP::Inflator::GetLog2WindowSize() const
-    [10] CryptoPP::Gunzip::MaxPrestreamHeaderSize() const
-    [11] CryptoPP::Gunzip::ProcessPrestreamHeader()
-    [12] CryptoPP::Gunzip::ProcessDecompressedData(unsigned char const*, unsigned int)
-    [13] CryptoPP::Gunzip::MaxPoststreamTailSize() const
-    [14] CryptoPP::Gunzip::ProcessPoststreamTail()
+    CryptoPP::DL_SignatureMessageEncodingMethod_NR::~DL_SignatureMessageEncodingMethod_NR()
+    CryptoPP::PK_SignatureMessageEncodingMethod::MinRepresentativeBitLength(unsigned int, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::MaxRecoverableLength(unsigned int, unsigned int, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::RecoverablePartFirst() const
+    CryptoPP::PK_SignatureMessageEncodingMethod::ProcessSemisignature(CryptoPP::HashTransformation&, unsigned char const*, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::ProcessRecoverableMessage(CryptoPP::HashTransformation&, unsigned char const*, unsigned int, unsigned char const*, unsigned int, CryptoPP::SecBlock<unsigned char, CryptoPP::AllocatorWithCleanup<unsigned char, false>>&) const
+    CryptoPP::DL_SignatureMessageEncodingMethod_NR::ComputeMessageRepresentative(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned int, CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, bool, unsigned char*, unsigned int) const
+    CryptoPP::PK_DeterministicSignatureMessageEncodingMethod::VerifyMessageRepresentative(CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, bool, unsigned char*, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::RecoverMessageFromRepresentative(CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, bool, unsigned char*, unsigned int, unsigned char*) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::RecoverMessageFromSemisignature(CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, unsigned char const*, unsigned int, unsigned char const*, unsigned int, unsigned char*) const
 VTable for CryptoPP::DL_SignatureMessageEncodingMethod_DSA:
-    [0] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
-    [1] CryptoPP::BufferedTransformation::NumberOfMessages() const
-    [2] CryptoPP::BufferedTransformation::AnyMessages() const
-    [3] CryptoPP::BufferedTransformation::GetNextMessage()
-    [4] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
-    [5] CryptoPP::BufferedTransformation::SkipAll()
-    [6] CryptoPP::BufferedTransformation::GetNextMessageSeries()
-    [7] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
-    [8] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
-    [9] CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
-    [10] CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
-    [11] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
-    [12] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
-    [13] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
-    [14] CryptoPP::BufferedTransformation::ChannelFlush(std::string const&, bool, int, bool)
-    [15] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
-    [16] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [17] CryptoPP::Filter::Attachable()
-    [18] CryptoPP::Filter::AttachedTransformation()
-    [19] CryptoPP::Filter::AttachedTransformation() const
-    [20] CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
-    [21] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
-    [22] CryptoPP::Filter::NewDefaultAttachment() const
-    [23] CryptoPP::Filter::ShouldPropagateMessageEnd() const
-    [24] CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const
-    [25] CryptoPP::Inflator::GetLog2WindowSize() const
-    [26] CryptoPP::Gunzip::MaxPrestreamHeaderSize() const
-    [27] CryptoPP::Gunzip::ProcessPrestreamHeader()
-    [28] CryptoPP::Gunzip::ProcessDecompressedData(unsigned char const*, unsigned int)
-    [29] CryptoPP::Gunzip::MaxPoststreamTailSize() const
-    [30] CryptoPP::Gunzip::ProcessPoststreamTail()
+    CryptoPP::DL_SignatureMessageEncodingMethod_DSA::~DL_SignatureMessageEncodingMethod_DSA()
+    CryptoPP::PK_SignatureMessageEncodingMethod::MinRepresentativeBitLength(unsigned int, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::MaxRecoverableLength(unsigned int, unsigned int, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::RecoverablePartFirst() const
+    CryptoPP::PK_SignatureMessageEncodingMethod::ProcessSemisignature(CryptoPP::HashTransformation&, unsigned char const*, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::ProcessRecoverableMessage(CryptoPP::HashTransformation&, unsigned char const*, unsigned int, unsigned char const*, unsigned int, CryptoPP::SecBlock<unsigned char, CryptoPP::AllocatorWithCleanup<unsigned char, false>>&) const
+    CryptoPP::DL_SignatureMessageEncodingMethod_DSA::ComputeMessageRepresentative(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned int, CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, bool, unsigned char*, unsigned int) const
+    CryptoPP::PK_DeterministicSignatureMessageEncodingMethod::VerifyMessageRepresentative(CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, bool, unsigned char*, unsigned int) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::RecoverMessageFromRepresentative(CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, bool, unsigned char*, unsigned int, unsigned char*) const
+    CryptoPP::PK_SignatureMessageEncodingMethod::RecoverMessageFromSemisignature(CryptoPP::HashTransformation&, std::pair<unsigned char const*, unsigned int>, unsigned char const*, unsigned int, unsigned char const*, unsigned int, unsigned char*) const

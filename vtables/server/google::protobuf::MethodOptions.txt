@@ -1,3 +1,20 @@
 VTable for google::protobuf::MethodOptions:
-    [0] CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
-    [1] CryptoPP::BufferedTransformation::IsolatedInitialize(CryptoPP::NameValuePairs const&)
+    google::protobuf::MethodOptions::~MethodOptions()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::MethodOptions::New() const
+    google::protobuf::MethodOptions::Clear()
+    google::protobuf::MethodOptions::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::MethodOptions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::MethodOptions::ByteSize() const
+    google::protobuf::MethodOptions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::MethodOptions::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::MethodOptions::GetCachedSize() const
+    google::protobuf::MethodOptions::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::MethodOptions::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::MethodOptions::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::MethodOptions::GetMetadata() const

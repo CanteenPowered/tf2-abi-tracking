@@ -1,6 +1,6 @@
 VTable for CEntityFactory<CFuncRespawnRoom>:
-    [0] CEntityFactory<CFuncRespawnRoom>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CFuncRespawnRoom>::GetEntitySize()
+    CEntityFactory<CFuncRespawnRoom>::Destroy(IServerNetworkable*)
+    CEntityFactory<CFuncRespawnRoom>::GetEntitySize()
 VTable for CEntityFactory<CFuncRespawnRoomVisualizer>:
-    [0] CEntityFactory<CFuncRespawnRoomVisualizer>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CFuncRespawnRoomVisualizer>::GetEntitySize()
+    CEntityFactory<CFuncRespawnRoomVisualizer>::Destroy(IServerNetworkable*)
+    CEntityFactory<CFuncRespawnRoomVisualizer>::GetEntitySize()

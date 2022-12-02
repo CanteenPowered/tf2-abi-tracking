@@ -1,7 +1,7 @@
 VTable for CTEShowLine:
-    [0] CTEShowLine::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEShowLine::~CTEShowLine()
-    [2] CTEShowLine::~CTEShowLine()
-    [3] CTEShowLine::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTEShowLine::YouForgotToImplementOrDeclareServerClass()
+    CTEShowLine::~CTEShowLine()
+    CTEShowLine::~CTEShowLine()
+    CTEShowLine::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

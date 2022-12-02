@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFFlareGun_Revenge>:
-    [0] CEntityFactory<CTFFlareGun_Revenge>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFFlareGun_Revenge>::GetEntitySize()
+    CEntityFactory<CTFFlareGun_Revenge>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFFlareGun_Revenge>::GetEntitySize()

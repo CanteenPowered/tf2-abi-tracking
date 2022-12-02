@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTemplateNPCMaker>:
-    [0] CEntityFactory<CTemplateNPCMaker>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTemplateNPCMaker>::GetEntitySize()
+    CEntityFactory<CTemplateNPCMaker>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTemplateNPCMaker>::GetEntitySize()

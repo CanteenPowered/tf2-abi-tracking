@@ -1,20 +1,20 @@
 VTable for CMsgNotificationAcknowledge:
-    [0] CMsgNotificationAcknowledge::~CMsgNotificationAcknowledge()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgNotificationAcknowledge::New() const
-    [3] CMsgNotificationAcknowledge::Clear()
-    [4] CMsgNotificationAcknowledge::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgNotificationAcknowledge::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgNotificationAcknowledge::ByteSize() const
-    [9] CMsgNotificationAcknowledge::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgNotificationAcknowledge::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgNotificationAcknowledge::GetCachedSize() const
-    [12] CMsgNotificationAcknowledge::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgNotificationAcknowledge::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgNotificationAcknowledge::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgNotificationAcknowledge::GetMetadata() const
+    CMsgNotificationAcknowledge::~CMsgNotificationAcknowledge()
+    google::protobuf::Message::GetTypeName() const
+    CMsgNotificationAcknowledge::New() const
+    CMsgNotificationAcknowledge::Clear()
+    CMsgNotificationAcknowledge::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgNotificationAcknowledge::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgNotificationAcknowledge::ByteSize() const
+    CMsgNotificationAcknowledge::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgNotificationAcknowledge::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgNotificationAcknowledge::GetCachedSize() const
+    CMsgNotificationAcknowledge::CopyFrom(google::protobuf::Message const&)
+    CMsgNotificationAcknowledge::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgNotificationAcknowledge::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgNotificationAcknowledge::GetMetadata() const

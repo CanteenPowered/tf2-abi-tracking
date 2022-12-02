@@ -1,2 +1,2 @@
 VTable for IGame:
-    [0] IGame::~IGame()
+    IGame::~IGame()

@@ -1,20 +1,20 @@
 VTable for CGCMsgGetSystemStats:
-    [0] CGCMsgGetSystemStats::~CGCMsgGetSystemStats()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CGCMsgGetSystemStats::New() const
-    [3] CGCMsgGetSystemStats::Clear()
-    [4] CGCMsgGetSystemStats::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CGCMsgGetSystemStats::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CGCMsgGetSystemStats::ByteSize() const
-    [9] CGCMsgGetSystemStats::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CGCMsgGetSystemStats::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CGCMsgGetSystemStats::GetCachedSize() const
-    [12] CGCMsgGetSystemStats::CopyFrom(google::protobuf::Message const&)
-    [13] CGCMsgGetSystemStats::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CGCMsgGetSystemStats::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CGCMsgGetSystemStats::GetMetadata() const
+    CGCMsgGetSystemStats::~CGCMsgGetSystemStats()
+    google::protobuf::Message::GetTypeName() const
+    CGCMsgGetSystemStats::New() const
+    CGCMsgGetSystemStats::Clear()
+    CGCMsgGetSystemStats::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CGCMsgGetSystemStats::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CGCMsgGetSystemStats::ByteSize() const
+    CGCMsgGetSystemStats::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CGCMsgGetSystemStats::SerializeWithCachedSizesToArray(unsigned char*) const
+    CGCMsgGetSystemStats::GetCachedSize() const
+    CGCMsgGetSystemStats::CopyFrom(google::protobuf::Message const&)
+    CGCMsgGetSystemStats::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CGCMsgGetSystemStats::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CGCMsgGetSystemStats::GetMetadata() const

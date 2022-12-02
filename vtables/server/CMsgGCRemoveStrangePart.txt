@@ -1,20 +1,20 @@
 VTable for CMsgGCRemoveStrangePart:
-    [0] CMsgGCRemoveStrangePart::~CMsgGCRemoveStrangePart()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCRemoveStrangePart::New() const
-    [3] CMsgGCRemoveStrangePart::Clear()
-    [4] CMsgGCRemoveStrangePart::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCRemoveStrangePart::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCRemoveStrangePart::ByteSize() const
-    [9] CMsgGCRemoveStrangePart::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCRemoveStrangePart::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCRemoveStrangePart::GetCachedSize() const
-    [12] CMsgGCRemoveStrangePart::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCRemoveStrangePart::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCRemoveStrangePart::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCRemoveStrangePart::GetMetadata() const
+    CMsgGCRemoveStrangePart::~CMsgGCRemoveStrangePart()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCRemoveStrangePart::New() const
+    CMsgGCRemoveStrangePart::Clear()
+    CMsgGCRemoveStrangePart::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCRemoveStrangePart::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCRemoveStrangePart::ByteSize() const
+    CMsgGCRemoveStrangePart::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCRemoveStrangePart::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCRemoveStrangePart::GetCachedSize() const
+    CMsgGCRemoveStrangePart::CopyFrom(google::protobuf::Message const&)
+    CMsgGCRemoveStrangePart::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCRemoveStrangePart::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCRemoveStrangePart::GetMetadata() const

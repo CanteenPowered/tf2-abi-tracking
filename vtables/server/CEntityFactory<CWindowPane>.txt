@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CWindowPane>:
-    [0] CEntityFactory<CWindowPane>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CWindowPane>::GetEntitySize()
+    CEntityFactory<CWindowPane>::Destroy(IServerNetworkable*)
+    CEntityFactory<CWindowPane>::GetEntitySize()

@@ -1,4 +1,4 @@
 VTable for TargetScan<CBaseCombatCharacter>:
-    [0] TargetScan<CBaseCombatCharacter>::ViewDot(Vector const&) const
-    [1] TargetScan<CBaseCombatCharacter>::IsTargetVisible(CBaseCombatCharacter*) const
-    [2] TargetScan<CBaseCombatCharacter>::IsPotentialTarget(CBaseCombatCharacter*) const
+    TargetScan<CBaseCombatCharacter>::ViewDot(Vector const&) const
+    TargetScan<CBaseCombatCharacter>::IsTargetVisible(CBaseCombatCharacter*) const
+    TargetScan<CBaseCombatCharacter>::IsPotentialTarget(CBaseCombatCharacter*) const

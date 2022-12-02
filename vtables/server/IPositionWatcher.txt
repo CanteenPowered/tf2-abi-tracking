@@ -1,2 +1,2 @@
 VTable for IPositionWatcher:
-    [0] IPositionWatcher::~IPositionWatcher()
+    IPositionWatcher::~IPositionWatcher()

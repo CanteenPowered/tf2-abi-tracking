@@ -1,2 +1,2 @@
 VTable for IPopulator:
-    [0] IPopulator::~IPopulator()
+    IPopulator::~IPopulator()

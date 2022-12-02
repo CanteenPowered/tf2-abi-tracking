@@ -1,8 +1,8 @@
 VTable for CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>:
-    [0] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>::~PK_FixedLengthCryptoSystemImpl()
-    [1] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>::MaxPlaintextLength(unsigned int) const
-    [2] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>::CiphertextLength(unsigned int) const
+    CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>::~PK_FixedLengthCryptoSystemImpl()
+    CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>::MaxPlaintextLength(unsigned int) const
+    CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Decryptor>::CiphertextLength(unsigned int) const
 VTable for CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>:
-    [0] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::~PK_FixedLengthCryptoSystemImpl()
-    [1] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::MaxPlaintextLength(unsigned int) const
-    [2] CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::CiphertextLength(unsigned int) const
+    CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::~PK_FixedLengthCryptoSystemImpl()
+    CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::MaxPlaintextLength(unsigned int) const
+    CryptoPP::PK_FixedLengthCryptoSystemImpl<CryptoPP::PK_Encryptor>::CiphertextLength(unsigned int) const

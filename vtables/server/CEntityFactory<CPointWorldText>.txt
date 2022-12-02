@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPointWorldText>:
+    CEntityFactory<CPointWorldText>::Destroy(IServerNetworkable*)
+    CEntityFactory<CPointWorldText>::GetEntitySize()

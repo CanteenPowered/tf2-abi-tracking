@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CFunc_LOD>:
-    [0] CEntityFactory<CFunc_LOD>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CFunc_LOD>::GetEntitySize()
+    CEntityFactory<CFunc_LOD>::Destroy(IServerNetworkable*)
+    CEntityFactory<CFunc_LOD>::GetEntitySize()

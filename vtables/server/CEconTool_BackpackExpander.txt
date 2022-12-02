@@ -1,6 +1,6 @@
 VTable for CEconTool_BackpackExpander:
-    [0] CEconTool_BackpackExpander::~CEconTool_BackpackExpander()
-    [1] IEconTool::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
-    [2] IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
-    [3] IEconTool::RequiresToolEscrowPeriod() const
-    [4] CEconTool_BackpackExpander::BFinishInitialization()
+    CEconTool_BackpackExpander::~CEconTool_BackpackExpander()
+    IEconTool::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
+    IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
+    IEconTool::RequiresToolEscrowPeriod() const
+    CEconTool_BackpackExpander::BFinishInitialization()

@@ -1,20 +1,20 @@
 VTable for CMsgGCShowItemsPickedUp:
-    [0] CMsgGCShowItemsPickedUp::~CMsgGCShowItemsPickedUp()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCShowItemsPickedUp::New() const
-    [3] CMsgGCShowItemsPickedUp::Clear()
-    [4] CMsgGCShowItemsPickedUp::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCShowItemsPickedUp::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCShowItemsPickedUp::ByteSize() const
-    [9] CMsgGCShowItemsPickedUp::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCShowItemsPickedUp::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCShowItemsPickedUp::GetCachedSize() const
-    [12] CMsgGCShowItemsPickedUp::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCShowItemsPickedUp::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCShowItemsPickedUp::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCShowItemsPickedUp::GetMetadata() const
+    CMsgGCShowItemsPickedUp::~CMsgGCShowItemsPickedUp()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCShowItemsPickedUp::New() const
+    CMsgGCShowItemsPickedUp::Clear()
+    CMsgGCShowItemsPickedUp::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCShowItemsPickedUp::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCShowItemsPickedUp::ByteSize() const
+    CMsgGCShowItemsPickedUp::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCShowItemsPickedUp::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCShowItemsPickedUp::GetCachedSize() const
+    CMsgGCShowItemsPickedUp::CopyFrom(google::protobuf::Message const&)
+    CMsgGCShowItemsPickedUp::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCShowItemsPickedUp::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCShowItemsPickedUp::GetMetadata() const

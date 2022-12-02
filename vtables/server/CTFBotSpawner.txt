@@ -1,12 +1,12 @@
 VTable for CTFBotSpawner:
-    [0] CTFBotSpawner::~CTFBotSpawner()
-    [1] CTFBotSpawner::Parse(KeyValues*)
-    [2] CTFBotSpawner::Spawn(Vector const&, CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>*)
-    [3] IPopulationSpawner::IsWhereRequired() const
-    [4] IPopulationSpawner::IsVarious()
-    [5] CTFBotSpawner::GetClass(int)
-    [6] CTFBotSpawner::GetClassIcon(int)
-    [7] CTFBotSpawner::GetHealth(int)
-    [8] CTFBotSpawner::IsMiniBoss(int)
-    [9] CTFBotSpawner::HasAttribute(CTFBot::AttributeType, int)
-    [10] CTFBotSpawner::HasEventChangeAttributes(char const*) const
+    CTFBotSpawner::~CTFBotSpawner()
+    CTFBotSpawner::Parse(KeyValues*)
+    CTFBotSpawner::Spawn(Vector const&, CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>*)
+    IPopulationSpawner::IsWhereRequired() const
+    IPopulationSpawner::IsVarious()
+    CTFBotSpawner::GetClass(int)
+    CTFBotSpawner::GetClassIcon(int)
+    CTFBotSpawner::GetHealth(int)
+    CTFBotSpawner::IsMiniBoss(int)
+    CTFBotSpawner::HasAttribute(CTFBot::AttributeType, int)
+    CTFBotSpawner::HasEventChangeAttributes(char const*) const

@@ -1,10 +1,48 @@
 VTable for CryptoPP::InvertibleRSAFunction:
-    [0] virtual thunk to CryptoPP::InvertibleRSAFunction::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [1] CryptoPP::CryptoMaterial::ThrowIfInvalid(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [2] virtual thunk to CryptoPP::InvertibleRSAFunction::Save(CryptoPP::BufferedTransformation&) const
-    [3] virtual thunk to CryptoPP::InvertibleRSAFunction::Load(CryptoPP::BufferedTransformation&)
-    [4] CryptoPP::CryptoMaterial::SupportsPrecomputation() const
-    [5] CryptoPP::CryptoMaterial::Precompute(unsigned int)
-    [6] CryptoPP::CryptoMaterial::LoadPrecomputation(CryptoPP::BufferedTransformation&)
-    [7] CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    CryptoPP::InvertibleRSAFunction::~InvertibleRSAFunction()
+    CryptoPP::InvertibleRSAFunction::~InvertibleRSAFunction()
+    CryptoPP::RSAFunction::PreimageBound() const
+    CryptoPP::RSAFunction::ImageBound() const
+    CryptoPP::TrapdoorFunctionBounds::MaxPreimage() const
+    CryptoPP::TrapdoorFunctionBounds::MaxImage() const
+    CryptoPP::TrapdoorFunction::ApplyRandomizedFunction(CryptoPP::RandomNumberGenerator&, CryptoPP::Integer const&) const
+    CryptoPP::TrapdoorFunction::IsRandomized() const
+    CryptoPP::RSAFunction::ApplyFunction(CryptoPP::Integer const&) const
+    CryptoPP::InvertibleRSAFunction::GetAlgorithmID() const
+    CryptoPP::RSAFunction::BERDecodePublicKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
+    CryptoPP::RSAFunction::DEREncodePublicKey(CryptoPP::BufferedTransformation&) const
+    CryptoPP::InvertibleRSAFunction::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    CryptoPP::InvertibleRSAFunction::GetVoidValue(char const*, std::type_info const&, void*) const
+    CryptoPP::InvertibleRSAFunction::AssignFrom(CryptoPP::NameValuePairs const&)
+    CryptoPP::InvertibleRSAFunction::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::InvertibleRSAFunction::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::InvertibleRSAFunction::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::InvertibleRSAFunction::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::InvertibleRSAFunction::BERDecodePrivateKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
+    CryptoPP::InvertibleRSAFunction::DEREncodePrivateKey(CryptoPP::BufferedTransformation&) const
+    CryptoPP::InvertibleRSAFunction::CalculateInverse(CryptoPP::RandomNumberGenerator&, CryptoPP::Integer const&) const
+    CryptoPP::InvertibleRSAFunction::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
 VTable for CryptoPP::InvertibleRSAFunction_ISO:
+    CryptoPP::InvertibleRSAFunction_ISO::~InvertibleRSAFunction_ISO()
+    CryptoPP::InvertibleRSAFunction_ISO::~InvertibleRSAFunction_ISO()
+    CryptoPP::InvertibleRSAFunction_ISO::PreimageBound() const
+    CryptoPP::RSAFunction::ImageBound() const
+    CryptoPP::TrapdoorFunctionBounds::MaxPreimage() const
+    CryptoPP::TrapdoorFunctionBounds::MaxImage() const
+    CryptoPP::TrapdoorFunction::ApplyRandomizedFunction(CryptoPP::RandomNumberGenerator&, CryptoPP::Integer const&) const
+    CryptoPP::TrapdoorFunction::IsRandomized() const
+    CryptoPP::RSAFunction::ApplyFunction(CryptoPP::Integer const&) const
+    CryptoPP::InvertibleRSAFunction::GetAlgorithmID() const
+    CryptoPP::RSAFunction::BERDecodePublicKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
+    CryptoPP::RSAFunction::DEREncodePublicKey(CryptoPP::BufferedTransformation&) const
+    CryptoPP::InvertibleRSAFunction::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    CryptoPP::InvertibleRSAFunction::GetVoidValue(char const*, std::type_info const&, void*) const
+    CryptoPP::InvertibleRSAFunction::AssignFrom(CryptoPP::NameValuePairs const&)
+    CryptoPP::InvertibleRSAFunction::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::InvertibleRSAFunction::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::InvertibleRSAFunction::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::InvertibleRSAFunction::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::InvertibleRSAFunction::BERDecodePrivateKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
+    CryptoPP::InvertibleRSAFunction::DEREncodePrivateKey(CryptoPP::BufferedTransformation&) const
+    CryptoPP::InvertibleRSAFunction_ISO::CalculateInverse(CryptoPP::RandomNumberGenerator&, CryptoPP::Integer const&) const
+    CryptoPP::InvertibleRSAFunction::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)

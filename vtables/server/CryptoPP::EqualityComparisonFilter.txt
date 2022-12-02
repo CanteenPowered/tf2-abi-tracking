@@ -1,17 +1,54 @@
 VTable for CryptoPP::EqualityComparisonFilter:
-    [0] CryptoPP::RSAFunction::~RSAFunction()
-    [1] CryptoPP::RSAFunction::~RSAFunction()
-    [2] CryptoPP::RSAFunction::PreimageBound() const
-    [3] CryptoPP::RSAFunction::ImageBound() const
-    [4] CryptoPP::TrapdoorFunctionBounds::MaxPreimage() const
-    [5] CryptoPP::TrapdoorFunctionBounds::MaxImage() const
-    [6] CryptoPP::TrapdoorFunction::ApplyRandomizedFunction(CryptoPP::RandomNumberGenerator&, CryptoPP::Integer const&) const
-    [7] CryptoPP::TrapdoorFunction::IsRandomized() const
-    [8] CryptoPP::RSAFunction::ApplyFunction(CryptoPP::Integer const&) const
-    [9] CryptoPP::RSAFunction::GetAlgorithmID() const
-    [10] CryptoPP::RSAFunction::BERDecodePublicKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
-    [11] CryptoPP::RSAFunction::DEREncodePublicKey(CryptoPP::BufferedTransformation&) const
-    [12] CryptoPP::RSAFunction::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [13] CryptoPP::RSAFunction::GetVoidValue(char const*, std::type_info const&, void*) const
-    [14] CryptoPP::RSAFunction::AssignFrom(CryptoPP::NameValuePairs const&)
+    CryptoPP::EqualityComparisonFilter::~EqualityComparisonFilter()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::Multichannel<CryptoPP::Filter>::CreatePutSpace(unsigned int&)
+    CryptoPP::BufferedTransformation::CanModifyInput() const
+    CryptoPP::Multichannel<CryptoPP::Filter>::Put2(unsigned char const*, unsigned int, int, bool)
+    CryptoPP::Multichannel<CryptoPP::Filter>::PutModifiable2(unsigned char*, unsigned int, int, bool)
+    CryptoPP::BufferedTransformation::GetMaxWaitObjectCount() const
+    CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
+    CryptoPP::BufferedTransformation::IsolatedInitialize(CryptoPP::NameValuePairs const&)
+    CryptoPP::Unflushable<CryptoPP::Multichannel<CryptoPP::Filter>>::IsolatedFlush(bool, bool)
+    CryptoPP::BufferedTransformation::IsolatedMessageSeriesEnd(bool)
+    CryptoPP::Filter::Initialize(CryptoPP::NameValuePairs const&, int)
+    CryptoPP::Unflushable<CryptoPP::Multichannel<CryptoPP::Filter>>::Flush(bool, int, bool)
+    CryptoPP::Multichannel<CryptoPP::Filter>::MessageSeriesEnd(int, bool)
+    CryptoPP::BufferedTransformation::SetAutoSignalPropagation(int)
+    CryptoPP::BufferedTransformation::GetAutoSignalPropagation() const
+    CryptoPP::BufferedTransformation::MaxRetrievable() const
+    CryptoPP::BufferedTransformation::AnyRetrievable() const
+    CryptoPP::BufferedTransformation::Get(unsigned char&)
+    CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
+    CryptoPP::BufferedTransformation::Peek(unsigned char&) const
+    CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
+    CryptoPP::BufferedTransformation::Skip(unsigned long long)
+    CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
+    CryptoPP::BufferedTransformation::NumberOfMessages() const
+    CryptoPP::BufferedTransformation::AnyMessages() const
+    CryptoPP::BufferedTransformation::GetNextMessage()
+    CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
+    CryptoPP::BufferedTransformation::SkipAll()
+    CryptoPP::BufferedTransformation::GetNextMessageSeries()
+    CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
+    CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
+    CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
+    CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
+    CryptoPP::Multichannel<CryptoPP::Filter>::ChannelCreatePutSpace(std::string const&, unsigned int&)
+    CryptoPP::EqualityComparisonFilter::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
+    CryptoPP::Multichannel<CryptoPP::Filter>::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
+    CryptoPP::Unflushable<CryptoPP::Multichannel<CryptoPP::Filter>>::ChannelFlush(std::string const&, bool, int, bool)
+    CryptoPP::EqualityComparisonFilter::ChannelMessageSeriesEnd(std::string const&, int, bool)
+    CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
+    CryptoPP::Filter::Attachable()
+    CryptoPP::Filter::AttachedTransformation()
+    CryptoPP::Filter::AttachedTransformation() const
+    CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
+    CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
+    CryptoPP::Filter::NewDefaultAttachment() const
+    CryptoPP::Filter::ShouldPropagateMessageEnd() const
+    CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const
+    CryptoPP::Unflushable<CryptoPP::Multichannel<CryptoPP::Filter>>::InputBufferIsEmpty() const
 VTable for CryptoPP::EqualityComparisonFilter::MismatchDetected:
+    CryptoPP::EqualityComparisonFilter::MismatchDetected::~MismatchDetected()
+    CryptoPP::Exception::what() const

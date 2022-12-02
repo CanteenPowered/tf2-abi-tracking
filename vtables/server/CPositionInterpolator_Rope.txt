@@ -1,5 +1,5 @@
 VTable for CPositionInterpolator_Rope:
-    [0] CPositionInterpolator_Rope::GetDetails(char**, int*, int*)
-    [1] CPositionInterpolator_Rope::SetKeyPosition(int, Vector const&)
-    [2] CPositionInterpolator_Rope::InterpolatePosition(float, Vector&)
-    [3] CPositionInterpolator_Rope::ProcessKey(char const*, char const*)
+    CPositionInterpolator_Rope::GetDetails(char**, int*, int*)
+    CPositionInterpolator_Rope::SetKeyPosition(int, Vector const&)
+    CPositionInterpolator_Rope::InterpolatePosition(float, Vector&)
+    CPositionInterpolator_Rope::ProcessKey(char const*, char const*)

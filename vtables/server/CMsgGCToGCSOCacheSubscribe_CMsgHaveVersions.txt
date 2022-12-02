@@ -1,20 +1,20 @@
 VTable for CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions:
-    [0] CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::~CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::New() const
-    [3] CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::Clear()
-    [4] CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::ByteSize() const
-    [9] CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::GetCachedSize() const
-    [12] CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::GetMetadata() const
+    CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::~CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::New() const
+    CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::Clear()
+    CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::ByteSize() const
+    CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::GetCachedSize() const
+    CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::CopyFrom(google::protobuf::Message const&)
+    CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCToGCSOCacheSubscribe_CMsgHaveVersions::GetMetadata() const

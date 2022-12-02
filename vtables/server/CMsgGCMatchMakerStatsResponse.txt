@@ -1,20 +1,20 @@
 VTable for CMsgGCMatchMakerStatsResponse:
-    [0] CMsgGCMatchMakerStatsResponse::~CMsgGCMatchMakerStatsResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCMatchMakerStatsResponse::New() const
-    [3] CMsgGCMatchMakerStatsResponse::Clear()
-    [4] CMsgGCMatchMakerStatsResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCMatchMakerStatsResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCMatchMakerStatsResponse::ByteSize() const
-    [9] CMsgGCMatchMakerStatsResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCMatchMakerStatsResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCMatchMakerStatsResponse::GetCachedSize() const
-    [12] CMsgGCMatchMakerStatsResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCMatchMakerStatsResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCMatchMakerStatsResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCMatchMakerStatsResponse::GetMetadata() const
+    CMsgGCMatchMakerStatsResponse::~CMsgGCMatchMakerStatsResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCMatchMakerStatsResponse::New() const
+    CMsgGCMatchMakerStatsResponse::Clear()
+    CMsgGCMatchMakerStatsResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCMatchMakerStatsResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCMatchMakerStatsResponse::ByteSize() const
+    CMsgGCMatchMakerStatsResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCMatchMakerStatsResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCMatchMakerStatsResponse::GetCachedSize() const
+    CMsgGCMatchMakerStatsResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgGCMatchMakerStatsResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCMatchMakerStatsResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCMatchMakerStatsResponse::GetMetadata() const

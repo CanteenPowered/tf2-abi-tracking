@@ -1,44 +1,40 @@
 VTable for google::protobuf::SourceCodeInfo:
-    [0] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [1] CryptoPP::Filter::Attachable()
-    [2] CryptoPP::Filter::AttachedTransformation()
-    [3] CryptoPP::Filter::AttachedTransformation() const
-    [4] CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
-    [5] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
-    [6] CryptoPP::Filter::NewDefaultAttachment() const
-    [7] CryptoPP::Filter::ShouldPropagateMessageEnd() const
-    [8] CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const
-    [9] CryptoPP::Unflushable<CryptoPP::Filter>::InputBufferIsEmpty() const
+    google::protobuf::SourceCodeInfo::~SourceCodeInfo()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::SourceCodeInfo::New() const
+    google::protobuf::SourceCodeInfo::Clear()
+    google::protobuf::SourceCodeInfo::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::SourceCodeInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::SourceCodeInfo::ByteSize() const
+    google::protobuf::SourceCodeInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::SourceCodeInfo::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::SourceCodeInfo::GetCachedSize() const
+    google::protobuf::SourceCodeInfo::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::SourceCodeInfo::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::SourceCodeInfo::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::SourceCodeInfo::GetMetadata() const
 VTable for google::protobuf::SourceCodeInfo_Location:
-    [0] CryptoPP::BufferedTransformation::AnyRetrievable() const
-    [1] CryptoPP::BufferedTransformation::Get(unsigned char&)
-    [2] CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
-    [3] CryptoPP::BufferedTransformation::Peek(unsigned char&) const
-    [4] CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
-    [5] CryptoPP::BufferedTransformation::Skip(unsigned long long)
-    [6] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
-    [7] CryptoPP::BufferedTransformation::NumberOfMessages() const
-    [8] CryptoPP::BufferedTransformation::AnyMessages() const
-    [9] CryptoPP::BufferedTransformation::GetNextMessage()
-    [10] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
-    [11] CryptoPP::BufferedTransformation::SkipAll()
-    [12] CryptoPP::BufferedTransformation::GetNextMessageSeries()
-    [13] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
-    [14] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
-    [15] CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
-    [16] CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
-    [17] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
-    [18] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
-    [19] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
-    [20] CryptoPP::Unflushable<CryptoPP::Filter>::ChannelFlush(std::string const&, bool, int, bool)
-    [21] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
-    [22] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [23] CryptoPP::Filter::Attachable()
-    [24] CryptoPP::Filter::AttachedTransformation()
-    [25] CryptoPP::Filter::AttachedTransformation() const
-    [26] CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
-    [27] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
-    [28] CryptoPP::Filter::NewDefaultAttachment() const
-    [29] CryptoPP::Filter::ShouldPropagateMessageEnd() const
-    [30] CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const
-    [31] CryptoPP::Unflushable<CryptoPP::Filter>::InputBufferIsEmpty() const
+    google::protobuf::SourceCodeInfo_Location::~SourceCodeInfo_Location()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::SourceCodeInfo_Location::New() const
+    google::protobuf::SourceCodeInfo_Location::Clear()
+    google::protobuf::SourceCodeInfo_Location::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::SourceCodeInfo_Location::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::SourceCodeInfo_Location::ByteSize() const
+    google::protobuf::SourceCodeInfo_Location::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::SourceCodeInfo_Location::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::SourceCodeInfo_Location::GetCachedSize() const
+    google::protobuf::SourceCodeInfo_Location::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::SourceCodeInfo_Location::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::SourceCodeInfo_Location::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::SourceCodeInfo_Location::GetMetadata() const

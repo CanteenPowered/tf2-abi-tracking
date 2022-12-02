@@ -1,20 +1,20 @@
 VTable for CMsgQuestDef_MMCriteria:
-    [0] CMsgQuestDef_MMCriteria::~CMsgQuestDef_MMCriteria()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgQuestDef_MMCriteria::New() const
-    [3] CMsgQuestDef_MMCriteria::Clear()
-    [4] CMsgQuestDef_MMCriteria::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgQuestDef_MMCriteria::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgQuestDef_MMCriteria::ByteSize() const
-    [9] CMsgQuestDef_MMCriteria::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgQuestDef_MMCriteria::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgQuestDef_MMCriteria::GetCachedSize() const
-    [12] CMsgQuestDef_MMCriteria::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgQuestDef_MMCriteria::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgQuestDef_MMCriteria::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgQuestDef_MMCriteria::GetMetadata() const
+    CMsgQuestDef_MMCriteria::~CMsgQuestDef_MMCriteria()
+    google::protobuf::Message::GetTypeName() const
+    CMsgQuestDef_MMCriteria::New() const
+    CMsgQuestDef_MMCriteria::Clear()
+    CMsgQuestDef_MMCriteria::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgQuestDef_MMCriteria::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgQuestDef_MMCriteria::ByteSize() const
+    CMsgQuestDef_MMCriteria::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgQuestDef_MMCriteria::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgQuestDef_MMCriteria::GetCachedSize() const
+    CMsgQuestDef_MMCriteria::CopyFrom(google::protobuf::Message const&)
+    CMsgQuestDef_MMCriteria::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgQuestDef_MMCriteria::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgQuestDef_MMCriteria::GetMetadata() const

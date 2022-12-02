@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CMathRemap>:
-    [0] CEntityFactory<CMathRemap>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CMathRemap>::GetEntitySize()
+    CEntityFactory<CMathRemap>::Destroy(IServerNetworkable*)
+    CEntityFactory<CMathRemap>::GetEntitySize()

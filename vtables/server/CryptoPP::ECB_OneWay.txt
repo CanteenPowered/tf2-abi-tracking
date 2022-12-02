@@ -1,39 +1,25 @@
 VTable for CryptoPP::ECB_OneWay:
-    [0] CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
-    [1] CryptoPP::ByteQueue::IsolatedInitialize(CryptoPP::NameValuePairs const&)
-    [2] CryptoPP::Bufferless<CryptoPP::BufferedTransformation>::IsolatedFlush(bool, bool)
-    [3] CryptoPP::BufferedTransformation::IsolatedMessageSeriesEnd(bool)
-    [4] CryptoPP::BufferedTransformation::Initialize(CryptoPP::NameValuePairs const&, int)
-    [5] CryptoPP::BufferedTransformation::Flush(bool, int, bool)
-    [6] CryptoPP::BufferedTransformation::MessageSeriesEnd(int, bool)
-    [7] CryptoPP::BufferedTransformation::SetAutoSignalPropagation(int)
-    [8] CryptoPP::BufferedTransformation::GetAutoSignalPropagation() const
-    [9] CryptoPP::ByteQueue::MaxRetrievable() const
-    [10] CryptoPP::ByteQueue::AnyRetrievable() const
-    [11] CryptoPP::ByteQueue::Get(unsigned char&)
-    [12] CryptoPP::ByteQueue::Get(unsigned char*, unsigned int)
-    [13] CryptoPP::ByteQueue::Peek(unsigned char&) const
-    [14] CryptoPP::ByteQueue::Peek(unsigned char*, unsigned int) const
-    [15] CryptoPP::BufferedTransformation::Skip(unsigned long long)
-    [16] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
-    [17] CryptoPP::BufferedTransformation::NumberOfMessages() const
-    [18] CryptoPP::BufferedTransformation::AnyMessages() const
-    [19] CryptoPP::BufferedTransformation::GetNextMessage()
-    [20] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
-    [21] CryptoPP::BufferedTransformation::SkipAll()
-    [22] CryptoPP::BufferedTransformation::GetNextMessageSeries()
-    [23] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
-    [24] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
-    [25] CryptoPP::ByteQueue::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
-    [26] CryptoPP::ByteQueue::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
-    [27] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
-    [28] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
-    [29] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
-    [30] CryptoPP::BufferedTransformation::ChannelFlush(std::string const&, bool, int, bool)
-    [31] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
-    [32] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [33] CryptoPP::BufferedTransformation::Attachable()
-    [34] CryptoPP::BufferedTransformation::AttachedTransformation()
-    [35] CryptoPP::BufferedTransformation::AttachedTransformation() const
-    [36] CryptoPP::BufferedTransformation::Detach(CryptoPP::BufferedTransformation*)
-    [37] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
+    CryptoPP::ECB_OneWay::~ECB_OneWay()
+    CryptoPP::CipherModeBase::MinKeyLength() const
+    CryptoPP::CipherModeBase::MaxKeyLength() const
+    CryptoPP::CipherModeBase::DefaultKeyLength() const
+    CryptoPP::CipherModeBase::GetValidKeyLength(unsigned int) const
+    CryptoPP::CipherModeBase::IsValidKeyLength(unsigned int) const
+    CryptoPP::ECB_OneWay::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    CryptoPP::ECB_OneWay::IVRequirement() const
+    CryptoPP::CipherModeBase::IVSize() const
+    CryptoPP::SimpleKeyingInterface::MinIVLength() const
+    CryptoPP::SimpleKeyingInterface::MaxIVLength() const
+    CryptoPP::BlockOrientedCipherModeBase::Resynchronize(unsigned char const*, int)
+    CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator&, unsigned char*)
+    CryptoPP::SymmetricCipher::GetAlgorithm() const
+    CryptoPP::BlockOrientedCipherModeBase::UncheckedSetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    CryptoPP::CipherModeBase::OptimalDataAlignment() const
+    CryptoPP::CipherModeBase::SetFeedbackSize(unsigned int)
+    CryptoPP::BlockOrientedCipherModeBase::ResizeBuffers()
+    CryptoPP::BlockOrientedCipherModeBase::MandatoryBlockSize() const
+    CryptoPP::BlockOrientedCipherModeBase::IsRandomAccess() const
+    CryptoPP::BlockOrientedCipherModeBase::IsSelfInverting() const
+    CryptoPP::BlockOrientedCipherModeBase::IsForwardTransformation() const
+    CryptoPP::ECB_OneWay::OptimalBlockSize() const
+    CryptoPP::ECB_OneWay::ProcessData(unsigned char*, unsigned char const*, unsigned int)

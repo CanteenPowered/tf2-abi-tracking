@@ -1,21 +1,66 @@
 VTable for CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>:
-    [0] CryptoPP::DL_PublicKey_EC<CryptoPP::ECP>::~DL_PublicKey_EC()
-    [1] CryptoPP::DL_PublicKey_EC<CryptoPP::ECP>::BERDecodePublicKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
-    [2] CryptoPP::DL_PublicKey_EC<CryptoPP::ECP>::DEREncodePublicKey(CryptoPP::BufferedTransformation&) const
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>::~DL_KeyImpl()
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>::~DL_KeyImpl()
+    CryptoPP::X509PublicKey::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::X509PublicKey::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>::GetAlgorithmID() const
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const
 VTable for CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>:
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::~DL_KeyImpl()
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::~DL_KeyImpl()
+    CryptoPP::X509PublicKey::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::X509PublicKey::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::GetAlgorithmID() const
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const
 VTable for CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>:
-    [0] non-virtual thunk to CryptoPP::DL_PrivateKey_EC<CryptoPP::EC2N>::~DL_PrivateKey_EC()
-    [1] virtual thunk to CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::GetVoidValue(char const*, std::type_info const&, void*) const
-    [2] virtual thunk to CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::AssignFrom(CryptoPP::NameValuePairs const&)
-    [3] virtual thunk to CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [4] CryptoPP::CryptoMaterial::ThrowIfInvalid(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [5] virtual thunk to CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Save(CryptoPP::BufferedTransformation&) const
-    [6] virtual thunk to CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Load(CryptoPP::BufferedTransformation&)
-    [7] virtual thunk to CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::SupportsPrecomputation() const
-    [8] virtual thunk to CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::Precompute(unsigned int)
-    [9] virtual thunk to CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::LoadPrecomputation(CryptoPP::BufferedTransformation&)
-    [10] virtual thunk to CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::SavePrecomputation(CryptoPP::BufferedTransformation&) const
-    [11] non-virtual thunk to CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::~DL_KeyImpl()
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::~DL_KeyImpl()
+    CryptoPP::PKCS8PrivateKey::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::PKCS8PrivateKey::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::GetAlgorithmID() const
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>, CryptoPP::OID>::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const
 VTable for CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>:
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>::~DL_KeyImpl()
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>::~DL_KeyImpl()
+    CryptoPP::PKCS8PrivateKey::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::PKCS8PrivateKey::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>::GetAlgorithmID() const
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const
 VTable for CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>:
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::~DL_KeyImpl()
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::~DL_KeyImpl()
+    CryptoPP::PKCS8PrivateKey::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::PKCS8PrivateKey::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::GetAlgorithmID() const
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const
 VTable for CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>:
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::~DL_KeyImpl()
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::~DL_KeyImpl()
+    CryptoPP::X509PublicKey::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::X509PublicKey::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::GetAlgorithmID() const
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const

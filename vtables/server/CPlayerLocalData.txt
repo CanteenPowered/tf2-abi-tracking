@@ -1,2 +1,2 @@
 VTable for CPlayerLocalData:
-    [0] CPlayerLocalData::NetworkStateChanged(void*)
+    CPlayerLocalData::NetworkStateChanged(void*)

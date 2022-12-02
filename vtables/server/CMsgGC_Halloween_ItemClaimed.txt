@@ -1,20 +1,20 @@
 VTable for CMsgGC_Halloween_ItemClaimed:
-    [0] CMsgGC_Halloween_ItemClaimed::~CMsgGC_Halloween_ItemClaimed()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGC_Halloween_ItemClaimed::New() const
-    [3] CMsgGC_Halloween_ItemClaimed::Clear()
-    [4] CMsgGC_Halloween_ItemClaimed::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGC_Halloween_ItemClaimed::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGC_Halloween_ItemClaimed::ByteSize() const
-    [9] CMsgGC_Halloween_ItemClaimed::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGC_Halloween_ItemClaimed::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGC_Halloween_ItemClaimed::GetCachedSize() const
-    [12] CMsgGC_Halloween_ItemClaimed::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGC_Halloween_ItemClaimed::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGC_Halloween_ItemClaimed::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGC_Halloween_ItemClaimed::GetMetadata() const
+    CMsgGC_Halloween_ItemClaimed::~CMsgGC_Halloween_ItemClaimed()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGC_Halloween_ItemClaimed::New() const
+    CMsgGC_Halloween_ItemClaimed::Clear()
+    CMsgGC_Halloween_ItemClaimed::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGC_Halloween_ItemClaimed::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGC_Halloween_ItemClaimed::ByteSize() const
+    CMsgGC_Halloween_ItemClaimed::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGC_Halloween_ItemClaimed::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGC_Halloween_ItemClaimed::GetCachedSize() const
+    CMsgGC_Halloween_ItemClaimed::CopyFrom(google::protobuf::Message const&)
+    CMsgGC_Halloween_ItemClaimed::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGC_Halloween_ItemClaimed::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGC_Halloween_ItemClaimed::GetMetadata() const

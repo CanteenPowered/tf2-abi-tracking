@@ -1,20 +1,20 @@
 VTable for CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate:
-    [0] CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::~CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::New() const
-    [3] CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::Clear()
-    [4] CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::ByteSize() const
-    [9] CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::GetCachedSize() const
-    [12] CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::CopyFrom(google::protobuf::Message const&)
-    [13] CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::GetMetadata() const
+    CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::~CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate()
+    google::protobuf::Message::GetTypeName() const
+    CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::New() const
+    CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::Clear()
+    CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::ByteSize() const
+    CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::SerializeWithCachedSizesToArray(unsigned char*) const
+    CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::GetCachedSize() const
+    CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::CopyFrom(google::protobuf::Message const&)
+    CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CGCMsgGC_PlayerDuckLeaderboard_IndividualUpdate::GetMetadata() const

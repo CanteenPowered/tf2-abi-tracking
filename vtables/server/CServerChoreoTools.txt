@@ -1,6 +1,6 @@
 VTable for CServerChoreoTools:
-    [0] CServerChoreoTools::~CServerChoreoTools()
-    [1] CServerChoreoTools::NextChoreoEntity(void*)
-    [2] CServerChoreoTools::GetSceneFile(void*)
-    [3] CServerChoreoTools::GetEntIndex(void*)
-    [4] CServerChoreoTools::ReloadSceneFromDisk(int)
+    CServerChoreoTools::~CServerChoreoTools()
+    CServerChoreoTools::NextChoreoEntity(void*)
+    CServerChoreoTools::GetSceneFile(void*)
+    CServerChoreoTools::GetEntIndex(void*)
+    CServerChoreoTools::ReloadSceneFromDisk(int)

@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFWearableRobotArm>:
-    [0] CEntityFactory<CTFWearableRobotArm>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFWearableRobotArm>::GetEntitySize()
+    CEntityFactory<CTFWearableRobotArm>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFWearableRobotArm>::GetEntitySize()

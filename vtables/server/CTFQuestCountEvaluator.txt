@@ -1,24 +1,24 @@
 VTable for CTFQuestCountEvaluator:
-    [0] CTFQuestCountEvaluator::~CTFQuestCountEvaluator()
-    [1] CTFQuestEvaluator::GetBaseName() const
-    [2] CTFQuestCountEvaluator::GetConditionName() const
-    [3] CTFQuestCondition::GetValueString() const
-    [4] CTFQuestCountEvaluator::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [5] CTFQuestCondition::PrintDebugText() const
-    [6] CTFQuestCondition::GetQuestOwner() const
-    [7] CTFQuestCountEvaluator::IsValidForPlayer(CTFPlayer const*, InvalidReason&) const
-    [8] CTFQuestCondition::IsOperator() const
-    [9] CTFQuestEvaluator::IsEvaluator() const
-    [10] CTFQuestCountEvaluator::AddChildByName(char const*)
-    [11] CTFQuestCountEvaluator::GetChildren(CUtlVector<CTFQuestCondition*, CUtlMemory<CTFQuestCondition*, int>>&)
-    [12] CTFQuestCountEvaluator::RemoveAndDeleteChild(CTFQuestCondition*)
-    [13] CTFQuestCountEvaluator::GetRequiredParamKeys(KeyValues*)
-    [14] CTFQuestCountEvaluator::GetOutputKeyValues(KeyValues*)
-    [15] CTFQuestEvaluator::GetValidTypes(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const
-    [16] CTFQuestCountEvaluator::GetValidChildren(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const
-    [17] CTFQuestCountEvaluator::GetMaxInputCount() const
-    [18] CTFQuestCondition::GetEventName() const
-    [19] CTFQuestCondition::SetEventName(char const*)
-    [20] CTFQuestCountEvaluator::EvaluateCondition(CTFQuestEvaluator*, int)
-    [21] CTFQuestCountEvaluator::ResetCondition()
-    [22] CTFQuestCountEvaluator::GetChildrenSubTypeCount() const
+    CTFQuestCountEvaluator::~CTFQuestCountEvaluator()
+    CTFQuestEvaluator::GetBaseName() const
+    CTFQuestCountEvaluator::GetConditionName() const
+    CTFQuestCondition::GetValueString() const
+    CTFQuestCountEvaluator::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTFQuestCondition::PrintDebugText() const
+    CTFQuestCondition::GetQuestOwner() const
+    CTFQuestCountEvaluator::IsValidForPlayer(CTFPlayer const*, InvalidReason&) const
+    CTFQuestCondition::IsOperator() const
+    CTFQuestEvaluator::IsEvaluator() const
+    CTFQuestCountEvaluator::AddChildByName(char const*)
+    CTFQuestCountEvaluator::GetChildren(CUtlVector<CTFQuestCondition*, CUtlMemory<CTFQuestCondition*, int>>&)
+    CTFQuestCountEvaluator::RemoveAndDeleteChild(CTFQuestCondition*)
+    CTFQuestCountEvaluator::GetRequiredParamKeys(KeyValues*)
+    CTFQuestCountEvaluator::GetOutputKeyValues(KeyValues*)
+    CTFQuestEvaluator::GetValidTypes(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const
+    CTFQuestCountEvaluator::GetValidChildren(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const
+    CTFQuestCountEvaluator::GetMaxInputCount() const
+    CTFQuestCondition::GetEventName() const
+    CTFQuestCondition::SetEventName(char const*)
+    CTFQuestCountEvaluator::EvaluateCondition(CTFQuestEvaluator*, int)
+    CTFQuestCountEvaluator::ResetCondition()
+    CTFQuestCountEvaluator::GetChildrenSubTypeCount() const

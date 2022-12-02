@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CFireSmoke>:
-    [0] CEntityFactory<CFireSmoke>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CFireSmoke>::GetEntitySize()
+    CEntityFactory<CFireSmoke>::Destroy(IServerNetworkable*)
+    CEntityFactory<CFireSmoke>::GetEntitySize()

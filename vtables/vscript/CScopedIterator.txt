@@ -1,0 +1,5 @@
+VTable for CScopedIterator:
+    CScopedIterator::Key(SQObjectPtr const&)
+    CScopedIterator::Value(SQObjectPtr const&)
+    CScopedIterator::BeginContained()
+    CScopedIterator::EndContained()

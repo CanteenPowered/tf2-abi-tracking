@@ -1,4 +1,10 @@
 VTable for CryptoPP::TF_SignerBase:
-    [0] CryptoPP::CryptoMaterial::Precompute(unsigned int)
-    [1] CryptoPP::CryptoMaterial::LoadPrecomputation(CryptoPP::BufferedTransformation&)
-    [2] CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    CryptoPP::TF_SignerBase::~TF_SignerBase()
+    CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::SignatureLength() const
+    CryptoPP::PK_SignatureScheme::MaxSignatureLength(unsigned int) const
+    CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::MaxRecoverableLength() const
+    CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::MaxRecoverableLengthFromSignatureLength(unsigned int) const
+    CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::IsProbabilistic() const
+    CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::AllowNonrecoverablePart() const
+    CryptoPP::PK_SignatureScheme::SignatureUpfront() const
+    CryptoPP::TF_SignatureSchemeBase<CryptoPP::PK_Signer, CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>>::RecoverablePartFirst() const

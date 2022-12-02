@@ -1,93 +1,93 @@
 VTable for CEntityFactory<CTFProjectile_ThrowableBreadMonster>:
-    [0] CEntityFactory<CTFProjectile_ThrowableBreadMonster>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_ThrowableBreadMonster>::GetEntitySize()
+    CEntityFactory<CTFProjectile_ThrowableBreadMonster>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_ThrowableBreadMonster>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_Jar>:
-    [0] CEntityFactory<CTFProjectile_Jar>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_Jar>::GetEntitySize()
+    CEntityFactory<CTFProjectile_Jar>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_Jar>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_JarMilk>:
-    [0] CEntityFactory<CTFProjectile_JarMilk>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_JarMilk>::GetEntitySize()
+    CEntityFactory<CTFProjectile_JarMilk>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_JarMilk>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_HealingBolt>:
-    [0] CEntityFactory<CTFProjectile_HealingBolt>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_HealingBolt>::GetEntitySize()
+    CEntityFactory<CTFProjectile_HealingBolt>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_HealingBolt>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_Arrow>:
-    [0] CEntityFactory<CTFProjectile_Arrow>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_Arrow>::GetEntitySize()
+    CEntityFactory<CTFProjectile_Arrow>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_Arrow>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_SpellTransposeTeleport>:
-    [0] CEntityFactory<CTFProjectile_SpellTransposeTeleport>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_SpellTransposeTeleport>::GetEntitySize()
+    CEntityFactory<CTFProjectile_SpellTransposeTeleport>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_SpellTransposeTeleport>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_SpellPumpkin>:
-    [0] CEntityFactory<CTFProjectile_SpellPumpkin>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_SpellPumpkin>::GetEntitySize()
+    CEntityFactory<CTFProjectile_SpellPumpkin>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_SpellPumpkin>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_ThrowableBrick>:
-    [0] CEntityFactory<CTFProjectile_ThrowableBrick>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_ThrowableBrick>::GetEntitySize()
+    CEntityFactory<CTFProjectile_ThrowableBrick>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_ThrowableBrick>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_SpellSpawnHorde>:
-    [0] CEntityFactory<CTFProjectile_SpellSpawnHorde>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_SpellSpawnHorde>::GetEntitySize()
+    CEntityFactory<CTFProjectile_SpellSpawnHorde>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_SpellSpawnHorde>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_ThrowableRepel>:
-    [0] CEntityFactory<CTFProjectile_ThrowableRepel>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_ThrowableRepel>::GetEntitySize()
+    CEntityFactory<CTFProjectile_ThrowableRepel>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_ThrowableRepel>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_SpellBats>:
-    [0] CEntityFactory<CTFProjectile_SpellBats>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_SpellBats>::GetEntitySize()
+    CEntityFactory<CTFProjectile_SpellBats>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_SpellBats>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_Throwable>:
-    [0] CEntityFactory<CTFProjectile_Throwable>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_Throwable>::GetEntitySize()
+    CEntityFactory<CTFProjectile_Throwable>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_Throwable>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_Cleaver>:
-    [0] CEntityFactory<CTFProjectile_Cleaver>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_Cleaver>::GetEntitySize()
+    CEntityFactory<CTFProjectile_Cleaver>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_Cleaver>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_EnergyRing>:
-    [0] CEntityFactory<CTFProjectile_EnergyRing>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_EnergyRing>::GetEntitySize()
+    CEntityFactory<CTFProjectile_EnergyRing>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_EnergyRing>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_BallOfFire>:
-    [0] CEntityFactory<CTFProjectile_BallOfFire>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_BallOfFire>::GetEntitySize()
+    CEntityFactory<CTFProjectile_BallOfFire>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_BallOfFire>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_JarGas>:
-    [0] CEntityFactory<CTFProjectile_JarGas>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_JarGas>::GetEntitySize()
+    CEntityFactory<CTFProjectile_JarGas>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_JarGas>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_SpellKartBats>:
-    [0] CEntityFactory<CTFProjectile_SpellKartBats>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_SpellKartBats>::GetEntitySize()
+    CEntityFactory<CTFProjectile_SpellKartBats>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_SpellKartBats>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_Flare>:
-    [0] CEntityFactory<CTFProjectile_Flare>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_Flare>::GetEntitySize()
+    CEntityFactory<CTFProjectile_Flare>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_Flare>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_SpellFireball>:
-    [0] CEntityFactory<CTFProjectile_SpellFireball>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_SpellFireball>::GetEntitySize()
+    CEntityFactory<CTFProjectile_SpellFireball>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_SpellFireball>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_SpellMeteorShower>:
-    [0] CEntityFactory<CTFProjectile_SpellMeteorShower>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_SpellMeteorShower>::GetEntitySize()
+    CEntityFactory<CTFProjectile_SpellMeteorShower>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_SpellMeteorShower>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_MechanicalArmOrb>:
-    [0] CEntityFactory<CTFProjectile_MechanicalArmOrb>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_MechanicalArmOrb>::GetEntitySize()
+    CEntityFactory<CTFProjectile_MechanicalArmOrb>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_MechanicalArmOrb>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_Rocket>:
-    [0] CEntityFactory<CTFProjectile_Rocket>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_Rocket>::GetEntitySize()
+    CEntityFactory<CTFProjectile_Rocket>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_Rocket>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_Syringe>:
-    [0] CEntityFactory<CTFProjectile_Syringe>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_Syringe>::GetEntitySize()
+    CEntityFactory<CTFProjectile_Syringe>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_Syringe>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_EnergyBall>:
-    [0] CEntityFactory<CTFProjectile_EnergyBall>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_EnergyBall>::GetEntitySize()
+    CEntityFactory<CTFProjectile_EnergyBall>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_EnergyBall>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_GrapplingHook>:
-    [0] CEntityFactory<CTFProjectile_GrapplingHook>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_GrapplingHook>::GetEntitySize()
+    CEntityFactory<CTFProjectile_GrapplingHook>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_GrapplingHook>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_SpellSpawnBoss>:
-    [0] CEntityFactory<CTFProjectile_SpellSpawnBoss>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_SpellSpawnBoss>::GetEntitySize()
+    CEntityFactory<CTFProjectile_SpellSpawnBoss>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_SpellSpawnBoss>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_SpellKartOrb>:
-    [0] CEntityFactory<CTFProjectile_SpellKartOrb>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_SpellKartOrb>::GetEntitySize()
+    CEntityFactory<CTFProjectile_SpellKartOrb>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_SpellKartOrb>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_SpellMirv>:
-    [0] CEntityFactory<CTFProjectile_SpellMirv>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_SpellMirv>::GetEntitySize()
+    CEntityFactory<CTFProjectile_SpellMirv>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_SpellMirv>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_SpellSpawnZombie>:
-    [0] CEntityFactory<CTFProjectile_SpellSpawnZombie>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_SpellSpawnZombie>::GetEntitySize()
+    CEntityFactory<CTFProjectile_SpellSpawnZombie>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_SpellSpawnZombie>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_SpellLightningOrb>:
-    [0] CEntityFactory<CTFProjectile_SpellLightningOrb>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_SpellLightningOrb>::GetEntitySize()
+    CEntityFactory<CTFProjectile_SpellLightningOrb>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_SpellLightningOrb>::GetEntitySize()
 VTable for CEntityFactory<CTFProjectile_SentryRocket>:
-    [0] CEntityFactory<CTFProjectile_SentryRocket>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFProjectile_SentryRocket>::GetEntitySize()
+    CEntityFactory<CTFProjectile_SentryRocket>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFProjectile_SentryRocket>::GetEntitySize()

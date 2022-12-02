@@ -1,2 +1,2 @@
 VTable for snappy::Source:
-    [0] snappy::Source::~Source()
+    snappy::Source::~Source()

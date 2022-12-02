@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CAI_Hint>:
-    [0] CEntityFactory<CAI_Hint>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CAI_Hint>::GetEntitySize()
+    CEntityFactory<CAI_Hint>::Destroy(IServerNetworkable*)
+    CEntityFactory<CAI_Hint>::GetEntitySize()

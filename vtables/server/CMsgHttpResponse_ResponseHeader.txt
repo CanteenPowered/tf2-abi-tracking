@@ -1,20 +1,20 @@
 VTable for CMsgHttpResponse_ResponseHeader:
-    [0] CMsgHttpResponse_ResponseHeader::~CMsgHttpResponse_ResponseHeader()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgHttpResponse_ResponseHeader::New() const
-    [3] CMsgHttpResponse_ResponseHeader::Clear()
-    [4] CMsgHttpResponse_ResponseHeader::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgHttpResponse_ResponseHeader::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgHttpResponse_ResponseHeader::ByteSize() const
-    [9] CMsgHttpResponse_ResponseHeader::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgHttpResponse_ResponseHeader::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgHttpResponse_ResponseHeader::GetCachedSize() const
-    [12] CMsgHttpResponse_ResponseHeader::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgHttpResponse_ResponseHeader::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgHttpResponse_ResponseHeader::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgHttpResponse_ResponseHeader::GetMetadata() const
+    CMsgHttpResponse_ResponseHeader::~CMsgHttpResponse_ResponseHeader()
+    google::protobuf::Message::GetTypeName() const
+    CMsgHttpResponse_ResponseHeader::New() const
+    CMsgHttpResponse_ResponseHeader::Clear()
+    CMsgHttpResponse_ResponseHeader::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgHttpResponse_ResponseHeader::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgHttpResponse_ResponseHeader::ByteSize() const
+    CMsgHttpResponse_ResponseHeader::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgHttpResponse_ResponseHeader::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgHttpResponse_ResponseHeader::GetCachedSize() const
+    CMsgHttpResponse_ResponseHeader::CopyFrom(google::protobuf::Message const&)
+    CMsgHttpResponse_ResponseHeader::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgHttpResponse_ResponseHeader::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgHttpResponse_ResponseHeader::GetMetadata() const

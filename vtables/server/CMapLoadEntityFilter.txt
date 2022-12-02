@@ -1,2 +1,2 @@
 VTable for CMapLoadEntityFilter:
-    [0] CMapLoadEntityFilter::CreateNextEntity(char const*)
+    CMapLoadEntityFilter::CreateNextEntity(char const*)

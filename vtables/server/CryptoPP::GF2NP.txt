@@ -1,1 +1,26 @@
 VTable for CryptoPP::GF2NP:
+    CryptoPP::GF2NP::~GF2NP()
+    CryptoPP::GF2NP::Equal(CryptoPP::PolynomialMod2 const&, CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::Identity() const
+    CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::Add(CryptoPP::PolynomialMod2 const&, CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::Inverse(CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::AbstractGroup<CryptoPP::PolynomialMod2>::InversionIsFast() const
+    CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::Double(CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::Subtract(CryptoPP::PolynomialMod2 const&, CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::Accumulate(CryptoPP::PolynomialMod2&, CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::Reduce(CryptoPP::PolynomialMod2&, CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::AbstractGroup<CryptoPP::PolynomialMod2>::ScalarMultiply(CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractGroup<CryptoPP::PolynomialMod2>::CascadeScalarMultiply(CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&, CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractGroup<CryptoPP::PolynomialMod2>::SimultaneousMultiply(CryptoPP::PolynomialMod2*, CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const*, unsigned int) const
+    CryptoPP::GF2NP::IsUnit(CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::MultiplicativeIdentity() const
+    CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::Multiply(CryptoPP::PolynomialMod2 const&, CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::MultiplicativeInverse(CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::Square(CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::Divide(CryptoPP::PolynomialMod2 const&, CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::Exponentiate(CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::CascadeExponentiate(CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&, CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::SimultaneousExponentiate(CryptoPP::PolynomialMod2*, CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const*, unsigned int) const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroup() const
+    CryptoPP::GF2NP::Clone() const
+    CryptoPP::GF2NP::DEREncode(CryptoPP::BufferedTransformation&) const

@@ -1,7 +1,7 @@
 VTable for CMaterialOverrideContainer<IEconItemInterface>:
-    [0] CMaterialOverrideContainer<IEconItemInterface>::~CMaterialOverrideContainer()
-    [1] IEconItemInterface::IsTradable() const
-    [2] IEconItemInterface::GetUntradabilityFlags() const
-    [3] IEconItemInterface::IsCommodity() const
-    [4] IEconItemInterface::IsUsableInCrafting() const
-    [5] IEconItemInterface::IsMarketable() const
+    CMaterialOverrideContainer<IEconItemInterface>::~CMaterialOverrideContainer()
+    IEconItemInterface::IsTradable() const
+    IEconItemInterface::GetUntradabilityFlags() const
+    IEconItemInterface::IsCommodity() const
+    IEconItemInterface::IsUsableInCrafting() const
+    IEconItemInterface::IsMarketable() const

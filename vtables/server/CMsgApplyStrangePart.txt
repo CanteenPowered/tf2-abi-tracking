@@ -1,20 +1,20 @@
 VTable for CMsgApplyStrangePart:
-    [0] CMsgApplyStrangePart::~CMsgApplyStrangePart()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgApplyStrangePart::New() const
-    [3] CMsgApplyStrangePart::Clear()
-    [4] CMsgApplyStrangePart::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgApplyStrangePart::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgApplyStrangePart::ByteSize() const
-    [9] CMsgApplyStrangePart::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgApplyStrangePart::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgApplyStrangePart::GetCachedSize() const
-    [12] CMsgApplyStrangePart::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgApplyStrangePart::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgApplyStrangePart::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgApplyStrangePart::GetMetadata() const
+    CMsgApplyStrangePart::~CMsgApplyStrangePart()
+    google::protobuf::Message::GetTypeName() const
+    CMsgApplyStrangePart::New() const
+    CMsgApplyStrangePart::Clear()
+    CMsgApplyStrangePart::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgApplyStrangePart::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgApplyStrangePart::ByteSize() const
+    CMsgApplyStrangePart::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgApplyStrangePart::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgApplyStrangePart::GetCachedSize() const
+    CMsgApplyStrangePart::CopyFrom(google::protobuf::Message const&)
+    CMsgApplyStrangePart::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgApplyStrangePart::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgApplyStrangePart::GetMetadata() const

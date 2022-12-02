@@ -1,3 +1,20 @@
 VTable for google::protobuf::EnumDescriptorProto:
-    [0] CryptoPP::BufferedTransformation::Detach(CryptoPP::BufferedTransformation*)
-    [1] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
+    google::protobuf::EnumDescriptorProto::~EnumDescriptorProto()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::EnumDescriptorProto::New() const
+    google::protobuf::EnumDescriptorProto::Clear()
+    google::protobuf::EnumDescriptorProto::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::EnumDescriptorProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::EnumDescriptorProto::ByteSize() const
+    google::protobuf::EnumDescriptorProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::EnumDescriptorProto::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::EnumDescriptorProto::GetCachedSize() const
+    google::protobuf::EnumDescriptorProto::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::EnumDescriptorProto::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::EnumDescriptorProto::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::EnumDescriptorProto::GetMetadata() const

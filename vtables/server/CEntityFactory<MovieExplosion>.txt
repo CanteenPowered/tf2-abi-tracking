@@ -1,3 +1,3 @@
 VTable for CEntityFactory<MovieExplosion>:
-    [0] CEntityFactory<MovieExplosion>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<MovieExplosion>::GetEntitySize()
+    CEntityFactory<MovieExplosion>::Destroy(IServerNetworkable*)
+    CEntityFactory<MovieExplosion>::GetEntitySize()

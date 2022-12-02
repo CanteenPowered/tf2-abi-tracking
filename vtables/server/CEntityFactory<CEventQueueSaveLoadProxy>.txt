@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CEventQueueSaveLoadProxy>:
-    [0] CEntityFactory<CEventQueueSaveLoadProxy>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CEventQueueSaveLoadProxy>::GetEntitySize()
+    CEntityFactory<CEventQueueSaveLoadProxy>::Destroy(IServerNetworkable*)
+    CEntityFactory<CEventQueueSaveLoadProxy>::GetEntitySize()

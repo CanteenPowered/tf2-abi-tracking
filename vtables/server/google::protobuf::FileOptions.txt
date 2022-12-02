@@ -1,1 +1,20 @@
 VTable for google::protobuf::FileOptions:
+    google::protobuf::FileOptions::~FileOptions()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::FileOptions::New() const
+    google::protobuf::FileOptions::Clear()
+    google::protobuf::FileOptions::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::FileOptions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::FileOptions::ByteSize() const
+    google::protobuf::FileOptions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::FileOptions::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::FileOptions::GetCachedSize() const
+    google::protobuf::FileOptions::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::FileOptions::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::FileOptions::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::FileOptions::GetMetadata() const

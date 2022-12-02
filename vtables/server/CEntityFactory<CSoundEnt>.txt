@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CSoundEnt>:
-    [0] CEntityFactory<CSoundEnt>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CSoundEnt>::GetEntitySize()
+    CEntityFactory<CSoundEnt>::Destroy(IServerNetworkable*)
+    CEntityFactory<CSoundEnt>::GetEntitySize()

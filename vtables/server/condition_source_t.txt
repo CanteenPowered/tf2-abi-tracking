@@ -1,2 +1,2 @@
 VTable for condition_source_t:
-    [0] condition_source_t::NetworkStateChanged(void*)
+    condition_source_t::NetworkStateChanged(void*)

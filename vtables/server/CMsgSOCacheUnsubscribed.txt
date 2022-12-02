@@ -1,20 +1,20 @@
 VTable for CMsgSOCacheUnsubscribed:
-    [0] CMsgSOCacheUnsubscribed::~CMsgSOCacheUnsubscribed()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgSOCacheUnsubscribed::New() const
-    [3] CMsgSOCacheUnsubscribed::Clear()
-    [4] CMsgSOCacheUnsubscribed::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgSOCacheUnsubscribed::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgSOCacheUnsubscribed::ByteSize() const
-    [9] CMsgSOCacheUnsubscribed::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgSOCacheUnsubscribed::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgSOCacheUnsubscribed::GetCachedSize() const
-    [12] CMsgSOCacheUnsubscribed::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgSOCacheUnsubscribed::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgSOCacheUnsubscribed::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgSOCacheUnsubscribed::GetMetadata() const
+    CMsgSOCacheUnsubscribed::~CMsgSOCacheUnsubscribed()
+    google::protobuf::Message::GetTypeName() const
+    CMsgSOCacheUnsubscribed::New() const
+    CMsgSOCacheUnsubscribed::Clear()
+    CMsgSOCacheUnsubscribed::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgSOCacheUnsubscribed::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgSOCacheUnsubscribed::ByteSize() const
+    CMsgSOCacheUnsubscribed::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgSOCacheUnsubscribed::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgSOCacheUnsubscribed::GetCachedSize() const
+    CMsgSOCacheUnsubscribed::CopyFrom(google::protobuf::Message const&)
+    CMsgSOCacheUnsubscribed::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgSOCacheUnsubscribed::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgSOCacheUnsubscribed::GetMetadata() const

@@ -1,7 +1,7 @@
 VTable for CCopyRecipientFilter:
-    [0] CCopyRecipientFilter::~CCopyRecipientFilter()
-    [1] CCopyRecipientFilter::IsReliable() const
-    [2] CCopyRecipientFilter::IsInitMessage() const
-    [3] CCopyRecipientFilter::GetRecipientCount() const
-    [4] CCopyRecipientFilter::GetRecipientIndex(int) const
-    [5] CCopyRecipientFilter::AddRecipient(CBasePlayer*)
+    CCopyRecipientFilter::~CCopyRecipientFilter()
+    CCopyRecipientFilter::IsReliable() const
+    CCopyRecipientFilter::IsInitMessage() const
+    CCopyRecipientFilter::GetRecipientCount() const
+    CCopyRecipientFilter::GetRecipientIndex(int) const
+    CCopyRecipientFilter::AddRecipient(CBasePlayer*)

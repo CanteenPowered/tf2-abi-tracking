@@ -1,15 +1,59 @@
 VTable for CryptoPP::AuthenticatedEncryptionFilter:
-    [0] CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::GetVoidValue(char const*, std::type_info const&, void*) const
-    [1] CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::AssignFrom(CryptoPP::NameValuePairs const&)
-    [2] CryptoPP::DL_GroupParameters_IntegerBased::GetSubgroupOrder() const
-    [3] CryptoPP::DL_GroupParameters_IntegerBased::GetGroupOrder() const
-    [4] CryptoPP::DL_GroupParameters_IntegerBased::ValidateGroup(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [5] CryptoPP::DL_GroupParameters_IntegerBased::ValidateElement(unsigned int, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::Integer> const*) const
-    [6] CryptoPP::DL_GroupParameters_IntegerBased::FastSubgroupCheckAvailable() const
-    [7] CryptoPP::DL_GroupParameters_IntegerBased::EncodeElement(bool, CryptoPP::Integer const&, unsigned char*) const
-    [8] CryptoPP::DL_GroupParameters_IntegerBased::GetEncodedElementSize(bool) const
-    [9] CryptoPP::DL_GroupParameters_IntegerBased::DecodeElement(unsigned char const*, bool) const
-    [10] CryptoPP::DL_GroupParameters_IntegerBased::ConvertElementToInteger(CryptoPP::Integer const&) const
-    [11] CryptoPP::DL_GroupParameters_IntegerBased::GetMaxExponent() const
-    [12] CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::GetModulus() const
-    [13] CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::SetModulusAndSubgroupGenerator(CryptoPP::Integer const&, CryptoPP::Integer const&)
+    CryptoPP::AuthenticatedEncryptionFilter::~AuthenticatedEncryptionFilter()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::StreamTransformationFilter::AlgorithmName() const
+    CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    CryptoPP::BufferedTransformation::CanModifyInput() const
+    CryptoPP::FilterWithBufferedInput::Put2(unsigned char const*, unsigned int, int, bool)
+    CryptoPP::FilterWithBufferedInput::PutModifiable2(unsigned char*, unsigned int, int, bool)
+    CryptoPP::BufferedTransformation::GetMaxWaitObjectCount() const
+    CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
+    CryptoPP::AuthenticatedEncryptionFilter::IsolatedInitialize(CryptoPP::NameValuePairs const&)
+    CryptoPP::FilterWithBufferedInput::IsolatedFlush(bool, bool)
+    CryptoPP::BufferedTransformation::IsolatedMessageSeriesEnd(bool)
+    CryptoPP::Filter::Initialize(CryptoPP::NameValuePairs const&, int)
+    CryptoPP::Filter::Flush(bool, int, bool)
+    CryptoPP::Filter::MessageSeriesEnd(int, bool)
+    CryptoPP::BufferedTransformation::SetAutoSignalPropagation(int)
+    CryptoPP::BufferedTransformation::GetAutoSignalPropagation() const
+    CryptoPP::BufferedTransformation::MaxRetrievable() const
+    CryptoPP::BufferedTransformation::AnyRetrievable() const
+    CryptoPP::BufferedTransformation::Get(unsigned char&)
+    CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
+    CryptoPP::BufferedTransformation::Peek(unsigned char&) const
+    CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
+    CryptoPP::BufferedTransformation::Skip(unsigned long long)
+    CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
+    CryptoPP::BufferedTransformation::NumberOfMessages() const
+    CryptoPP::BufferedTransformation::AnyMessages() const
+    CryptoPP::BufferedTransformation::GetNextMessage()
+    CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
+    CryptoPP::BufferedTransformation::SkipAll()
+    CryptoPP::BufferedTransformation::GetNextMessageSeries()
+    CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
+    CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
+    CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
+    CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
+    CryptoPP::AuthenticatedEncryptionFilter::ChannelCreatePutSpace(std::string const&, unsigned int&)
+    CryptoPP::AuthenticatedEncryptionFilter::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
+    CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
+    CryptoPP::BufferedTransformation::ChannelFlush(std::string const&, bool, int, bool)
+    CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
+    CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
+    CryptoPP::Filter::Attachable()
+    CryptoPP::Filter::AttachedTransformation()
+    CryptoPP::Filter::AttachedTransformation() const
+    CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
+    CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
+    CryptoPP::Filter::NewDefaultAttachment() const
+    CryptoPP::Filter::ShouldPropagateMessageEnd() const
+    CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const
+    CryptoPP::StreamTransformationFilter::InitializeDerivedAndReturnNewSizes(CryptoPP::NameValuePairs const&, unsigned int&, unsigned int&, unsigned int&)
+    CryptoPP::FilterWithBufferedInput::InitializeDerived(CryptoPP::NameValuePairs const&)
+    CryptoPP::StreamTransformationFilter::FirstPut(unsigned char const*)
+    CryptoPP::FilterWithBufferedInput::NextPutSingle(unsigned char const*)
+    CryptoPP::StreamTransformationFilter::NextPutMultiple(unsigned char const*, unsigned int)
+    CryptoPP::StreamTransformationFilter::NextPutModifiable(unsigned char*, unsigned int)
+    CryptoPP::AuthenticatedEncryptionFilter::LastPut(unsigned char const*, unsigned int)
+    CryptoPP::FilterWithBufferedInput::FlushDerived()
+    CryptoPP::FilterWithBufferedInput::NextPut(unsigned char const*, unsigned int)

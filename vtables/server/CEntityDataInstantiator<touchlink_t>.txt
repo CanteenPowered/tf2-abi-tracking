@@ -1,5 +1,5 @@
 VTable for CEntityDataInstantiator<touchlink_t>:
-    [0] CEntityDataInstantiator<touchlink_t>::~CEntityDataInstantiator()
-    [1] CEntityDataInstantiator<touchlink_t>::GetDataObject(CBaseEntity const*)
-    [2] CEntityDataInstantiator<touchlink_t>::CreateDataObject(CBaseEntity const*)
-    [3] CEntityDataInstantiator<touchlink_t>::DestroyDataObject(CBaseEntity const*)
+    CEntityDataInstantiator<touchlink_t>::~CEntityDataInstantiator()
+    CEntityDataInstantiator<touchlink_t>::GetDataObject(CBaseEntity const*)
+    CEntityDataInstantiator<touchlink_t>::CreateDataObject(CBaseEntity const*)
+    CEntityDataInstantiator<touchlink_t>::DestroyDataObject(CBaseEntity const*)

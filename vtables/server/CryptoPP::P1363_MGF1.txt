@@ -1,29 +1,3 @@
 VTable for CryptoPP::P1363_MGF1:
-    [0] virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::AssignFrom(CryptoPP::NameValuePairs const&)
-    [1] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [2] CryptoPP::CryptoMaterial::ThrowIfInvalid(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [3] virtual thunk to CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::Save(CryptoPP::BufferedTransformation&) const
-    [4] virtual thunk to CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::Load(CryptoPP::BufferedTransformation&)
-    [5] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::SupportsPrecomputation() const
-    [6] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::Precompute(unsigned int)
-    [7] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::LoadPrecomputation(CryptoPP::BufferedTransformation&)
-    [8] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::SavePrecomputation(CryptoPP::BufferedTransformation&) const
-    [9] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
-    [10] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::GetSubgroupGenerator() const
-    [11] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::SetSubgroupGenerator(CryptoPP::Integer const&)
-    [12] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::ExponentiateBase(CryptoPP::Integer const&) const
-    [13] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::ExponentiateElement(CryptoPP::Integer const&, CryptoPP::Integer const&) const
-    [14] non-virtual thunk to CryptoPP::DL_GroupParametersImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>, CryptoPP::DL_GroupParameters_IntegerBased>::GetGroupPrecomputation() const
-    [15] non-virtual thunk to CryptoPP::DL_GroupParametersImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>, CryptoPP::DL_GroupParameters_IntegerBased>::GetBasePrecomputation() const
-    [16] non-virtual thunk to CryptoPP::DL_GroupParametersImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>, CryptoPP::DL_GroupParameters_IntegerBased>::AccessBasePrecomputation()
-    [17] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::GetSubgroupOrder() const
-    [18] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::GetMaxExponent() const
-    [19] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::GetGroupOrder() const
-    [20] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::GetCofactor() const
-    [21] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::GetEncodedElementSize(bool) const
-    [22] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::EncodeElement(bool, CryptoPP::Integer const&, unsigned char*) const
-    [23] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::DecodeElement(unsigned char const*, bool) const
-    [24] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::ConvertElementToInteger(CryptoPP::Integer const&) const
-    [25] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::ValidateGroup(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [26] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::ValidateElement(unsigned int, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::Integer> const*) const
-    [27] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::FastSubgroupCheckAvailable() const
+    CryptoPP::P1363_MGF1::~P1363_MGF1()
+    CryptoPP::P1363_MGF1::GenerateAndMask(CryptoPP::HashTransformation&, unsigned char*, unsigned int, unsigned char const*, unsigned int, bool) const

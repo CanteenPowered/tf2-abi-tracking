@@ -1,2 +1,2 @@
 VTable for sky3dparams_t:
-    [0] sky3dparams_t::NetworkStateChanged(void*)
+    sky3dparams_t::NetworkStateChanged(void*)

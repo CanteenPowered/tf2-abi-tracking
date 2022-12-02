@@ -1,34 +1,4 @@
 VTable for CryptoPP::TF_Base<CryptoPP::TrapdoorFunctionInverse, CryptoPP::PK_EncryptionMessageEncodingMethod>:
-    [0] CryptoPP::TrapdoorFunction::ApplyRandomizedFunction(CryptoPP::RandomNumberGenerator&, CryptoPP::Integer const&) const
-    [1] CryptoPP::TrapdoorFunction::IsRandomized() const
-    [2] CryptoPP::RSAFunction_ISO::ApplyFunction(CryptoPP::Integer const&) const
-    [3] CryptoPP::RSAFunction::GetAlgorithmID() const
-    [4] CryptoPP::RSAFunction::BERDecodePublicKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
-    [5] CryptoPP::RSAFunction::DEREncodePublicKey(CryptoPP::BufferedTransformation&) const
-    [6] CryptoPP::RSAFunction::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [7] CryptoPP::RSAFunction::GetVoidValue(char const*, std::type_info const&, void*) const
-    [8] CryptoPP::RSAFunction::AssignFrom(CryptoPP::NameValuePairs const&)
 VTable for CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunction, CryptoPP::PK_EncryptionMessageEncodingMethod>:
-    [0] CryptoPP::RSAFunction::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [1] CryptoPP::RSAFunction::GetVoidValue(char const*, std::type_info const&, void*) const
-    [2] CryptoPP::RSAFunction::AssignFrom(CryptoPP::NameValuePairs const&)
 VTable for CryptoPP::TF_Base<CryptoPP::RandomizedTrapdoorFunctionInverse, CryptoPP::PK_SignatureMessageEncodingMethod>:
-    [0] non-virtual thunk to CryptoPP::RSAFunction_ISO::~RSAFunction_ISO()
-    [1] non-virtual thunk to CryptoPP::RSAFunction_ISO::~RSAFunction_ISO()
-    [2] CryptoPP::X509PublicKey::BERDecode(CryptoPP::BufferedTransformation&)
-    [3] CryptoPP::X509PublicKey::DEREncode(CryptoPP::BufferedTransformation&) const
-    [4] CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
-    [5] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Save(CryptoPP::BufferedTransformation&) const
-    [6] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Load(CryptoPP::BufferedTransformation&)
-    [7] non-virtual thunk to CryptoPP::RSAFunction::GetAlgorithmID() const
-    [8] CryptoPP::X509PublicKey::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
-    [9] CryptoPP::X509PublicKey::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const
-    [10] non-virtual thunk to CryptoPP::RSAFunction::BERDecodePublicKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
-    [11] non-virtual thunk to CryptoPP::RSAFunction::DEREncodePublicKey(CryptoPP::BufferedTransformation&) const
 VTable for CryptoPP::TF_Base<CryptoPP::TrapdoorFunction, CryptoPP::PK_SignatureMessageEncodingMethod>:
-    [0] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Load(CryptoPP::BufferedTransformation&)
-    [1] non-virtual thunk to CryptoPP::RSAFunction::GetAlgorithmID() const
-    [2] CryptoPP::X509PublicKey::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
-    [3] CryptoPP::X509PublicKey::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const
-    [4] non-virtual thunk to CryptoPP::RSAFunction::BERDecodePublicKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
-    [5] non-virtual thunk to CryptoPP::RSAFunction::DEREncodePublicKey(CryptoPP::BufferedTransformation&) const

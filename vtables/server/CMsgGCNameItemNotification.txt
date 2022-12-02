@@ -1,20 +1,20 @@
 VTable for CMsgGCNameItemNotification:
-    [0] CMsgGCNameItemNotification::~CMsgGCNameItemNotification()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCNameItemNotification::New() const
-    [3] CMsgGCNameItemNotification::Clear()
-    [4] CMsgGCNameItemNotification::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCNameItemNotification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCNameItemNotification::ByteSize() const
-    [9] CMsgGCNameItemNotification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCNameItemNotification::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCNameItemNotification::GetCachedSize() const
-    [12] CMsgGCNameItemNotification::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCNameItemNotification::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCNameItemNotification::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCNameItemNotification::GetMetadata() const
+    CMsgGCNameItemNotification::~CMsgGCNameItemNotification()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCNameItemNotification::New() const
+    CMsgGCNameItemNotification::Clear()
+    CMsgGCNameItemNotification::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCNameItemNotification::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCNameItemNotification::ByteSize() const
+    CMsgGCNameItemNotification::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCNameItemNotification::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCNameItemNotification::GetCachedSize() const
+    CMsgGCNameItemNotification::CopyFrom(google::protobuf::Message const&)
+    CMsgGCNameItemNotification::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCNameItemNotification::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCNameItemNotification::GetMetadata() const

@@ -1,7 +1,7 @@
 VTable for CTEBloodStream:
-    [0] CTEBloodStream::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEBloodStream::~CTEBloodStream()
-    [2] CTEBloodStream::~CTEBloodStream()
-    [3] CTEBloodStream::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTEBloodStream::YouForgotToImplementOrDeclareServerClass()
+    CTEBloodStream::~CTEBloodStream()
+    CTEBloodStream::~CTEBloodStream()
+    CTEBloodStream::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

@@ -1423,11 +1423,16 @@ CGame::DestroyGameWindow()
 CGame::DispatchAllStoredGameMessages() 
 CGameEvent::~CGameEvent() 
 CGameEvent::CGameEvent(CGameEventDescriptor*) 
-CGameEvent::GetBool(char const*, bool) 
-CGameEvent::GetFloat(char const*, float) 
-CGameEvent::GetInt(char const*, int) 
+CGameEvent::ForEventData(IGameEventVisitor2*) const 
+CGameEvent::GetBool(char const*, bool) const 
+CGameEvent::GetDataKeys() const 
+CGameEvent::GetFloat(char const*, float) const 
+CGameEvent::GetInt(char const*, int) const 
 CGameEvent::GetName() const 
-CGameEvent::GetString(char const*, char const*) 
+CGameEvent::GetPtr(char const*) const 
+CGameEvent::GetString(char const*, char const*) const 
+CGameEvent::GetUint64(char const*, unsigned long long) const 
+CGameEvent::GetWString(char const*, wchar_t const*) const 
 CGameEvent::IsEmpty(char const*) 
 CGameEvent::IsLocal() const 
 CGameEvent::IsReliable() const 
@@ -1482,7 +1487,10 @@ CGameEventManager::WriteListenEventList(CLC_ListenEvents*)
 CGameEvent::SetBool(char const*, bool) 
 CGameEvent::SetFloat(char const*, float) 
 CGameEvent::SetInt(char const*, int) 
+CGameEvent::SetPtr(char const*, void const*) 
 CGameEvent::SetString(char const*, char const*) 
+CGameEvent::SetUint64(char const*, unsigned long long) 
+CGameEvent::SetWString(char const*, wchar_t const*) 
 CGame::GetDesktopInfo(int&, int&, int&) 
 CGame::GetMainDeviceWindow() 
 CGame::GetMainWindow() 
@@ -3520,7 +3528,7 @@ CStudioHdr::SetActivityListVersion(int)
 CStudioHdr::SetAttachmentBone(int, int) 
 CStudioHdr::SetEventListVersion(int) 
 CStudioHdr::Term() 
-CSWTCH.1146 
+CSWTCH.1153 
 CSWTCH.413 
 CSWTCH.66 
 CSWTCH.677 

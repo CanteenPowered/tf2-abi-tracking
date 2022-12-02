@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CFlagDetectionZone>:
-    [0] CEntityFactory<CFlagDetectionZone>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CFlagDetectionZone>::GetEntitySize()
+    CEntityFactory<CFlagDetectionZone>::Destroy(IServerNetworkable*)
+    CEntityFactory<CFlagDetectionZone>::GetEntitySize()

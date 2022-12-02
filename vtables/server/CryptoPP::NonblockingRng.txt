@@ -1,1 +1,12 @@
 VTable for CryptoPP::NonblockingRng:
+    CryptoPP::NonblockingRng::~NonblockingRng()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::RandomNumberGenerator::IncorporateEntropy(unsigned char const*, unsigned int)
+    CryptoPP::RandomNumberGenerator::CanIncorporateEntropy() const
+    CryptoPP::RandomNumberGenerator::GenerateByte()
+    CryptoPP::RandomNumberGenerator::GenerateBit()
+    CryptoPP::RandomNumberGenerator::GenerateWord32(unsigned int, unsigned int)
+    CryptoPP::NonblockingRng::GenerateBlock(unsigned char*, unsigned int)
+    CryptoPP::RandomNumberGenerator::GenerateIntoBufferedTransformation(CryptoPP::BufferedTransformation&, std::string const&, unsigned long long)
+    CryptoPP::RandomNumberGenerator::DiscardBytes(unsigned int)

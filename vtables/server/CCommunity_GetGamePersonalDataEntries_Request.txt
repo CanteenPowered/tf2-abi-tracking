@@ -1,80 +1,80 @@
 VTable for CCommunity_GetGamePersonalDataCategories_Response:
-    [0] CCommunity_GetGamePersonalDataCategories_Response::~CCommunity_GetGamePersonalDataCategories_Response()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CCommunity_GetGamePersonalDataCategories_Response::New() const
-    [3] CCommunity_GetGamePersonalDataCategories_Response::Clear()
-    [4] CCommunity_GetGamePersonalDataCategories_Response::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CCommunity_GetGamePersonalDataCategories_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CCommunity_GetGamePersonalDataCategories_Response::ByteSize() const
-    [9] CCommunity_GetGamePersonalDataCategories_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CCommunity_GetGamePersonalDataCategories_Response::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CCommunity_GetGamePersonalDataCategories_Response::GetCachedSize() const
-    [12] CCommunity_GetGamePersonalDataCategories_Response::CopyFrom(google::protobuf::Message const&)
-    [13] CCommunity_GetGamePersonalDataCategories_Response::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CCommunity_GetGamePersonalDataCategories_Response::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CCommunity_GetGamePersonalDataCategories_Response::GetMetadata() const
+    CCommunity_GetGamePersonalDataCategories_Response::~CCommunity_GetGamePersonalDataCategories_Response()
+    google::protobuf::Message::GetTypeName() const
+    CCommunity_GetGamePersonalDataCategories_Response::New() const
+    CCommunity_GetGamePersonalDataCategories_Response::Clear()
+    CCommunity_GetGamePersonalDataCategories_Response::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CCommunity_GetGamePersonalDataCategories_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CCommunity_GetGamePersonalDataCategories_Response::ByteSize() const
+    CCommunity_GetGamePersonalDataCategories_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CCommunity_GetGamePersonalDataCategories_Response::SerializeWithCachedSizesToArray(unsigned char*) const
+    CCommunity_GetGamePersonalDataCategories_Response::GetCachedSize() const
+    CCommunity_GetGamePersonalDataCategories_Response::CopyFrom(google::protobuf::Message const&)
+    CCommunity_GetGamePersonalDataCategories_Response::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CCommunity_GetGamePersonalDataCategories_Response::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CCommunity_GetGamePersonalDataCategories_Response::GetMetadata() const
 VTable for CCommunity_GetGamePersonalDataEntries_Response:
-    [0] CCommunity_GetGamePersonalDataEntries_Response::~CCommunity_GetGamePersonalDataEntries_Response()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CCommunity_GetGamePersonalDataEntries_Response::New() const
-    [3] CCommunity_GetGamePersonalDataEntries_Response::Clear()
-    [4] CCommunity_GetGamePersonalDataEntries_Response::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CCommunity_GetGamePersonalDataEntries_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CCommunity_GetGamePersonalDataEntries_Response::ByteSize() const
-    [9] CCommunity_GetGamePersonalDataEntries_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CCommunity_GetGamePersonalDataEntries_Response::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CCommunity_GetGamePersonalDataEntries_Response::GetCachedSize() const
-    [12] CCommunity_GetGamePersonalDataEntries_Response::CopyFrom(google::protobuf::Message const&)
-    [13] CCommunity_GetGamePersonalDataEntries_Response::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CCommunity_GetGamePersonalDataEntries_Response::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CCommunity_GetGamePersonalDataEntries_Response::GetMetadata() const
+    CCommunity_GetGamePersonalDataEntries_Response::~CCommunity_GetGamePersonalDataEntries_Response()
+    google::protobuf::Message::GetTypeName() const
+    CCommunity_GetGamePersonalDataEntries_Response::New() const
+    CCommunity_GetGamePersonalDataEntries_Response::Clear()
+    CCommunity_GetGamePersonalDataEntries_Response::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CCommunity_GetGamePersonalDataEntries_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CCommunity_GetGamePersonalDataEntries_Response::ByteSize() const
+    CCommunity_GetGamePersonalDataEntries_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CCommunity_GetGamePersonalDataEntries_Response::SerializeWithCachedSizesToArray(unsigned char*) const
+    CCommunity_GetGamePersonalDataEntries_Response::GetCachedSize() const
+    CCommunity_GetGamePersonalDataEntries_Response::CopyFrom(google::protobuf::Message const&)
+    CCommunity_GetGamePersonalDataEntries_Response::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CCommunity_GetGamePersonalDataEntries_Response::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CCommunity_GetGamePersonalDataEntries_Response::GetMetadata() const
 VTable for CCommunity_GetGamePersonalDataEntries_Request:
-    [0] CCommunity_GetGamePersonalDataEntries_Request::~CCommunity_GetGamePersonalDataEntries_Request()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CCommunity_GetGamePersonalDataEntries_Request::New() const
-    [3] CCommunity_GetGamePersonalDataEntries_Request::Clear()
-    [4] CCommunity_GetGamePersonalDataEntries_Request::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CCommunity_GetGamePersonalDataEntries_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CCommunity_GetGamePersonalDataEntries_Request::ByteSize() const
-    [9] CCommunity_GetGamePersonalDataEntries_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CCommunity_GetGamePersonalDataEntries_Request::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CCommunity_GetGamePersonalDataEntries_Request::GetCachedSize() const
-    [12] CCommunity_GetGamePersonalDataEntries_Request::CopyFrom(google::protobuf::Message const&)
-    [13] CCommunity_GetGamePersonalDataEntries_Request::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CCommunity_GetGamePersonalDataEntries_Request::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CCommunity_GetGamePersonalDataEntries_Request::GetMetadata() const
+    CCommunity_GetGamePersonalDataEntries_Request::~CCommunity_GetGamePersonalDataEntries_Request()
+    google::protobuf::Message::GetTypeName() const
+    CCommunity_GetGamePersonalDataEntries_Request::New() const
+    CCommunity_GetGamePersonalDataEntries_Request::Clear()
+    CCommunity_GetGamePersonalDataEntries_Request::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CCommunity_GetGamePersonalDataEntries_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CCommunity_GetGamePersonalDataEntries_Request::ByteSize() const
+    CCommunity_GetGamePersonalDataEntries_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CCommunity_GetGamePersonalDataEntries_Request::SerializeWithCachedSizesToArray(unsigned char*) const
+    CCommunity_GetGamePersonalDataEntries_Request::GetCachedSize() const
+    CCommunity_GetGamePersonalDataEntries_Request::CopyFrom(google::protobuf::Message const&)
+    CCommunity_GetGamePersonalDataEntries_Request::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CCommunity_GetGamePersonalDataEntries_Request::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CCommunity_GetGamePersonalDataEntries_Request::GetMetadata() const
 VTable for CCommunity_GetGamePersonalDataCategories_Request:
-    [0] CCommunity_GetGamePersonalDataCategories_Request::~CCommunity_GetGamePersonalDataCategories_Request()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CCommunity_GetGamePersonalDataCategories_Request::New() const
-    [3] CCommunity_GetGamePersonalDataCategories_Request::Clear()
-    [4] CCommunity_GetGamePersonalDataCategories_Request::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CCommunity_GetGamePersonalDataCategories_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CCommunity_GetGamePersonalDataCategories_Request::ByteSize() const
-    [9] CCommunity_GetGamePersonalDataCategories_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CCommunity_GetGamePersonalDataCategories_Request::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CCommunity_GetGamePersonalDataCategories_Request::GetCachedSize() const
-    [12] CCommunity_GetGamePersonalDataCategories_Request::CopyFrom(google::protobuf::Message const&)
-    [13] CCommunity_GetGamePersonalDataCategories_Request::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CCommunity_GetGamePersonalDataCategories_Request::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CCommunity_GetGamePersonalDataCategories_Request::GetMetadata() const
+    CCommunity_GetGamePersonalDataCategories_Request::~CCommunity_GetGamePersonalDataCategories_Request()
+    google::protobuf::Message::GetTypeName() const
+    CCommunity_GetGamePersonalDataCategories_Request::New() const
+    CCommunity_GetGamePersonalDataCategories_Request::Clear()
+    CCommunity_GetGamePersonalDataCategories_Request::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CCommunity_GetGamePersonalDataCategories_Request::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CCommunity_GetGamePersonalDataCategories_Request::ByteSize() const
+    CCommunity_GetGamePersonalDataCategories_Request::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CCommunity_GetGamePersonalDataCategories_Request::SerializeWithCachedSizesToArray(unsigned char*) const
+    CCommunity_GetGamePersonalDataCategories_Request::GetCachedSize() const
+    CCommunity_GetGamePersonalDataCategories_Request::CopyFrom(google::protobuf::Message const&)
+    CCommunity_GetGamePersonalDataCategories_Request::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CCommunity_GetGamePersonalDataCategories_Request::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CCommunity_GetGamePersonalDataCategories_Request::GetMetadata() const

@@ -1,2 +1,2 @@
 VTable for IReplayServer:
-    [0] IReplayServer::~IReplayServer()
+    IReplayServer::~IReplayServer()

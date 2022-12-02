@@ -1,20 +1,20 @@
 VTable for CMsgHeaderOnly:
-    [0] CMsgHeaderOnly::~CMsgHeaderOnly()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgHeaderOnly::New() const
-    [3] CMsgHeaderOnly::Clear()
-    [4] CMsgHeaderOnly::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgHeaderOnly::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgHeaderOnly::ByteSize() const
-    [9] CMsgHeaderOnly::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgHeaderOnly::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgHeaderOnly::GetCachedSize() const
-    [12] CMsgHeaderOnly::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgHeaderOnly::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgHeaderOnly::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgHeaderOnly::GetMetadata() const
+    CMsgHeaderOnly::~CMsgHeaderOnly()
+    google::protobuf::Message::GetTypeName() const
+    CMsgHeaderOnly::New() const
+    CMsgHeaderOnly::Clear()
+    CMsgHeaderOnly::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgHeaderOnly::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgHeaderOnly::ByteSize() const
+    CMsgHeaderOnly::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgHeaderOnly::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgHeaderOnly::GetCachedSize() const
+    CMsgHeaderOnly::CopyFrom(google::protobuf::Message const&)
+    CMsgHeaderOnly::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgHeaderOnly::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgHeaderOnly::GetMetadata() const

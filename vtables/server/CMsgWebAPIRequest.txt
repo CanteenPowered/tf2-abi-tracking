@@ -1,20 +1,20 @@
 VTable for CMsgWebAPIRequest:
-    [0] CMsgWebAPIRequest::~CMsgWebAPIRequest()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgWebAPIRequest::New() const
-    [3] CMsgWebAPIRequest::Clear()
-    [4] CMsgWebAPIRequest::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgWebAPIRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgWebAPIRequest::ByteSize() const
-    [9] CMsgWebAPIRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgWebAPIRequest::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgWebAPIRequest::GetCachedSize() const
-    [12] CMsgWebAPIRequest::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgWebAPIRequest::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgWebAPIRequest::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgWebAPIRequest::GetMetadata() const
+    CMsgWebAPIRequest::~CMsgWebAPIRequest()
+    google::protobuf::Message::GetTypeName() const
+    CMsgWebAPIRequest::New() const
+    CMsgWebAPIRequest::Clear()
+    CMsgWebAPIRequest::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgWebAPIRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgWebAPIRequest::ByteSize() const
+    CMsgWebAPIRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgWebAPIRequest::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgWebAPIRequest::GetCachedSize() const
+    CMsgWebAPIRequest::CopyFrom(google::protobuf::Message const&)
+    CMsgWebAPIRequest::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgWebAPIRequest::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgWebAPIRequest::GetMetadata() const

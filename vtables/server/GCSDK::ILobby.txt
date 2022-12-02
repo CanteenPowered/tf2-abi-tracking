@@ -1,2 +1,2 @@
 VTable for GCSDK::ILobby:
-    [0] GCSDK::ILobby::~ILobby()
+    GCSDK::ILobby::~ILobby()

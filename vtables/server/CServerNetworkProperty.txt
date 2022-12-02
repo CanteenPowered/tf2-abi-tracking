@@ -1,13 +1,13 @@
 VTable for CServerNetworkProperty:
-    [0] CServerNetworkProperty::GetServerClass()
-    [1] CServerNetworkProperty::GetEdict() const
-    [2] CServerNetworkProperty::GetClassName() const
-    [3] CServerNetworkProperty::Release()
-    [4] CServerNetworkProperty::AreaNum() const
-    [5] CServerNetworkProperty::GetBaseNetworkable()
-    [6] CServerNetworkProperty::GetBaseEntity()
-    [7] CServerNetworkProperty::GetPVSInfo()
-    [8] CServerNetworkProperty::~CServerNetworkProperty()
-    [9] CServerNetworkProperty::~CServerNetworkProperty()
-    [10] CServerNetworkProperty::GetDataDescMap()
-    [11] CServerNetworkProperty::FireEvent()
+    CServerNetworkProperty::GetServerClass()
+    CServerNetworkProperty::GetEdict() const
+    CServerNetworkProperty::GetClassName() const
+    CServerNetworkProperty::Release()
+    CServerNetworkProperty::AreaNum() const
+    CServerNetworkProperty::GetBaseNetworkable()
+    CServerNetworkProperty::GetBaseEntity()
+    CServerNetworkProperty::GetPVSInfo()
+    CServerNetworkProperty::~CServerNetworkProperty()
+    CServerNetworkProperty::~CServerNetworkProperty()
+    CServerNetworkProperty::GetDataDescMap()
+    CServerNetworkProperty::FireEvent()

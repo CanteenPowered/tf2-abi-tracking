@@ -1,20 +1,20 @@
 VTable for CMsgAdjustItemEquippedState:
-    [0] CMsgAdjustItemEquippedState::~CMsgAdjustItemEquippedState()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgAdjustItemEquippedState::New() const
-    [3] CMsgAdjustItemEquippedState::Clear()
-    [4] CMsgAdjustItemEquippedState::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgAdjustItemEquippedState::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgAdjustItemEquippedState::ByteSize() const
-    [9] CMsgAdjustItemEquippedState::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgAdjustItemEquippedState::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgAdjustItemEquippedState::GetCachedSize() const
-    [12] CMsgAdjustItemEquippedState::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgAdjustItemEquippedState::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgAdjustItemEquippedState::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgAdjustItemEquippedState::GetMetadata() const
+    CMsgAdjustItemEquippedState::~CMsgAdjustItemEquippedState()
+    google::protobuf::Message::GetTypeName() const
+    CMsgAdjustItemEquippedState::New() const
+    CMsgAdjustItemEquippedState::Clear()
+    CMsgAdjustItemEquippedState::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgAdjustItemEquippedState::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgAdjustItemEquippedState::ByteSize() const
+    CMsgAdjustItemEquippedState::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgAdjustItemEquippedState::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgAdjustItemEquippedState::GetCachedSize() const
+    CMsgAdjustItemEquippedState::CopyFrom(google::protobuf::Message const&)
+    CMsgAdjustItemEquippedState::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgAdjustItemEquippedState::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgAdjustItemEquippedState::GetMetadata() const

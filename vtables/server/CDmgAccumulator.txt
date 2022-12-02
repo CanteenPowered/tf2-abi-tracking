@@ -1,3 +1,3 @@
 VTable for CDmgAccumulator:
-    [0] CDmgAccumulator::AccumulateMultiDamage(CTakeDamageInfo const&, CBaseEntity*)
-    [1] CDmgAccumulator::Process()
+    CDmgAccumulator::AccumulateMultiDamage(CTakeDamageInfo const&, CBaseEntity*)
+    CDmgAccumulator::Process()

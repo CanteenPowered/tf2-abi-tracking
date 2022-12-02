@@ -1,60 +1,60 @@
 VTable for CMsgGCChangeMatchPlayerTeamsResponse:
-    [0] CMsgGCChangeMatchPlayerTeamsResponse::~CMsgGCChangeMatchPlayerTeamsResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCChangeMatchPlayerTeamsResponse::New() const
-    [3] CMsgGCChangeMatchPlayerTeamsResponse::Clear()
-    [4] CMsgGCChangeMatchPlayerTeamsResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCChangeMatchPlayerTeamsResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCChangeMatchPlayerTeamsResponse::ByteSize() const
-    [9] CMsgGCChangeMatchPlayerTeamsResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCChangeMatchPlayerTeamsResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCChangeMatchPlayerTeamsResponse::GetCachedSize() const
-    [12] CMsgGCChangeMatchPlayerTeamsResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCChangeMatchPlayerTeamsResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCChangeMatchPlayerTeamsResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCChangeMatchPlayerTeamsResponse::GetMetadata() const
+    CMsgGCChangeMatchPlayerTeamsResponse::~CMsgGCChangeMatchPlayerTeamsResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCChangeMatchPlayerTeamsResponse::New() const
+    CMsgGCChangeMatchPlayerTeamsResponse::Clear()
+    CMsgGCChangeMatchPlayerTeamsResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCChangeMatchPlayerTeamsResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCChangeMatchPlayerTeamsResponse::ByteSize() const
+    CMsgGCChangeMatchPlayerTeamsResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCChangeMatchPlayerTeamsResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCChangeMatchPlayerTeamsResponse::GetCachedSize() const
+    CMsgGCChangeMatchPlayerTeamsResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgGCChangeMatchPlayerTeamsResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCChangeMatchPlayerTeamsResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCChangeMatchPlayerTeamsResponse::GetMetadata() const
 VTable for CMsgGCChangeMatchPlayerTeamsRequest_Member:
-    [0] CMsgGCChangeMatchPlayerTeamsRequest_Member::~CMsgGCChangeMatchPlayerTeamsRequest_Member()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCChangeMatchPlayerTeamsRequest_Member::New() const
-    [3] CMsgGCChangeMatchPlayerTeamsRequest_Member::Clear()
-    [4] CMsgGCChangeMatchPlayerTeamsRequest_Member::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCChangeMatchPlayerTeamsRequest_Member::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCChangeMatchPlayerTeamsRequest_Member::ByteSize() const
-    [9] CMsgGCChangeMatchPlayerTeamsRequest_Member::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCChangeMatchPlayerTeamsRequest_Member::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCChangeMatchPlayerTeamsRequest_Member::GetCachedSize() const
-    [12] CMsgGCChangeMatchPlayerTeamsRequest_Member::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCChangeMatchPlayerTeamsRequest_Member::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCChangeMatchPlayerTeamsRequest_Member::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCChangeMatchPlayerTeamsRequest_Member::GetMetadata() const
+    CMsgGCChangeMatchPlayerTeamsRequest_Member::~CMsgGCChangeMatchPlayerTeamsRequest_Member()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCChangeMatchPlayerTeamsRequest_Member::New() const
+    CMsgGCChangeMatchPlayerTeamsRequest_Member::Clear()
+    CMsgGCChangeMatchPlayerTeamsRequest_Member::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCChangeMatchPlayerTeamsRequest_Member::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCChangeMatchPlayerTeamsRequest_Member::ByteSize() const
+    CMsgGCChangeMatchPlayerTeamsRequest_Member::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCChangeMatchPlayerTeamsRequest_Member::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCChangeMatchPlayerTeamsRequest_Member::GetCachedSize() const
+    CMsgGCChangeMatchPlayerTeamsRequest_Member::CopyFrom(google::protobuf::Message const&)
+    CMsgGCChangeMatchPlayerTeamsRequest_Member::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCChangeMatchPlayerTeamsRequest_Member::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCChangeMatchPlayerTeamsRequest_Member::GetMetadata() const
 VTable for CMsgGCChangeMatchPlayerTeamsRequest:
-    [0] CMsgGCChangeMatchPlayerTeamsRequest::~CMsgGCChangeMatchPlayerTeamsRequest()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCChangeMatchPlayerTeamsRequest::New() const
-    [3] CMsgGCChangeMatchPlayerTeamsRequest::Clear()
-    [4] CMsgGCChangeMatchPlayerTeamsRequest::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCChangeMatchPlayerTeamsRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCChangeMatchPlayerTeamsRequest::ByteSize() const
-    [9] CMsgGCChangeMatchPlayerTeamsRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCChangeMatchPlayerTeamsRequest::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCChangeMatchPlayerTeamsRequest::GetCachedSize() const
-    [12] CMsgGCChangeMatchPlayerTeamsRequest::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCChangeMatchPlayerTeamsRequest::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCChangeMatchPlayerTeamsRequest::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCChangeMatchPlayerTeamsRequest::GetMetadata() const
+    CMsgGCChangeMatchPlayerTeamsRequest::~CMsgGCChangeMatchPlayerTeamsRequest()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCChangeMatchPlayerTeamsRequest::New() const
+    CMsgGCChangeMatchPlayerTeamsRequest::Clear()
+    CMsgGCChangeMatchPlayerTeamsRequest::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCChangeMatchPlayerTeamsRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCChangeMatchPlayerTeamsRequest::ByteSize() const
+    CMsgGCChangeMatchPlayerTeamsRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCChangeMatchPlayerTeamsRequest::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCChangeMatchPlayerTeamsRequest::GetCachedSize() const
+    CMsgGCChangeMatchPlayerTeamsRequest::CopyFrom(google::protobuf::Message const&)
+    CMsgGCChangeMatchPlayerTeamsRequest::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCChangeMatchPlayerTeamsRequest::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCChangeMatchPlayerTeamsRequest::GetMetadata() const

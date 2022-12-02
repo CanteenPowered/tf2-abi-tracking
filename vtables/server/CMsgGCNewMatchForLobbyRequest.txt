@@ -1,20 +1,20 @@
 VTable for CMsgGCNewMatchForLobbyRequest:
-    [0] CMsgGCNewMatchForLobbyRequest::~CMsgGCNewMatchForLobbyRequest()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCNewMatchForLobbyRequest::New() const
-    [3] CMsgGCNewMatchForLobbyRequest::Clear()
-    [4] CMsgGCNewMatchForLobbyRequest::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCNewMatchForLobbyRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCNewMatchForLobbyRequest::ByteSize() const
-    [9] CMsgGCNewMatchForLobbyRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCNewMatchForLobbyRequest::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCNewMatchForLobbyRequest::GetCachedSize() const
-    [12] CMsgGCNewMatchForLobbyRequest::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCNewMatchForLobbyRequest::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCNewMatchForLobbyRequest::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCNewMatchForLobbyRequest::GetMetadata() const
+    CMsgGCNewMatchForLobbyRequest::~CMsgGCNewMatchForLobbyRequest()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCNewMatchForLobbyRequest::New() const
+    CMsgGCNewMatchForLobbyRequest::Clear()
+    CMsgGCNewMatchForLobbyRequest::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCNewMatchForLobbyRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCNewMatchForLobbyRequest::ByteSize() const
+    CMsgGCNewMatchForLobbyRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCNewMatchForLobbyRequest::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCNewMatchForLobbyRequest::GetCachedSize() const
+    CMsgGCNewMatchForLobbyRequest::CopyFrom(google::protobuf::Message const&)
+    CMsgGCNewMatchForLobbyRequest::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCNewMatchForLobbyRequest::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCNewMatchForLobbyRequest::GetMetadata() const

@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFBotRoster>:
-    [0] CEntityFactory<CTFBotRoster>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFBotRoster>::GetEntitySize()
+    CEntityFactory<CTFBotRoster>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFBotRoster>::GetEntitySize()

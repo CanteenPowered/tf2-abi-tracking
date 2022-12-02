@@ -1,6 +1,6 @@
 VTable for CEconItemView::NetworkVar_m_NetworkedDynamicAttributesForDemos:
-    [0] CEconItemView::NetworkVar_m_NetworkedDynamicAttributesForDemos::NetworkStateChanged(void*)
-    [1] CAttributeList::GetDataDescMap()
+    CEconItemView::NetworkVar_m_NetworkedDynamicAttributesForDemos::NetworkStateChanged(void*)
+    CAttributeList::GetDataDescMap()
 VTable for CEconItemView::NetworkVar_m_AttributeList:
-    [0] CEconItemView::NetworkVar_m_AttributeList::NetworkStateChanged(void*)
-    [1] CAttributeList::GetDataDescMap()
+    CEconItemView::NetworkVar_m_AttributeList::NetworkStateChanged(void*)
+    CAttributeList::GetDataDescMap()

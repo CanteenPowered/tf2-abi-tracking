@@ -1,20 +1,20 @@
 VTable for CMsgGCCheckFriendship_Response:
-    [0] CMsgGCCheckFriendship_Response::~CMsgGCCheckFriendship_Response()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCCheckFriendship_Response::New() const
-    [3] CMsgGCCheckFriendship_Response::Clear()
-    [4] CMsgGCCheckFriendship_Response::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCCheckFriendship_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCCheckFriendship_Response::ByteSize() const
-    [9] CMsgGCCheckFriendship_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCCheckFriendship_Response::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCCheckFriendship_Response::GetCachedSize() const
-    [12] CMsgGCCheckFriendship_Response::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCCheckFriendship_Response::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCCheckFriendship_Response::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCCheckFriendship_Response::GetMetadata() const
+    CMsgGCCheckFriendship_Response::~CMsgGCCheckFriendship_Response()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCCheckFriendship_Response::New() const
+    CMsgGCCheckFriendship_Response::Clear()
+    CMsgGCCheckFriendship_Response::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCCheckFriendship_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCCheckFriendship_Response::ByteSize() const
+    CMsgGCCheckFriendship_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCCheckFriendship_Response::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCCheckFriendship_Response::GetCachedSize() const
+    CMsgGCCheckFriendship_Response::CopyFrom(google::protobuf::Message const&)
+    CMsgGCCheckFriendship_Response::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCCheckFriendship_Response::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCCheckFriendship_Response::GetMetadata() const

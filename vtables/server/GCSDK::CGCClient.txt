@@ -1,4 +1,4 @@
 VTable for GCSDK::CGCClient:
-    [0] GCSDK::CGCClient::~CGCClient()
-    [1] GCSDK::CGCClient::Test_AddEvent(CTestEvent*)
-    [2] GCSDK::CGCClient::Test_CacheSubscribed(CSteamID const&)
+    GCSDK::CGCClient::~CGCClient()
+    GCSDK::CGCClient::Test_AddEvent(CTestEvent*)
+    GCSDK::CGCClient::Test_CacheSubscribed(CSteamID const&)

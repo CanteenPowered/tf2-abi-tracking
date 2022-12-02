@@ -1,4 +1,4 @@
 VTable for CEngineUniformRandomStream:
-    [0] CEngineUniformRandomStream::RandomFloat(float, float)
-    [1] CEngineUniformRandomStream::RandomInt(int, int)
-    [2] CEngineUniformRandomStream::RandomFloatExp(float, float, float)
+    CEngineUniformRandomStream::RandomFloat(float, float)
+    CEngineUniformRandomStream::RandomInt(int, int)
+    CEngineUniformRandomStream::RandomFloatExp(float, float, float)

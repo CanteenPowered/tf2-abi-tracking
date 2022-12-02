@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CLogicScript>:
+    CEntityFactory<CLogicScript>::Destroy(IServerNetworkable*)
+    CEntityFactory<CLogicScript>::GetEntitySize()

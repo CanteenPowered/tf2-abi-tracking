@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTrainingAnnotation>:
-    [0] CEntityFactory<CTrainingAnnotation>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTrainingAnnotation>::GetEntitySize()
+    CEntityFactory<CTrainingAnnotation>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTrainingAnnotation>::GetEntitySize()

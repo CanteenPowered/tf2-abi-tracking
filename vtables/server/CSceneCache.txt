@@ -1,3 +1,3 @@
 VTable for CSceneCache:
-    [0] CSceneCache::Restore(CUtlBuffer&)
-    [1] CSceneCache::Rebuild(char const*)
+    CSceneCache::Restore(CUtlBuffer&)
+    CSceneCache::Rebuild(char const*)

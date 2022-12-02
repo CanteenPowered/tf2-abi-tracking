@@ -1,7 +1,7 @@
 VTable for CTEMetalSparks:
-    [0] CTEMetalSparks::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEMetalSparks::~CTEMetalSparks()
-    [2] CTEMetalSparks::~CTEMetalSparks()
-    [3] CTEMetalSparks::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTEMetalSparks::YouForgotToImplementOrDeclareServerClass()
+    CTEMetalSparks::~CTEMetalSparks()
+    CTEMetalSparks::~CTEMetalSparks()
+    CTEMetalSparks::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

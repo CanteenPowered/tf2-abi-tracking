@@ -1,7 +1,7 @@
 VTable for CTEEffectDispatch:
-    [0] CTEEffectDispatch::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEEffectDispatch::~CTEEffectDispatch()
-    [2] CTEEffectDispatch::~CTEEffectDispatch()
-    [3] CBaseTempEntity::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTEEffectDispatch::YouForgotToImplementOrDeclareServerClass()
+    CTEEffectDispatch::~CTEEffectDispatch()
+    CTEEffectDispatch::~CTEEffectDispatch()
+    CBaseTempEntity::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

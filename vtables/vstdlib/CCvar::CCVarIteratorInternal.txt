@@ -1,6 +1,6 @@
 VTable for CCvar::CCVarIteratorInternal:
-    [0] CCvar::CCVarIteratorInternal::~CCVarIteratorInternal()
-    [1] CCvar::CCVarIteratorInternal::SetFirst()
-    [2] CCvar::CCVarIteratorInternal::Next()
-    [3] CCvar::CCVarIteratorInternal::IsValid()
-    [4] CCvar::CCVarIteratorInternal::Get()
+    CCvar::CCVarIteratorInternal::~CCVarIteratorInternal()
+    CCvar::CCVarIteratorInternal::SetFirst()
+    CCvar::CCVarIteratorInternal::Next()
+    CCvar::CCVarIteratorInternal::IsValid()
+    CCvar::CCVarIteratorInternal::Get()

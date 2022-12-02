@@ -1,2 +1,2 @@
 VTable for ICurrencyPackAutoList:
-    [0] ICurrencyPackAutoList::~ICurrencyPackAutoList()
+    ICurrencyPackAutoList::~ICurrencyPackAutoList()

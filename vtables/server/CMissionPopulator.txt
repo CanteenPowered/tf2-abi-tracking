@@ -1,8 +1,8 @@
 VTable for CMissionPopulator:
-    [0] CMissionPopulator::~CMissionPopulator()
-    [1] CMissionPopulator::Parse(KeyValues*)
-    [2] IPopulator::PostInitialize()
-    [3] CMissionPopulator::Update()
-    [4] CMissionPopulator::UnpauseSpawning()
-    [5] IPopulator::OnPlayerKilled(CTFPlayer*)
-    [6] IPopulator::HasEventChangeAttributes(char const*) const
+    CMissionPopulator::~CMissionPopulator()
+    CMissionPopulator::Parse(KeyValues*)
+    IPopulator::PostInitialize()
+    CMissionPopulator::Update()
+    CMissionPopulator::UnpauseSpawning()
+    IPopulator::OnPlayerKilled(CTFPlayer*)
+    IPopulator::HasEventChangeAttributes(char const*) const

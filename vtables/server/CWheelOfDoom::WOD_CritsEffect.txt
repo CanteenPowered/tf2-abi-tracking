@@ -1,4 +1,4 @@
 VTable for CWheelOfDoom::WOD_CritsEffect:
-    [0] CWheelOfDoom::WOD_CritsEffect::ActivateEffect(CWheelOfDoom::EffectData_t&)
-    [1] CWheelOfDoom::WOD_BaseEffect::UpdateEffect(CWheelOfDoom::EffectData_t&)
-    [2] CWheelOfDoom::WOD_BaseEffect::DeactivateEffect(CWheelOfDoom::EffectData_t&)
+    CWheelOfDoom::WOD_CritsEffect::ActivateEffect(CWheelOfDoom::EffectData_t&)
+    CWheelOfDoom::WOD_BaseEffect::UpdateEffect(CWheelOfDoom::EffectData_t&)
+    CWheelOfDoom::WOD_BaseEffect::DeactivateEffect(CWheelOfDoom::EffectData_t&)

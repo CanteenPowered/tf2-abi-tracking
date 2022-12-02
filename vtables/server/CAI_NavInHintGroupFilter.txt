@@ -1,2 +1,2 @@
 VTable for CAI_NavInHintGroupFilter:
-    [0] CAI_NavInHintGroupFilter::ShouldContinue()
+    CAI_NavInHintGroupFilter::ShouldContinue()

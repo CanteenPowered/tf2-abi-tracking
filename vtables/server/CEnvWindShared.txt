@@ -1,2 +1,2 @@
 VTable for CEnvWindShared:
-    [0] CEnvWindShared::NetworkStateChanged(void*)
+    CEnvWindShared::NetworkStateChanged(void*)

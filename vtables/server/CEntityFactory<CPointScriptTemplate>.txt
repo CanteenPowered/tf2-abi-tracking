@@ -1,0 +1,3 @@
+VTable for CEntityFactory<CPointScriptTemplate>:
+    CEntityFactory<CPointScriptTemplate>::Destroy(IServerNetworkable*)
+    CEntityFactory<CPointScriptTemplate>::GetEntitySize()

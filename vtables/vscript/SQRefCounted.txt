@@ -1,0 +1,3 @@
+VTable for SQRefCounted:
+    SQRefCounted::~SQRefCounted()
+    SQRefCounted::Iterate(CSQStateIterator*)

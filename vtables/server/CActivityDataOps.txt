@@ -1,5 +1,5 @@
 VTable for CActivityDataOps:
-    [0] CActivityDataOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
-    [1] CActivityDataOps::IsEmpty(SaveRestoreFieldInfo_t const&)
-    [2] CActivityDataOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
-    [3] CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)
+    CActivityDataOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)
+    CActivityDataOps::IsEmpty(SaveRestoreFieldInfo_t const&)
+    CActivityDataOps::MakeEmpty(SaveRestoreFieldInfo_t const&)
+    CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)

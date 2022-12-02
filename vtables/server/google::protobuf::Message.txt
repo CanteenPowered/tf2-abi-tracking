@@ -1,1 +1,3 @@
 VTable for google::protobuf::Message:
+    google::protobuf::Message::~Message()
+    google::protobuf::Message::GetTypeName() const

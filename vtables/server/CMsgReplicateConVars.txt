@@ -1,20 +1,20 @@
 VTable for CMsgReplicateConVars:
-    [0] CMsgReplicateConVars::~CMsgReplicateConVars()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgReplicateConVars::New() const
-    [3] CMsgReplicateConVars::Clear()
-    [4] CMsgReplicateConVars::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgReplicateConVars::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgReplicateConVars::ByteSize() const
-    [9] CMsgReplicateConVars::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgReplicateConVars::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgReplicateConVars::GetCachedSize() const
-    [12] CMsgReplicateConVars::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgReplicateConVars::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgReplicateConVars::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgReplicateConVars::GetMetadata() const
+    CMsgReplicateConVars::~CMsgReplicateConVars()
+    google::protobuf::Message::GetTypeName() const
+    CMsgReplicateConVars::New() const
+    CMsgReplicateConVars::Clear()
+    CMsgReplicateConVars::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgReplicateConVars::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgReplicateConVars::ByteSize() const
+    CMsgReplicateConVars::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgReplicateConVars::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgReplicateConVars::GetCachedSize() const
+    CMsgReplicateConVars::CopyFrom(google::protobuf::Message const&)
+    CMsgReplicateConVars::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgReplicateConVars::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgReplicateConVars::GetMetadata() const

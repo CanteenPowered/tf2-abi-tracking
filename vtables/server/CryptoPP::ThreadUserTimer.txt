@@ -1,27 +1,2 @@
 VTable for CryptoPP::ThreadUserTimer:
-    [0] CryptoPP::CustomFlushPropagation<CryptoPP::Filter>::IsolatedFlush(bool, bool)
-    [1] CryptoPP::BufferedTransformation::IsolatedMessageSeriesEnd(bool)
-    [2] CryptoPP::Filter::Initialize(CryptoPP::NameValuePairs const&, int)
-    [3] CryptoPP::Multichannel<CryptoPP::Filter>::Flush(bool, int, bool)
-    [4] CryptoPP::Multichannel<CryptoPP::Filter>::MessageSeriesEnd(int, bool)
-    [5] CryptoPP::BufferedTransformation::SetAutoSignalPropagation(int)
-    [6] CryptoPP::BufferedTransformation::GetAutoSignalPropagation() const
-    [7] CryptoPP::BufferedTransformation::MaxRetrievable() const
-    [8] CryptoPP::BufferedTransformation::AnyRetrievable() const
-    [9] CryptoPP::BufferedTransformation::Get(unsigned char&)
-    [10] CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
-    [11] CryptoPP::BufferedTransformation::Peek(unsigned char&) const
-    [12] CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
-    [13] CryptoPP::BufferedTransformation::Skip(unsigned long long)
-    [14] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
-    [15] CryptoPP::BufferedTransformation::NumberOfMessages() const
-    [16] CryptoPP::BufferedTransformation::AnyMessages() const
-    [17] CryptoPP::BufferedTransformation::GetNextMessage()
-    [18] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
-    [19] CryptoPP::BufferedTransformation::SkipAll()
-    [20] CryptoPP::BufferedTransformation::GetNextMessageSeries()
-    [21] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
-    [22] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
-    [23] CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
-    [24] CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
-    [25] CryptoPP::Multichannel<CryptoPP::Filter>::ChannelCreatePutSpace(std::string const&, unsigned int&)
+    CryptoPP::ThreadUserTimer::TicksPerSecond()

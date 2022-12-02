@@ -1,20 +1,20 @@
 VTable for CMsgAMGetLicenses:
-    [0] CMsgAMGetLicenses::~CMsgAMGetLicenses()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgAMGetLicenses::New() const
-    [3] CMsgAMGetLicenses::Clear()
-    [4] CMsgAMGetLicenses::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgAMGetLicenses::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgAMGetLicenses::ByteSize() const
-    [9] CMsgAMGetLicenses::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgAMGetLicenses::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgAMGetLicenses::GetCachedSize() const
-    [12] CMsgAMGetLicenses::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgAMGetLicenses::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgAMGetLicenses::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgAMGetLicenses::GetMetadata() const
+    CMsgAMGetLicenses::~CMsgAMGetLicenses()
+    google::protobuf::Message::GetTypeName() const
+    CMsgAMGetLicenses::New() const
+    CMsgAMGetLicenses::Clear()
+    CMsgAMGetLicenses::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgAMGetLicenses::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgAMGetLicenses::ByteSize() const
+    CMsgAMGetLicenses::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgAMGetLicenses::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgAMGetLicenses::GetCachedSize() const
+    CMsgAMGetLicenses::CopyFrom(google::protobuf::Message const&)
+    CMsgAMGetLicenses::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgAMGetLicenses::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgAMGetLicenses::GetMetadata() const

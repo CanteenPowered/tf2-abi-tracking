@@ -1,6 +1,6 @@
 VTable for CEntityFactory<CWeaponIFMBaseCamera>:
-    [0] CEntityFactory<CWeaponIFMBaseCamera>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CWeaponIFMBaseCamera>::GetEntitySize()
+    CEntityFactory<CWeaponIFMBaseCamera>::Destroy(IServerNetworkable*)
+    CEntityFactory<CWeaponIFMBaseCamera>::GetEntitySize()
 VTable for CEntityFactory<CWeaponIFMBase>:
-    [0] CEntityFactory<CWeaponIFMBase>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CWeaponIFMBase>::GetEntitySize()
+    CEntityFactory<CWeaponIFMBase>::Destroy(IServerNetworkable*)
+    CEntityFactory<CWeaponIFMBase>::GetEntitySize()

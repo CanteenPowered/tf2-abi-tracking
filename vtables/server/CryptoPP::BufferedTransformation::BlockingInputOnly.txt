@@ -1,8 +1,15 @@
 VTable for CryptoPP::BufferedTransformation::InvalidChannelName:
-    [0] non-virtual thunk to CryptoPP::BufferedTransformation::GetMaxWaitObjectCount() const
-    [1] non-virtual thunk to CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
+    CryptoPP::BufferedTransformation::InvalidChannelName::~InvalidChannelName()
+    CryptoPP::Exception::what() const
 VTable for CryptoPP::BufferedTransformation:
+    CryptoPP::BufferedTransformation::~BufferedTransformation()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    CryptoPP::BufferedTransformation::CanModifyInput() const
 VTable for CryptoPP::BufferedTransformation::NoChannelSupport:
+    CryptoPP::BufferedTransformation::NoChannelSupport::~NoChannelSupport()
+    CryptoPP::Exception::what() const
 VTable for CryptoPP::BufferedTransformation::BlockingInputOnly:
-    [0] CryptoPP::FilterWithBufferedInput::FlushDerived()
-    [1] CryptoPP::FilterWithBufferedInput::NextPut(unsigned char const*, unsigned int)
+    CryptoPP::BufferedTransformation::BlockingInputOnly::~BlockingInputOnly()
+    CryptoPP::Exception::what() const

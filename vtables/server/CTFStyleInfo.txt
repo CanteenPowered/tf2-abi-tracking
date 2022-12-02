@@ -1,4 +1,4 @@
 VTable for CTFStyleInfo:
-    [0] CTFStyleInfo::~CTFStyleInfo()
-    [1] CTFStyleInfo::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [2] CTFStyleInfo::GeneratePrecacheModelStringsForStyle(CUtlVector<char const*, CUtlMemory<char const*, int>>*) const
+    CTFStyleInfo::~CTFStyleInfo()
+    CTFStyleInfo::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTFStyleInfo::GeneratePrecacheModelStringsForStyle(CUtlVector<char const*, CUtlMemory<char const*, int>>*) const

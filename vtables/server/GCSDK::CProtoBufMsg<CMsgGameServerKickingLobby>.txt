@@ -1,9 +1,9 @@
 VTable for GCSDK::CProtoBufMsg<CMsgGameServerKickingLobby>:
-    [0] GCSDK::CProtoBufMsg<CMsgGameServerKickingLobby>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGameServerKickingLobby>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGameServerKickingLobby>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGameServerKickingLobby>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgGameServerMatchmakingStatus>:
-    [0] GCSDK::CProtoBufMsg<CMsgGameServerMatchmakingStatus>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGameServerMatchmakingStatus>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGameServerMatchmakingStatus>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGameServerMatchmakingStatus>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgGameServerKickingLobbyResponse>:
-    [0] GCSDK::CProtoBufMsg<CMsgGameServerKickingLobbyResponse>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGameServerKickingLobbyResponse>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGameServerKickingLobbyResponse>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGameServerKickingLobbyResponse>::GetGenericBody() const

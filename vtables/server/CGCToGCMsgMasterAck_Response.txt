@@ -1,20 +1,20 @@
 VTable for CGCToGCMsgMasterAck_Response:
-    [0] CGCToGCMsgMasterAck_Response::~CGCToGCMsgMasterAck_Response()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CGCToGCMsgMasterAck_Response::New() const
-    [3] CGCToGCMsgMasterAck_Response::Clear()
-    [4] CGCToGCMsgMasterAck_Response::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CGCToGCMsgMasterAck_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CGCToGCMsgMasterAck_Response::ByteSize() const
-    [9] CGCToGCMsgMasterAck_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CGCToGCMsgMasterAck_Response::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CGCToGCMsgMasterAck_Response::GetCachedSize() const
-    [12] CGCToGCMsgMasterAck_Response::CopyFrom(google::protobuf::Message const&)
-    [13] CGCToGCMsgMasterAck_Response::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CGCToGCMsgMasterAck_Response::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CGCToGCMsgMasterAck_Response::GetMetadata() const
+    CGCToGCMsgMasterAck_Response::~CGCToGCMsgMasterAck_Response()
+    google::protobuf::Message::GetTypeName() const
+    CGCToGCMsgMasterAck_Response::New() const
+    CGCToGCMsgMasterAck_Response::Clear()
+    CGCToGCMsgMasterAck_Response::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CGCToGCMsgMasterAck_Response::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CGCToGCMsgMasterAck_Response::ByteSize() const
+    CGCToGCMsgMasterAck_Response::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CGCToGCMsgMasterAck_Response::SerializeWithCachedSizesToArray(unsigned char*) const
+    CGCToGCMsgMasterAck_Response::GetCachedSize() const
+    CGCToGCMsgMasterAck_Response::CopyFrom(google::protobuf::Message const&)
+    CGCToGCMsgMasterAck_Response::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CGCToGCMsgMasterAck_Response::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CGCToGCMsgMasterAck_Response::GetMetadata() const

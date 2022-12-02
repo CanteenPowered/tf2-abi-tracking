@@ -1,40 +1,40 @@
 VTable for CMsgRequestItemPurgatory_RefundPurchaseResponse:
-    [0] CMsgRequestItemPurgatory_RefundPurchaseResponse::~CMsgRequestItemPurgatory_RefundPurchaseResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgRequestItemPurgatory_RefundPurchaseResponse::New() const
-    [3] CMsgRequestItemPurgatory_RefundPurchaseResponse::Clear()
-    [4] CMsgRequestItemPurgatory_RefundPurchaseResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgRequestItemPurgatory_RefundPurchaseResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgRequestItemPurgatory_RefundPurchaseResponse::ByteSize() const
-    [9] CMsgRequestItemPurgatory_RefundPurchaseResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgRequestItemPurgatory_RefundPurchaseResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgRequestItemPurgatory_RefundPurchaseResponse::GetCachedSize() const
-    [12] CMsgRequestItemPurgatory_RefundPurchaseResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgRequestItemPurgatory_RefundPurchaseResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgRequestItemPurgatory_RefundPurchaseResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgRequestItemPurgatory_RefundPurchaseResponse::GetMetadata() const
+    CMsgRequestItemPurgatory_RefundPurchaseResponse::~CMsgRequestItemPurgatory_RefundPurchaseResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgRequestItemPurgatory_RefundPurchaseResponse::New() const
+    CMsgRequestItemPurgatory_RefundPurchaseResponse::Clear()
+    CMsgRequestItemPurgatory_RefundPurchaseResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgRequestItemPurgatory_RefundPurchaseResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgRequestItemPurgatory_RefundPurchaseResponse::ByteSize() const
+    CMsgRequestItemPurgatory_RefundPurchaseResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgRequestItemPurgatory_RefundPurchaseResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgRequestItemPurgatory_RefundPurchaseResponse::GetCachedSize() const
+    CMsgRequestItemPurgatory_RefundPurchaseResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgRequestItemPurgatory_RefundPurchaseResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgRequestItemPurgatory_RefundPurchaseResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgRequestItemPurgatory_RefundPurchaseResponse::GetMetadata() const
 VTable for CMsgRequestItemPurgatory_RefundPurchase:
-    [0] CMsgRequestItemPurgatory_RefundPurchase::~CMsgRequestItemPurgatory_RefundPurchase()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgRequestItemPurgatory_RefundPurchase::New() const
-    [3] CMsgRequestItemPurgatory_RefundPurchase::Clear()
-    [4] CMsgRequestItemPurgatory_RefundPurchase::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgRequestItemPurgatory_RefundPurchase::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgRequestItemPurgatory_RefundPurchase::ByteSize() const
-    [9] CMsgRequestItemPurgatory_RefundPurchase::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgRequestItemPurgatory_RefundPurchase::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgRequestItemPurgatory_RefundPurchase::GetCachedSize() const
-    [12] CMsgRequestItemPurgatory_RefundPurchase::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgRequestItemPurgatory_RefundPurchase::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgRequestItemPurgatory_RefundPurchase::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgRequestItemPurgatory_RefundPurchase::GetMetadata() const
+    CMsgRequestItemPurgatory_RefundPurchase::~CMsgRequestItemPurgatory_RefundPurchase()
+    google::protobuf::Message::GetTypeName() const
+    CMsgRequestItemPurgatory_RefundPurchase::New() const
+    CMsgRequestItemPurgatory_RefundPurchase::Clear()
+    CMsgRequestItemPurgatory_RefundPurchase::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgRequestItemPurgatory_RefundPurchase::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgRequestItemPurgatory_RefundPurchase::ByteSize() const
+    CMsgRequestItemPurgatory_RefundPurchase::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgRequestItemPurgatory_RefundPurchase::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgRequestItemPurgatory_RefundPurchase::GetCachedSize() const
+    CMsgRequestItemPurgatory_RefundPurchase::CopyFrom(google::protobuf::Message const&)
+    CMsgRequestItemPurgatory_RefundPurchase::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgRequestItemPurgatory_RefundPurchase::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgRequestItemPurgatory_RefundPurchase::GetMetadata() const

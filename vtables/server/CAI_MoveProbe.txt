@@ -1,5 +1,5 @@
 VTable for CAI_MoveProbe:
-    [0] CAI_MoveProbe::~CAI_MoveProbe()
-    [1] CAI_Component::SetOuter(CAI_BaseNPC*)
-    [2] CAI_Component::TaskFail(int)
-    [3] CAI_Component::TaskComplete(bool)
+    CAI_MoveProbe::~CAI_MoveProbe()
+    CAI_Component::SetOuter(CAI_BaseNPC*)
+    CAI_Component::TaskFail(int)
+    CAI_Component::TaskComplete(bool)

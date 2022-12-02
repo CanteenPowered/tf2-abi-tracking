@@ -1,5 +1,26 @@
 VTable for CryptoPP::CBC_CTS_Encryption:
-    [0] non-virtual thunk to CryptoPP::ByteQueue::Walker::~Walker()
-    [1] non-virtual thunk to CryptoPP::ByteQueue::Walker::~Walker()
-    [2] non-virtual thunk to CryptoPP::BufferedTransformation::GetMaxWaitObjectCount() const
-    [3] non-virtual thunk to CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
+    CryptoPP::CBC_CTS_Encryption::~CBC_CTS_Encryption()
+    CryptoPP::CipherModeBase::MinKeyLength() const
+    CryptoPP::CipherModeBase::MaxKeyLength() const
+    CryptoPP::CipherModeBase::DefaultKeyLength() const
+    CryptoPP::CipherModeBase::GetValidKeyLength(unsigned int) const
+    CryptoPP::CipherModeBase::IsValidKeyLength(unsigned int) const
+    CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    CryptoPP::CBC_ModeBase::IVRequirement() const
+    CryptoPP::CipherModeBase::IVSize() const
+    CryptoPP::SimpleKeyingInterface::MinIVLength() const
+    CryptoPP::SimpleKeyingInterface::MaxIVLength() const
+    CryptoPP::BlockOrientedCipherModeBase::Resynchronize(unsigned char const*, int)
+    CryptoPP::SimpleKeyingInterface::GetNextIV(CryptoPP::RandomNumberGenerator&, unsigned char*)
+    CryptoPP::SymmetricCipher::GetAlgorithm() const
+    CryptoPP::CBC_CTS_Encryption::UncheckedSetKey(unsigned char const*, unsigned int, CryptoPP::NameValuePairs const&)
+    CryptoPP::CipherModeBase::OptimalDataAlignment() const
+    CryptoPP::CipherModeBase::SetFeedbackSize(unsigned int)
+    CryptoPP::BlockOrientedCipherModeBase::ResizeBuffers()
+    CryptoPP::BlockOrientedCipherModeBase::MandatoryBlockSize() const
+    CryptoPP::BlockOrientedCipherModeBase::IsRandomAccess() const
+    CryptoPP::BlockOrientedCipherModeBase::IsSelfInverting() const
+    CryptoPP::BlockOrientedCipherModeBase::IsForwardTransformation() const
+    CryptoPP::CBC_CTS_Encryption::MinLastBlockSize() const
+    CryptoPP::CBC_Encryption::ProcessData(unsigned char*, unsigned char const*, unsigned int)
+    CryptoPP::CBC_CTS_Encryption::ProcessLastBlock(unsigned char*, unsigned char const*, unsigned int)

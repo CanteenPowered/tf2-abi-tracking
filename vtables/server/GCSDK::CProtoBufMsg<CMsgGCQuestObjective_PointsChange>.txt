@@ -1,3 +1,3 @@
 VTable for GCSDK::CProtoBufMsg<CMsgGCQuestObjective_PointsChange>:
-    [0] GCSDK::CProtoBufMsg<CMsgGCQuestObjective_PointsChange>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGCQuestObjective_PointsChange>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGCQuestObjective_PointsChange>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGCQuestObjective_PointsChange>::GetGenericBody() const

@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CHandleDummy>:
-    [0] CEntityFactory<CHandleDummy>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CHandleDummy>::GetEntitySize()
+    CEntityFactory<CHandleDummy>::Destroy(IServerNetworkable*)
+    CEntityFactory<CHandleDummy>::GetEntitySize()

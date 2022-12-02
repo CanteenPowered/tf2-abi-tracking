@@ -1,2 +1,2 @@
 VTable for GCSDK::CGCMsg<MsgGCVerifyCacheSubscription_t>:
-    [0] GCSDK::CGCMsg<MsgGCVerifyCacheSubscription_t>::~CGCMsg()
+    GCSDK::CGCMsg<MsgGCVerifyCacheSubscription_t>::~CGCMsg()

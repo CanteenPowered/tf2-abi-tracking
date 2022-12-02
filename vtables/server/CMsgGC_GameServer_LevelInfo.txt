@@ -1,20 +1,20 @@
 VTable for CMsgGC_GameServer_LevelInfo:
-    [0] CMsgGC_GameServer_LevelInfo::~CMsgGC_GameServer_LevelInfo()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGC_GameServer_LevelInfo::New() const
-    [3] CMsgGC_GameServer_LevelInfo::Clear()
-    [4] CMsgGC_GameServer_LevelInfo::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGC_GameServer_LevelInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGC_GameServer_LevelInfo::ByteSize() const
-    [9] CMsgGC_GameServer_LevelInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGC_GameServer_LevelInfo::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGC_GameServer_LevelInfo::GetCachedSize() const
-    [12] CMsgGC_GameServer_LevelInfo::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGC_GameServer_LevelInfo::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGC_GameServer_LevelInfo::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGC_GameServer_LevelInfo::GetMetadata() const
+    CMsgGC_GameServer_LevelInfo::~CMsgGC_GameServer_LevelInfo()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGC_GameServer_LevelInfo::New() const
+    CMsgGC_GameServer_LevelInfo::Clear()
+    CMsgGC_GameServer_LevelInfo::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGC_GameServer_LevelInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGC_GameServer_LevelInfo::ByteSize() const
+    CMsgGC_GameServer_LevelInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGC_GameServer_LevelInfo::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGC_GameServer_LevelInfo::GetCachedSize() const
+    CMsgGC_GameServer_LevelInfo::CopyFrom(google::protobuf::Message const&)
+    CMsgGC_GameServer_LevelInfo::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGC_GameServer_LevelInfo::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGC_GameServer_LevelInfo::GetMetadata() const

@@ -1,12 +1,12 @@
 VTable for CEntityFactory<CTFRobotDestruction_RobotGroup>:
-    [0] CEntityFactory<CTFRobotDestruction_RobotGroup>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFRobotDestruction_RobotGroup>::GetEntitySize()
+    CEntityFactory<CTFRobotDestruction_RobotGroup>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFRobotDestruction_RobotGroup>::GetEntitySize()
 VTable for CEntityFactory<CTFRobotDestruction_Robot>:
-    [0] CEntityFactory<CTFRobotDestruction_Robot>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFRobotDestruction_Robot>::GetEntitySize()
+    CEntityFactory<CTFRobotDestruction_Robot>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFRobotDestruction_Robot>::GetEntitySize()
 VTable for CEntityFactory<CTFRobotDestructionLogic>:
-    [0] CEntityFactory<CTFRobotDestructionLogic>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFRobotDestructionLogic>::GetEntitySize()
+    CEntityFactory<CTFRobotDestructionLogic>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFRobotDestructionLogic>::GetEntitySize()
 VTable for CEntityFactory<CTFRobotDestruction_RobotSpawn>:
-    [0] CEntityFactory<CTFRobotDestruction_RobotSpawn>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFRobotDestruction_RobotSpawn>::GetEntitySize()
+    CEntityFactory<CTFRobotDestruction_RobotSpawn>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFRobotDestruction_RobotSpawn>::GetEntitySize()

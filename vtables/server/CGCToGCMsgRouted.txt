@@ -1,20 +1,20 @@
 VTable for CGCToGCMsgRouted:
-    [0] CGCToGCMsgRouted::~CGCToGCMsgRouted()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CGCToGCMsgRouted::New() const
-    [3] CGCToGCMsgRouted::Clear()
-    [4] CGCToGCMsgRouted::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CGCToGCMsgRouted::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CGCToGCMsgRouted::ByteSize() const
-    [9] CGCToGCMsgRouted::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CGCToGCMsgRouted::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CGCToGCMsgRouted::GetCachedSize() const
-    [12] CGCToGCMsgRouted::CopyFrom(google::protobuf::Message const&)
-    [13] CGCToGCMsgRouted::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CGCToGCMsgRouted::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CGCToGCMsgRouted::GetMetadata() const
+    CGCToGCMsgRouted::~CGCToGCMsgRouted()
+    google::protobuf::Message::GetTypeName() const
+    CGCToGCMsgRouted::New() const
+    CGCToGCMsgRouted::Clear()
+    CGCToGCMsgRouted::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CGCToGCMsgRouted::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CGCToGCMsgRouted::ByteSize() const
+    CGCToGCMsgRouted::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CGCToGCMsgRouted::SerializeWithCachedSizesToArray(unsigned char*) const
+    CGCToGCMsgRouted::GetCachedSize() const
+    CGCToGCMsgRouted::CopyFrom(google::protobuf::Message const&)
+    CGCToGCMsgRouted::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CGCToGCMsgRouted::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CGCToGCMsgRouted::GetMetadata() const

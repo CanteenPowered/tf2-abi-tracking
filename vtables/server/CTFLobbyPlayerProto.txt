@@ -1,20 +1,20 @@
 VTable for CTFLobbyPlayerProto:
-    [0] CTFLobbyPlayerProto::~CTFLobbyPlayerProto()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CTFLobbyPlayerProto::New() const
-    [3] CTFLobbyPlayerProto::Clear()
-    [4] CTFLobbyPlayerProto::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CTFLobbyPlayerProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CTFLobbyPlayerProto::ByteSize() const
-    [9] CTFLobbyPlayerProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CTFLobbyPlayerProto::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CTFLobbyPlayerProto::GetCachedSize() const
-    [12] CTFLobbyPlayerProto::CopyFrom(google::protobuf::Message const&)
-    [13] CTFLobbyPlayerProto::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CTFLobbyPlayerProto::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CTFLobbyPlayerProto::GetMetadata() const
+    CTFLobbyPlayerProto::~CTFLobbyPlayerProto()
+    google::protobuf::Message::GetTypeName() const
+    CTFLobbyPlayerProto::New() const
+    CTFLobbyPlayerProto::Clear()
+    CTFLobbyPlayerProto::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CTFLobbyPlayerProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CTFLobbyPlayerProto::ByteSize() const
+    CTFLobbyPlayerProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CTFLobbyPlayerProto::SerializeWithCachedSizesToArray(unsigned char*) const
+    CTFLobbyPlayerProto::GetCachedSize() const
+    CTFLobbyPlayerProto::CopyFrom(google::protobuf::Message const&)
+    CTFLobbyPlayerProto::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CTFLobbyPlayerProto::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CTFLobbyPlayerProto::GetMetadata() const

@@ -1,20 +1,20 @@
 VTable for CMsgMatchmakingProgress:
-    [0] CMsgMatchmakingProgress::~CMsgMatchmakingProgress()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgMatchmakingProgress::New() const
-    [3] CMsgMatchmakingProgress::Clear()
-    [4] CMsgMatchmakingProgress::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgMatchmakingProgress::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgMatchmakingProgress::ByteSize() const
-    [9] CMsgMatchmakingProgress::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgMatchmakingProgress::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgMatchmakingProgress::GetCachedSize() const
-    [12] CMsgMatchmakingProgress::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgMatchmakingProgress::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgMatchmakingProgress::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgMatchmakingProgress::GetMetadata() const
+    CMsgMatchmakingProgress::~CMsgMatchmakingProgress()
+    google::protobuf::Message::GetTypeName() const
+    CMsgMatchmakingProgress::New() const
+    CMsgMatchmakingProgress::Clear()
+    CMsgMatchmakingProgress::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgMatchmakingProgress::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgMatchmakingProgress::ByteSize() const
+    CMsgMatchmakingProgress::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgMatchmakingProgress::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgMatchmakingProgress::GetCachedSize() const
+    CMsgMatchmakingProgress::CopyFrom(google::protobuf::Message const&)
+    CMsgMatchmakingProgress::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgMatchmakingProgress::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgMatchmakingProgress::GetMetadata() const

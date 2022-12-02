@@ -1,2 +1,2 @@
 VTable for CSolidSetDefaults:
-    [0] CSolidSetDefaults::SetDefaults(void*)
+    CSolidSetDefaults::SetDefaults(void*)

@@ -1,20 +1,20 @@
 VTable for CMsgMvMMannUpVictoryReply:
-    [0] CMsgMvMMannUpVictoryReply::~CMsgMvMMannUpVictoryReply()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgMvMMannUpVictoryReply::New() const
-    [3] CMsgMvMMannUpVictoryReply::Clear()
-    [4] CMsgMvMMannUpVictoryReply::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgMvMMannUpVictoryReply::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgMvMMannUpVictoryReply::ByteSize() const
-    [9] CMsgMvMMannUpVictoryReply::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgMvMMannUpVictoryReply::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgMvMMannUpVictoryReply::GetCachedSize() const
-    [12] CMsgMvMMannUpVictoryReply::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgMvMMannUpVictoryReply::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgMvMMannUpVictoryReply::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgMvMMannUpVictoryReply::GetMetadata() const
+    CMsgMvMMannUpVictoryReply::~CMsgMvMMannUpVictoryReply()
+    google::protobuf::Message::GetTypeName() const
+    CMsgMvMMannUpVictoryReply::New() const
+    CMsgMvMMannUpVictoryReply::Clear()
+    CMsgMvMMannUpVictoryReply::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgMvMMannUpVictoryReply::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgMvMMannUpVictoryReply::ByteSize() const
+    CMsgMvMMannUpVictoryReply::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgMvMMannUpVictoryReply::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgMvMMannUpVictoryReply::GetCachedSize() const
+    CMsgMvMMannUpVictoryReply::CopyFrom(google::protobuf::Message const&)
+    CMsgMvMMannUpVictoryReply::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgMvMMannUpVictoryReply::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgMvMMannUpVictoryReply::GetMetadata() const

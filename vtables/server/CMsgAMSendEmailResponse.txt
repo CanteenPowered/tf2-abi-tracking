@@ -1,20 +1,20 @@
 VTable for CMsgAMSendEmailResponse:
-    [0] CMsgAMSendEmailResponse::~CMsgAMSendEmailResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgAMSendEmailResponse::New() const
-    [3] CMsgAMSendEmailResponse::Clear()
-    [4] CMsgAMSendEmailResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgAMSendEmailResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgAMSendEmailResponse::ByteSize() const
-    [9] CMsgAMSendEmailResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgAMSendEmailResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgAMSendEmailResponse::GetCachedSize() const
-    [12] CMsgAMSendEmailResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgAMSendEmailResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgAMSendEmailResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgAMSendEmailResponse::GetMetadata() const
+    CMsgAMSendEmailResponse::~CMsgAMSendEmailResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgAMSendEmailResponse::New() const
+    CMsgAMSendEmailResponse::Clear()
+    CMsgAMSendEmailResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgAMSendEmailResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgAMSendEmailResponse::ByteSize() const
+    CMsgAMSendEmailResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgAMSendEmailResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgAMSendEmailResponse::GetCachedSize() const
+    CMsgAMSendEmailResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgAMSendEmailResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgAMSendEmailResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgAMSendEmailResponse::GetMetadata() const

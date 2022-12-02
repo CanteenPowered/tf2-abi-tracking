@@ -1,2 +1,2 @@
 VTable for IServerChoreoTools:
-    [0] IServerChoreoTools::~IServerChoreoTools()
+    IServerChoreoTools::~IServerChoreoTools()

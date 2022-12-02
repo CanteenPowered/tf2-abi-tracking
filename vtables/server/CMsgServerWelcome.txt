@@ -1,20 +1,20 @@
 VTable for CMsgServerWelcome:
-    [0] CMsgServerWelcome::~CMsgServerWelcome()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgServerWelcome::New() const
-    [3] CMsgServerWelcome::Clear()
-    [4] CMsgServerWelcome::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgServerWelcome::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgServerWelcome::ByteSize() const
-    [9] CMsgServerWelcome::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgServerWelcome::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgServerWelcome::GetCachedSize() const
-    [12] CMsgServerWelcome::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgServerWelcome::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgServerWelcome::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgServerWelcome::GetMetadata() const
+    CMsgServerWelcome::~CMsgServerWelcome()
+    google::protobuf::Message::GetTypeName() const
+    CMsgServerWelcome::New() const
+    CMsgServerWelcome::Clear()
+    CMsgServerWelcome::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgServerWelcome::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgServerWelcome::ByteSize() const
+    CMsgServerWelcome::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgServerWelcome::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgServerWelcome::GetCachedSize() const
+    CMsgServerWelcome::CopyFrom(google::protobuf::Message const&)
+    CMsgServerWelcome::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgServerWelcome::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgServerWelcome::GetMetadata() const

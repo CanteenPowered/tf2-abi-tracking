@@ -1,16 +1,16 @@
 VTable for SVC_VoiceInit:
-    [0] SVC_VoiceInit::~SVC_VoiceInit()
-    [1] CNetMessage::SetNetChannel(INetChannel*)
-    [2] CNetMessage::SetReliable(bool)
-    [3] SVC_VoiceInit::Process()
-    [4] SVC_VoiceInit::ReadFromBuffer(bf_read&)
-    [5] SVC_VoiceInit::WriteToBuffer(bf_write&)
-    [6] CNetMessage::IsReliable() const
-    [7] SVC_VoiceInit::GetType() const
-    [8] SVC_VoiceInit::GetGroup() const
-    [9] SVC_VoiceInit::GetName() const
-    [10] CNetMessage::GetNetChannel() const
-    [11] SVC_VoiceInit::ToString() const
-    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
-    [13] SVC_VoiceInit::GetSize() const
-    [14] CNetMessage::SetRatePolicy()
+    SVC_VoiceInit::~SVC_VoiceInit()
+    CNetMessage::SetNetChannel(INetChannel*)
+    CNetMessage::SetReliable(bool)
+    SVC_VoiceInit::Process()
+    SVC_VoiceInit::ReadFromBuffer(bf_read&)
+    SVC_VoiceInit::WriteToBuffer(bf_write&)
+    CNetMessage::IsReliable() const
+    SVC_VoiceInit::GetType() const
+    SVC_VoiceInit::GetGroup() const
+    SVC_VoiceInit::GetName() const
+    CNetMessage::GetNetChannel() const
+    SVC_VoiceInit::ToString() const
+    CNetMessage::BIncomingMessageForProcessing(double, int)
+    SVC_VoiceInit::GetSize() const
+    CNetMessage::SetRatePolicy()

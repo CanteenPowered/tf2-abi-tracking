@@ -1,6 +1,6 @@
 VTable for CEntityFactory<CTFHalloweenMinigame_FallingPlatforms>:
-    [0] CEntityFactory<CTFHalloweenMinigame_FallingPlatforms>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFHalloweenMinigame_FallingPlatforms>::GetEntitySize()
+    CEntityFactory<CTFHalloweenMinigame_FallingPlatforms>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFHalloweenMinigame_FallingPlatforms>::GetEntitySize()
 VTable for CEntityFactory<CTFHalloweenMinigame>:
-    [0] CEntityFactory<CTFHalloweenMinigame>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFHalloweenMinigame>::GetEntitySize()
+    CEntityFactory<CTFHalloweenMinigame>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFHalloweenMinigame>::GetEntitySize()

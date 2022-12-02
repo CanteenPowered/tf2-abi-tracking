@@ -1,0 +1,7 @@
+VTable for SQArray:
+    SQArray::~SQArray()
+    SQArray::Iterate(CSQStateIterator*)
+    SQArray::Release()
+    SQArray::GetType()
+    SQArray::Mark(SQCollectable**)
+    SQArray::Finalize()

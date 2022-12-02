@@ -1,20 +1,20 @@
 VTable for CMsgHttpResponse:
-    [0] CMsgHttpResponse::~CMsgHttpResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgHttpResponse::New() const
-    [3] CMsgHttpResponse::Clear()
-    [4] CMsgHttpResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgHttpResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgHttpResponse::ByteSize() const
-    [9] CMsgHttpResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgHttpResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgHttpResponse::GetCachedSize() const
-    [12] CMsgHttpResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgHttpResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgHttpResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgHttpResponse::GetMetadata() const
+    CMsgHttpResponse::~CMsgHttpResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgHttpResponse::New() const
+    CMsgHttpResponse::Clear()
+    CMsgHttpResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgHttpResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgHttpResponse::ByteSize() const
+    CMsgHttpResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgHttpResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgHttpResponse::GetCachedSize() const
+    CMsgHttpResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgHttpResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgHttpResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgHttpResponse::GetMetadata() const

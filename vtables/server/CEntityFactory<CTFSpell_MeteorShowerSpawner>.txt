@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTFSpell_MeteorShowerSpawner>:
-    [0] CEntityFactory<CTFSpell_MeteorShowerSpawner>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTFSpell_MeteorShowerSpawner>::GetEntitySize()
+    CEntityFactory<CTFSpell_MeteorShowerSpawner>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTFSpell_MeteorShowerSpawner>::GetEntitySize()

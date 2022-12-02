@@ -1,2 +1,2 @@
 VTable for IEngine:
-    [0] IEngine::~IEngine()
+    IEngine::~IEngine()

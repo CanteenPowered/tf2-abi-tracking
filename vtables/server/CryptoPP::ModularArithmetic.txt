@@ -1,39 +1,28 @@
 VTable for CryptoPP::ModularArithmetic:
-    [0] CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
-    [1] CryptoPP::MessageQueue::IsolatedInitialize(CryptoPP::NameValuePairs const&)
-    [2] CryptoPP::MessageQueue::IsolatedFlush(bool, bool)
-    [3] CryptoPP::MessageQueue::IsolatedMessageSeriesEnd(bool)
-    [4] CryptoPP::BufferedTransformation::Initialize(CryptoPP::NameValuePairs const&, int)
-    [5] CryptoPP::BufferedTransformation::Flush(bool, int, bool)
-    [6] CryptoPP::BufferedTransformation::MessageSeriesEnd(int, bool)
-    [7] CryptoPP::AutoSignaling<CryptoPP::BufferedTransformation>::SetAutoSignalPropagation(int)
-    [8] CryptoPP::AutoSignaling<CryptoPP::BufferedTransformation>::GetAutoSignalPropagation() const
-    [9] CryptoPP::MessageQueue::MaxRetrievable() const
-    [10] CryptoPP::MessageQueue::AnyRetrievable() const
-    [11] CryptoPP::BufferedTransformation::Get(unsigned char&)
-    [12] CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
-    [13] CryptoPP::BufferedTransformation::Peek(unsigned char&) const
-    [14] CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
-    [15] CryptoPP::BufferedTransformation::Skip(unsigned long long)
-    [16] CryptoPP::MessageQueue::TotalBytesRetrievable() const
-    [17] CryptoPP::MessageQueue::NumberOfMessages() const
-    [18] CryptoPP::BufferedTransformation::AnyMessages() const
-    [19] CryptoPP::MessageQueue::GetNextMessage()
-    [20] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
-    [21] CryptoPP::BufferedTransformation::SkipAll()
-    [22] CryptoPP::BufferedTransformation::GetNextMessageSeries()
-    [23] CryptoPP::MessageQueue::NumberOfMessagesInThisSeries() const
-    [24] CryptoPP::MessageQueue::NumberOfMessageSeries() const
-    [25] CryptoPP::MessageQueue::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
-    [26] CryptoPP::MessageQueue::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
-    [27] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
-    [28] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
-    [29] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
-    [30] CryptoPP::BufferedTransformation::ChannelFlush(std::string const&, bool, int, bool)
-    [31] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
-    [32] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [33] CryptoPP::BufferedTransformation::Attachable()
-    [34] CryptoPP::BufferedTransformation::AttachedTransformation()
-    [35] CryptoPP::BufferedTransformation::AttachedTransformation() const
-    [36] CryptoPP::BufferedTransformation::Detach(CryptoPP::BufferedTransformation*)
-    [37] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
+    CryptoPP::ModularArithmetic::~ModularArithmetic()
+    CryptoPP::ModularArithmetic::Equal(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::ModularArithmetic::Identity() const
+    CryptoPP::ModularArithmetic::Add(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::ModularArithmetic::Inverse(CryptoPP::Integer const&) const
+    CryptoPP::AbstractGroup<CryptoPP::Integer>::InversionIsFast() const
+    CryptoPP::ModularArithmetic::Double(CryptoPP::Integer const&) const
+    CryptoPP::ModularArithmetic::Subtract(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::ModularArithmetic::Accumulate(CryptoPP::Integer&, CryptoPP::Integer const&) const
+    CryptoPP::ModularArithmetic::Reduce(CryptoPP::Integer&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractGroup<CryptoPP::Integer>::ScalarMultiply(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractGroup<CryptoPP::Integer>::CascadeScalarMultiply(CryptoPP::Integer const&, CryptoPP::Integer const&, CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractGroup<CryptoPP::Integer>::SimultaneousMultiply(CryptoPP::Integer*, CryptoPP::Integer const&, CryptoPP::Integer const*, unsigned int) const
+    CryptoPP::ModularArithmetic::IsUnit(CryptoPP::Integer const&) const
+    CryptoPP::ModularArithmetic::MultiplicativeIdentity() const
+    CryptoPP::ModularArithmetic::Multiply(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::ModularArithmetic::MultiplicativeInverse(CryptoPP::Integer const&) const
+    CryptoPP::ModularArithmetic::Square(CryptoPP::Integer const&) const
+    CryptoPP::ModularArithmetic::Divide(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::Integer>::Exponentiate(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::ModularArithmetic::CascadeExponentiate(CryptoPP::Integer const&, CryptoPP::Integer const&, CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::ModularArithmetic::SimultaneousExponentiate(CryptoPP::Integer*, CryptoPP::Integer const&, CryptoPP::Integer const*, unsigned int) const
+    CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroup() const
+    CryptoPP::ModularArithmetic::Clone() const
+    CryptoPP::ModularArithmetic::IsMontgomeryRepresentation() const
+    CryptoPP::ModularArithmetic::ConvertIn(CryptoPP::Integer const&) const
+    CryptoPP::ModularArithmetic::ConvertOut(CryptoPP::Integer const&) const

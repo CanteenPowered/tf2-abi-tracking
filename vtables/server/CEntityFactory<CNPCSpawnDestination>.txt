@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CNPCSpawnDestination>:
-    [0] CEntityFactory<CNPCSpawnDestination>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CNPCSpawnDestination>::GetEntitySize()
+    CEntityFactory<CNPCSpawnDestination>::Destroy(IServerNetworkable*)
+    CEntityFactory<CNPCSpawnDestination>::GetEntitySize()

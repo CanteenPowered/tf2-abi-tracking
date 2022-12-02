@@ -1,3 +1,12 @@
 VTable for CryptoPP::LC_RNG:
-    [0] CryptoPP::X509PublicKey::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
-    [1] CryptoPP::X509PublicKey::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const
+    CryptoPP::LC_RNG::~LC_RNG()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::RandomNumberGenerator::IncorporateEntropy(unsigned char const*, unsigned int)
+    CryptoPP::RandomNumberGenerator::CanIncorporateEntropy() const
+    CryptoPP::RandomNumberGenerator::GenerateByte()
+    CryptoPP::RandomNumberGenerator::GenerateBit()
+    CryptoPP::RandomNumberGenerator::GenerateWord32(unsigned int, unsigned int)
+    CryptoPP::LC_RNG::GenerateBlock(unsigned char*, unsigned int)
+    CryptoPP::RandomNumberGenerator::GenerateIntoBufferedTransformation(CryptoPP::BufferedTransformation&, std::string const&, unsigned long long)
+    CryptoPP::RandomNumberGenerator::DiscardBytes(unsigned int)

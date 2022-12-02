@@ -1,9 +1,6 @@
 VTable for CryptoPP::PKCS_EncryptionPaddingScheme:
-    [0] CryptoPP::CryptoMaterial::ThrowIfInvalid(CryptoPP::RandomNumberGenerator&, unsigned int) const
-    [1] CryptoPP::CryptoMaterial::Save(CryptoPP::BufferedTransformation&) const
-    [2] CryptoPP::CryptoMaterial::Load(CryptoPP::BufferedTransformation&)
-    [3] CryptoPP::CryptoMaterial::SupportsPrecomputation() const
-    [4] CryptoPP::CryptoMaterial::Precompute(unsigned int)
-    [5] CryptoPP::CryptoMaterial::LoadPrecomputation(CryptoPP::BufferedTransformation&)
-    [6] CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation&) const
-    [7] CryptoPP::GeneratableCryptoMaterial::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    CryptoPP::PKCS_EncryptionPaddingScheme::~PKCS_EncryptionPaddingScheme()
+    CryptoPP::PK_EncryptionMessageEncodingMethod::ParameterSupported(char const*) const
+    CryptoPP::PKCS_EncryptionPaddingScheme::MaxUnpaddedLength(unsigned int) const
+    CryptoPP::PKCS_EncryptionPaddingScheme::Pad(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned int, unsigned char*, unsigned int, CryptoPP::NameValuePairs const&) const
+    CryptoPP::PKCS_EncryptionPaddingScheme::Unpad(unsigned char const*, unsigned int, unsigned char*, CryptoPP::NameValuePairs const&) const

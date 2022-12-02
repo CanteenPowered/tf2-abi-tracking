@@ -1,20 +1,20 @@
 VTable for CMsgTFSaxxyBroadcast:
-    [0] CMsgTFSaxxyBroadcast::~CMsgTFSaxxyBroadcast()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgTFSaxxyBroadcast::New() const
-    [3] CMsgTFSaxxyBroadcast::Clear()
-    [4] CMsgTFSaxxyBroadcast::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgTFSaxxyBroadcast::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgTFSaxxyBroadcast::ByteSize() const
-    [9] CMsgTFSaxxyBroadcast::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgTFSaxxyBroadcast::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgTFSaxxyBroadcast::GetCachedSize() const
-    [12] CMsgTFSaxxyBroadcast::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgTFSaxxyBroadcast::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgTFSaxxyBroadcast::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgTFSaxxyBroadcast::GetMetadata() const
+    CMsgTFSaxxyBroadcast::~CMsgTFSaxxyBroadcast()
+    google::protobuf::Message::GetTypeName() const
+    CMsgTFSaxxyBroadcast::New() const
+    CMsgTFSaxxyBroadcast::Clear()
+    CMsgTFSaxxyBroadcast::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgTFSaxxyBroadcast::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgTFSaxxyBroadcast::ByteSize() const
+    CMsgTFSaxxyBroadcast::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgTFSaxxyBroadcast::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgTFSaxxyBroadcast::GetCachedSize() const
+    CMsgTFSaxxyBroadcast::CopyFrom(google::protobuf::Message const&)
+    CMsgTFSaxxyBroadcast::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgTFSaxxyBroadcast::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgTFSaxxyBroadcast::GetMetadata() const

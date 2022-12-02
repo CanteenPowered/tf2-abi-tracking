@@ -1,3 +1,3 @@
 VTable for GCSDK::CProtoBufMsg<CGCMsgGC_War_IndividualUpdate>:
-    [0] GCSDK::CProtoBufMsg<CGCMsgGC_War_IndividualUpdate>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CGCMsgGC_War_IndividualUpdate>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CGCMsgGC_War_IndividualUpdate>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CGCMsgGC_War_IndividualUpdate>::GetGenericBody() const

@@ -1,20 +1,20 @@
 VTable for CMsgGCMatchHistoryLoad:
-    [0] CMsgGCMatchHistoryLoad::~CMsgGCMatchHistoryLoad()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCMatchHistoryLoad::New() const
-    [3] CMsgGCMatchHistoryLoad::Clear()
-    [4] CMsgGCMatchHistoryLoad::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCMatchHistoryLoad::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCMatchHistoryLoad::ByteSize() const
-    [9] CMsgGCMatchHistoryLoad::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCMatchHistoryLoad::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCMatchHistoryLoad::GetCachedSize() const
-    [12] CMsgGCMatchHistoryLoad::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCMatchHistoryLoad::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCMatchHistoryLoad::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCMatchHistoryLoad::GetMetadata() const
+    CMsgGCMatchHistoryLoad::~CMsgGCMatchHistoryLoad()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCMatchHistoryLoad::New() const
+    CMsgGCMatchHistoryLoad::Clear()
+    CMsgGCMatchHistoryLoad::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCMatchHistoryLoad::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCMatchHistoryLoad::ByteSize() const
+    CMsgGCMatchHistoryLoad::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCMatchHistoryLoad::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCMatchHistoryLoad::GetCachedSize() const
+    CMsgGCMatchHistoryLoad::CopyFrom(google::protobuf::Message const&)
+    CMsgGCMatchHistoryLoad::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCMatchHistoryLoad::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCMatchHistoryLoad::GetMetadata() const

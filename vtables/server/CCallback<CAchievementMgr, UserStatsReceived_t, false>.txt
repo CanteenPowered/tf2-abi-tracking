@@ -1,10 +1,10 @@
 VTable for CCallback<CAchievementMgr, UserStatsReceived_t, false>:
-    [0] CCallbackImpl<20>::Run(void*, bool, unsigned long long)
-    [1] CCallbackImpl<20>::GetCallbackSizeBytes()
-    [2] CCallback<CAchievementMgr, UserStatsReceived_t, false>::~CCallback()
-    [3] CCallback<CAchievementMgr, UserStatsReceived_t, false>::~CCallback()
+    CCallbackImpl<20>::Run(void*, bool, unsigned long long)
+    CCallbackImpl<20>::GetCallbackSizeBytes()
+    CCallback<CAchievementMgr, UserStatsReceived_t, false>::~CCallback()
+    CCallback<CAchievementMgr, UserStatsReceived_t, false>::~CCallback()
 VTable for CCallback<CAchievementMgr, UserStatsStored_t, false>:
-    [0] CCallbackImpl<12>::Run(void*, bool, unsigned long long)
-    [1] CCallbackImpl<12>::GetCallbackSizeBytes()
-    [2] CCallback<CAchievementMgr, UserStatsStored_t, false>::~CCallback()
-    [3] CCallback<CAchievementMgr, UserStatsStored_t, false>::~CCallback()
+    CCallbackImpl<12>::Run(void*, bool, unsigned long long)
+    CCallbackImpl<12>::GetCallbackSizeBytes()
+    CCallback<CAchievementMgr, UserStatsStored_t, false>::~CCallback()
+    CCallback<CAchievementMgr, UserStatsStored_t, false>::~CCallback()

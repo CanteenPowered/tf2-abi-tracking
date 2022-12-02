@@ -1,6 +1,6 @@
 VTable for CEntityFactory<CLogicCompare>:
-    [0] CEntityFactory<CLogicCompare>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CLogicCompare>::GetEntitySize()
+    CEntityFactory<CLogicCompare>::Destroy(IServerNetworkable*)
+    CEntityFactory<CLogicCompare>::GetEntitySize()
 VTable for CEntityFactory<CLogicCompareInteger>:
-    [0] CEntityFactory<CLogicCompareInteger>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CLogicCompareInteger>::GetEntitySize()
+    CEntityFactory<CLogicCompareInteger>::Destroy(IServerNetworkable*)
+    CEntityFactory<CLogicCompareInteger>::GetEntitySize()

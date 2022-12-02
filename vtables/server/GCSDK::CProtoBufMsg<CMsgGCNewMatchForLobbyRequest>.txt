@@ -1,6 +1,6 @@
 VTable for GCSDK::CProtoBufMsg<CMsgGCNewMatchForLobbyResponse>:
-    [0] GCSDK::CProtoBufMsg<CMsgGCNewMatchForLobbyResponse>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGCNewMatchForLobbyResponse>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGCNewMatchForLobbyResponse>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGCNewMatchForLobbyResponse>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgGCNewMatchForLobbyRequest>:
-    [0] GCSDK::CProtoBufMsg<CMsgGCNewMatchForLobbyRequest>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgGCNewMatchForLobbyRequest>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgGCNewMatchForLobbyRequest>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgGCNewMatchForLobbyRequest>::GetGenericBody() const

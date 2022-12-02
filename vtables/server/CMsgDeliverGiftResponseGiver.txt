@@ -1,20 +1,20 @@
 VTable for CMsgDeliverGiftResponseGiver:
-    [0] CMsgDeliverGiftResponseGiver::~CMsgDeliverGiftResponseGiver()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgDeliverGiftResponseGiver::New() const
-    [3] CMsgDeliverGiftResponseGiver::Clear()
-    [4] CMsgDeliverGiftResponseGiver::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgDeliverGiftResponseGiver::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgDeliverGiftResponseGiver::ByteSize() const
-    [9] CMsgDeliverGiftResponseGiver::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgDeliverGiftResponseGiver::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgDeliverGiftResponseGiver::GetCachedSize() const
-    [12] CMsgDeliverGiftResponseGiver::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgDeliverGiftResponseGiver::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgDeliverGiftResponseGiver::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgDeliverGiftResponseGiver::GetMetadata() const
+    CMsgDeliverGiftResponseGiver::~CMsgDeliverGiftResponseGiver()
+    google::protobuf::Message::GetTypeName() const
+    CMsgDeliverGiftResponseGiver::New() const
+    CMsgDeliverGiftResponseGiver::Clear()
+    CMsgDeliverGiftResponseGiver::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgDeliverGiftResponseGiver::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgDeliverGiftResponseGiver::ByteSize() const
+    CMsgDeliverGiftResponseGiver::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgDeliverGiftResponseGiver::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgDeliverGiftResponseGiver::GetCachedSize() const
+    CMsgDeliverGiftResponseGiver::CopyFrom(google::protobuf::Message const&)
+    CMsgDeliverGiftResponseGiver::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgDeliverGiftResponseGiver::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgDeliverGiftResponseGiver::GetMetadata() const

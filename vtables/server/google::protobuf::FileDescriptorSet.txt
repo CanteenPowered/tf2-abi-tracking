@@ -1,2 +1,40 @@
 VTable for google::protobuf::FileDescriptorProto:
+    google::protobuf::FileDescriptorProto::~FileDescriptorProto()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::FileDescriptorProto::New() const
+    google::protobuf::FileDescriptorProto::Clear()
+    google::protobuf::FileDescriptorProto::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::FileDescriptorProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::FileDescriptorProto::ByteSize() const
+    google::protobuf::FileDescriptorProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::FileDescriptorProto::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::FileDescriptorProto::GetCachedSize() const
+    google::protobuf::FileDescriptorProto::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::FileDescriptorProto::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::FileDescriptorProto::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::FileDescriptorProto::GetMetadata() const
 VTable for google::protobuf::FileDescriptorSet:
+    google::protobuf::FileDescriptorSet::~FileDescriptorSet()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::FileDescriptorSet::New() const
+    google::protobuf::FileDescriptorSet::Clear()
+    google::protobuf::FileDescriptorSet::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::FileDescriptorSet::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::FileDescriptorSet::ByteSize() const
+    google::protobuf::FileDescriptorSet::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::FileDescriptorSet::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::FileDescriptorSet::GetCachedSize() const
+    google::protobuf::FileDescriptorSet::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::FileDescriptorSet::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::FileDescriptorSet::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::FileDescriptorSet::GetMetadata() const

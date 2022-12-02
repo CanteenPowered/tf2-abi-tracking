@@ -1,20 +1,20 @@
 VTable for CMsgPlayerVoteKickedAfterLeavingMatchResponse:
-    [0] CMsgPlayerVoteKickedAfterLeavingMatchResponse::~CMsgPlayerVoteKickedAfterLeavingMatchResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgPlayerVoteKickedAfterLeavingMatchResponse::New() const
-    [3] CMsgPlayerVoteKickedAfterLeavingMatchResponse::Clear()
-    [4] CMsgPlayerVoteKickedAfterLeavingMatchResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgPlayerVoteKickedAfterLeavingMatchResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgPlayerVoteKickedAfterLeavingMatchResponse::ByteSize() const
-    [9] CMsgPlayerVoteKickedAfterLeavingMatchResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgPlayerVoteKickedAfterLeavingMatchResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgPlayerVoteKickedAfterLeavingMatchResponse::GetCachedSize() const
-    [12] CMsgPlayerVoteKickedAfterLeavingMatchResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgPlayerVoteKickedAfterLeavingMatchResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgPlayerVoteKickedAfterLeavingMatchResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgPlayerVoteKickedAfterLeavingMatchResponse::GetMetadata() const
+    CMsgPlayerVoteKickedAfterLeavingMatchResponse::~CMsgPlayerVoteKickedAfterLeavingMatchResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgPlayerVoteKickedAfterLeavingMatchResponse::New() const
+    CMsgPlayerVoteKickedAfterLeavingMatchResponse::Clear()
+    CMsgPlayerVoteKickedAfterLeavingMatchResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgPlayerVoteKickedAfterLeavingMatchResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgPlayerVoteKickedAfterLeavingMatchResponse::ByteSize() const
+    CMsgPlayerVoteKickedAfterLeavingMatchResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgPlayerVoteKickedAfterLeavingMatchResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgPlayerVoteKickedAfterLeavingMatchResponse::GetCachedSize() const
+    CMsgPlayerVoteKickedAfterLeavingMatchResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgPlayerVoteKickedAfterLeavingMatchResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgPlayerVoteKickedAfterLeavingMatchResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgPlayerVoteKickedAfterLeavingMatchResponse::GetMetadata() const

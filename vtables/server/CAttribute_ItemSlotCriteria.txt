@@ -1,20 +1,20 @@
 VTable for CAttribute_ItemSlotCriteria:
-    [0] CAttribute_ItemSlotCriteria::~CAttribute_ItemSlotCriteria()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CAttribute_ItemSlotCriteria::New() const
-    [3] CAttribute_ItemSlotCriteria::Clear()
-    [4] CAttribute_ItemSlotCriteria::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CAttribute_ItemSlotCriteria::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CAttribute_ItemSlotCriteria::ByteSize() const
-    [9] CAttribute_ItemSlotCriteria::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CAttribute_ItemSlotCriteria::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CAttribute_ItemSlotCriteria::GetCachedSize() const
-    [12] CAttribute_ItemSlotCriteria::CopyFrom(google::protobuf::Message const&)
-    [13] CAttribute_ItemSlotCriteria::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CAttribute_ItemSlotCriteria::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CAttribute_ItemSlotCriteria::GetMetadata() const
+    CAttribute_ItemSlotCriteria::~CAttribute_ItemSlotCriteria()
+    google::protobuf::Message::GetTypeName() const
+    CAttribute_ItemSlotCriteria::New() const
+    CAttribute_ItemSlotCriteria::Clear()
+    CAttribute_ItemSlotCriteria::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CAttribute_ItemSlotCriteria::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CAttribute_ItemSlotCriteria::ByteSize() const
+    CAttribute_ItemSlotCriteria::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CAttribute_ItemSlotCriteria::SerializeWithCachedSizesToArray(unsigned char*) const
+    CAttribute_ItemSlotCriteria::GetCachedSize() const
+    CAttribute_ItemSlotCriteria::CopyFrom(google::protobuf::Message const&)
+    CAttribute_ItemSlotCriteria::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CAttribute_ItemSlotCriteria::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CAttribute_ItemSlotCriteria::GetMetadata() const

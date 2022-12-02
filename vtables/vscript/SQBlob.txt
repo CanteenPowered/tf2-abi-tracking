@@ -1,0 +1,10 @@
+VTable for SQBlob:
+    SQBlob::Write(void*, int)
+    SQBlob::Flush()
+    SQBlob::Tell()
+    SQBlob::Len()
+    SQBlob::Seek(int, int)
+    SQBlob::IsValid()
+    SQBlob::EOS()
+    SQBlob::~SQBlob()
+    SQBlob::~SQBlob()

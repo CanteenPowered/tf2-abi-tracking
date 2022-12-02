@@ -1,2 +1,2 @@
 VTable for ITFPumpkinBomb:
-    [0] ITFPumpkinBomb::~ITFPumpkinBomb()
+    ITFPumpkinBomb::~ITFPumpkinBomb()

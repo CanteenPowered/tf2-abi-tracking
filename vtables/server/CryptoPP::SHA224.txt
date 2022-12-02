@@ -1,1 +1,25 @@
 VTable for CryptoPP::SHA224:
+    CryptoPP::SHA224::~SHA224()
+    CryptoPP::ClonableImpl<CryptoPP::SHA224, CryptoPP::AlgorithmImpl<CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>, CryptoPP::SHA224>>::Clone() const
+    CryptoPP::AlgorithmImpl<CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>, CryptoPP::SHA224>::AlgorithmName() const
+    CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::Update(unsigned char const*, unsigned int)
+    CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::CreateUpdateSpace(unsigned int&)
+    CryptoPP::HashTransformation::Final(unsigned char*)
+    CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::Restart()
+    CryptoPP::IteratedHashWithStaticTransform<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, 32u, CryptoPP::SHA224, 28u, true>::DigestSize() const
+    CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>::BlockSize() const
+    CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::OptimalBlockSize() const
+    CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::OptimalDataAlignment() const
+    CryptoPP::HashTransformation::CalculateDigest(unsigned char*, unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::Verify(unsigned char const*)
+    CryptoPP::HashTransformation::VerifyDigest(unsigned char const*, unsigned char const*, unsigned int)
+    CryptoPP::IteratedHashBase<unsigned int, CryptoPP::HashTransformation>::TruncatedFinal(unsigned char*, unsigned int)
+    CryptoPP::HashTransformation::CalculateTruncatedDigest(unsigned char*, unsigned int, unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::TruncatedVerify(unsigned char const*, unsigned int)
+    CryptoPP::HashTransformation::VerifyTruncatedDigest(unsigned char const*, unsigned int, unsigned char const*, unsigned int)
+    CryptoPP::IteratedHashWithStaticTransform<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, 32u, CryptoPP::SHA224, 28u, true>::Init()
+    CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>::GetByteOrder() const
+    CryptoPP::IteratedHashWithStaticTransform<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, 32u, CryptoPP::SHA224, 28u, true>::HashEndianCorrectedBlock(unsigned int const*)
+    CryptoPP::SHA224::HashMultipleBlocks(unsigned int const*, unsigned int)
+    CryptoPP::IteratedHash<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, CryptoPP::HashTransformation>::DataBuf()
+    CryptoPP::IteratedHashWithStaticTransform<unsigned int, CryptoPP::EnumToType<CryptoPP::ByteOrder, 1>, 64u, 32u, CryptoPP::SHA224, 28u, true>::StateBuf()

@@ -1,2 +1,2 @@
 VTable for IExtraMapEntityAutoList:
-    [0] IExtraMapEntityAutoList::~IExtraMapEntityAutoList()
+    IExtraMapEntityAutoList::~IExtraMapEntityAutoList()

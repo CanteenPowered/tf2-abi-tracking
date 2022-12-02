@@ -1,7 +1,7 @@
 VTable for CNotifyList:
-    [0] CNotifyList::RemoveEntity(CBaseEntity*, CBaseEntity*)
-    [1] CNotifyList::ReportNamedEvent(CBaseEntity*, char const*)
-    [2] CNotifyList::ReportSystemEvent(CBaseEntity*, notify_system_event_t, notify_system_event_params_t const&)
-    [3] CNotifyList::ClearEntity(CBaseEntity*)
-    [4] CNotifyList::OnEntityCreated(CBaseEntity*)
-    [5] CNotifyList::OnEntityDeleted(CBaseEntity*)
+    CNotifyList::RemoveEntity(CBaseEntity*, CBaseEntity*)
+    CNotifyList::ReportNamedEvent(CBaseEntity*, char const*)
+    CNotifyList::ReportSystemEvent(CBaseEntity*, notify_system_event_t, notify_system_event_params_t const&)
+    CNotifyList::ClearEntity(CBaseEntity*)
+    CNotifyList::OnEntityCreated(CBaseEntity*)
+    CNotifyList::OnEntityDeleted(CBaseEntity*)

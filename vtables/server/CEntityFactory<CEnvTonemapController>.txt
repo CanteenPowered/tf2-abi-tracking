@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CEnvTonemapController>:
-    [0] CEntityFactory<CEnvTonemapController>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CEnvTonemapController>::GetEntitySize()
+    CEntityFactory<CEnvTonemapController>::Destroy(IServerNetworkable*)
+    CEntityFactory<CEnvTonemapController>::GetEntitySize()

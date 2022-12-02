@@ -1,10 +1,10 @@
 VTable for CQuestThemeDefinition:
-    [0] CQuestThemeDefinition::~CQuestThemeDefinition()
-    [1] CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMsg() const
-    [2] CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetDefType() const
-    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
-    [4] CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetTopLayerMessage() const
-    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [7] CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMutableTopLayerMsg()
-    [8] CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMutableMsg()
+    CQuestThemeDefinition::~CQuestThemeDefinition()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMsg() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetDefType() const
+    IProtoBufScriptObjectDefinition::GetDisplayName() const
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetTopLayerMessage() const
+    IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMutableTopLayerMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMutableMsg()

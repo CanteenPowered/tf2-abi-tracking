@@ -1,2 +1,2 @@
 VTable for ITFFlameEntityAutoList:
-    [0] ITFFlameEntityAutoList::~ITFFlameEntityAutoList()
+    ITFFlameEntityAutoList::~ITFFlameEntityAutoList()

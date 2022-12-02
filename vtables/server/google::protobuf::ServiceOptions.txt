@@ -1,10 +1,20 @@
 VTable for google::protobuf::ServiceOptions:
-    [0] CryptoPP::ClassNullRNG::AlgorithmName() const
-    [1] CryptoPP::RandomNumberGenerator::IncorporateEntropy(unsigned char const*, unsigned int)
-    [2] CryptoPP::RandomNumberGenerator::CanIncorporateEntropy() const
-    [3] CryptoPP::RandomNumberGenerator::GenerateByte()
-    [4] CryptoPP::RandomNumberGenerator::GenerateBit()
-    [5] CryptoPP::RandomNumberGenerator::GenerateWord32(unsigned int, unsigned int)
-    [6] CryptoPP::ClassNullRNG::GenerateBlock(unsigned char*, unsigned int)
-    [7] CryptoPP::RandomNumberGenerator::GenerateIntoBufferedTransformation(CryptoPP::BufferedTransformation&, std::string const&, unsigned long long)
-    [8] CryptoPP::RandomNumberGenerator::DiscardBytes(unsigned int)
+    google::protobuf::ServiceOptions::~ServiceOptions()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::ServiceOptions::New() const
+    google::protobuf::ServiceOptions::Clear()
+    google::protobuf::ServiceOptions::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::ServiceOptions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::ServiceOptions::ByteSize() const
+    google::protobuf::ServiceOptions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::ServiceOptions::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::ServiceOptions::GetCachedSize() const
+    google::protobuf::ServiceOptions::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::ServiceOptions::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::ServiceOptions::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::ServiceOptions::GetMetadata() const

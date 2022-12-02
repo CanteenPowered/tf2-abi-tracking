@@ -1,2 +1,2 @@
 VTable for CMannVsMachineWaveStats:
-    [0] CMannVsMachineWaveStats::NetworkStateChanged(void*)
+    CMannVsMachineWaveStats::NetworkStateChanged(void*)

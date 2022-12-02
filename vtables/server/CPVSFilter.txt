@@ -1,6 +1,6 @@
 VTable for CPVSFilter:
-    [0] CPVSFilter::~CPVSFilter()
-    [1] CRecipientFilter::IsReliable() const
-    [2] CRecipientFilter::IsInitMessage() const
-    [3] CRecipientFilter::GetRecipientCount() const
-    [4] CRecipientFilter::GetRecipientIndex(int) const
+    CPVSFilter::~CPVSFilter()
+    CRecipientFilter::IsReliable() const
+    CRecipientFilter::IsInitMessage() const
+    CRecipientFilter::GetRecipientCount() const
+    CRecipientFilter::GetRecipientIndex(int) const

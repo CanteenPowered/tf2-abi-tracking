@@ -1,2 +1,2 @@
 VTable for ITFPerPlayerMatchCriteria:
-    [0] ITFPerPlayerMatchCriteria::~ITFPerPlayerMatchCriteria()
+    ITFPerPlayerMatchCriteria::~ITFPerPlayerMatchCriteria()

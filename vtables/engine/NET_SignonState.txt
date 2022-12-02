@@ -1,16 +1,16 @@
 VTable for NET_SignonState:
-    [0] NET_SignonState::~NET_SignonState()
-    [1] CNetMessage::SetNetChannel(INetChannel*)
-    [2] CNetMessage::SetReliable(bool)
-    [3] NET_SignonState::Process()
-    [4] NET_SignonState::ReadFromBuffer(bf_read&)
-    [5] NET_SignonState::WriteToBuffer(bf_write&)
-    [6] CNetMessage::IsReliable() const
-    [7] NET_SignonState::GetType() const
-    [8] NET_SignonState::GetGroup() const
-    [9] NET_SignonState::GetName() const
-    [10] CNetMessage::GetNetChannel() const
-    [11] NET_SignonState::ToString() const
-    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
-    [13] NET_SignonState::GetSize() const
-    [14] CNetMessage::SetRatePolicy()
+    NET_SignonState::~NET_SignonState()
+    CNetMessage::SetNetChannel(INetChannel*)
+    CNetMessage::SetReliable(bool)
+    NET_SignonState::Process()
+    NET_SignonState::ReadFromBuffer(bf_read&)
+    NET_SignonState::WriteToBuffer(bf_write&)
+    CNetMessage::IsReliable() const
+    NET_SignonState::GetType() const
+    NET_SignonState::GetGroup() const
+    NET_SignonState::GetName() const
+    CNetMessage::GetNetChannel() const
+    NET_SignonState::ToString() const
+    CNetMessage::BIncomingMessageForProcessing(double, int)
+    NET_SignonState::GetSize() const
+    CNetMessage::SetRatePolicy()

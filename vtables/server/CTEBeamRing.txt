@@ -1,7 +1,7 @@
 VTable for CTEBeamRing:
-    [0] CTEBeamRing::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEBeamRing::~CTEBeamRing()
-    [2] CTEBeamRing::~CTEBeamRing()
-    [3] CTEBeamRing::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTEBeamRing::YouForgotToImplementOrDeclareServerClass()
+    CTEBeamRing::~CTEBeamRing()
+    CTEBeamRing::~CTEBeamRing()
+    CTEBeamRing::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

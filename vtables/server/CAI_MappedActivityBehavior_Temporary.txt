@@ -1,5 +1,5 @@
 VTable for CAI_MappedActivityBehavior_Temporary:
-    [0] CAI_MappedActivityBehavior_Temporary::~CAI_MappedActivityBehavior_Temporary()
-    [1] CAI_ComponentWithOuter<CAI_BaseNPC, CAI_BehaviorBase>::SetOuter(CAI_BaseNPC*)
-    [2] CAI_Component::TaskFail(int)
-    [3] CAI_Component::TaskComplete(bool)
+    CAI_MappedActivityBehavior_Temporary::~CAI_MappedActivityBehavior_Temporary()
+    CAI_ComponentWithOuter<CAI_BaseNPC, CAI_BehaviorBase>::SetOuter(CAI_BaseNPC*)
+    CAI_Component::TaskFail(int)
+    CAI_Component::TaskComplete(bool)

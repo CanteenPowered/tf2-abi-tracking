@@ -1,0 +1,5 @@
+VTable for SQVM::FindAllClosuresForFunctionBySourceAndLineNumber(sqvector<SQObjectPtr>&, char const*, int)::CHackerator:
+    SQVM::FindAllClosuresForFunctionBySourceAndLineNumber(sqvector<SQObjectPtr>&, char const*, int)::CHackerator::Key(SQObjectPtr const&)
+    SQVM::FindAllClosuresForFunctionBySourceAndLineNumber(sqvector<SQObjectPtr>&, char const*, int)::CHackerator::Value(SQObjectPtr const&)
+    SQVM::FindAllClosuresForFunctionBySourceAndLineNumber(sqvector<SQObjectPtr>&, char const*, int)::CHackerator::BeginContained()
+    SQVM::FindAllClosuresForFunctionBySourceAndLineNumber(sqvector<SQObjectPtr>&, char const*, int)::CHackerator::EndContained()

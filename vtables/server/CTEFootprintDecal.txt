@@ -1,7 +1,7 @@
 VTable for CTEFootprintDecal:
-    [0] CTEFootprintDecal::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEFootprintDecal::~CTEFootprintDecal()
-    [2] CTEFootprintDecal::~CTEFootprintDecal()
-    [3] CBaseTempEntity::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTEFootprintDecal::YouForgotToImplementOrDeclareServerClass()
+    CTEFootprintDecal::~CTEFootprintDecal()
+    CTEFootprintDecal::~CTEFootprintDecal()
+    CBaseTempEntity::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

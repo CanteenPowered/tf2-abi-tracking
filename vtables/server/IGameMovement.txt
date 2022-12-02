@@ -1,2 +1,2 @@
 VTable for IGameMovement:
-    [0] IGameMovement::~IGameMovement()
+    IGameMovement::~IGameMovement()

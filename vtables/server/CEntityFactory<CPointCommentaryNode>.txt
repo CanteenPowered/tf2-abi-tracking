@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CPointCommentaryNode>:
-    [0] CEntityFactory<CPointCommentaryNode>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CPointCommentaryNode>::GetEntitySize()
+    CEntityFactory<CPointCommentaryNode>::Destroy(IServerNetworkable*)
+    CEntityFactory<CPointCommentaryNode>::GetEntitySize()

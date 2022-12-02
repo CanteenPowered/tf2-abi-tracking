@@ -1,7 +1,7 @@
 VTable for CTEEnergySplash:
-    [0] CTEEnergySplash::YouForgotToImplementOrDeclareServerClass()
-    [1] CTEEnergySplash::~CTEEnergySplash()
-    [2] CTEEnergySplash::~CTEEnergySplash()
-    [3] CTEEnergySplash::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTEEnergySplash::YouForgotToImplementOrDeclareServerClass()
+    CTEEnergySplash::~CTEEnergySplash()
+    CTEEnergySplash::~CTEEnergySplash()
+    CTEEnergySplash::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

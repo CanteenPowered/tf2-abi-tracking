@@ -1,0 +1,7 @@
+VTable for SQNativeClosure:
+    SQNativeClosure::~SQNativeClosure()
+    SQNativeClosure::Iterate(CSQStateIterator*)
+    SQNativeClosure::Release()
+    SQNativeClosure::GetType()
+    SQNativeClosure::Mark(SQCollectable**)
+    SQNativeClosure::Finalize()

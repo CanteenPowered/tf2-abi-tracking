@@ -1,2 +1,2 @@
 VTable for CUserCmd:
-    [0] CUserCmd::~CUserCmd()
+    CUserCmd::~CUserCmd()

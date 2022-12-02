@@ -1,20 +1,20 @@
 VTable for CMsgServerHello:
-    [0] CMsgServerHello::~CMsgServerHello()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgServerHello::New() const
-    [3] CMsgServerHello::Clear()
-    [4] CMsgServerHello::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgServerHello::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgServerHello::ByteSize() const
-    [9] CMsgServerHello::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgServerHello::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgServerHello::GetCachedSize() const
-    [12] CMsgServerHello::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgServerHello::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgServerHello::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgServerHello::GetMetadata() const
+    CMsgServerHello::~CMsgServerHello()
+    google::protobuf::Message::GetTypeName() const
+    CMsgServerHello::New() const
+    CMsgServerHello::Clear()
+    CMsgServerHello::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgServerHello::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgServerHello::ByteSize() const
+    CMsgServerHello::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgServerHello::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgServerHello::GetCachedSize() const
+    CMsgServerHello::CopyFrom(google::protobuf::Message const&)
+    CMsgServerHello::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgServerHello::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgServerHello::GetMetadata() const

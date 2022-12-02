@@ -1,2 +1,2 @@
 VTable for CBreakParser:
-    [0] CBreakParser::SetDefaults(void*)
+    CBreakParser::SetDefaults(void*)

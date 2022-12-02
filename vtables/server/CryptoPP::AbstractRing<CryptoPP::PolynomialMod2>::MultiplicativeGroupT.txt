@@ -1,15 +1,32 @@
 VTable for CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>:
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::~AbstractRing()
 VTable for CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT:
+    CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::~MultiplicativeGroupT()
+    CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Equal(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Identity() const
+    CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Add(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Inverse(CryptoPP::Integer const&) const
+    CryptoPP::AbstractGroup<CryptoPP::Integer>::InversionIsFast() const
+    CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Double(CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Subtract(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Accumulate(CryptoPP::Integer&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::Reduce(CryptoPP::Integer&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::ScalarMultiply(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::CascadeScalarMultiply(CryptoPP::Integer const&, CryptoPP::Integer const&, CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::Integer>::MultiplicativeGroupT::SimultaneousMultiply(CryptoPP::Integer*, CryptoPP::Integer const&, CryptoPP::Integer const*, unsigned int) const
 VTable for CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroupT:
-    [0] CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint>::GetSubgroupGenerator() const
-    [1] CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint>::SetSubgroupGenerator(CryptoPP::EC2NPoint const&)
-    [2] CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint>::ExponentiateBase(CryptoPP::Integer const&) const
-    [3] CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint>::ExponentiateElement(CryptoPP::EC2NPoint const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroupT::~MultiplicativeGroupT()
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroupT::Equal(CryptoPP::PolynomialMod2 const&, CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroupT::Identity() const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroupT::Add(CryptoPP::PolynomialMod2 const&, CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroupT::Inverse(CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::AbstractGroup<CryptoPP::PolynomialMod2>::InversionIsFast() const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroupT::Double(CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroupT::Subtract(CryptoPP::PolynomialMod2 const&, CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroupT::Accumulate(CryptoPP::PolynomialMod2&, CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroupT::Reduce(CryptoPP::PolynomialMod2&, CryptoPP::PolynomialMod2 const&) const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroupT::ScalarMultiply(CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroupT::CascadeScalarMultiply(CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&, CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroupT::SimultaneousMultiply(CryptoPP::PolynomialMod2*, CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const*, unsigned int) const
 VTable for CryptoPP::AbstractRing<CryptoPP::Integer>:
-    [0] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::LoadPrecomputation(CryptoPP::BufferedTransformation&)
-    [1] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::SavePrecomputation(CryptoPP::BufferedTransformation&) const
-    [2] non-virtual thunk to CryptoPP::DL_GroupParameters_IntegerBased::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
-    [3] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::GetSubgroupGenerator() const
-    [4] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::SetSubgroupGenerator(CryptoPP::Integer const&)
-    [5] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::ExponentiateBase(CryptoPP::Integer const&) const
-    [6] CryptoPP::DL_GroupParameters<CryptoPP::Integer>::ExponentiateElement(CryptoPP::Integer const&, CryptoPP::Integer const&) const
+    CryptoPP::AbstractRing<CryptoPP::Integer>::~AbstractRing()

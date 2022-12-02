@@ -1,29 +1,51 @@
 VTable for CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>:
-    [0] CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Save(CryptoPP::BufferedTransformation&) const
-    [1] CryptoPP::ASN1CryptoMaterial<CryptoPP::PrivateKey>::Load(CryptoPP::BufferedTransformation&)
-    [2] CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>::GetAlgorithmID() const
-    [3] CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
-    [4] CryptoPP::DL_KeyImpl<CryptoPP::PKCS8PrivateKey, CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>, CryptoPP::OID>::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const
-    [5] non-virtual thunk to CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::BERDecodePrivateKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
-    [6] non-virtual thunk to CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::DEREncodePrivateKey(CryptoPP::BufferedTransformation&) const
-    [7] CryptoPP::PKCS8PrivateKey::BERDecodeOptionalAttributes(CryptoPP::BufferedTransformation&)
-    [8] CryptoPP::PKCS8PrivateKey::DEREncodeOptionalAttributes(CryptoPP::BufferedTransformation&) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::GetAbstractGroupParameters() const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::AccessAbstractGroupParameters()
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::GetPrivateExponent() const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::SetPrivateExponent(CryptoPP::Integer const&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::GetVoidValue(char const*, std::type_info const&, void*) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::AssignFrom(CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::SupportsPrecomputation() const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::Precompute(unsigned int)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::LoadPrecomputation(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::BERDecodePrivateKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::DEREncodePrivateKey(CryptoPP::BufferedTransformation&) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::~DL_PrivateKeyImpl()
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>>::~DL_PrivateKeyImpl()
 VTable for CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>:
-    [0] CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::Accumulate(CryptoPP::PolynomialMod2&, CryptoPP::PolynomialMod2 const&) const
-    [1] CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::Reduce(CryptoPP::PolynomialMod2&, CryptoPP::PolynomialMod2 const&) const
-    [2] CryptoPP::AbstractGroup<CryptoPP::PolynomialMod2>::ScalarMultiply(CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&) const
-    [3] CryptoPP::AbstractGroup<CryptoPP::PolynomialMod2>::CascadeScalarMultiply(CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&, CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&) const
-    [4] CryptoPP::AbstractGroup<CryptoPP::PolynomialMod2>::SimultaneousMultiply(CryptoPP::PolynomialMod2*, CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const*, unsigned int) const
-    [5] CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::IsUnit(CryptoPP::PolynomialMod2 const&) const
-    [6] CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::MultiplicativeIdentity() const
-    [7] CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::Multiply(CryptoPP::PolynomialMod2 const&, CryptoPP::PolynomialMod2 const&) const
-    [8] CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::MultiplicativeInverse(CryptoPP::PolynomialMod2 const&) const
-    [9] CryptoPP::QuotientRing<CryptoPP::EuclideanDomainOf<CryptoPP::PolynomialMod2>>::Square(CryptoPP::PolynomialMod2 const&) const
-    [10] CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::Divide(CryptoPP::PolynomialMod2 const&, CryptoPP::PolynomialMod2 const&) const
-    [11] CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::Exponentiate(CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&) const
-    [12] CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::CascadeExponentiate(CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&, CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const&) const
-    [13] CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::SimultaneousExponentiate(CryptoPP::PolynomialMod2*, CryptoPP::PolynomialMod2 const&, CryptoPP::Integer const*, unsigned int) const
-    [14] CryptoPP::AbstractRing<CryptoPP::PolynomialMod2>::MultiplicativeGroup() const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetAbstractGroupParameters() const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::AccessAbstractGroupParameters()
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetPrivateExponent() const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::SetPrivateExponent(CryptoPP::Integer const&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GetVoidValue(char const*, std::type_info const&, void*) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::AssignFrom(CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::SupportsPrecomputation() const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::Precompute(unsigned int)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::LoadPrecomputation(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::BERDecodePrivateKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::DEREncodePrivateKey(CryptoPP::BufferedTransformation&) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::~DL_PrivateKeyImpl()
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_DSA>::~DL_PrivateKeyImpl()
 VTable for CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>:
-    [0] CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation&) const
-    [1] CryptoPP::GeneratableCryptoMaterial::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::GetAbstractGroupParameters() const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::AccessAbstractGroupParameters()
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::GetPrivateExponent() const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::SetPrivateExponent(CryptoPP::Integer const&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::Validate(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::GetVoidValue(char const*, std::type_info const&, void*) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::AssignFrom(CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::SupportsPrecomputation() const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::Precompute(unsigned int)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::LoadPrecomputation(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::SavePrecomputation(CryptoPP::BufferedTransformation&) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::BERDecodePrivateKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::DEREncodePrivateKey(CryptoPP::BufferedTransformation&) const
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::~DL_PrivateKeyImpl()
+    CryptoPP::DL_PrivateKeyImpl<CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>>::~DL_PrivateKeyImpl()

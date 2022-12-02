@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CSceneManager>:
-    [0] CEntityFactory<CSceneManager>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CSceneManager>::GetEntitySize()
+    CEntityFactory<CSceneManager>::Destroy(IServerNetworkable*)
+    CEntityFactory<CSceneManager>::GetEntitySize()

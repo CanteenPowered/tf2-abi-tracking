@@ -1,28 +1,28 @@
 VTable for Path:
-    [0] Path::~Path()
-    [1] Path::GetLength() const
-    [2] Path::GetPosition(float, Path::Segment const*) const
-    [3] Path::GetClosestPosition(Vector const&, Path::Segment const*, float) const
-    [4] Path::GetStartPosition() const
-    [5] Path::GetEndPosition() const
-    [6] Path::GetSubject() const
-    [7] Path::GetCurrentGoal() const
-    [8] Path::GetAge() const
-    [9] Path::MoveCursorToClosestPosition(Vector const&, Path::SeekType, float) const
-    [10] Path::MoveCursorToStart()
-    [11] Path::MoveCursorToEnd()
-    [12] Path::MoveCursor(float, Path::MoveCursorType)
-    [13] Path::GetCursorPosition() const
-    [14] Path::GetCursorData() const
-    [15] Path::IsValid() const
-    [16] Path::Invalidate()
-    [17] Path::Draw(Path::Segment const*) const
-    [18] Path::DrawInterpolated(float, float)
-    [19] Path::FirstSegment() const
-    [20] Path::NextSegment(Path::Segment const*) const
-    [21] Path::PriorSegment(Path::Segment const*) const
-    [22] Path::LastSegment() const
-    [23] Path::OnPathChanged(INextBot*, Path::ResultType)
-    [24] Path::Copy(INextBot*, Path const&)
-    [25] Path::ComputeWithOpenGoal(INextBot*, IPathCost const&, IPathOpenGoalSelector const&, float)
-    [26] Path::ComputeAreaCrossing(INextBot*, CNavArea const*, Vector const&, CNavArea const*, NavDirType, Vector*) const
+    Path::~Path()
+    Path::GetLength() const
+    Path::GetPosition(float, Path::Segment const*) const
+    Path::GetClosestPosition(Vector const&, Path::Segment const*, float) const
+    Path::GetStartPosition() const
+    Path::GetEndPosition() const
+    Path::GetSubject() const
+    Path::GetCurrentGoal() const
+    Path::GetAge() const
+    Path::MoveCursorToClosestPosition(Vector const&, Path::SeekType, float) const
+    Path::MoveCursorToStart()
+    Path::MoveCursorToEnd()
+    Path::MoveCursor(float, Path::MoveCursorType)
+    Path::GetCursorPosition() const
+    Path::GetCursorData() const
+    Path::IsValid() const
+    Path::Invalidate()
+    Path::Draw(Path::Segment const*) const
+    Path::DrawInterpolated(float, float)
+    Path::FirstSegment() const
+    Path::NextSegment(Path::Segment const*) const
+    Path::PriorSegment(Path::Segment const*) const
+    Path::LastSegment() const
+    Path::OnPathChanged(INextBot*, Path::ResultType)
+    Path::Copy(INextBot*, Path const&)
+    Path::ComputeWithOpenGoal(INextBot*, IPathCost const&, IPathOpenGoalSelector const&, float)
+    Path::ComputeAreaCrossing(INextBot*, CNavArea const*, Vector const&, CNavArea const*, NavDirType, Vector*) const

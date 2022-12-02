@@ -1,2 +1,2 @@
 VTable for IVModelInfo:
-    [0] IVModelInfo::~IVModelInfo()
+    IVModelInfo::~IVModelInfo()

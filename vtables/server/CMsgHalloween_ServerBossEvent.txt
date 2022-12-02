@@ -1,20 +1,20 @@
 VTable for CMsgHalloween_ServerBossEvent:
-    [0] CMsgHalloween_ServerBossEvent::~CMsgHalloween_ServerBossEvent()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgHalloween_ServerBossEvent::New() const
-    [3] CMsgHalloween_ServerBossEvent::Clear()
-    [4] CMsgHalloween_ServerBossEvent::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgHalloween_ServerBossEvent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgHalloween_ServerBossEvent::ByteSize() const
-    [9] CMsgHalloween_ServerBossEvent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgHalloween_ServerBossEvent::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgHalloween_ServerBossEvent::GetCachedSize() const
-    [12] CMsgHalloween_ServerBossEvent::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgHalloween_ServerBossEvent::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgHalloween_ServerBossEvent::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgHalloween_ServerBossEvent::GetMetadata() const
+    CMsgHalloween_ServerBossEvent::~CMsgHalloween_ServerBossEvent()
+    google::protobuf::Message::GetTypeName() const
+    CMsgHalloween_ServerBossEvent::New() const
+    CMsgHalloween_ServerBossEvent::Clear()
+    CMsgHalloween_ServerBossEvent::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgHalloween_ServerBossEvent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgHalloween_ServerBossEvent::ByteSize() const
+    CMsgHalloween_ServerBossEvent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgHalloween_ServerBossEvent::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgHalloween_ServerBossEvent::GetCachedSize() const
+    CMsgHalloween_ServerBossEvent::CopyFrom(google::protobuf::Message const&)
+    CMsgHalloween_ServerBossEvent::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgHalloween_ServerBossEvent::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgHalloween_ServerBossEvent::GetMetadata() const

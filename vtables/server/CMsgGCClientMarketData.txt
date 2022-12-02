@@ -1,20 +1,20 @@
 VTable for CMsgGCClientMarketData:
-    [0] CMsgGCClientMarketData::~CMsgGCClientMarketData()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCClientMarketData::New() const
-    [3] CMsgGCClientMarketData::Clear()
-    [4] CMsgGCClientMarketData::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCClientMarketData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCClientMarketData::ByteSize() const
-    [9] CMsgGCClientMarketData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCClientMarketData::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCClientMarketData::GetCachedSize() const
-    [12] CMsgGCClientMarketData::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCClientMarketData::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCClientMarketData::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCClientMarketData::GetMetadata() const
+    CMsgGCClientMarketData::~CMsgGCClientMarketData()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCClientMarketData::New() const
+    CMsgGCClientMarketData::Clear()
+    CMsgGCClientMarketData::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCClientMarketData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCClientMarketData::ByteSize() const
+    CMsgGCClientMarketData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCClientMarketData::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCClientMarketData::GetCachedSize() const
+    CMsgGCClientMarketData::CopyFrom(google::protobuf::Message const&)
+    CMsgGCClientMarketData::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCClientMarketData::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCClientMarketData::GetMetadata() const

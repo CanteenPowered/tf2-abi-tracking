@@ -1,2 +1,2 @@
 VTable for ITFTeleportLocationAutoList:
-    [0] ITFTeleportLocationAutoList::~ITFTeleportLocationAutoList()
+    ITFTeleportLocationAutoList::~ITFTeleportLocationAutoList()

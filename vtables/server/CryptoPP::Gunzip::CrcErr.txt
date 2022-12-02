@@ -1,1 +1,3 @@
 VTable for CryptoPP::Gunzip::CrcErr:
+    CryptoPP::Gunzip::CrcErr::~CrcErr()
+    CryptoPP::Exception::what() const

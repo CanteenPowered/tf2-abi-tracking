@@ -1,20 +1,20 @@
 VTable for CMsgGCHAccountLockStatusChange:
-    [0] CMsgGCHAccountLockStatusChange::~CMsgGCHAccountLockStatusChange()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCHAccountLockStatusChange::New() const
-    [3] CMsgGCHAccountLockStatusChange::Clear()
-    [4] CMsgGCHAccountLockStatusChange::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCHAccountLockStatusChange::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCHAccountLockStatusChange::ByteSize() const
-    [9] CMsgGCHAccountLockStatusChange::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCHAccountLockStatusChange::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCHAccountLockStatusChange::GetCachedSize() const
-    [12] CMsgGCHAccountLockStatusChange::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCHAccountLockStatusChange::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCHAccountLockStatusChange::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCHAccountLockStatusChange::GetMetadata() const
+    CMsgGCHAccountLockStatusChange::~CMsgGCHAccountLockStatusChange()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCHAccountLockStatusChange::New() const
+    CMsgGCHAccountLockStatusChange::Clear()
+    CMsgGCHAccountLockStatusChange::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCHAccountLockStatusChange::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCHAccountLockStatusChange::ByteSize() const
+    CMsgGCHAccountLockStatusChange::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCHAccountLockStatusChange::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCHAccountLockStatusChange::GetCachedSize() const
+    CMsgGCHAccountLockStatusChange::CopyFrom(google::protobuf::Message const&)
+    CMsgGCHAccountLockStatusChange::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCHAccountLockStatusChange::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCHAccountLockStatusChange::GetMetadata() const

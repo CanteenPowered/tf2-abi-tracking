@@ -1,20 +1,20 @@
 VTable for CMsgTFCoaching_AskCoach:
-    [0] CMsgTFCoaching_AskCoach::~CMsgTFCoaching_AskCoach()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgTFCoaching_AskCoach::New() const
-    [3] CMsgTFCoaching_AskCoach::Clear()
-    [4] CMsgTFCoaching_AskCoach::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgTFCoaching_AskCoach::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgTFCoaching_AskCoach::ByteSize() const
-    [9] CMsgTFCoaching_AskCoach::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgTFCoaching_AskCoach::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgTFCoaching_AskCoach::GetCachedSize() const
-    [12] CMsgTFCoaching_AskCoach::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgTFCoaching_AskCoach::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgTFCoaching_AskCoach::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgTFCoaching_AskCoach::GetMetadata() const
+    CMsgTFCoaching_AskCoach::~CMsgTFCoaching_AskCoach()
+    google::protobuf::Message::GetTypeName() const
+    CMsgTFCoaching_AskCoach::New() const
+    CMsgTFCoaching_AskCoach::Clear()
+    CMsgTFCoaching_AskCoach::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgTFCoaching_AskCoach::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgTFCoaching_AskCoach::ByteSize() const
+    CMsgTFCoaching_AskCoach::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgTFCoaching_AskCoach::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgTFCoaching_AskCoach::GetCachedSize() const
+    CMsgTFCoaching_AskCoach::CopyFrom(google::protobuf::Message const&)
+    CMsgTFCoaching_AskCoach::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgTFCoaching_AskCoach::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgTFCoaching_AskCoach::GetMetadata() const

@@ -1,20 +1,20 @@
 VTable for CMsgExitMatchmaking:
-    [0] CMsgExitMatchmaking::~CMsgExitMatchmaking()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgExitMatchmaking::New() const
-    [3] CMsgExitMatchmaking::Clear()
-    [4] CMsgExitMatchmaking::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgExitMatchmaking::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgExitMatchmaking::ByteSize() const
-    [9] CMsgExitMatchmaking::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgExitMatchmaking::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgExitMatchmaking::GetCachedSize() const
-    [12] CMsgExitMatchmaking::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgExitMatchmaking::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgExitMatchmaking::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgExitMatchmaking::GetMetadata() const
+    CMsgExitMatchmaking::~CMsgExitMatchmaking()
+    google::protobuf::Message::GetTypeName() const
+    CMsgExitMatchmaking::New() const
+    CMsgExitMatchmaking::Clear()
+    CMsgExitMatchmaking::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgExitMatchmaking::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgExitMatchmaking::ByteSize() const
+    CMsgExitMatchmaking::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgExitMatchmaking::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgExitMatchmaking::GetCachedSize() const
+    CMsgExitMatchmaking::CopyFrom(google::protobuf::Message const&)
+    CMsgExitMatchmaking::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgExitMatchmaking::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgExitMatchmaking::GetMetadata() const

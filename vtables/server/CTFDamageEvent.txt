@@ -1,2 +1,2 @@
 VTable for CTFDamageEvent:
-    [0] CTFDamageEvent::NetworkStateChanged(void*)
+    CTFDamageEvent::NetworkStateChanged(void*)

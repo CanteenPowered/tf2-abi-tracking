@@ -1,87 +1,162 @@
 VTable for CryptoPP::DL_GroupParameters_IntegerBased:
-    [0] CryptoPP::HashTransformation::BlockSize() const
-    [1] non-virtual thunk to CryptoPP::HMAC_Base::OptimalBlockSize() const
-    [2] CryptoPP::HashTransformation::OptimalDataAlignment() const
-    [3] CryptoPP::HashTransformation::CalculateDigest(unsigned char*, unsigned char const*, unsigned int)
-    [4] CryptoPP::HashTransformation::Verify(unsigned char const*)
-    [5] CryptoPP::HashTransformation::VerifyDigest(unsigned char const*, unsigned char const*, unsigned int)
-    [6] non-virtual thunk to CryptoPP::HMAC_Base::TruncatedFinal(unsigned char*, unsigned int)
-    [7] CryptoPP::HashTransformation::CalculateTruncatedDigest(unsigned char*, unsigned int, unsigned char const*, unsigned int)
-    [8] CryptoPP::HashTransformation::TruncatedVerify(unsigned char const*, unsigned int)
-    [9] CryptoPP::HashTransformation::VerifyTruncatedDigest(unsigned char const*, unsigned int, unsigned char const*, unsigned int)
+    CryptoPP::DL_GroupParameters_IntegerBased::~DL_GroupParameters_IntegerBased()
+    CryptoPP::DL_GroupParameters_IntegerBased::~DL_GroupParameters_IntegerBased()
+    CryptoPP::DL_GroupParameters_IntegerBased::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_GroupParameters_IntegerBased::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_GroupParameters_IntegerBased::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_GroupParameters_IntegerBased::GetVoidValue(char const*, std::type_info const&, void*) const
+    CryptoPP::DL_GroupParameters_IntegerBased::AssignFrom(CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_GroupParameters_IntegerBased::GetSubgroupOrder() const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetGroupOrder() const
+    CryptoPP::DL_GroupParameters_IntegerBased::ValidateGroup(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    CryptoPP::DL_GroupParameters_IntegerBased::ValidateElement(unsigned int, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::Integer> const*) const
+    CryptoPP::DL_GroupParameters_IntegerBased::FastSubgroupCheckAvailable() const
+    CryptoPP::DL_GroupParameters_IntegerBased::EncodeElement(bool, CryptoPP::Integer const&, unsigned char*) const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetEncodedElementSize(bool) const
+    CryptoPP::DL_GroupParameters_IntegerBased::DecodeElement(unsigned char const*, bool) const
+    CryptoPP::DL_GroupParameters_IntegerBased::ConvertElementToInteger(CryptoPP::Integer const&) const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetMaxExponent() const
 VTable for CryptoPP::DL_GroupParameters_DSA:
-    [0] CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
-    [1] CryptoPP::Deflator::IsolatedInitialize(CryptoPP::NameValuePairs const&)
-    [2] CryptoPP::Deflator::IsolatedFlush(bool, bool)
-    [3] CryptoPP::BufferedTransformation::IsolatedMessageSeriesEnd(bool)
-    [4] CryptoPP::Filter::Initialize(CryptoPP::NameValuePairs const&, int)
-    [5] CryptoPP::Filter::Flush(bool, int, bool)
-    [6] CryptoPP::Filter::MessageSeriesEnd(int, bool)
-    [7] CryptoPP::BufferedTransformation::SetAutoSignalPropagation(int)
-    [8] CryptoPP::BufferedTransformation::GetAutoSignalPropagation() const
-    [9] CryptoPP::BufferedTransformation::MaxRetrievable() const
-    [10] CryptoPP::BufferedTransformation::AnyRetrievable() const
-    [11] CryptoPP::BufferedTransformation::Get(unsigned char&)
-    [12] CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
-    [13] CryptoPP::BufferedTransformation::Peek(unsigned char&) const
-    [14] CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
-    [15] CryptoPP::BufferedTransformation::Skip(unsigned long long)
-    [16] CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
-    [17] CryptoPP::BufferedTransformation::NumberOfMessages() const
-    [18] CryptoPP::BufferedTransformation::AnyMessages() const
-    [19] CryptoPP::BufferedTransformation::GetNextMessage()
-    [20] CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
-    [21] CryptoPP::BufferedTransformation::SkipAll()
-    [22] CryptoPP::BufferedTransformation::GetNextMessageSeries()
-    [23] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
-    [24] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
-    [25] CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)
-    [26] CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
-    [27] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
-    [28] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
-    [29] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
-    [30] CryptoPP::BufferedTransformation::ChannelFlush(std::string const&, bool, int, bool)
-    [31] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
-    [32] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [33] CryptoPP::Filter::Attachable()
-    [34] CryptoPP::Filter::AttachedTransformation()
-    [35] CryptoPP::Filter::AttachedTransformation() const
-    [36] CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
-    [37] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
-    [38] CryptoPP::Filter::NewDefaultAttachment() const
-    [39] CryptoPP::Filter::ShouldPropagateMessageEnd() const
-    [40] CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const
-    [41] CryptoPP::Gzip::WritePrestreamHeader()
-    [42] CryptoPP::Gzip::ProcessUncompressedData(unsigned char const*, unsigned int)
-    [43] CryptoPP::Gzip::WritePoststreamTail()
+    CryptoPP::DL_GroupParameters_DSA::~DL_GroupParameters_DSA()
+    CryptoPP::DL_GroupParameters_DSA::~DL_GroupParameters_DSA()
+    CryptoPP::DL_GroupParameters_IntegerBased::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_GroupParameters_IntegerBased::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_GroupParameters_DSA::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_GroupParameters_GFP::GetVoidValue(char const*, std::type_info const&, void*) const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::AssignFrom(CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_GroupParameters_IntegerBased::GetSubgroupOrder() const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetGroupOrder() const
+    CryptoPP::DL_GroupParameters_DSA::ValidateGroup(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    CryptoPP::DL_GroupParameters_IntegerBased::ValidateElement(unsigned int, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::Integer> const*) const
+    CryptoPP::DL_GroupParameters_IntegerBased::FastSubgroupCheckAvailable() const
+    CryptoPP::DL_GroupParameters_IntegerBased::EncodeElement(bool, CryptoPP::Integer const&, unsigned char*) const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetEncodedElementSize(bool) const
+    CryptoPP::DL_GroupParameters_IntegerBased::DecodeElement(unsigned char const*, bool) const
+    CryptoPP::DL_GroupParameters_IntegerBased::ConvertElementToInteger(CryptoPP::Integer const&) const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetMaxExponent() const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::GetModulus() const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::SetModulusAndSubgroupGenerator(CryptoPP::Integer const&, CryptoPP::Integer const&)
+    CryptoPP::DL_GroupParameters_GFP::GetFieldType() const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetDefaultSubgroupOrderSize(unsigned int) const
+    CryptoPP::DL_GroupParametersImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>, CryptoPP::DL_GroupParameters_IntegerBased>::GetGroupPrecomputation() const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::GetBasePrecomputation() const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::AccessBasePrecomputation()
+    CryptoPP::DL_GroupParameters_GFP::IsIdentity(CryptoPP::Integer const&) const
+    CryptoPP::DL_GroupParameters_GFP::SimultaneousExponentiate(CryptoPP::Integer*, CryptoPP::Integer const&, CryptoPP::Integer const*, unsigned int) const
 VTable for CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime:
-    [0] CryptoPP::GeneratableCryptoMaterial::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime::~DL_GroupParameters_GFP_DefaultSafePrime()
+    CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime::~DL_GroupParameters_GFP_DefaultSafePrime()
+    CryptoPP::DL_GroupParameters_IntegerBased::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_GroupParameters_IntegerBased::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_GroupParameters_IntegerBased::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_GroupParameters_GFP::GetVoidValue(char const*, std::type_info const&, void*) const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::AssignFrom(CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_GroupParameters_IntegerBased::GetSubgroupOrder() const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetGroupOrder() const
+    CryptoPP::DL_GroupParameters_IntegerBased::ValidateGroup(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    CryptoPP::DL_GroupParameters_IntegerBased::ValidateElement(unsigned int, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::Integer> const*) const
+    CryptoPP::DL_GroupParameters_IntegerBased::FastSubgroupCheckAvailable() const
+    CryptoPP::DL_GroupParameters_IntegerBased::EncodeElement(bool, CryptoPP::Integer const&, unsigned char*) const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetEncodedElementSize(bool) const
+    CryptoPP::DL_GroupParameters_IntegerBased::DecodeElement(unsigned char const*, bool) const
+    CryptoPP::DL_GroupParameters_IntegerBased::ConvertElementToInteger(CryptoPP::Integer const&) const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetMaxExponent() const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::GetModulus() const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::SetModulusAndSubgroupGenerator(CryptoPP::Integer const&, CryptoPP::Integer const&)
+    CryptoPP::DL_GroupParameters_GFP::GetFieldType() const
+    CryptoPP::DL_GroupParameters_GFP_DefaultSafePrime::GetDefaultSubgroupOrderSize(unsigned int) const
+    CryptoPP::DL_GroupParametersImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>, CryptoPP::DL_GroupParameters_IntegerBased>::GetGroupPrecomputation() const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::GetBasePrecomputation() const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::AccessBasePrecomputation()
+    CryptoPP::DL_GroupParameters_GFP::IsIdentity(CryptoPP::Integer const&) const
+    CryptoPP::DL_GroupParameters_GFP::SimultaneousExponentiate(CryptoPP::Integer*, CryptoPP::Integer const&, CryptoPP::Integer const*, unsigned int) const
 VTable for CryptoPP::DL_GroupParameters<CryptoPP::ECPPoint>:
 VTable for CryptoPP::DL_GroupParametersImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>, CryptoPP::DL_GroupParameters_IntegerBased>:
+    CryptoPP::DL_GroupParametersImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>, CryptoPP::DL_GroupParameters_IntegerBased>::~DL_GroupParametersImpl()
+    CryptoPP::DL_GroupParametersImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>, CryptoPP::DL_GroupParameters_IntegerBased>::~DL_GroupParametersImpl()
+    CryptoPP::DL_GroupParameters_IntegerBased::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_GroupParameters_IntegerBased::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_GroupParameters_IntegerBased::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_GroupParameters_IntegerBased::GetVoidValue(char const*, std::type_info const&, void*) const
+    CryptoPP::DL_GroupParameters_IntegerBased::AssignFrom(CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_GroupParameters_IntegerBased::GetSubgroupOrder() const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetGroupOrder() const
+    CryptoPP::DL_GroupParameters_IntegerBased::ValidateGroup(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    CryptoPP::DL_GroupParameters_IntegerBased::ValidateElement(unsigned int, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::Integer> const*) const
+    CryptoPP::DL_GroupParameters_IntegerBased::FastSubgroupCheckAvailable() const
+    CryptoPP::DL_GroupParameters_IntegerBased::EncodeElement(bool, CryptoPP::Integer const&, unsigned char*) const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetEncodedElementSize(bool) const
+    CryptoPP::DL_GroupParameters_IntegerBased::DecodeElement(unsigned char const*, bool) const
+    CryptoPP::DL_GroupParameters_IntegerBased::ConvertElementToInteger(CryptoPP::Integer const&) const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetMaxExponent() const
 VTable for CryptoPP::DL_GroupParameters<CryptoPP::Integer>:
 VTable for CryptoPP::DL_GroupParametersImpl<CryptoPP::EcPrecomputation<CryptoPP::ECP>, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::ECPPoint>, CryptoPP::DL_GroupParameters<CryptoPP::ECPPoint>>:
-    [0] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::~ASN1CryptoMaterial()
-    [1] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::~ASN1CryptoMaterial()
 VTable for CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint>:
-    [0] virtual thunk to CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Save(CryptoPP::BufferedTransformation&) const
-    [1] virtual thunk to CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Load(CryptoPP::BufferedTransformation&)
-    [2] CryptoPP::CryptoMaterial::SupportsPrecomputation() const
-    [3] CryptoPP::CryptoMaterial::Precompute(unsigned int)
-    [4] CryptoPP::CryptoMaterial::LoadPrecomputation(CryptoPP::BufferedTransformation&)
-    [5] CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation&) const
 VTable for CryptoPP::DL_GroupParameters_EC<CryptoPP::EC2N>:
-    [0] CryptoPP::CryptoMaterial::SavePrecomputation(CryptoPP::BufferedTransformation&) const
 VTable for CryptoPP::DL_GroupParameters_GFP:
+    CryptoPP::DL_GroupParameters_GFP::~DL_GroupParameters_GFP()
+    CryptoPP::DL_GroupParameters_GFP::~DL_GroupParameters_GFP()
+    CryptoPP::DL_GroupParameters_IntegerBased::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_GroupParameters_IntegerBased::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_GroupParameters_IntegerBased::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_GroupParameters_GFP::GetVoidValue(char const*, std::type_info const&, void*) const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::AssignFrom(CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_GroupParameters_IntegerBased::GetSubgroupOrder() const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetGroupOrder() const
+    CryptoPP::DL_GroupParameters_IntegerBased::ValidateGroup(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    CryptoPP::DL_GroupParameters_IntegerBased::ValidateElement(unsigned int, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::Integer> const*) const
+    CryptoPP::DL_GroupParameters_IntegerBased::FastSubgroupCheckAvailable() const
+    CryptoPP::DL_GroupParameters_IntegerBased::EncodeElement(bool, CryptoPP::Integer const&, unsigned char*) const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetEncodedElementSize(bool) const
+    CryptoPP::DL_GroupParameters_IntegerBased::DecodeElement(unsigned char const*, bool) const
+    CryptoPP::DL_GroupParameters_IntegerBased::ConvertElementToInteger(CryptoPP::Integer const&) const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetMaxExponent() const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::GetModulus() const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::SetModulusAndSubgroupGenerator(CryptoPP::Integer const&, CryptoPP::Integer const&)
+    CryptoPP::DL_GroupParameters_GFP::GetFieldType() const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetDefaultSubgroupOrderSize(unsigned int) const
+    CryptoPP::DL_GroupParametersImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>, CryptoPP::DL_GroupParameters_IntegerBased>::GetGroupPrecomputation() const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::GetBasePrecomputation() const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::AccessBasePrecomputation()
+    CryptoPP::DL_GroupParameters_GFP::IsIdentity(CryptoPP::Integer const&) const
+    CryptoPP::DL_GroupParameters_GFP::SimultaneousExponentiate(CryptoPP::Integer*, CryptoPP::Integer const&, CryptoPP::Integer const*, unsigned int) const
 VTable for CryptoPP::DL_GroupParametersImpl<CryptoPP::EcPrecomputation<CryptoPP::EC2N>, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::EC2NPoint>, CryptoPP::DL_GroupParameters<CryptoPP::EC2NPoint>>:
 VTable for CryptoPP::DL_GroupParameters_EC<CryptoPP::ECP>:
 VTable for CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>:
-    [0] CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::~DL_KeyImpl()
-    [1] CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::~DL_KeyImpl()
-    [2] CryptoPP::X509PublicKey::BERDecode(CryptoPP::BufferedTransformation&)
-    [3] CryptoPP::X509PublicKey::DEREncode(CryptoPP::BufferedTransformation&) const
-    [4] CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
-    [5] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Save(CryptoPP::BufferedTransformation&) const
-    [6] CryptoPP::ASN1CryptoMaterial<CryptoPP::PublicKey>::Load(CryptoPP::BufferedTransformation&)
-    [7] CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::GetAlgorithmID() const
-    [8] CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
-    [9] CryptoPP::DL_KeyImpl<CryptoPP::X509PublicKey, CryptoPP::DL_GroupParameters_DSA, CryptoPP::OID>::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::~DL_GroupParameters_IntegerBasedImpl()
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::~DL_GroupParameters_IntegerBasedImpl()
+    CryptoPP::DL_GroupParameters_IntegerBased::BERDecode(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_GroupParameters_IntegerBased::DEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1Object::BEREncode(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::Save(CryptoPP::BufferedTransformation&) const
+    CryptoPP::ASN1CryptoMaterial<CryptoPP::DL_GroupParameters<CryptoPP::Integer>>::Load(CryptoPP::BufferedTransformation&)
+    CryptoPP::DL_GroupParameters_IntegerBased::GenerateRandom(CryptoPP::RandomNumberGenerator&, CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::GetVoidValue(char const*, std::type_info const&, void*) const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::AssignFrom(CryptoPP::NameValuePairs const&)
+    CryptoPP::DL_GroupParameters_IntegerBased::GetSubgroupOrder() const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetGroupOrder() const
+    CryptoPP::DL_GroupParameters_IntegerBased::ValidateGroup(CryptoPP::RandomNumberGenerator&, unsigned int) const
+    CryptoPP::DL_GroupParameters_IntegerBased::ValidateElement(unsigned int, CryptoPP::Integer const&, CryptoPP::DL_FixedBasePrecomputation<CryptoPP::Integer> const*) const
+    CryptoPP::DL_GroupParameters_IntegerBased::FastSubgroupCheckAvailable() const
+    CryptoPP::DL_GroupParameters_IntegerBased::EncodeElement(bool, CryptoPP::Integer const&, unsigned char*) const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetEncodedElementSize(bool) const
+    CryptoPP::DL_GroupParameters_IntegerBased::DecodeElement(unsigned char const*, bool) const
+    CryptoPP::DL_GroupParameters_IntegerBased::ConvertElementToInteger(CryptoPP::Integer const&) const
+    CryptoPP::DL_GroupParameters_IntegerBased::GetMaxExponent() const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::GetModulus() const
+    CryptoPP::DL_GroupParameters_IntegerBasedImpl<CryptoPP::ModExpPrecomputation, CryptoPP::DL_FixedBasePrecomputationImpl<CryptoPP::Integer>>::SetModulusAndSubgroupGenerator(CryptoPP::Integer const&, CryptoPP::Integer const&)

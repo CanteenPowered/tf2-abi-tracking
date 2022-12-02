@@ -1,40 +1,40 @@
 VTable for CMsgUpdateHalloweenMerasmusLootLevel:
-    [0] CMsgUpdateHalloweenMerasmusLootLevel::~CMsgUpdateHalloweenMerasmusLootLevel()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgUpdateHalloweenMerasmusLootLevel::New() const
-    [3] CMsgUpdateHalloweenMerasmusLootLevel::Clear()
-    [4] CMsgUpdateHalloweenMerasmusLootLevel::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgUpdateHalloweenMerasmusLootLevel::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgUpdateHalloweenMerasmusLootLevel::ByteSize() const
-    [9] CMsgUpdateHalloweenMerasmusLootLevel::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgUpdateHalloweenMerasmusLootLevel::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgUpdateHalloweenMerasmusLootLevel::GetCachedSize() const
-    [12] CMsgUpdateHalloweenMerasmusLootLevel::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgUpdateHalloweenMerasmusLootLevel::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgUpdateHalloweenMerasmusLootLevel::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgUpdateHalloweenMerasmusLootLevel::GetMetadata() const
+    CMsgUpdateHalloweenMerasmusLootLevel::~CMsgUpdateHalloweenMerasmusLootLevel()
+    google::protobuf::Message::GetTypeName() const
+    CMsgUpdateHalloweenMerasmusLootLevel::New() const
+    CMsgUpdateHalloweenMerasmusLootLevel::Clear()
+    CMsgUpdateHalloweenMerasmusLootLevel::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgUpdateHalloweenMerasmusLootLevel::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgUpdateHalloweenMerasmusLootLevel::ByteSize() const
+    CMsgUpdateHalloweenMerasmusLootLevel::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgUpdateHalloweenMerasmusLootLevel::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgUpdateHalloweenMerasmusLootLevel::GetCachedSize() const
+    CMsgUpdateHalloweenMerasmusLootLevel::CopyFrom(google::protobuf::Message const&)
+    CMsgUpdateHalloweenMerasmusLootLevel::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgUpdateHalloweenMerasmusLootLevel::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgUpdateHalloweenMerasmusLootLevel::GetMetadata() const
 VTable for CMsgUpdateHalloweenMerasmusLootLevel_Player:
-    [0] CMsgUpdateHalloweenMerasmusLootLevel_Player::~CMsgUpdateHalloweenMerasmusLootLevel_Player()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgUpdateHalloweenMerasmusLootLevel_Player::New() const
-    [3] CMsgUpdateHalloweenMerasmusLootLevel_Player::Clear()
-    [4] CMsgUpdateHalloweenMerasmusLootLevel_Player::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgUpdateHalloweenMerasmusLootLevel_Player::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgUpdateHalloweenMerasmusLootLevel_Player::ByteSize() const
-    [9] CMsgUpdateHalloweenMerasmusLootLevel_Player::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgUpdateHalloweenMerasmusLootLevel_Player::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgUpdateHalloweenMerasmusLootLevel_Player::GetCachedSize() const
-    [12] CMsgUpdateHalloweenMerasmusLootLevel_Player::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgUpdateHalloweenMerasmusLootLevel_Player::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgUpdateHalloweenMerasmusLootLevel_Player::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgUpdateHalloweenMerasmusLootLevel_Player::GetMetadata() const
+    CMsgUpdateHalloweenMerasmusLootLevel_Player::~CMsgUpdateHalloweenMerasmusLootLevel_Player()
+    google::protobuf::Message::GetTypeName() const
+    CMsgUpdateHalloweenMerasmusLootLevel_Player::New() const
+    CMsgUpdateHalloweenMerasmusLootLevel_Player::Clear()
+    CMsgUpdateHalloweenMerasmusLootLevel_Player::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgUpdateHalloweenMerasmusLootLevel_Player::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgUpdateHalloweenMerasmusLootLevel_Player::ByteSize() const
+    CMsgUpdateHalloweenMerasmusLootLevel_Player::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgUpdateHalloweenMerasmusLootLevel_Player::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgUpdateHalloweenMerasmusLootLevel_Player::GetCachedSize() const
+    CMsgUpdateHalloweenMerasmusLootLevel_Player::CopyFrom(google::protobuf::Message const&)
+    CMsgUpdateHalloweenMerasmusLootLevel_Player::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgUpdateHalloweenMerasmusLootLevel_Player::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgUpdateHalloweenMerasmusLootLevel_Player::GetMetadata() const

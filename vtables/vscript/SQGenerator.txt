@@ -1,0 +1,7 @@
+VTable for SQGenerator:
+    SQGenerator::~SQGenerator()
+    SQGenerator::Iterate(CSQStateIterator*)
+    SQGenerator::Release()
+    SQGenerator::GetType()
+    SQGenerator::Mark(SQCollectable**)
+    SQGenerator::Finalize()

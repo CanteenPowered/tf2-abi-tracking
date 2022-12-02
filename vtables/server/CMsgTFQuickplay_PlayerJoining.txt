@@ -1,20 +1,20 @@
 VTable for CMsgTFQuickplay_PlayerJoining:
-    [0] CMsgTFQuickplay_PlayerJoining::~CMsgTFQuickplay_PlayerJoining()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgTFQuickplay_PlayerJoining::New() const
-    [3] CMsgTFQuickplay_PlayerJoining::Clear()
-    [4] CMsgTFQuickplay_PlayerJoining::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgTFQuickplay_PlayerJoining::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgTFQuickplay_PlayerJoining::ByteSize() const
-    [9] CMsgTFQuickplay_PlayerJoining::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgTFQuickplay_PlayerJoining::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgTFQuickplay_PlayerJoining::GetCachedSize() const
-    [12] CMsgTFQuickplay_PlayerJoining::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgTFQuickplay_PlayerJoining::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgTFQuickplay_PlayerJoining::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgTFQuickplay_PlayerJoining::GetMetadata() const
+    CMsgTFQuickplay_PlayerJoining::~CMsgTFQuickplay_PlayerJoining()
+    google::protobuf::Message::GetTypeName() const
+    CMsgTFQuickplay_PlayerJoining::New() const
+    CMsgTFQuickplay_PlayerJoining::Clear()
+    CMsgTFQuickplay_PlayerJoining::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgTFQuickplay_PlayerJoining::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgTFQuickplay_PlayerJoining::ByteSize() const
+    CMsgTFQuickplay_PlayerJoining::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgTFQuickplay_PlayerJoining::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgTFQuickplay_PlayerJoining::GetCachedSize() const
+    CMsgTFQuickplay_PlayerJoining::CopyFrom(google::protobuf::Message const&)
+    CMsgTFQuickplay_PlayerJoining::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgTFQuickplay_PlayerJoining::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgTFQuickplay_PlayerJoining::GetMetadata() const

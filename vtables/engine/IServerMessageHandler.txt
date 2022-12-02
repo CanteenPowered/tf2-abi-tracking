@@ -1,2 +1,2 @@
 VTable for IServerMessageHandler:
-    [0] IServerMessageHandler::~IServerMessageHandler()
+    IServerMessageHandler::~IServerMessageHandler()

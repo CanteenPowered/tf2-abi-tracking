@@ -1,2 +1,2 @@
 VTable for CTFQuestCondition:
-    [0] CTFQuestCondition::~CTFQuestCondition()
+    CTFQuestCondition::~CTFQuestCondition()

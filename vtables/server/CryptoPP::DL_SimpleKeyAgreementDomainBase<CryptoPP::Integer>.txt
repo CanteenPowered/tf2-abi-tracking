@@ -1,1 +1,15 @@
 VTable for CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>:
+    CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::~DL_SimpleKeyAgreementDomainBase()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::KeyAgreementAlgorithm::AccessMaterial()
+    CryptoPP::KeyAgreementAlgorithm::GetMaterial() const
+    CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::AccessCryptoParameters()
+    CryptoPP::KeyAgreementAlgorithm::GetCryptoParameters() const
+    CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::AgreedValueLength() const
+    CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::PrivateKeyLength() const
+    CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::PublicKeyLength() const
+    CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::GeneratePrivateKey(CryptoPP::RandomNumberGenerator&, unsigned char*) const
+    CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::GeneratePublicKey(CryptoPP::RandomNumberGenerator&, unsigned char const*, unsigned char*) const
+    CryptoPP::SimpleKeyAgreementDomain::GenerateKeyPair(CryptoPP::RandomNumberGenerator&, unsigned char*, unsigned char*) const
+    CryptoPP::DL_SimpleKeyAgreementDomainBase<CryptoPP::Integer>::Agree(unsigned char*, unsigned char const*, unsigned char const*, bool) const

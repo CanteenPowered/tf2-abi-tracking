@@ -1,14 +1,22 @@
 VTable for CGameEvent:
-    [0] CGameEvent::~CGameEvent()
-    [1] CGameEvent::GetName() const
-    [2] CGameEvent::IsReliable() const
-    [3] CGameEvent::IsLocal() const
-    [4] CGameEvent::IsEmpty(char const*)
-    [5] CGameEvent::GetBool(char const*, bool)
-    [6] CGameEvent::GetInt(char const*, int)
-    [7] CGameEvent::GetFloat(char const*, float)
-    [8] CGameEvent::GetString(char const*, char const*)
-    [9] CGameEvent::SetBool(char const*, bool)
-    [10] CGameEvent::SetInt(char const*, int)
-    [11] CGameEvent::SetFloat(char const*, float)
-    [12] CGameEvent::SetString(char const*, char const*)
+    CGameEvent::~CGameEvent()
+    CGameEvent::GetName() const
+    CGameEvent::IsReliable() const
+    CGameEvent::IsLocal() const
+    CGameEvent::IsEmpty(char const*)
+    CGameEvent::GetBool(char const*, bool) const
+    CGameEvent::GetInt(char const*, int) const
+    CGameEvent::GetFloat(char const*, float) const
+    CGameEvent::GetString(char const*, char const*) const
+    CGameEvent::SetBool(char const*, bool)
+    CGameEvent::SetInt(char const*, int)
+    CGameEvent::SetFloat(char const*, float)
+    CGameEvent::SetString(char const*, char const*)
+    CGameEvent::GetUint64(char const*, unsigned long long) const
+    CGameEvent::GetWString(char const*, wchar_t const*) const
+    CGameEvent::GetPtr(char const*) const
+    CGameEvent::SetUint64(char const*, unsigned long long)
+    CGameEvent::SetWString(char const*, wchar_t const*)
+    CGameEvent::SetPtr(char const*, void const*)
+    CGameEvent::GetDataKeys() const
+    CGameEvent::ForEventData(IGameEventVisitor2*) const

@@ -1,20 +1,20 @@
 VTable for CMsgApplyStrangeCountTransfer:
-    [0] CMsgApplyStrangeCountTransfer::~CMsgApplyStrangeCountTransfer()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgApplyStrangeCountTransfer::New() const
-    [3] CMsgApplyStrangeCountTransfer::Clear()
-    [4] CMsgApplyStrangeCountTransfer::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgApplyStrangeCountTransfer::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgApplyStrangeCountTransfer::ByteSize() const
-    [9] CMsgApplyStrangeCountTransfer::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgApplyStrangeCountTransfer::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgApplyStrangeCountTransfer::GetCachedSize() const
-    [12] CMsgApplyStrangeCountTransfer::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgApplyStrangeCountTransfer::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgApplyStrangeCountTransfer::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgApplyStrangeCountTransfer::GetMetadata() const
+    CMsgApplyStrangeCountTransfer::~CMsgApplyStrangeCountTransfer()
+    google::protobuf::Message::GetTypeName() const
+    CMsgApplyStrangeCountTransfer::New() const
+    CMsgApplyStrangeCountTransfer::Clear()
+    CMsgApplyStrangeCountTransfer::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgApplyStrangeCountTransfer::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgApplyStrangeCountTransfer::ByteSize() const
+    CMsgApplyStrangeCountTransfer::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgApplyStrangeCountTransfer::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgApplyStrangeCountTransfer::GetCachedSize() const
+    CMsgApplyStrangeCountTransfer::CopyFrom(google::protobuf::Message const&)
+    CMsgApplyStrangeCountTransfer::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgApplyStrangeCountTransfer::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgApplyStrangeCountTransfer::GetMetadata() const

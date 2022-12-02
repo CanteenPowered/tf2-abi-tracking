@@ -1,20 +1,20 @@
 VTable for CGCMsgGetIPLocationResponse:
-    [0] CGCMsgGetIPLocationResponse::~CGCMsgGetIPLocationResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CGCMsgGetIPLocationResponse::New() const
-    [3] CGCMsgGetIPLocationResponse::Clear()
-    [4] CGCMsgGetIPLocationResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CGCMsgGetIPLocationResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CGCMsgGetIPLocationResponse::ByteSize() const
-    [9] CGCMsgGetIPLocationResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CGCMsgGetIPLocationResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CGCMsgGetIPLocationResponse::GetCachedSize() const
-    [12] CGCMsgGetIPLocationResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CGCMsgGetIPLocationResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CGCMsgGetIPLocationResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CGCMsgGetIPLocationResponse::GetMetadata() const
+    CGCMsgGetIPLocationResponse::~CGCMsgGetIPLocationResponse()
+    google::protobuf::Message::GetTypeName() const
+    CGCMsgGetIPLocationResponse::New() const
+    CGCMsgGetIPLocationResponse::Clear()
+    CGCMsgGetIPLocationResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CGCMsgGetIPLocationResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CGCMsgGetIPLocationResponse::ByteSize() const
+    CGCMsgGetIPLocationResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CGCMsgGetIPLocationResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CGCMsgGetIPLocationResponse::GetCachedSize() const
+    CGCMsgGetIPLocationResponse::CopyFrom(google::protobuf::Message const&)
+    CGCMsgGetIPLocationResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CGCMsgGetIPLocationResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CGCMsgGetIPLocationResponse::GetMetadata() const

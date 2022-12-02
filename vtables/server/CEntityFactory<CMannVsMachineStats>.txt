@@ -1,6 +1,6 @@
 VTable for CEntityFactory<CMannVsMachineStats>:
-    [0] CEntityFactory<CMannVsMachineStats>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CMannVsMachineStats>::GetEntitySize()
+    CEntityFactory<CMannVsMachineStats>::Destroy(IServerNetworkable*)
+    CEntityFactory<CMannVsMachineStats>::GetEntitySize()
 VTable for CEntityFactory<CMannVsMachineLogic>:
-    [0] CEntityFactory<CMannVsMachineLogic>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CMannVsMachineLogic>::GetEntitySize()
+    CEntityFactory<CMannVsMachineLogic>::Destroy(IServerNetworkable*)
+    CEntityFactory<CMannVsMachineLogic>::GetEntitySize()

@@ -1,20 +1,20 @@
 VTable for CMsgGCReportAbuseResponse:
-    [0] CMsgGCReportAbuseResponse::~CMsgGCReportAbuseResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCReportAbuseResponse::New() const
-    [3] CMsgGCReportAbuseResponse::Clear()
-    [4] CMsgGCReportAbuseResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCReportAbuseResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCReportAbuseResponse::ByteSize() const
-    [9] CMsgGCReportAbuseResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCReportAbuseResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCReportAbuseResponse::GetCachedSize() const
-    [12] CMsgGCReportAbuseResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCReportAbuseResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCReportAbuseResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCReportAbuseResponse::GetMetadata() const
+    CMsgGCReportAbuseResponse::~CMsgGCReportAbuseResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCReportAbuseResponse::New() const
+    CMsgGCReportAbuseResponse::Clear()
+    CMsgGCReportAbuseResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCReportAbuseResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCReportAbuseResponse::ByteSize() const
+    CMsgGCReportAbuseResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCReportAbuseResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCReportAbuseResponse::GetCachedSize() const
+    CMsgGCReportAbuseResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgGCReportAbuseResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCReportAbuseResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCReportAbuseResponse::GetMetadata() const

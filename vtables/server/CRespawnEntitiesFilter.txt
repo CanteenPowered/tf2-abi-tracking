@@ -1,2 +1,2 @@
 VTable for CRespawnEntitiesFilter:
-    [0] CRespawnEntitiesFilter::CreateNextEntity(char const*)
+    CRespawnEntitiesFilter::CreateNextEntity(char const*)

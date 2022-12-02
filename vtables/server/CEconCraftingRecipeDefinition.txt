@@ -1,4 +1,4 @@
 VTable for CEconCraftingRecipeDefinition:
-    [0] CEconCraftingRecipeDefinition::~CEconCraftingRecipeDefinition()
-    [1] CEconCraftingRecipeDefinition::CopyPolymorphic(CEconCraftingRecipeDefinition const*)
-    [2] CEconCraftingRecipeDefinition::ItemListMatchesInputs(CUtlVector<CEconItem*, CUtlMemory<CEconItem*, int>>*, KeyValues*, bool, CUtlVector<unsigned long long, CUtlMemory<unsigned long long, int>>*) const
+    CEconCraftingRecipeDefinition::~CEconCraftingRecipeDefinition()
+    CEconCraftingRecipeDefinition::CopyPolymorphic(CEconCraftingRecipeDefinition const*)
+    CEconCraftingRecipeDefinition::ItemListMatchesInputs(CUtlVector<CEconItem*, CUtlMemory<CEconItem*, int>>*, KeyValues*, bool, CUtlVector<unsigned long long, CUtlMemory<unsigned long long, int>>*) const

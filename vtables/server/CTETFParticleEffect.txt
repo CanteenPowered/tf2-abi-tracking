@@ -1,7 +1,7 @@
 VTable for CTETFParticleEffect:
-    [0] CTETFParticleEffect::YouForgotToImplementOrDeclareServerClass()
-    [1] CTETFParticleEffect::~CTETFParticleEffect()
-    [2] CTETFParticleEffect::~CTETFParticleEffect()
-    [3] CBaseTempEntity::Test(Vector const&, QAngle const&)
-    [4] CBaseTempEntity::Create(IRecipientFilter&, float)
-    [5] CBaseTempEntity::Precache()
+    CTETFParticleEffect::YouForgotToImplementOrDeclareServerClass()
+    CTETFParticleEffect::~CTETFParticleEffect()
+    CTETFParticleEffect::~CTETFParticleEffect()
+    CBaseTempEntity::Test(Vector const&, QAngle const&)
+    CBaseTempEntity::Create(IRecipientFilter&, float)
+    CBaseTempEntity::Precache()

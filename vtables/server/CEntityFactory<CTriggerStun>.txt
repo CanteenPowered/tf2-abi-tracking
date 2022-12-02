@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTriggerStun>:
-    [0] CEntityFactory<CTriggerStun>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTriggerStun>::GetEntitySize()
+    CEntityFactory<CTriggerStun>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTriggerStun>::GetEntitySize()

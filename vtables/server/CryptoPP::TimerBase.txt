@@ -1,7 +1,1 @@
 VTable for CryptoPP::TimerBase:
-    [0] non-virtual thunk to CryptoPP::InvertibleRSAFunction::Load(CryptoPP::BufferedTransformation&)
-    [1] non-virtual thunk to CryptoPP::InvertibleRSAFunction::GetAlgorithmID() const
-    [2] CryptoPP::X509PublicKey::BERDecodeAlgorithmParameters(CryptoPP::BufferedTransformation&)
-    [3] CryptoPP::X509PublicKey::DEREncodeAlgorithmParameters(CryptoPP::BufferedTransformation&) const
-    [4] non-virtual thunk to CryptoPP::RSAFunction::BERDecodePublicKey(CryptoPP::BufferedTransformation&, bool, unsigned int)
-    [5] non-virtual thunk to CryptoPP::RSAFunction::DEREncodePublicKey(CryptoPP::BufferedTransformation&) const

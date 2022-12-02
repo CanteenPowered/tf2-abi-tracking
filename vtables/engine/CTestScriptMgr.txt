@@ -1,2 +1,2 @@
 VTable for CTestScriptMgr:
-    [0] CTestScriptMgr::~CTestScriptMgr()
+    CTestScriptMgr::~CTestScriptMgr()

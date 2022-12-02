@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CObjectTeleporter>:
-    [0] CEntityFactory<CObjectTeleporter>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CObjectTeleporter>::GetEntitySize()
+    CEntityFactory<CObjectTeleporter>::Destroy(IServerNetworkable*)
+    CEntityFactory<CObjectTeleporter>::GetEntitySize()

@@ -1,5 +1,40 @@
 VTable for google::protobuf::UninterpretedOption:
+    google::protobuf::UninterpretedOption::~UninterpretedOption()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::UninterpretedOption::New() const
+    google::protobuf::UninterpretedOption::Clear()
+    google::protobuf::UninterpretedOption::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::UninterpretedOption::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::UninterpretedOption::ByteSize() const
+    google::protobuf::UninterpretedOption::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::UninterpretedOption::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::UninterpretedOption::GetCachedSize() const
+    google::protobuf::UninterpretedOption::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::UninterpretedOption::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::UninterpretedOption::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::UninterpretedOption::GetMetadata() const
 VTable for google::protobuf::UninterpretedOption_NamePart:
-    [0] CryptoPP::BufferedTransformation::GetNextMessageSeries()
-    [1] CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
-    [2] CryptoPP::BufferedTransformation::NumberOfMessageSeries() const
+    google::protobuf::UninterpretedOption_NamePart::~UninterpretedOption_NamePart()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::UninterpretedOption_NamePart::New() const
+    google::protobuf::UninterpretedOption_NamePart::Clear()
+    google::protobuf::UninterpretedOption_NamePart::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::UninterpretedOption_NamePart::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::UninterpretedOption_NamePart::ByteSize() const
+    google::protobuf::UninterpretedOption_NamePart::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::UninterpretedOption_NamePart::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::UninterpretedOption_NamePart::GetCachedSize() const
+    google::protobuf::UninterpretedOption_NamePart::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::UninterpretedOption_NamePart::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::UninterpretedOption_NamePart::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::UninterpretedOption_NamePart::GetMetadata() const

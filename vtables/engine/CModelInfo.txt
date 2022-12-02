@@ -1,2 +1,2 @@
 VTable for CModelInfo:
-    [0] CModelInfo::~CModelInfo()
+    CModelInfo::~CModelInfo()

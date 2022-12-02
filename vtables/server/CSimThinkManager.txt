@@ -1,3 +1,3 @@
 VTable for CSimThinkManager:
-    [0] IEntityListener::OnEntitySpawned(CBaseEntity*)
-    [1] CSimThinkManager::OnEntityDeleted(CBaseEntity*)
+    IEntityListener::OnEntitySpawned(CBaseEntity*)
+    CSimThinkManager::OnEntityDeleted(CBaseEntity*)

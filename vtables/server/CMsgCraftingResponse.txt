@@ -1,20 +1,20 @@
 VTable for CMsgCraftingResponse:
-    [0] CMsgCraftingResponse::~CMsgCraftingResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgCraftingResponse::New() const
-    [3] CMsgCraftingResponse::Clear()
-    [4] CMsgCraftingResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgCraftingResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgCraftingResponse::ByteSize() const
-    [9] CMsgCraftingResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgCraftingResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgCraftingResponse::GetCachedSize() const
-    [12] CMsgCraftingResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgCraftingResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgCraftingResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgCraftingResponse::GetMetadata() const
+    CMsgCraftingResponse::~CMsgCraftingResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgCraftingResponse::New() const
+    CMsgCraftingResponse::Clear()
+    CMsgCraftingResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgCraftingResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgCraftingResponse::ByteSize() const
+    CMsgCraftingResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgCraftingResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgCraftingResponse::GetCachedSize() const
+    CMsgCraftingResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgCraftingResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgCraftingResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgCraftingResponse::GetMetadata() const

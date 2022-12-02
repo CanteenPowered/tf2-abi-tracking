@@ -1,1 +1,20 @@
 VTable for google::protobuf::MethodDescriptorProto:
+    google::protobuf::MethodDescriptorProto::~MethodDescriptorProto()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::MethodDescriptorProto::New() const
+    google::protobuf::MethodDescriptorProto::Clear()
+    google::protobuf::MethodDescriptorProto::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::MethodDescriptorProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::MethodDescriptorProto::ByteSize() const
+    google::protobuf::MethodDescriptorProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::MethodDescriptorProto::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::MethodDescriptorProto::GetCachedSize() const
+    google::protobuf::MethodDescriptorProto::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::MethodDescriptorProto::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::MethodDescriptorProto::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::MethodDescriptorProto::GetMetadata() const

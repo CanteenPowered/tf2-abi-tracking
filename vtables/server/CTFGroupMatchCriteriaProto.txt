@@ -1,20 +1,20 @@
 VTable for CTFGroupMatchCriteriaProto:
-    [0] CTFGroupMatchCriteriaProto::~CTFGroupMatchCriteriaProto()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CTFGroupMatchCriteriaProto::New() const
-    [3] CTFGroupMatchCriteriaProto::Clear()
-    [4] CTFGroupMatchCriteriaProto::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CTFGroupMatchCriteriaProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CTFGroupMatchCriteriaProto::ByteSize() const
-    [9] CTFGroupMatchCriteriaProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CTFGroupMatchCriteriaProto::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CTFGroupMatchCriteriaProto::GetCachedSize() const
-    [12] CTFGroupMatchCriteriaProto::CopyFrom(google::protobuf::Message const&)
-    [13] CTFGroupMatchCriteriaProto::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CTFGroupMatchCriteriaProto::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CTFGroupMatchCriteriaProto::GetMetadata() const
+    CTFGroupMatchCriteriaProto::~CTFGroupMatchCriteriaProto()
+    google::protobuf::Message::GetTypeName() const
+    CTFGroupMatchCriteriaProto::New() const
+    CTFGroupMatchCriteriaProto::Clear()
+    CTFGroupMatchCriteriaProto::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CTFGroupMatchCriteriaProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CTFGroupMatchCriteriaProto::ByteSize() const
+    CTFGroupMatchCriteriaProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CTFGroupMatchCriteriaProto::SerializeWithCachedSizesToArray(unsigned char*) const
+    CTFGroupMatchCriteriaProto::GetCachedSize() const
+    CTFGroupMatchCriteriaProto::CopyFrom(google::protobuf::Message const&)
+    CTFGroupMatchCriteriaProto::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CTFGroupMatchCriteriaProto::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CTFGroupMatchCriteriaProto::GetMetadata() const

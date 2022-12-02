@@ -1,20 +1,20 @@
 VTable for CMsgGC_Match_ResultResponse:
-    [0] CMsgGC_Match_ResultResponse::~CMsgGC_Match_ResultResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGC_Match_ResultResponse::New() const
-    [3] CMsgGC_Match_ResultResponse::Clear()
-    [4] CMsgGC_Match_ResultResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGC_Match_ResultResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGC_Match_ResultResponse::ByteSize() const
-    [9] CMsgGC_Match_ResultResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGC_Match_ResultResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGC_Match_ResultResponse::GetCachedSize() const
-    [12] CMsgGC_Match_ResultResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGC_Match_ResultResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGC_Match_ResultResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGC_Match_ResultResponse::GetMetadata() const
+    CMsgGC_Match_ResultResponse::~CMsgGC_Match_ResultResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGC_Match_ResultResponse::New() const
+    CMsgGC_Match_ResultResponse::Clear()
+    CMsgGC_Match_ResultResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGC_Match_ResultResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGC_Match_ResultResponse::ByteSize() const
+    CMsgGC_Match_ResultResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGC_Match_ResultResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGC_Match_ResultResponse::GetCachedSize() const
+    CMsgGC_Match_ResultResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgGC_Match_ResultResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGC_Match_ResultResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGC_Match_ResultResponse::GetMetadata() const

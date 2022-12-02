@@ -1,2 +1,2 @@
 VTable for IClientEngineTools:
-    [0] IClientEngineTools::~IClientEngineTools()
+    IClientEngineTools::~IClientEngineTools()

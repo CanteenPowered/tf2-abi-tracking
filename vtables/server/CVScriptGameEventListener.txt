@@ -1,0 +1,3 @@
+VTable for CVScriptGameEventListener:
+    CVScriptGameEventListener::~CVScriptGameEventListener()
+    CVScriptGameEventListener::FireGameEvent(IGameEvent*)

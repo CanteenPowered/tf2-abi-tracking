@@ -1,20 +1,20 @@
 VTable for CMsgGCGiftedItems:
-    [0] CMsgGCGiftedItems::~CMsgGCGiftedItems()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCGiftedItems::New() const
-    [3] CMsgGCGiftedItems::Clear()
-    [4] CMsgGCGiftedItems::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCGiftedItems::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCGiftedItems::ByteSize() const
-    [9] CMsgGCGiftedItems::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCGiftedItems::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCGiftedItems::GetCachedSize() const
-    [12] CMsgGCGiftedItems::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCGiftedItems::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCGiftedItems::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCGiftedItems::GetMetadata() const
+    CMsgGCGiftedItems::~CMsgGCGiftedItems()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCGiftedItems::New() const
+    CMsgGCGiftedItems::Clear()
+    CMsgGCGiftedItems::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCGiftedItems::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCGiftedItems::ByteSize() const
+    CMsgGCGiftedItems::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCGiftedItems::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCGiftedItems::GetCachedSize() const
+    CMsgGCGiftedItems::CopyFrom(google::protobuf::Message const&)
+    CMsgGCGiftedItems::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCGiftedItems::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCGiftedItems::GetMetadata() const

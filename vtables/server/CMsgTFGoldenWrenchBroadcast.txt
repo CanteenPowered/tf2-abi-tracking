@@ -1,20 +1,20 @@
 VTable for CMsgTFGoldenWrenchBroadcast:
-    [0] CMsgTFGoldenWrenchBroadcast::~CMsgTFGoldenWrenchBroadcast()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgTFGoldenWrenchBroadcast::New() const
-    [3] CMsgTFGoldenWrenchBroadcast::Clear()
-    [4] CMsgTFGoldenWrenchBroadcast::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgTFGoldenWrenchBroadcast::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgTFGoldenWrenchBroadcast::ByteSize() const
-    [9] CMsgTFGoldenWrenchBroadcast::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgTFGoldenWrenchBroadcast::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgTFGoldenWrenchBroadcast::GetCachedSize() const
-    [12] CMsgTFGoldenWrenchBroadcast::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgTFGoldenWrenchBroadcast::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgTFGoldenWrenchBroadcast::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgTFGoldenWrenchBroadcast::GetMetadata() const
+    CMsgTFGoldenWrenchBroadcast::~CMsgTFGoldenWrenchBroadcast()
+    google::protobuf::Message::GetTypeName() const
+    CMsgTFGoldenWrenchBroadcast::New() const
+    CMsgTFGoldenWrenchBroadcast::Clear()
+    CMsgTFGoldenWrenchBroadcast::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgTFGoldenWrenchBroadcast::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgTFGoldenWrenchBroadcast::ByteSize() const
+    CMsgTFGoldenWrenchBroadcast::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgTFGoldenWrenchBroadcast::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgTFGoldenWrenchBroadcast::GetCachedSize() const
+    CMsgTFGoldenWrenchBroadcast::CopyFrom(google::protobuf::Message const&)
+    CMsgTFGoldenWrenchBroadcast::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgTFGoldenWrenchBroadcast::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgTFGoldenWrenchBroadcast::GetMetadata() const

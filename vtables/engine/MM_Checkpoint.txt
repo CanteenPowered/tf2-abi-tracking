@@ -1,16 +1,16 @@
 VTable for MM_Checkpoint:
-    [0] MM_Checkpoint::~MM_Checkpoint()
-    [1] CNetMessage::SetNetChannel(INetChannel*)
-    [2] CNetMessage::SetReliable(bool)
-    [3] MM_Checkpoint::Process()
-    [4] MM_Checkpoint::ReadFromBuffer(bf_read&)
-    [5] MM_Checkpoint::WriteToBuffer(bf_write&)
-    [6] CNetMessage::IsReliable() const
-    [7] MM_Checkpoint::GetType() const
-    [8] CNetMessage::GetGroup() const
-    [9] MM_Checkpoint::GetName() const
-    [10] CNetMessage::GetNetChannel() const
-    [11] MM_Checkpoint::ToString() const
-    [12] CNetMessage::BIncomingMessageForProcessing(double, int)
-    [13] MM_Checkpoint::GetSize() const
-    [14] CNetMessage::SetRatePolicy()
+    MM_Checkpoint::~MM_Checkpoint()
+    CNetMessage::SetNetChannel(INetChannel*)
+    CNetMessage::SetReliable(bool)
+    MM_Checkpoint::Process()
+    MM_Checkpoint::ReadFromBuffer(bf_read&)
+    MM_Checkpoint::WriteToBuffer(bf_write&)
+    CNetMessage::IsReliable() const
+    MM_Checkpoint::GetType() const
+    CNetMessage::GetGroup() const
+    MM_Checkpoint::GetName() const
+    CNetMessage::GetNetChannel() const
+    MM_Checkpoint::ToString() const
+    CNetMessage::BIncomingMessageForProcessing(double, int)
+    MM_Checkpoint::GetSize() const
+    CNetMessage::SetRatePolicy()

@@ -1,6 +1,6 @@
 VTable for CAI_Expresser:
-    [0] CAI_Expresser::~CAI_Expresser()
-    [1] CAI_Expresser::IsValidResponse(ResponseType_t, char const*)
-    [2] CAI_Expresser::SpeakRawSentence(char const*, float, float, soundlevel_t, CBaseEntity*)
-    [3] CAI_Expresser::IsSpeaking()
-    [4] CAI_Expresser::SetOuter(CBaseFlex*)
+    CAI_Expresser::~CAI_Expresser()
+    CAI_Expresser::IsValidResponse(ResponseType_t, char const*)
+    CAI_Expresser::SpeakRawSentence(char const*, float, float, soundlevel_t, CBaseEntity*)
+    CAI_Expresser::IsSpeaking()
+    CAI_Expresser::SetOuter(CBaseFlex*)

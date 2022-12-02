@@ -1,6 +1,6 @@
 VTable for CCollectPayloadGuardVantagePoints:
-    [0] CCollectPayloadGuardVantagePoints::~CCollectPayloadGuardVantagePoints()
-    [1] CCollectPayloadGuardVantagePoints::operator()(CNavArea*, CNavArea*, float)
-    [2] ISearchSurroundingAreasFunctor::ShouldSearch(CNavArea*, CNavArea*, float)
-    [3] ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)
-    [4] ISearchSurroundingAreasFunctor::PostSearch()
+    CCollectPayloadGuardVantagePoints::~CCollectPayloadGuardVantagePoints()
+    CCollectPayloadGuardVantagePoints::operator()(CNavArea*, CNavArea*, float)
+    ISearchSurroundingAreasFunctor::ShouldSearch(CNavArea*, CNavArea*, float)
+    ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)
+    ISearchSurroundingAreasFunctor::PostSearch()

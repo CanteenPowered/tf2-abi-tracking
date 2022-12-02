@@ -1,20 +1,20 @@
 VTable for CSOClassPresetClientData:
-    [0] CSOClassPresetClientData::~CSOClassPresetClientData()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CSOClassPresetClientData::New() const
-    [3] CSOClassPresetClientData::Clear()
-    [4] CSOClassPresetClientData::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CSOClassPresetClientData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CSOClassPresetClientData::ByteSize() const
-    [9] CSOClassPresetClientData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CSOClassPresetClientData::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CSOClassPresetClientData::GetCachedSize() const
-    [12] CSOClassPresetClientData::CopyFrom(google::protobuf::Message const&)
-    [13] CSOClassPresetClientData::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CSOClassPresetClientData::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CSOClassPresetClientData::GetMetadata() const
+    CSOClassPresetClientData::~CSOClassPresetClientData()
+    google::protobuf::Message::GetTypeName() const
+    CSOClassPresetClientData::New() const
+    CSOClassPresetClientData::Clear()
+    CSOClassPresetClientData::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CSOClassPresetClientData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CSOClassPresetClientData::ByteSize() const
+    CSOClassPresetClientData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CSOClassPresetClientData::SerializeWithCachedSizesToArray(unsigned char*) const
+    CSOClassPresetClientData::GetCachedSize() const
+    CSOClassPresetClientData::CopyFrom(google::protobuf::Message const&)
+    CSOClassPresetClientData::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CSOClassPresetClientData::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CSOClassPresetClientData::GetMetadata() const

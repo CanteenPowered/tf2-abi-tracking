@@ -1,4 +1,4 @@
 VTable for TSListTests::CListOps:
-    [0] TSListTests::CListOps::Pop(int*)
-    [1] TSListTests::CListOps::Validate()
-    [2] TSListTests::CListOps::IsEmpty()
+    TSListTests::CListOps::Pop(int*)
+    TSListTests::CListOps::Validate()
+    TSListTests::CListOps::IsEmpty()

@@ -1,4 +1,4 @@
 VTable for RefTFPerPlayerMatchCriteria:
-    [0] RefTFPerPlayerMatchCriteria::~RefTFPerPlayerMatchCriteria()
-    [1] RefTFPerPlayerMatchCriteria::Proto() const
-    [2] RefTFPerPlayerMatchCriteria::MutProto()
+    RefTFPerPlayerMatchCriteria::~RefTFPerPlayerMatchCriteria()
+    RefTFPerPlayerMatchCriteria::Proto() const
+    RefTFPerPlayerMatchCriteria::MutProto()

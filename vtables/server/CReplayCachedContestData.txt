@@ -1,20 +1,20 @@
 VTable for CReplayCachedContestData:
-    [0] CReplayCachedContestData::~CReplayCachedContestData()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CReplayCachedContestData::New() const
-    [3] CReplayCachedContestData::Clear()
-    [4] CReplayCachedContestData::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CReplayCachedContestData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CReplayCachedContestData::ByteSize() const
-    [9] CReplayCachedContestData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CReplayCachedContestData::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CReplayCachedContestData::GetCachedSize() const
-    [12] CReplayCachedContestData::CopyFrom(google::protobuf::Message const&)
-    [13] CReplayCachedContestData::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CReplayCachedContestData::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CReplayCachedContestData::GetMetadata() const
+    CReplayCachedContestData::~CReplayCachedContestData()
+    google::protobuf::Message::GetTypeName() const
+    CReplayCachedContestData::New() const
+    CReplayCachedContestData::Clear()
+    CReplayCachedContestData::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CReplayCachedContestData::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CReplayCachedContestData::ByteSize() const
+    CReplayCachedContestData::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CReplayCachedContestData::SerializeWithCachedSizesToArray(unsigned char*) const
+    CReplayCachedContestData::GetCachedSize() const
+    CReplayCachedContestData::CopyFrom(google::protobuf::Message const&)
+    CReplayCachedContestData::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CReplayCachedContestData::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CReplayCachedContestData::GetMetadata() const

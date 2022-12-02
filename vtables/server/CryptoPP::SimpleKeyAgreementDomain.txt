@@ -1,1 +1,6 @@
 VTable for CryptoPP::SimpleKeyAgreementDomain:
+    CryptoPP::SimpleKeyAgreementDomain::~SimpleKeyAgreementDomain()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::KeyAgreementAlgorithm::AccessMaterial()
+    CryptoPP::KeyAgreementAlgorithm::GetMaterial() const

@@ -1,22 +1,22 @@
 VTable for CTFGenericStringRestriction:
-    [0] CTFGenericStringRestriction::~CTFGenericStringRestriction()
-    [1] CTFQuestRestriction::GetBaseName() const
-    [2] CTFGenericStringRestriction::GetConditionName() const
-    [3] CTFQuestCondition::GetValueString() const
-    [4] CTFGenericStringRestriction::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [5] CTFQuestCondition::PrintDebugText() const
-    [6] CTFQuestCondition::GetQuestOwner() const
-    [7] CTFQuestCondition::IsValidForPlayer(CTFPlayer const*, InvalidReason&) const
-    [8] CTFQuestCondition::IsOperator() const
-    [9] CTFQuestCondition::IsEvaluator() const
-    [10] CTFQuestCondition::AddChildByName(char const*)
-    [11] CTFQuestCondition::GetChildren(CUtlVector<CTFQuestCondition*, CUtlMemory<CTFQuestCondition*, int>>&)
-    [12] CTFQuestCondition::RemoveAndDeleteChild(CTFQuestCondition*)
-    [13] CTFGenericStringRestriction::GetRequiredParamKeys(KeyValues*)
-    [14] CTFGenericStringRestriction::GetOutputKeyValues(KeyValues*)
-    [15] CTFQuestRestriction::GetValidTypes(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const
-    [16] CTFQuestRestriction::GetValidChildren(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const
-    [17] CTFQuestCondition::GetMaxInputCount() const
-    [18] CTFQuestRestriction::GetEventName() const
-    [19] CTFQuestRestriction::SetEventName(char const*)
-    [20] CTFGenericStringRestriction::PassesRestrictions(IGameEvent*) const
+    CTFGenericStringRestriction::~CTFGenericStringRestriction()
+    CTFQuestRestriction::GetBaseName() const
+    CTFGenericStringRestriction::GetConditionName() const
+    CTFQuestCondition::GetValueString() const
+    CTFGenericStringRestriction::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTFQuestCondition::PrintDebugText() const
+    CTFQuestCondition::GetQuestOwner() const
+    CTFQuestCondition::IsValidForPlayer(CTFPlayer const*, InvalidReason&) const
+    CTFQuestCondition::IsOperator() const
+    CTFQuestCondition::IsEvaluator() const
+    CTFQuestCondition::AddChildByName(char const*)
+    CTFQuestCondition::GetChildren(CUtlVector<CTFQuestCondition*, CUtlMemory<CTFQuestCondition*, int>>&)
+    CTFQuestCondition::RemoveAndDeleteChild(CTFQuestCondition*)
+    CTFGenericStringRestriction::GetRequiredParamKeys(KeyValues*)
+    CTFGenericStringRestriction::GetOutputKeyValues(KeyValues*)
+    CTFQuestRestriction::GetValidTypes(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const
+    CTFQuestRestriction::GetValidChildren(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const
+    CTFQuestCondition::GetMaxInputCount() const
+    CTFQuestRestriction::GetEventName() const
+    CTFQuestRestriction::SetEventName(char const*)
+    CTFGenericStringRestriction::PassesRestrictions(IGameEvent*) const

@@ -1,1 +1,3 @@
 VTable for CryptoPP::SelfTestFailure:
+    CryptoPP::SelfTestFailure::~SelfTestFailure()
+    CryptoPP::Exception::what() const

@@ -1,6 +1,6 @@
 VTable for GCSDK::CProtoBufMsg<CMsgIncrementKillCountAttribute_Multiple>:
-    [0] GCSDK::CProtoBufMsg<CMsgIncrementKillCountAttribute_Multiple>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgIncrementKillCountAttribute_Multiple>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgIncrementKillCountAttribute_Multiple>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgIncrementKillCountAttribute_Multiple>::GetGenericBody() const
 VTable for GCSDK::CProtoBufMsg<CMsgIncrementKillCountAttribute>:
-    [0] GCSDK::CProtoBufMsg<CMsgIncrementKillCountAttribute>::~CProtoBufMsg()
-    [1] GCSDK::CProtoBufMsg<CMsgIncrementKillCountAttribute>::GetGenericBody() const
+    GCSDK::CProtoBufMsg<CMsgIncrementKillCountAttribute>::~CProtoBufMsg()
+    GCSDK::CProtoBufMsg<CMsgIncrementKillCountAttribute>::GetGenericBody() const

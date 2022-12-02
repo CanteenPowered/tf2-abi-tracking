@@ -1,20 +1,20 @@
 VTable for GCQuestStrangeEvent:
-    [0] GCQuestStrangeEvent::~GCQuestStrangeEvent()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] GCQuestStrangeEvent::New() const
-    [3] GCQuestStrangeEvent::Clear()
-    [4] GCQuestStrangeEvent::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] GCQuestStrangeEvent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] GCQuestStrangeEvent::ByteSize() const
-    [9] GCQuestStrangeEvent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] GCQuestStrangeEvent::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] GCQuestStrangeEvent::GetCachedSize() const
-    [12] GCQuestStrangeEvent::CopyFrom(google::protobuf::Message const&)
-    [13] GCQuestStrangeEvent::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] GCQuestStrangeEvent::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] GCQuestStrangeEvent::GetMetadata() const
+    GCQuestStrangeEvent::~GCQuestStrangeEvent()
+    google::protobuf::Message::GetTypeName() const
+    GCQuestStrangeEvent::New() const
+    GCQuestStrangeEvent::Clear()
+    GCQuestStrangeEvent::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    GCQuestStrangeEvent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    GCQuestStrangeEvent::ByteSize() const
+    GCQuestStrangeEvent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    GCQuestStrangeEvent::SerializeWithCachedSizesToArray(unsigned char*) const
+    GCQuestStrangeEvent::GetCachedSize() const
+    GCQuestStrangeEvent::CopyFrom(google::protobuf::Message const&)
+    GCQuestStrangeEvent::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    GCQuestStrangeEvent::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    GCQuestStrangeEvent::GetMetadata() const

@@ -1,20 +1,20 @@
 VTable for CMsgApplyStrangeRestriction:
-    [0] CMsgApplyStrangeRestriction::~CMsgApplyStrangeRestriction()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgApplyStrangeRestriction::New() const
-    [3] CMsgApplyStrangeRestriction::Clear()
-    [4] CMsgApplyStrangeRestriction::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgApplyStrangeRestriction::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgApplyStrangeRestriction::ByteSize() const
-    [9] CMsgApplyStrangeRestriction::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgApplyStrangeRestriction::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgApplyStrangeRestriction::GetCachedSize() const
-    [12] CMsgApplyStrangeRestriction::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgApplyStrangeRestriction::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgApplyStrangeRestriction::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgApplyStrangeRestriction::GetMetadata() const
+    CMsgApplyStrangeRestriction::~CMsgApplyStrangeRestriction()
+    google::protobuf::Message::GetTypeName() const
+    CMsgApplyStrangeRestriction::New() const
+    CMsgApplyStrangeRestriction::Clear()
+    CMsgApplyStrangeRestriction::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgApplyStrangeRestriction::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgApplyStrangeRestriction::ByteSize() const
+    CMsgApplyStrangeRestriction::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgApplyStrangeRestriction::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgApplyStrangeRestriction::GetCachedSize() const
+    CMsgApplyStrangeRestriction::CopyFrom(google::protobuf::Message const&)
+    CMsgApplyStrangeRestriction::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgApplyStrangeRestriction::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgApplyStrangeRestriction::GetMetadata() const

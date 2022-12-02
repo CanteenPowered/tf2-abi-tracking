@@ -1,5 +1,5 @@
 VTable for CEntityDataInstantiator<CWatcherList>:
-    [0] CEntityDataInstantiator<CWatcherList>::~CEntityDataInstantiator()
-    [1] CEntityDataInstantiator<CWatcherList>::GetDataObject(CBaseEntity const*)
-    [2] CEntityDataInstantiator<CWatcherList>::CreateDataObject(CBaseEntity const*)
-    [3] CEntityDataInstantiator<CWatcherList>::DestroyDataObject(CBaseEntity const*)
+    CEntityDataInstantiator<CWatcherList>::~CEntityDataInstantiator()
+    CEntityDataInstantiator<CWatcherList>::GetDataObject(CBaseEntity const*)
+    CEntityDataInstantiator<CWatcherList>::CreateDataObject(CBaseEntity const*)
+    CEntityDataInstantiator<CWatcherList>::DestroyDataObject(CBaseEntity const*)

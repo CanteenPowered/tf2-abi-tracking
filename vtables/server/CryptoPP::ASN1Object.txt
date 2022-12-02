@@ -1,2 +1,2 @@
 VTable for CryptoPP::ASN1Object:
-    [0] CryptoPP::ASN1Object::~ASN1Object()
+    CryptoPP::ASN1Object::~ASN1Object()

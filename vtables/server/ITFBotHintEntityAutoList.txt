@@ -1,2 +1,2 @@
 VTable for ITFBotHintEntityAutoList:
-    [0] ITFBotHintEntityAutoList::~ITFBotHintEntityAutoList()
+    ITFBotHintEntityAutoList::~ITFBotHintEntityAutoList()

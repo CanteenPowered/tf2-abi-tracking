@@ -1,10 +1,10 @@
 VTable for CPaintKitOperation:
-    [0] CPaintKitOperation::~CPaintKitOperation()
-    [1] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetMsg() const
-    [2] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetDefType() const
-    [3] IProtoBufScriptObjectDefinition::GetDisplayName() const
-    [4] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetTopLayerMessage() const
-    [5] IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [6] IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
-    [7] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetMutableTopLayerMsg()
-    [8] CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetMutableMsg()
+    CPaintKitOperation::~CPaintKitOperation()
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetMsg() const
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetDefType() const
+    IProtoBufScriptObjectDefinition::GetDisplayName() const
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetTopLayerMessage() const
+    IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetMutableTopLayerMsg()
+    CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Operation, (ProtoDefTypes)7>::GetMutableMsg()

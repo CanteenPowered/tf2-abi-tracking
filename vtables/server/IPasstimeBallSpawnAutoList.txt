@@ -1,2 +1,2 @@
 VTable for IPasstimeBallSpawnAutoList:
-    [0] IPasstimeBallSpawnAutoList::~IPasstimeBallSpawnAutoList()
+    IPasstimeBallSpawnAutoList::~IPasstimeBallSpawnAutoList()

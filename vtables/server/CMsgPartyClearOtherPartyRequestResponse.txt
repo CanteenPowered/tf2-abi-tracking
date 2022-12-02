@@ -1,40 +1,40 @@
 VTable for CMsgPartyClearOtherPartyRequestResponse:
-    [0] CMsgPartyClearOtherPartyRequestResponse::~CMsgPartyClearOtherPartyRequestResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgPartyClearOtherPartyRequestResponse::New() const
-    [3] CMsgPartyClearOtherPartyRequestResponse::Clear()
-    [4] CMsgPartyClearOtherPartyRequestResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgPartyClearOtherPartyRequestResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgPartyClearOtherPartyRequestResponse::ByteSize() const
-    [9] CMsgPartyClearOtherPartyRequestResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgPartyClearOtherPartyRequestResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgPartyClearOtherPartyRequestResponse::GetCachedSize() const
-    [12] CMsgPartyClearOtherPartyRequestResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgPartyClearOtherPartyRequestResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgPartyClearOtherPartyRequestResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgPartyClearOtherPartyRequestResponse::GetMetadata() const
+    CMsgPartyClearOtherPartyRequestResponse::~CMsgPartyClearOtherPartyRequestResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgPartyClearOtherPartyRequestResponse::New() const
+    CMsgPartyClearOtherPartyRequestResponse::Clear()
+    CMsgPartyClearOtherPartyRequestResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgPartyClearOtherPartyRequestResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgPartyClearOtherPartyRequestResponse::ByteSize() const
+    CMsgPartyClearOtherPartyRequestResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgPartyClearOtherPartyRequestResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgPartyClearOtherPartyRequestResponse::GetCachedSize() const
+    CMsgPartyClearOtherPartyRequestResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgPartyClearOtherPartyRequestResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgPartyClearOtherPartyRequestResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgPartyClearOtherPartyRequestResponse::GetMetadata() const
 VTable for CMsgPartyClearOtherPartyRequest:
-    [0] CMsgPartyClearOtherPartyRequest::~CMsgPartyClearOtherPartyRequest()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgPartyClearOtherPartyRequest::New() const
-    [3] CMsgPartyClearOtherPartyRequest::Clear()
-    [4] CMsgPartyClearOtherPartyRequest::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgPartyClearOtherPartyRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgPartyClearOtherPartyRequest::ByteSize() const
-    [9] CMsgPartyClearOtherPartyRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgPartyClearOtherPartyRequest::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgPartyClearOtherPartyRequest::GetCachedSize() const
-    [12] CMsgPartyClearOtherPartyRequest::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgPartyClearOtherPartyRequest::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgPartyClearOtherPartyRequest::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgPartyClearOtherPartyRequest::GetMetadata() const
+    CMsgPartyClearOtherPartyRequest::~CMsgPartyClearOtherPartyRequest()
+    google::protobuf::Message::GetTypeName() const
+    CMsgPartyClearOtherPartyRequest::New() const
+    CMsgPartyClearOtherPartyRequest::Clear()
+    CMsgPartyClearOtherPartyRequest::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgPartyClearOtherPartyRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgPartyClearOtherPartyRequest::ByteSize() const
+    CMsgPartyClearOtherPartyRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgPartyClearOtherPartyRequest::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgPartyClearOtherPartyRequest::GetCachedSize() const
+    CMsgPartyClearOtherPartyRequest::CopyFrom(google::protobuf::Message const&)
+    CMsgPartyClearOtherPartyRequest::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgPartyClearOtherPartyRequest::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgPartyClearOtherPartyRequest::GetMetadata() const

@@ -1,1 +1,3 @@
 VTable for CryptoPP::CombinedNameValuePairs:
+    CryptoPP::CombinedNameValuePairs::~CombinedNameValuePairs()
+    CryptoPP::CombinedNameValuePairs::GetVoidValue(char const*, std::type_info const&, void*) const

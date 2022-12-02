@@ -1,6 +1,6 @@
 VTable for CEconTool_WeddingRing:
-    [0] CEconTool_WeddingRing::~CEconTool_WeddingRing()
-    [1] IEconTool::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
-    [2] IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
-    [3] CEconTool_WeddingRing::RequiresToolEscrowPeriod() const
-    [4] IEconTool::BFinishInitialization()
+    CEconTool_WeddingRing::~CEconTool_WeddingRing()
+    IEconTool::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const
+    IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const
+    CEconTool_WeddingRing::RequiresToolEscrowPeriod() const
+    IEconTool::BFinishInitialization()

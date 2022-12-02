@@ -1,1 +1,3 @@
 VTable for CryptoPP::Inflator::UnexpectedEndErr:
+    CryptoPP::Inflator::UnexpectedEndErr::~UnexpectedEndErr()
+    CryptoPP::Exception::what() const

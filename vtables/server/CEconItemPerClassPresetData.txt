@@ -1,11 +1,11 @@
 VTable for CEconItemPerClassPresetData:
-    [0] CEconItemPerClassPresetData::~CEconItemPerClassPresetData()
-    [1] CEconItemPerClassPresetData::GetTypeID() const
-    [2] CEconItemPerClassPresetData::BParseFromMessage(CUtlBuffer const&)
-    [3] CEconItemPerClassPresetData::BParseFromMessage(std::string const&)
-    [4] CEconItemPerClassPresetData::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] CEconItemPerClassPresetData::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] CEconItemPerClassPresetData::Copy(GCSDK::CSharedObject const&)
-    [7] CEconItemPerClassPresetData::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
+    CEconItemPerClassPresetData::~CEconItemPerClassPresetData()
+    CEconItemPerClassPresetData::GetTypeID() const
+    CEconItemPerClassPresetData::BParseFromMessage(CUtlBuffer const&)
+    CEconItemPerClassPresetData::BParseFromMessage(std::string const&)
+    CEconItemPerClassPresetData::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    CEconItemPerClassPresetData::BIsKeyLess(GCSDK::CSharedObject const&) const
+    CEconItemPerClassPresetData::Copy(GCSDK::CSharedObject const&)
+    CEconItemPerClassPresetData::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const

@@ -1,6 +1,6 @@
 VTable for CEngineRecipientFilter:
-    [0] CEngineRecipientFilter::~CEngineRecipientFilter()
-    [1] CEngineRecipientFilter::IsReliable() const
-    [2] CEngineRecipientFilter::IsInitMessage() const
-    [3] CEngineRecipientFilter::GetRecipientCount() const
-    [4] CEngineRecipientFilter::GetRecipientIndex(int) const
+    CEngineRecipientFilter::~CEngineRecipientFilter()
+    CEngineRecipientFilter::IsReliable() const
+    CEngineRecipientFilter::IsInitMessage() const
+    CEngineRecipientFilter::GetRecipientCount() const
+    CEngineRecipientFilter::GetRecipientIndex(int) const

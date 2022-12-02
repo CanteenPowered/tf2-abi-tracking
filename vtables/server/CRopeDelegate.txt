@@ -1,2 +1,2 @@
 VTable for CRopeDelegate:
-    [0] CRopeDelegate::ApplyConstraints(CSimplePhysics::CNode*, int)
+    CRopeDelegate::ApplyConstraints(CSimplePhysics::CNode*, int)

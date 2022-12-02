@@ -1,1 +1,12 @@
 VTable for CryptoPP::RandomPool:
+    CryptoPP::RandomPool::~RandomPool()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::RandomPool::IncorporateEntropy(unsigned char const*, unsigned int)
+    CryptoPP::RandomPool::CanIncorporateEntropy() const
+    CryptoPP::RandomNumberGenerator::GenerateByte()
+    CryptoPP::RandomNumberGenerator::GenerateBit()
+    CryptoPP::RandomNumberGenerator::GenerateWord32(unsigned int, unsigned int)
+    CryptoPP::RandomNumberGenerator::GenerateBlock(unsigned char*, unsigned int)
+    CryptoPP::RandomPool::GenerateIntoBufferedTransformation(CryptoPP::BufferedTransformation&, std::string const&, unsigned long long)
+    CryptoPP::RandomNumberGenerator::DiscardBytes(unsigned int)

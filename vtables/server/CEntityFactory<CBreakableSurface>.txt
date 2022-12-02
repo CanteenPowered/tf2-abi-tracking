@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CBreakableSurface>:
-    [0] CEntityFactory<CBreakableSurface>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CBreakableSurface>::GetEntitySize()
+    CEntityFactory<CBreakableSurface>::Destroy(IServerNetworkable*)
+    CEntityFactory<CBreakableSurface>::GetEntitySize()

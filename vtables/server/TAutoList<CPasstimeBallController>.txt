@@ -1,2 +1,2 @@
 VTable for TAutoList<CPasstimeBallController>:
-    [0] TAutoList<CPasstimeBallController>::~TAutoList()
+    TAutoList<CPasstimeBallController>::~TAutoList()

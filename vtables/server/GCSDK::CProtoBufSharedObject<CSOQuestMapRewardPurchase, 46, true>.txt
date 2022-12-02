@@ -1,158 +1,158 @@
 VTable for GCSDK::CProtoBufSharedObject<CSOTFLadderPlayerStats, 39, true>:
-    [0] GCSDK::CProtoBufSharedObject<CSOTFLadderPlayerStats, 39, true>::~CProtoBufSharedObject()
-    [1] GCSDK::CProtoBufSharedObject<CSOTFLadderPlayerStats, 39, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] GCSDK::CProtoBufSharedObjectBase::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOTFLadderPlayerStats, 39, true>::GetPObject()
+    GCSDK::CProtoBufSharedObject<CSOTFLadderPlayerStats, 39, true>::~CProtoBufSharedObject()
+    GCSDK::CProtoBufSharedObject<CSOTFLadderPlayerStats, 39, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOTFLadderPlayerStats, 39, true>::GetPObject()
 VTable for GCSDK::CProtoBufSharedObject<CSOTFPlayerInfo, 2, true>:
-    [0] GCSDK::CProtoBufSharedObject<CSOTFPlayerInfo, 2, true>::~CProtoBufSharedObject()
-    [1] GCSDK::CProtoBufSharedObject<CSOTFPlayerInfo, 2, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] GCSDK::CProtoBufSharedObjectBase::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOTFPlayerInfo, 2, true>::GetPObject()
+    GCSDK::CProtoBufSharedObject<CSOTFPlayerInfo, 2, true>::~CProtoBufSharedObject()
+    GCSDK::CProtoBufSharedObject<CSOTFPlayerInfo, 2, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOTFPlayerInfo, 2, true>::GetPObject()
 VTable for GCSDK::CProtoBufSharedObjectBase:
-    [0] GCSDK::CProtoBufSharedObjectBase::~CProtoBufSharedObjectBase()
+    GCSDK::CProtoBufSharedObjectBase::~CProtoBufSharedObjectBase()
 VTable for GCSDK::CProtoBufSharedObject<CSOTFParty, 2003, true>:
-    [0] GCSDK::CProtoBufSharedObject<CSOTFParty, 2003, true>::~CProtoBufSharedObject()
-    [1] GCSDK::CProtoBufSharedObject<CSOTFParty, 2003, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] GCSDK::CProtoBufSharedObjectBase::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOTFParty, 2003, true>::GetPObject()
+    GCSDK::CProtoBufSharedObject<CSOTFParty, 2003, true>::~CProtoBufSharedObject()
+    GCSDK::CProtoBufSharedObject<CSOTFParty, 2003, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOTFParty, 2003, true>::GetPObject()
 VTable for GCSDK::CProtoBufSharedObject<CSOQuestMapRewardPurchase, 46, true>:
-    [0] GCSDK::CProtoBufSharedObject<CSOQuestMapRewardPurchase, 46, true>::~CProtoBufSharedObject()
-    [1] GCSDK::CProtoBufSharedObject<CSOQuestMapRewardPurchase, 46, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] GCSDK::CProtoBufSharedObjectBase::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOQuestMapRewardPurchase, 46, true>::GetPObject()
+    GCSDK::CProtoBufSharedObject<CSOQuestMapRewardPurchase, 46, true>::~CProtoBufSharedObject()
+    GCSDK::CProtoBufSharedObject<CSOQuestMapRewardPurchase, 46, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOQuestMapRewardPurchase, 46, true>::GetPObject()
 VTable for GCSDK::CProtoBufSharedObject<CSOEconClaimCode, 3, true>:
-    [0] GCSDK::CProtoBufSharedObject<CSOEconClaimCode, 3, true>::~CProtoBufSharedObject()
-    [1] GCSDK::CProtoBufSharedObject<CSOEconClaimCode, 3, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] GCSDK::CProtoBufSharedObjectBase::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOEconClaimCode, 3, true>::GetPObject()
+    GCSDK::CProtoBufSharedObject<CSOEconClaimCode, 3, true>::~CProtoBufSharedObject()
+    GCSDK::CProtoBufSharedObject<CSOEconClaimCode, 3, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOEconClaimCode, 3, true>::GetPObject()
 VTable for GCSDK::CProtoBufSharedObject<CSOQuestMapNode, 44, true>:
-    [0] GCSDK::CProtoBufSharedObject<CSOQuestMapNode, 44, true>::~CProtoBufSharedObject()
-    [1] GCSDK::CProtoBufSharedObject<CSOQuestMapNode, 44, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] GCSDK::CProtoBufSharedObjectBase::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOQuestMapNode, 44, true>::GetPObject()
+    GCSDK::CProtoBufSharedObject<CSOQuestMapNode, 44, true>::~CProtoBufSharedObject()
+    GCSDK::CProtoBufSharedObject<CSOQuestMapNode, 44, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOQuestMapNode, 44, true>::GetPObject()
 VTable for GCSDK::CProtoBufSharedObject<CSOTFDuelSummary, 19, true>:
-    [0] GCSDK::CProtoBufSharedObject<CSOTFDuelSummary, 19, true>::~CProtoBufSharedObject()
-    [1] GCSDK::CProtoBufSharedObject<CSOTFDuelSummary, 19, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] GCSDK::CProtoBufSharedObjectBase::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOTFDuelSummary, 19, true>::GetPObject()
+    GCSDK::CProtoBufSharedObject<CSOTFDuelSummary, 19, true>::~CProtoBufSharedObject()
+    GCSDK::CProtoBufSharedObject<CSOTFDuelSummary, 19, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOTFDuelSummary, 19, true>::GetPObject()
 VTable for GCSDK::CProtoBufSharedObject<CSOEconGameAccountForGameServers, 37, true>:
-    [0] GCSDK::CProtoBufSharedObject<CSOEconGameAccountForGameServers, 37, true>::~CProtoBufSharedObject()
-    [1] GCSDK::CProtoBufSharedObject<CSOEconGameAccountForGameServers, 37, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] GCSDK::CProtoBufSharedObjectBase::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOEconGameAccountForGameServers, 37, true>::GetPObject()
+    GCSDK::CProtoBufSharedObject<CSOEconGameAccountForGameServers, 37, true>::~CProtoBufSharedObject()
+    GCSDK::CProtoBufSharedObject<CSOEconGameAccountForGameServers, 37, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOEconGameAccountForGameServers, 37, true>::GetPObject()
 VTable for GCSDK::CProtoBufSharedObject<CSOTFMatchResultPlayerStats, 40, true>:
-    [0] GCSDK::CProtoBufSharedObject<CSOTFMatchResultPlayerStats, 40, true>::~CProtoBufSharedObject()
-    [1] GCSDK::CProtoBufSharedObject<CSOTFMatchResultPlayerStats, 40, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] GCSDK::CProtoBufSharedObjectBase::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOTFMatchResultPlayerStats, 40, true>::GetPObject()
+    GCSDK::CProtoBufSharedObject<CSOTFMatchResultPlayerStats, 40, true>::~CProtoBufSharedObject()
+    GCSDK::CProtoBufSharedObject<CSOTFMatchResultPlayerStats, 40, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOTFMatchResultPlayerStats, 40, true>::GetPObject()
 VTable for GCSDK::CProtoBufSharedObject<CSOWarData, 38, true>:
-    [0] GCSDK::CProtoBufSharedObject<CSOWarData, 38, true>::~CProtoBufSharedObject()
-    [1] GCSDK::CProtoBufSharedObject<CSOWarData, 38, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] GCSDK::CProtoBufSharedObjectBase::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOWarData, 38, true>::GetPObject()
+    GCSDK::CProtoBufSharedObject<CSOWarData, 38, true>::~CProtoBufSharedObject()
+    GCSDK::CProtoBufSharedObject<CSOWarData, 38, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOWarData, 38, true>::GetPObject()
 VTable for GCSDK::CProtoBufSharedObject<CSOQuest, 45, true>:
-    [0] GCSDK::CProtoBufSharedObject<CSOQuest, 45, true>::~CProtoBufSharedObject()
-    [1] GCSDK::CProtoBufSharedObject<CSOQuest, 45, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] GCSDK::CProtoBufSharedObjectBase::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOQuest, 45, true>::GetPObject()
+    GCSDK::CProtoBufSharedObject<CSOQuest, 45, true>::~CProtoBufSharedObject()
+    GCSDK::CProtoBufSharedObject<CSOQuest, 45, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOQuest, 45, true>::GetPObject()
 VTable for GCSDK::CProtoBufSharedObject<CSOTFMapContribution, 28, true>:
-    [0] GCSDK::CProtoBufSharedObject<CSOTFMapContribution, 28, true>::~CProtoBufSharedObject()
-    [1] GCSDK::CProtoBufSharedObject<CSOTFMapContribution, 28, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] GCSDK::CProtoBufSharedObjectBase::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOTFMapContribution, 28, true>::GetPObject()
+    GCSDK::CProtoBufSharedObject<CSOTFMapContribution, 28, true>::~CProtoBufSharedObject()
+    GCSDK::CProtoBufSharedObject<CSOTFMapContribution, 28, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOTFMapContribution, 28, true>::GetPObject()
 VTable for GCSDK::CProtoBufSharedObject<CSOTFGameServerLobby, 2004, true>:
-    [0] GCSDK::CProtoBufSharedObject<CSOTFGameServerLobby, 2004, true>::~CProtoBufSharedObject()
-    [1] GCSDK::CProtoBufSharedObject<CSOTFGameServerLobby, 2004, true>::GetTypeID() const
-    [2] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
-    [3] GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
-    [4] GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
-    [5] GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
-    [6] GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
-    [7] GCSDK::CProtoBufSharedObjectBase::Dump() const
-    [8] GCSDK::CSharedObject::BShouldDeleteByCache() const
-    [9] GCSDK::CSharedObject::GetDebugString() const
-    [10] GCSDK::CProtoBufSharedObject<CSOTFGameServerLobby, 2004, true>::GetPObject()
+    GCSDK::CProtoBufSharedObject<CSOTFGameServerLobby, 2004, true>::~CProtoBufSharedObject()
+    GCSDK::CProtoBufSharedObject<CSOTFGameServerLobby, 2004, true>::GetTypeID() const
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)
+    GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)
+    GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const
+    GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)
+    GCSDK::CProtoBufSharedObjectBase::Dump() const
+    GCSDK::CSharedObject::BShouldDeleteByCache() const
+    GCSDK::CSharedObject::GetDebugString() const
+    GCSDK::CProtoBufSharedObject<CSOTFGameServerLobby, 2004, true>::GetPObject()

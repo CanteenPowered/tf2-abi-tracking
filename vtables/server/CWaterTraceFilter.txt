@@ -1,2 +1,2 @@
 VTable for CWaterTraceFilter:
-    [0] CTraceFilter::GetTraceType() const
+    CTraceFilter::GetTraceType() const

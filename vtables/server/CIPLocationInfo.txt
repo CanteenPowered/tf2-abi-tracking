@@ -1,20 +1,20 @@
 VTable for CIPLocationInfo:
-    [0] CIPLocationInfo::~CIPLocationInfo()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CIPLocationInfo::New() const
-    [3] CIPLocationInfo::Clear()
-    [4] CIPLocationInfo::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CIPLocationInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CIPLocationInfo::ByteSize() const
-    [9] CIPLocationInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CIPLocationInfo::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CIPLocationInfo::GetCachedSize() const
-    [12] CIPLocationInfo::CopyFrom(google::protobuf::Message const&)
-    [13] CIPLocationInfo::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CIPLocationInfo::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CIPLocationInfo::GetMetadata() const
+    CIPLocationInfo::~CIPLocationInfo()
+    google::protobuf::Message::GetTypeName() const
+    CIPLocationInfo::New() const
+    CIPLocationInfo::Clear()
+    CIPLocationInfo::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CIPLocationInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CIPLocationInfo::ByteSize() const
+    CIPLocationInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CIPLocationInfo::SerializeWithCachedSizesToArray(unsigned char*) const
+    CIPLocationInfo::GetCachedSize() const
+    CIPLocationInfo::CopyFrom(google::protobuf::Message const&)
+    CIPLocationInfo::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CIPLocationInfo::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CIPLocationInfo::GetMetadata() const

@@ -1,0 +1,6 @@
+VTable for CEntityFactory<CLogicEventListenerItemEquip>:
+    CEntityFactory<CLogicEventListenerItemEquip>::Destroy(IServerNetworkable*)
+    CEntityFactory<CLogicEventListenerItemEquip>::GetEntitySize()
+VTable for CEntityFactory<CLogicEventListener>:
+    CEntityFactory<CLogicEventListener>::Destroy(IServerNetworkable*)
+    CEntityFactory<CLogicEventListener>::GetEntitySize()

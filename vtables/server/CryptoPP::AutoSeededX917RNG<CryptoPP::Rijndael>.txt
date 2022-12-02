@@ -1,2 +1,12 @@
 VTable for CryptoPP::AutoSeededX917RNG<CryptoPP::Rijndael>:
-    [0] CryptoPP::PK_Verifier::RecoverMessage(unsigned char*, unsigned char const*, unsigned int, unsigned char const*, unsigned int) const
+    CryptoPP::AutoSeededX917RNG<CryptoPP::Rijndael>::~AutoSeededX917RNG()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::AutoSeededX917RNG<CryptoPP::Rijndael>::IncorporateEntropy(unsigned char const*, unsigned int)
+    CryptoPP::AutoSeededX917RNG<CryptoPP::Rijndael>::CanIncorporateEntropy() const
+    CryptoPP::RandomNumberGenerator::GenerateByte()
+    CryptoPP::RandomNumberGenerator::GenerateBit()
+    CryptoPP::RandomNumberGenerator::GenerateWord32(unsigned int, unsigned int)
+    CryptoPP::RandomNumberGenerator::GenerateBlock(unsigned char*, unsigned int)
+    CryptoPP::AutoSeededX917RNG<CryptoPP::Rijndael>::GenerateIntoBufferedTransformation(CryptoPP::BufferedTransformation&, std::string const&, unsigned long long)
+    CryptoPP::RandomNumberGenerator::DiscardBytes(unsigned int)

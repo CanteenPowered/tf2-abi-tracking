@@ -1,1 +1,6 @@
 VTable for google::protobuf::io::ArrayInputStream:
+    google::protobuf::io::ArrayInputStream::~ArrayInputStream()
+    google::protobuf::io::ArrayInputStream::Next(void const**, int*)
+    google::protobuf::io::ArrayInputStream::BackUp(int)
+    google::protobuf::io::ArrayInputStream::Skip(int)
+    google::protobuf::io::ArrayInputStream::ByteCount() const

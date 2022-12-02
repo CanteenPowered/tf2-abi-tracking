@@ -1,20 +1,20 @@
 VTable for CSOEconItemPresetInstance:
-    [0] CSOEconItemPresetInstance::~CSOEconItemPresetInstance()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CSOEconItemPresetInstance::New() const
-    [3] CSOEconItemPresetInstance::Clear()
-    [4] CSOEconItemPresetInstance::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CSOEconItemPresetInstance::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CSOEconItemPresetInstance::ByteSize() const
-    [9] CSOEconItemPresetInstance::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CSOEconItemPresetInstance::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CSOEconItemPresetInstance::GetCachedSize() const
-    [12] CSOEconItemPresetInstance::CopyFrom(google::protobuf::Message const&)
-    [13] CSOEconItemPresetInstance::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CSOEconItemPresetInstance::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CSOEconItemPresetInstance::GetMetadata() const
+    CSOEconItemPresetInstance::~CSOEconItemPresetInstance()
+    google::protobuf::Message::GetTypeName() const
+    CSOEconItemPresetInstance::New() const
+    CSOEconItemPresetInstance::Clear()
+    CSOEconItemPresetInstance::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CSOEconItemPresetInstance::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CSOEconItemPresetInstance::ByteSize() const
+    CSOEconItemPresetInstance::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CSOEconItemPresetInstance::SerializeWithCachedSizesToArray(unsigned char*) const
+    CSOEconItemPresetInstance::GetCachedSize() const
+    CSOEconItemPresetInstance::CopyFrom(google::protobuf::Message const&)
+    CSOEconItemPresetInstance::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CSOEconItemPresetInstance::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CSOEconItemPresetInstance::GetMetadata() const

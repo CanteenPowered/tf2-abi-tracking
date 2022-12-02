@@ -1,7 +1,7 @@
 VTable for CTFWarTracker:
-    [0] CTFWarTracker::~CTFWarTracker()
-    [1] CBaseSOTracker::Spew() const
-    [2] CTFWarTracker::CommitChangesToDB()
-    [3] CTFWarTracker::OnUpdate()
-    [4] CTFWarTracker::OnRemove()
-    [5] CTFWarTracker::FireGameEvent(IGameEvent*)
+    CTFWarTracker::~CTFWarTracker()
+    CBaseSOTracker::Spew() const
+    CTFWarTracker::CommitChangesToDB()
+    CTFWarTracker::OnUpdate()
+    CTFWarTracker::OnRemove()
+    CTFWarTracker::FireGameEvent(IGameEvent*)

@@ -1,1 +1,3 @@
 VTable for CryptoPP::HuffmanDecoder::Err:
+    CryptoPP::HuffmanDecoder::Err::~Err()
+    CryptoPP::Exception::what() const

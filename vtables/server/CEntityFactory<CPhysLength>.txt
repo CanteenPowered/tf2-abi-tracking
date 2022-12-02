@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CPhysLength>:
-    [0] CEntityFactory<CPhysLength>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CPhysLength>::GetEntitySize()
+    CEntityFactory<CPhysLength>::Destroy(IServerNetworkable*)
+    CEntityFactory<CPhysLength>::GetEntitySize()

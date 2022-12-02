@@ -1,20 +1,20 @@
 VTable for CMsgGCRemoveUpgradeCard:
-    [0] CMsgGCRemoveUpgradeCard::~CMsgGCRemoveUpgradeCard()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCRemoveUpgradeCard::New() const
-    [3] CMsgGCRemoveUpgradeCard::Clear()
-    [4] CMsgGCRemoveUpgradeCard::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCRemoveUpgradeCard::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCRemoveUpgradeCard::ByteSize() const
-    [9] CMsgGCRemoveUpgradeCard::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCRemoveUpgradeCard::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCRemoveUpgradeCard::GetCachedSize() const
-    [12] CMsgGCRemoveUpgradeCard::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCRemoveUpgradeCard::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCRemoveUpgradeCard::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCRemoveUpgradeCard::GetMetadata() const
+    CMsgGCRemoveUpgradeCard::~CMsgGCRemoveUpgradeCard()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCRemoveUpgradeCard::New() const
+    CMsgGCRemoveUpgradeCard::Clear()
+    CMsgGCRemoveUpgradeCard::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCRemoveUpgradeCard::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCRemoveUpgradeCard::ByteSize() const
+    CMsgGCRemoveUpgradeCard::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCRemoveUpgradeCard::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCRemoveUpgradeCard::GetCachedSize() const
+    CMsgGCRemoveUpgradeCard::CopyFrom(google::protobuf::Message const&)
+    CMsgGCRemoveUpgradeCard::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCRemoveUpgradeCard::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCRemoveUpgradeCard::GetMetadata() const

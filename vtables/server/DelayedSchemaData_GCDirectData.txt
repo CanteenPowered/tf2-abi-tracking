@@ -1,3 +1,3 @@
 VTable for DelayedSchemaData_GCDirectData:
-    [0] DelayedSchemaData_GCDirectData::~DelayedSchemaData_GCDirectData()
-    [1] DelayedSchemaData_GCDirectData::InitializeSchema(CEconItemSchema*)
+    DelayedSchemaData_GCDirectData::~DelayedSchemaData_GCDirectData()
+    DelayedSchemaData_GCDirectData::InitializeSchema(CEconItemSchema*)

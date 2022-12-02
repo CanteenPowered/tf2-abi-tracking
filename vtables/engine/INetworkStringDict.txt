@@ -1,2 +1,2 @@
 VTable for INetworkStringDict:
-    [0] INetworkStringDict::~INetworkStringDict()
+    INetworkStringDict::~INetworkStringDict()

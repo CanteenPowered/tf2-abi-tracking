@@ -1,37 +1,38 @@
 VTable for CTFNavArea:
-    [0] CTFNavArea::~CTFNavArea()
-    [1] CTFNavArea::OnServerActivate()
-    [2] CTFNavArea::OnRoundRestart()
-    [3] CNavArea::OnRoundRestartPreEntity()
-    [4] CNavArea::OnEnter(CBaseCombatCharacter*, CNavArea*)
-    [5] CNavArea::OnExit(CBaseCombatCharacter*, CNavArea*)
-    [6] CNavArea::OnDestroyNotify(CNavArea*)
-    [7] CNavArea::OnDestroyNotify(CNavLadder*)
-    [8] CNavArea::OnEditCreateNotify(CNavArea*)
-    [9] CNavArea::OnEditDestroyNotify(CNavArea*)
-    [10] CNavArea::OnEditDestroyNotify(CNavLadder*)
-    [11] CTFNavArea::Save(CUtlBuffer&, unsigned int) const
-    [12] CTFNavArea::Load(CUtlBuffer&, unsigned int, unsigned int)
-    [13] CNavArea::PostLoad()
-    [14] CNavArea::SaveToSelectedSet(KeyValues*) const
-    [15] CNavArea::RestoreFromSelectedSet(KeyValues*)
-    [16] CTFNavArea::UpdateBlocked(bool, int)
-    [17] CTFNavArea::IsBlocked(int, bool) const
-    [18] CNavArea::GetDangerDecayRate() const
-    [19] CTFNavArea::Draw() const
-    [20] CNavArea::DrawFilled(int, int, int, int, float, bool, float) const
-    [21] CNavArea::DrawSelectedSet(Vector const&) const
-    [22] CNavArea::ComputeHidingSpots()
-    [23] CNavArea::ComputeSniperSpots()
-    [24] CNavArea::ComputeSpotEncounters()
-    [25] CNavArea::ComputeEarliestOccupyTimes()
-    [26] CTFNavArea::CustomAnalysis(bool)
-    [27] CNavArea::ComputeLighting()
-    [28] CNavArea::IsAbleToMergeWith(CNavArea*) const
-    [29] CNavArea::InheritAttributes(CNavArea*, CNavArea*)
-    [30] CNavArea::IsEntirelyVisible(Vector const&, CBaseEntity const*) const
-    [31] CNavArea::IsPartiallyVisible(Vector const&, CBaseEntity const*) const
-    [32] CNavArea::IsPotentiallyVisible(CNavArea const*) const
-    [33] CTFNavArea::IsPotentiallyVisibleToTeam(int) const
-    [34] CNavArea::IsCompletelyVisible(CNavArea const*) const
-    [35] CNavArea::IsCompletelyVisibleToTeam(int) const
+    CTFNavArea::~CTFNavArea()
+    CTFNavArea::OnServerActivate()
+    CTFNavArea::OnRoundRestart()
+    CNavArea::OnRoundRestartPreEntity()
+    CNavArea::OnEnter(CBaseCombatCharacter*, CNavArea*)
+    CNavArea::OnExit(CBaseCombatCharacter*, CNavArea*)
+    CNavArea::OnDestroyNotify(CNavArea*)
+    CNavArea::OnDestroyNotify(CNavLadder*)
+    CNavArea::OnEditCreateNotify(CNavArea*)
+    CNavArea::OnEditDestroyNotify(CNavArea*)
+    CNavArea::OnEditDestroyNotify(CNavLadder*)
+    CTFNavArea::Save(CUtlBuffer&, unsigned int) const
+    CTFNavArea::Load(CUtlBuffer&, unsigned int, unsigned int)
+    CNavArea::PostLoad()
+    CNavArea::SaveToSelectedSet(KeyValues*) const
+    CNavArea::RestoreFromSelectedSet(KeyValues*)
+    CTFNavArea::UpdateBlocked(bool, int)
+    CTFNavArea::IsBlocked(int, bool) const
+    CNavArea::GetDangerDecayRate() const
+    CTFNavArea::Draw() const
+    CNavArea::DrawFilled(int, int, int, int, float, bool, float) const
+    CNavArea::DrawSelectedSet(Vector const&) const
+    CNavArea::ComputeHidingSpots()
+    CNavArea::ComputeSniperSpots()
+    CNavArea::ComputeSpotEncounters()
+    CNavArea::ComputeEarliestOccupyTimes()
+    CTFNavArea::CustomAnalysis(bool)
+    CNavArea::ComputeLighting()
+    CNavArea::IsAbleToMergeWith(CNavArea*) const
+    CNavArea::InheritAttributes(CNavArea*, CNavArea*)
+    CNavArea::IsEntirelyVisible(Vector const&, CBaseEntity const*) const
+    CNavArea::IsPartiallyVisible(Vector const&, CBaseEntity const*) const
+    CNavArea::IsPotentiallyVisible(CNavArea const*) const
+    CTFNavArea::IsPotentiallyVisibleToTeam(int) const
+    CNavArea::IsCompletelyVisible(CNavArea const*) const
+    CNavArea::IsCompletelyVisibleToTeam(int) const
+    CTFNavArea::GetScriptDesc()

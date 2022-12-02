@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CTeam>:
-    [0] CEntityFactory<CTeam>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CTeam>::GetEntitySize()
+    CEntityFactory<CTeam>::Destroy(IServerNetworkable*)
+    CEntityFactory<CTeam>::GetEntitySize()

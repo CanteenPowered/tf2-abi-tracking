@@ -1,0 +1,4 @@
+VTable for SQWeakRef:
+    SQWeakRef::~SQWeakRef()
+    SQRefCounted::Iterate(CSQStateIterator*)
+    SQWeakRef::Release()

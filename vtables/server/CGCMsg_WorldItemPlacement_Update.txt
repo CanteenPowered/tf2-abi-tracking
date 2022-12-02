@@ -1,20 +1,20 @@
 VTable for CGCMsg_WorldItemPlacement_Update:
-    [0] CGCMsg_WorldItemPlacement_Update::~CGCMsg_WorldItemPlacement_Update()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CGCMsg_WorldItemPlacement_Update::New() const
-    [3] CGCMsg_WorldItemPlacement_Update::Clear()
-    [4] CGCMsg_WorldItemPlacement_Update::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CGCMsg_WorldItemPlacement_Update::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CGCMsg_WorldItemPlacement_Update::ByteSize() const
-    [9] CGCMsg_WorldItemPlacement_Update::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CGCMsg_WorldItemPlacement_Update::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CGCMsg_WorldItemPlacement_Update::GetCachedSize() const
-    [12] CGCMsg_WorldItemPlacement_Update::CopyFrom(google::protobuf::Message const&)
-    [13] CGCMsg_WorldItemPlacement_Update::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CGCMsg_WorldItemPlacement_Update::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CGCMsg_WorldItemPlacement_Update::GetMetadata() const
+    CGCMsg_WorldItemPlacement_Update::~CGCMsg_WorldItemPlacement_Update()
+    google::protobuf::Message::GetTypeName() const
+    CGCMsg_WorldItemPlacement_Update::New() const
+    CGCMsg_WorldItemPlacement_Update::Clear()
+    CGCMsg_WorldItemPlacement_Update::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CGCMsg_WorldItemPlacement_Update::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CGCMsg_WorldItemPlacement_Update::ByteSize() const
+    CGCMsg_WorldItemPlacement_Update::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CGCMsg_WorldItemPlacement_Update::SerializeWithCachedSizesToArray(unsigned char*) const
+    CGCMsg_WorldItemPlacement_Update::GetCachedSize() const
+    CGCMsg_WorldItemPlacement_Update::CopyFrom(google::protobuf::Message const&)
+    CGCMsg_WorldItemPlacement_Update::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CGCMsg_WorldItemPlacement_Update::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CGCMsg_WorldItemPlacement_Update::GetMetadata() const

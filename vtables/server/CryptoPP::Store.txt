@@ -1,1 +1,34 @@
 VTable for CryptoPP::Store:
+    CryptoPP::Store::~Store()
+    CryptoPP::Clonable::Clone() const
+    CryptoPP::Algorithm::AlgorithmName() const
+    CryptoPP::BufferedTransformation::CreatePutSpace(unsigned int&)
+    CryptoPP::BufferedTransformation::CanModifyInput() const
+    CryptoPP::InputRejecting<CryptoPP::BufferedTransformation>::Put2(unsigned char const*, unsigned int, int, bool)
+    CryptoPP::BufferedTransformation::PutModifiable2(unsigned char*, unsigned int, int, bool)
+    CryptoPP::BufferedTransformation::GetMaxWaitObjectCount() const
+    CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)
+    CryptoPP::Store::IsolatedInitialize(CryptoPP::NameValuePairs const&)
+    CryptoPP::InputRejecting<CryptoPP::BufferedTransformation>::IsolatedFlush(bool, bool)
+    CryptoPP::InputRejecting<CryptoPP::BufferedTransformation>::IsolatedMessageSeriesEnd(bool)
+    CryptoPP::BufferedTransformation::Initialize(CryptoPP::NameValuePairs const&, int)
+    CryptoPP::BufferedTransformation::Flush(bool, int, bool)
+    CryptoPP::BufferedTransformation::MessageSeriesEnd(int, bool)
+    CryptoPP::AutoSignaling<CryptoPP::InputRejecting<CryptoPP::BufferedTransformation>>::SetAutoSignalPropagation(int)
+    CryptoPP::AutoSignaling<CryptoPP::InputRejecting<CryptoPP::BufferedTransformation>>::GetAutoSignalPropagation() const
+    CryptoPP::BufferedTransformation::MaxRetrievable() const
+    CryptoPP::BufferedTransformation::AnyRetrievable() const
+    CryptoPP::BufferedTransformation::Get(unsigned char&)
+    CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)
+    CryptoPP::BufferedTransformation::Peek(unsigned char&) const
+    CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const
+    CryptoPP::BufferedTransformation::Skip(unsigned long long)
+    CryptoPP::BufferedTransformation::TotalBytesRetrievable() const
+    CryptoPP::Store::NumberOfMessages() const
+    CryptoPP::BufferedTransformation::AnyMessages() const
+    CryptoPP::Store::GetNextMessage()
+    CryptoPP::BufferedTransformation::SkipMessages(unsigned int)
+    CryptoPP::BufferedTransformation::SkipAll()
+    CryptoPP::BufferedTransformation::GetNextMessageSeries()
+    CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const
+    CryptoPP::BufferedTransformation::NumberOfMessageSeries() const

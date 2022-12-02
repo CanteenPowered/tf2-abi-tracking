@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CFunc_DustCloud>:
-    [0] CEntityFactory<CFunc_DustCloud>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CFunc_DustCloud>::GetEntitySize()
+    CEntityFactory<CFunc_DustCloud>::Destroy(IServerNetworkable*)
+    CEntityFactory<CFunc_DustCloud>::GetEntitySize()

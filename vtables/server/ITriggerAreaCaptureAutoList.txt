@@ -1,2 +1,2 @@
 VTable for ITriggerAreaCaptureAutoList:
-    [0] ITriggerAreaCaptureAutoList::~ITriggerAreaCaptureAutoList()
+    ITriggerAreaCaptureAutoList::~ITriggerAreaCaptureAutoList()

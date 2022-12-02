@@ -1,20 +1,20 @@
 VTable for CMsgReplayUploadedToYouTube:
-    [0] CMsgReplayUploadedToYouTube::~CMsgReplayUploadedToYouTube()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgReplayUploadedToYouTube::New() const
-    [3] CMsgReplayUploadedToYouTube::Clear()
-    [4] CMsgReplayUploadedToYouTube::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgReplayUploadedToYouTube::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgReplayUploadedToYouTube::ByteSize() const
-    [9] CMsgReplayUploadedToYouTube::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgReplayUploadedToYouTube::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgReplayUploadedToYouTube::GetCachedSize() const
-    [12] CMsgReplayUploadedToYouTube::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgReplayUploadedToYouTube::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgReplayUploadedToYouTube::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgReplayUploadedToYouTube::GetMetadata() const
+    CMsgReplayUploadedToYouTube::~CMsgReplayUploadedToYouTube()
+    google::protobuf::Message::GetTypeName() const
+    CMsgReplayUploadedToYouTube::New() const
+    CMsgReplayUploadedToYouTube::Clear()
+    CMsgReplayUploadedToYouTube::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgReplayUploadedToYouTube::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgReplayUploadedToYouTube::ByteSize() const
+    CMsgReplayUploadedToYouTube::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgReplayUploadedToYouTube::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgReplayUploadedToYouTube::GetCachedSize() const
+    CMsgReplayUploadedToYouTube::CopyFrom(google::protobuf::Message const&)
+    CMsgReplayUploadedToYouTube::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgReplayUploadedToYouTube::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgReplayUploadedToYouTube::GetMetadata() const

@@ -1,7 +1,7 @@
 VTable for CEventPlaceholderMatchGroupDescription:
-    [0] CLadderMatchGroupDescription::InitGameRulesSettings() const
-    [1] CLadderMatchGroupDescription::InitGameRulesSettingsPostEntity() const
-    [2] CLadderMatchGroupDescription::PostMatchClearServerSettings() const
-    [3] CLadderMatchGroupDescription::ShouldRequestLateJoin() const
-    [4] CLadderMatchGroupDescription::BMatchIsSafeToLeaveForPlayer(CMatchInfo const*, CMatchInfo::PlayerMatchData_t const*) const
-    [5] CLadderMatchGroupDescription::BPlayWinMusic(int, bool) const
+    CLadderMatchGroupDescription::InitGameRulesSettings() const
+    CLadderMatchGroupDescription::InitGameRulesSettingsPostEntity() const
+    CLadderMatchGroupDescription::PostMatchClearServerSettings() const
+    CLadderMatchGroupDescription::ShouldRequestLateJoin() const
+    CLadderMatchGroupDescription::BMatchIsSafeToLeaveForPlayer(CMatchInfo const*, CMatchInfo::PlayerMatchData_t const*) const
+    CLadderMatchGroupDescription::BPlayWinMusic(int, bool) const

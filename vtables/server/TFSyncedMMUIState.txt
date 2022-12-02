@@ -1,20 +1,20 @@
 VTable for TFSyncedMMUIState:
-    [0] TFSyncedMMUIState::~TFSyncedMMUIState()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] TFSyncedMMUIState::New() const
-    [3] TFSyncedMMUIState::Clear()
-    [4] TFSyncedMMUIState::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] TFSyncedMMUIState::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] TFSyncedMMUIState::ByteSize() const
-    [9] TFSyncedMMUIState::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] TFSyncedMMUIState::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] TFSyncedMMUIState::GetCachedSize() const
-    [12] TFSyncedMMUIState::CopyFrom(google::protobuf::Message const&)
-    [13] TFSyncedMMUIState::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] TFSyncedMMUIState::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] TFSyncedMMUIState::GetMetadata() const
+    TFSyncedMMUIState::~TFSyncedMMUIState()
+    google::protobuf::Message::GetTypeName() const
+    TFSyncedMMUIState::New() const
+    TFSyncedMMUIState::Clear()
+    TFSyncedMMUIState::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    TFSyncedMMUIState::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    TFSyncedMMUIState::ByteSize() const
+    TFSyncedMMUIState::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    TFSyncedMMUIState::SerializeWithCachedSizesToArray(unsigned char*) const
+    TFSyncedMMUIState::GetCachedSize() const
+    TFSyncedMMUIState::CopyFrom(google::protobuf::Message const&)
+    TFSyncedMMUIState::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    TFSyncedMMUIState::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    TFSyncedMMUIState::GetMetadata() const

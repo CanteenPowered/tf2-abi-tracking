@@ -1,5 +1,5 @@
 VTable for CTFPlayer::NetworkVar_m_Shared:
-    [0] CTFPlayer::NetworkVar_m_Shared::~NetworkVar_m_Shared()
-    [1] CTFPlayerShared::FireGameEvent(IGameEvent*)
-    [2] CTFPlayer::NetworkVar_m_Shared::NetworkStateChanged()
-    [3] CTFPlayer::NetworkVar_m_Shared::NetworkStateChanged(void*)
+    CTFPlayer::NetworkVar_m_Shared::~NetworkVar_m_Shared()
+    CTFPlayerShared::FireGameEvent(IGameEvent*)
+    CTFPlayer::NetworkVar_m_Shared::NetworkStateChanged()
+    CTFPlayer::NetworkVar_m_Shared::NetworkStateChanged(void*)

@@ -1,2 +1,2 @@
 VTable for CJobThread:
-    [0] CJobThread::~CJobThread()
+    CJobThread::~CJobThread()

@@ -1,18 +1,23 @@
 VTable for google::protobuf::DynamicMessageFactory:
+    google::protobuf::DynamicMessageFactory::~DynamicMessageFactory()
+    google::protobuf::DynamicMessageFactory::GetPrototype(google::protobuf::Descriptor const*)
 VTable for google::protobuf::DynamicMessage:
-    [0] CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const
-    [1] CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)
-    [2] CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)
-    [3] CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)
-    [4] CryptoPP::Unflushable<CryptoPP::Filter>::ChannelFlush(std::string const&, bool, int, bool)
-    [5] CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)
-    [6] CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)
-    [7] CryptoPP::Filter::Attachable()
-    [8] CryptoPP::Filter::AttachedTransformation()
-    [9] CryptoPP::Filter::AttachedTransformation() const
-    [10] CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)
-    [11] CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)
-    [12] CryptoPP::Filter::NewDefaultAttachment() const
-    [13] CryptoPP::Filter::ShouldPropagateMessageEnd() const
-    [14] CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const
-    [15] CryptoPP::Unflushable<CryptoPP::Filter>::InputBufferIsEmpty() const
+    google::protobuf::DynamicMessage::~DynamicMessage()
+    google::protobuf::Message::GetTypeName() const
+    google::protobuf::DynamicMessage::New() const
+    google::protobuf::Message::Clear()
+    google::protobuf::Message::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    google::protobuf::Message::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    google::protobuf::Message::ByteSize() const
+    google::protobuf::Message::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    google::protobuf::MessageLite::SerializeWithCachedSizesToArray(unsigned char*) const
+    google::protobuf::DynamicMessage::GetCachedSize() const
+    google::protobuf::Message::CopyFrom(google::protobuf::Message const&)
+    google::protobuf::Message::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    google::protobuf::DynamicMessage::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    google::protobuf::DynamicMessage::GetMetadata() const

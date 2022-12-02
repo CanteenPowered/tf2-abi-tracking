@@ -1,17 +1,17 @@
 VTable for CNetworkStringTable:
-    [0] CNetworkStringTable::~CNetworkStringTable()
-    [1] CNetworkStringTable::GetTableName() const
-    [2] CNetworkStringTable::GetTableId() const
-    [3] CNetworkStringTable::GetNumStrings() const
-    [4] CNetworkStringTable::GetMaxStrings() const
-    [5] CNetworkStringTable::GetEntryBits() const
-    [6] CNetworkStringTable::SetTick(int)
-    [7] CNetworkStringTable::ChangedSinceTick(int) const
-    [8] CNetworkStringTable::AddString(bool, char const*, int, void const*)
-    [9] CNetworkStringTable::GetString(int)
-    [10] CNetworkStringTable::SetStringUserData(int, int, void const*)
-    [11] CNetworkStringTable::GetStringUserData(int, int*)
-    [12] CNetworkStringTable::FindStringIndex(char const*)
-    [13] CNetworkStringTable::SetStringChangedCallback(void*, void (*)(void*, INetworkStringTable*, int, char const*, void const*))
-    [14] CNetworkStringTable::Dump()
-    [15] CNetworkStringTable::Lock(bool)
+    CNetworkStringTable::~CNetworkStringTable()
+    CNetworkStringTable::GetTableName() const
+    CNetworkStringTable::GetTableId() const
+    CNetworkStringTable::GetNumStrings() const
+    CNetworkStringTable::GetMaxStrings() const
+    CNetworkStringTable::GetEntryBits() const
+    CNetworkStringTable::SetTick(int)
+    CNetworkStringTable::ChangedSinceTick(int) const
+    CNetworkStringTable::AddString(bool, char const*, int, void const*)
+    CNetworkStringTable::GetString(int)
+    CNetworkStringTable::SetStringUserData(int, int, void const*)
+    CNetworkStringTable::GetStringUserData(int, int*)
+    CNetworkStringTable::FindStringIndex(char const*)
+    CNetworkStringTable::SetStringChangedCallback(void*, void (*)(void*, INetworkStringTable*, int, char const*, void const*))
+    CNetworkStringTable::Dump()
+    CNetworkStringTable::Lock(bool)

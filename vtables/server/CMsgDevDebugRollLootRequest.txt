@@ -1,20 +1,20 @@
 VTable for CMsgDevDebugRollLootRequest:
-    [0] CMsgDevDebugRollLootRequest::~CMsgDevDebugRollLootRequest()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgDevDebugRollLootRequest::New() const
-    [3] CMsgDevDebugRollLootRequest::Clear()
-    [4] CMsgDevDebugRollLootRequest::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgDevDebugRollLootRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgDevDebugRollLootRequest::ByteSize() const
-    [9] CMsgDevDebugRollLootRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgDevDebugRollLootRequest::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgDevDebugRollLootRequest::GetCachedSize() const
-    [12] CMsgDevDebugRollLootRequest::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgDevDebugRollLootRequest::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgDevDebugRollLootRequest::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgDevDebugRollLootRequest::GetMetadata() const
+    CMsgDevDebugRollLootRequest::~CMsgDevDebugRollLootRequest()
+    google::protobuf::Message::GetTypeName() const
+    CMsgDevDebugRollLootRequest::New() const
+    CMsgDevDebugRollLootRequest::Clear()
+    CMsgDevDebugRollLootRequest::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgDevDebugRollLootRequest::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgDevDebugRollLootRequest::ByteSize() const
+    CMsgDevDebugRollLootRequest::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgDevDebugRollLootRequest::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgDevDebugRollLootRequest::GetCachedSize() const
+    CMsgDevDebugRollLootRequest::CopyFrom(google::protobuf::Message const&)
+    CMsgDevDebugRollLootRequest::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgDevDebugRollLootRequest::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgDevDebugRollLootRequest::GetMetadata() const

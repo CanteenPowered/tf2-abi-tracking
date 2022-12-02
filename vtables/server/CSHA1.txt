@@ -1,2 +1,2 @@
 VTable for CSHA1:
-    [0] CSHA1::~CSHA1()
+    CSHA1::~CSHA1()

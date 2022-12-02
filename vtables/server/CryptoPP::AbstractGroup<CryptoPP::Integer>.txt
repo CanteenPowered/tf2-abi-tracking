@@ -1,8 +1,8 @@
 VTable for CryptoPP::AbstractGroup<CryptoPP::ECPPoint>:
+    CryptoPP::AbstractGroup<CryptoPP::ECPPoint>::~AbstractGroup()
 VTable for CryptoPP::AbstractGroup<CryptoPP::EC2NPoint>:
+    CryptoPP::AbstractGroup<CryptoPP::EC2NPoint>::~AbstractGroup()
 VTable for CryptoPP::AbstractGroup<CryptoPP::Integer>:
-    [0] CryptoPP::DL_GroupParameters_IntegerBased::GetEncodedElementSize(bool) const
-    [1] CryptoPP::DL_GroupParameters_IntegerBased::DecodeElement(unsigned char const*, bool) const
-    [2] CryptoPP::DL_GroupParameters_IntegerBased::ConvertElementToInteger(CryptoPP::Integer const&) const
-    [3] CryptoPP::DL_GroupParameters_IntegerBased::GetMaxExponent() const
+    CryptoPP::AbstractGroup<CryptoPP::Integer>::~AbstractGroup()
 VTable for CryptoPP::AbstractGroup<CryptoPP::PolynomialMod2>:
+    CryptoPP::AbstractGroup<CryptoPP::PolynomialMod2>::~AbstractGroup()

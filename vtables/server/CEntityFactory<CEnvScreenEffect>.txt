@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CEnvScreenEffect>:
-    [0] CEntityFactory<CEnvScreenEffect>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CEnvScreenEffect>::GetEntitySize()
+    CEntityFactory<CEnvScreenEffect>::Destroy(IServerNetworkable*)
+    CEntityFactory<CEnvScreenEffect>::GetEntitySize()

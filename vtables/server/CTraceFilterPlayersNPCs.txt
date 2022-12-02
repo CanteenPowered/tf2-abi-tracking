@@ -1,2 +1,2 @@
 VTable for CTraceFilterPlayersNPCs:
-    [0] CTraceFilterPlayersNPCs::GetTraceType() const
+    CTraceFilterPlayersNPCs::GetTraceType() const

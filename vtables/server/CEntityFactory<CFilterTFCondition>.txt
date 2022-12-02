@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CFilterTFCondition>:
-    [0] CEntityFactory<CFilterTFCondition>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CFilterTFCondition>::GetEntitySize()
+    CEntityFactory<CFilterTFCondition>::Destroy(IServerNetworkable*)
+    CEntityFactory<CFilterTFCondition>::GetEntitySize()

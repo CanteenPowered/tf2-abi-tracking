@@ -1,20 +1,20 @@
 VTable for CMsgUpdateItemSchema:
-    [0] CMsgUpdateItemSchema::~CMsgUpdateItemSchema()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgUpdateItemSchema::New() const
-    [3] CMsgUpdateItemSchema::Clear()
-    [4] CMsgUpdateItemSchema::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgUpdateItemSchema::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgUpdateItemSchema::ByteSize() const
-    [9] CMsgUpdateItemSchema::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgUpdateItemSchema::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgUpdateItemSchema::GetCachedSize() const
-    [12] CMsgUpdateItemSchema::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgUpdateItemSchema::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgUpdateItemSchema::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgUpdateItemSchema::GetMetadata() const
+    CMsgUpdateItemSchema::~CMsgUpdateItemSchema()
+    google::protobuf::Message::GetTypeName() const
+    CMsgUpdateItemSchema::New() const
+    CMsgUpdateItemSchema::Clear()
+    CMsgUpdateItemSchema::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgUpdateItemSchema::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgUpdateItemSchema::ByteSize() const
+    CMsgUpdateItemSchema::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgUpdateItemSchema::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgUpdateItemSchema::GetCachedSize() const
+    CMsgUpdateItemSchema::CopyFrom(google::protobuf::Message const&)
+    CMsgUpdateItemSchema::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgUpdateItemSchema::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgUpdateItemSchema::GetMetadata() const

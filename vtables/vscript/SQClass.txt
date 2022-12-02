@@ -1,0 +1,7 @@
+VTable for SQClass:
+    SQClass::~SQClass()
+    SQClass::Iterate(CSQStateIterator*)
+    SQClass::Release()
+    SQClass::GetType()
+    SQClass::Mark(SQCollectable**)
+    SQClass::Finalize()

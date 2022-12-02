@@ -1,3 +1,3 @@
 VTable for CEntityFactory<CBubbling>:
-    [0] CEntityFactory<CBubbling>::Destroy(IServerNetworkable*)
-    [1] CEntityFactory<CBubbling>::GetEntitySize()
+    CEntityFactory<CBubbling>::Destroy(IServerNetworkable*)
+    CEntityFactory<CBubbling>::GetEntitySize()

@@ -1,8 +1,8 @@
 VTable for Base_CmdKeyValues:
-    [0] Base_CmdKeyValues::~Base_CmdKeyValues()
-    [1] CNetMessage::SetNetChannel(INetChannel*)
-    [2] CNetMessage::SetReliable(bool)
-    [3] CNetMessage::Process()
-    [4] Base_CmdKeyValues::ReadFromBuffer(bf_read&)
-    [5] Base_CmdKeyValues::WriteToBuffer(bf_write&)
-    [6] CNetMessage::IsReliable() const
+    Base_CmdKeyValues::~Base_CmdKeyValues()
+    CNetMessage::SetNetChannel(INetChannel*)
+    CNetMessage::SetReliable(bool)
+    CNetMessage::Process()
+    Base_CmdKeyValues::ReadFromBuffer(bf_read&)
+    Base_CmdKeyValues::WriteToBuffer(bf_write&)
+    CNetMessage::IsReliable() const

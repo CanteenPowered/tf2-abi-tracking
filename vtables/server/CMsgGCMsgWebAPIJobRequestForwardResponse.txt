@@ -1,20 +1,20 @@
 VTable for CMsgGCMsgWebAPIJobRequestForwardResponse:
-    [0] CMsgGCMsgWebAPIJobRequestForwardResponse::~CMsgGCMsgWebAPIJobRequestForwardResponse()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgGCMsgWebAPIJobRequestForwardResponse::New() const
-    [3] CMsgGCMsgWebAPIJobRequestForwardResponse::Clear()
-    [4] CMsgGCMsgWebAPIJobRequestForwardResponse::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgGCMsgWebAPIJobRequestForwardResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgGCMsgWebAPIJobRequestForwardResponse::ByteSize() const
-    [9] CMsgGCMsgWebAPIJobRequestForwardResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgGCMsgWebAPIJobRequestForwardResponse::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgGCMsgWebAPIJobRequestForwardResponse::GetCachedSize() const
-    [12] CMsgGCMsgWebAPIJobRequestForwardResponse::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgGCMsgWebAPIJobRequestForwardResponse::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgGCMsgWebAPIJobRequestForwardResponse::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgGCMsgWebAPIJobRequestForwardResponse::GetMetadata() const
+    CMsgGCMsgWebAPIJobRequestForwardResponse::~CMsgGCMsgWebAPIJobRequestForwardResponse()
+    google::protobuf::Message::GetTypeName() const
+    CMsgGCMsgWebAPIJobRequestForwardResponse::New() const
+    CMsgGCMsgWebAPIJobRequestForwardResponse::Clear()
+    CMsgGCMsgWebAPIJobRequestForwardResponse::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgGCMsgWebAPIJobRequestForwardResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgGCMsgWebAPIJobRequestForwardResponse::ByteSize() const
+    CMsgGCMsgWebAPIJobRequestForwardResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgGCMsgWebAPIJobRequestForwardResponse::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgGCMsgWebAPIJobRequestForwardResponse::GetCachedSize() const
+    CMsgGCMsgWebAPIJobRequestForwardResponse::CopyFrom(google::protobuf::Message const&)
+    CMsgGCMsgWebAPIJobRequestForwardResponse::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgGCMsgWebAPIJobRequestForwardResponse::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgGCMsgWebAPIJobRequestForwardResponse::GetMetadata() const

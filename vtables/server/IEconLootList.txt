@@ -1,2 +1,2 @@
 VTable for IEconLootList:
-    [0] IEconLootList::~IEconLootList()
+    IEconLootList::~IEconLootList()

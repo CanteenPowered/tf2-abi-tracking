@@ -1,2 +1,2 @@
 VTable for IHandleEntity:
-    [0] IHandleEntity::~IHandleEntity()
+    IHandleEntity::~IHandleEntity()

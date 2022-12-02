@@ -1,20 +1,20 @@
 VTable for CMsgTFWorldStatus:
-    [0] CMsgTFWorldStatus::~CMsgTFWorldStatus()
-    [1] google::protobuf::Message::GetTypeName() const
-    [2] CMsgTFWorldStatus::New() const
-    [3] CMsgTFWorldStatus::Clear()
-    [4] CMsgTFWorldStatus::IsInitialized() const
-    [5] google::protobuf::Message::InitializationErrorString() const
-    [6] google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
-    [7] CMsgTFWorldStatus::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
-    [8] CMsgTFWorldStatus::ByteSize() const
-    [9] CMsgTFWorldStatus::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
-    [10] CMsgTFWorldStatus::SerializeWithCachedSizesToArray(unsigned char*) const
-    [11] CMsgTFWorldStatus::GetCachedSize() const
-    [12] CMsgTFWorldStatus::CopyFrom(google::protobuf::Message const&)
-    [13] CMsgTFWorldStatus::MergeFrom(google::protobuf::Message const&)
-    [14] google::protobuf::Message::DiscardUnknownFields()
-    [15] google::protobuf::Message::SpaceUsed() const
-    [16] CMsgTFWorldStatus::SetCachedSize(int) const
-    [17] google::protobuf::Message::GetReflection() const
-    [18] CMsgTFWorldStatus::GetMetadata() const
+    CMsgTFWorldStatus::~CMsgTFWorldStatus()
+    google::protobuf::Message::GetTypeName() const
+    CMsgTFWorldStatus::New() const
+    CMsgTFWorldStatus::Clear()
+    CMsgTFWorldStatus::IsInitialized() const
+    google::protobuf::Message::InitializationErrorString() const
+    google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)
+    CMsgTFWorldStatus::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)
+    CMsgTFWorldStatus::ByteSize() const
+    CMsgTFWorldStatus::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const
+    CMsgTFWorldStatus::SerializeWithCachedSizesToArray(unsigned char*) const
+    CMsgTFWorldStatus::GetCachedSize() const
+    CMsgTFWorldStatus::CopyFrom(google::protobuf::Message const&)
+    CMsgTFWorldStatus::MergeFrom(google::protobuf::Message const&)
+    google::protobuf::Message::DiscardUnknownFields()
+    google::protobuf::Message::SpaceUsed() const
+    CMsgTFWorldStatus::SetCachedSize(int) const
+    google::protobuf::Message::GetReflection() const
+    CMsgTFWorldStatus::GetMetadata() const
