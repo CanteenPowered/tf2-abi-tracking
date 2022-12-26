@@ -1,0 +1,10 @@
+{
+	"classname": "IFuncPasstimeNoBallZoneAutoList",
+	"classname_mangled": "_ZTV31IFuncPasstimeNoBallZoneAutoList",
+	"members": [
+		{
+			"name": "IFuncPasstimeNoBallZoneAutoList::~IFuncPasstimeNoBallZoneAutoList()",
+			"name_mangled": "_ZN31IFuncPasstimeNoBallZoneAutoListD0Ev"
+		}
+	]
+}

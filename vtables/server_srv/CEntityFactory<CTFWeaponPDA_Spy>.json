@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFWeaponPDA_Spy>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CTFWeaponPDA_SpyE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFWeaponPDA_Spy>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFWeaponPDA_SpyE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFWeaponPDA_Spy>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFWeaponPDA_SpyE13GetEntitySizeEv"
+		}
+	]
+}

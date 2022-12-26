@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CRotorWashShooter>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CRotorWashShooterE",
+	"members": [
+		{
+			"name": "CEntityFactory<CRotorWashShooter>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CRotorWashShooterE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CRotorWashShooter>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CRotorWashShooterE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "CMaterialProxyFactory",
+	"classname_mangled": "_ZTV21CMaterialProxyFactory",
+	"members": [
+		{
+			"name": "CMaterialProxyFactory::DeleteProxy(IMaterialProxy*)",
+			"name_mangled": "_ZN21CMaterialProxyFactory11DeleteProxyEP14IMaterialProxy"
+		}
+	]
+}

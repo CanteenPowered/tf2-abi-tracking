@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPhysExplosion>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CPhysExplosionE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPhysExplosion>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CPhysExplosionE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPhysExplosion>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CPhysExplosionE13GetEntitySizeEv"
+		}
+	]
+}

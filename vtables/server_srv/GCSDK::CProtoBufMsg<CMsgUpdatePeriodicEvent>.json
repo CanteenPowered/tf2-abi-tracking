@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgUpdatePeriodicEvent>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI23CMsgUpdatePeriodicEventEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgUpdatePeriodicEvent>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI23CMsgUpdatePeriodicEventED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgUpdatePeriodicEvent>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI23CMsgUpdatePeriodicEventE14GetGenericBodyEv"
+		}
+	]
+}

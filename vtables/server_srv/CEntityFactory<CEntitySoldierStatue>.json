@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEntitySoldierStatue>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CEntitySoldierStatueE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEntitySoldierStatue>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CEntitySoldierStatueE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEntitySoldierStatue>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CEntitySoldierStatueE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFTauntProp>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CTFTauntPropE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFTauntProp>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CTFTauntPropE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFTauntProp>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CTFTauntPropE13GetEntitySizeEv"
+		}
+	]
+}

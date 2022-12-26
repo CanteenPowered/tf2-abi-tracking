@@ -1,0 +1,38 @@
+{
+	"classname": "CAI_ProxyMovementSink",
+	"classname_mangled": "_ZTV21CAI_ProxyMovementSink",
+	"members": [
+		{
+			"name": "CAI_ProxyMovementSink::OnCalcBaseMove(AILocalMoveGoal_t*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN21CAI_ProxyMovementSink14OnCalcBaseMoveEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_ProxyMovementSink::OnObstructionPreSteer(AILocalMoveGoal_t*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN21CAI_ProxyMovementSink21OnObstructionPreSteerEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_ProxyMovementSink::OnFailedSteer(AILocalMoveGoal_t*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN21CAI_ProxyMovementSink13OnFailedSteerEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_ProxyMovementSink::OnFailedLocalNavigation(AILocalMoveGoal_t*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN21CAI_ProxyMovementSink23OnFailedLocalNavigationEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_ProxyMovementSink::OnInsufficientStopDist(AILocalMoveGoal_t*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN21CAI_ProxyMovementSink22OnInsufficientStopDistEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_ProxyMovementSink::OnMoveBlocked(AIMoveResult_t*)",
+			"name_mangled": "_ZN21CAI_ProxyMovementSink13OnMoveBlockedEP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_ProxyMovementSink::OnMoveStalled(AILocalMoveGoal_t const&)",
+			"name_mangled": "_ZN21CAI_ProxyMovementSink13OnMoveStalledERK17AILocalMoveGoal_t"
+		},
+		{
+			"name": "CAI_ProxyMovementSink::OnMoveExecuteFailed(AILocalMoveGoal_t const&, AIMoveTrace_t const&, AIMotorMoveResult_t, AIMoveResult_t*)",
+			"name_mangled": "_ZN21CAI_ProxyMovementSink19OnMoveExecuteFailedERK17AILocalMoveGoal_tRK13AIMoveTrace_t19AIMotorMoveResult_tP14AIMoveResult_t"
+		}
+	]
+}

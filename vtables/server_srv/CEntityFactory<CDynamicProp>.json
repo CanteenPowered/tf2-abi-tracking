@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CDynamicProp>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CDynamicPropE",
+	"members": [
+		{
+			"name": "CEntityFactory<CDynamicProp>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CDynamicPropE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CDynamicProp>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CDynamicPropE13GetEntitySizeEv"
+		}
+	]
+}

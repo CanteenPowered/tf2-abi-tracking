@@ -1,0 +1,30 @@
+{
+	"classname": "CAttributeLineItemLootList",
+	"classname_mangled": "_ZTV26CAttributeLineItemLootList",
+	"members": [
+		{
+			"name": "CAttributeLineItemLootList::~CAttributeLineItemLootList()",
+			"name_mangled": "_ZN26CAttributeLineItemLootListD0Ev"
+		},
+		{
+			"name": "CAttributeLineItemLootList::BPublicListContents() const",
+			"name_mangled": "_ZNK26CAttributeLineItemLootList19BPublicListContentsEv"
+		},
+		{
+			"name": "CAttributeLineItemLootList::GetLootListHeaderLocalizationKey() const",
+			"name_mangled": "_ZNK26CAttributeLineItemLootList32GetLootListHeaderLocalizationKeyEv"
+		},
+		{
+			"name": "CAttributeLineItemLootList::GetLootListFooterLocalizationKey() const",
+			"name_mangled": "_ZNK26CAttributeLineItemLootList32GetLootListFooterLocalizationKeyEv"
+		},
+		{
+			"name": "CAttributeLineItemLootList::GetLootListCollectionReference() const",
+			"name_mangled": "_ZNK26CAttributeLineItemLootList30GetLootListCollectionReferenceEv"
+		},
+		{
+			"name": "CAttributeLineItemLootList::EnumerateUserFacingPotentialDrops(IEconLootList::IEconLootListIterator*) const",
+			"name_mangled": "_ZNK26CAttributeLineItemLootList33EnumerateUserFacingPotentialDropsEPN13IEconLootList21IEconLootListIteratorE"
+		}
+	]
+}

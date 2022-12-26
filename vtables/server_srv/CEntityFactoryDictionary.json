@@ -1,0 +1,22 @@
+{
+	"classname": "CEntityFactoryDictionary",
+	"classname_mangled": "_ZTV24CEntityFactoryDictionary",
+	"members": [
+		{
+			"name": "CEntityFactoryDictionary::Create(char const*)",
+			"name_mangled": "_ZN24CEntityFactoryDictionary6CreateEPKc"
+		},
+		{
+			"name": "CEntityFactoryDictionary::Destroy(char const*, IServerNetworkable*)",
+			"name_mangled": "_ZN24CEntityFactoryDictionary7DestroyEPKcP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactoryDictionary::FindFactory(char const*)",
+			"name_mangled": "_ZN24CEntityFactoryDictionary11FindFactoryEPKc"
+		},
+		{
+			"name": "CEntityFactoryDictionary::GetCannonicalName(char const*)",
+			"name_mangled": "_ZN24CEntityFactoryDictionary17GetCannonicalNameEPKc"
+		}
+	]
+}

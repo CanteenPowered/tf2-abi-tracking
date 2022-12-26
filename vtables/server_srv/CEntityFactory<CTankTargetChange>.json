@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTankTargetChange>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CTankTargetChangeE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTankTargetChange>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CTankTargetChangeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTankTargetChange>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CTankTargetChangeE13GetEntitySizeEv"
+		}
+	]
+}

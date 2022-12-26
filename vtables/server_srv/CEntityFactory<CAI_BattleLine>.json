@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAI_BattleLine>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CAI_BattleLineE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAI_BattleLine>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CAI_BattleLineE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAI_BattleLine>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CAI_BattleLineE13GetEntitySizeEv"
+		}
+	]
+}

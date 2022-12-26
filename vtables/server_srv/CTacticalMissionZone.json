@@ -1,0 +1,10 @@
+{
+	"classname": "CTacticalMissionZone",
+	"classname_mangled": "_ZTV20CTacticalMissionZone",
+	"members": [
+		{
+			"name": "CTacticalMissionZone::ForEachArea(IForEachNavArea&) const",
+			"name_mangled": "_ZNK20CTacticalMissionZone11ForEachAreaER15IForEachNavArea"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"classname": "CCallback<CAchievementMgr, UserStatsReceived_t, false>",
+	"classname_mangled": "_ZTV9CCallbackI15CAchievementMgr19UserStatsReceived_tLb0EE",
+	"members": [
+		{
+			"name": "CCallbackImpl<20>::Run(void*, bool, unsigned long long)",
+			"name_mangled": "_ZN13CCallbackImplILi20EE3RunEPvby"
+		},
+		{
+			"name": "CCallbackImpl<20>::GetCallbackSizeBytes()",
+			"name_mangled": "_ZN13CCallbackImplILi20EE20GetCallbackSizeBytesEv"
+		},
+		{
+			"name": "CCallback<CAchievementMgr, UserStatsReceived_t, false>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI15CAchievementMgr19UserStatsReceived_tLb0EED1Ev"
+		},
+		{
+			"name": "CCallback<CAchievementMgr, UserStatsReceived_t, false>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI15CAchievementMgr19UserStatsReceived_tLb0EED0Ev"
+		}
+	]
+}

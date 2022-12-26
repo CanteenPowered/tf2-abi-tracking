@@ -1,0 +1,10 @@
+{
+	"classname": "CChoreoStringPool",
+	"classname_mangled": "_ZTV17CChoreoStringPool",
+	"members": [
+		{
+			"name": "CChoreoStringPool::GetString(short, char*, int)",
+			"name_mangled": "_ZN17CChoreoStringPool9GetStringEsPci"
+		}
+	]
+}

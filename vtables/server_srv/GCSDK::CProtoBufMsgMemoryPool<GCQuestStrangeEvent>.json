@@ -1,0 +1,22 @@
+{
+	"classname": "GCSDK::CProtoBufMsgMemoryPool<GCQuestStrangeEvent>",
+	"classname_mangled": "_ZTVN5GCSDK22CProtoBufMsgMemoryPoolI19GCQuestStrangeEventEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<GCQuestStrangeEvent>::~CProtoBufMsgMemoryPool()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI19GCQuestStrangeEventED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<GCQuestStrangeEvent>::GetName()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI19GCQuestStrangeEventE7GetNameEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<GCQuestStrangeEvent>::InternalAlloc()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI19GCQuestStrangeEventE13InternalAllocEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<GCQuestStrangeEvent>::InternalFree(google::protobuf::Message*)",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI19GCQuestStrangeEventE12InternalFreeEPN6google8protobuf7MessageE"
+		}
+	]
+}

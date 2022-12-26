@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBaseButton>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CBaseButtonE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBaseButton>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CBaseButtonE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBaseButton>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CBaseButtonE13GetEntitySizeEv"
+		}
+	]
+}

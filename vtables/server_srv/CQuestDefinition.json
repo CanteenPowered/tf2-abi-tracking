@@ -1,0 +1,42 @@
+{
+	"classname": "CQuestDefinition",
+	"classname_mangled": "_ZTV16CQuestDefinition",
+	"members": [
+		{
+			"name": "CQuestDefinition::~CQuestDefinition()",
+			"name_mangled": "_ZN16CQuestDefinitionD0Ev"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetMsg() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI12CMsgQuestDefL13ProtoDefTypes4EE6GetMsgEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetDefType() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI12CMsgQuestDefL13ProtoDefTypes4EE10GetDefTypeEv"
+		},
+		{
+			"name": "CQuestDefinition::GetDisplayName() const",
+			"name_mangled": "_ZNK16CQuestDefinition14GetDisplayNameEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetTopLayerMessage() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI12CMsgQuestDefL13ProtoDefTypes4EE18GetTopLayerMessageEv"
+		},
+		{
+			"name": "CQuestDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN16CQuestDefinition15BPostDataLoadedEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN31IProtoBufScriptObjectDefinition13BOnDataLoadedEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetMutableTopLayerMsg()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI12CMsgQuestDefL13ProtoDefTypes4EE21GetMutableTopLayerMsgEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestDef, (ProtoDefTypes)4>::GetMutableMsg()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI12CMsgQuestDefL13ProtoDefTypes4EE13GetMutableMsgEv"
+		}
+	]
+}

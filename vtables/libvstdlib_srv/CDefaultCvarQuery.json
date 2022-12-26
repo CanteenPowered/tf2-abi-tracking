@@ -1,0 +1,26 @@
+{
+	"classname": "CDefaultCvarQuery",
+	"classname_mangled": "_ZTV17CDefaultCvarQuery",
+	"members": [
+		{
+			"name": "CBaseAppSystem<ICvarQuery>::Disconnect()",
+			"name_mangled": "_ZN14CBaseAppSystemI10ICvarQueryE10DisconnectEv"
+		},
+		{
+			"name": "CDefaultCvarQuery::QueryInterface(char const*)",
+			"name_mangled": "_ZN17CDefaultCvarQuery14QueryInterfaceEPKc"
+		},
+		{
+			"name": "CBaseAppSystem<ICvarQuery>::Init()",
+			"name_mangled": "_ZN14CBaseAppSystemI10ICvarQueryE4InitEv"
+		},
+		{
+			"name": "CBaseAppSystem<ICvarQuery>::Shutdown()",
+			"name_mangled": "_ZN14CBaseAppSystemI10ICvarQueryE8ShutdownEv"
+		},
+		{
+			"name": "CDefaultCvarQuery::AreConVarsLinkable(ConVar const*, ConVar const*)",
+			"name_mangled": "_ZN17CDefaultCvarQuery18AreConVarsLinkableEPK6ConVarS2_"
+		}
+	]
+}

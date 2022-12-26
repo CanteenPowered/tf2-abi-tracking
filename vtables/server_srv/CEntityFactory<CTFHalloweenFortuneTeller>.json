@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFHalloweenFortuneTeller>",
+	"classname_mangled": "_ZTV14CEntityFactoryI25CTFHalloweenFortuneTellerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFHalloweenFortuneTeller>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI25CTFHalloweenFortuneTellerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFHalloweenFortuneTeller>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI25CTFHalloweenFortuneTellerE13GetEntitySizeEv"
+		}
+	]
+}

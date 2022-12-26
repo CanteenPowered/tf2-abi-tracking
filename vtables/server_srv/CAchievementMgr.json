@@ -1,0 +1,130 @@
+{
+	"classname": "CAchievementMgr",
+	"classname_mangled": "_ZTV15CAchievementMgr",
+	"members": [
+		{
+			"name": "CAchievementMgr::Init()",
+			"name_mangled": "_ZN15CAchievementMgr4InitEv"
+		},
+		{
+			"name": "CAchievementMgr::PostInit()",
+			"name_mangled": "_ZN15CAchievementMgr8PostInitEv"
+		},
+		{
+			"name": "CAchievementMgr::Shutdown()",
+			"name_mangled": "_ZN15CAchievementMgr8ShutdownEv"
+		},
+		{
+			"name": "CAchievementMgr::LevelInitPreEntity()",
+			"name_mangled": "_ZN15CAchievementMgr18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CAchievementMgr::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN15CAchievementMgr22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnSave()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnRestore()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::IsPerFrame()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame10IsPerFrameEv"
+		},
+		{
+			"name": "CAchievementMgr::~CAchievementMgr()",
+			"name_mangled": "_ZN15CAchievementMgrD2Ev"
+		},
+		{
+			"name": "CAchievementMgr::~CAchievementMgr()",
+			"name_mangled": "_ZN15CAchievementMgrD0Ev"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CAchievementMgr::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN15CAchievementMgr26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PreClientUpdate()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame15PreClientUpdateEv"
+		},
+		{
+			"name": "CAchievementMgr::InitializeAchievements()",
+			"name_mangled": "_ZN15CAchievementMgr22InitializeAchievementsEv"
+		},
+		{
+			"name": "CAchievementMgr::Update(float)",
+			"name_mangled": "_ZN15CAchievementMgr6UpdateEf"
+		},
+		{
+			"name": "CAchievementMgr::OnMapEvent(char const*)",
+			"name_mangled": "_ZN15CAchievementMgr10OnMapEventEPKc"
+		},
+		{
+			"name": "CAchievementMgr::GetAchievementByIndex(int)",
+			"name_mangled": "_ZN15CAchievementMgr21GetAchievementByIndexEi"
+		},
+		{
+			"name": "CAchievementMgr::GetAchievementCount()",
+			"name_mangled": "_ZN15CAchievementMgr19GetAchievementCountEv"
+		},
+		{
+			"name": "CAchievementMgr::GetAchievementByID(int)",
+			"name_mangled": "_ZN15CAchievementMgr18GetAchievementByIDEi"
+		},
+		{
+			"name": "CAchievementMgr::HasAchieved(char const*)",
+			"name_mangled": "_ZN15CAchievementMgr11HasAchievedEPKc"
+		},
+		{
+			"name": "CAchievementMgr::DownloadUserData()",
+			"name_mangled": "_ZN15CAchievementMgr16DownloadUserDataEv"
+		},
+		{
+			"name": "CAchievementMgr::SaveGlobalStateIfDirty(bool)",
+			"name_mangled": "_ZN15CAchievementMgr22SaveGlobalStateIfDirtyEb"
+		},
+		{
+			"name": "CAchievementMgr::EnsureGlobalStateLoaded()",
+			"name_mangled": "_ZN15CAchievementMgr23EnsureGlobalStateLoadedEv"
+		},
+		{
+			"name": "CAchievementMgr::AwardAchievement(int)",
+			"name_mangled": "_ZN15CAchievementMgr16AwardAchievementEi"
+		},
+		{
+			"name": "CAchievementMgr::ResetAchievements()",
+			"name_mangled": "_ZN15CAchievementMgr17ResetAchievementsEv"
+		},
+		{
+			"name": "CAchievementMgr::WereCheatsEverOn()",
+			"name_mangled": "_ZN15CAchievementMgr16WereCheatsEverOnEv"
+		},
+		{
+			"name": "CAchievementMgr::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN15CAchievementMgr13FireGameEventEP10IGameEvent"
+		}
+	]
+}

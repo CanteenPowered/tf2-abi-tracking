@@ -1,0 +1,498 @@
+{
+	"classname": "CVEngineServer",
+	"classname_mangled": "_ZTV14CVEngineServer",
+	"members": [
+		{
+			"name": "CVEngineServer::IsMapValid(char const*)",
+			"name_mangled": "_ZN14CVEngineServer10IsMapValidEPKc"
+		},
+		{
+			"name": "CVEngineServer::IsDedicatedServer()",
+			"name_mangled": "_ZN14CVEngineServer17IsDedicatedServerEv"
+		},
+		{
+			"name": "CVEngineServer::IsInEditMode()",
+			"name_mangled": "_ZN14CVEngineServer12IsInEditModeEv"
+		},
+		{
+			"name": "CVEngineServer::PrecacheModel(char const*, bool)",
+			"name_mangled": "_ZN14CVEngineServer13PrecacheModelEPKcb"
+		},
+		{
+			"name": "CVEngineServer::PrecacheSentenceFile(char const*, bool)",
+			"name_mangled": "_ZN14CVEngineServer20PrecacheSentenceFileEPKcb"
+		},
+		{
+			"name": "CVEngineServer::PrecacheDecal(char const*, bool)",
+			"name_mangled": "_ZN14CVEngineServer13PrecacheDecalEPKcb"
+		},
+		{
+			"name": "CVEngineServer::PrecacheGeneric(char const*, bool)",
+			"name_mangled": "_ZN14CVEngineServer15PrecacheGenericEPKcb"
+		},
+		{
+			"name": "CVEngineServer::IsModelPrecached(char const*) const",
+			"name_mangled": "_ZNK14CVEngineServer16IsModelPrecachedEPKc"
+		},
+		{
+			"name": "CVEngineServer::IsDecalPrecached(char const*) const",
+			"name_mangled": "_ZNK14CVEngineServer16IsDecalPrecachedEPKc"
+		},
+		{
+			"name": "CVEngineServer::IsGenericPrecached(char const*) const",
+			"name_mangled": "_ZNK14CVEngineServer18IsGenericPrecachedEPKc"
+		},
+		{
+			"name": "CVEngineServer::GetClusterForOrigin(Vector const&)",
+			"name_mangled": "_ZN14CVEngineServer19GetClusterForOriginERK6Vector"
+		},
+		{
+			"name": "CVEngineServer::GetPVSForCluster(int, int, unsigned char*)",
+			"name_mangled": "_ZN14CVEngineServer16GetPVSForClusterEiiPh"
+		},
+		{
+			"name": "CVEngineServer::CheckOriginInPVS(Vector const&, unsigned char const*, int)",
+			"name_mangled": "_ZN14CVEngineServer16CheckOriginInPVSERK6VectorPKhi"
+		},
+		{
+			"name": "CVEngineServer::CheckBoxInPVS(Vector const&, Vector const&, unsigned char const*, int)",
+			"name_mangled": "_ZN14CVEngineServer13CheckBoxInPVSERK6VectorS2_PKhi"
+		},
+		{
+			"name": "CVEngineServer::GetPlayerUserId(edict_t const*)",
+			"name_mangled": "_ZN14CVEngineServer15GetPlayerUserIdEPK7edict_t"
+		},
+		{
+			"name": "CVEngineServer::GetPlayerNetworkIDString(edict_t const*)",
+			"name_mangled": "_ZN14CVEngineServer24GetPlayerNetworkIDStringEPK7edict_t"
+		},
+		{
+			"name": "CVEngineServer::GetEntityCount()",
+			"name_mangled": "_ZN14CVEngineServer14GetEntityCountEv"
+		},
+		{
+			"name": "CVEngineServer::IndexOfEdict(edict_t const*)",
+			"name_mangled": "_ZN14CVEngineServer12IndexOfEdictEPK7edict_t"
+		},
+		{
+			"name": "CVEngineServer::PEntityOfEntIndex(int)",
+			"name_mangled": "_ZN14CVEngineServer17PEntityOfEntIndexEi"
+		},
+		{
+			"name": "CVEngineServer::GetPlayerNetInfo(int)",
+			"name_mangled": "_ZN14CVEngineServer16GetPlayerNetInfoEi"
+		},
+		{
+			"name": "CVEngineServer::CreateEdict(int)",
+			"name_mangled": "_ZN14CVEngineServer11CreateEdictEi"
+		},
+		{
+			"name": "CVEngineServer::RemoveEdict(edict_t*)",
+			"name_mangled": "_ZN14CVEngineServer11RemoveEdictEP7edict_t"
+		},
+		{
+			"name": "CVEngineServer::PvAllocEntPrivateData(long)",
+			"name_mangled": "_ZN14CVEngineServer21PvAllocEntPrivateDataEl"
+		},
+		{
+			"name": "CVEngineServer::FreeEntPrivateData(void*)",
+			"name_mangled": "_ZN14CVEngineServer18FreeEntPrivateDataEPv"
+		},
+		{
+			"name": "CVEngineServer::SaveAllocMemory(unsigned int, unsigned int)",
+			"name_mangled": "_ZN14CVEngineServer15SaveAllocMemoryEjj"
+		},
+		{
+			"name": "CVEngineServer::SaveFreeMemory(void*)",
+			"name_mangled": "_ZN14CVEngineServer14SaveFreeMemoryEPv"
+		},
+		{
+			"name": "CVEngineServer::EmitAmbientSound(int, Vector const&, char const*, float, soundlevel_t, int, int, float)",
+			"name_mangled": "_ZN14CVEngineServer16EmitAmbientSoundEiRK6VectorPKcf12soundlevel_tiif"
+		},
+		{
+			"name": "CVEngineServer::FadeClientVolume(edict_t const*, float, float, float, float)",
+			"name_mangled": "_ZN14CVEngineServer16FadeClientVolumeEPK7edict_tffff"
+		},
+		{
+			"name": "CVEngineServer::SentenceGroupPick(int, char*, int)",
+			"name_mangled": "_ZN14CVEngineServer17SentenceGroupPickEiPci"
+		},
+		{
+			"name": "CVEngineServer::SentenceGroupPickSequential(int, char*, int, int, int)",
+			"name_mangled": "_ZN14CVEngineServer27SentenceGroupPickSequentialEiPciii"
+		},
+		{
+			"name": "CVEngineServer::SentenceIndexFromName(char const*)",
+			"name_mangled": "_ZN14CVEngineServer21SentenceIndexFromNameEPKc"
+		},
+		{
+			"name": "CVEngineServer::SentenceNameFromIndex(int)",
+			"name_mangled": "_ZN14CVEngineServer21SentenceNameFromIndexEi"
+		},
+		{
+			"name": "CVEngineServer::SentenceGroupIndexFromName(char const*)",
+			"name_mangled": "_ZN14CVEngineServer26SentenceGroupIndexFromNameEPKc"
+		},
+		{
+			"name": "CVEngineServer::SentenceGroupNameFromIndex(int)",
+			"name_mangled": "_ZN14CVEngineServer26SentenceGroupNameFromIndexEi"
+		},
+		{
+			"name": "CVEngineServer::SentenceLength(int)",
+			"name_mangled": "_ZN14CVEngineServer14SentenceLengthEi"
+		},
+		{
+			"name": "CVEngineServer::ServerCommand(char const*)",
+			"name_mangled": "_ZN14CVEngineServer13ServerCommandEPKc"
+		},
+		{
+			"name": "CVEngineServer::ServerExecute()",
+			"name_mangled": "_ZN14CVEngineServer13ServerExecuteEv"
+		},
+		{
+			"name": "CVEngineServer::ClientCommand(edict_t*, char const*, ...)",
+			"name_mangled": "_ZN14CVEngineServer13ClientCommandEP7edict_tPKcz"
+		},
+		{
+			"name": "CVEngineServer::LightStyle(int, char const*)",
+			"name_mangled": "_ZN14CVEngineServer10LightStyleEiPKc"
+		},
+		{
+			"name": "CVEngineServer::StaticDecal(Vector const&, int, int, int, bool)",
+			"name_mangled": "_ZN14CVEngineServer11StaticDecalERK6Vectoriiib"
+		},
+		{
+			"name": "CVEngineServer::Message_DetermineMulticastRecipients(bool, Vector const&, CBitVec<255>&)",
+			"name_mangled": "_ZN14CVEngineServer36Message_DetermineMulticastRecipientsEbRK6VectorR7CBitVecILi255EE"
+		},
+		{
+			"name": "CVEngineServer::EntityMessageBegin(int, ServerClass*, bool)",
+			"name_mangled": "_ZN14CVEngineServer18EntityMessageBeginEiP11ServerClassb"
+		},
+		{
+			"name": "CVEngineServer::UserMessageBegin(IRecipientFilter*, int)",
+			"name_mangled": "_ZN14CVEngineServer16UserMessageBeginEP16IRecipientFilteri"
+		},
+		{
+			"name": "CVEngineServer::MessageEnd()",
+			"name_mangled": "_ZN14CVEngineServer10MessageEndEv"
+		},
+		{
+			"name": "CVEngineServer::ClientPrintf(edict_t*, char const*)",
+			"name_mangled": "_ZN14CVEngineServer12ClientPrintfEP7edict_tPKc"
+		},
+		{
+			"name": "CVEngineServer::Con_NPrintf(int, char const*, ...)",
+			"name_mangled": "_ZN14CVEngineServer11Con_NPrintfEiPKcz"
+		},
+		{
+			"name": "CVEngineServer::Con_NXPrintf(con_nprint_s const*, char const*, ...)",
+			"name_mangled": "_ZN14CVEngineServer12Con_NXPrintfEPK12con_nprint_sPKcz"
+		},
+		{
+			"name": "CVEngineServer::SetView(edict_t const*, edict_t const*)",
+			"name_mangled": "_ZN14CVEngineServer7SetViewEPK7edict_tS2_"
+		},
+		{
+			"name": "CVEngineServer::Time()",
+			"name_mangled": "_ZN14CVEngineServer4TimeEv"
+		},
+		{
+			"name": "CVEngineServer::CrosshairAngle(edict_t const*, float, float)",
+			"name_mangled": "_ZN14CVEngineServer14CrosshairAngleEPK7edict_tff"
+		},
+		{
+			"name": "CVEngineServer::GetGameDir(char*, int)",
+			"name_mangled": "_ZN14CVEngineServer10GetGameDirEPci"
+		},
+		{
+			"name": "CVEngineServer::CompareFileTime(char const*, char const*, int*)",
+			"name_mangled": "_ZN14CVEngineServer15CompareFileTimeEPKcS1_Pi"
+		},
+		{
+			"name": "CVEngineServer::LockNetworkStringTables(bool)",
+			"name_mangled": "_ZN14CVEngineServer23LockNetworkStringTablesEb"
+		},
+		{
+			"name": "CVEngineServer::CreateFakeClient(char const*)",
+			"name_mangled": "_ZN14CVEngineServer16CreateFakeClientEPKc"
+		},
+		{
+			"name": "CVEngineServer::GetClientConVarValue(int, char const*)",
+			"name_mangled": "_ZN14CVEngineServer20GetClientConVarValueEiPKc"
+		},
+		{
+			"name": "CVEngineServer::ParseFile(char const*, char*, int)",
+			"name_mangled": "_ZN14CVEngineServer9ParseFileEPKcPci"
+		},
+		{
+			"name": "CVEngineServer::CopyFile(char const*, char const*)",
+			"name_mangled": "_ZN14CVEngineServer8CopyFileEPKcS1_"
+		},
+		{
+			"name": "CVEngineServer::ResetPVS(unsigned char*, int)",
+			"name_mangled": "_ZN14CVEngineServer8ResetPVSEPhi"
+		},
+		{
+			"name": "CVEngineServer::AddOriginToPVS(Vector const&)",
+			"name_mangled": "_ZN14CVEngineServer14AddOriginToPVSERK6Vector"
+		},
+		{
+			"name": "CVEngineServer::SetAreaPortalState(int, int)",
+			"name_mangled": "_ZN14CVEngineServer18SetAreaPortalStateEii"
+		},
+		{
+			"name": "CVEngineServer::PlaybackTempEntity(IRecipientFilter&, float, void const*, SendTable const*, int)",
+			"name_mangled": "_ZN14CVEngineServer18PlaybackTempEntityER16IRecipientFilterfPKvPK9SendTablei"
+		},
+		{
+			"name": "CVEngineServer::CheckHeadnodeVisible(int, unsigned char const*, int)",
+			"name_mangled": "_ZN14CVEngineServer20CheckHeadnodeVisibleEiPKhi"
+		},
+		{
+			"name": "CVEngineServer::CheckAreasConnected(int, int)",
+			"name_mangled": "_ZN14CVEngineServer19CheckAreasConnectedEii"
+		},
+		{
+			"name": "CVEngineServer::GetArea(Vector const&)",
+			"name_mangled": "_ZN14CVEngineServer7GetAreaERK6Vector"
+		},
+		{
+			"name": "CVEngineServer::GetAreaBits(int, unsigned char*, int)",
+			"name_mangled": "_ZN14CVEngineServer11GetAreaBitsEiPhi"
+		},
+		{
+			"name": "CVEngineServer::GetAreaPortalPlane(Vector const&, int, VPlane*)",
+			"name_mangled": "_ZN14CVEngineServer18GetAreaPortalPlaneERK6VectoriP6VPlane"
+		},
+		{
+			"name": "CVEngineServer::LoadGameState(char const*, bool)",
+			"name_mangled": "_ZN14CVEngineServer13LoadGameStateEPKcb"
+		},
+		{
+			"name": "CVEngineServer::LoadAdjacentEnts(char const*, char const*)",
+			"name_mangled": "_ZN14CVEngineServer16LoadAdjacentEntsEPKcS1_"
+		},
+		{
+			"name": "CVEngineServer::ClearSaveDir()",
+			"name_mangled": "_ZN14CVEngineServer12ClearSaveDirEv"
+		},
+		{
+			"name": "CVEngineServer::GetMapEntitiesString()",
+			"name_mangled": "_ZN14CVEngineServer20GetMapEntitiesStringEv"
+		},
+		{
+			"name": "CVEngineServer::TextMessageGet(char const*)",
+			"name_mangled": "_ZN14CVEngineServer14TextMessageGetEPKc"
+		},
+		{
+			"name": "CVEngineServer::LogPrint(char const*)",
+			"name_mangled": "_ZN14CVEngineServer8LogPrintEPKc"
+		},
+		{
+			"name": "CVEngineServer::BuildEntityClusterList(edict_t*, PVSInfo_t*)",
+			"name_mangled": "_ZN14CVEngineServer22BuildEntityClusterListEP7edict_tP9PVSInfo_t"
+		},
+		{
+			"name": "CVEngineServer::SolidMoved(edict_t*, ICollideable*, Vector const*, bool)",
+			"name_mangled": "_ZN14CVEngineServer10SolidMovedEP7edict_tP12ICollideablePK6Vectorb"
+		},
+		{
+			"name": "CVEngineServer::TriggerMoved(edict_t*, bool)",
+			"name_mangled": "_ZN14CVEngineServer12TriggerMovedEP7edict_tb"
+		},
+		{
+			"name": "CVEngineServer::CreateSpatialPartition(Vector const&, Vector const&)",
+			"name_mangled": "_ZN14CVEngineServer22CreateSpatialPartitionERK6VectorS2_"
+		},
+		{
+			"name": "CVEngineServer::DestroySpatialPartition(ISpatialPartition*)",
+			"name_mangled": "_ZN14CVEngineServer23DestroySpatialPartitionEP17ISpatialPartition"
+		},
+		{
+			"name": "CVEngineServer::DrawMapToScratchPad(IScratchPad3D*, unsigned long)",
+			"name_mangled": "_ZN14CVEngineServer19DrawMapToScratchPadEP13IScratchPad3Dm"
+		},
+		{
+			"name": "CVEngineServer::GetEntityTransmitBitsForClient(int)",
+			"name_mangled": "_ZN14CVEngineServer30GetEntityTransmitBitsForClientEi"
+		},
+		{
+			"name": "CVEngineServer::IsPaused()",
+			"name_mangled": "_ZN14CVEngineServer8IsPausedEv"
+		},
+		{
+			"name": "CVEngineServer::ForceExactFile(char const*)",
+			"name_mangled": "_ZN14CVEngineServer14ForceExactFileEPKc"
+		},
+		{
+			"name": "CVEngineServer::ForceModelBounds(char const*, Vector const&, Vector const&)",
+			"name_mangled": "_ZN14CVEngineServer16ForceModelBoundsEPKcRK6VectorS4_"
+		},
+		{
+			"name": "CVEngineServer::ClearSaveDirAfterClientLoad()",
+			"name_mangled": "_ZN14CVEngineServer27ClearSaveDirAfterClientLoadEv"
+		},
+		{
+			"name": "CVEngineServer::SetFakeClientConVarValue(edict_t*, char const*, char const*)",
+			"name_mangled": "_ZN14CVEngineServer24SetFakeClientConVarValueEP7edict_tPKcS3_"
+		},
+		{
+			"name": "CVEngineServer::ForceSimpleMaterial(char const*)",
+			"name_mangled": "_ZN14CVEngineServer19ForceSimpleMaterialEPKc"
+		},
+		{
+			"name": "CVEngineServer::IsInCommentaryMode()",
+			"name_mangled": "_ZN14CVEngineServer18IsInCommentaryModeEv"
+		},
+		{
+			"name": "CVEngineServer::SetAreaPortalStates(int const*, int const*, int)",
+			"name_mangled": "_ZN14CVEngineServer19SetAreaPortalStatesEPKiS1_i"
+		},
+		{
+			"name": "CVEngineServer::NotifyEdictFlagsChange(int)",
+			"name_mangled": "_ZN14CVEngineServer22NotifyEdictFlagsChangeEi"
+		},
+		{
+			"name": "CVEngineServer::GetPrevCheckTransmitInfo(edict_t*)",
+			"name_mangled": "_ZN14CVEngineServer24GetPrevCheckTransmitInfoEP7edict_t"
+		},
+		{
+			"name": "CVEngineServer::GetSharedEdictChangeInfo()",
+			"name_mangled": "_ZN14CVEngineServer24GetSharedEdictChangeInfoEv"
+		},
+		{
+			"name": "CVEngineServer::AllowImmediateEdictReuse()",
+			"name_mangled": "_ZN14CVEngineServer24AllowImmediateEdictReuseEv"
+		},
+		{
+			"name": "CVEngineServer::GetChangeAccessor(edict_t const*)",
+			"name_mangled": "_ZN14CVEngineServer17GetChangeAccessorEPK7edict_t"
+		},
+		{
+			"name": "CVEngineServer::GetMostRecentlyLoadedFileName()",
+			"name_mangled": "_ZN14CVEngineServer29GetMostRecentlyLoadedFileNameEv"
+		},
+		{
+			"name": "CVEngineServer::GetSaveFileName()",
+			"name_mangled": "_ZN14CVEngineServer15GetSaveFileNameEv"
+		},
+		{
+			"name": "CVEngineServer::MultiplayerEndGame()",
+			"name_mangled": "_ZN14CVEngineServer18MultiplayerEndGameEv"
+		},
+		{
+			"name": "CVEngineServer::ChangeTeam(char const*)",
+			"name_mangled": "_ZN14CVEngineServer10ChangeTeamEPKc"
+		},
+		{
+			"name": "CVEngineServer::CleanUpEntityClusterList(PVSInfo_t*)",
+			"name_mangled": "_ZN14CVEngineServer24CleanUpEntityClusterListEP9PVSInfo_t"
+		},
+		{
+			"name": "CVEngineServer::SetAchievementMgr(IAchievementMgr*)",
+			"name_mangled": "_ZN14CVEngineServer17SetAchievementMgrEP15IAchievementMgr"
+		},
+		{
+			"name": "CVEngineServer::GetAchievementMgr()",
+			"name_mangled": "_ZN14CVEngineServer17GetAchievementMgrEv"
+		},
+		{
+			"name": "CVEngineServer::GetAppID()",
+			"name_mangled": "_ZN14CVEngineServer8GetAppIDEv"
+		},
+		{
+			"name": "CVEngineServer::IsLowViolence()",
+			"name_mangled": "_ZN14CVEngineServer13IsLowViolenceEv"
+		},
+		{
+			"name": "CVEngineServer::StartQueryCvarValue(edict_t*, char const*)",
+			"name_mangled": "_ZN14CVEngineServer19StartQueryCvarValueEP7edict_tPKc"
+		},
+		{
+			"name": "CVEngineServer::InsertServerCommand(char const*)",
+			"name_mangled": "_ZN14CVEngineServer19InsertServerCommandEPKc"
+		},
+		{
+			"name": "CVEngineServer::GetPlayerInfo(int, player_info_s*)",
+			"name_mangled": "_ZN14CVEngineServer13GetPlayerInfoEiP13player_info_s"
+		},
+		{
+			"name": "CVEngineServer::IsClientFullyAuthenticated(edict_t*)",
+			"name_mangled": "_ZN14CVEngineServer26IsClientFullyAuthenticatedEP7edict_t"
+		},
+		{
+			"name": "CVEngineServer::SetDedicatedServerBenchmarkMode(bool)",
+			"name_mangled": "_ZN14CVEngineServer31SetDedicatedServerBenchmarkModeEb"
+		},
+		{
+			"name": "CVEngineServer::SetGamestatsData(CGamestatsData*)",
+			"name_mangled": "_ZN14CVEngineServer16SetGamestatsDataEP14CGamestatsData"
+		},
+		{
+			"name": "CVEngineServer::GetGamestatsData()",
+			"name_mangled": "_ZN14CVEngineServer16GetGamestatsDataEv"
+		},
+		{
+			"name": "CVEngineServer::GetClientSteamID(edict_t*)",
+			"name_mangled": "_ZN14CVEngineServer16GetClientSteamIDEP7edict_t"
+		},
+		{
+			"name": "CVEngineServer::GetGameServerSteamID()",
+			"name_mangled": "_ZN14CVEngineServer20GetGameServerSteamIDEv"
+		},
+		{
+			"name": "CVEngineServer::ClientCommandKeyValues(edict_t*, KeyValues*)",
+			"name_mangled": "_ZN14CVEngineServer22ClientCommandKeyValuesEP7edict_tP9KeyValues"
+		},
+		{
+			"name": "CVEngineServer::GetClientSteamIDByPlayerIndex(int)",
+			"name_mangled": "_ZN14CVEngineServer29GetClientSteamIDByPlayerIndexEi"
+		},
+		{
+			"name": "CVEngineServer::GetClusterCount()",
+			"name_mangled": "_ZN14CVEngineServer15GetClusterCountEv"
+		},
+		{
+			"name": "CVEngineServer::GetAllClusterBounds(bbox_t*, int)",
+			"name_mangled": "_ZN14CVEngineServer19GetAllClusterBoundsEP6bbox_ti"
+		},
+		{
+			"name": "CVEngineServer::CreateFakeClientEx(char const*, bool)",
+			"name_mangled": "_ZN14CVEngineServer18CreateFakeClientExEPKcb"
+		},
+		{
+			"name": "CVEngineServer::GetServerVersion() const",
+			"name_mangled": "_ZNK14CVEngineServer16GetServerVersionEv"
+		},
+		{
+			"name": "CVEngineServer::GetServerTime() const",
+			"name_mangled": "_ZNK14CVEngineServer13GetServerTimeEv"
+		},
+		{
+			"name": "CVEngineServer::GetIServer()",
+			"name_mangled": "_ZN14CVEngineServer10GetIServerEv"
+		},
+		{
+			"name": "CVEngineServer::IsPlayerNameLocked(edict_t const*)",
+			"name_mangled": "_ZN14CVEngineServer18IsPlayerNameLockedEPK7edict_t"
+		},
+		{
+			"name": "CVEngineServer::CanPlayerChangeName(edict_t const*)",
+			"name_mangled": "_ZN14CVEngineServer19CanPlayerChangeNameEPK7edict_t"
+		},
+		{
+			"name": "CVEngineServer::FindMap(char*, int)",
+			"name_mangled": "_ZN14CVEngineServer7FindMapEPci"
+		},
+		{
+			"name": "CVEngineServer::SetPausedForced(bool, float)",
+			"name_mangled": "_ZN14CVEngineServer15SetPausedForcedEbf"
+		},
+		{
+			"name": "CVEngineServer::GetReplay()",
+			"name_mangled": "_ZN14CVEngineServer9GetReplayEv"
+		}
+	]
+}

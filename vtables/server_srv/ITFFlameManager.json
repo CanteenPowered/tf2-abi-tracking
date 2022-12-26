@@ -1,0 +1,10 @@
+{
+	"classname": "ITFFlameManager",
+	"classname_mangled": "_ZTV15ITFFlameManager",
+	"members": [
+		{
+			"name": "ITFFlameManager::~ITFFlameManager()",
+			"name_mangled": "_ZN15ITFFlameManagerD0Ev"
+		}
+	]
+}

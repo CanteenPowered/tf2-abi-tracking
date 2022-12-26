@@ -1,0 +1,10 @@
+{
+	"classname": "ITriggerAreaCaptureAutoList",
+	"classname_mangled": "_ZTV27ITriggerAreaCaptureAutoList",
+	"members": [
+		{
+			"name": "ITriggerAreaCaptureAutoList::~ITriggerAreaCaptureAutoList()",
+			"name_mangled": "_ZN27ITriggerAreaCaptureAutoListD0Ev"
+		}
+	]
+}

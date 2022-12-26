@@ -1,0 +1,38 @@
+{
+	"classname": "CAttributeIterator_GetTypedAttributeValue<CAttribute_ItemSlotCriteria, CAttribute_ItemSlotCriteria>",
+	"classname_mangled": "_ZTV41CAttributeIterator_GetTypedAttributeValueI27CAttribute_ItemSlotCriteriaS0_E",
+	"members": [
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_ItemSlotCriteria, CAttribute_ItemSlotCriteria>::~CAttributeIterator_GetTypedAttributeValue()",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI27CAttribute_ItemSlotCriteriaS0_ED0Ev"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_ItemSlotCriteria, CAttribute_ItemSlotCriteria>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned int)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI27CAttribute_ItemSlotCriteriaS0_E23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionj"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_ItemSlotCriteria, CAttribute_ItemSlotCriteria>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, float)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI27CAttribute_ItemSlotCriteriaS0_E23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionf"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_ItemSlotCriteria, CAttribute_ItemSlotCriteria>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned long long const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI27CAttribute_ItemSlotCriteriaS0_E23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRKy"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_ItemSlotCriteria, CAttribute_ItemSlotCriteria>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_String const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI27CAttribute_ItemSlotCriteriaS0_E23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK17CAttribute_String"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_ItemSlotCriteria, CAttribute_ItemSlotCriteria>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_DynamicRecipeComponent const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI27CAttribute_ItemSlotCriteriaS0_E23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK33CAttribute_DynamicRecipeComponent"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_ItemSlotCriteria, CAttribute_ItemSlotCriteria>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_ItemSlotCriteria const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI27CAttribute_ItemSlotCriteriaS0_E23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRKS0_"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_ItemSlotCriteria, CAttribute_ItemSlotCriteria>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_WorldItemPlacement const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI27CAttribute_ItemSlotCriteriaS0_E23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK29CAttribute_WorldItemPlacement"
+		}
+	]
+}

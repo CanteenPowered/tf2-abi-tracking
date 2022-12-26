@@ -1,0 +1,22 @@
+{
+	"classname": "CPositionInterpolator_Linear",
+	"classname_mangled": "_ZTV28CPositionInterpolator_Linear",
+	"members": [
+		{
+			"name": "CPositionInterpolator_Linear::GetDetails(char**, int*, int*)",
+			"name_mangled": "_ZN28CPositionInterpolator_Linear10GetDetailsEPPcPiS2_"
+		},
+		{
+			"name": "CPositionInterpolator_Linear::SetKeyPosition(int, Vector const&)",
+			"name_mangled": "_ZN28CPositionInterpolator_Linear14SetKeyPositionEiRK6Vector"
+		},
+		{
+			"name": "CPositionInterpolator_Linear::InterpolatePosition(float, Vector&)",
+			"name_mangled": "_ZN28CPositionInterpolator_Linear19InterpolatePositionEfR6Vector"
+		},
+		{
+			"name": "CPositionInterpolator_Linear::ProcessKey(char const*, char const*)",
+			"name_mangled": "_ZN28CPositionInterpolator_Linear10ProcessKeyEPKcS1_"
+		}
+	]
+}

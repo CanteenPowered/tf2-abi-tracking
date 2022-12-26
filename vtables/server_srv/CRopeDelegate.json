@@ -1,0 +1,10 @@
+{
+	"classname": "CRopeDelegate",
+	"classname_mangled": "_ZTV13CRopeDelegate",
+	"members": [
+		{
+			"name": "CRopeDelegate::ApplyConstraints(CSimplePhysics::CNode*, int)",
+			"name_mangled": "_ZN13CRopeDelegate16ApplyConstraintsEPN14CSimplePhysics5CNodeEi"
+		}
+	]
+}

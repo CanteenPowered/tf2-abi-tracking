@@ -1,0 +1,58 @@
+{
+	"classname": "ConCommand",
+	"classname_mangled": "_ZTV10ConCommand",
+	"members": [
+		{
+			"name": "ConCommand::~ConCommand()",
+			"name_mangled": "_ZN10ConCommandD0Ev"
+		},
+		{
+			"name": "ConCommand::IsCommand() const",
+			"name_mangled": "_ZNK10ConCommand9IsCommandEv"
+		},
+		{
+			"name": "ConCommandBase::IsFlagSet(int) const",
+			"name_mangled": "_ZNK14ConCommandBase9IsFlagSetEi"
+		},
+		{
+			"name": "ConCommandBase::AddFlags(int)",
+			"name_mangled": "_ZN14ConCommandBase8AddFlagsEi"
+		},
+		{
+			"name": "ConCommandBase::GetName() const",
+			"name_mangled": "_ZNK14ConCommandBase7GetNameEv"
+		},
+		{
+			"name": "ConCommandBase::GetHelpText() const",
+			"name_mangled": "_ZNK14ConCommandBase11GetHelpTextEv"
+		},
+		{
+			"name": "ConCommandBase::IsRegistered() const",
+			"name_mangled": "_ZNK14ConCommandBase12IsRegisteredEv"
+		},
+		{
+			"name": "ConCommandBase::GetDLLIdentifier() const",
+			"name_mangled": "_ZNK14ConCommandBase16GetDLLIdentifierEv"
+		},
+		{
+			"name": "ConCommandBase::CreateBase(char const*, char const*, int)",
+			"name_mangled": "_ZN14ConCommandBase10CreateBaseEPKcS1_i"
+		},
+		{
+			"name": "ConCommandBase::Init()",
+			"name_mangled": "_ZN14ConCommandBase4InitEv"
+		},
+		{
+			"name": "ConCommand::AutoCompleteSuggest(char const*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>&)",
+			"name_mangled": "_ZN10ConCommand19AutoCompleteSuggestEPKcR10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		},
+		{
+			"name": "ConCommand::CanAutoComplete()",
+			"name_mangled": "_ZN10ConCommand15CanAutoCompleteEv"
+		},
+		{
+			"name": "ConCommand::Dispatch(CCommand const&)",
+			"name_mangled": "_ZN10ConCommand8DispatchERK8CCommand"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"classname": "CWheelOfDoom::WOD_Burn",
+	"classname_mangled": "_ZTVN12CWheelOfDoom8WOD_BurnE",
+	"members": [
+		{
+			"name": "CWheelOfDoom::WOD_Burn::ActivateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom8WOD_Burn14ActivateEffectERNS_12EffectData_tE"
+		},
+		{
+			"name": "CWheelOfDoom::WOD_BaseEffect::UpdateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom14WOD_BaseEffect12UpdateEffectERNS_12EffectData_tE"
+		},
+		{
+			"name": "CWheelOfDoom::WOD_BaseEffect::DeactivateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom14WOD_BaseEffect16DeactivateEffectERNS_12EffectData_tE"
+		}
+	]
+}

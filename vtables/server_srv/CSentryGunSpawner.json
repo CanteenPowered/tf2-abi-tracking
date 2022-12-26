@@ -1,0 +1,50 @@
+{
+	"classname": "CSentryGunSpawner",
+	"classname_mangled": "_ZTV17CSentryGunSpawner",
+	"members": [
+		{
+			"name": "CSentryGunSpawner::~CSentryGunSpawner()",
+			"name_mangled": "_ZN17CSentryGunSpawnerD0Ev"
+		},
+		{
+			"name": "CSentryGunSpawner::Parse(KeyValues*)",
+			"name_mangled": "_ZN17CSentryGunSpawner5ParseEP9KeyValues"
+		},
+		{
+			"name": "CSentryGunSpawner::Spawn(Vector const&, CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>*)",
+			"name_mangled": "_ZN17CSentryGunSpawner5SpawnERK6VectorP10CUtlVectorI7CHandleI11CBaseEntityE10CUtlMemoryIS6_iEE"
+		},
+		{
+			"name": "IPopulationSpawner::IsWhereRequired() const",
+			"name_mangled": "_ZNK18IPopulationSpawner15IsWhereRequiredEv"
+		},
+		{
+			"name": "IPopulationSpawner::IsVarious()",
+			"name_mangled": "_ZN18IPopulationSpawner9IsVariousEv"
+		},
+		{
+			"name": "IPopulationSpawner::GetClass(int)",
+			"name_mangled": "_ZN18IPopulationSpawner8GetClassEi"
+		},
+		{
+			"name": "IPopulationSpawner::GetClassIcon(int)",
+			"name_mangled": "_ZN18IPopulationSpawner12GetClassIconEi"
+		},
+		{
+			"name": "IPopulationSpawner::GetHealth(int)",
+			"name_mangled": "_ZN18IPopulationSpawner9GetHealthEi"
+		},
+		{
+			"name": "IPopulationSpawner::IsMiniBoss(int)",
+			"name_mangled": "_ZN18IPopulationSpawner10IsMiniBossEi"
+		},
+		{
+			"name": "IPopulationSpawner::HasAttribute(CTFBot::AttributeType, int)",
+			"name_mangled": "_ZN18IPopulationSpawner12HasAttributeEN6CTFBot13AttributeTypeEi"
+		},
+		{
+			"name": "CSentryGunSpawner::HasEventChangeAttributes(char const*) const",
+			"name_mangled": "_ZNK17CSentryGunSpawner24HasEventChangeAttributesEPKc"
+		}
+	]
+}

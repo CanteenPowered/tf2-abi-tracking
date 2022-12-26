@@ -1,0 +1,22 @@
+{
+	"classname": "CEntityDataInstantiator<touchlink_t>",
+	"classname_mangled": "_ZTV23CEntityDataInstantiatorI11touchlink_tE",
+	"members": [
+		{
+			"name": "CEntityDataInstantiator<touchlink_t>::~CEntityDataInstantiator()",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI11touchlink_tED0Ev"
+		},
+		{
+			"name": "CEntityDataInstantiator<touchlink_t>::GetDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI11touchlink_tE13GetDataObjectEPK11CBaseEntity"
+		},
+		{
+			"name": "CEntityDataInstantiator<touchlink_t>::CreateDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI11touchlink_tE16CreateDataObjectEPK11CBaseEntity"
+		},
+		{
+			"name": "CEntityDataInstantiator<touchlink_t>::DestroyDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI11touchlink_tE17DestroyDataObjectEPK11CBaseEntity"
+		}
+	]
+}

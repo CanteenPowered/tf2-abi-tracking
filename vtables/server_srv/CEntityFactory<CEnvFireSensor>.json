@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEnvFireSensor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CEnvFireSensorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEnvFireSensor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CEnvFireSensorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEnvFireSensor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CEnvFireSensorE13GetEntitySizeEv"
+		}
+	]
+}

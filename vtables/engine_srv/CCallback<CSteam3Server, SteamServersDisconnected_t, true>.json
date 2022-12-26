@@ -1,0 +1,22 @@
+{
+	"classname": "CCallback<CSteam3Server, SteamServersDisconnected_t, true>",
+	"classname_mangled": "_ZTV9CCallbackI13CSteam3Server26SteamServersDisconnected_tLb1EE",
+	"members": [
+		{
+			"name": "CCallbackImpl<4>::Run(void*, bool, unsigned long long)",
+			"name_mangled": "_ZN13CCallbackImplILi4EE3RunEPvby"
+		},
+		{
+			"name": "CCallbackImpl<4>::GetCallbackSizeBytes()",
+			"name_mangled": "_ZN13CCallbackImplILi4EE20GetCallbackSizeBytesEv"
+		},
+		{
+			"name": "CCallback<CSteam3Server, SteamServersDisconnected_t, true>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI13CSteam3Server26SteamServersDisconnected_tLb1EED2Ev"
+		},
+		{
+			"name": "CCallback<CSteam3Server, SteamServersDisconnected_t, true>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI13CSteam3Server26SteamServersDisconnected_tLb1EED0Ev"
+		}
+	]
+}

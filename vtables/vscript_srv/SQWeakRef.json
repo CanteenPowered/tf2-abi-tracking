@@ -1,0 +1,18 @@
+{
+	"classname": "SQWeakRef",
+	"classname_mangled": "_ZTV9SQWeakRef",
+	"members": [
+		{
+			"name": "SQWeakRef::~SQWeakRef()",
+			"name_mangled": "_ZN9SQWeakRefD0Ev"
+		},
+		{
+			"name": "SQRefCounted::Iterate(CSQStateIterator*)",
+			"name_mangled": "_ZN12SQRefCounted7IterateEP16CSQStateIterator"
+		},
+		{
+			"name": "SQWeakRef::Release()",
+			"name_mangled": "_ZN9SQWeakRef7ReleaseEv"
+		}
+	]
+}

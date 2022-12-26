@@ -1,0 +1,18 @@
+{
+	"classname": "CWheelOfDoom::WOD_Pee",
+	"classname_mangled": "_ZTVN12CWheelOfDoom7WOD_PeeE",
+	"members": [
+		{
+			"name": "CWheelOfDoom::WOD_Pee::ActivateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom7WOD_Pee14ActivateEffectERNS_12EffectData_tE"
+		},
+		{
+			"name": "CWheelOfDoom::WOD_Pee::UpdateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom7WOD_Pee12UpdateEffectERNS_12EffectData_tE"
+		},
+		{
+			"name": "CWheelOfDoom::WOD_BaseEffect::DeactivateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom14WOD_BaseEffect16DeactivateEffectERNS_12EffectData_tE"
+		}
+	]
+}

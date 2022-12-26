@@ -1,0 +1,74 @@
+{
+	"classname": "CCollisionEvent",
+	"classname_mangled": "_ZTV15CCollisionEvent",
+	"members": [
+		{
+			"name": "CCollisionEvent::PostCollision(vcollisionevent_t*)",
+			"name_mangled": "_ZN15CCollisionEvent13PostCollisionEP17vcollisionevent_t"
+		},
+		{
+			"name": "CCollisionEvent::Friction(IPhysicsObject*, float, int, int, IPhysicsCollisionData*)",
+			"name_mangled": "_ZN15CCollisionEvent8FrictionEP14IPhysicsObjectfiiP21IPhysicsCollisionData"
+		},
+		{
+			"name": "CCollisionEvent::StartTouch(IPhysicsObject*, IPhysicsObject*, IPhysicsCollisionData*)",
+			"name_mangled": "_ZN15CCollisionEvent10StartTouchEP14IPhysicsObjectS1_P21IPhysicsCollisionData"
+		},
+		{
+			"name": "CCollisionEvent::EndTouch(IPhysicsObject*, IPhysicsObject*, IPhysicsCollisionData*)",
+			"name_mangled": "_ZN15CCollisionEvent8EndTouchEP14IPhysicsObjectS1_P21IPhysicsCollisionData"
+		},
+		{
+			"name": "CCollisionEvent::FluidStartTouch(IPhysicsObject*, IPhysicsFluidController*)",
+			"name_mangled": "_ZN15CCollisionEvent15FluidStartTouchEP14IPhysicsObjectP23IPhysicsFluidController"
+		},
+		{
+			"name": "CCollisionEvent::FluidEndTouch(IPhysicsObject*, IPhysicsFluidController*)",
+			"name_mangled": "_ZN15CCollisionEvent13FluidEndTouchEP14IPhysicsObjectP23IPhysicsFluidController"
+		},
+		{
+			"name": "CCollisionEvent::PostSimulationFrame()",
+			"name_mangled": "_ZN15CCollisionEvent19PostSimulationFrameEv"
+		},
+		{
+			"name": "CCollisionEvent::ObjectEnterTrigger(IPhysicsObject*, IPhysicsObject*)",
+			"name_mangled": "_ZN15CCollisionEvent18ObjectEnterTriggerEP14IPhysicsObjectS1_"
+		},
+		{
+			"name": "CCollisionEvent::ObjectLeaveTrigger(IPhysicsObject*, IPhysicsObject*)",
+			"name_mangled": "_ZN15CCollisionEvent18ObjectLeaveTriggerEP14IPhysicsObjectS1_"
+		},
+		{
+			"name": "CCollisionEvent::AddDamageEvent(CBaseEntity*, CTakeDamageInfo const&, IPhysicsObject*, bool, Vector const&, Vector const&)",
+			"name_mangled": "_ZN15CCollisionEvent14AddDamageEventEP11CBaseEntityRK15CTakeDamageInfoP14IPhysicsObjectbRK6VectorS9_"
+		},
+		{
+			"name": "CCollisionEvent::ShouldCollide(IPhysicsObject*, IPhysicsObject*, void*, void*)",
+			"name_mangled": "_ZN15CCollisionEvent13ShouldCollideEP14IPhysicsObjectS1_PvS2_"
+		},
+		{
+			"name": "CCollisionEvent::ShouldSolvePenetration(IPhysicsObject*, IPhysicsObject*, void*, void*, float)",
+			"name_mangled": "_ZN15CCollisionEvent22ShouldSolvePenetrationEP14IPhysicsObjectS1_PvS2_f"
+		},
+		{
+			"name": "CCollisionEvent::ShouldFreezeObject(IPhysicsObject*)",
+			"name_mangled": "_ZN15CCollisionEvent18ShouldFreezeObjectEP14IPhysicsObject"
+		},
+		{
+			"name": "CCollisionEvent::AdditionalCollisionChecksThisTick(int)",
+			"name_mangled": "_ZN15CCollisionEvent33AdditionalCollisionChecksThisTickEi"
+		},
+		{
+			"name": "CCollisionEvent::ShouldFreezeContacts(IPhysicsObject**, int)",
+			"name_mangled": "_ZN15CCollisionEvent20ShouldFreezeContactsEPP14IPhysicsObjecti"
+		},
+		{
+			"name": "CCollisionEvent::ObjectWake(IPhysicsObject*)",
+			"name_mangled": "_ZN15CCollisionEvent10ObjectWakeEP14IPhysicsObject"
+		},
+		{
+			"name": "CCollisionEvent::ObjectSleep(IPhysicsObject*)",
+			"name_mangled": "_ZN15CCollisionEvent11ObjectSleepEP14IPhysicsObject"
+		}
+	]
+}

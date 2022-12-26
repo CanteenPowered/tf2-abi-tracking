@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CObjectCartDispenser>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CObjectCartDispenserE",
+	"members": [
+		{
+			"name": "CEntityFactory<CObjectCartDispenser>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CObjectCartDispenserE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CObjectCartDispenser>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CObjectCartDispenserE13GetEntitySizeEv"
+		}
+	]
+}

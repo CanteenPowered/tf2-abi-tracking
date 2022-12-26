@@ -1,0 +1,10 @@
+{
+	"classname": "IHLTVDirector",
+	"classname_mangled": "_ZTV13IHLTVDirector",
+	"members": [
+		{
+			"name": "IHLTVDirector::~IHLTVDirector()",
+			"name_mangled": "_ZN13IHLTVDirectorD0Ev"
+		}
+	]
+}

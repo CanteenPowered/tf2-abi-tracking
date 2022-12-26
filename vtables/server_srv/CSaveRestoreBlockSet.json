@@ -1,0 +1,50 @@
+{
+	"classname": "CSaveRestoreBlockSet",
+	"classname_mangled": "_ZTV20CSaveRestoreBlockSet",
+	"members": [
+		{
+			"name": "CSaveRestoreBlockSet::PreSave(CSaveRestoreData*)",
+			"name_mangled": "_ZN20CSaveRestoreBlockSet7PreSaveEP16CSaveRestoreData"
+		},
+		{
+			"name": "CSaveRestoreBlockSet::Save(ISave*)",
+			"name_mangled": "_ZN20CSaveRestoreBlockSet4SaveEP5ISave"
+		},
+		{
+			"name": "CSaveRestoreBlockSet::WriteSaveHeaders(ISave*)",
+			"name_mangled": "_ZN20CSaveRestoreBlockSet16WriteSaveHeadersEP5ISave"
+		},
+		{
+			"name": "CSaveRestoreBlockSet::PostSave()",
+			"name_mangled": "_ZN20CSaveRestoreBlockSet8PostSaveEv"
+		},
+		{
+			"name": "CSaveRestoreBlockSet::PreRestore()",
+			"name_mangled": "_ZN20CSaveRestoreBlockSet10PreRestoreEv"
+		},
+		{
+			"name": "CSaveRestoreBlockSet::ReadRestoreHeaders(IRestore*)",
+			"name_mangled": "_ZN20CSaveRestoreBlockSet18ReadRestoreHeadersEP8IRestore"
+		},
+		{
+			"name": "CSaveRestoreBlockSet::Restore(IRestore*, bool)",
+			"name_mangled": "_ZN20CSaveRestoreBlockSet7RestoreEP8IRestoreb"
+		},
+		{
+			"name": "CSaveRestoreBlockSet::PostRestore()",
+			"name_mangled": "_ZN20CSaveRestoreBlockSet11PostRestoreEv"
+		},
+		{
+			"name": "CSaveRestoreBlockSet::AddBlockHandler(ISaveRestoreBlockHandler*)",
+			"name_mangled": "_ZN20CSaveRestoreBlockSet15AddBlockHandlerEP24ISaveRestoreBlockHandler"
+		},
+		{
+			"name": "CSaveRestoreBlockSet::RemoveBlockHandler(ISaveRestoreBlockHandler*)",
+			"name_mangled": "_ZN20CSaveRestoreBlockSet18RemoveBlockHandlerEP24ISaveRestoreBlockHandler"
+		},
+		{
+			"name": "CSaveRestoreBlockSet::CallBlockHandlerRestore(ISaveRestoreBlockHandler*, int, IRestore*, bool)",
+			"name_mangled": "_ZN20CSaveRestoreBlockSet23CallBlockHandlerRestoreEP24ISaveRestoreBlockHandleriP8IRestoreb"
+		}
+	]
+}

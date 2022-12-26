@@ -1,0 +1,10 @@
+{
+	"classname": "CTraceFilterAgainstEntityList",
+	"classname_mangled": "_ZTV29CTraceFilterAgainstEntityList",
+	"members": [
+		{
+			"name": "CTraceFilterAgainstEntityList::GetTraceType() const",
+			"name_mangled": "_ZNK29CTraceFilterAgainstEntityList12GetTraceTypeEv"
+		}
+	]
+}

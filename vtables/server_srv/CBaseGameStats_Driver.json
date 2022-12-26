@@ -1,0 +1,78 @@
+{
+	"classname": "CBaseGameStats_Driver",
+	"classname_mangled": "_ZTV21CBaseGameStats_Driver",
+	"members": [
+		{
+			"name": "CBaseGameStats_Driver::Init()",
+			"name_mangled": "_ZN21CBaseGameStats_Driver4InitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PostInit()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8PostInitEv"
+		},
+		{
+			"name": "CBaseGameStats_Driver::Shutdown()",
+			"name_mangled": "_ZN21CBaseGameStats_Driver8ShutdownEv"
+		},
+		{
+			"name": "CBaseGameStats_Driver::LevelInitPreEntity()",
+			"name_mangled": "_ZN21CBaseGameStats_Driver18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameStats_Driver::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN21CBaseGameStats_Driver36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameStats_Driver::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN21CBaseGameStats_Driver22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameStats_Driver::OnSave()",
+			"name_mangled": "_ZN21CBaseGameStats_Driver6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameStats_Driver::OnRestore()",
+			"name_mangled": "_ZN21CBaseGameStats_Driver9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::IsPerFrame()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame10IsPerFrameEv"
+		},
+		{
+			"name": "CBaseGameStats_Driver::~CBaseGameStats_Driver()",
+			"name_mangled": "_ZN21CBaseGameStats_DriverD2Ev"
+		},
+		{
+			"name": "CBaseGameStats_Driver::~CBaseGameStats_Driver()",
+			"name_mangled": "_ZN21CBaseGameStats_DriverD0Ev"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameStats_Driver::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN21CBaseGameStats_Driver26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PreClientUpdate()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame15PreClientUpdateEv"
+		},
+		{
+			"name": "CBaseGameStats_Driver::LevelShutdown()",
+			"name_mangled": "_ZN21CBaseGameStats_Driver13LevelShutdownEv"
+		}
+	]
+}

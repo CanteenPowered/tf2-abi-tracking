@@ -1,0 +1,26 @@
+{
+	"classname": "COcclusionSystem",
+	"classname_mangled": "_ZTV16COcclusionSystem",
+	"members": [
+		{
+			"name": "COcclusionSystem::SetView(Vector const&, float, VMatrix const&, VMatrix const&, VPlane const&)",
+			"name_mangled": "_ZN16COcclusionSystem7SetViewERK6VectorfRK7VMatrixS5_RK6VPlane"
+		},
+		{
+			"name": "COcclusionSystem::IsOccluded(Vector const&, Vector const&)",
+			"name_mangled": "_ZN16COcclusionSystem10IsOccludedERK6VectorS2_"
+		},
+		{
+			"name": "COcclusionSystem::SetOcclusionParameters(float, float)",
+			"name_mangled": "_ZN16COcclusionSystem22SetOcclusionParametersEff"
+		},
+		{
+			"name": "COcclusionSystem::MinOccluderArea() const",
+			"name_mangled": "_ZNK16COcclusionSystem15MinOccluderAreaEv"
+		},
+		{
+			"name": "COcclusionSystem::DrawDebugOverlays()",
+			"name_mangled": "_ZN16COcclusionSystem17DrawDebugOverlaysEv"
+		}
+	]
+}

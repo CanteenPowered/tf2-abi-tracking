@@ -1,0 +1,10 @@
+{
+	"classname": "CPasstimeBallController",
+	"classname_mangled": "_ZTV23CPasstimeBallController",
+	"members": [
+		{
+			"name": "CPasstimeBallController::~CPasstimeBallController()",
+			"name_mangled": "_ZN23CPasstimeBallControllerD0Ev"
+		}
+	]
+}

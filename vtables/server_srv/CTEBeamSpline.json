@@ -1,0 +1,30 @@
+{
+	"classname": "CTEBeamSpline",
+	"classname_mangled": "_ZTV13CTEBeamSpline",
+	"members": [
+		{
+			"name": "CTEBeamSpline::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN13CTEBeamSpline40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEBeamSpline::~CTEBeamSpline()",
+			"name_mangled": "_ZN13CTEBeamSplineD2Ev"
+		},
+		{
+			"name": "CTEBeamSpline::~CTEBeamSpline()",
+			"name_mangled": "_ZN13CTEBeamSplineD0Ev"
+		},
+		{
+			"name": "CTEBeamSpline::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN13CTEBeamSpline4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

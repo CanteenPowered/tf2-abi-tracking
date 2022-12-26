@@ -1,0 +1,10 @@
+{
+	"classname": "CTFPlayerClassShared",
+	"classname_mangled": "_ZTV20CTFPlayerClassShared",
+	"members": [
+		{
+			"name": "CTFPlayerClassShared::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN20CTFPlayerClassShared19NetworkStateChangedEPv"
+		}
+	]
+}

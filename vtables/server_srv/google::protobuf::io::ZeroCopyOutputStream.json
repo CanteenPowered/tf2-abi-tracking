@@ -1,0 +1,10 @@
+{
+	"classname": "google::protobuf::io::ZeroCopyOutputStream",
+	"classname_mangled": "_ZTVN6google8protobuf2io20ZeroCopyOutputStreamE",
+	"members": [
+		{
+			"name": "google::protobuf::io::ZeroCopyOutputStream::~ZeroCopyOutputStream()",
+			"name_mangled": "_ZN6google8protobuf2io20ZeroCopyOutputStreamD0Ev"
+		}
+	]
+}

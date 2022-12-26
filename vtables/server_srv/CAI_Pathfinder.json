@@ -1,0 +1,46 @@
+{
+	"classname": "CAI_Pathfinder",
+	"classname_mangled": "_ZTV14CAI_Pathfinder",
+	"members": [
+		{
+			"name": "CAI_Pathfinder::~CAI_Pathfinder()",
+			"name_mangled": "_ZN14CAI_PathfinderD0Ev"
+		},
+		{
+			"name": "CAI_Component::SetOuter(CAI_BaseNPC*)",
+			"name_mangled": "_ZN13CAI_Component8SetOuterEP11CAI_BaseNPC"
+		},
+		{
+			"name": "CAI_Component::TaskFail(int)",
+			"name_mangled": "_ZN13CAI_Component8TaskFailEi"
+		},
+		{
+			"name": "CAI_Component::TaskComplete(bool)",
+			"name_mangled": "_ZN13CAI_Component12TaskCompleteEb"
+		},
+		{
+			"name": "CAI_Pathfinder::BuildNodeRoute(Vector const&, Vector const&, int, float)",
+			"name_mangled": "_ZN14CAI_Pathfinder14BuildNodeRouteERK6VectorS2_if"
+		},
+		{
+			"name": "CAI_Pathfinder::BuildLocalRoute(Vector const&, Vector const&, CBaseEntity const*, int, int, int, float)",
+			"name_mangled": "_ZN14CAI_Pathfinder15BuildLocalRouteERK6VectorS2_PK11CBaseEntityiiif"
+		},
+		{
+			"name": "CAI_Pathfinder::BuildRadialRoute(Vector const&, Vector const&, Vector const&, float, float, float, bool, float, bool)",
+			"name_mangled": "_ZN14CAI_Pathfinder16BuildRadialRouteERK6VectorS2_S2_fffbfb"
+		},
+		{
+			"name": "CAI_Pathfinder::BuildTriangulationRoute(Vector const&, Vector const&, CBaseEntity const*, int, int, float, float, Navigation_t)",
+			"name_mangled": "_ZN14CAI_Pathfinder23BuildTriangulationRouteERK6VectorS2_PK11CBaseEntityiiff12Navigation_t"
+		},
+		{
+			"name": "CAI_Pathfinder::BuildOBBAvoidanceRoute(Vector const&, Vector const&, CBaseEntity const*, CBaseEntity const*, Navigation_t)",
+			"name_mangled": "_ZN14CAI_Pathfinder22BuildOBBAvoidanceRouteERK6VectorS2_PK11CBaseEntityS5_12Navigation_t"
+		},
+		{
+			"name": "CAI_Pathfinder::CanUseLocalNavigation()",
+			"name_mangled": "_ZN14CAI_Pathfinder21CanUseLocalNavigationEv"
+		}
+	]
+}

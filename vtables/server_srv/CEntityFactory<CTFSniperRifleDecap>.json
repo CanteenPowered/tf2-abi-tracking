@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFSniperRifleDecap>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CTFSniperRifleDecapE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFSniperRifleDecap>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFSniperRifleDecapE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFSniperRifleDecap>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFSniperRifleDecapE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"classname": "CMoveHelperServer",
+	"classname_mangled": "_ZTV17CMoveHelperServer",
+	"members": [
+		{
+			"name": "CMoveHelperServer::ResetTouchList()",
+			"name_mangled": "_ZN17CMoveHelperServer14ResetTouchListEv"
+		},
+		{
+			"name": "CMoveHelperServer::AddToTouched(CGameTrace const&, Vector const&)",
+			"name_mangled": "_ZN17CMoveHelperServer12AddToTouchedERK10CGameTraceRK6Vector"
+		},
+		{
+			"name": "CMoveHelperServer::ProcessImpacts()",
+			"name_mangled": "_ZN17CMoveHelperServer14ProcessImpactsEv"
+		},
+		{
+			"name": "CMoveHelperServer::Con_NPrintf(int, char const*, ...)",
+			"name_mangled": "_ZN17CMoveHelperServer11Con_NPrintfEiPKcz"
+		},
+		{
+			"name": "CMoveHelperServer::StartSound(Vector const&, int, char const*, float, soundlevel_t, int, int)",
+			"name_mangled": "_ZN17CMoveHelperServer10StartSoundERK6VectoriPKcf12soundlevel_tii"
+		},
+		{
+			"name": "CMoveHelperServer::StartSound(Vector const&, char const*)",
+			"name_mangled": "_ZN17CMoveHelperServer10StartSoundERK6VectorPKc"
+		},
+		{
+			"name": "CMoveHelperServer::PlaybackEventFull(int, int, unsigned short, float, Vector&, Vector&, float, float, int, int, int, int)",
+			"name_mangled": "_ZN17CMoveHelperServer17PlaybackEventFullEiitfR6VectorS1_ffiiii"
+		},
+		{
+			"name": "CMoveHelperServer::PlayerFallingDamage()",
+			"name_mangled": "_ZN17CMoveHelperServer19PlayerFallingDamageEv"
+		},
+		{
+			"name": "CMoveHelperServer::PlayerSetAnimation(PLAYER_ANIM)",
+			"name_mangled": "_ZN17CMoveHelperServer18PlayerSetAnimationE11PLAYER_ANIM"
+		},
+		{
+			"name": "CMoveHelperServer::GetSurfaceProps()",
+			"name_mangled": "_ZN17CMoveHelperServer15GetSurfacePropsEv"
+		},
+		{
+			"name": "CMoveHelperServer::IsWorldEntity(CBaseHandle const&)",
+			"name_mangled": "_ZN17CMoveHelperServer13IsWorldEntityERK11CBaseHandle"
+		},
+		{
+			"name": "CMoveHelperServer::~CMoveHelperServer()",
+			"name_mangled": "_ZN17CMoveHelperServerD1Ev"
+		},
+		{
+			"name": "CMoveHelperServer::~CMoveHelperServer()",
+			"name_mangled": "_ZN17CMoveHelperServerD0Ev"
+		},
+		{
+			"name": "CMoveHelperServer::SetHost(CBasePlayer*)",
+			"name_mangled": "_ZN17CMoveHelperServer7SetHostEP11CBasePlayer"
+		}
+	]
+}

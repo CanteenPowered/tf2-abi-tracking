@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEnvSoundscapeProxy>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CEnvSoundscapeProxyE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEnvSoundscapeProxy>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CEnvSoundscapeProxyE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEnvSoundscapeProxy>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CEnvSoundscapeProxyE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"classname": "TSListTests::CListOps",
+	"classname_mangled": "_ZTVN11TSListTests8CListOpsE",
+	"members": [
+		{
+			"name": "TSListTests::CListOps::Pop(int*)",
+			"name_mangled": "_ZN11TSListTests8CListOps3PopEPi"
+		},
+		{
+			"name": "TSListTests::CListOps::Validate()",
+			"name_mangled": "_ZN11TSListTests8CListOps8ValidateEv"
+		},
+		{
+			"name": "TSListTests::CListOps::IsEmpty()",
+			"name_mangled": "_ZN11TSListTests8CListOps7IsEmptyEv"
+		}
+	]
+}

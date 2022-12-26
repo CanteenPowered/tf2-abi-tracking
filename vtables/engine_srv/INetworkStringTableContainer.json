@@ -1,0 +1,10 @@
+{
+	"classname": "INetworkStringTableContainer",
+	"classname_mangled": "_ZTV28INetworkStringTableContainer",
+	"members": [
+		{
+			"name": "INetworkStringTableContainer::~INetworkStringTableContainer()",
+			"name_mangled": "_ZN28INetworkStringTableContainerD0Ev"
+		}
+	]
+}

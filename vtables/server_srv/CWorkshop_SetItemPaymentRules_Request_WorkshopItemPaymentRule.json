@@ -1,0 +1,82 @@
+{
+	"classname": "CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule",
+	"classname_mangled": "_ZTV61CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule",
+	"members": [
+		{
+			"name": "CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::~CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule()",
+			"name_mangled": "_ZN61CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRuleD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::New() const",
+			"name_mangled": "_ZNK61CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule3NewEv"
+		},
+		{
+			"name": "CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::Clear()",
+			"name_mangled": "_ZN61CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule5ClearEv"
+		},
+		{
+			"name": "CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::IsInitialized() const",
+			"name_mangled": "_ZNK61CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN61CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::ByteSize() const",
+			"name_mangled": "_ZNK61CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule8ByteSizeEv"
+		},
+		{
+			"name": "CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK61CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK61CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::GetCachedSize() const",
+			"name_mangled": "_ZNK61CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule13GetCachedSizeEv"
+		},
+		{
+			"name": "CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN61CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN61CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::SetCachedSize(int) const",
+			"name_mangled": "_ZNK61CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule::GetMetadata() const",
+			"name_mangled": "_ZNK61CWorkshop_SetItemPaymentRules_Request_WorkshopItemPaymentRule11GetMetadataEv"
+		}
+	]
+}

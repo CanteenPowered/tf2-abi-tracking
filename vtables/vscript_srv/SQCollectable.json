@@ -1,0 +1,14 @@
+{
+	"classname": "SQCollectable",
+	"classname_mangled": "_ZTV13SQCollectable",
+	"members": [
+		{
+			"name": "SQCollectable::~SQCollectable()",
+			"name_mangled": "_ZN13SQCollectableD0Ev"
+		},
+		{
+			"name": "SQRefCounted::Iterate(CSQStateIterator*)",
+			"name_mangled": "_ZN12SQRefCounted7IterateEP16CSQStateIterator"
+		}
+	]
+}

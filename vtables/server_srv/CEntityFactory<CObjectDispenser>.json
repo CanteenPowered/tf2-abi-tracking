@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CObjectDispenser>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CObjectDispenserE",
+	"members": [
+		{
+			"name": "CEntityFactory<CObjectDispenser>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CObjectDispenserE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CObjectDispenser>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CObjectDispenserE13GetEntitySizeEv"
+		}
+	]
+}

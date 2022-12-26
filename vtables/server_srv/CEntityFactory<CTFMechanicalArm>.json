@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFMechanicalArm>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CTFMechanicalArmE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFMechanicalArm>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFMechanicalArmE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFMechanicalArm>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFMechanicalArmE13GetEntitySizeEv"
+		}
+	]
+}

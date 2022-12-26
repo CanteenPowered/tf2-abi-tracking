@@ -1,0 +1,10 @@
+{
+	"classname": "ITFGenericBomb",
+	"classname_mangled": "_ZTV14ITFGenericBomb",
+	"members": [
+		{
+			"name": "ITFGenericBomb::~ITFGenericBomb()",
+			"name_mangled": "_ZN14ITFGenericBombD0Ev"
+		}
+	]
+}

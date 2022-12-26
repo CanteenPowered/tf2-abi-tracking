@@ -1,0 +1,58 @@
+{
+	"classname": "CSchemaAttributeTypeProtobufBase<CAttribute_String>",
+	"classname_mangled": "_ZTV32CSchemaAttributeTypeProtobufBaseI17CAttribute_StringE",
+	"members": [
+		{
+			"name": "CSchemaAttributeTypeProtobufBase<CAttribute_String>::~CSchemaAttributeTypeProtobufBase()",
+			"name_mangled": "_ZN32CSchemaAttributeTypeProtobufBaseI17CAttribute_StringED0Ev"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_String>::GetTypeUniqueIdentifier() const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI17CAttribute_StringE23GetTypeUniqueIdentifierEv"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_String>::LoadEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI17CAttribute_StringE22LoadEconAttributeValueEP9CEconItemPK28CEconItemAttributeDefinitionRK22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_String>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&, std::string*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI17CAttribute_StringE37ConvertEconAttributeValueToByteStreamERK22attribute_data_union_tPSs"
+		},
+		{
+			"name": "CSchemaAttributeTypeProtobufBase<CAttribute_String>::BConvertStringToEconAttributeValue(CEconItemAttributeDefinition const*, char const*, attribute_data_union_t*, bool) const",
+			"name_mangled": "_ZNK32CSchemaAttributeTypeProtobufBaseI17CAttribute_StringE34BConvertStringToEconAttributeValueEPK28CEconItemAttributeDefinitionPKcP22attribute_data_union_tb"
+		},
+		{
+			"name": "CSchemaAttributeTypeProtobufBase<CAttribute_String>::ConvertEconAttributeValueToString(CEconItemAttributeDefinition const*, attribute_data_union_t const&, std::string*) const",
+			"name_mangled": "_ZNK32CSchemaAttributeTypeProtobufBaseI17CAttribute_StringE33ConvertEconAttributeValueToStringEPK28CEconItemAttributeDefinitionRK22attribute_data_union_tPSs"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_String>::LoadByteStreamToEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, std::string const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI17CAttribute_StringE34LoadByteStreamToEconAttributeValueEP9CEconItemPK28CEconItemAttributeDefinitionRKSs"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_String>::InitializeNewEconAttributeValue(attribute_data_union_t*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI17CAttribute_StringE31InitializeNewEconAttributeValueEP22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_String>::UnloadEconAttributeValue(attribute_data_union_t*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI17CAttribute_StringE24UnloadEconAttributeValueEP22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_String>::OnIterateAttributeValue(IEconItemAttributeIterator*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI17CAttribute_StringE23OnIterateAttributeValueEP26IEconItemAttributeIteratorPK28CEconItemAttributeDefinitionRK22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeType::BSupportsGameplayModificationAndNetworking() const",
+			"name_mangled": "_ZNK20ISchemaAttributeType42BSupportsGameplayModificationAndNetworkingEv"
+		},
+		{
+			"name": "CSchemaAttributeTypeProtobufBase<CAttribute_String>::ConvertTypedValueToByteStream(CAttribute_String const&, std::string*) const",
+			"name_mangled": "_ZNK32CSchemaAttributeTypeProtobufBaseI17CAttribute_StringE29ConvertTypedValueToByteStreamERKS0_PSs"
+		},
+		{
+			"name": "CSchemaAttributeTypeProtobufBase<CAttribute_String>::ConvertByteStreamToTypedValue(std::string const&, CAttribute_String*) const",
+			"name_mangled": "_ZNK32CSchemaAttributeTypeProtobufBaseI17CAttribute_StringE29ConvertByteStreamToTypedValueERKSsPS0_"
+		}
+	]
+}

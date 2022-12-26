@@ -1,0 +1,26 @@
+{
+	"classname": "CEconTool_GiftWrap",
+	"classname_mangled": "_ZTV18CEconTool_GiftWrap",
+	"members": [
+		{
+			"name": "CEconTool_GiftWrap::~CEconTool_GiftWrap()",
+			"name_mangled": "_ZN18CEconTool_GiftWrapD0Ev"
+		},
+		{
+			"name": "CEconTool_GiftWrap::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const",
+			"name_mangled": "_ZNK18CEconTool_GiftWrap10CanApplyToEPK18IEconItemInterfaceS2_"
+		},
+		{
+			"name": "IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool21ShouldDisplayQuantityEPK18IEconItemInterface"
+		},
+		{
+			"name": "CEconTool_GiftWrap::RequiresToolEscrowPeriod() const",
+			"name_mangled": "_ZNK18CEconTool_GiftWrap24RequiresToolEscrowPeriodEv"
+		},
+		{
+			"name": "CEconTool_GiftWrap::BFinishInitialization()",
+			"name_mangled": "_ZN18CEconTool_GiftWrap21BFinishInitializationEv"
+		}
+	]
+}

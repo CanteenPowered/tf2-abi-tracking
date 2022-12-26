@@ -1,0 +1,10 @@
+{
+	"classname": "CCountedStringPool",
+	"classname_mangled": "_ZTV18CCountedStringPool",
+	"members": [
+		{
+			"name": "CCountedStringPool::~CCountedStringPool()",
+			"name_mangled": "_ZN18CCountedStringPoolD0Ev"
+		}
+	]
+}

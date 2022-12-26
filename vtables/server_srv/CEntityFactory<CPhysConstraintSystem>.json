@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPhysConstraintSystem>",
+	"classname_mangled": "_ZTV14CEntityFactoryI21CPhysConstraintSystemE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPhysConstraintSystem>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI21CPhysConstraintSystemE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPhysConstraintSystem>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI21CPhysConstraintSystemE13GetEntitySizeEv"
+		}
+	]
+}

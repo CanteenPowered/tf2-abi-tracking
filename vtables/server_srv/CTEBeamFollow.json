@@ -1,0 +1,30 @@
+{
+	"classname": "CTEBeamFollow",
+	"classname_mangled": "_ZTV13CTEBeamFollow",
+	"members": [
+		{
+			"name": "CTEBeamFollow::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN13CTEBeamFollow40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEBeamFollow::~CTEBeamFollow()",
+			"name_mangled": "_ZN13CTEBeamFollowD1Ev"
+		},
+		{
+			"name": "CTEBeamFollow::~CTEBeamFollow()",
+			"name_mangled": "_ZN13CTEBeamFollowD0Ev"
+		},
+		{
+			"name": "CTEBeamFollow::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN13CTEBeamFollow4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

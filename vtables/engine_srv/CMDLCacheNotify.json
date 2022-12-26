@@ -1,0 +1,10 @@
+{
+	"classname": "CMDLCacheNotify",
+	"classname_mangled": "_ZTV15CMDLCacheNotify",
+	"members": [
+		{
+			"name": "CMDLCacheNotify::OnDataUnloaded(MDLCacheDataType_t, unsigned short)",
+			"name_mangled": "_ZN15CMDLCacheNotify14OnDataUnloadedE18MDLCacheDataType_tt"
+		}
+	]
+}

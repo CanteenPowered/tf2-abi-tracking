@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFDRGPomson>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CTFDRGPomsonE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFDRGPomson>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CTFDRGPomsonE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFDRGPomson>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CTFDRGPomsonE13GetEntitySizeEv"
+		}
+	]
+}

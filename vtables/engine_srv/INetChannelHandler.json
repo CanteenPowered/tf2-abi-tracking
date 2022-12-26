@@ -1,0 +1,10 @@
+{
+	"classname": "INetChannelHandler",
+	"classname_mangled": "_ZTV18INetChannelHandler",
+	"members": [
+		{
+			"name": "INetChannelHandler::~INetChannelHandler()",
+			"name_mangled": "_ZN18INetChannelHandlerD0Ev"
+		}
+	]
+}

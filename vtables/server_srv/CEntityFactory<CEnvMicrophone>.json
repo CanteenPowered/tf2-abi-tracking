@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEnvMicrophone>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CEnvMicrophoneE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEnvMicrophone>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CEnvMicrophoneE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEnvMicrophone>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CEnvMicrophoneE13GetEntitySizeEv"
+		}
+	]
+}

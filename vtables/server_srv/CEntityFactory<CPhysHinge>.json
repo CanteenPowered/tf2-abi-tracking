@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPhysHinge>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10CPhysHingeE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPhysHinge>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10CPhysHingeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPhysHinge>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10CPhysHingeE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CRevertSaved>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CRevertSavedE",
+	"members": [
+		{
+			"name": "CEntityFactory<CRevertSaved>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CRevertSavedE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CRevertSaved>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CRevertSavedE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "CCopyableUtlVector<int>",
+	"classname_mangled": "_ZTV18CCopyableUtlVectorIiE",
+	"members": [
+		{
+			"name": "CCopyableUtlVector<int>::~CCopyableUtlVector()",
+			"name_mangled": "_ZN18CCopyableUtlVectorIiED0Ev"
+		}
+	]
+}

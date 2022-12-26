@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPathKeyFrame>",
+	"classname_mangled": "_ZTV14CEntityFactoryI13CPathKeyFrameE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPathKeyFrame>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI13CPathKeyFrameE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPathKeyFrame>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI13CPathKeyFrameE13GetEntitySizeEv"
+		}
+	]
+}

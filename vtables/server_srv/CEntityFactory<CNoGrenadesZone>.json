@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CNoGrenadesZone>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CNoGrenadesZoneE",
+	"members": [
+		{
+			"name": "CEntityFactory<CNoGrenadesZone>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CNoGrenadesZoneE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CNoGrenadesZone>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CNoGrenadesZoneE13GetEntitySizeEv"
+		}
+	]
+}

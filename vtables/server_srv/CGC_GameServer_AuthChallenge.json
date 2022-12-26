@@ -1,0 +1,34 @@
+{
+	"classname": "CGC_GameServer_AuthChallenge",
+	"classname_mangled": "_ZTV28CGC_GameServer_AuthChallenge",
+	"members": [
+		{
+			"name": "CGC_GameServer_AuthChallenge::~CGC_GameServer_AuthChallenge()",
+			"name_mangled": "_ZN28CGC_GameServer_AuthChallengeD0Ev"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunJob(void*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob15BYieldingRunJobEPv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob22BYieldingRunJobFromMsgEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob24CHeartbeatsBeforeTimeoutEv"
+		},
+		{
+			"name": "CGC_GameServer_AuthChallenge::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN28CGC_GameServer_AuthChallenge17BYieldingRunGCJobEPN5GCSDK13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::GetServerType()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob13GetServerTypeEv"
+		}
+	]
+}

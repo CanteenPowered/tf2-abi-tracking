@@ -1,0 +1,10 @@
+{
+	"classname": "IGameServerData",
+	"classname_mangled": "_ZTV15IGameServerData",
+	"members": [
+		{
+			"name": "IGameServerData::~IGameServerData()",
+			"name_mangled": "_ZN15IGameServerDataD0Ev"
+		}
+	]
+}

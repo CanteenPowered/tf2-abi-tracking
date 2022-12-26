@@ -1,0 +1,10 @@
+{
+	"classname": "CGlobalEntityList",
+	"classname_mangled": "_ZTV17CGlobalEntityList",
+	"members": [
+		{
+			"name": "CGlobalEntityList::OnRemoveEntity(IHandleEntity*, CBaseHandle)",
+			"name_mangled": "_ZN17CGlobalEntityList14OnRemoveEntityEP13IHandleEntity11CBaseHandle"
+		}
+	]
+}

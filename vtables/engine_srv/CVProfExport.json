@@ -1,0 +1,34 @@
+{
+	"classname": "CVProfExport",
+	"classname_mangled": "_ZTV12CVProfExport",
+	"members": [
+		{
+			"name": "CVProfExport::RemoveListener()",
+			"name_mangled": "_ZN12CVProfExport14RemoveListenerEv"
+		},
+		{
+			"name": "CVProfExport::PauseProfile()",
+			"name_mangled": "_ZN12CVProfExport12PauseProfileEv"
+		},
+		{
+			"name": "CVProfExport::ResumeProfile()",
+			"name_mangled": "_ZN12CVProfExport13ResumeProfileEv"
+		},
+		{
+			"name": "CVProfExport::SetBudgetFlagsFilter(int)",
+			"name_mangled": "_ZN12CVProfExport20SetBudgetFlagsFilterEi"
+		},
+		{
+			"name": "CVProfExport::GetNumBudgetGroups()",
+			"name_mangled": "_ZN12CVProfExport18GetNumBudgetGroupsEv"
+		},
+		{
+			"name": "CVProfExport::GetBudgetGroupInfos(IVProfExport::CExportedBudgetGroupInfo*)",
+			"name_mangled": "_ZN12CVProfExport19GetBudgetGroupInfosEPN12IVProfExport24CExportedBudgetGroupInfoE"
+		},
+		{
+			"name": "CVProfExport::GetBudgetGroupTimes(float*)",
+			"name_mangled": "_ZN12CVProfExport19GetBudgetGroupTimesEPf"
+		}
+	]
+}

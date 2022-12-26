@@ -1,0 +1,30 @@
+{
+	"classname": "CTEMetalSparks",
+	"classname_mangled": "_ZTV14CTEMetalSparks",
+	"members": [
+		{
+			"name": "CTEMetalSparks::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN14CTEMetalSparks40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEMetalSparks::~CTEMetalSparks()",
+			"name_mangled": "_ZN14CTEMetalSparksD1Ev"
+		},
+		{
+			"name": "CTEMetalSparks::~CTEMetalSparks()",
+			"name_mangled": "_ZN14CTEMetalSparksD0Ev"
+		},
+		{
+			"name": "CTEMetalSparks::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN14CTEMetalSparks4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

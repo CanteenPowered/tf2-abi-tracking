@@ -1,0 +1,14 @@
+{
+	"classname": "CBaseTransmitProxy",
+	"classname_mangled": "_ZTV18CBaseTransmitProxy",
+	"members": [
+		{
+			"name": "CBaseTransmitProxy::~CBaseTransmitProxy()",
+			"name_mangled": "_ZN18CBaseTransmitProxyD0Ev"
+		},
+		{
+			"name": "CBaseTransmitProxy::ShouldTransmit(CCheckTransmitInfo const*, int)",
+			"name_mangled": "_ZN18CBaseTransmitProxy14ShouldTransmitEPK18CCheckTransmitInfoi"
+		}
+	]
+}

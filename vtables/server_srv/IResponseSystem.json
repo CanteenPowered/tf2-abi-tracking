@@ -1,0 +1,10 @@
+{
+	"classname": "IResponseSystem",
+	"classname_mangled": "_ZTV15IResponseSystem",
+	"members": [
+		{
+			"name": "IResponseSystem::~IResponseSystem()",
+			"name_mangled": "_ZN15IResponseSystemD0Ev"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "DelayedSchemaData_GCDirectData",
+	"classname_mangled": "_ZTV30DelayedSchemaData_GCDirectData",
+	"members": [
+		{
+			"name": "DelayedSchemaData_GCDirectData::~DelayedSchemaData_GCDirectData()",
+			"name_mangled": "_ZN30DelayedSchemaData_GCDirectDataD0Ev"
+		},
+		{
+			"name": "DelayedSchemaData_GCDirectData::InitializeSchema(CEconItemSchema*)",
+			"name_mangled": "_ZN30DelayedSchemaData_GCDirectData16InitializeSchemaEP15CEconItemSchema"
+		}
+	]
+}

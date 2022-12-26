@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CWorkThreadPool",
+	"classname_mangled": "_ZTVN5GCSDK15CWorkThreadPoolE",
+	"members": [
+		{
+			"name": "GCSDK::CWorkThreadPool::~CWorkThreadPool()",
+			"name_mangled": "_ZN5GCSDK15CWorkThreadPoolD0Ev"
+		},
+		{
+			"name": "GCSDK::CWorkThreadPool::OnWorkItemCompleted(GCSDK::CWorkItem*)",
+			"name_mangled": "_ZN5GCSDK15CWorkThreadPool19OnWorkItemCompletedEPNS_9CWorkItemE"
+		}
+	]
+}

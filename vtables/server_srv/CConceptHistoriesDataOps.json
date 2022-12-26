@@ -1,0 +1,22 @@
+{
+	"classname": "CConceptHistoriesDataOps",
+	"classname_mangled": "_ZTV24CConceptHistoriesDataOps",
+	"members": [
+		{
+			"name": "CConceptHistoriesDataOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)",
+			"name_mangled": "_ZN24CConceptHistoriesDataOps7RestoreERK22SaveRestoreFieldInfo_tP8IRestore"
+		},
+		{
+			"name": "CConceptHistoriesDataOps::IsEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN24CConceptHistoriesDataOps7IsEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CConceptHistoriesDataOps::MakeEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN24CConceptHistoriesDataOps9MakeEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)",
+			"name_mangled": "_ZN18CDefSaveRestoreOps5ParseERK22SaveRestoreFieldInfo_tPKc"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CHalloweenSoulPack>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CHalloweenSoulPackE",
+	"members": [
+		{
+			"name": "CEntityFactory<CHalloweenSoulPack>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CHalloweenSoulPackE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CHalloweenSoulPack>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CHalloweenSoulPackE13GetEntitySizeEv"
+		}
+	]
+}

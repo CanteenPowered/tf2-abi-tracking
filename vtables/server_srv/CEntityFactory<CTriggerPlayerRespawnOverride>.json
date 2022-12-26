@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTriggerPlayerRespawnOverride>",
+	"classname_mangled": "_ZTV14CEntityFactoryI29CTriggerPlayerRespawnOverrideE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTriggerPlayerRespawnOverride>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI29CTriggerPlayerRespawnOverrideE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTriggerPlayerRespawnOverride>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI29CTriggerPlayerRespawnOverrideE13GetEntitySizeEv"
+		}
+	]
+}

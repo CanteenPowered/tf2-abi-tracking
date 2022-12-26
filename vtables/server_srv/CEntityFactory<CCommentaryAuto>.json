@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CCommentaryAuto>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CCommentaryAutoE",
+	"members": [
+		{
+			"name": "CEntityFactory<CCommentaryAuto>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CCommentaryAutoE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CCommentaryAuto>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CCommentaryAutoE13GetEntitySizeEv"
+		}
+	]
+}

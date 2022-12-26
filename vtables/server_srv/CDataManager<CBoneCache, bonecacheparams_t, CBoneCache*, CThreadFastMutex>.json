@@ -1,0 +1,30 @@
+{
+	"classname": "CDataManager<CBoneCache, bonecacheparams_t, CBoneCache*, CThreadFastMutex>",
+	"classname_mangled": "_ZTV12CDataManagerI10CBoneCache17bonecacheparams_tPS0_16CThreadFastMutexE",
+	"members": [
+		{
+			"name": "CDataManager<CBoneCache, bonecacheparams_t, CBoneCache*, CThreadFastMutex>::TryLock()",
+			"name_mangled": "_ZN12CDataManagerI10CBoneCache17bonecacheparams_tPS0_16CThreadFastMutexE7TryLockEv"
+		},
+		{
+			"name": "CDataManager<CBoneCache, bonecacheparams_t, CBoneCache*, CThreadFastMutex>::Unlock()",
+			"name_mangled": "_ZN12CDataManagerI10CBoneCache17bonecacheparams_tPS0_16CThreadFastMutexE6UnlockEv"
+		},
+		{
+			"name": "CDataManager<CBoneCache, bonecacheparams_t, CBoneCache*, CThreadFastMutex>::~CDataManager()",
+			"name_mangled": "_ZN12CDataManagerI10CBoneCache17bonecacheparams_tPS0_16CThreadFastMutexED1Ev"
+		},
+		{
+			"name": "CDataManager<CBoneCache, bonecacheparams_t, CBoneCache*, CThreadFastMutex>::~CDataManager()",
+			"name_mangled": "_ZN12CDataManagerI10CBoneCache17bonecacheparams_tPS0_16CThreadFastMutexED0Ev"
+		},
+		{
+			"name": "CDataManager<CBoneCache, bonecacheparams_t, CBoneCache*, CThreadFastMutex>::DestroyResourceStorage(void*)",
+			"name_mangled": "_ZN12CDataManagerI10CBoneCache17bonecacheparams_tPS0_16CThreadFastMutexE22DestroyResourceStorageEPv"
+		},
+		{
+			"name": "CDataManager<CBoneCache, bonecacheparams_t, CBoneCache*, CThreadFastMutex>::GetRealSize(void*)",
+			"name_mangled": "_ZN12CDataManagerI10CBoneCache17bonecacheparams_tPS0_16CThreadFastMutexE11GetRealSizeEPv"
+		}
+	]
+}

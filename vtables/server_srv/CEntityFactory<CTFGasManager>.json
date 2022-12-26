@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFGasManager>",
+	"classname_mangled": "_ZTV14CEntityFactoryI13CTFGasManagerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFGasManager>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI13CTFGasManagerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFGasManager>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI13CTFGasManagerE13GetEntitySizeEv"
+		}
+	]
+}

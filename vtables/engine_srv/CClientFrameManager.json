@@ -1,0 +1,10 @@
+{
+	"classname": "CClientFrameManager",
+	"classname_mangled": "_ZTV19CClientFrameManager",
+	"members": [
+		{
+			"name": "CClientFrameManager::~CClientFrameManager()",
+			"name_mangled": "_ZN19CClientFrameManagerD0Ev"
+		}
+	]
+}

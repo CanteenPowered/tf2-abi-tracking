@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgQuestMapNodeCondition_NodeState",
+	"classname_mangled": "_ZTV35CMsgQuestMapNodeCondition_NodeState",
+	"members": [
+		{
+			"name": "CMsgQuestMapNodeCondition_NodeState::~CMsgQuestMapNodeCondition_NodeState()",
+			"name_mangled": "_ZN35CMsgQuestMapNodeCondition_NodeStateD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition_NodeState::New() const",
+			"name_mangled": "_ZNK35CMsgQuestMapNodeCondition_NodeState3NewEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition_NodeState::Clear()",
+			"name_mangled": "_ZN35CMsgQuestMapNodeCondition_NodeState5ClearEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition_NodeState::IsInitialized() const",
+			"name_mangled": "_ZNK35CMsgQuestMapNodeCondition_NodeState13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition_NodeState::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN35CMsgQuestMapNodeCondition_NodeState27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition_NodeState::ByteSize() const",
+			"name_mangled": "_ZNK35CMsgQuestMapNodeCondition_NodeState8ByteSizeEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition_NodeState::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK35CMsgQuestMapNodeCondition_NodeState24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition_NodeState::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK35CMsgQuestMapNodeCondition_NodeState31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition_NodeState::GetCachedSize() const",
+			"name_mangled": "_ZNK35CMsgQuestMapNodeCondition_NodeState13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition_NodeState::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN35CMsgQuestMapNodeCondition_NodeState8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition_NodeState::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN35CMsgQuestMapNodeCondition_NodeState9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition_NodeState::SetCachedSize(int) const",
+			"name_mangled": "_ZNK35CMsgQuestMapNodeCondition_NodeState13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition_NodeState::GetMetadata() const",
+			"name_mangled": "_ZNK35CMsgQuestMapNodeCondition_NodeState11GetMetadataEv"
+		}
+	]
+}

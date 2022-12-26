@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncRespawnRoomVisualizer>",
+	"classname_mangled": "_ZTV14CEntityFactoryI26CFuncRespawnRoomVisualizerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncRespawnRoomVisualizer>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI26CFuncRespawnRoomVisualizerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncRespawnRoomVisualizer>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI26CFuncRespawnRoomVisualizerE13GetEntitySizeEv"
+		}
+	]
+}

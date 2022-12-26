@@ -1,0 +1,18 @@
+{
+	"classname": "CResourcePreloadModel",
+	"classname_mangled": "_ZTV21CResourcePreloadModel",
+	"members": [
+		{
+			"name": "CResourcePreloadModel::PurgeUnreferencedResources()",
+			"name_mangled": "_ZN21CResourcePreloadModel26PurgeUnreferencedResourcesEv"
+		},
+		{
+			"name": "CResourcePreloadModel::OnEndMapLoading(bool)",
+			"name_mangled": "_ZN21CResourcePreloadModel15OnEndMapLoadingEb"
+		},
+		{
+			"name": "CResourcePreloadModel::PurgeAll()",
+			"name_mangled": "_ZN21CResourcePreloadModel8PurgeAllEv"
+		}
+	]
+}

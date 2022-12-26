@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<FilterDamagedByWeaponInSlot>",
+	"classname_mangled": "_ZTV14CEntityFactoryI27FilterDamagedByWeaponInSlotE",
+	"members": [
+		{
+			"name": "CEntityFactory<FilterDamagedByWeaponInSlot>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI27FilterDamagedByWeaponInSlotE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<FilterDamagedByWeaponInSlot>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI27FilterDamagedByWeaponInSlotE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncFlagAlertZone>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CFuncFlagAlertZoneE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncFlagAlertZone>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CFuncFlagAlertZoneE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncFlagAlertZone>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CFuncFlagAlertZoneE13GetEntitySizeEv"
+		}
+	]
+}

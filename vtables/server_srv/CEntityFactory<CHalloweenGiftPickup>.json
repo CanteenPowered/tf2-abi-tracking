@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CHalloweenGiftPickup>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CHalloweenGiftPickupE",
+	"members": [
+		{
+			"name": "CEntityFactory<CHalloweenGiftPickup>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CHalloweenGiftPickupE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CHalloweenGiftPickup>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CHalloweenGiftPickupE13GetEntitySizeEv"
+		}
+	]
+}

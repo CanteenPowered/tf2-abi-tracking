@@ -1,0 +1,54 @@
+{
+	"classname": "CEffectsServer",
+	"classname_mangled": "_ZTV14CEffectsServer",
+	"members": [
+		{
+			"name": "CEffectsServer::~CEffectsServer()",
+			"name_mangled": "_ZN14CEffectsServerD0Ev"
+		},
+		{
+			"name": "CEffectsServer::Beam(Vector const&, Vector const&, int, int, unsigned char, unsigned char, float, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)",
+			"name_mangled": "_ZN14CEffectsServer4BeamERK6VectorS2_iihhfhhhhhhhhh"
+		},
+		{
+			"name": "CEffectsServer::Smoke(Vector const&, int, float, float)",
+			"name_mangled": "_ZN14CEffectsServer5SmokeERK6Vectoriff"
+		},
+		{
+			"name": "CEffectsServer::Sparks(Vector const&, int, int, Vector const*)",
+			"name_mangled": "_ZN14CEffectsServer6SparksERK6VectoriiPS1_"
+		},
+		{
+			"name": "CEffectsServer::Dust(Vector const&, Vector const&, float, float)",
+			"name_mangled": "_ZN14CEffectsServer4DustERK6VectorS2_ff"
+		},
+		{
+			"name": "CEffectsServer::MuzzleFlash(Vector const&, QAngle const&, float, int)",
+			"name_mangled": "_ZN14CEffectsServer11MuzzleFlashERK6VectorRK6QAnglefi"
+		},
+		{
+			"name": "CEffectsServer::MetalSparks(Vector const&, Vector const&)",
+			"name_mangled": "_ZN14CEffectsServer11MetalSparksERK6VectorS2_"
+		},
+		{
+			"name": "CEffectsServer::EnergySplash(Vector const&, Vector const&, bool)",
+			"name_mangled": "_ZN14CEffectsServer12EnergySplashERK6VectorS2_b"
+		},
+		{
+			"name": "CEffectsServer::Ricochet(Vector const&, Vector const&)",
+			"name_mangled": "_ZN14CEffectsServer8RicochetERK6VectorS2_"
+		},
+		{
+			"name": "CEffectsServer::Time()",
+			"name_mangled": "_ZN14CEffectsServer4TimeEv"
+		},
+		{
+			"name": "CEffectsServer::IsServer()",
+			"name_mangled": "_ZN14CEffectsServer8IsServerEv"
+		},
+		{
+			"name": "CEffectsServer::SuppressEffectsSounds(bool)",
+			"name_mangled": "_ZN14CEffectsServer21SuppressEffectsSoundsEb"
+		}
+	]
+}

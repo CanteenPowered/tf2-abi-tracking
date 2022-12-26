@@ -1,0 +1,70 @@
+{
+	"classname": "CCommandLine",
+	"classname_mangled": "_ZTV12CCommandLine",
+	"members": [
+		{
+			"name": "CCommandLine::CreateCmdLine(int, char**)",
+			"name_mangled": "_ZN12CCommandLine13CreateCmdLineEiPPc"
+		},
+		{
+			"name": "CCommandLine::GetCmdLine() const",
+			"name_mangled": "_ZNK12CCommandLine10GetCmdLineEv"
+		},
+		{
+			"name": "CCommandLine::CheckParm(char const*, char const**) const",
+			"name_mangled": "_ZNK12CCommandLine9CheckParmEPKcPS1_"
+		},
+		{
+			"name": "CCommandLine::RemoveParm(char const*)",
+			"name_mangled": "_ZN12CCommandLine10RemoveParmEPKc"
+		},
+		{
+			"name": "CCommandLine::AppendParm(char const*, char const*)",
+			"name_mangled": "_ZN12CCommandLine10AppendParmEPKcS1_"
+		},
+		{
+			"name": "CCommandLine::ParmValue(char const*, char const*) const",
+			"name_mangled": "_ZNK12CCommandLine9ParmValueEPKcS1_"
+		},
+		{
+			"name": "CCommandLine::ParmValue(char const*, int) const",
+			"name_mangled": "_ZNK12CCommandLine9ParmValueEPKci"
+		},
+		{
+			"name": "CCommandLine::ParmValue(char const*, float) const",
+			"name_mangled": "_ZNK12CCommandLine9ParmValueEPKcf"
+		},
+		{
+			"name": "CCommandLine::ParmCount() const",
+			"name_mangled": "_ZNK12CCommandLine9ParmCountEv"
+		},
+		{
+			"name": "CCommandLine::FindParm(char const*) const",
+			"name_mangled": "_ZNK12CCommandLine8FindParmEPKc"
+		},
+		{
+			"name": "CCommandLine::GetParm(int) const",
+			"name_mangled": "_ZNK12CCommandLine7GetParmEi"
+		},
+		{
+			"name": "CCommandLine::SetParm(int, char const*)",
+			"name_mangled": "_ZN12CCommandLine7SetParmEiPKc"
+		},
+		{
+			"name": "CCommandLine::ParmValueByIndex(int, char const*) const",
+			"name_mangled": "_ZNK12CCommandLine16ParmValueByIndexEiPKc"
+		},
+		{
+			"name": "CCommandLine::HasParm(char const*) const",
+			"name_mangled": "_ZNK12CCommandLine7HasParmEPKc"
+		},
+		{
+			"name": "CCommandLine::~CCommandLine()",
+			"name_mangled": "_ZN12CCommandLineD1Ev"
+		},
+		{
+			"name": "CCommandLine::~CCommandLine()",
+			"name_mangled": "_ZN12CCommandLineD0Ev"
+		}
+	]
+}

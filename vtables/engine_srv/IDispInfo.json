@@ -1,0 +1,10 @@
+{
+	"classname": "IDispInfo",
+	"classname_mangled": "_ZTV9IDispInfo",
+	"members": [
+		{
+			"name": "IDispInfo::~IDispInfo()",
+			"name_mangled": "_ZN9IDispInfoD0Ev"
+		}
+	]
+}

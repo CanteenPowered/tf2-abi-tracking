@@ -1,0 +1,10 @@
+{
+	"classname": "ITriggerPlayerRespawnOverride",
+	"classname_mangled": "_ZTV29ITriggerPlayerRespawnOverride",
+	"members": [
+		{
+			"name": "ITriggerPlayerRespawnOverride::~ITriggerPlayerRespawnOverride()",
+			"name_mangled": "_ZN29ITriggerPlayerRespawnOverrideD0Ev"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"classname": "CSchemaAttributeTypeProtobufBase<CAttribute_DynamicRecipeComponent>",
+	"classname_mangled": "_ZTV32CSchemaAttributeTypeProtobufBaseI33CAttribute_DynamicRecipeComponentE",
+	"members": [
+		{
+			"name": "CSchemaAttributeTypeProtobufBase<CAttribute_DynamicRecipeComponent>::~CSchemaAttributeTypeProtobufBase()",
+			"name_mangled": "_ZN32CSchemaAttributeTypeProtobufBaseI33CAttribute_DynamicRecipeComponentED0Ev"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_DynamicRecipeComponent>::GetTypeUniqueIdentifier() const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI33CAttribute_DynamicRecipeComponentE23GetTypeUniqueIdentifierEv"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_DynamicRecipeComponent>::LoadEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI33CAttribute_DynamicRecipeComponentE22LoadEconAttributeValueEP9CEconItemPK28CEconItemAttributeDefinitionRK22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_DynamicRecipeComponent>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&, std::string*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI33CAttribute_DynamicRecipeComponentE37ConvertEconAttributeValueToByteStreamERK22attribute_data_union_tPSs"
+		},
+		{
+			"name": "CSchemaAttributeTypeProtobufBase<CAttribute_DynamicRecipeComponent>::BConvertStringToEconAttributeValue(CEconItemAttributeDefinition const*, char const*, attribute_data_union_t*, bool) const",
+			"name_mangled": "_ZNK32CSchemaAttributeTypeProtobufBaseI33CAttribute_DynamicRecipeComponentE34BConvertStringToEconAttributeValueEPK28CEconItemAttributeDefinitionPKcP22attribute_data_union_tb"
+		},
+		{
+			"name": "CSchemaAttributeTypeProtobufBase<CAttribute_DynamicRecipeComponent>::ConvertEconAttributeValueToString(CEconItemAttributeDefinition const*, attribute_data_union_t const&, std::string*) const",
+			"name_mangled": "_ZNK32CSchemaAttributeTypeProtobufBaseI33CAttribute_DynamicRecipeComponentE33ConvertEconAttributeValueToStringEPK28CEconItemAttributeDefinitionRK22attribute_data_union_tPSs"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_DynamicRecipeComponent>::LoadByteStreamToEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, std::string const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI33CAttribute_DynamicRecipeComponentE34LoadByteStreamToEconAttributeValueEP9CEconItemPK28CEconItemAttributeDefinitionRKSs"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_DynamicRecipeComponent>::InitializeNewEconAttributeValue(attribute_data_union_t*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI33CAttribute_DynamicRecipeComponentE31InitializeNewEconAttributeValueEP22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_DynamicRecipeComponent>::UnloadEconAttributeValue(attribute_data_union_t*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI33CAttribute_DynamicRecipeComponentE24UnloadEconAttributeValueEP22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_DynamicRecipeComponent>::OnIterateAttributeValue(IEconItemAttributeIterator*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI33CAttribute_DynamicRecipeComponentE23OnIterateAttributeValueEP26IEconItemAttributeIteratorPK28CEconItemAttributeDefinitionRK22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeType::BSupportsGameplayModificationAndNetworking() const",
+			"name_mangled": "_ZNK20ISchemaAttributeType42BSupportsGameplayModificationAndNetworkingEv"
+		},
+		{
+			"name": "CSchemaAttributeTypeProtobufBase<CAttribute_DynamicRecipeComponent>::ConvertTypedValueToByteStream(CAttribute_DynamicRecipeComponent const&, std::string*) const",
+			"name_mangled": "_ZNK32CSchemaAttributeTypeProtobufBaseI33CAttribute_DynamicRecipeComponentE29ConvertTypedValueToByteStreamERKS0_PSs"
+		},
+		{
+			"name": "CSchemaAttributeTypeProtobufBase<CAttribute_DynamicRecipeComponent>::ConvertByteStreamToTypedValue(std::string const&, CAttribute_DynamicRecipeComponent*) const",
+			"name_mangled": "_ZNK32CSchemaAttributeTypeProtobufBaseI33CAttribute_DynamicRecipeComponentE29ConvertByteStreamToTypedValueERKSsPS0_"
+		}
+	]
+}

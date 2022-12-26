@@ -1,0 +1,50 @@
+{
+	"classname": "CRandomChoiceSpawner",
+	"classname_mangled": "_ZTV20CRandomChoiceSpawner",
+	"members": [
+		{
+			"name": "CRandomChoiceSpawner::~CRandomChoiceSpawner()",
+			"name_mangled": "_ZN20CRandomChoiceSpawnerD0Ev"
+		},
+		{
+			"name": "CRandomChoiceSpawner::Parse(KeyValues*)",
+			"name_mangled": "_ZN20CRandomChoiceSpawner5ParseEP9KeyValues"
+		},
+		{
+			"name": "CRandomChoiceSpawner::Spawn(Vector const&, CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>*)",
+			"name_mangled": "_ZN20CRandomChoiceSpawner5SpawnERK6VectorP10CUtlVectorI7CHandleI11CBaseEntityE10CUtlMemoryIS6_iEE"
+		},
+		{
+			"name": "IPopulationSpawner::IsWhereRequired() const",
+			"name_mangled": "_ZNK18IPopulationSpawner15IsWhereRequiredEv"
+		},
+		{
+			"name": "CRandomChoiceSpawner::IsVarious()",
+			"name_mangled": "_ZN20CRandomChoiceSpawner9IsVariousEv"
+		},
+		{
+			"name": "CRandomChoiceSpawner::GetClass(int)",
+			"name_mangled": "_ZN20CRandomChoiceSpawner8GetClassEi"
+		},
+		{
+			"name": "CRandomChoiceSpawner::GetClassIcon(int)",
+			"name_mangled": "_ZN20CRandomChoiceSpawner12GetClassIconEi"
+		},
+		{
+			"name": "CRandomChoiceSpawner::GetHealth(int)",
+			"name_mangled": "_ZN20CRandomChoiceSpawner9GetHealthEi"
+		},
+		{
+			"name": "CRandomChoiceSpawner::IsMiniBoss(int)",
+			"name_mangled": "_ZN20CRandomChoiceSpawner10IsMiniBossEi"
+		},
+		{
+			"name": "CRandomChoiceSpawner::HasAttribute(CTFBot::AttributeType, int)",
+			"name_mangled": "_ZN20CRandomChoiceSpawner12HasAttributeEN6CTFBot13AttributeTypeEi"
+		},
+		{
+			"name": "CRandomChoiceSpawner::HasEventChangeAttributes(char const*) const",
+			"name_mangled": "_ZNK20CRandomChoiceSpawner24HasEventChangeAttributesEPKc"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "google::protobuf::io::CopyingOutputStream",
+	"classname_mangled": "_ZTVN6google8protobuf2io19CopyingOutputStreamE",
+	"members": [
+		{
+			"name": "google::protobuf::io::CopyingOutputStream::~CopyingOutputStream()",
+			"name_mangled": "_ZN6google8protobuf2io19CopyingOutputStreamD0Ev"
+		}
+	]
+}

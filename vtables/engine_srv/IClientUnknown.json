@@ -1,0 +1,10 @@
+{
+	"classname": "IClientUnknown",
+	"classname_mangled": "_ZTV14IClientUnknown",
+	"members": [
+		{
+			"name": "IClientUnknown::~IClientUnknown()",
+			"name_mangled": "_ZN14IClientUnknownD0Ev"
+		}
+	]
+}

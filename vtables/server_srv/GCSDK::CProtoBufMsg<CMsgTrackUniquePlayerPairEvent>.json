@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgTrackUniquePlayerPairEvent>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI30CMsgTrackUniquePlayerPairEventEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgTrackUniquePlayerPairEvent>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI30CMsgTrackUniquePlayerPairEventED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgTrackUniquePlayerPairEvent>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI30CMsgTrackUniquePlayerPairEventE14GetGenericBodyEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFPistol_Scout>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CTFPistol_ScoutE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFPistol_Scout>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CTFPistol_ScoutE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFPistol_Scout>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CTFPistol_ScoutE13GetEntitySizeEv"
+		}
+	]
+}

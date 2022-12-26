@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFMedigunShield>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CTFMedigunShieldE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFMedigunShield>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFMedigunShieldE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFMedigunShield>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFMedigunShieldE13GetEntitySizeEv"
+		}
+	]
+}

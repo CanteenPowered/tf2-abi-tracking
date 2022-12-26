@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTriggerCamera>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CTriggerCameraE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTriggerCamera>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CTriggerCameraE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTriggerCamera>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CTriggerCameraE13GetEntitySizeEv"
+		}
+	]
+}

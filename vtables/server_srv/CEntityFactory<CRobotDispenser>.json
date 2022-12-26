@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CRobotDispenser>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CRobotDispenserE",
+	"members": [
+		{
+			"name": "CEntityFactory<CRobotDispenser>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CRobotDispenserE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CRobotDispenser>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CRobotDispenserE13GetEntitySizeEv"
+		}
+	]
+}

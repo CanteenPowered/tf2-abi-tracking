@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgCraftHalloweenOffering",
+	"classname_mangled": "_ZTV26CMsgCraftHalloweenOffering",
+	"members": [
+		{
+			"name": "CMsgCraftHalloweenOffering::~CMsgCraftHalloweenOffering()",
+			"name_mangled": "_ZN26CMsgCraftHalloweenOfferingD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgCraftHalloweenOffering::New() const",
+			"name_mangled": "_ZNK26CMsgCraftHalloweenOffering3NewEv"
+		},
+		{
+			"name": "CMsgCraftHalloweenOffering::Clear()",
+			"name_mangled": "_ZN26CMsgCraftHalloweenOffering5ClearEv"
+		},
+		{
+			"name": "CMsgCraftHalloweenOffering::IsInitialized() const",
+			"name_mangled": "_ZNK26CMsgCraftHalloweenOffering13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgCraftHalloweenOffering::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN26CMsgCraftHalloweenOffering27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgCraftHalloweenOffering::ByteSize() const",
+			"name_mangled": "_ZNK26CMsgCraftHalloweenOffering8ByteSizeEv"
+		},
+		{
+			"name": "CMsgCraftHalloweenOffering::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK26CMsgCraftHalloweenOffering24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgCraftHalloweenOffering::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK26CMsgCraftHalloweenOffering31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgCraftHalloweenOffering::GetCachedSize() const",
+			"name_mangled": "_ZNK26CMsgCraftHalloweenOffering13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgCraftHalloweenOffering::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN26CMsgCraftHalloweenOffering8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgCraftHalloweenOffering::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN26CMsgCraftHalloweenOffering9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgCraftHalloweenOffering::SetCachedSize(int) const",
+			"name_mangled": "_ZNK26CMsgCraftHalloweenOffering13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgCraftHalloweenOffering::GetMetadata() const",
+			"name_mangled": "_ZNK26CMsgCraftHalloweenOffering11GetMetadataEv"
+		}
+	]
+}

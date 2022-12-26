@@ -1,0 +1,10 @@
+{
+	"classname": "IDelayedSchemaData",
+	"classname_mangled": "_ZTV18IDelayedSchemaData",
+	"members": [
+		{
+			"name": "IDelayedSchemaData::~IDelayedSchemaData()",
+			"name_mangled": "_ZN18IDelayedSchemaDataD0Ev"
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgApplyAutograph",
+	"classname_mangled": "_ZTV18CMsgApplyAutograph",
+	"members": [
+		{
+			"name": "CMsgApplyAutograph::~CMsgApplyAutograph()",
+			"name_mangled": "_ZN18CMsgApplyAutographD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgApplyAutograph::New() const",
+			"name_mangled": "_ZNK18CMsgApplyAutograph3NewEv"
+		},
+		{
+			"name": "CMsgApplyAutograph::Clear()",
+			"name_mangled": "_ZN18CMsgApplyAutograph5ClearEv"
+		},
+		{
+			"name": "CMsgApplyAutograph::IsInitialized() const",
+			"name_mangled": "_ZNK18CMsgApplyAutograph13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgApplyAutograph::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN18CMsgApplyAutograph27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgApplyAutograph::ByteSize() const",
+			"name_mangled": "_ZNK18CMsgApplyAutograph8ByteSizeEv"
+		},
+		{
+			"name": "CMsgApplyAutograph::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK18CMsgApplyAutograph24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgApplyAutograph::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK18CMsgApplyAutograph31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgApplyAutograph::GetCachedSize() const",
+			"name_mangled": "_ZNK18CMsgApplyAutograph13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgApplyAutograph::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN18CMsgApplyAutograph8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgApplyAutograph::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN18CMsgApplyAutograph9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgApplyAutograph::SetCachedSize(int) const",
+			"name_mangled": "_ZNK18CMsgApplyAutograph13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgApplyAutograph::GetMetadata() const",
+			"name_mangled": "_ZNK18CMsgApplyAutograph11GetMetadataEv"
+		}
+	]
+}

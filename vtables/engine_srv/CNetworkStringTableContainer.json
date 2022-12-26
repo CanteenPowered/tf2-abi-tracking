@@ -1,0 +1,38 @@
+{
+	"classname": "CNetworkStringTableContainer",
+	"classname_mangled": "_ZTV28CNetworkStringTableContainer",
+	"members": [
+		{
+			"name": "CNetworkStringTableContainer::~CNetworkStringTableContainer()",
+			"name_mangled": "_ZN28CNetworkStringTableContainerD0Ev"
+		},
+		{
+			"name": "CNetworkStringTableContainer::CreateStringTable(char const*, int, int, int)",
+			"name_mangled": "_ZN28CNetworkStringTableContainer17CreateStringTableEPKciii"
+		},
+		{
+			"name": "CNetworkStringTableContainer::RemoveAllTables()",
+			"name_mangled": "_ZN28CNetworkStringTableContainer15RemoveAllTablesEv"
+		},
+		{
+			"name": "CNetworkStringTableContainer::FindTable(char const*) const",
+			"name_mangled": "_ZNK28CNetworkStringTableContainer9FindTableEPKc"
+		},
+		{
+			"name": "CNetworkStringTableContainer::GetTable(int) const",
+			"name_mangled": "_ZNK28CNetworkStringTableContainer8GetTableEi"
+		},
+		{
+			"name": "CNetworkStringTableContainer::GetNumTables() const",
+			"name_mangled": "_ZNK28CNetworkStringTableContainer12GetNumTablesEv"
+		},
+		{
+			"name": "CNetworkStringTableContainer::CreateStringTableEx(char const*, int, int, int, bool)",
+			"name_mangled": "_ZN28CNetworkStringTableContainer19CreateStringTableExEPKciiib"
+		},
+		{
+			"name": "CNetworkStringTableContainer::SetAllowClientSideAddString(INetworkStringTable*, bool)",
+			"name_mangled": "_ZN28CNetworkStringTableContainer27SetAllowClientSideAddStringEP19INetworkStringTableb"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "tf_point_t",
+	"classname_mangled": "_ZTV10tf_point_t",
+	"members": [
+		{
+			"name": "tf_point_t::~tf_point_t()",
+			"name_mangled": "_ZN10tf_point_tD0Ev"
+		}
+	]
+}

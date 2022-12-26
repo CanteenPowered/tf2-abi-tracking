@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEnvScreenEffect>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CEnvScreenEffectE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEnvScreenEffect>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CEnvScreenEffectE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEnvScreenEffect>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CEnvScreenEffectE13GetEntitySizeEv"
+		}
+	]
+}

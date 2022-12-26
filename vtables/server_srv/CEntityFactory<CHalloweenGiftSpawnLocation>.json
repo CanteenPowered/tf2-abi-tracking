@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CHalloweenGiftSpawnLocation>",
+	"classname_mangled": "_ZTV14CEntityFactoryI27CHalloweenGiftSpawnLocationE",
+	"members": [
+		{
+			"name": "CEntityFactory<CHalloweenGiftSpawnLocation>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI27CHalloweenGiftSpawnLocationE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CHalloweenGiftSpawnLocation>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI27CHalloweenGiftSpawnLocationE13GetEntitySizeEv"
+		}
+	]
+}

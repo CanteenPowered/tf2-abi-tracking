@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CRagGib>",
+	"classname_mangled": "_ZTV14CEntityFactoryI7CRagGibE",
+	"members": [
+		{
+			"name": "CEntityFactory<CRagGib>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI7CRagGibE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CRagGib>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI7CRagGibE13GetEntitySizeEv"
+		}
+	]
+}

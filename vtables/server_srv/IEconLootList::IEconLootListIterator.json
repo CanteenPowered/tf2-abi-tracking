@@ -1,0 +1,10 @@
+{
+	"classname": "IEconLootList::IEconLootListIterator",
+	"classname_mangled": "_ZTVN13IEconLootList21IEconLootListIteratorE",
+	"members": [
+		{
+			"name": "IEconLootList::IEconLootListIterator::~IEconLootListIterator()",
+			"name_mangled": "_ZN13IEconLootList21IEconLootListIteratorD0Ev"
+		}
+	]
+}

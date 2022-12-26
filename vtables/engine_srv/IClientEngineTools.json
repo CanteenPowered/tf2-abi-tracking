@@ -1,0 +1,10 @@
+{
+	"classname": "IClientEngineTools",
+	"classname_mangled": "_ZTV18IClientEngineTools",
+	"members": [
+		{
+			"name": "IClientEngineTools::~IClientEngineTools()",
+			"name_mangled": "_ZN18IClientEngineToolsD0Ev"
+		}
+	]
+}

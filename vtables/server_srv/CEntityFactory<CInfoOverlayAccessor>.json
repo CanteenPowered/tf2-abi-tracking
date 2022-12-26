@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CInfoOverlayAccessor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CInfoOverlayAccessorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CInfoOverlayAccessor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CInfoOverlayAccessorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CInfoOverlayAccessor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CInfoOverlayAccessorE13GetEntitySizeEv"
+		}
+	]
+}

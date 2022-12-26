@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTriggerCDAudio>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CTriggerCDAudioE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTriggerCDAudio>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CTriggerCDAudioE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTriggerCDAudio>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CTriggerCDAudioE13GetEntitySizeEv"
+		}
+	]
+}

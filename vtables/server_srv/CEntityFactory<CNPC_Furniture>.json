@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CNPC_Furniture>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CNPC_FurnitureE",
+	"members": [
+		{
+			"name": "CEntityFactory<CNPC_Furniture>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CNPC_FurnitureE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CNPC_Furniture>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CNPC_FurnitureE13GetEntitySizeEv"
+		}
+	]
+}

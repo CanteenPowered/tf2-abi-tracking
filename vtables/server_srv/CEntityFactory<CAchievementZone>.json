@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAchievementZone>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CAchievementZoneE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAchievementZone>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CAchievementZoneE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAchievementZone>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CAchievementZoneE13GetEntitySizeEv"
+		}
+	]
+}

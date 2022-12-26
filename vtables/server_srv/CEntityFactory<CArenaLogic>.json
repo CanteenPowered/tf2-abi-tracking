@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CArenaLogic>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CArenaLogicE",
+	"members": [
+		{
+			"name": "CEntityFactory<CArenaLogic>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CArenaLogicE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CArenaLogic>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CArenaLogicE13GetEntitySizeEv"
+		}
+	]
+}

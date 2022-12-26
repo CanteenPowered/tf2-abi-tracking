@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_GrapplingHook>",
+	"classname_mangled": "_ZTV14CEntityFactoryI27CTFProjectile_GrapplingHookE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_GrapplingHook>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI27CTFProjectile_GrapplingHookE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_GrapplingHook>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI27CTFProjectile_GrapplingHookE13GetEntitySizeEv"
+		}
+	]
+}

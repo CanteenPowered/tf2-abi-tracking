@@ -1,0 +1,10 @@
+{
+	"classname": "CTeamplayRoundBasedRules::CleanUpMap()::CTeamplayMapEntityFilter",
+	"classname_mangled": "_ZTVZN24CTeamplayRoundBasedRules10CleanUpMapEvE24CTeamplayMapEntityFilter",
+	"members": [
+		{
+			"name": "CTeamplayRoundBasedRules::CleanUpMap()::CTeamplayMapEntityFilter::CreateNextEntity(char const*)",
+			"name_mangled": "_ZZN24CTeamplayRoundBasedRules10CleanUpMapEvEN24CTeamplayMapEntityFilter16CreateNextEntityEPKc"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFSodaPopper>",
+	"classname_mangled": "_ZTV14CEntityFactoryI13CTFSodaPopperE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFSodaPopper>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI13CTFSodaPopperE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFSodaPopper>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI13CTFSodaPopperE13GetEntitySizeEv"
+		}
+	]
+}

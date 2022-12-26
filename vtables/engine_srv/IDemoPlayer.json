@@ -1,0 +1,10 @@
+{
+	"classname": "IDemoPlayer",
+	"classname_mangled": "_ZTV11IDemoPlayer",
+	"members": [
+		{
+			"name": "IDemoPlayer::~IDemoPlayer()",
+			"name_mangled": "_ZN11IDemoPlayerD0Ev"
+		}
+	]
+}

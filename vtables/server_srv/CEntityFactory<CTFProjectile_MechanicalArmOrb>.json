@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_MechanicalArmOrb>",
+	"classname_mangled": "_ZTV14CEntityFactoryI30CTFProjectile_MechanicalArmOrbE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_MechanicalArmOrb>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI30CTFProjectile_MechanicalArmOrbE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_MechanicalArmOrb>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI30CTFProjectile_MechanicalArmOrbE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "IIsHolidayActive",
+	"classname_mangled": "_ZTV16IIsHolidayActive",
+	"members": [
+		{
+			"name": "IIsHolidayActive::~IIsHolidayActive()",
+			"name_mangled": "_ZN16IIsHolidayActiveD0Ev"
+		}
+	]
+}

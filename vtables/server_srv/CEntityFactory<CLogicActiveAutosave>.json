@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CLogicActiveAutosave>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CLogicActiveAutosaveE",
+	"members": [
+		{
+			"name": "CEntityFactory<CLogicActiveAutosave>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CLogicActiveAutosaveE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CLogicActiveAutosave>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CLogicActiveAutosaveE13GetEntitySizeEv"
+		}
+	]
+}

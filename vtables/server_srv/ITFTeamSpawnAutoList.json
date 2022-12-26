@@ -1,0 +1,10 @@
+{
+	"classname": "ITFTeamSpawnAutoList",
+	"classname_mangled": "_ZTV20ITFTeamSpawnAutoList",
+	"members": [
+		{
+			"name": "ITFTeamSpawnAutoList::~ITFTeamSpawnAutoList()",
+			"name_mangled": "_ZN20ITFTeamSpawnAutoListD0Ev"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"classname": "CGCClientJobServerGoodbye",
+	"classname_mangled": "_ZTV25CGCClientJobServerGoodbye",
+	"members": [
+		{
+			"name": "CGCClientJobServerGoodbye::~CGCClientJobServerGoodbye()",
+			"name_mangled": "_ZN25CGCClientJobServerGoodbyeD0Ev"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunJob(void*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob15BYieldingRunJobEPv"
+		},
+		{
+			"name": "CGCClientJobServerGoodbye::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN25CGCClientJobServerGoodbye22BYieldingRunJobFromMsgEPN5GCSDK13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob24CHeartbeatsBeforeTimeoutEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::GetServerType()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob13GetServerTypeEv"
+		}
+	]
+}

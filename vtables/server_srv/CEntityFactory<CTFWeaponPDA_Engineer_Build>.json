@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFWeaponPDA_Engineer_Build>",
+	"classname_mangled": "_ZTV14CEntityFactoryI27CTFWeaponPDA_Engineer_BuildE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFWeaponPDA_Engineer_Build>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI27CTFWeaponPDA_Engineer_BuildE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFWeaponPDA_Engineer_Build>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI27CTFWeaponPDA_Engineer_BuildE13GetEntitySizeEv"
+		}
+	]
+}

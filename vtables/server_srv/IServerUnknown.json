@@ -1,0 +1,10 @@
+{
+	"classname": "IServerUnknown",
+	"classname_mangled": "_ZTV14IServerUnknown",
+	"members": [
+		{
+			"name": "IServerUnknown::~IServerUnknown()",
+			"name_mangled": "_ZN14IServerUnknownD0Ev"
+		}
+	]
+}

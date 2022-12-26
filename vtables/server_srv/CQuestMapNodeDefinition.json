@@ -1,0 +1,42 @@
+{
+	"classname": "CQuestMapNodeDefinition",
+	"classname_mangled": "_ZTV23CQuestMapNodeDefinition",
+	"members": [
+		{
+			"name": "CQuestMapNodeDefinition::~CQuestMapNodeDefinition()",
+			"name_mangled": "_ZN23CQuestMapNodeDefinitionD0Ev"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetMsg() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI19CMsgQuestMapNodeDefL13ProtoDefTypes0EE6GetMsgEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetDefType() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI19CMsgQuestMapNodeDefL13ProtoDefTypes0EE10GetDefTypeEv"
+		},
+		{
+			"name": "CQuestMapNodeDefinition::GetDisplayName() const",
+			"name_mangled": "_ZNK23CQuestMapNodeDefinition14GetDisplayNameEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetTopLayerMessage() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI19CMsgQuestMapNodeDefL13ProtoDefTypes0EE18GetTopLayerMessageEv"
+		},
+		{
+			"name": "CQuestMapNodeDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN23CQuestMapNodeDefinition15BPostDataLoadedEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN31IProtoBufScriptObjectDefinition13BOnDataLoadedEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetMutableTopLayerMsg()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI19CMsgQuestMapNodeDefL13ProtoDefTypes0EE21GetMutableTopLayerMsgEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapNodeDef, (ProtoDefTypes)0>::GetMutableMsg()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI19CMsgQuestMapNodeDefL13ProtoDefTypes0EE13GetMutableMsgEv"
+		}
+	]
+}

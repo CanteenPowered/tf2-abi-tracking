@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CInfoCameraLink>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CInfoCameraLinkE",
+	"members": [
+		{
+			"name": "CEntityFactory<CInfoCameraLink>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CInfoCameraLinkE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CInfoCameraLink>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CInfoCameraLinkE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CObjectSapper>",
+	"classname_mangled": "_ZTV14CEntityFactoryI13CObjectSapperE",
+	"members": [
+		{
+			"name": "CEntityFactory<CObjectSapper>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI13CObjectSapperE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CObjectSapper>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI13CObjectSapperE13GetEntitySizeEv"
+		}
+	]
+}

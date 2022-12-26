@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_EnergyBall>",
+	"classname_mangled": "_ZTV14CEntityFactoryI24CTFProjectile_EnergyBallE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_EnergyBall>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI24CTFProjectile_EnergyBallE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_EnergyBall>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI24CTFProjectile_EnergyBallE13GetEntitySizeEv"
+		}
+	]
+}

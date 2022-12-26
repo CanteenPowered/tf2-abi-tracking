@@ -1,0 +1,270 @@
+{
+	"classname": "CBaseServer",
+	"classname_mangled": "_ZTV11CBaseServer",
+	"members": [
+		{
+			"name": "CBaseServer::~CBaseServer()",
+			"name_mangled": "_ZN11CBaseServerD0Ev"
+		},
+		{
+			"name": "CBaseServer::ProcessConnectionlessPacket(netpacket_s*)",
+			"name_mangled": "_ZN11CBaseServer27ProcessConnectionlessPacketEP11netpacket_s"
+		},
+		{
+			"name": "CBaseServer::GetNumClients() const",
+			"name_mangled": "_ZNK11CBaseServer13GetNumClientsEv"
+		},
+		{
+			"name": "CBaseServer::GetNumProxies() const",
+			"name_mangled": "_ZNK11CBaseServer13GetNumProxiesEv"
+		},
+		{
+			"name": "CBaseServer::GetNumFakeClients() const",
+			"name_mangled": "_ZNK11CBaseServer17GetNumFakeClientsEv"
+		},
+		{
+			"name": "CBaseServer::GetMaxClients() const",
+			"name_mangled": "_ZNK11CBaseServer13GetMaxClientsEv"
+		},
+		{
+			"name": "CBaseServer::GetClient(int)",
+			"name_mangled": "_ZN11CBaseServer9GetClientEi"
+		},
+		{
+			"name": "CBaseServer::GetClientCount() const",
+			"name_mangled": "_ZNK11CBaseServer14GetClientCountEv"
+		},
+		{
+			"name": "CBaseServer::GetPublicAddress() const",
+			"name_mangled": "_ZNK11CBaseServer16GetPublicAddressEv"
+		},
+		{
+			"name": "CBaseServer::IsUsingFakeIP() const",
+			"name_mangled": "_ZNK11CBaseServer13IsUsingFakeIPEv"
+		},
+		{
+			"name": "CBaseServer::GetLocalUDPPort() const",
+			"name_mangled": "_ZNK11CBaseServer15GetLocalUDPPortEv"
+		},
+		{
+			"name": "CBaseServer::GetTime() const",
+			"name_mangled": "_ZNK11CBaseServer7GetTimeEv"
+		},
+		{
+			"name": "CBaseServer::GetTick() const",
+			"name_mangled": "_ZNK11CBaseServer7GetTickEv"
+		},
+		{
+			"name": "CBaseServer::GetTickInterval() const",
+			"name_mangled": "_ZNK11CBaseServer15GetTickIntervalEv"
+		},
+		{
+			"name": "CBaseServer::GetName() const",
+			"name_mangled": "_ZNK11CBaseServer7GetNameEv"
+		},
+		{
+			"name": "CBaseServer::GetMapName() const",
+			"name_mangled": "_ZNK11CBaseServer10GetMapNameEv"
+		},
+		{
+			"name": "CBaseServer::GetSpawnCount() const",
+			"name_mangled": "_ZNK11CBaseServer13GetSpawnCountEv"
+		},
+		{
+			"name": "CBaseServer::GetNumClasses() const",
+			"name_mangled": "_ZNK11CBaseServer13GetNumClassesEv"
+		},
+		{
+			"name": "CBaseServer::GetClassBits() const",
+			"name_mangled": "_ZNK11CBaseServer12GetClassBitsEv"
+		},
+		{
+			"name": "CBaseServer::GetNetStats(float&, float&)",
+			"name_mangled": "_ZN11CBaseServer11GetNetStatsERfS0_"
+		},
+		{
+			"name": "CBaseServer::GetNumPlayers()",
+			"name_mangled": "_ZN11CBaseServer13GetNumPlayersEv"
+		},
+		{
+			"name": "CBaseServer::GetPlayerInfo(int, player_info_s*)",
+			"name_mangled": "_ZN11CBaseServer13GetPlayerInfoEiP13player_info_s"
+		},
+		{
+			"name": "CBaseServer::IsActive() const",
+			"name_mangled": "_ZNK11CBaseServer8IsActiveEv"
+		},
+		{
+			"name": "CBaseServer::IsLoading() const",
+			"name_mangled": "_ZNK11CBaseServer9IsLoadingEv"
+		},
+		{
+			"name": "CBaseServer::IsDedicated() const",
+			"name_mangled": "_ZNK11CBaseServer11IsDedicatedEv"
+		},
+		{
+			"name": "CBaseServer::IsPaused() const",
+			"name_mangled": "_ZNK11CBaseServer8IsPausedEv"
+		},
+		{
+			"name": "CBaseServer::IsMultiplayer() const",
+			"name_mangled": "_ZNK11CBaseServer13IsMultiplayerEv"
+		},
+		{
+			"name": "CBaseServer::IsPausable() const",
+			"name_mangled": "_ZNK11CBaseServer10IsPausableEv"
+		},
+		{
+			"name": "CBaseServer::IsHLTV() const",
+			"name_mangled": "_ZNK11CBaseServer6IsHLTVEv"
+		},
+		{
+			"name": "CBaseServer::IsReplay() const",
+			"name_mangled": "_ZNK11CBaseServer8IsReplayEv"
+		},
+		{
+			"name": "CBaseServer::GetPassword() const",
+			"name_mangled": "_ZNK11CBaseServer11GetPasswordEv"
+		},
+		{
+			"name": "CBaseServer::SetPaused(bool)",
+			"name_mangled": "_ZN11CBaseServer9SetPausedEb"
+		},
+		{
+			"name": "CBaseServer::SetPassword(char const*)",
+			"name_mangled": "_ZN11CBaseServer11SetPasswordEPKc"
+		},
+		{
+			"name": "CBaseServer::BroadcastMessage(INetMessage&, bool, bool)",
+			"name_mangled": "_ZN11CBaseServer16BroadcastMessageER11INetMessagebb"
+		},
+		{
+			"name": "CBaseServer::BroadcastMessage(INetMessage&, IRecipientFilter&)",
+			"name_mangled": "_ZN11CBaseServer16BroadcastMessageER11INetMessageR16IRecipientFilter"
+		},
+		{
+			"name": "CBaseServer::DisconnectClient(IClient*, char const*)",
+			"name_mangled": "_ZN11CBaseServer16DisconnectClientEP7IClientPKc"
+		},
+		{
+			"name": "CBaseServer::GetCPUUsage()",
+			"name_mangled": "_ZN11CBaseServer11GetCPUUsageEv"
+		},
+		{
+			"name": "CBaseServer::BroadcastPrintf(char const*, ...)",
+			"name_mangled": "_ZN11CBaseServer15BroadcastPrintfEPKcz"
+		},
+		{
+			"name": "CBaseServer::SetMaxClients(int)",
+			"name_mangled": "_ZN11CBaseServer13SetMaxClientsEi"
+		},
+		{
+			"name": "CBaseServer::WriteDeltaEntities(CBaseClient*, CClientFrame*, CClientFrame*, bf_write&)",
+			"name_mangled": "_ZN11CBaseServer18WriteDeltaEntitiesEP11CBaseClientP12CClientFrameS3_R8bf_write"
+		},
+		{
+			"name": "CBaseServer::WriteTempEntities(CBaseClient*, CFrameSnapshot*, CFrameSnapshot*, bf_write&, int)",
+			"name_mangled": "_ZN11CBaseServer17WriteTempEntitiesEP11CBaseClientP14CFrameSnapshotS3_R8bf_writei"
+		},
+		{
+			"name": "CBaseServer::Init(bool)",
+			"name_mangled": "_ZN11CBaseServer4InitEb"
+		},
+		{
+			"name": "CBaseServer::Clear()",
+			"name_mangled": "_ZN11CBaseServer5ClearEv"
+		},
+		{
+			"name": "CBaseServer::Shutdown()",
+			"name_mangled": "_ZN11CBaseServer8ShutdownEv"
+		},
+		{
+			"name": "CBaseServer::CreateFakeClient(char const*)",
+			"name_mangled": "_ZN11CBaseServer16CreateFakeClientEPKc"
+		},
+		{
+			"name": "CBaseServer::RemoveClientFromGame(CBaseClient*)",
+			"name_mangled": "_ZN11CBaseServer20RemoveClientFromGameEP11CBaseClient"
+		},
+		{
+			"name": "CBaseServer::SendClientMessages(bool)",
+			"name_mangled": "_ZN11CBaseServer18SendClientMessagesEb"
+		},
+		{
+			"name": "CBaseServer::FillServerInfo(SVC_ServerInfo&)",
+			"name_mangled": "_ZN11CBaseServer14FillServerInfoER14SVC_ServerInfo"
+		},
+		{
+			"name": "CBaseServer::UserInfoChanged(int)",
+			"name_mangled": "_ZN11CBaseServer15UserInfoChangedEi"
+		},
+		{
+			"name": "CBaseServer::RejectConnection(netadr_s const&, int, char const*)",
+			"name_mangled": "_ZN11CBaseServer16RejectConnectionERK8netadr_siPKc"
+		},
+		{
+			"name": "CBaseServer::CheckIPRestrictions(netadr_s const&, int)",
+			"name_mangled": "_ZN11CBaseServer19CheckIPRestrictionsERK8netadr_si"
+		},
+		{
+			"name": "CBaseServer::ConnectClient(netadr_s&, int, int, int, int, char const*, char const*, char const*, int)",
+			"name_mangled": "_ZN11CBaseServer13ConnectClientER8netadr_siiiiPKcS3_S3_i"
+		},
+		{
+			"name": "CBaseServer::GetFreeClient(netadr_s&)",
+			"name_mangled": "_ZN11CBaseServer13GetFreeClientER8netadr_s"
+		},
+		{
+			"name": "CBaseServer::CreateNewClient(int)",
+			"name_mangled": "_ZN11CBaseServer15CreateNewClientEi"
+		},
+		{
+			"name": "CBaseServer::FinishCertificateCheck(netadr_s&, int, char const*, int)",
+			"name_mangled": "_ZN11CBaseServer22FinishCertificateCheckER8netadr_siPKci"
+		},
+		{
+			"name": "CBaseServer::GetChallengeNr(netadr_s&)",
+			"name_mangled": "_ZN11CBaseServer14GetChallengeNrER8netadr_s"
+		},
+		{
+			"name": "CBaseServer::GetChallengeType(netadr_s&)",
+			"name_mangled": "_ZN11CBaseServer16GetChallengeTypeER8netadr_s"
+		},
+		{
+			"name": "CBaseServer::CheckProtocol(netadr_s&, int, int)",
+			"name_mangled": "_ZN11CBaseServer13CheckProtocolER8netadr_sii"
+		},
+		{
+			"name": "CBaseServer::CheckChallengeNr(netadr_s&, int)",
+			"name_mangled": "_ZN11CBaseServer16CheckChallengeNrER8netadr_si"
+		},
+		{
+			"name": "CBaseServer::CheckChallengeType(CBaseClient*, int, netadr_s&, int, char const*, int, int)",
+			"name_mangled": "_ZN11CBaseServer18CheckChallengeTypeEP11CBaseClientiR8netadr_siPKcii"
+		},
+		{
+			"name": "CBaseServer::CheckPassword(netadr_s&, char const*, char const*)",
+			"name_mangled": "_ZN11CBaseServer13CheckPasswordER8netadr_sPKcS3_"
+		},
+		{
+			"name": "CBaseServer::ReplyChallenge(netadr_s&, int)",
+			"name_mangled": "_ZN11CBaseServer14ReplyChallengeER8netadr_si"
+		},
+		{
+			"name": "CBaseServer::ReplyServerChallenge(netadr_s&)",
+			"name_mangled": "_ZN11CBaseServer20ReplyServerChallengeER8netadr_s"
+		},
+		{
+			"name": "CBaseServer::CalculateCPUUsage()",
+			"name_mangled": "_ZN11CBaseServer17CalculateCPUUsageEv"
+		},
+		{
+			"name": "CBaseServer::ShouldUpdateMasterServer()",
+			"name_mangled": "_ZN11CBaseServer24ShouldUpdateMasterServerEv"
+		},
+		{
+			"name": "CBaseServer::UpdateMasterServerPlayers()",
+			"name_mangled": "_ZN11CBaseServer25UpdateMasterServerPlayersEv"
+		}
+	]
+}

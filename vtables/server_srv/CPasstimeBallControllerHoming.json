@@ -1,0 +1,42 @@
+{
+	"classname": "CPasstimeBallControllerHoming",
+	"classname_mangled": "_ZTV29CPasstimeBallControllerHoming",
+	"members": [
+		{
+			"name": "CPasstimeBallControllerHoming::~CPasstimeBallControllerHoming()",
+			"name_mangled": "_ZN29CPasstimeBallControllerHomingD0Ev"
+		},
+		{
+			"name": "CPasstimeBallControllerHoming::Apply(CPasstimeBall*)",
+			"name_mangled": "_ZN29CPasstimeBallControllerHoming5ApplyEP13CPasstimeBall"
+		},
+		{
+			"name": "CPasstimeBallControllerHoming::IsActive() const",
+			"name_mangled": "_ZNK29CPasstimeBallControllerHoming8IsActiveEv"
+		},
+		{
+			"name": "CPasstimeBallControllerHoming::OnBallCollision(CPasstimeBall*, int, gamevcollisionevent_t*)",
+			"name_mangled": "_ZN29CPasstimeBallControllerHoming15OnBallCollisionEP13CPasstimeBalliP21gamevcollisionevent_t"
+		},
+		{
+			"name": "CPasstimeBallControllerHoming::OnBallPickedUp(CPasstimeBall*, CTFPlayer*)",
+			"name_mangled": "_ZN29CPasstimeBallControllerHoming14OnBallPickedUpEP13CPasstimeBallP9CTFPlayer"
+		},
+		{
+			"name": "CPasstimeBallControllerHoming::OnBallDamaged(CPasstimeBall*)",
+			"name_mangled": "_ZN29CPasstimeBallControllerHoming13OnBallDamagedEP13CPasstimeBall"
+		},
+		{
+			"name": "CPasstimeBallControllerHoming::OnBallSpawned(CPasstimeBall*)",
+			"name_mangled": "_ZN29CPasstimeBallControllerHoming13OnBallSpawnedEP13CPasstimeBall"
+		},
+		{
+			"name": "CPasstimeBallController::OnEnabled()",
+			"name_mangled": "_ZN23CPasstimeBallController9OnEnabledEv"
+		},
+		{
+			"name": "CPasstimeBallControllerHoming::OnDisabled()",
+			"name_mangled": "_ZN29CPasstimeBallControllerHoming10OnDisabledEv"
+		}
+	]
+}

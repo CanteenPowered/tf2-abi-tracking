@@ -1,0 +1,34 @@
+{
+	"classname": "CGCQuestObjective_PointsChangeResponse",
+	"classname_mangled": "_ZTV38CGCQuestObjective_PointsChangeResponse",
+	"members": [
+		{
+			"name": "CGCQuestObjective_PointsChangeResponse::~CGCQuestObjective_PointsChangeResponse()",
+			"name_mangled": "_ZN38CGCQuestObjective_PointsChangeResponseD0Ev"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunJob(void*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob15BYieldingRunJobEPv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob22BYieldingRunJobFromMsgEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob24CHeartbeatsBeforeTimeoutEv"
+		},
+		{
+			"name": "CGCQuestObjective_PointsChangeResponse::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN38CGCQuestObjective_PointsChangeResponse17BYieldingRunGCJobEPN5GCSDK13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::GetServerType()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob13GetServerTypeEv"
+		}
+	]
+}

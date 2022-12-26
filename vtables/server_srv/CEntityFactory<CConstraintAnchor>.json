@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CConstraintAnchor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CConstraintAnchorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CConstraintAnchor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CConstraintAnchorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CConstraintAnchor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CConstraintAnchorE13GetEntitySizeEv"
+		}
+	]
+}

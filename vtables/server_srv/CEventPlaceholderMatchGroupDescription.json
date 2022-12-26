@@ -1,0 +1,30 @@
+{
+	"classname": "CEventPlaceholderMatchGroupDescription",
+	"classname_mangled": "_ZTV38CEventPlaceholderMatchGroupDescription",
+	"members": [
+		{
+			"name": "CLadderMatchGroupDescription::InitGameRulesSettings() const",
+			"name_mangled": "_ZNK28CLadderMatchGroupDescription21InitGameRulesSettingsEv"
+		},
+		{
+			"name": "CLadderMatchGroupDescription::InitGameRulesSettingsPostEntity() const",
+			"name_mangled": "_ZNK28CLadderMatchGroupDescription31InitGameRulesSettingsPostEntityEv"
+		},
+		{
+			"name": "CLadderMatchGroupDescription::PostMatchClearServerSettings() const",
+			"name_mangled": "_ZNK28CLadderMatchGroupDescription28PostMatchClearServerSettingsEv"
+		},
+		{
+			"name": "CLadderMatchGroupDescription::ShouldRequestLateJoin() const",
+			"name_mangled": "_ZNK28CLadderMatchGroupDescription21ShouldRequestLateJoinEv"
+		},
+		{
+			"name": "CLadderMatchGroupDescription::BMatchIsSafeToLeaveForPlayer(CMatchInfo const*, CMatchInfo::PlayerMatchData_t const*) const",
+			"name_mangled": "_ZNK28CLadderMatchGroupDescription28BMatchIsSafeToLeaveForPlayerEPK10CMatchInfoPKNS0_17PlayerMatchData_tE"
+		},
+		{
+			"name": "CLadderMatchGroupDescription::BPlayWinMusic(int, bool) const",
+			"name_mangled": "_ZNK28CLadderMatchGroupDescription13BPlayWinMusicEib"
+		}
+	]
+}

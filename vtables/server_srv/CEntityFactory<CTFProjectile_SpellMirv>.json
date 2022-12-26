@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_SpellMirv>",
+	"classname_mangled": "_ZTV14CEntityFactoryI23CTFProjectile_SpellMirvE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_SpellMirv>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI23CTFProjectile_SpellMirvE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_SpellMirv>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI23CTFProjectile_SpellMirvE13GetEntitySizeEv"
+		}
+	]
+}

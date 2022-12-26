@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgTFCoaching_CoachJoinGame",
+	"classname_mangled": "_ZTV28CMsgTFCoaching_CoachJoinGame",
+	"members": [
+		{
+			"name": "CMsgTFCoaching_CoachJoinGame::~CMsgTFCoaching_CoachJoinGame()",
+			"name_mangled": "_ZN28CMsgTFCoaching_CoachJoinGameD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgTFCoaching_CoachJoinGame::New() const",
+			"name_mangled": "_ZNK28CMsgTFCoaching_CoachJoinGame3NewEv"
+		},
+		{
+			"name": "CMsgTFCoaching_CoachJoinGame::Clear()",
+			"name_mangled": "_ZN28CMsgTFCoaching_CoachJoinGame5ClearEv"
+		},
+		{
+			"name": "CMsgTFCoaching_CoachJoinGame::IsInitialized() const",
+			"name_mangled": "_ZNK28CMsgTFCoaching_CoachJoinGame13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgTFCoaching_CoachJoinGame::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN28CMsgTFCoaching_CoachJoinGame27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgTFCoaching_CoachJoinGame::ByteSize() const",
+			"name_mangled": "_ZNK28CMsgTFCoaching_CoachJoinGame8ByteSizeEv"
+		},
+		{
+			"name": "CMsgTFCoaching_CoachJoinGame::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK28CMsgTFCoaching_CoachJoinGame24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgTFCoaching_CoachJoinGame::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK28CMsgTFCoaching_CoachJoinGame31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgTFCoaching_CoachJoinGame::GetCachedSize() const",
+			"name_mangled": "_ZNK28CMsgTFCoaching_CoachJoinGame13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgTFCoaching_CoachJoinGame::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN28CMsgTFCoaching_CoachJoinGame8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgTFCoaching_CoachJoinGame::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN28CMsgTFCoaching_CoachJoinGame9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgTFCoaching_CoachJoinGame::SetCachedSize(int) const",
+			"name_mangled": "_ZNK28CMsgTFCoaching_CoachJoinGame13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgTFCoaching_CoachJoinGame::GetMetadata() const",
+			"name_mangled": "_ZNK28CMsgTFCoaching_CoachJoinGame11GetMetadataEv"
+		}
+	]
+}

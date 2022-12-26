@@ -1,0 +1,22 @@
+{
+	"classname": "CStringTableSaveRestoreOps",
+	"classname_mangled": "_ZTV26CStringTableSaveRestoreOps",
+	"members": [
+		{
+			"name": "CStringTableSaveRestoreOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)",
+			"name_mangled": "_ZN26CStringTableSaveRestoreOps7RestoreERK22SaveRestoreFieldInfo_tP8IRestore"
+		},
+		{
+			"name": "CStringTableSaveRestoreOps::IsEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN26CStringTableSaveRestoreOps7IsEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CStringTableSaveRestoreOps::MakeEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN26CStringTableSaveRestoreOps9MakeEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)",
+			"name_mangled": "_ZN18CDefSaveRestoreOps5ParseERK22SaveRestoreFieldInfo_tPKc"
+		}
+	]
+}

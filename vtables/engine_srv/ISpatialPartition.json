@@ -1,0 +1,10 @@
+{
+	"classname": "ISpatialPartition",
+	"classname_mangled": "_ZTV17ISpatialPartition",
+	"members": [
+		{
+			"name": "ISpatialPartition::~ISpatialPartition()",
+			"name_mangled": "_ZN17ISpatialPartitionD0Ev"
+		}
+	]
+}

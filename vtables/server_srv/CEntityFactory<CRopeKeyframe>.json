@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CRopeKeyframe>",
+	"classname_mangled": "_ZTV14CEntityFactoryI13CRopeKeyframeE",
+	"members": [
+		{
+			"name": "CEntityFactory<CRopeKeyframe>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI13CRopeKeyframeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CRopeKeyframe>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI13CRopeKeyframeE13GetEntitySizeEv"
+		}
+	]
+}

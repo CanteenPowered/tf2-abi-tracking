@@ -1,0 +1,50 @@
+{
+	"classname": "CSquadSpawner",
+	"classname_mangled": "_ZTV13CSquadSpawner",
+	"members": [
+		{
+			"name": "CSquadSpawner::~CSquadSpawner()",
+			"name_mangled": "_ZN13CSquadSpawnerD0Ev"
+		},
+		{
+			"name": "CSquadSpawner::Parse(KeyValues*)",
+			"name_mangled": "_ZN13CSquadSpawner5ParseEP9KeyValues"
+		},
+		{
+			"name": "CSquadSpawner::Spawn(Vector const&, CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>*)",
+			"name_mangled": "_ZN13CSquadSpawner5SpawnERK6VectorP10CUtlVectorI7CHandleI11CBaseEntityE10CUtlMemoryIS6_iEE"
+		},
+		{
+			"name": "IPopulationSpawner::IsWhereRequired() const",
+			"name_mangled": "_ZNK18IPopulationSpawner15IsWhereRequiredEv"
+		},
+		{
+			"name": "CSquadSpawner::IsVarious()",
+			"name_mangled": "_ZN13CSquadSpawner9IsVariousEv"
+		},
+		{
+			"name": "CSquadSpawner::GetClass(int)",
+			"name_mangled": "_ZN13CSquadSpawner8GetClassEi"
+		},
+		{
+			"name": "CSquadSpawner::GetClassIcon(int)",
+			"name_mangled": "_ZN13CSquadSpawner12GetClassIconEi"
+		},
+		{
+			"name": "CSquadSpawner::GetHealth(int)",
+			"name_mangled": "_ZN13CSquadSpawner9GetHealthEi"
+		},
+		{
+			"name": "CSquadSpawner::IsMiniBoss(int)",
+			"name_mangled": "_ZN13CSquadSpawner10IsMiniBossEi"
+		},
+		{
+			"name": "CSquadSpawner::HasAttribute(CTFBot::AttributeType, int)",
+			"name_mangled": "_ZN13CSquadSpawner12HasAttributeEN6CTFBot13AttributeTypeEi"
+		},
+		{
+			"name": "CSquadSpawner::HasEventChangeAttributes(char const*) const",
+			"name_mangled": "_ZNK13CSquadSpawner24HasEventChangeAttributesEPKc"
+		}
+	]
+}

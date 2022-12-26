@@ -1,0 +1,14 @@
+{
+	"classname": "CSceneCache",
+	"classname_mangled": "_ZTV11CSceneCache",
+	"members": [
+		{
+			"name": "CSceneCache::Restore(CUtlBuffer&)",
+			"name_mangled": "_ZN11CSceneCache7RestoreER10CUtlBuffer"
+		},
+		{
+			"name": "CSceneCache::Rebuild(char const*)",
+			"name_mangled": "_ZN11CSceneCache7RebuildEPKc"
+		}
+	]
+}

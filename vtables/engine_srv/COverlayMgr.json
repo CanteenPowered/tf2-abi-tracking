@@ -1,0 +1,38 @@
+{
+	"classname": "COverlayMgr",
+	"classname_mangled": "_ZTV11COverlayMgr",
+	"members": [
+		{
+			"name": "COverlayMgr::UnloadOverlays()",
+			"name_mangled": "_ZN11COverlayMgr14UnloadOverlaysEv"
+		},
+		{
+			"name": "COverlayMgr::CreateFragments()",
+			"name_mangled": "_ZN11COverlayMgr15CreateFragmentsEv"
+		},
+		{
+			"name": "COverlayMgr::ReSortMaterials()",
+			"name_mangled": "_ZN11COverlayMgr15ReSortMaterialsEv"
+		},
+		{
+			"name": "COverlayMgr::ClearRenderLists()",
+			"name_mangled": "_ZN11COverlayMgr16ClearRenderListsEv"
+		},
+		{
+			"name": "COverlayMgr::ClearRenderLists(int)",
+			"name_mangled": "_ZN11COverlayMgr16ClearRenderListsEi"
+		},
+		{
+			"name": "COverlayMgr::AddFragmentListToRenderList(int, unsigned short, bool)",
+			"name_mangled": "_ZN11COverlayMgr27AddFragmentListToRenderListEitb"
+		},
+		{
+			"name": "COverlayMgr::RenderOverlays(int)",
+			"name_mangled": "_ZN11COverlayMgr14RenderOverlaysEi"
+		},
+		{
+			"name": "COverlayMgr::SetOverlayBindProxy(int, void*)",
+			"name_mangled": "_ZN11COverlayMgr19SetOverlayBindProxyEiPv"
+		}
+	]
+}

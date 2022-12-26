@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPathCorner>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CPathCornerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPathCorner>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CPathCornerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPathCorner>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CPathCornerE13GetEntitySizeEv"
+		}
+	]
+}

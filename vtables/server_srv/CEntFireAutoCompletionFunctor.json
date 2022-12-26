@@ -1,0 +1,10 @@
+{
+	"classname": "CEntFireAutoCompletionFunctor",
+	"classname_mangled": "_ZTV29CEntFireAutoCompletionFunctor",
+	"members": [
+		{
+			"name": "CEntFireAutoCompletionFunctor::CommandCompletionCallback(char const*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>&)",
+			"name_mangled": "_ZN29CEntFireAutoCompletionFunctor25CommandCompletionCallbackEPKcR10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		}
+	]
+}

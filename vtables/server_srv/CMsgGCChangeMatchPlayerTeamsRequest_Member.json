@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgGCChangeMatchPlayerTeamsRequest_Member",
+	"classname_mangled": "_ZTV42CMsgGCChangeMatchPlayerTeamsRequest_Member",
+	"members": [
+		{
+			"name": "CMsgGCChangeMatchPlayerTeamsRequest_Member::~CMsgGCChangeMatchPlayerTeamsRequest_Member()",
+			"name_mangled": "_ZN42CMsgGCChangeMatchPlayerTeamsRequest_MemberD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgGCChangeMatchPlayerTeamsRequest_Member::New() const",
+			"name_mangled": "_ZNK42CMsgGCChangeMatchPlayerTeamsRequest_Member3NewEv"
+		},
+		{
+			"name": "CMsgGCChangeMatchPlayerTeamsRequest_Member::Clear()",
+			"name_mangled": "_ZN42CMsgGCChangeMatchPlayerTeamsRequest_Member5ClearEv"
+		},
+		{
+			"name": "CMsgGCChangeMatchPlayerTeamsRequest_Member::IsInitialized() const",
+			"name_mangled": "_ZNK42CMsgGCChangeMatchPlayerTeamsRequest_Member13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgGCChangeMatchPlayerTeamsRequest_Member::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN42CMsgGCChangeMatchPlayerTeamsRequest_Member27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgGCChangeMatchPlayerTeamsRequest_Member::ByteSize() const",
+			"name_mangled": "_ZNK42CMsgGCChangeMatchPlayerTeamsRequest_Member8ByteSizeEv"
+		},
+		{
+			"name": "CMsgGCChangeMatchPlayerTeamsRequest_Member::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK42CMsgGCChangeMatchPlayerTeamsRequest_Member24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgGCChangeMatchPlayerTeamsRequest_Member::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK42CMsgGCChangeMatchPlayerTeamsRequest_Member31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgGCChangeMatchPlayerTeamsRequest_Member::GetCachedSize() const",
+			"name_mangled": "_ZNK42CMsgGCChangeMatchPlayerTeamsRequest_Member13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgGCChangeMatchPlayerTeamsRequest_Member::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN42CMsgGCChangeMatchPlayerTeamsRequest_Member8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgGCChangeMatchPlayerTeamsRequest_Member::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN42CMsgGCChangeMatchPlayerTeamsRequest_Member9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgGCChangeMatchPlayerTeamsRequest_Member::SetCachedSize(int) const",
+			"name_mangled": "_ZNK42CMsgGCChangeMatchPlayerTeamsRequest_Member13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgGCChangeMatchPlayerTeamsRequest_Member::GetMetadata() const",
+			"name_mangled": "_ZNK42CMsgGCChangeMatchPlayerTeamsRequest_Member11GetMetadataEv"
+		}
+	]
+}

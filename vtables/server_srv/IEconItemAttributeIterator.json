@@ -1,0 +1,10 @@
+{
+	"classname": "IEconItemAttributeIterator",
+	"classname_mangled": "_ZTV26IEconItemAttributeIterator",
+	"members": [
+		{
+			"name": "IEconItemAttributeIterator::~IEconItemAttributeIterator()",
+			"name_mangled": "_ZN26IEconItemAttributeIteratorD0Ev"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"classname": "CResponseSystem",
+	"classname_mangled": "_ZTV15CResponseSystem",
+	"members": [
+		{
+			"name": "CResponseSystem::~CResponseSystem()",
+			"name_mangled": "_ZN15CResponseSystemD0Ev"
+		},
+		{
+			"name": "CResponseSystem::FindBestResponse(AI_CriteriaSet const&, AI_Response&, IResponseFilter*)",
+			"name_mangled": "_ZN15CResponseSystem16FindBestResponseERK14AI_CriteriaSetR11AI_ResponseP15IResponseFilter"
+		},
+		{
+			"name": "CResponseSystem::GetAllResponses(CUtlVector<AI_Response*, CUtlMemory<AI_Response*, int>>*)",
+			"name_mangled": "_ZN15CResponseSystem15GetAllResponsesEP10CUtlVectorIP11AI_Response10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CResponseSystem::PrecacheResponses(bool)",
+			"name_mangled": "_ZN15CResponseSystem17PrecacheResponsesEb"
+		}
+	]
+}

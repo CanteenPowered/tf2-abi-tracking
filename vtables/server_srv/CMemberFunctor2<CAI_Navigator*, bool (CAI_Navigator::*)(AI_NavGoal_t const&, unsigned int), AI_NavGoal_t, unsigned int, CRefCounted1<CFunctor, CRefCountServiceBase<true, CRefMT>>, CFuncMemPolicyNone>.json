@@ -1,0 +1,22 @@
+{
+	"classname": "CMemberFunctor2<CAI_Navigator*, bool (CAI_Navigator::*)(AI_NavGoal_t const&, unsigned int), AI_NavGoal_t, unsigned int, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>",
+	"classname_mangled": "_ZTV15CMemberFunctor2IP13CAI_NavigatorMS0_FbRK12AI_NavGoal_tjES2_j12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneE",
+	"members": [
+		{
+			"name": "CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>::Release()",
+			"name_mangled": "_ZN12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE7ReleaseEv"
+		},
+		{
+			"name": "CMemberFunctor2<CAI_Navigator*, bool (CAI_Navigator::*)(AI_NavGoal_t const&, unsigned int), AI_NavGoal_t, unsigned int, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::~CMemberFunctor2()",
+			"name_mangled": "_ZN15CMemberFunctor2IP13CAI_NavigatorMS0_FbRK12AI_NavGoal_tjES2_j12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneED1Ev"
+		},
+		{
+			"name": "CMemberFunctor2<CAI_Navigator*, bool (CAI_Navigator::*)(AI_NavGoal_t const&, unsigned int), AI_NavGoal_t, unsigned int, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::~CMemberFunctor2()",
+			"name_mangled": "_ZN15CMemberFunctor2IP13CAI_NavigatorMS0_FbRK12AI_NavGoal_tjES2_j12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneED0Ev"
+		},
+		{
+			"name": "CMemberFunctor2<CAI_Navigator*, bool (CAI_Navigator::*)(AI_NavGoal_t const&, unsigned int), AI_NavGoal_t, unsigned int, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::operator()()",
+			"name_mangled": "_ZN15CMemberFunctor2IP13CAI_NavigatorMS0_FbRK12AI_NavGoal_tjES2_j12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneEclEv"
+		}
+	]
+}

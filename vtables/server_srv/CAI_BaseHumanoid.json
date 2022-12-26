@@ -1,0 +1,2502 @@
+{
+	"classname": "CAI_BaseHumanoid",
+	"classname_mangled": "_ZTV16CAI_BaseHumanoid",
+	"members": [
+		{
+			"name": "CAI_BaseHumanoid::~CAI_BaseHumanoid()",
+			"name_mangled": "_ZN16CAI_BaseHumanoidD0Ev"
+		},
+		{
+			"name": "CBaseEntity::SetRefEHandle(CBaseHandle const&)",
+			"name_mangled": "_ZN11CBaseEntity13SetRefEHandleERK11CBaseHandle"
+		},
+		{
+			"name": "CBaseEntity::GetRefEHandle() const",
+			"name_mangled": "_ZNK11CBaseEntity13GetRefEHandleEv"
+		},
+		{
+			"name": "CBaseEntity::GetCollideable()",
+			"name_mangled": "_ZN11CBaseEntity14GetCollideableEv"
+		},
+		{
+			"name": "CBaseEntity::GetNetworkable()",
+			"name_mangled": "_ZN11CBaseEntity14GetNetworkableEv"
+		},
+		{
+			"name": "CBaseEntity::GetBaseEntity()",
+			"name_mangled": "_ZN11CBaseEntity13GetBaseEntityEv"
+		},
+		{
+			"name": "CBaseEntity::GetModelIndex() const",
+			"name_mangled": "_ZNK11CBaseEntity13GetModelIndexEv"
+		},
+		{
+			"name": "CBaseEntity::GetModelName() const",
+			"name_mangled": "_ZNK11CBaseEntity12GetModelNameEv"
+		},
+		{
+			"name": "CBaseEntity::SetModelIndex(int)",
+			"name_mangled": "_ZN11CBaseEntity13SetModelIndexEi"
+		},
+		{
+			"name": "CAI_BaseNPC::GetServerClass()",
+			"name_mangled": "_ZN11CAI_BaseNPC14GetServerClassEv"
+		},
+		{
+			"name": "CAI_BaseNPC::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN11CAI_BaseNPC40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GetDataDescMap()",
+			"name_mangled": "_ZN11CAI_BaseNPC14GetDataDescMapEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetScriptDesc()",
+			"name_mangled": "_ZN20CBaseCombatCharacter13GetScriptDescEv"
+		},
+		{
+			"name": "CBaseEntity::SetModelIndexOverride(int, int)",
+			"name_mangled": "_ZN11CBaseEntity21SetModelIndexOverrideEii"
+		},
+		{
+			"name": "CBaseAnimating::TestCollision(Ray_t const&, unsigned int, CGameTrace&)",
+			"name_mangled": "_ZN14CBaseAnimating13TestCollisionERK5Ray_tjR10CGameTrace"
+		},
+		{
+			"name": "CBaseAnimating::TestHitboxes(Ray_t const&, unsigned int, CGameTrace&)",
+			"name_mangled": "_ZN14CBaseAnimating12TestHitboxesERK5Ray_tjR10CGameTrace"
+		},
+		{
+			"name": "CBaseEntity::ComputeWorldSpaceSurroundingBox(Vector*, Vector*)",
+			"name_mangled": "_ZN11CBaseEntity31ComputeWorldSpaceSurroundingBoxEP6VectorS1_"
+		},
+		{
+			"name": "CBaseEntity::ShouldCollide(int, int) const",
+			"name_mangled": "_ZNK11CBaseEntity13ShouldCollideEii"
+		},
+		{
+			"name": "CBaseEntity::SetOwnerEntity(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity14SetOwnerEntityEPS_"
+		},
+		{
+			"name": "CBaseEntity::SetScriptOwnerEntity(HSCRIPT__*)",
+			"name_mangled": "_ZN11CBaseEntity20SetScriptOwnerEntityEP9HSCRIPT__"
+		},
+		{
+			"name": "CBaseEntity::ShouldTransmit(CCheckTransmitInfo const*)",
+			"name_mangled": "_ZN11CBaseEntity14ShouldTransmitEPK18CCheckTransmitInfo"
+		},
+		{
+			"name": "CAI_BaseNPC::UpdateTransmitState()",
+			"name_mangled": "_ZN11CAI_BaseNPC19UpdateTransmitStateEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::SetTransmit(CCheckTransmitInfo*, bool)",
+			"name_mangled": "_ZN20CBaseCombatCharacter11SetTransmitEP18CCheckTransmitInfob"
+		},
+		{
+			"name": "CAI_BaseNPC::GetTracerType()",
+			"name_mangled": "_ZN11CAI_BaseNPC13GetTracerTypeEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::Spawn()",
+			"name_mangled": "_ZN20CBaseCombatCharacter5SpawnEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::Precache()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE8PrecacheEv"
+		},
+		{
+			"name": "CBaseFlex::SetModel(char const*)",
+			"name_mangled": "_ZN9CBaseFlex8SetModelEPKc"
+		},
+		{
+			"name": "CBaseAnimating::OnNewModel()",
+			"name_mangled": "_ZN14CBaseAnimating10OnNewModelEv"
+		},
+		{
+			"name": "CAI_BaseNPC::PostConstructor(char const*)",
+			"name_mangled": "_ZN11CAI_BaseNPC15PostConstructorEPKc"
+		},
+		{
+			"name": "CBaseEntity::PostClientActive()",
+			"name_mangled": "_ZN11CBaseEntity16PostClientActiveEv"
+		},
+		{
+			"name": "CBaseEntity::ParseMapData(CEntityMapData*)",
+			"name_mangled": "_ZN11CBaseEntity12ParseMapDataEP14CEntityMapData"
+		},
+		{
+			"name": "CAI_BaseNPC::KeyValue(char const*, char const*)",
+			"name_mangled": "_ZN11CAI_BaseNPC8KeyValueEPKcS1_"
+		},
+		{
+			"name": "CBaseEntity::KeyValue(char const*, float)",
+			"name_mangled": "_ZN11CBaseEntity8KeyValueEPKcf"
+		},
+		{
+			"name": "CBaseEntity::KeyValue(char const*, Vector const&)",
+			"name_mangled": "_ZN11CBaseEntity8KeyValueEPKcRK6Vector"
+		},
+		{
+			"name": "CBaseEntity::GetKeyValue(char const*, char*, int)",
+			"name_mangled": "_ZN11CBaseEntity11GetKeyValueEPKcPci"
+		},
+		{
+			"name": "CAI_BaseNPC::Activate()",
+			"name_mangled": "_ZN11CAI_BaseNPC8ActivateEv"
+		},
+		{
+			"name": "CBaseEntity::SetParent(CBaseEntity*, int)",
+			"name_mangled": "_ZN11CBaseEntity9SetParentEPS_i"
+		},
+		{
+			"name": "CAI_BaseNPC::ObjectCaps()",
+			"name_mangled": "_ZN11CAI_BaseNPC10ObjectCapsEv"
+		},
+		{
+			"name": "CBaseEntity::AcceptInput(char const*, CBaseEntity*, CBaseEntity*, variant_t, int)",
+			"name_mangled": "_ZN11CBaseEntity11AcceptInputEPKcPS_S2_9variant_ti"
+		},
+		{
+			"name": "CBaseAnimating::GetInputDispatchEffectPosition(char const*, Vector&, QAngle&)",
+			"name_mangled": "_ZN14CBaseAnimating30GetInputDispatchEffectPositionEPKcR6VectorR6QAngle"
+		},
+		{
+			"name": "CAI_BaseNPC::DrawDebugGeometryOverlays()",
+			"name_mangled": "_ZN11CAI_BaseNPC25DrawDebugGeometryOverlaysEv"
+		},
+		{
+			"name": "CAI_BaseNPC::DrawDebugTextOverlays()",
+			"name_mangled": "_ZN11CAI_BaseNPC21DrawDebugTextOverlaysEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::Save(ISave&)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE4SaveER5ISave"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::Restore(IRestore&)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE7RestoreER8IRestore"
+		},
+		{
+			"name": "CAI_BaseNPC::ShouldSavePhysics()",
+			"name_mangled": "_ZN11CAI_BaseNPC17ShouldSavePhysicsEv"
+		},
+		{
+			"name": "CBaseEntity::OnSave(IEntitySaveUtils*)",
+			"name_mangled": "_ZN11CBaseEntity6OnSaveEP16IEntitySaveUtils"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::OnRestore()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE9OnRestoreEv"
+		},
+		{
+			"name": "CBaseEntity::RequiredEdictIndex()",
+			"name_mangled": "_ZN11CBaseEntity18RequiredEdictIndexEv"
+		},
+		{
+			"name": "CBaseEntity::MoveDone()",
+			"name_mangled": "_ZN11CBaseEntity8MoveDoneEv"
+		},
+		{
+			"name": "CBaseEntity::Think()",
+			"name_mangled": "_ZN11CBaseEntity5ThinkEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_nNextThinkTick()",
+			"name_mangled": "_ZN11CBaseEntity36NetworkStateChanged_m_nNextThinkTickEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_nNextThinkTick(void*)",
+			"name_mangled": "_ZN11CBaseEntity36NetworkStateChanged_m_nNextThinkTickEPv"
+		},
+		{
+			"name": "CBaseAnimating::GetBaseAnimating()",
+			"name_mangled": "_ZN14CBaseAnimating16GetBaseAnimatingEv"
+		},
+		{
+			"name": "CBaseEntity::GetResponseSystem()",
+			"name_mangled": "_ZN11CBaseEntity17GetResponseSystemEv"
+		},
+		{
+			"name": "CBaseEntity::DispatchResponse(char const*)",
+			"name_mangled": "_ZN11CBaseEntity16DispatchResponseEPKc"
+		},
+		{
+			"name": "CBaseEntity::Classify()",
+			"name_mangled": "_ZN11CBaseEntity8ClassifyEv"
+		},
+		{
+			"name": "CBaseEntity::DeathNotice(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity11DeathNoticeEPS_"
+		},
+		{
+			"name": "CBaseEntity::ShouldAttractAutoAim(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity20ShouldAttractAutoAimEPS_"
+		},
+		{
+			"name": "CBaseEntity::GetAutoAimRadius()",
+			"name_mangled": "_ZN11CBaseEntity16GetAutoAimRadiusEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GetAutoAimCenter()",
+			"name_mangled": "_ZN11CAI_BaseNPC16GetAutoAimCenterEv"
+		},
+		{
+			"name": "CBaseEntity::GetBeamTraceFilter()",
+			"name_mangled": "_ZN11CBaseEntity18GetBeamTraceFilterEv"
+		},
+		{
+			"name": "CAI_BaseNPC::PassesDamageFilter(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC18PassesDamageFilterERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CAI_BaseHumanoid::TraceAttack(CTakeDamageInfo const&, Vector const&, CGameTrace*, CDmgAccumulator*)",
+			"name_mangled": "_ZN16CAI_BaseHumanoid11TraceAttackERK15CTakeDamageInfoRK6VectorP10CGameTraceP15CDmgAccumulator"
+		},
+		{
+			"name": "CBaseEntity::CanBeHitByMeleeAttack(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity21CanBeHitByMeleeAttackEPS_"
+		},
+		{
+			"name": "CBaseCombatCharacter::OnTakeDamage(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN20CBaseCombatCharacter12OnTakeDamageERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseEntity::AdjustDamageDirection(CTakeDamageInfo const&, Vector&, CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity21AdjustDamageDirectionERK15CTakeDamageInfoR6VectorPS_"
+		},
+		{
+			"name": "CBaseCombatCharacter::TakeHealth(float, int)",
+			"name_mangled": "_ZN20CBaseCombatCharacter10TakeHealthEfi"
+		},
+		{
+			"name": "CBaseEntity::IsAlive()",
+			"name_mangled": "_ZN11CBaseEntity7IsAliveEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::Event_Killed(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE12Event_KilledERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseEntity::Event_KilledOther(CBaseEntity*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CBaseEntity17Event_KilledOtherEPS_RK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseCombatCharacter::BloodColor()",
+			"name_mangled": "_ZN20CBaseCombatCharacter10BloodColorEv"
+		},
+		{
+			"name": "CBaseEntity::IsTriggered(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity11IsTriggeredEPS_"
+		},
+		{
+			"name": "CAI_BaseNPC::IsNPC() const",
+			"name_mangled": "_ZNK11CAI_BaseNPC5IsNPCEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::MyCombatCharacterPointer()",
+			"name_mangled": "_ZN20CBaseCombatCharacter24MyCombatCharacterPointerEv"
+		},
+		{
+			"name": "CBaseEntity::MyNextBotPointer()",
+			"name_mangled": "_ZN11CBaseEntity16MyNextBotPointerEv"
+		},
+		{
+			"name": "CBaseEntity::GetDelay()",
+			"name_mangled": "_ZN11CBaseEntity8GetDelayEv"
+		},
+		{
+			"name": "CAI_BaseNPC::IsMoving()",
+			"name_mangled": "_ZN11CAI_BaseNPC8IsMovingEv"
+		},
+		{
+			"name": "CBaseEntity::DamageDecal(int, int)",
+			"name_mangled": "_ZN11CBaseEntity11DamageDecalEii"
+		},
+		{
+			"name": "CAI_BaseNPC::DecalTrace(CGameTrace*, char const*)",
+			"name_mangled": "_ZN11CAI_BaseNPC10DecalTraceEP10CGameTracePKc"
+		},
+		{
+			"name": "CAI_BaseNPC::ImpactTrace(CGameTrace*, int, char const*)",
+			"name_mangled": "_ZN11CAI_BaseNPC11ImpactTraceEP10CGameTraceiPKc"
+		},
+		{
+			"name": "CBaseEntity::OnControls(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity10OnControlsEPS_"
+		},
+		{
+			"name": "CBaseEntity::HasTarget(string_t)",
+			"name_mangled": "_ZN11CBaseEntity9HasTargetE8string_t"
+		},
+		{
+			"name": "CBaseEntity::IsPlayer() const",
+			"name_mangled": "_ZNK11CBaseEntity8IsPlayerEv"
+		},
+		{
+			"name": "CBaseEntity::IsNetClient() const",
+			"name_mangled": "_ZNK11CBaseEntity11IsNetClientEv"
+		},
+		{
+			"name": "CAI_BaseNPC::IsTemplate()",
+			"name_mangled": "_ZN11CAI_BaseNPC10IsTemplateEv"
+		},
+		{
+			"name": "CBaseEntity::IsBaseObject() const",
+			"name_mangled": "_ZNK11CBaseEntity12IsBaseObjectEv"
+		},
+		{
+			"name": "CBaseEntity::IsBaseTrain() const",
+			"name_mangled": "_ZNK11CBaseEntity11IsBaseTrainEv"
+		},
+		{
+			"name": "CBaseEntity::IsCombatItem() const",
+			"name_mangled": "_ZNK11CBaseEntity12IsCombatItemEv"
+		},
+		{
+			"name": "CBaseEntity::IsProjectileCollisionTarget() const",
+			"name_mangled": "_ZNK11CBaseEntity27IsProjectileCollisionTargetEv"
+		},
+		{
+			"name": "CBaseEntity::IsFuncLOD() const",
+			"name_mangled": "_ZNK11CBaseEntity9IsFuncLODEv"
+		},
+		{
+			"name": "CBaseEntity::IsBaseProjectile() const",
+			"name_mangled": "_ZNK11CBaseEntity16IsBaseProjectileEv"
+		},
+		{
+			"name": "CBaseEntity::IsBaseCombatWeapon() const",
+			"name_mangled": "_ZNK11CBaseEntity18IsBaseCombatWeaponEv"
+		},
+		{
+			"name": "CBaseEntity::IsWearable() const",
+			"name_mangled": "_ZNK11CBaseEntity10IsWearableEv"
+		},
+		{
+			"name": "CBaseEntity::MyCombatWeaponPointer()",
+			"name_mangled": "_ZN11CBaseEntity21MyCombatWeaponPointerEv"
+		},
+		{
+			"name": "CBaseEntity::GetServerVehicle()",
+			"name_mangled": "_ZN11CBaseEntity16GetServerVehicleEv"
+		},
+		{
+			"name": "CBaseEntity::IsViewable()",
+			"name_mangled": "_ZN11CBaseEntity10IsViewableEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::ChangeTeam(int)",
+			"name_mangled": "_ZN20CBaseCombatCharacter10ChangeTeamEi"
+		},
+		{
+			"name": "CBaseEntity::OnEntityEvent(EntityEvent_t, void*)",
+			"name_mangled": "_ZN11CBaseEntity13OnEntityEventE13EntityEvent_tPv"
+		},
+		{
+			"name": "CAI_BaseNPC::CanStandOn(CBaseEntity*) const",
+			"name_mangled": "_ZNK11CAI_BaseNPC10CanStandOnEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseEntity::CanStandOn(edict_t*) const",
+			"name_mangled": "_ZNK11CBaseEntity10CanStandOnEP7edict_t"
+		},
+		{
+			"name": "CAI_BaseNPC::GetEnemy()",
+			"name_mangled": "_ZN11CAI_BaseNPC8GetEnemyEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GetEnemy() const",
+			"name_mangled": "_ZNK11CAI_BaseNPC8GetEnemyEv"
+		},
+		{
+			"name": "CBaseEntity::Use(CBaseEntity*, CBaseEntity*, USE_TYPE, float)",
+			"name_mangled": "_ZN11CBaseEntity3UseEPS_S0_8USE_TYPEf"
+		},
+		{
+			"name": "CAI_BaseNPC::StartTouch(CBaseEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC10StartTouchEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseEntity::Touch(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity5TouchEPS_"
+		},
+		{
+			"name": "CBaseEntity::EndTouch(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity8EndTouchEPS_"
+		},
+		{
+			"name": "CBaseEntity::StartBlocked(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity12StartBlockedEPS_"
+		},
+		{
+			"name": "CBaseEntity::Blocked(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity7BlockedEPS_"
+		},
+		{
+			"name": "CBaseEntity::EndBlocked()",
+			"name_mangled": "_ZN11CBaseEntity10EndBlockedEv"
+		},
+		{
+			"name": "CBaseEntity::PhysicsSimulate()",
+			"name_mangled": "_ZN11CBaseEntity15PhysicsSimulateEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::UpdateOnRemove()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE14UpdateOnRemoveEv"
+		},
+		{
+			"name": "CBaseEntity::StopLoopingSounds()",
+			"name_mangled": "_ZN11CBaseEntity17StopLoopingSoundsEv"
+		},
+		{
+			"name": "CBaseEntity::SUB_AllowedToFade()",
+			"name_mangled": "_ZN11CBaseEntity17SUB_AllowedToFadeEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::Teleport(Vector const*, QAngle const*, Vector const*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE8TeleportEPK6VectorPK6QAngleS4_"
+		},
+		{
+			"name": "CBaseEntity::NotifySystemEvent(CBaseEntity*, notify_system_event_t, notify_system_event_params_t const&)",
+			"name_mangled": "_ZN11CBaseEntity17NotifySystemEventEPS_21notify_system_event_tRK28notify_system_event_params_t"
+		},
+		{
+			"name": "CAI_BaseNPC::MakeTracer(Vector const&, CGameTrace const&, int)",
+			"name_mangled": "_ZN11CAI_BaseNPC10MakeTracerERK6VectorRK10CGameTracei"
+		},
+		{
+			"name": "CBaseEntity::GetTracerAttachment()",
+			"name_mangled": "_ZN11CBaseEntity19GetTracerAttachmentEv"
+		},
+		{
+			"name": "CAI_BaseNPC::FireBullets(FireBulletsInfo_t const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC11FireBulletsERK17FireBulletsInfo_t"
+		},
+		{
+			"name": "CAI_BaseNPC::DoImpactEffect(CGameTrace&, int)",
+			"name_mangled": "_ZN11CAI_BaseNPC14DoImpactEffectER10CGameTracei"
+		},
+		{
+			"name": "CBaseEntity::ModifyFireBulletsDamage(CTakeDamageInfo*)",
+			"name_mangled": "_ZN11CBaseEntity23ModifyFireBulletsDamageEP15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseEntity::Respawn()",
+			"name_mangled": "_ZN11CBaseEntity7RespawnEv"
+		},
+		{
+			"name": "CBaseEntity::IsLockedByMaster()",
+			"name_mangled": "_ZN11CBaseEntity16IsLockedByMasterEv"
+		},
+		{
+			"name": "CBaseEntity::GetMaxHealth() const",
+			"name_mangled": "_ZNK11CBaseEntity12GetMaxHealthEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::ModifyOrAppendCriteria(AI_CriteriaSet&)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE22ModifyOrAppendCriteriaER14AI_CriteriaSet"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_iMaxHealth()",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_iMaxHealthEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_iMaxHealth(void*)",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_iMaxHealthEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_iHealth()",
+			"name_mangled": "_ZN11CBaseEntity29NetworkStateChanged_m_iHealthEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_iHealth(void*)",
+			"name_mangled": "_ZN11CBaseEntity29NetworkStateChanged_m_iHealthEPv"
+		},
+		{
+			"name": "CAI_BaseNPC::NetworkStateChanged_m_lifeState()",
+			"name_mangled": "_ZN11CAI_BaseNPC31NetworkStateChanged_m_lifeStateEv"
+		},
+		{
+			"name": "CAI_BaseNPC::NetworkStateChanged_m_lifeState(void*)",
+			"name_mangled": "_ZN11CAI_BaseNPC31NetworkStateChanged_m_lifeStateEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_takedamage()",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_takedamageEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_takedamage(void*)",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_takedamageEPv"
+		},
+		{
+			"name": "CBaseEntity::RunVScripts()",
+			"name_mangled": "_ZN11CBaseEntity11RunVScriptsEv"
+		},
+		{
+			"name": "CBaseEntity::GetDamageType() const",
+			"name_mangled": "_ZNK11CBaseEntity13GetDamageTypeEv"
+		},
+		{
+			"name": "CBaseEntity::GetDamage()",
+			"name_mangled": "_ZN11CBaseEntity9GetDamageEv"
+		},
+		{
+			"name": "CBaseEntity::SetDamage(float)",
+			"name_mangled": "_ZN11CBaseEntity9SetDamageEf"
+		},
+		{
+			"name": "CAI_BaseNPC::EyePosition()",
+			"name_mangled": "_ZN11CAI_BaseNPC11EyePositionEv"
+		},
+		{
+			"name": "CBaseEntity::EyeAngles()",
+			"name_mangled": "_ZN11CBaseEntity9EyeAnglesEv"
+		},
+		{
+			"name": "CBaseEntity::LocalEyeAngles()",
+			"name_mangled": "_ZN11CBaseEntity14LocalEyeAnglesEv"
+		},
+		{
+			"name": "CBaseEntity::EarPosition()",
+			"name_mangled": "_ZN11CBaseEntity11EarPositionEv"
+		},
+		{
+			"name": "CAI_BaseNPC::BodyTarget(Vector const&, bool)",
+			"name_mangled": "_ZN11CAI_BaseNPC10BodyTargetERK6Vectorb"
+		},
+		{
+			"name": "CBaseEntity::HeadTarget(Vector const&)",
+			"name_mangled": "_ZN11CBaseEntity10HeadTargetERK6Vector"
+		},
+		{
+			"name": "CBaseEntity::GetVectors(Vector*, Vector*, Vector*) const",
+			"name_mangled": "_ZNK11CBaseEntity10GetVectorsEP6VectorS1_S1_"
+		},
+		{
+			"name": "CBaseEntity::GetViewOffset() const",
+			"name_mangled": "_ZNK11CBaseEntity13GetViewOffsetEv"
+		},
+		{
+			"name": "CBaseEntity::SetViewOffset(Vector const&)",
+			"name_mangled": "_ZN11CBaseEntity13SetViewOffsetERK6Vector"
+		},
+		{
+			"name": "CAI_BaseNPC::GetSmoothedVelocity()",
+			"name_mangled": "_ZN11CAI_BaseNPC19GetSmoothedVelocityEv"
+		},
+		{
+			"name": "CBaseAnimating::GetVelocity(Vector*, Vector*)",
+			"name_mangled": "_ZN14CBaseAnimating11GetVelocityEP6VectorS1_"
+		},
+		{
+			"name": "CBaseCombatCharacter::FVisible(CBaseEntity*, int, CBaseEntity**)",
+			"name_mangled": "_ZN20CBaseCombatCharacter8FVisibleEP11CBaseEntityiPS1_"
+		},
+		{
+			"name": "CBaseCombatCharacter::FVisible(Vector const&, int, CBaseEntity**)",
+			"name_mangled": "_ZN20CBaseCombatCharacter8FVisibleERK6VectoriPP11CBaseEntity"
+		},
+		{
+			"name": "CBaseEntity::CanBeSeenBy(CAI_BaseNPC*)",
+			"name_mangled": "_ZN11CBaseEntity11CanBeSeenByEP11CAI_BaseNPC"
+		},
+		{
+			"name": "CBaseEntity::GetAttackDamageScale(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity20GetAttackDamageScaleEPS_"
+		},
+		{
+			"name": "CBaseEntity::GetReceivedDamageScale(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity22GetReceivedDamageScaleEPS_"
+		},
+		{
+			"name": "CBaseEntity::GetGroundVelocityToApply(Vector&)",
+			"name_mangled": "_ZN11CBaseEntity24GetGroundVelocityToApplyER6Vector"
+		},
+		{
+			"name": "CBaseEntity::PhysicsSplash(Vector const&, Vector const&, float, float)",
+			"name_mangled": "_ZN11CBaseEntity13PhysicsSplashERK6VectorS2_ff"
+		},
+		{
+			"name": "CBaseEntity::Splash()",
+			"name_mangled": "_ZN11CBaseEntity6SplashEv"
+		},
+		{
+			"name": "CBaseEntity::WorldSpaceCenter() const",
+			"name_mangled": "_ZNK11CBaseEntity16WorldSpaceCenterEv"
+		},
+		{
+			"name": "CBaseEntity::GetSoundEmissionOrigin() const",
+			"name_mangled": "_ZNK11CBaseEntity22GetSoundEmissionOriginEv"
+		},
+		{
+			"name": "CBaseEntity::ModifyEmitSoundParams(EmitSound_t&)",
+			"name_mangled": "_ZN11CBaseEntity21ModifyEmitSoundParamsER11EmitSound_t"
+		},
+		{
+			"name": "CBaseEntity::IsDeflectable()",
+			"name_mangled": "_ZN11CBaseEntity13IsDeflectableEv"
+		},
+		{
+			"name": "CBaseEntity::Deflected(CBaseEntity*, Vector&)",
+			"name_mangled": "_ZN11CBaseEntity9DeflectedEPS_R6Vector"
+		},
+		{
+			"name": "CAI_BaseNPC::CreateVPhysics()",
+			"name_mangled": "_ZN11CAI_BaseNPC14CreateVPhysicsEv"
+		},
+		{
+			"name": "CBaseEntity::ForceVPhysicsCollide(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity20ForceVPhysicsCollideEPS_"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsDestroyObject()",
+			"name_mangled": "_ZN11CBaseEntity21VPhysicsDestroyObjectEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::VPhysicsUpdate(IPhysicsObject*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter14VPhysicsUpdateEP14IPhysicsObject"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsTakeDamage(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CBaseEntity18VPhysicsTakeDamageERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseCombatCharacter::VPhysicsShadowCollision(int, gamevcollisionevent_t*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter23VPhysicsShadowCollisionEiP21gamevcollisionevent_t"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsShadowUpdate(IPhysicsObject*)",
+			"name_mangled": "_ZN11CBaseEntity20VPhysicsShadowUpdateEP14IPhysicsObject"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsCollision(int, gamevcollisionevent_t*)",
+			"name_mangled": "_ZN11CBaseEntity17VPhysicsCollisionEiP21gamevcollisionevent_t"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsFriction(IPhysicsObject*, float, int, int)",
+			"name_mangled": "_ZN11CBaseEntity16VPhysicsFrictionEP14IPhysicsObjectfii"
+		},
+		{
+			"name": "CBaseEntity::UpdatePhysicsShadowToCurrentPosition(float)",
+			"name_mangled": "_ZN11CBaseEntity36UpdatePhysicsShadowToCurrentPositionEf"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsGetObjectList(IPhysicsObject**, int)",
+			"name_mangled": "_ZN11CBaseEntity21VPhysicsGetObjectListEPP14IPhysicsObjecti"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsIsFlesh()",
+			"name_mangled": "_ZN11CBaseEntity15VPhysicsIsFleshEv"
+		},
+		{
+			"name": "CBaseEntity::HasPhysicsAttacker(float)",
+			"name_mangled": "_ZN11CBaseEntity18HasPhysicsAttackerEf"
+		},
+		{
+			"name": "CAI_BaseNPC::PhysicsSolidMaskForEntity() const",
+			"name_mangled": "_ZNK11CAI_BaseNPC25PhysicsSolidMaskForEntityEv"
+		},
+		{
+			"name": "CBaseEntity::ResolveFlyCollisionCustom(CGameTrace&, Vector&)",
+			"name_mangled": "_ZN11CBaseEntity25ResolveFlyCollisionCustomER10CGameTraceR6Vector"
+		},
+		{
+			"name": "CBaseEntity::PerformCustomPhysics(Vector*, Vector*, QAngle*, QAngle*)",
+			"name_mangled": "_ZN11CBaseEntity20PerformCustomPhysicsEP6VectorS1_P6QAngleS3_"
+		},
+		{
+			"name": "CBaseAnimating::GetStepOrigin() const",
+			"name_mangled": "_ZNK14CBaseAnimating13GetStepOriginEv"
+		},
+		{
+			"name": "CBaseAnimating::GetStepAngles() const",
+			"name_mangled": "_ZNK14CBaseAnimating13GetStepAnglesEv"
+		},
+		{
+			"name": "CBaseEntity::ShouldDrawWaterImpacts()",
+			"name_mangled": "_ZN11CBaseEntity22ShouldDrawWaterImpactsEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_fFlags()",
+			"name_mangled": "_ZN11CBaseEntity28NetworkStateChanged_m_fFlagsEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_fFlags(void*)",
+			"name_mangled": "_ZN11CBaseEntity28NetworkStateChanged_m_fFlagsEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_nWaterLevel()",
+			"name_mangled": "_ZN11CBaseEntity33NetworkStateChanged_m_nWaterLevelEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_nWaterLevel(void*)",
+			"name_mangled": "_ZN11CBaseEntity33NetworkStateChanged_m_nWaterLevelEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_hGroundEntity()",
+			"name_mangled": "_ZN11CBaseEntity35NetworkStateChanged_m_hGroundEntityEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_hGroundEntity(void*)",
+			"name_mangled": "_ZN11CBaseEntity35NetworkStateChanged_m_hGroundEntityEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecBaseVelocity()",
+			"name_mangled": "_ZN11CBaseEntity37NetworkStateChanged_m_vecBaseVelocityEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecBaseVelocity(void*)",
+			"name_mangled": "_ZN11CBaseEntity37NetworkStateChanged_m_vecBaseVelocityEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_flFriction()",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_flFrictionEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_flFriction(void*)",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_flFrictionEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecVelocity()",
+			"name_mangled": "_ZN11CBaseEntity33NetworkStateChanged_m_vecVelocityEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecVelocity(void*)",
+			"name_mangled": "_ZN11CBaseEntity33NetworkStateChanged_m_vecVelocityEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecViewOffset()",
+			"name_mangled": "_ZN11CBaseEntity35NetworkStateChanged_m_vecViewOffsetEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecViewOffset(void*)",
+			"name_mangled": "_ZN11CBaseEntity35NetworkStateChanged_m_vecViewOffsetEPv"
+		},
+		{
+			"name": "CBaseEntity::ShouldBlockNav() const",
+			"name_mangled": "_ZNK11CBaseEntity14ShouldBlockNavEv"
+		},
+		{
+			"name": "CBaseEntity::ShouldForceTransmitsForTeam(int)",
+			"name_mangled": "_ZN11CBaseEntity27ShouldForceTransmitsForTeamEi"
+		},
+		{
+			"name": "CBaseEntity::IsTruceValidForEnt() const",
+			"name_mangled": "_ZNK11CBaseEntity18IsTruceValidForEntEv"
+		},
+		{
+			"name": "CBaseEntity::GetDefaultItemChargeMeterValue() const",
+			"name_mangled": "_ZNK11CBaseEntity30GetDefaultItemChargeMeterValueEv"
+		},
+		{
+			"name": "CBaseEntity::BCanCallVote()",
+			"name_mangled": "_ZN11CBaseEntity12BCanCallVoteEv"
+		},
+		{
+			"name": "CBaseAnimating::GetIdealSpeed() const",
+			"name_mangled": "_ZNK14CBaseAnimating13GetIdealSpeedEv"
+		},
+		{
+			"name": "CBaseAnimating::GetIdealAccel() const",
+			"name_mangled": "_ZNK14CBaseAnimating13GetIdealAccelEv"
+		},
+		{
+			"name": "CBaseAnimatingOverlay::StudioFrameAdvance()",
+			"name_mangled": "_ZN21CBaseAnimatingOverlay18StudioFrameAdvanceEv"
+		},
+		{
+			"name": "CBaseAnimating::SetSequence(int)",
+			"name_mangled": "_ZN14CBaseAnimating11SetSequenceEi"
+		},
+		{
+			"name": "CAI_BaseNPC::IsActivityFinished()",
+			"name_mangled": "_ZN11CAI_BaseNPC18IsActivityFinishedEv"
+		},
+		{
+			"name": "CBaseAnimating::GetSequenceGroundSpeed(CStudioHdr*, int)",
+			"name_mangled": "_ZN14CBaseAnimating22GetSequenceGroundSpeedEP10CStudioHdri"
+		},
+		{
+			"name": "CBaseAnimating::ClampRagdollForce(Vector const&, Vector*)",
+			"name_mangled": "_ZN14CBaseAnimating17ClampRagdollForceERK6VectorPS0_"
+		},
+		{
+			"name": "CBaseAnimating::BecomeRagdollOnClient(Vector const&)",
+			"name_mangled": "_ZN14CBaseAnimating21BecomeRagdollOnClientERK6Vector"
+		},
+		{
+			"name": "CBaseAnimating::IsRagdoll()",
+			"name_mangled": "_ZN14CBaseAnimating9IsRagdollEv"
+		},
+		{
+			"name": "CBaseAnimating::CanBecomeRagdoll()",
+			"name_mangled": "_ZN14CBaseAnimating16CanBecomeRagdollEv"
+		},
+		{
+			"name": "CBaseAnimatingOverlay::GetSkeleton(CStudioHdr*, Vector*, Quaternion*, int)",
+			"name_mangled": "_ZN21CBaseAnimatingOverlay11GetSkeletonEP10CStudioHdrP6VectorP10Quaternioni"
+		},
+		{
+			"name": "CBaseAnimating::GetBoneTransform(int, matrix3x4_t&)",
+			"name_mangled": "_ZN14CBaseAnimating16GetBoneTransformEiR11matrix3x4_t"
+		},
+		{
+			"name": "CBaseAnimating::SetupBones(matrix3x4_t*, int)",
+			"name_mangled": "_ZN14CBaseAnimating10SetupBonesEP11matrix3x4_ti"
+		},
+		{
+			"name": "CBaseAnimating::CalculateIKLocks(float)",
+			"name_mangled": "_ZN14CBaseAnimating16CalculateIKLocksEf"
+		},
+		{
+			"name": "CBaseAnimatingOverlay::DispatchAnimEvents(CBaseAnimating*)",
+			"name_mangled": "_ZN21CBaseAnimatingOverlay18DispatchAnimEventsEP14CBaseAnimating"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::HandleAnimEvent(animevent_t*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE15HandleAnimEventEP11animevent_t"
+		},
+		{
+			"name": "CAI_BaseNPC::PopulatePoseParameters()",
+			"name_mangled": "_ZN11CAI_BaseNPC22PopulatePoseParametersEv"
+		},
+		{
+			"name": "CBaseAnimating::GetAttachment(int, matrix3x4_t&)",
+			"name_mangled": "_ZN14CBaseAnimating13GetAttachmentEiR11matrix3x4_t"
+		},
+		{
+			"name": "CBaseAnimating::InitBoneControllers()",
+			"name_mangled": "_ZN14CBaseAnimating19InitBoneControllersEv"
+		},
+		{
+			"name": "CBaseAnimating::GetGroundSpeedVelocity()",
+			"name_mangled": "_ZN14CBaseAnimating22GetGroundSpeedVelocityEv"
+		},
+		{
+			"name": "CBaseAnimating::RefreshCollisionBounds()",
+			"name_mangled": "_ZN14CBaseAnimating22RefreshCollisionBoundsEv"
+		},
+		{
+			"name": "CAI_BaseNPC::Ignite(float, bool, float, bool)",
+			"name_mangled": "_ZN11CAI_BaseNPC6IgniteEfbfb"
+		},
+		{
+			"name": "CBaseAnimating::IgniteLifetime(float)",
+			"name_mangled": "_ZN14CBaseAnimating14IgniteLifetimeEf"
+		},
+		{
+			"name": "CBaseAnimating::IgniteNumHitboxFires(int)",
+			"name_mangled": "_ZN14CBaseAnimating20IgniteNumHitboxFiresEi"
+		},
+		{
+			"name": "CBaseAnimating::IgniteHitboxFireScale(float)",
+			"name_mangled": "_ZN14CBaseAnimating21IgniteHitboxFireScaleEf"
+		},
+		{
+			"name": "CBaseAnimating::Extinguish()",
+			"name_mangled": "_ZN14CBaseAnimating10ExtinguishEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::SetLightingOriginRelative(CBaseEntity*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter25SetLightingOriginRelativeEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseAnimating::SetLightingOrigin(CBaseEntity*)",
+			"name_mangled": "_ZN14CBaseAnimating17SetLightingOriginEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseFlex::SetViewtarget(Vector const&)",
+			"name_mangled": "_ZN9CBaseFlex13SetViewtargetERK6Vector"
+		},
+		{
+			"name": "CBaseFlex::StartSceneEvent(CSceneEventInfo*, CChoreoScene*, CChoreoEvent*, CChoreoActor*, CBaseEntity*)",
+			"name_mangled": "_ZN9CBaseFlex15StartSceneEventEP15CSceneEventInfoP12CChoreoSceneP12CChoreoEventP12CChoreoActorP11CBaseEntity"
+		},
+		{
+			"name": "CBaseFlex::ProcessSceneEvents()",
+			"name_mangled": "_ZN9CBaseFlex18ProcessSceneEventsEv"
+		},
+		{
+			"name": "CBaseFlex::ProcessSceneEvent(CSceneEventInfo*, CChoreoScene*, CChoreoEvent*)",
+			"name_mangled": "_ZN9CBaseFlex17ProcessSceneEventEP15CSceneEventInfoP12CChoreoSceneP12CChoreoEvent"
+		},
+		{
+			"name": "CBaseFlex::ClearSceneEvent(CSceneEventInfo*, bool, bool)",
+			"name_mangled": "_ZN9CBaseFlex15ClearSceneEventEP15CSceneEventInfobb"
+		},
+		{
+			"name": "CBaseFlex::CheckSceneEventCompletion(CSceneEventInfo*, float, CChoreoScene*, CChoreoEvent*)",
+			"name_mangled": "_ZN9CBaseFlex25CheckSceneEventCompletionEP15CSceneEventInfofP12CChoreoSceneP12CChoreoEvent"
+		},
+		{
+			"name": "CBaseFlex::PlayScene(char const*, float, AI_Response*, IRecipientFilter*)",
+			"name_mangled": "_ZN9CBaseFlex9PlaySceneEPKcfP11AI_ResponseP16IRecipientFilter"
+		},
+		{
+			"name": "CBaseFlex::PlayAutoGeneratedSoundScene(char const*)",
+			"name_mangled": "_ZN9CBaseFlex27PlayAutoGeneratedSoundSceneEPKc"
+		},
+		{
+			"name": "CBaseFlex::GetSpecialDSP()",
+			"name_mangled": "_ZN9CBaseFlex13GetSpecialDSPEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetPhysicsImpactDamageTable()",
+			"name_mangled": "_ZN20CBaseCombatCharacter27GetPhysicsImpactDamageTableEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::FInViewCone(CBaseEntity*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter11FInViewConeEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseCombatCharacter::FInViewCone(Vector const&)",
+			"name_mangled": "_ZN20CBaseCombatCharacter11FInViewConeERK6Vector"
+		},
+		{
+			"name": "CBaseCombatCharacter::FInAimCone(CBaseEntity*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter10FInAimConeEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::FInAimCone(Vector const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC10FInAimConeERK6Vector"
+		},
+		{
+			"name": "CBaseCombatCharacter::ShouldShootMissTarget(CBaseCombatCharacter*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter21ShouldShootMissTargetEPS_"
+		},
+		{
+			"name": "CBaseCombatCharacter::FindMissTarget()",
+			"name_mangled": "_ZN20CBaseCombatCharacter14FindMissTargetEv"
+		},
+		{
+			"name": "CAI_BaseHumanoid::HandleInteraction(int, void*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN16CAI_BaseHumanoid17HandleInteractionEiPvP20CBaseCombatCharacter"
+		},
+		{
+			"name": "CBaseCombatCharacter::BodyAngles()",
+			"name_mangled": "_ZN20CBaseCombatCharacter10BodyAnglesEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::BodyDirection2D()",
+			"name_mangled": "_ZN20CBaseCombatCharacter15BodyDirection2DEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::BodyDirection3D()",
+			"name_mangled": "_ZN20CBaseCombatCharacter15BodyDirection3DEv"
+		},
+		{
+			"name": "CAI_BaseNPC::HeadDirection2D()",
+			"name_mangled": "_ZN11CAI_BaseNPC15HeadDirection2DEv"
+		},
+		{
+			"name": "CAI_BaseNPC::HeadDirection3D()",
+			"name_mangled": "_ZN11CAI_BaseNPC15HeadDirection3DEv"
+		},
+		{
+			"name": "CAI_BaseNPC::EyeDirection2D()",
+			"name_mangled": "_ZN11CAI_BaseNPC14EyeDirection2DEv"
+		},
+		{
+			"name": "CAI_BaseNPC::EyeDirection3D()",
+			"name_mangled": "_ZN11CAI_BaseNPC14EyeDirection3DEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::IsHiddenByFog(Vector const&) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter13IsHiddenByFogERK6Vector"
+		},
+		{
+			"name": "CBaseCombatCharacter::IsHiddenByFog(CBaseEntity*) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter13IsHiddenByFogEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseCombatCharacter::IsHiddenByFog(float) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter13IsHiddenByFogEf"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetFogObscuredRatio(Vector const&) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter19GetFogObscuredRatioERK6Vector"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetFogObscuredRatio(CBaseEntity*) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter19GetFogObscuredRatioEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetFogObscuredRatio(float) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter19GetFogObscuredRatioEf"
+		},
+		{
+			"name": "CBaseCombatCharacter::IsLookingTowards(CBaseEntity const*, float) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter16IsLookingTowardsEPK11CBaseEntityf"
+		},
+		{
+			"name": "CBaseCombatCharacter::IsLookingTowards(Vector const&, float) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter16IsLookingTowardsERK6Vectorf"
+		},
+		{
+			"name": "CBaseCombatCharacter::IsInFieldOfView(CBaseEntity*) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter15IsInFieldOfViewEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseCombatCharacter::IsInFieldOfView(Vector const&) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter15IsInFieldOfViewERK6Vector"
+		},
+		{
+			"name": "CBaseCombatCharacter::IsLineOfSightClear(CBaseEntity*, CBaseCombatCharacter::LineOfSightCheckType) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter18IsLineOfSightClearEP11CBaseEntityNS_20LineOfSightCheckTypeE"
+		},
+		{
+			"name": "CBaseCombatCharacter::IsLineOfSightClear(Vector const&, CBaseCombatCharacter::LineOfSightCheckType, CBaseEntity*) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter18IsLineOfSightClearERK6VectorNS_20LineOfSightCheckTypeEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseCombatCharacter::GiveAmmo(int, int, bool)",
+			"name_mangled": "_ZN20CBaseCombatCharacter8GiveAmmoEiib"
+		},
+		{
+			"name": "CBaseCombatCharacter::RemoveAmmo(int, int)",
+			"name_mangled": "_ZN20CBaseCombatCharacter10RemoveAmmoEii"
+		},
+		{
+			"name": "CBaseCombatCharacter::RemoveAmmo(int, char const*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter10RemoveAmmoEiPKc"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetAmmoCount(int) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter12GetAmmoCountEi"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::NPC_TranslateActivity(Activity)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE21NPC_TranslateActivityE8Activity"
+		},
+		{
+			"name": "CBaseCombatCharacter::Weapon_TranslateActivity(Activity, bool*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter24Weapon_TranslateActivityE8ActivityPb"
+		},
+		{
+			"name": "CBaseCombatCharacter::Weapon_FrameUpdate()",
+			"name_mangled": "_ZN20CBaseCombatCharacter18Weapon_FrameUpdateEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::Weapon_HandleAnimEvent(animevent_t*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter22Weapon_HandleAnimEventEP11animevent_t"
+		},
+		{
+			"name": "CBaseCombatCharacter::Weapon_CanUse(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter13Weapon_CanUseEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CBaseCombatCharacter::Weapon_Equip(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter12Weapon_EquipEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CBaseCombatCharacter::Weapon_EquipAmmoOnly(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter20Weapon_EquipAmmoOnlyEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CBaseCombatCharacter::Weapon_Drop(CBaseCombatWeapon*, Vector const*, Vector const*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter11Weapon_DropEP17CBaseCombatWeaponPK6VectorS4_"
+		},
+		{
+			"name": "CBaseCombatCharacter::Weapon_Switch(CBaseCombatWeapon*, int)",
+			"name_mangled": "_ZN20CBaseCombatCharacter13Weapon_SwitchEP17CBaseCombatWeaponi"
+		},
+		{
+			"name": "CAI_BaseNPC::Weapon_ShootPosition()",
+			"name_mangled": "_ZN11CAI_BaseNPC20Weapon_ShootPositionEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::Weapon_CanSwitchTo(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter18Weapon_CanSwitchToEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CBaseCombatCharacter::Weapon_SlotOccupied(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter19Weapon_SlotOccupiedEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CBaseCombatCharacter::Weapon_GetSlot(int) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter14Weapon_GetSlotEi"
+		},
+		{
+			"name": "CBaseCombatCharacter::AddPlayerItem(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter13AddPlayerItemEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CBaseCombatCharacter::RemovePlayerItem(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter16RemovePlayerItemEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CBaseCombatCharacter::CanBecomeServerRagdoll()",
+			"name_mangled": "_ZN20CBaseCombatCharacter22CanBecomeServerRagdollEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::OnTakeDamage_Alive(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE18OnTakeDamage_AliveERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CAI_BaseNPC::OnTakeDamage_Dying(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC18OnTakeDamage_DyingERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CAI_BaseNPC::OnTakeDamage_Dead(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC17OnTakeDamage_DeadERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetAliveDuration() const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter16GetAliveDurationEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::OnFriendDamaged(CBaseCombatCharacter*, CBaseEntity*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE15OnFriendDamagedEP20CBaseCombatCharacterP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::NotifyFriendsOfDamage(CBaseEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC21NotifyFriendsOfDamageEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseCombatCharacter::HasEverBeenInjured(int) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter18HasEverBeenInjuredEi"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetTimeSinceLastInjury(int) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter22GetTimeSinceLastInjuryEi"
+		},
+		{
+			"name": "CBaseCombatCharacter::OnPlayerKilledOther(CBaseEntity*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN20CBaseCombatCharacter19OnPlayerKilledOtherEP11CBaseEntityRK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetDeathActivity()",
+			"name_mangled": "_ZN20CBaseCombatCharacter16GetDeathActivityEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::CorpseGib(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN20CBaseCombatCharacter9CorpseGibERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseCombatCharacter::CorpseFade()",
+			"name_mangled": "_ZN20CBaseCombatCharacter10CorpseFadeEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::HasHumanGibs()",
+			"name_mangled": "_ZN20CBaseCombatCharacter12HasHumanGibsEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::HasAlienGibs()",
+			"name_mangled": "_ZN20CBaseCombatCharacter12HasAlienGibsEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::ShouldGib(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN20CBaseCombatCharacter9ShouldGibERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseCombatCharacter::OnKilledNPC(CBaseCombatCharacter*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter11OnKilledNPCEPS_"
+		},
+		{
+			"name": "CAI_BaseNPC::Event_Gibbed(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC12Event_GibbedERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseCombatCharacter::Event_Dying(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN20CBaseCombatCharacter11Event_DyingERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseCombatCharacter::Event_Dying()",
+			"name_mangled": "_ZN20CBaseCombatCharacter11Event_DyingEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::BecomeRagdoll(CTakeDamageInfo const&, Vector const&)",
+			"name_mangled": "_ZN20CBaseCombatCharacter13BecomeRagdollERK15CTakeDamageInfoRK6Vector"
+		},
+		{
+			"name": "CBaseCombatCharacter::FixupBurningServerRagdoll(CBaseEntity*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter25FixupBurningServerRagdollEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseCombatCharacter::BecomeRagdollBoogie(CBaseEntity*, Vector const&, float, int)",
+			"name_mangled": "_ZN20CBaseCombatCharacter19BecomeRagdollBoogieEP11CBaseEntityRK6Vectorfi"
+		},
+		{
+			"name": "CBaseCombatCharacter::CheckTraceHullAttack(float, Vector const&, Vector const&, int, int, float, bool)",
+			"name_mangled": "_ZN20CBaseCombatCharacter20CheckTraceHullAttackEfRK6VectorS2_iifb"
+		},
+		{
+			"name": "CBaseCombatCharacter::CheckTraceHullAttack(Vector const&, Vector const&, Vector const&, Vector const&, int, int, float, bool)",
+			"name_mangled": "_ZN20CBaseCombatCharacter20CheckTraceHullAttackERK6VectorS2_S2_S2_iifb"
+		},
+		{
+			"name": "CBaseCombatCharacter::PushawayTouch(CBaseEntity*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter13PushawayTouchEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseCombatCharacter::IRelationType(CBaseEntity*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter13IRelationTypeEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseCombatCharacter::IRelationPriority(CBaseEntity*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter17IRelationPriorityEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseCombatCharacter::IsInAVehicle() const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter12IsInAVehicleEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetVehicle()",
+			"name_mangled": "_ZN20CBaseCombatCharacter10GetVehicleEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetVehicleEntity()",
+			"name_mangled": "_ZN20CBaseCombatCharacter16GetVehicleEntityEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::ExitVehicle()",
+			"name_mangled": "_ZN20CBaseCombatCharacter11ExitVehicleEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::RemoveAllWeapons()",
+			"name_mangled": "_ZN20CBaseCombatCharacter16RemoveAllWeaponsEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::CalcWeaponProficiency(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter21CalcWeaponProficiencyEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetAttackSpread(CBaseCombatWeapon*, CBaseEntity*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter15GetAttackSpreadEP17CBaseCombatWeaponP11CBaseEntity"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetSpreadBias(CBaseCombatWeapon*, CBaseEntity*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter13GetSpreadBiasEP17CBaseCombatWeaponP11CBaseEntity"
+		},
+		{
+			"name": "CBaseCombatCharacter::DoMuzzleFlash()",
+			"name_mangled": "_ZN20CBaseCombatCharacter13DoMuzzleFlashEv"
+		},
+		{
+			"name": "CAI_BaseNPC::AddEntityRelationship(CBaseEntity*, Disposition_t, int)",
+			"name_mangled": "_ZN11CAI_BaseNPC21AddEntityRelationshipEP11CBaseEntity13Disposition_ti"
+		},
+		{
+			"name": "CBaseCombatCharacter::RemoveEntityRelationship(CBaseEntity*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter24RemoveEntityRelationshipEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::AddClassRelationship(Class_T, Disposition_t, int)",
+			"name_mangled": "_ZN11CAI_BaseNPC20AddClassRelationshipE7Class_T13Disposition_ti"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::OnChangeActiveWeapon(CBaseCombatWeapon*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE20OnChangeActiveWeaponEP17CBaseCombatWeaponS3_"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetLastKnownArea() const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter16GetLastKnownAreaEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::IsAreaTraversable(CNavArea const*) const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter17IsAreaTraversableEPK8CNavArea"
+		},
+		{
+			"name": "CBaseCombatCharacter::ClearLastKnownArea()",
+			"name_mangled": "_ZN20CBaseCombatCharacter18ClearLastKnownAreaEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::UpdateLastKnownArea()",
+			"name_mangled": "_ZN20CBaseCombatCharacter19UpdateLastKnownAreaEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::OnNavAreaChanged(CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter16OnNavAreaChangedEP8CNavAreaS1_"
+		},
+		{
+			"name": "CBaseCombatCharacter::OnNavAreaRemoved(CNavArea*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter16OnNavAreaRemovedEP8CNavArea"
+		},
+		{
+			"name": "CBaseCombatCharacter::OnPursuedBy(INextBot*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter11OnPursuedByEP8INextBot"
+		},
+		{
+			"name": "CBaseCombatCharacter::GetBossType() const",
+			"name_mangled": "_ZNK20CBaseCombatCharacter11GetBossTypeEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::NetworkStateChanged_m_iAmmo()",
+			"name_mangled": "_ZN20CBaseCombatCharacter27NetworkStateChanged_m_iAmmoEv"
+		},
+		{
+			"name": "CBaseCombatCharacter::NetworkStateChanged_m_iAmmo(void*)",
+			"name_mangled": "_ZN20CBaseCombatCharacter27NetworkStateChanged_m_iAmmoEPv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::NPCInit()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE7NPCInitEv"
+		},
+		{
+			"name": "CAI_BaseNPC::PostNPCInit()",
+			"name_mangled": "_ZN11CAI_BaseNPC11PostNPCInitEv"
+		},
+		{
+			"name": "CAI_BaseNPC::StartNPC()",
+			"name_mangled": "_ZN11CAI_BaseNPC8StartNPCEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::CleanupOnDeath(CBaseEntity*, bool)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE14CleanupOnDeathEP11CBaseEntityb"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::CreateComponents()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE16CreateComponentsEv"
+		},
+		{
+			"name": "CAI_BaseNPC::CreateSenses()",
+			"name_mangled": "_ZN11CAI_BaseNPC12CreateSensesEv"
+		},
+		{
+			"name": "CAI_BaseNPC::CreateMoveProbe()",
+			"name_mangled": "_ZN11CAI_BaseNPC15CreateMoveProbeEv"
+		},
+		{
+			"name": "CAI_BlendingHost<CAI_BehaviorHost<CAI_BaseNPC>>::CreateMotor()",
+			"name_mangled": "_ZN16CAI_BlendingHostI16CAI_BehaviorHostI11CAI_BaseNPCEE11CreateMotorEv"
+		},
+		{
+			"name": "CAI_BaseNPC::CreateLocalNavigator()",
+			"name_mangled": "_ZN11CAI_BaseNPC20CreateLocalNavigatorEv"
+		},
+		{
+			"name": "CAI_BlendingHost<CAI_BehaviorHost<CAI_BaseNPC>>::CreateNavigator()",
+			"name_mangled": "_ZN16CAI_BlendingHostI16CAI_BehaviorHostI11CAI_BaseNPCEE15CreateNavigatorEv"
+		},
+		{
+			"name": "CAI_BaseNPC::CreatePathfinder()",
+			"name_mangled": "_ZN11CAI_BaseNPC16CreatePathfinderEv"
+		},
+		{
+			"name": "CAI_BaseNPC::CreateTacticalServices()",
+			"name_mangled": "_ZN11CAI_BaseNPC22CreateTacticalServicesEv"
+		},
+		{
+			"name": "CAI_BaseNPC::NPCThink()",
+			"name_mangled": "_ZN11CAI_BaseNPC8NPCThinkEv"
+		},
+		{
+			"name": "CAI_BaseNPC::RunAI()",
+			"name_mangled": "_ZN11CAI_BaseNPC5RunAIEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::GatherConditions()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE16GatherConditionsEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::PrescheduleThink()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE16PrescheduleThinkEv"
+		},
+		{
+			"name": "CAI_BaseNPC::PostscheduleThink()",
+			"name_mangled": "_ZN11CAI_BaseNPC17PostscheduleThinkEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::OnScheduleChange()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE16OnScheduleChangeEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::OnStartSchedule(int)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE15OnStartScheduleEi"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::SelectSchedule()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE14SelectScheduleEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::SelectFailSchedule(int, int, int)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE18SelectFailScheduleEiii"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::TranslateSchedule(int)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE17TranslateScheduleEi"
+		},
+		{
+			"name": "CAI_BaseHumanoid::StartTask(Task_t const*)",
+			"name_mangled": "_ZN16CAI_BaseHumanoid9StartTaskEPK6Task_t"
+		},
+		{
+			"name": "CAI_BaseHumanoid::RunTask(Task_t const*)",
+			"name_mangled": "_ZN16CAI_BaseHumanoid7RunTaskEPK6Task_t"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::IsInterruptable()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE15IsInterruptableEv"
+		},
+		{
+			"name": "CAI_BaseNPC::OnStartScene()",
+			"name_mangled": "_ZN11CAI_BaseNPC12OnStartSceneEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::ShouldPlayerAvoid()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE17ShouldPlayerAvoidEv"
+		},
+		{
+			"name": "CAI_BaseNPC::SetPlayerAvoidState()",
+			"name_mangled": "_ZN11CAI_BaseNPC19SetPlayerAvoidStateEv"
+		},
+		{
+			"name": "CAI_BaseNPC::PlayerPenetratingVPhysics()",
+			"name_mangled": "_ZN11CAI_BaseNPC25PlayerPenetratingVPhysicsEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::ShouldAlwaysThink()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE17ShouldAlwaysThinkEv"
+		},
+		{
+			"name": "CAI_BaseNPC::LineOfSightDist(Vector const&, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC15LineOfSightDistERK6Vectorf"
+		},
+		{
+			"name": "CAI_BaseNPC::PostRunStopMoving()",
+			"name_mangled": "_ZN11CAI_BaseNPC17PostRunStopMovingEv"
+		},
+		{
+			"name": "CAI_BaseNPC::StartTask(Task_t*)",
+			"name_mangled": "_ZN11CAI_BaseNPC9StartTaskEP6Task_t"
+		},
+		{
+			"name": "CAI_BaseNPC::RunTask(Task_t*)",
+			"name_mangled": "_ZN11CAI_BaseNPC7RunTaskEP6Task_t"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::GetSchedule(int)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE11GetScheduleEi"
+		},
+		{
+			"name": "CAI_BaseNPC::GetLocalScheduleId(int)",
+			"name_mangled": "_ZN11CAI_BaseNPC18GetLocalScheduleIdEi"
+		},
+		{
+			"name": "CAI_BaseNPC::GetGlobalScheduleId(int)",
+			"name_mangled": "_ZN11CAI_BaseNPC19GetGlobalScheduleIdEi"
+		},
+		{
+			"name": "CAI_BaseNPC::TaskFail(int)",
+			"name_mangled": "_ZN11CAI_BaseNPC8TaskFailEi"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::TaskName(int)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE8TaskNameEi"
+		},
+		{
+			"name": "CAI_BaseNPC::GetLocalTaskId(int)",
+			"name_mangled": "_ZN11CAI_BaseNPC14GetLocalTaskIdEi"
+		},
+		{
+			"name": "CAI_BaseNPC::GetSchedulingErrorName()",
+			"name_mangled": "_ZN11CAI_BaseNPC22GetSchedulingErrorNameEv"
+		},
+		{
+			"name": "CAI_BaseNPC::LoadedSchedules()",
+			"name_mangled": "_ZN11CAI_BaseNPC15LoadedSchedulesEv"
+		},
+		{
+			"name": "CAI_BaseHumanoid::BuildScheduleTestBits()",
+			"name_mangled": "_ZN16CAI_BaseHumanoid21BuildScheduleTestBitsEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::GetNewSchedule()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE14GetNewScheduleEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::GetFailSchedule()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE15GetFailScheduleEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::CanFlinch()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE9CanFlinchEv"
+		},
+		{
+			"name": "CAI_BaseNPC::CheckFlinches()",
+			"name_mangled": "_ZN11CAI_BaseNPC13CheckFlinchesEv"
+		},
+		{
+			"name": "CAI_BaseNPC::PlayFlinchGesture()",
+			"name_mangled": "_ZN11CAI_BaseNPC17PlayFlinchGestureEv"
+		},
+		{
+			"name": "CAI_BaseNPC::IsAllowedToDodge()",
+			"name_mangled": "_ZN11CAI_BaseNPC16IsAllowedToDodgeEv"
+		},
+		{
+			"name": "CAI_BaseNPC::SelectDeadSchedule()",
+			"name_mangled": "_ZN11CAI_BaseNPC18SelectDeadScheduleEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::GetRunningBehavior()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE18GetRunningBehaviorEv"
+		},
+		{
+			"name": "CAI_BaseNPC::ShouldAcceptGoal(CAI_BehaviorBase*, CAI_GoalEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC16ShouldAcceptGoalEP16CAI_BehaviorBaseP14CAI_GoalEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::OnClearGoal(CAI_BehaviorBase*, CAI_GoalEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC11OnClearGoalEP16CAI_BehaviorBaseP14CAI_GoalEntity"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::OnBehaviorChangeStatus(CAI_BehaviorBase*, bool)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE22OnBehaviorChangeStatusEP16CAI_BehaviorBaseb"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::AccessBehaviors()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE15AccessBehaviorsEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::NumBehaviors()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE12NumBehaviorsEv"
+		},
+		{
+			"name": "CAI_BaseNPC::ConditionName(int)",
+			"name_mangled": "_ZN11CAI_BaseNPC13ConditionNameEi"
+		},
+		{
+			"name": "CAI_BaseNPC::RemoveIgnoredConditions()",
+			"name_mangled": "_ZN11CAI_BaseNPC23RemoveIgnoredConditionsEv"
+		},
+		{
+			"name": "CAI_BaseNPC::SelectIdealState()",
+			"name_mangled": "_ZN11CAI_BaseNPC16SelectIdealStateEv"
+		},
+		{
+			"name": "CAI_BaseNPC::ShouldGoToIdleState()",
+			"name_mangled": "_ZN11CAI_BaseNPC19ShouldGoToIdleStateEv"
+		},
+		{
+			"name": "CAI_BaseNPC::OnStateChange(NPC_STATE, NPC_STATE)",
+			"name_mangled": "_ZN11CAI_BaseNPC13OnStateChangeE9NPC_STATES0_"
+		},
+		{
+			"name": "CAI_BaseNPC::UpdateEfficiency(bool)",
+			"name_mangled": "_ZN11CAI_BaseNPC16UpdateEfficiencyEb"
+		},
+		{
+			"name": "CAI_BaseNPC::Wake(bool)",
+			"name_mangled": "_ZN11CAI_BaseNPC4WakeEb"
+		},
+		{
+			"name": "CAI_BaseNPC::SetActivity(Activity)",
+			"name_mangled": "_ZN11CAI_BaseNPC11SetActivityE8Activity"
+		},
+		{
+			"name": "CAI_BaseNPC::IsActivityMovementPhased(Activity)",
+			"name_mangled": "_ZN11CAI_BaseNPC24IsActivityMovementPhasedE8Activity"
+		},
+		{
+			"name": "CAI_BaseNPC::OnChangeActivity(Activity)",
+			"name_mangled": "_ZN11CAI_BaseNPC16OnChangeActivityE8Activity"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::QueryHearSound(CSound*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE14QueryHearSoundEP6CSound"
+		},
+		{
+			"name": "CAI_BaseNPC::QuerySeeEntity(CBaseEntity*, bool)",
+			"name_mangled": "_ZN11CAI_BaseNPC14QuerySeeEntityEP11CBaseEntityb"
+		},
+		{
+			"name": "CAI_BaseNPC::OnLooked(int)",
+			"name_mangled": "_ZN11CAI_BaseNPC8OnLookedEi"
+		},
+		{
+			"name": "CAI_BaseNPC::OnListened()",
+			"name_mangled": "_ZN11CAI_BaseNPC10OnListenedEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::OnSeeEntity(CBaseEntity*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE11OnSeeEntityEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::ShouldNotDistanceCull()",
+			"name_mangled": "_ZN11CAI_BaseNPC21ShouldNotDistanceCullEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GetSoundInterests()",
+			"name_mangled": "_ZN11CAI_BaseNPC17GetSoundInterestsEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GetSoundPriority(CSound*)",
+			"name_mangled": "_ZN11CAI_BaseNPC16GetSoundPriorityEP6CSound"
+		},
+		{
+			"name": "CAI_BaseNPC::GetBestSound(int)",
+			"name_mangled": "_ZN11CAI_BaseNPC12GetBestSoundEi"
+		},
+		{
+			"name": "CAI_BaseNPC::GetBestScent()",
+			"name_mangled": "_ZN11CAI_BaseNPC12GetBestScentEv"
+		},
+		{
+			"name": "CAI_BaseNPC::HearingSensitivity()",
+			"name_mangled": "_ZN11CAI_BaseNPC18HearingSensitivityEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::ShouldIgnoreSound(CSound*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE17ShouldIgnoreSoundEP6CSound"
+		},
+		{
+			"name": "CAI_BaseNPC::ClearSenseConditions()",
+			"name_mangled": "_ZN11CAI_BaseNPC20ClearSenseConditionsEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BestEnemy()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE9BestEnemyEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::IsValidEnemy(CBaseEntity*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE12IsValidEnemyEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::CanBeAnEnemyOf(CBaseEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC14CanBeAnEnemyOfEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::ShouldChooseNewEnemy()",
+			"name_mangled": "_ZN11CAI_BaseNPC20ShouldChooseNewEnemyEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GatherEnemyConditions(CBaseEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC21GatherEnemyConditionsEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::EnemyDistTolerance()",
+			"name_mangled": "_ZN11CAI_BaseNPC18EnemyDistToleranceEv"
+		},
+		{
+			"name": "CAI_BaseNPC::StartTargetHandling(CBaseEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC19StartTargetHandlingEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::CreateCustomTarget(Vector const&, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC18CreateCustomTargetERK6Vectorf"
+		},
+		{
+			"name": "CAI_BaseNPC::ShouldPickADeathPose()",
+			"name_mangled": "_ZN11CAI_BaseNPC20ShouldPickADeathPoseEv"
+		},
+		{
+			"name": "CAI_BaseNPC::AllowedToIgnite()",
+			"name_mangled": "_ZN11CAI_BaseNPC15AllowedToIgniteEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GetGoalRepathTolerance(CBaseEntity*, GoalType_t, Vector const&, Vector const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC22GetGoalRepathToleranceEP11CBaseEntity10GoalType_tRK6VectorS5_"
+		},
+		{
+			"name": "CAI_BaseNPC::IsCommandable()",
+			"name_mangled": "_ZN11CAI_BaseNPC13IsCommandableEv"
+		},
+		{
+			"name": "CAI_BaseNPC::IsPlayerAlly(CBasePlayer*)",
+			"name_mangled": "_ZN11CAI_BaseNPC12IsPlayerAllyEP11CBasePlayer"
+		},
+		{
+			"name": "CAI_BaseNPC::IsMedic()",
+			"name_mangled": "_ZN11CAI_BaseNPC7IsMedicEv"
+		},
+		{
+			"name": "CAI_BaseNPC::IsCommandMoving()",
+			"name_mangled": "_ZN11CAI_BaseNPC15IsCommandMovingEv"
+		},
+		{
+			"name": "CAI_BaseNPC::ShouldAutoSummon()",
+			"name_mangled": "_ZN11CAI_BaseNPC16ShouldAutoSummonEv"
+		},
+		{
+			"name": "CAI_BaseNPC::SetCommandGoal(Vector const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC14SetCommandGoalERK6Vector"
+		},
+		{
+			"name": "CAI_BaseNPC::ClearCommandGoal()",
+			"name_mangled": "_ZN11CAI_BaseNPC16ClearCommandGoalEv"
+		},
+		{
+			"name": "CAI_BaseNPC::OnTargetOrder()",
+			"name_mangled": "_ZN11CAI_BaseNPC13OnTargetOrderEv"
+		},
+		{
+			"name": "CAI_BaseNPC::OnMoveOrder()",
+			"name_mangled": "_ZN11CAI_BaseNPC11OnMoveOrderEv"
+		},
+		{
+			"name": "CAI_BaseNPC::IsValidCommandTarget(CBaseEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC20IsValidCommandTargetEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::OnMoveToCommandGoalFailed()",
+			"name_mangled": "_ZN11CAI_BaseNPC25OnMoveToCommandGoalFailedEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GetSquadCommandRepresentative()",
+			"name_mangled": "_ZN11CAI_BaseNPC29GetSquadCommandRepresentativeEv"
+		},
+		{
+			"name": "CAI_BaseNPC::TargetOrder(CBaseEntity*, CAI_BaseNPC**, int)",
+			"name_mangled": "_ZN11CAI_BaseNPC11TargetOrderEP11CBaseEntityPPS_i"
+		},
+		{
+			"name": "CAI_BaseNPC::MoveOrder(Vector const&, CAI_BaseNPC**, int)",
+			"name_mangled": "_ZN11CAI_BaseNPC9MoveOrderERK6VectorPPS_i"
+		},
+		{
+			"name": "CAI_BaseNPC::CanBeUsedAsAFriend()",
+			"name_mangled": "_ZN11CAI_BaseNPC18CanBeUsedAsAFriendEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::CanRunAScriptedNPCInteraction(bool)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE29CanRunAScriptedNPCInteractionEb"
+		},
+		{
+			"name": "CAI_BaseNPC::CanPlaySequence(bool, int)",
+			"name_mangled": "_ZN11CAI_BaseNPC15CanPlaySequenceEbi"
+		},
+		{
+			"name": "CAI_BaseNPC::CanPlaySentence(bool)",
+			"name_mangled": "_ZN11CAI_BaseNPC15CanPlaySentenceEb"
+		},
+		{
+			"name": "CAI_BaseNPC::PlaySentence(char const*, float, float, soundlevel_t, CBaseEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC12PlaySentenceEPKcff12soundlevel_tP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::PlayScriptedSentence(char const*, float, float, soundlevel_t, bool, CBaseEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC20PlayScriptedSentenceEPKcff12soundlevel_tbP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::FOkToMakeSound(int)",
+			"name_mangled": "_ZN11CAI_BaseNPC14FOkToMakeSoundEi"
+		},
+		{
+			"name": "CAI_BaseNPC::JustMadeSound(int, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC13JustMadeSoundEif"
+		},
+		{
+			"name": "CAI_BaseNPC::DeathSound(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC10DeathSoundERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CAI_BaseNPC::AlertSound()",
+			"name_mangled": "_ZN11CAI_BaseNPC10AlertSoundEv"
+		},
+		{
+			"name": "CAI_BaseNPC::IdleSound()",
+			"name_mangled": "_ZN11CAI_BaseNPC9IdleSoundEv"
+		},
+		{
+			"name": "CAI_BaseNPC::PainSound(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC9PainSoundERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CAI_BaseNPC::FearSound()",
+			"name_mangled": "_ZN11CAI_BaseNPC9FearSoundEv"
+		},
+		{
+			"name": "CAI_BaseNPC::LostEnemySound()",
+			"name_mangled": "_ZN11CAI_BaseNPC14LostEnemySoundEv"
+		},
+		{
+			"name": "CAI_BaseNPC::FoundEnemySound()",
+			"name_mangled": "_ZN11CAI_BaseNPC15FoundEnemySoundEv"
+		},
+		{
+			"name": "CAI_BaseNPC::BarnacleDeathSound()",
+			"name_mangled": "_ZN11CAI_BaseNPC18BarnacleDeathSoundEv"
+		},
+		{
+			"name": "CAI_BaseNPC::SpeakSentence(int)",
+			"name_mangled": "_ZN11CAI_BaseNPC13SpeakSentenceEi"
+		},
+		{
+			"name": "CAI_BaseNPC::ShouldPlayIdleSound()",
+			"name_mangled": "_ZN11CAI_BaseNPC19ShouldPlayIdleSoundEv"
+		},
+		{
+			"name": "CAI_BaseNPC::MakeAIFootstepSound(float, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC19MakeAIFootstepSoundEff"
+		},
+		{
+			"name": "CAI_BaseNPC::GetExpresser()",
+			"name_mangled": "_ZN11CAI_BaseNPC12GetExpresserEv"
+		},
+		{
+			"name": "CAI_BaseNPC::CanRespondToEvent(char const*)",
+			"name_mangled": "_ZN11CAI_BaseNPC17CanRespondToEventEPKc"
+		},
+		{
+			"name": "CAI_BaseNPC::RespondedTo(char const*, bool, bool)",
+			"name_mangled": "_ZN11CAI_BaseNPC11RespondedToEPKcbb"
+		},
+		{
+			"name": "CAI_BaseNPC::PlayerHasIlluminatedNPC(CBasePlayer*, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC23PlayerHasIlluminatedNPCEP11CBasePlayerf"
+		},
+		{
+			"name": "CAI_BaseNPC::CapabilitiesGet() const",
+			"name_mangled": "_ZNK11CAI_BaseNPC15CapabilitiesGetEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::IsNavigationUrgent()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE18IsNavigationUrgentEv"
+		},
+		{
+			"name": "CAI_BaseNPC::ShouldFailNav(bool)",
+			"name_mangled": "_ZN11CAI_BaseNPC13ShouldFailNavEb"
+		},
+		{
+			"name": "CAI_BaseNPC::ShouldBruteForceFailedNav()",
+			"name_mangled": "_ZN11CAI_BaseNPC25ShouldBruteForceFailedNavEv"
+		},
+		{
+			"name": "CAI_BlendingHost<CAI_BehaviorHost<CAI_BaseNPC>>::GetTimeToNavGoal()",
+			"name_mangled": "_ZN16CAI_BlendingHostI16CAI_BehaviorHostI11CAI_BaseNPCEE16GetTimeToNavGoalEv"
+		},
+		{
+			"name": "CAI_BaseNPC::MovementCost(int, Vector const&, Vector const&, float*)",
+			"name_mangled": "_ZN11CAI_BaseNPC12MovementCostEiRK6VectorS2_Pf"
+		},
+		{
+			"name": "CAI_BaseNPC::CalcIdealYaw(Vector const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC12CalcIdealYawERK6Vector"
+		},
+		{
+			"name": "CAI_BlendingHost<CAI_BehaviorHost<CAI_BaseNPC>>::MaxYawSpeed()",
+			"name_mangled": "_ZN16CAI_BlendingHostI16CAI_BehaviorHostI11CAI_BaseNPCEE11MaxYawSpeedEv"
+		},
+		{
+			"name": "CAI_BaseNPC::AddFacingTarget(CBaseEntity*, float, float, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC15AddFacingTargetEP11CBaseEntityfff"
+		},
+		{
+			"name": "CAI_BaseNPC::AddFacingTarget(Vector const&, float, float, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC15AddFacingTargetERK6Vectorfff"
+		},
+		{
+			"name": "CAI_BaseNPC::AddFacingTarget(CBaseEntity*, Vector const&, float, float, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC15AddFacingTargetEP11CBaseEntityRK6Vectorfff"
+		},
+		{
+			"name": "CAI_BaseNPC::GetFacingDirection(Vector&)",
+			"name_mangled": "_ZN11CAI_BaseNPC18GetFacingDirectionER6Vector"
+		},
+		{
+			"name": "CAI_BaseNPC::IsJumpLegal(Vector const&, Vector const&, Vector const&) const",
+			"name_mangled": "_ZNK11CAI_BaseNPC11IsJumpLegalERK6VectorS2_S2_"
+		},
+		{
+			"name": "CAI_BaseNPC::StepHeight() const",
+			"name_mangled": "_ZNK11CAI_BaseNPC10StepHeightEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GetMaxJumpSpeed() const",
+			"name_mangled": "_ZNK11CAI_BaseNPC15GetMaxJumpSpeedEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GetJumpGravity() const",
+			"name_mangled": "_ZNK11CAI_BaseNPC14GetJumpGravityEv"
+		},
+		{
+			"name": "CAI_BaseNPC::OverrideMove(float)",
+			"name_mangled": "_ZN11CAI_BaseNPC12OverrideMoveEf"
+		},
+		{
+			"name": "CAI_BaseNPC::OverrideMoveFacing(AILocalMoveGoal_t const&, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC18OverrideMoveFacingERK17AILocalMoveGoal_tf"
+		},
+		{
+			"name": "CAI_BaseNPC::IsUnusableNode(int, CAI_Hint*)",
+			"name_mangled": "_ZN11CAI_BaseNPC14IsUnusableNodeEiP8CAI_Hint"
+		},
+		{
+			"name": "CAI_BaseNPC::ValidateNavGoal()",
+			"name_mangled": "_ZN11CAI_BaseNPC15ValidateNavGoalEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::IsCurTaskContinuousMove()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE23IsCurTaskContinuousMoveEv"
+		},
+		{
+			"name": "CAI_BaseNPC::IsValidMoveAwayDest(Vector const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC19IsValidMoveAwayDestERK6Vector"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::OnMovementFailed()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE16OnMovementFailedEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::OnMovementComplete()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE18OnMovementCompleteEv"
+		},
+		{
+			"name": "CAI_BaseNPC::IsUnreachable(CBaseEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC13IsUnreachableEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::CalcYawSpeed()",
+			"name_mangled": "_ZN11CAI_BaseNPC12CalcYawSpeedEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::OnCalcBaseMove(AILocalMoveGoal_t*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE14OnCalcBaseMoveEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_BaseNPC::OnObstructionPreSteer(AILocalMoveGoal_t*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN11CAI_BaseNPC21OnObstructionPreSteerEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_BaseNPC::OnObstructingDoor(AILocalMoveGoal_t*, CBaseDoor*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN11CAI_BaseNPC17OnObstructingDoorEP17AILocalMoveGoal_tP9CBaseDoorfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_BaseNPC::OnUpcomingPropDoor(AILocalMoveGoal_t*, CBasePropDoor*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN11CAI_BaseNPC18OnUpcomingPropDoorEP17AILocalMoveGoal_tP13CBasePropDoorfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_BaseNPC::GetNodeViewOffset()",
+			"name_mangled": "_ZN11CAI_BaseNPC17GetNodeViewOffsetEv"
+		},
+		{
+			"name": "CAI_BaseNPC::EyeOffset(Activity)",
+			"name_mangled": "_ZN11CAI_BaseNPC9EyeOffsetE8Activity"
+		},
+		{
+			"name": "CAI_BaseNPC::EyeLookTarget()",
+			"name_mangled": "_ZN11CAI_BaseNPC13EyeLookTargetEv"
+		},
+		{
+			"name": "CAI_BaseNPC::AddLookTarget(CBaseEntity*, float, float, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC13AddLookTargetEP11CBaseEntityfff"
+		},
+		{
+			"name": "CAI_BaseNPC::AddLookTarget(Vector const&, float, float, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC13AddLookTargetERK6Vectorfff"
+		},
+		{
+			"name": "CAI_BaseNPC::SetHeadDirection(Vector const&, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC16SetHeadDirectionERK6Vectorf"
+		},
+		{
+			"name": "CAI_BaseNPC::MaintainLookTargets(float)",
+			"name_mangled": "_ZN11CAI_BaseNPC19MaintainLookTargetsEf"
+		},
+		{
+			"name": "CAI_BaseNPC::ValidEyeTarget(Vector const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC14ValidEyeTargetERK6Vector"
+		},
+		{
+			"name": "CAI_BaseNPC::FacingPosition()",
+			"name_mangled": "_ZN11CAI_BaseNPC14FacingPositionEv"
+		},
+		{
+			"name": "CAI_BaseNPC::MaintainTurnActivity()",
+			"name_mangled": "_ZN11CAI_BaseNPC20MaintainTurnActivityEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::AimGun()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE6AimGunEv"
+		},
+		{
+			"name": "CAI_BaseNPC::SetAim(Vector const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC6SetAimERK6Vector"
+		},
+		{
+			"name": "CAI_BaseNPC::RelaxAim()",
+			"name_mangled": "_ZN11CAI_BaseNPC8RelaxAimEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GetAlternateMoveShootTarget()",
+			"name_mangled": "_ZN11CAI_BaseNPC27GetAlternateMoveShootTargetEv"
+		},
+		{
+			"name": "CAI_BaseNPC::InputOutsideTransition(inputdata_t&)",
+			"name_mangled": "_ZN11CAI_BaseNPC22InputOutsideTransitionER11inputdata_t"
+		},
+		{
+			"name": "CAI_BaseNPC::InputInsideTransition(inputdata_t&)",
+			"name_mangled": "_ZN11CAI_BaseNPC21InputInsideTransitionER11inputdata_t"
+		},
+		{
+			"name": "CAI_BaseNPC::SetScriptedScheduleIgnoreConditions(Interruptability_t)",
+			"name_mangled": "_ZN11CAI_BaseNPC35SetScriptedScheduleIgnoreConditionsE18Interruptability_t"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::ScheduledMoveToGoalEntity(int, CBaseEntity*, Activity)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE25ScheduledMoveToGoalEntityEiP11CBaseEntity8Activity"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::ScheduledFollowPath(int, CBaseEntity*, Activity)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE19ScheduledFollowPathEiP11CBaseEntity8Activity"
+		},
+		{
+			"name": "CAI_BaseNPC::GetEnemies()",
+			"name_mangled": "_ZN11CAI_BaseNPC10GetEnemiesEv"
+		},
+		{
+			"name": "CAI_BaseNPC::RemoveMemory()",
+			"name_mangled": "_ZN11CAI_BaseNPC12RemoveMemoryEv"
+		},
+		{
+			"name": "CAI_BaseNPC::UpdateEnemyMemory(CBaseEntity*, Vector const&, CBaseEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC17UpdateEnemyMemoryEP11CBaseEntityRK6VectorS1_"
+		},
+		{
+			"name": "CAI_BaseNPC::GetReactionDelay(CBaseEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC16GetReactionDelayEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::CanHolsterWeapon()",
+			"name_mangled": "_ZN11CAI_BaseNPC16CanHolsterWeaponEv"
+		},
+		{
+			"name": "CAI_BaseNPC::HolsterWeapon()",
+			"name_mangled": "_ZN11CAI_BaseNPC13HolsterWeaponEv"
+		},
+		{
+			"name": "CAI_BaseNPC::UnholsterWeapon()",
+			"name_mangled": "_ZN11CAI_BaseNPC15UnholsterWeaponEv"
+		},
+		{
+			"name": "CAI_BaseNPC::OnRangeAttack1()",
+			"name_mangled": "_ZN11CAI_BaseNPC14OnRangeAttack1Ev"
+		},
+		{
+			"name": "CAI_BaseNPC::OnUpdateShotRegulator()",
+			"name_mangled": "_ZN11CAI_BaseNPC21OnUpdateShotRegulatorEv"
+		},
+		{
+			"name": "CAI_BaseNPC::InitSquad()",
+			"name_mangled": "_ZN11CAI_BaseNPC9InitSquadEv"
+		},
+		{
+			"name": "CAI_BaseNPC::SquadSlotName(int)",
+			"name_mangled": "_ZN11CAI_BaseNPC13SquadSlotNameEi"
+		},
+		{
+			"name": "CAI_BaseNPC::SetSquad(CAI_Squad*)",
+			"name_mangled": "_ZN11CAI_BaseNPC8SetSquadEP9CAI_Squad"
+		},
+		{
+			"name": "CAI_BaseNPC::IsSilentSquadMember() const",
+			"name_mangled": "_ZNK11CAI_BaseNPC19IsSilentSquadMemberEv"
+		},
+		{
+			"name": "CAI_BaseNPC::FindCoverPos(CBaseEntity*, Vector*)",
+			"name_mangled": "_ZN11CAI_BaseNPC12FindCoverPosEP11CBaseEntityP6Vector"
+		},
+		{
+			"name": "CAI_BaseNPC::FindCoverPosInRadius(CBaseEntity*, Vector const&, float, Vector*)",
+			"name_mangled": "_ZN11CAI_BaseNPC20FindCoverPosInRadiusEP11CBaseEntityRK6VectorfPS2_"
+		},
+		{
+			"name": "CAI_BaseNPC::FindCoverPos(CSound*, Vector*)",
+			"name_mangled": "_ZN11CAI_BaseNPC12FindCoverPosEP6CSoundP6Vector"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::IsValidCover(Vector const&, CAI_Hint const*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE12IsValidCoverERK6VectorPK8CAI_Hint"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::IsValidShootPosition(Vector const&, CAI_Node*, CAI_Hint const*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE20IsValidShootPositionERK6VectorP8CAI_NodePK8CAI_Hint"
+		},
+		{
+			"name": "CAI_BaseNPC::TestShootPosition(Vector const&, Vector const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC17TestShootPositionERK6VectorS2_"
+		},
+		{
+			"name": "CAI_BaseNPC::IsCoverPosition(Vector const&, Vector const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC15IsCoverPositionERK6VectorS2_"
+		},
+		{
+			"name": "CAI_BaseNPC::CoverRadius()",
+			"name_mangled": "_ZN11CAI_BaseNPC11CoverRadiusEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::GetMaxTacticalLateralMovement()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE29GetMaxTacticalLateralMovementEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::OnChangeHintGroup(string_t, string_t)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE17OnChangeHintGroupE8string_tS2_"
+		},
+		{
+			"name": "CAI_BaseNPC::ShouldFadeOnDeath()",
+			"name_mangled": "_ZN11CAI_BaseNPC17ShouldFadeOnDeathEv"
+		},
+		{
+			"name": "CAI_BaseNPC::RangeAttack1Conditions(float, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC22RangeAttack1ConditionsEff"
+		},
+		{
+			"name": "CAI_BaseNPC::RangeAttack2Conditions(float, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC22RangeAttack2ConditionsEff"
+		},
+		{
+			"name": "CAI_BaseNPC::MeleeAttack1Conditions(float, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC22MeleeAttack1ConditionsEff"
+		},
+		{
+			"name": "CAI_BaseNPC::MeleeAttack2Conditions(float, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC22MeleeAttack2ConditionsEff"
+		},
+		{
+			"name": "CAI_BaseNPC::InnateRange1MinRange()",
+			"name_mangled": "_ZN11CAI_BaseNPC20InnateRange1MinRangeEv"
+		},
+		{
+			"name": "CAI_BaseNPC::InnateRange1MaxRange()",
+			"name_mangled": "_ZN11CAI_BaseNPC20InnateRange1MaxRangeEv"
+		},
+		{
+			"name": "CAI_BaseNPC::OnBeginMoveAndShoot()",
+			"name_mangled": "_ZN11CAI_BaseNPC19OnBeginMoveAndShootEv"
+		},
+		{
+			"name": "CAI_BaseNPC::OnEndMoveAndShoot()",
+			"name_mangled": "_ZN11CAI_BaseNPC17OnEndMoveAndShootEv"
+		},
+		{
+			"name": "CAI_BaseNPC::UseAttackSquadSlots()",
+			"name_mangled": "_ZN11CAI_BaseNPC19UseAttackSquadSlotsEv"
+		},
+		{
+			"name": "CAI_BaseNPC::FindNamedEntity(char const*, IEntityFindFilter*)",
+			"name_mangled": "_ZN11CAI_BaseNPC15FindNamedEntityEPKcP17IEntityFindFilter"
+		},
+		{
+			"name": "CAI_BaseNPC::ClearAttackConditions()",
+			"name_mangled": "_ZN11CAI_BaseNPC21ClearAttackConditionsEv"
+		},
+		{
+			"name": "CAI_BaseNPC::ShouldLookForBetterWeapon()",
+			"name_mangled": "_ZN11CAI_BaseNPC25ShouldLookForBetterWeaponEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GiveWeapon(string_t)",
+			"name_mangled": "_ZN11CAI_BaseNPC10GiveWeaponE8string_t"
+		},
+		{
+			"name": "CAI_BaseNPC::OnGivenWeapon(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN11CAI_BaseNPC13OnGivenWeaponEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CAI_BaseNPC::WeaponLOSCondition(Vector const&, Vector const&, bool)",
+			"name_mangled": "_ZN11CAI_BaseNPC18WeaponLOSConditionERK6VectorS2_b"
+		},
+		{
+			"name": "CAI_BaseNPC::CurrentWeaponLOSCondition(Vector const&, bool)",
+			"name_mangled": "_ZN11CAI_BaseNPC25CurrentWeaponLOSConditionERK6Vectorb"
+		},
+		{
+			"name": "CAI_BaseNPC::IsWaitingToRappel()",
+			"name_mangled": "_ZN11CAI_BaseNPC17IsWaitingToRappelEv"
+		},
+		{
+			"name": "CAI_BaseNPC::BeginRappel()",
+			"name_mangled": "_ZN11CAI_BaseNPC11BeginRappelEv"
+		},
+		{
+			"name": "CAI_BaseNPC::TranslateNavGoal(CBaseEntity*, Vector&)",
+			"name_mangled": "_ZN11CAI_BaseNPC16TranslateNavGoalEP11CBaseEntityR6Vector"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::GetDefaultNavGoalTolerance()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE26GetDefaultNavGoalToleranceEv"
+		},
+		{
+			"name": "CAI_BaseNPC::FCanCheckAttacks()",
+			"name_mangled": "_ZN11CAI_BaseNPC16FCanCheckAttacksEv"
+		},
+		{
+			"name": "CAI_BaseHumanoid::CheckAmmo()",
+			"name_mangled": "_ZN16CAI_BaseHumanoid9CheckAmmoEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::FValidateHintType(CAI_Hint*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE17FValidateHintTypeEP8CAI_Hint"
+		},
+		{
+			"name": "CAI_BaseNPC::GetHintActivity(short, Activity)",
+			"name_mangled": "_ZN11CAI_BaseNPC15GetHintActivityEs8Activity"
+		},
+		{
+			"name": "CAI_BaseNPC::GetHintDelay(short)",
+			"name_mangled": "_ZN11CAI_BaseNPC12GetHintDelayEs"
+		},
+		{
+			"name": "CAI_BaseNPC::GetCoverActivity(CAI_Hint*)",
+			"name_mangled": "_ZN11CAI_BaseNPC16GetCoverActivityEP8CAI_Hint"
+		},
+		{
+			"name": "CAI_BaseNPC::GetReloadActivity(CAI_Hint*)",
+			"name_mangled": "_ZN11CAI_BaseNPC17GetReloadActivityEP8CAI_Hint"
+		},
+		{
+			"name": "CAI_BaseNPC::SetTurnActivity()",
+			"name_mangled": "_ZN11CAI_BaseNPC15SetTurnActivityEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GetHitgroupDamageMultiplier(int, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC27GetHitgroupDamageMultiplierEiRK15CTakeDamageInfo"
+		},
+		{
+			"name": "CAI_BaseNPC::PlayerInSpread(Vector const&, Vector const&, float, float, bool)",
+			"name_mangled": "_ZN11CAI_BaseNPC14PlayerInSpreadERK6VectorS2_ffb"
+		},
+		{
+			"name": "CAI_BaseNPC::InnateWeaponLOSCondition(Vector const&, Vector const&, bool)",
+			"name_mangled": "_ZN11CAI_BaseNPC24InnateWeaponLOSConditionERK6VectorS2_b"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::GetFlinchActivity(bool, bool)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE17GetFlinchActivityEbb"
+		},
+		{
+			"name": "CAI_BaseNPC::GetShootEnemyDir(Vector const&, bool)",
+			"name_mangled": "_ZN11CAI_BaseNPC16GetShootEnemyDirERK6Vectorb"
+		},
+		{
+			"name": "CAI_BaseNPC::CollectShotStats(Vector const&, Vector const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC16CollectShotStatsERK6VectorS2_"
+		},
+		{
+			"name": "CAI_BaseNPC::ShouldMoveAndShoot()",
+			"name_mangled": "_ZN11CAI_BaseNPC18ShouldMoveAndShootEv"
+		},
+		{
+			"name": "CAI_BaseNPC::IsLightDamage(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC13IsLightDamageERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CAI_BaseNPC::IsHeavyDamage(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CAI_BaseNPC13IsHeavyDamageERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CAI_BaseNPC::PickupWeapon(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN11CAI_BaseNPC12PickupWeaponEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CAI_BaseNPC::PickupItem(CBaseEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC10PickupItemEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::NotifyDeadFriend(CBaseEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC16NotifyDeadFriendEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BaseNPC::CalcReasonableFacing(bool)",
+			"name_mangled": "_ZN11CAI_BaseNPC20CalcReasonableFacingEb"
+		},
+		{
+			"name": "CAI_BaseNPC::IsValidReasonableFacing(Vector const&, float)",
+			"name_mangled": "_ZN11CAI_BaseNPC23IsValidReasonableFacingERK6Vectorf"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::GetReasonableFacingDist()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE23GetReasonableFacingDistEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GetClassScheduleIdSpace()",
+			"name_mangled": "_ZN11CAI_BaseNPC23GetClassScheduleIdSpaceEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GetSquadSlotDebugName(int)",
+			"name_mangled": "_ZN11CAI_BaseNPC21GetSquadSlotDebugNameEi"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::IsCrouching()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE11IsCrouchingEv"
+		},
+		{
+			"name": "CAI_BaseNPC::Crouch()",
+			"name_mangled": "_ZN11CAI_BaseNPC6CrouchEv"
+		},
+		{
+			"name": "CAI_BaseNPC::Stand()",
+			"name_mangled": "_ZN11CAI_BaseNPC5StandEv"
+		},
+		{
+			"name": "CAI_BaseNPC::DesireCrouch()",
+			"name_mangled": "_ZN11CAI_BaseNPC12DesireCrouchEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::IsCrouchedActivity(Activity)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE18IsCrouchedActivityE8Activity"
+		},
+		{
+			"name": "CAI_BaseNPC::GetCrouchEyeOffset()",
+			"name_mangled": "_ZN11CAI_BaseNPC18GetCrouchEyeOffsetEv"
+		},
+		{
+			"name": "CAI_BaseNPC::GetCrouchGunOffset()",
+			"name_mangled": "_ZN11CAI_BaseNPC18GetCrouchGunOffsetEv"
+		},
+		{
+			"name": "CAI_BaseNPC::ReportAIState()",
+			"name_mangled": "_ZN11CAI_BaseNPC13ReportAIStateEv"
+		},
+		{
+			"name": "CAI_BaseNPC::ReportOverThinkLimit(float)",
+			"name_mangled": "_ZN11CAI_BaseNPC20ReportOverThinkLimitEf"
+		},
+		{
+			"name": "CAI_BaseNPC::ShouldProbeCollideAgainstEntity(CBaseEntity*)",
+			"name_mangled": "_ZN11CAI_BaseNPC31ShouldProbeCollideAgainstEntityEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::CreateBehaviors()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE15CreateBehaviorsEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::ForceSelectedGo(CBaseEntity*, Vector const&, Vector const&, bool)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE15ForceSelectedGoEP11CBaseEntityRK6VectorS6_b"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::ForceSelectedGoRandom()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE21ForceSelectedGoRandomEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::SpeakMapmakerInterruptConcept(string_t)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE29SpeakMapmakerInterruptConceptE8string_t"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::OnChangeRunningBehavior(CAI_BehaviorBase*, CAI_BehaviorBase*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE23OnChangeRunningBehaviorEP16CAI_BehaviorBaseS3_"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::ShouldBehaviorSelectSchedule(CAI_BehaviorBase*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE28ShouldBehaviorSelectScheduleEP16CAI_BehaviorBase"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_GatherConditions()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE27BackBridge_GatherConditionsEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_SelectSchedule()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE25BackBridge_SelectScheduleEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_TranslateSchedule(int)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE28BackBridge_TranslateScheduleEi"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_NPC_TranslateActivity(Activity)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE32BackBridge_NPC_TranslateActivityE8Activity"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_IsValidEnemy(CBaseEntity*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE23BackBridge_IsValidEnemyEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_BestEnemy()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE20BackBridge_BestEnemyEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_IsValidCover(Vector const&, CAI_Hint const*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE23BackBridge_IsValidCoverERK6VectorPK8CAI_Hint"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_IsValidShootPosition(Vector const&, CAI_Node*, CAI_Hint const*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE31BackBridge_IsValidShootPositionERK6VectorP8CAI_NodePK8CAI_Hint"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_GetMaxTacticalLateralMovement()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE40BackBridge_GetMaxTacticalLateralMovementEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_ShouldIgnoreSound(CSound*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE28BackBridge_ShouldIgnoreSoundEP6CSound"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_OnSeeEntity(CBaseEntity*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE22BackBridge_OnSeeEntityEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_OnFriendDamaged(CBaseCombatCharacter*, CBaseEntity*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE26BackBridge_OnFriendDamagedEP20CBaseCombatCharacterP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_IsInterruptable()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE26BackBridge_IsInterruptableEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_IsNavigationUrgent()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE29BackBridge_IsNavigationUrgentEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_ShouldPlayerAvoid()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE28BackBridge_ShouldPlayerAvoidEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_OnTakeDamage_Alive(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE29BackBridge_OnTakeDamage_AliveERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_GetDefaultNavGoalTolerance()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE37BackBridge_GetDefaultNavGoalToleranceEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_GetReasonableFacingDist()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE34BackBridge_GetReasonableFacingDistEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_CanFlinch()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE20BackBridge_CanFlinchEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_IsCrouching()",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE22BackBridge_IsCrouchingEv"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_IsCrouchedActivity(Activity)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE29BackBridge_IsCrouchedActivityE8Activity"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_QueryHearSound(CSound*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE25BackBridge_QueryHearSoundEP6CSound"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_CanRunAScriptedNPCInteraction(bool)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE40BackBridge_CanRunAScriptedNPCInteractionEb"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_GetFlinchActivity(bool, bool)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE28BackBridge_GetFlinchActivityEbb"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_OnCalcBaseMove(AILocalMoveGoal_t*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE25BackBridge_OnCalcBaseMoveEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_ModifyOrAppendCriteria(AI_CriteriaSet&)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE33BackBridge_ModifyOrAppendCriteriaER14AI_CriteriaSet"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_Teleport(Vector const*, QAngle const*, Vector const*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE19BackBridge_TeleportEPK6VectorPK6QAngleS4_"
+		},
+		{
+			"name": "CAI_BehaviorHost<CAI_BaseNPC>::BackBridge_HandleAnimEvent(animevent_t*)",
+			"name_mangled": "_ZN16CAI_BehaviorHostI11CAI_BaseNPCE26BackBridge_HandleAnimEventEP11animevent_t"
+		},
+		{
+			"name": "CAI_BaseHumanoid::OnMoveBlocked(AIMoveResult_t*)",
+			"name_mangled": "_ZN16CAI_BaseHumanoid13OnMoveBlockedEP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_BaseHumanoid::StartTaskRangeAttack1(Task_t const*)",
+			"name_mangled": "_ZN16CAI_BaseHumanoid21StartTaskRangeAttack1EPK6Task_t"
+		},
+		{
+			"name": "CAI_BaseHumanoid::RunTaskRangeAttack1(Task_t const*)",
+			"name_mangled": "_ZN16CAI_BaseHumanoid19RunTaskRangeAttack1EPK6Task_t"
+		}
+	]
+}

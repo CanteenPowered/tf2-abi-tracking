@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgQuestMapNodeDef",
+	"classname_mangled": "_ZTV19CMsgQuestMapNodeDef",
+	"members": [
+		{
+			"name": "CMsgQuestMapNodeDef::~CMsgQuestMapNodeDef()",
+			"name_mangled": "_ZN19CMsgQuestMapNodeDefD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeDef::New() const",
+			"name_mangled": "_ZNK19CMsgQuestMapNodeDef3NewEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeDef::Clear()",
+			"name_mangled": "_ZN19CMsgQuestMapNodeDef5ClearEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeDef::IsInitialized() const",
+			"name_mangled": "_ZNK19CMsgQuestMapNodeDef13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgQuestMapNodeDef::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN19CMsgQuestMapNodeDef27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgQuestMapNodeDef::ByteSize() const",
+			"name_mangled": "_ZNK19CMsgQuestMapNodeDef8ByteSizeEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeDef::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK19CMsgQuestMapNodeDef24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgQuestMapNodeDef::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK19CMsgQuestMapNodeDef31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgQuestMapNodeDef::GetCachedSize() const",
+			"name_mangled": "_ZNK19CMsgQuestMapNodeDef13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeDef::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN19CMsgQuestMapNodeDef8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgQuestMapNodeDef::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN19CMsgQuestMapNodeDef9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeDef::SetCachedSize(int) const",
+			"name_mangled": "_ZNK19CMsgQuestMapNodeDef13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeDef::GetMetadata() const",
+			"name_mangled": "_ZNK19CMsgQuestMapNodeDef11GetMetadataEv"
+		}
+	]
+}

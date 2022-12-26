@@ -1,0 +1,10 @@
+{
+	"classname": "HidingSpot",
+	"classname_mangled": "_ZTV10HidingSpot",
+	"members": [
+		{
+			"name": "HidingSpot::~HidingSpot()",
+			"name_mangled": "_ZN10HidingSpotD0Ev"
+		}
+	]
+}

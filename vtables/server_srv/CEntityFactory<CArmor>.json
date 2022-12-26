@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CArmor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI6CArmorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CArmor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI6CArmorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CArmor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI6CArmorE13GetEntitySizeEv"
+		}
+	]
+}

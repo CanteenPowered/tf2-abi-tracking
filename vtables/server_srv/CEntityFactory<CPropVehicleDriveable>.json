@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPropVehicleDriveable>",
+	"classname_mangled": "_ZTV14CEntityFactoryI21CPropVehicleDriveableE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPropVehicleDriveable>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI21CPropVehicleDriveableE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPropVehicleDriveable>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI21CPropVehicleDriveableE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFForceRespawn>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CTFForceRespawnE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFForceRespawn>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CTFForceRespawnE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFForceRespawn>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CTFForceRespawnE13GetEntitySizeEv"
+		}
+	]
+}

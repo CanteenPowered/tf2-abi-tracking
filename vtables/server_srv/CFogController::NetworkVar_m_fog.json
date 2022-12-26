@@ -1,0 +1,10 @@
+{
+	"classname": "CFogController::NetworkVar_m_fog",
+	"classname_mangled": "_ZTVN14CFogController16NetworkVar_m_fogE",
+	"members": [
+		{
+			"name": "CFogController::NetworkVar_m_fog::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN14CFogController16NetworkVar_m_fog19NetworkStateChangedEPv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "SQDelegable",
+	"classname_mangled": "_ZTV11SQDelegable",
+	"members": [
+		{
+			"name": "SQDelegable::~SQDelegable()",
+			"name_mangled": "_ZN11SQDelegableD0Ev"
+		},
+		{
+			"name": "SQRefCounted::Iterate(CSQStateIterator*)",
+			"name_mangled": "_ZN12SQRefCounted7IterateEP16CSQStateIterator"
+		}
+	]
+}

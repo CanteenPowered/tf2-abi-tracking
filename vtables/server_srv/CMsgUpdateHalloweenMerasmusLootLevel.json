@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgUpdateHalloweenMerasmusLootLevel",
+	"classname_mangled": "_ZTV36CMsgUpdateHalloweenMerasmusLootLevel",
+	"members": [
+		{
+			"name": "CMsgUpdateHalloweenMerasmusLootLevel::~CMsgUpdateHalloweenMerasmusLootLevel()",
+			"name_mangled": "_ZN36CMsgUpdateHalloweenMerasmusLootLevelD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgUpdateHalloweenMerasmusLootLevel::New() const",
+			"name_mangled": "_ZNK36CMsgUpdateHalloweenMerasmusLootLevel3NewEv"
+		},
+		{
+			"name": "CMsgUpdateHalloweenMerasmusLootLevel::Clear()",
+			"name_mangled": "_ZN36CMsgUpdateHalloweenMerasmusLootLevel5ClearEv"
+		},
+		{
+			"name": "CMsgUpdateHalloweenMerasmusLootLevel::IsInitialized() const",
+			"name_mangled": "_ZNK36CMsgUpdateHalloweenMerasmusLootLevel13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgUpdateHalloweenMerasmusLootLevel::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN36CMsgUpdateHalloweenMerasmusLootLevel27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgUpdateHalloweenMerasmusLootLevel::ByteSize() const",
+			"name_mangled": "_ZNK36CMsgUpdateHalloweenMerasmusLootLevel8ByteSizeEv"
+		},
+		{
+			"name": "CMsgUpdateHalloweenMerasmusLootLevel::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK36CMsgUpdateHalloweenMerasmusLootLevel24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgUpdateHalloweenMerasmusLootLevel::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK36CMsgUpdateHalloweenMerasmusLootLevel31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgUpdateHalloweenMerasmusLootLevel::GetCachedSize() const",
+			"name_mangled": "_ZNK36CMsgUpdateHalloweenMerasmusLootLevel13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgUpdateHalloweenMerasmusLootLevel::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN36CMsgUpdateHalloweenMerasmusLootLevel8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgUpdateHalloweenMerasmusLootLevel::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN36CMsgUpdateHalloweenMerasmusLootLevel9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgUpdateHalloweenMerasmusLootLevel::SetCachedSize(int) const",
+			"name_mangled": "_ZNK36CMsgUpdateHalloweenMerasmusLootLevel13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgUpdateHalloweenMerasmusLootLevel::GetMetadata() const",
+			"name_mangled": "_ZNK36CMsgUpdateHalloweenMerasmusLootLevel11GetMetadataEv"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "IHandleEntity",
+	"classname_mangled": "_ZTV13IHandleEntity",
+	"members": [
+		{
+			"name": "IHandleEntity::~IHandleEntity()",
+			"name_mangled": "_ZN13IHandleEntityD0Ev"
+		}
+	]
+}

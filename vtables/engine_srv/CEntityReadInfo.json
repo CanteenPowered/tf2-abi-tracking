@@ -1,0 +1,10 @@
+{
+	"classname": "CEntityReadInfo",
+	"classname_mangled": "_ZTV15CEntityReadInfo",
+	"members": [
+		{
+			"name": "CEntityReadInfo::~CEntityReadInfo()",
+			"name_mangled": "_ZN15CEntityReadInfoD0Ev"
+		}
+	]
+}

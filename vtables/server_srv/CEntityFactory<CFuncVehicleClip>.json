@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncVehicleClip>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CFuncVehicleClipE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncVehicleClip>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CFuncVehicleClipE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncVehicleClip>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CFuncVehicleClipE13GetEntitySizeEv"
+		}
+	]
+}

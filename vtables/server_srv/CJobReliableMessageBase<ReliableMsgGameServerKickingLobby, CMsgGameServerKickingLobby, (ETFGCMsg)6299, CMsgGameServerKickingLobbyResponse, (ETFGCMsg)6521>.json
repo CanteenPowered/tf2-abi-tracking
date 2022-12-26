@@ -1,0 +1,38 @@
+{
+	"classname": "CJobReliableMessageBase<ReliableMsgGameServerKickingLobby, CMsgGameServerKickingLobby, (ETFGCMsg)6299, CMsgGameServerKickingLobbyResponse, (ETFGCMsg)6521>",
+	"classname_mangled": "_ZTV23CJobReliableMessageBaseI33ReliableMsgGameServerKickingLobby26CMsgGameServerKickingLobbyL8ETFGCMsg6299E34CMsgGameServerKickingLobbyResponseLS2_6521EE",
+	"members": [
+		{
+			"name": "CJobReliableMessageBase<ReliableMsgGameServerKickingLobby, CMsgGameServerKickingLobby, (ETFGCMsg)6299, CMsgGameServerKickingLobbyResponse, (ETFGCMsg)6521>::~CJobReliableMessageBase()",
+			"name_mangled": "_ZN23CJobReliableMessageBaseI33ReliableMsgGameServerKickingLobby26CMsgGameServerKickingLobbyL8ETFGCMsg6299E34CMsgGameServerKickingLobbyResponseLS2_6521EED0Ev"
+		},
+		{
+			"name": "CJobReliableMessageBase<ReliableMsgGameServerKickingLobby, CMsgGameServerKickingLobby, (ETFGCMsg)6299, CMsgGameServerKickingLobbyResponse, (ETFGCMsg)6521>::BYieldingRunJob(void*)",
+			"name_mangled": "_ZN23CJobReliableMessageBaseI33ReliableMsgGameServerKickingLobby26CMsgGameServerKickingLobbyL8ETFGCMsg6299E34CMsgGameServerKickingLobbyResponseLS2_6521EE15BYieldingRunJobEPv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob22BYieldingRunJobFromMsgEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob24CHeartbeatsBeforeTimeoutEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::GetServerType()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob13GetServerTypeEv"
+		},
+		{
+			"name": "CJobReliableMessageBase<ReliableMsgGameServerKickingLobby, CMsgGameServerKickingLobby, (ETFGCMsg)6299, CMsgGameServerKickingLobbyResponse, (ETFGCMsg)6521>::Finalize()",
+			"name_mangled": "_ZN23CJobReliableMessageBaseI33ReliableMsgGameServerKickingLobby26CMsgGameServerKickingLobbyL8ETFGCMsg6299E34CMsgGameServerKickingLobbyResponseLS2_6521EE8FinalizeEv"
+		}
+	]
+}

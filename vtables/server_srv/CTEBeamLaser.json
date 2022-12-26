@@ -1,0 +1,30 @@
+{
+	"classname": "CTEBeamLaser",
+	"classname_mangled": "_ZTV12CTEBeamLaser",
+	"members": [
+		{
+			"name": "CTEBeamLaser::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN12CTEBeamLaser40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEBeamLaser::~CTEBeamLaser()",
+			"name_mangled": "_ZN12CTEBeamLaserD1Ev"
+		},
+		{
+			"name": "CTEBeamLaser::~CTEBeamLaser()",
+			"name_mangled": "_ZN12CTEBeamLaserD0Ev"
+		},
+		{
+			"name": "CTEBeamLaser::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN12CTEBeamLaser4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

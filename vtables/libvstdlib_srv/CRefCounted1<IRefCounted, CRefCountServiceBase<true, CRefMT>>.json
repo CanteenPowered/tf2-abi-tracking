@@ -1,0 +1,18 @@
+{
+	"classname": "CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT>>",
+	"classname_mangled": "_ZTV12CRefCounted1I11IRefCounted20CRefCountServiceBaseILb1E6CRefMTEE",
+	"members": [
+		{
+			"name": "CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT>>::Release()",
+			"name_mangled": "_ZN12CRefCounted1I11IRefCounted20CRefCountServiceBaseILb1E6CRefMTEE7ReleaseEv"
+		},
+		{
+			"name": "CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT>>::~CRefCounted1()",
+			"name_mangled": "_ZN12CRefCounted1I11IRefCounted20CRefCountServiceBaseILb1E6CRefMTEED2Ev"
+		},
+		{
+			"name": "CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT>>::~CRefCounted1()",
+			"name_mangled": "_ZN12CRefCounted1I11IRefCounted20CRefCountServiceBaseILb1E6CRefMTEED0Ev"
+		}
+	]
+}

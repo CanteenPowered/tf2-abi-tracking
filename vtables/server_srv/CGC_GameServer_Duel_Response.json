@@ -1,0 +1,34 @@
+{
+	"classname": "CGC_GameServer_Duel_Response",
+	"classname_mangled": "_ZTV28CGC_GameServer_Duel_Response",
+	"members": [
+		{
+			"name": "CGC_GameServer_Duel_Response::~CGC_GameServer_Duel_Response()",
+			"name_mangled": "_ZN28CGC_GameServer_Duel_ResponseD0Ev"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunJob(void*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob15BYieldingRunJobEPv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob22BYieldingRunJobFromMsgEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob24CHeartbeatsBeforeTimeoutEv"
+		},
+		{
+			"name": "CGC_GameServer_Duel_Response::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN28CGC_GameServer_Duel_Response17BYieldingRunGCJobEPN5GCSDK13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::GetServerType()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob13GetServerTypeEv"
+		}
+	]
+}

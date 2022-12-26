@@ -1,0 +1,78 @@
+{
+	"classname": "CSoundscapeSystem",
+	"classname_mangled": "_ZTV17CSoundscapeSystem",
+	"members": [
+		{
+			"name": "CSoundscapeSystem::Init()",
+			"name_mangled": "_ZN17CSoundscapeSystem4InitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PostInit()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8PostInitEv"
+		},
+		{
+			"name": "CSoundscapeSystem::Shutdown()",
+			"name_mangled": "_ZN17CSoundscapeSystem8ShutdownEv"
+		},
+		{
+			"name": "CSoundscapeSystem::LevelInitPreEntity()",
+			"name_mangled": "_ZN17CSoundscapeSystem18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CSoundscapeSystem::LevelInitPostEntity()",
+			"name_mangled": "_ZN17CSoundscapeSystem19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnSave()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnRestore()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::IsPerFrame()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame10IsPerFrameEv"
+		},
+		{
+			"name": "CSoundscapeSystem::~CSoundscapeSystem()",
+			"name_mangled": "_ZN17CSoundscapeSystemD2Ev"
+		},
+		{
+			"name": "CSoundscapeSystem::~CSoundscapeSystem()",
+			"name_mangled": "_ZN17CSoundscapeSystemD0Ev"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CSoundscapeSystem::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN17CSoundscapeSystem26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PreClientUpdate()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame15PreClientUpdateEv"
+		},
+		{
+			"name": "CSoundscapeSystem::AddSoundscapeFile(char const*)",
+			"name_mangled": "_ZN17CSoundscapeSystem17AddSoundscapeFileEPKc"
+		}
+	]
+}

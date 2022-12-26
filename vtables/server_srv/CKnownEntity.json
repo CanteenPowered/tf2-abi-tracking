@@ -1,0 +1,86 @@
+{
+	"classname": "CKnownEntity",
+	"classname_mangled": "_ZTV12CKnownEntity",
+	"members": [
+		{
+			"name": "CKnownEntity::~CKnownEntity()",
+			"name_mangled": "_ZN12CKnownEntityD0Ev"
+		},
+		{
+			"name": "CKnownEntity::Destroy()",
+			"name_mangled": "_ZN12CKnownEntity7DestroyEv"
+		},
+		{
+			"name": "CKnownEntity::UpdatePosition()",
+			"name_mangled": "_ZN12CKnownEntity14UpdatePositionEv"
+		},
+		{
+			"name": "CKnownEntity::GetEntity() const",
+			"name_mangled": "_ZNK12CKnownEntity9GetEntityEv"
+		},
+		{
+			"name": "CKnownEntity::GetLastKnownPosition() const",
+			"name_mangled": "_ZNK12CKnownEntity20GetLastKnownPositionEv"
+		},
+		{
+			"name": "CKnownEntity::HasLastKnownPositionBeenSeen() const",
+			"name_mangled": "_ZNK12CKnownEntity28HasLastKnownPositionBeenSeenEv"
+		},
+		{
+			"name": "CKnownEntity::MarkLastKnownPositionAsSeen()",
+			"name_mangled": "_ZN12CKnownEntity27MarkLastKnownPositionAsSeenEv"
+		},
+		{
+			"name": "CKnownEntity::GetLastKnownArea() const",
+			"name_mangled": "_ZNK12CKnownEntity16GetLastKnownAreaEv"
+		},
+		{
+			"name": "CKnownEntity::GetTimeSinceLastKnown() const",
+			"name_mangled": "_ZNK12CKnownEntity21GetTimeSinceLastKnownEv"
+		},
+		{
+			"name": "CKnownEntity::GetTimeSinceBecameKnown() const",
+			"name_mangled": "_ZNK12CKnownEntity23GetTimeSinceBecameKnownEv"
+		},
+		{
+			"name": "CKnownEntity::UpdateVisibilityStatus(bool)",
+			"name_mangled": "_ZN12CKnownEntity22UpdateVisibilityStatusEb"
+		},
+		{
+			"name": "CKnownEntity::IsVisibleInFOVNow() const",
+			"name_mangled": "_ZNK12CKnownEntity17IsVisibleInFOVNowEv"
+		},
+		{
+			"name": "CKnownEntity::IsVisibleRecently() const",
+			"name_mangled": "_ZNK12CKnownEntity17IsVisibleRecentlyEv"
+		},
+		{
+			"name": "CKnownEntity::GetTimeSinceBecameVisible() const",
+			"name_mangled": "_ZNK12CKnownEntity25GetTimeSinceBecameVisibleEv"
+		},
+		{
+			"name": "CKnownEntity::GetTimeWhenBecameVisible() const",
+			"name_mangled": "_ZNK12CKnownEntity24GetTimeWhenBecameVisibleEv"
+		},
+		{
+			"name": "CKnownEntity::GetTimeSinceLastSeen() const",
+			"name_mangled": "_ZNK12CKnownEntity20GetTimeSinceLastSeenEv"
+		},
+		{
+			"name": "CKnownEntity::WasEverVisible() const",
+			"name_mangled": "_ZNK12CKnownEntity14WasEverVisibleEv"
+		},
+		{
+			"name": "CKnownEntity::IsObsolete() const",
+			"name_mangled": "_ZNK12CKnownEntity10IsObsoleteEv"
+		},
+		{
+			"name": "CKnownEntity::operator==(CKnownEntity const&) const",
+			"name_mangled": "_ZNK12CKnownEntityeqERKS_"
+		},
+		{
+			"name": "CKnownEntity::Is(CBaseEntity*) const",
+			"name_mangled": "_ZNK12CKnownEntity2IsEP11CBaseEntity"
+		}
+	]
+}

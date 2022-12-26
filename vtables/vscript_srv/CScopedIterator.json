@@ -1,0 +1,22 @@
+{
+	"classname": "CScopedIterator",
+	"classname_mangled": "_ZTV15CScopedIterator",
+	"members": [
+		{
+			"name": "CScopedIterator::Key(SQObjectPtr const&)",
+			"name_mangled": "_ZN15CScopedIterator3KeyERK11SQObjectPtr"
+		},
+		{
+			"name": "CScopedIterator::Value(SQObjectPtr const&)",
+			"name_mangled": "_ZN15CScopedIterator5ValueERK11SQObjectPtr"
+		},
+		{
+			"name": "CScopedIterator::BeginContained()",
+			"name_mangled": "_ZN15CScopedIterator14BeginContainedEv"
+		},
+		{
+			"name": "CScopedIterator::EndContained()",
+			"name_mangled": "_ZN15CScopedIterator12EndContainedEv"
+		}
+	]
+}

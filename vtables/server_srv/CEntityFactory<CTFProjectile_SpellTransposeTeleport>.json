@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_SpellTransposeTeleport>",
+	"classname_mangled": "_ZTV14CEntityFactoryI36CTFProjectile_SpellTransposeTeleportE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_SpellTransposeTeleport>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI36CTFProjectile_SpellTransposeTeleportE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_SpellTransposeTeleport>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI36CTFProjectile_SpellTransposeTeleportE13GetEntitySizeEv"
+		}
+	]
+}

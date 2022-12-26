@@ -1,0 +1,26 @@
+{
+	"classname": "CSearchForCover",
+	"classname_mangled": "_ZTV15CSearchForCover",
+	"members": [
+		{
+			"name": "CSearchForCover::~CSearchForCover()",
+			"name_mangled": "_ZN15CSearchForCoverD0Ev"
+		},
+		{
+			"name": "CSearchForCover::operator()(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN15CSearchForCoverclEP8CNavAreaS1_f"
+		},
+		{
+			"name": "CSearchForCover::ShouldSearch(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN15CSearchForCover12ShouldSearchEP8CNavAreaS1_f"
+		},
+		{
+			"name": "ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN30ISearchSurroundingAreasFunctor20IterateAdjacentAreasEP8CNavAreaS1_f"
+		},
+		{
+			"name": "CSearchForCover::PostSearch()",
+			"name_mangled": "_ZN15CSearchForCover10PostSearchEv"
+		}
+	]
+}

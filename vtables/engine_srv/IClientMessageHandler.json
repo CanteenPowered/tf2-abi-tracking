@@ -1,0 +1,10 @@
+{
+	"classname": "IClientMessageHandler",
+	"classname_mangled": "_ZTV21IClientMessageHandler",
+	"members": [
+		{
+			"name": "IClientMessageHandler::~IClientMessageHandler()",
+			"name_mangled": "_ZN21IClientMessageHandlerD0Ev"
+		}
+	]
+}

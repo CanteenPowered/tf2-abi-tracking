@@ -1,0 +1,10 @@
+{
+	"classname": "GCSDK::CWorkThread",
+	"classname_mangled": "_ZTVN5GCSDK11CWorkThreadE",
+	"members": [
+		{
+			"name": "GCSDK::CWorkThread::~CWorkThread()",
+			"name_mangled": "_ZN5GCSDK11CWorkThreadD0Ev"
+		}
+	]
+}

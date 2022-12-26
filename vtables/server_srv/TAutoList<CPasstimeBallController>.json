@@ -1,0 +1,10 @@
+{
+	"classname": "TAutoList<CPasstimeBallController>",
+	"classname_mangled": "_ZTV9TAutoListI23CPasstimeBallControllerE",
+	"members": [
+		{
+			"name": "TAutoList<CPasstimeBallController>::~TAutoList()",
+			"name_mangled": "_ZN9TAutoListI23CPasstimeBallControllerED0Ev"
+		}
+	]
+}

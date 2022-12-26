@@ -1,0 +1,14 @@
+{
+	"classname": "CAI_ExpresserSink",
+	"classname_mangled": "_ZTV17CAI_ExpresserSink",
+	"members": [
+		{
+			"name": "CAI_ExpresserSink::OnStartSpeaking()",
+			"name_mangled": "_ZN17CAI_ExpresserSink15OnStartSpeakingEv"
+		},
+		{
+			"name": "CAI_ExpresserSink::UseSemaphore()",
+			"name_mangled": "_ZN17CAI_ExpresserSink12UseSemaphoreEv"
+		}
+	]
+}

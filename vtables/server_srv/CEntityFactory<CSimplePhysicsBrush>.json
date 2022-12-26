@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CSimplePhysicsBrush>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CSimplePhysicsBrushE",
+	"members": [
+		{
+			"name": "CEntityFactory<CSimplePhysicsBrush>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CSimplePhysicsBrushE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CSimplePhysicsBrush>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CSimplePhysicsBrushE13GetEntitySizeEv"
+		}
+	]
+}

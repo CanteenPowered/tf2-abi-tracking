@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CLogicBranchList>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CLogicBranchListE",
+	"members": [
+		{
+			"name": "CEntityFactory<CLogicBranchList>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CLogicBranchListE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CLogicBranchList>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CLogicBranchListE13GetEntitySizeEv"
+		}
+	]
+}

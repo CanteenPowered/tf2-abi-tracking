@@ -1,0 +1,22 @@
+{
+	"classname": "CMemberFunctor1<CModelRender*, int (CManagedDataCacheClient<CColorMeshData, colormeshparams_t, CColorMeshData*>::*)(memhandle_t__*), memhandle_t__*, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>",
+	"classname_mangled": "_ZTV15CMemberFunctor1IP12CModelRenderM23CManagedDataCacheClientI14CColorMeshData17colormeshparams_tPS3_EFiP13memhandle_t__ES8_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneE",
+	"members": [
+		{
+			"name": "CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>::Release()",
+			"name_mangled": "_ZN12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE7ReleaseEv"
+		},
+		{
+			"name": "CMemberFunctor1<CModelRender*, int (CManagedDataCacheClient<CColorMeshData, colormeshparams_t, CColorMeshData*>::*)(memhandle_t__*), memhandle_t__*, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::~CMemberFunctor1()",
+			"name_mangled": "_ZN15CMemberFunctor1IP12CModelRenderM23CManagedDataCacheClientI14CColorMeshData17colormeshparams_tPS3_EFiP13memhandle_t__ES8_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneED2Ev"
+		},
+		{
+			"name": "CMemberFunctor1<CModelRender*, int (CManagedDataCacheClient<CColorMeshData, colormeshparams_t, CColorMeshData*>::*)(memhandle_t__*), memhandle_t__*, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::~CMemberFunctor1()",
+			"name_mangled": "_ZN15CMemberFunctor1IP12CModelRenderM23CManagedDataCacheClientI14CColorMeshData17colormeshparams_tPS3_EFiP13memhandle_t__ES8_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneED0Ev"
+		},
+		{
+			"name": "CMemberFunctor1<CModelRender*, int (CManagedDataCacheClient<CColorMeshData, colormeshparams_t, CColorMeshData*>::*)(memhandle_t__*), memhandle_t__*, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::operator()()",
+			"name_mangled": "_ZN15CMemberFunctor1IP12CModelRenderM23CManagedDataCacheClientI14CColorMeshData17colormeshparams_tPS3_EFiP13memhandle_t__ES8_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneEclEv"
+		}
+	]
+}

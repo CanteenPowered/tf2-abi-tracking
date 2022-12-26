@@ -1,0 +1,18 @@
+{
+	"classname": "CTFDefendPointSniperZone",
+	"classname_mangled": "_ZTV24CTFDefendPointSniperZone",
+	"members": [
+		{
+			"name": "CTacticalMissionZone::ForEachArea(IForEachNavArea&) const",
+			"name_mangled": "_ZNK20CTacticalMissionZone11ForEachAreaER15IForEachNavArea"
+		},
+		{
+			"name": "CTFDefendPointSniperZone::~CTFDefendPointSniperZone()",
+			"name_mangled": "_ZN24CTFDefendPointSniperZoneD2Ev"
+		},
+		{
+			"name": "CTFDefendPointSniperZone::~CTFDefendPointSniperZone()",
+			"name_mangled": "_ZN24CTFDefendPointSniperZoneD0Ev"
+		}
+	]
+}

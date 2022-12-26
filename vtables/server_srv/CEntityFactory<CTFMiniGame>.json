@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFMiniGame>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CTFMiniGameE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFMiniGame>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CTFMiniGameE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFMiniGame>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CTFMiniGameE13GetEntitySizeEv"
+		}
+	]
+}

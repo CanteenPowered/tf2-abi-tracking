@@ -1,0 +1,14 @@
+{
+	"classname": "google::protobuf::internal::GeneratedExtensionFinder",
+	"classname_mangled": "_ZTVN6google8protobuf8internal24GeneratedExtensionFinderE",
+	"members": [
+		{
+			"name": "google::protobuf::internal::GeneratedExtensionFinder::~GeneratedExtensionFinder()",
+			"name_mangled": "_ZN6google8protobuf8internal24GeneratedExtensionFinderD0Ev"
+		},
+		{
+			"name": "google::protobuf::internal::GeneratedExtensionFinder::Find(int, google::protobuf::internal::ExtensionInfo*)",
+			"name_mangled": "_ZN6google8protobuf8internal24GeneratedExtensionFinder4FindEiPNS1_13ExtensionInfoE"
+		}
+	]
+}

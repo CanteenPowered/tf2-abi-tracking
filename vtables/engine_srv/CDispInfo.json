@@ -1,0 +1,90 @@
+{
+	"classname": "CDispInfo",
+	"classname_mangled": "_ZTV9CDispInfo",
+	"members": [
+		{
+			"name": "CDispInfo::~CDispInfo()",
+			"name_mangled": "_ZN9CDispInfoD0Ev"
+		},
+		{
+			"name": "CDispInfo::GetIntersectingSurfaces(GetIntersectingSurfaces_Struct*)",
+			"name_mangled": "_ZN9CDispInfo23GetIntersectingSurfacesEP30GetIntersectingSurfaces_Struct"
+		},
+		{
+			"name": "CDispInfo::RenderWireframeInLightmapPage(int)",
+			"name_mangled": "_ZN9CDispInfo29RenderWireframeInLightmapPageEi"
+		},
+		{
+			"name": "CDispInfo::GetBoundingBox(Vector&, Vector&)",
+			"name_mangled": "_ZN9CDispInfo14GetBoundingBoxER6VectorS1_"
+		},
+		{
+			"name": "CDispInfo::SetParent(msurface2_t*)",
+			"name_mangled": "_ZN9CDispInfo9SetParentEP11msurface2_t"
+		},
+		{
+			"name": "CDispInfo::GetParent()",
+			"name_mangled": "_ZN9CDispInfo9GetParentEv"
+		},
+		{
+			"name": "CDispInfo::AddDynamicLights(dlight_t*, unsigned int)",
+			"name_mangled": "_ZN9CDispInfo16AddDynamicLightsEP8dlight_tj"
+		},
+		{
+			"name": "CDispInfo::ComputeDynamicLightMask(dlight_t*)",
+			"name_mangled": "_ZN9CDispInfo23ComputeDynamicLightMaskEP8dlight_t"
+		},
+		{
+			"name": "CDispInfo::NotifyAddDecal(decal_t*, float)",
+			"name_mangled": "_ZN9CDispInfo14NotifyAddDecalEP7decal_tf"
+		},
+		{
+			"name": "CDispInfo::NotifyRemoveDecal(unsigned short)",
+			"name_mangled": "_ZN9CDispInfo17NotifyRemoveDecalEt"
+		},
+		{
+			"name": "CDispInfo::AddShadowDecal(unsigned short)",
+			"name_mangled": "_ZN9CDispInfo14AddShadowDecalEt"
+		},
+		{
+			"name": "CDispInfo::RemoveShadowDecal(unsigned short)",
+			"name_mangled": "_ZN9CDispInfo17RemoveShadowDecalEt"
+		},
+		{
+			"name": "CDispInfo::ComputeShadowFragments(unsigned short, int&, int&)",
+			"name_mangled": "_ZN9CDispInfo22ComputeShadowFragmentsEtRiS0_"
+		},
+		{
+			"name": "CDispInfo::GetTag()",
+			"name_mangled": "_ZN9CDispInfo6GetTagEv"
+		},
+		{
+			"name": "CDispInfo::SetTag()",
+			"name_mangled": "_ZN9CDispInfo6SetTagEv"
+		},
+		{
+			"name": "CDispInfo::TestRay(Ray_t const&, float, float, float&, Vector2D*, Vector2D*)",
+			"name_mangled": "_ZN9CDispInfo7TestRayERK5Ray_tffRfP8Vector2DS5_"
+		},
+		{
+			"name": "CDispInfo::ComputeLightmapAndTextureCoordinate(RayDispOutput_t const&, Vector2D*, Vector2D*)",
+			"name_mangled": "_ZN9CDispInfo35ComputeLightmapAndTextureCoordinateERK15RayDispOutput_tP8Vector2DS4_"
+		},
+		{
+			"name": "CDispInfo::GetPowerInfo() const",
+			"name_mangled": "_ZNK9CDispInfo12GetPowerInfoEv"
+		},
+		{
+			"name": "CDispInfo::GetEdgeNeighbor(int)",
+			"name_mangled": "_ZN9CDispInfo15GetEdgeNeighborEi"
+		},
+		{
+			"name": "CDispInfo::GetCornerNeighbors(int)",
+			"name_mangled": "_ZN9CDispInfo18GetCornerNeighborsEi"
+		},
+		{
+			"name": "CDispInfo::GetDispUtilsByIndex(int)",
+			"name_mangled": "_ZN9CDispInfo19GetDispUtilsByIndexEi"
+		}
+	]
+}

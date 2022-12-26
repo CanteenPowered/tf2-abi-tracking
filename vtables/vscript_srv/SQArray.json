@@ -1,0 +1,30 @@
+{
+	"classname": "SQArray",
+	"classname_mangled": "_ZTV7SQArray",
+	"members": [
+		{
+			"name": "SQArray::~SQArray()",
+			"name_mangled": "_ZN7SQArrayD0Ev"
+		},
+		{
+			"name": "SQArray::Iterate(CSQStateIterator*)",
+			"name_mangled": "_ZN7SQArray7IterateEP16CSQStateIterator"
+		},
+		{
+			"name": "SQArray::Release()",
+			"name_mangled": "_ZN7SQArray7ReleaseEv"
+		},
+		{
+			"name": "SQArray::GetType()",
+			"name_mangled": "_ZN7SQArray7GetTypeEv"
+		},
+		{
+			"name": "SQArray::Mark(SQCollectable**)",
+			"name_mangled": "_ZN7SQArray4MarkEPP13SQCollectable"
+		},
+		{
+			"name": "SQArray::Finalize()",
+			"name_mangled": "_ZN7SQArray8FinalizeEv"
+		}
+	]
+}

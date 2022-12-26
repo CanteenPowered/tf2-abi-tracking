@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<COrnamentProp>",
+	"classname_mangled": "_ZTV14CEntityFactoryI13COrnamentPropE",
+	"members": [
+		{
+			"name": "CEntityFactory<COrnamentProp>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI13COrnamentPropE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<COrnamentProp>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI13COrnamentPropE13GetEntitySizeEv"
+		}
+	]
+}

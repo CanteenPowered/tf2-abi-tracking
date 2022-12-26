@@ -1,0 +1,22 @@
+{
+	"classname": "GCSDK::CProtoBufMsgMemoryPool<CMsgGCChangeMatchPlayerTeamsRequest>",
+	"classname_mangled": "_ZTVN5GCSDK22CProtoBufMsgMemoryPoolI35CMsgGCChangeMatchPlayerTeamsRequestEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGCChangeMatchPlayerTeamsRequest>::~CProtoBufMsgMemoryPool()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI35CMsgGCChangeMatchPlayerTeamsRequestED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGCChangeMatchPlayerTeamsRequest>::GetName()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI35CMsgGCChangeMatchPlayerTeamsRequestE7GetNameEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGCChangeMatchPlayerTeamsRequest>::InternalAlloc()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI35CMsgGCChangeMatchPlayerTeamsRequestE13InternalAllocEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGCChangeMatchPlayerTeamsRequest>::InternalFree(google::protobuf::Message*)",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI35CMsgGCChangeMatchPlayerTeamsRequestE12InternalFreeEPN6google8protobuf7MessageE"
+		}
+	]
+}

@@ -1,0 +1,118 @@
+{
+	"classname": "CAI_Motor",
+	"classname_mangled": "_ZTV9CAI_Motor",
+	"members": [
+		{
+			"name": "CAI_Motor::~CAI_Motor()",
+			"name_mangled": "_ZN9CAI_MotorD0Ev"
+		},
+		{
+			"name": "CAI_Component::SetOuter(CAI_BaseNPC*)",
+			"name_mangled": "_ZN13CAI_Component8SetOuterEP11CAI_BaseNPC"
+		},
+		{
+			"name": "CAI_Component::TaskFail(int)",
+			"name_mangled": "_ZN13CAI_Component8TaskFailEi"
+		},
+		{
+			"name": "CAI_Component::TaskComplete(bool)",
+			"name_mangled": "_ZN13CAI_Component12TaskCompleteEb"
+		},
+		{
+			"name": "CAI_Motor::MoveClimbStart(Vector const&, Vector const&, float, float)",
+			"name_mangled": "_ZN9CAI_Motor14MoveClimbStartERK6VectorS2_ff"
+		},
+		{
+			"name": "CAI_Motor::MoveClimbExecute(Vector const&, Vector const&, float, float, int)",
+			"name_mangled": "_ZN9CAI_Motor16MoveClimbExecuteERK6VectorS2_ffi"
+		},
+		{
+			"name": "CAI_Motor::MoveClimbStop()",
+			"name_mangled": "_ZN9CAI_Motor13MoveClimbStopEv"
+		},
+		{
+			"name": "CAI_Motor::MoveJumpStart(Vector const&)",
+			"name_mangled": "_ZN9CAI_Motor13MoveJumpStartERK6Vector"
+		},
+		{
+			"name": "CAI_Motor::MoveJumpExecute()",
+			"name_mangled": "_ZN9CAI_Motor15MoveJumpExecuteEv"
+		},
+		{
+			"name": "CAI_Motor::MoveJumpStop()",
+			"name_mangled": "_ZN9CAI_Motor12MoveJumpStopEv"
+		},
+		{
+			"name": "CAI_Motor::ResetMoveCalculations()",
+			"name_mangled": "_ZN9CAI_Motor21ResetMoveCalculationsEv"
+		},
+		{
+			"name": "CAI_Motor::MoveStart()",
+			"name_mangled": "_ZN9CAI_Motor9MoveStartEv"
+		},
+		{
+			"name": "CAI_Motor::MoveStop()",
+			"name_mangled": "_ZN9CAI_Motor8MoveStopEv"
+		},
+		{
+			"name": "CAI_Motor::MovePaused()",
+			"name_mangled": "_ZN9CAI_Motor10MovePausedEv"
+		},
+		{
+			"name": "CAI_Motor::OverrideMaxYawSpeed(Activity)",
+			"name_mangled": "_ZN9CAI_Motor19OverrideMaxYawSpeedE8Activity"
+		},
+		{
+			"name": "CAI_Motor::AddFacingTarget(CBaseEntity*, float, float, float)",
+			"name_mangled": "_ZN9CAI_Motor15AddFacingTargetEP11CBaseEntityfff"
+		},
+		{
+			"name": "CAI_Motor::AddFacingTarget(Vector const&, float, float, float)",
+			"name_mangled": "_ZN9CAI_Motor15AddFacingTargetERK6Vectorfff"
+		},
+		{
+			"name": "CAI_Motor::AddFacingTarget(CBaseEntity*, Vector const&, float, float, float)",
+			"name_mangled": "_ZN9CAI_Motor15AddFacingTargetEP11CBaseEntityRK6Vectorfff"
+		},
+		{
+			"name": "CAI_Motor::GetFacingDirection(Vector&)",
+			"name_mangled": "_ZN9CAI_Motor18GetFacingDirectionER6Vector"
+		},
+		{
+			"name": "CAI_Motor::UpdateYaw(int)",
+			"name_mangled": "_ZN9CAI_Motor9UpdateYawEi"
+		},
+		{
+			"name": "CAI_Motor::RecalculateYawSpeed()",
+			"name_mangled": "_ZN9CAI_Motor19RecalculateYawSpeedEv"
+		},
+		{
+			"name": "CAI_Motor::MaintainTurnActivity()",
+			"name_mangled": "_ZN9CAI_Motor20MaintainTurnActivityEv"
+		},
+		{
+			"name": "CAI_Motor::AddTurnGesture(float)",
+			"name_mangled": "_ZN9CAI_Motor14AddTurnGestureEf"
+		},
+		{
+			"name": "CAI_Motor::MinStoppingDist(float)",
+			"name_mangled": "_ZN9CAI_Motor15MinStoppingDistEf"
+		},
+		{
+			"name": "CAI_Motor::MinCheckDist()",
+			"name_mangled": "_ZN9CAI_Motor12MinCheckDistEv"
+		},
+		{
+			"name": "CAI_Motor::MoveFacing(AILocalMoveGoal_t const&)",
+			"name_mangled": "_ZN9CAI_Motor10MoveFacingERK17AILocalMoveGoal_t"
+		},
+		{
+			"name": "CAI_Motor::MoveGroundExecute(AILocalMoveGoal_t const&, AIMoveTrace_t*)",
+			"name_mangled": "_ZN9CAI_Motor17MoveGroundExecuteERK17AILocalMoveGoal_tP13AIMoveTrace_t"
+		},
+		{
+			"name": "CAI_Motor::MoveFlyExecute(AILocalMoveGoal_t const&, AIMoveTrace_t*)",
+			"name_mangled": "_ZN9CAI_Motor14MoveFlyExecuteERK17AILocalMoveGoal_tP13AIMoveTrace_t"
+		}
+	]
+}

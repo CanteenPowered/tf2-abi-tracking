@@ -1,0 +1,14 @@
+{
+	"classname": "CTFItemSystem",
+	"classname_mangled": "_ZTV13CTFItemSystem",
+	"members": [
+		{
+			"name": "CTFItemSystem::~CTFItemSystem()",
+			"name_mangled": "_ZN13CTFItemSystemD0Ev"
+		},
+		{
+			"name": "CTFItemSystem::GenerateBaseItem(baseitemcriteria_t*)",
+			"name_mangled": "_ZN13CTFItemSystem16GenerateBaseItemEP18baseitemcriteria_t"
+		}
+	]
+}

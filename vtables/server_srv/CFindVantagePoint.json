@@ -1,0 +1,26 @@
+{
+	"classname": "CFindVantagePoint",
+	"classname_mangled": "_ZTV17CFindVantagePoint",
+	"members": [
+		{
+			"name": "CFindVantagePoint::~CFindVantagePoint()",
+			"name_mangled": "_ZN17CFindVantagePointD0Ev"
+		},
+		{
+			"name": "CFindVantagePoint::operator()(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN17CFindVantagePointclEP8CNavAreaS1_f"
+		},
+		{
+			"name": "ISearchSurroundingAreasFunctor::ShouldSearch(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN30ISearchSurroundingAreasFunctor12ShouldSearchEP8CNavAreaS1_f"
+		},
+		{
+			"name": "ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN30ISearchSurroundingAreasFunctor20IterateAdjacentAreasEP8CNavAreaS1_f"
+		},
+		{
+			"name": "ISearchSurroundingAreasFunctor::PostSearch()",
+			"name_mangled": "_ZN30ISearchSurroundingAreasFunctor10PostSearchEv"
+		}
+	]
+}

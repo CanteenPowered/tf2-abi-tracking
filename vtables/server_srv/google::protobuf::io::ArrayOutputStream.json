@@ -1,0 +1,30 @@
+{
+	"classname": "google::protobuf::io::ArrayOutputStream",
+	"classname_mangled": "_ZTVN6google8protobuf2io17ArrayOutputStreamE",
+	"members": [
+		{
+			"name": "google::protobuf::io::ArrayOutputStream::~ArrayOutputStream()",
+			"name_mangled": "_ZN6google8protobuf2io17ArrayOutputStreamD0Ev"
+		},
+		{
+			"name": "google::protobuf::io::ArrayOutputStream::Next(void**, int*)",
+			"name_mangled": "_ZN6google8protobuf2io17ArrayOutputStream4NextEPPvPi"
+		},
+		{
+			"name": "google::protobuf::io::ArrayOutputStream::BackUp(int)",
+			"name_mangled": "_ZN6google8protobuf2io17ArrayOutputStream6BackUpEi"
+		},
+		{
+			"name": "google::protobuf::io::ArrayOutputStream::ByteCount() const",
+			"name_mangled": "_ZNK6google8protobuf2io17ArrayOutputStream9ByteCountEv"
+		},
+		{
+			"name": "google::protobuf::io::ZeroCopyOutputStream::WriteAliasedRaw(void const*, int)",
+			"name_mangled": "_ZN6google8protobuf2io20ZeroCopyOutputStream15WriteAliasedRawEPKvi"
+		},
+		{
+			"name": "google::protobuf::io::ZeroCopyOutputStream::AllowsAliasing() const",
+			"name_mangled": "_ZNK6google8protobuf2io20ZeroCopyOutputStream14AllowsAliasingEv"
+		}
+	]
+}

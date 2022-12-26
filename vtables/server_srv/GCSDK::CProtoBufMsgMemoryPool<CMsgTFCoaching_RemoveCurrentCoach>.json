@@ -1,0 +1,22 @@
+{
+	"classname": "GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_RemoveCurrentCoach>",
+	"classname_mangled": "_ZTVN5GCSDK22CProtoBufMsgMemoryPoolI33CMsgTFCoaching_RemoveCurrentCoachEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_RemoveCurrentCoach>::~CProtoBufMsgMemoryPool()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI33CMsgTFCoaching_RemoveCurrentCoachED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_RemoveCurrentCoach>::GetName()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI33CMsgTFCoaching_RemoveCurrentCoachE7GetNameEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_RemoveCurrentCoach>::InternalAlloc()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI33CMsgTFCoaching_RemoveCurrentCoachE13InternalAllocEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_RemoveCurrentCoach>::InternalFree(google::protobuf::Message*)",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI33CMsgTFCoaching_RemoveCurrentCoachE12InternalFreeEPN6google8protobuf7MessageE"
+		}
+	]
+}

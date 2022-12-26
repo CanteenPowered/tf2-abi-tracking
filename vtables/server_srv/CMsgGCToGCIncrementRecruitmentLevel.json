@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgGCToGCIncrementRecruitmentLevel",
+	"classname_mangled": "_ZTV35CMsgGCToGCIncrementRecruitmentLevel",
+	"members": [
+		{
+			"name": "CMsgGCToGCIncrementRecruitmentLevel::~CMsgGCToGCIncrementRecruitmentLevel()",
+			"name_mangled": "_ZN35CMsgGCToGCIncrementRecruitmentLevelD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgGCToGCIncrementRecruitmentLevel::New() const",
+			"name_mangled": "_ZNK35CMsgGCToGCIncrementRecruitmentLevel3NewEv"
+		},
+		{
+			"name": "CMsgGCToGCIncrementRecruitmentLevel::Clear()",
+			"name_mangled": "_ZN35CMsgGCToGCIncrementRecruitmentLevel5ClearEv"
+		},
+		{
+			"name": "CMsgGCToGCIncrementRecruitmentLevel::IsInitialized() const",
+			"name_mangled": "_ZNK35CMsgGCToGCIncrementRecruitmentLevel13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgGCToGCIncrementRecruitmentLevel::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN35CMsgGCToGCIncrementRecruitmentLevel27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgGCToGCIncrementRecruitmentLevel::ByteSize() const",
+			"name_mangled": "_ZNK35CMsgGCToGCIncrementRecruitmentLevel8ByteSizeEv"
+		},
+		{
+			"name": "CMsgGCToGCIncrementRecruitmentLevel::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK35CMsgGCToGCIncrementRecruitmentLevel24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgGCToGCIncrementRecruitmentLevel::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK35CMsgGCToGCIncrementRecruitmentLevel31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgGCToGCIncrementRecruitmentLevel::GetCachedSize() const",
+			"name_mangled": "_ZNK35CMsgGCToGCIncrementRecruitmentLevel13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgGCToGCIncrementRecruitmentLevel::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN35CMsgGCToGCIncrementRecruitmentLevel8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgGCToGCIncrementRecruitmentLevel::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN35CMsgGCToGCIncrementRecruitmentLevel9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgGCToGCIncrementRecruitmentLevel::SetCachedSize(int) const",
+			"name_mangled": "_ZNK35CMsgGCToGCIncrementRecruitmentLevel13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgGCToGCIncrementRecruitmentLevel::GetMetadata() const",
+			"name_mangled": "_ZNK35CMsgGCToGCIncrementRecruitmentLevel11GetMetadataEv"
+		}
+	]
+}

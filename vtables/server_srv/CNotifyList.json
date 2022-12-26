@@ -1,0 +1,30 @@
+{
+	"classname": "CNotifyList",
+	"classname_mangled": "_ZTV11CNotifyList",
+	"members": [
+		{
+			"name": "CNotifyList::RemoveEntity(CBaseEntity*, CBaseEntity*)",
+			"name_mangled": "_ZN11CNotifyList12RemoveEntityEP11CBaseEntityS1_"
+		},
+		{
+			"name": "CNotifyList::ReportNamedEvent(CBaseEntity*, char const*)",
+			"name_mangled": "_ZN11CNotifyList16ReportNamedEventEP11CBaseEntityPKc"
+		},
+		{
+			"name": "CNotifyList::ReportSystemEvent(CBaseEntity*, notify_system_event_t, notify_system_event_params_t const&)",
+			"name_mangled": "_ZN11CNotifyList17ReportSystemEventEP11CBaseEntity21notify_system_event_tRK28notify_system_event_params_t"
+		},
+		{
+			"name": "CNotifyList::ClearEntity(CBaseEntity*)",
+			"name_mangled": "_ZN11CNotifyList11ClearEntityEP11CBaseEntity"
+		},
+		{
+			"name": "CNotifyList::OnEntityCreated(CBaseEntity*)",
+			"name_mangled": "_ZN11CNotifyList15OnEntityCreatedEP11CBaseEntity"
+		},
+		{
+			"name": "CNotifyList::OnEntityDeleted(CBaseEntity*)",
+			"name_mangled": "_ZN11CNotifyList15OnEntityDeletedEP11CBaseEntity"
+		}
+	]
+}

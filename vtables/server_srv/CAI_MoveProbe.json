@@ -1,0 +1,22 @@
+{
+	"classname": "CAI_MoveProbe",
+	"classname_mangled": "_ZTV13CAI_MoveProbe",
+	"members": [
+		{
+			"name": "CAI_MoveProbe::~CAI_MoveProbe()",
+			"name_mangled": "_ZN13CAI_MoveProbeD0Ev"
+		},
+		{
+			"name": "CAI_Component::SetOuter(CAI_BaseNPC*)",
+			"name_mangled": "_ZN13CAI_Component8SetOuterEP11CAI_BaseNPC"
+		},
+		{
+			"name": "CAI_Component::TaskFail(int)",
+			"name_mangled": "_ZN13CAI_Component8TaskFailEi"
+		},
+		{
+			"name": "CAI_Component::TaskComplete(bool)",
+			"name_mangled": "_ZN13CAI_Component12TaskCompleteEb"
+		}
+	]
+}

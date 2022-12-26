@@ -1,0 +1,10 @@
+{
+	"classname": "INetMessage",
+	"classname_mangled": "_ZTV11INetMessage",
+	"members": [
+		{
+			"name": "INetMessage::~INetMessage()",
+			"name_mangled": "_ZN11INetMessageD0Ev"
+		}
+	]
+}

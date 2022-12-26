@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPhysicsPropRespawnable>",
+	"classname_mangled": "_ZTV14CEntityFactoryI23CPhysicsPropRespawnableE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPhysicsPropRespawnable>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI23CPhysicsPropRespawnableE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPhysicsPropRespawnable>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI23CPhysicsPropRespawnableE13GetEntitySizeEv"
+		}
+	]
+}

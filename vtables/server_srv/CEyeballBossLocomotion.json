@@ -1,0 +1,426 @@
+{
+	"classname": "CEyeballBossLocomotion",
+	"classname_mangled": "_ZTV22CEyeballBossLocomotion",
+	"members": [
+		{
+			"name": "CEyeballBossLocomotion::~CEyeballBossLocomotion()",
+			"name_mangled": "_ZN22CEyeballBossLocomotionD0Ev"
+		},
+		{
+			"name": "INextBotEventResponder::FirstContainedResponder() const",
+			"name_mangled": "_ZNK22INextBotEventResponder23FirstContainedResponderEv"
+		},
+		{
+			"name": "INextBotEventResponder::NextContainedResponder(INextBotEventResponder*) const",
+			"name_mangled": "_ZNK22INextBotEventResponder22NextContainedResponderEPS_"
+		},
+		{
+			"name": "ILocomotion::OnLeaveGround(CBaseEntity*)",
+			"name_mangled": "_ZN11ILocomotion13OnLeaveGroundEP11CBaseEntity"
+		},
+		{
+			"name": "ILocomotion::OnLandOnGround(CBaseEntity*)",
+			"name_mangled": "_ZN11ILocomotion14OnLandOnGroundEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnContact(CBaseEntity*, CGameTrace*)",
+			"name_mangled": "_ZN22INextBotEventResponder9OnContactEP11CBaseEntityP10CGameTrace"
+		},
+		{
+			"name": "INextBotEventResponder::OnMoveToSuccess(Path const*)",
+			"name_mangled": "_ZN22INextBotEventResponder15OnMoveToSuccessEPK4Path"
+		},
+		{
+			"name": "INextBotEventResponder::OnMoveToFailure(Path const*, MoveToFailureType)",
+			"name_mangled": "_ZN22INextBotEventResponder15OnMoveToFailureEPK4Path17MoveToFailureType"
+		},
+		{
+			"name": "INextBotEventResponder::OnStuck()",
+			"name_mangled": "_ZN22INextBotEventResponder7OnStuckEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnUnStuck()",
+			"name_mangled": "_ZN22INextBotEventResponder9OnUnStuckEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnPostureChanged()",
+			"name_mangled": "_ZN22INextBotEventResponder16OnPostureChangedEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnAnimationActivityComplete(int)",
+			"name_mangled": "_ZN22INextBotEventResponder27OnAnimationActivityCompleteEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnAnimationActivityInterrupted(int)",
+			"name_mangled": "_ZN22INextBotEventResponder30OnAnimationActivityInterruptedEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnAnimationEvent(animevent_t*)",
+			"name_mangled": "_ZN22INextBotEventResponder16OnAnimationEventEP11animevent_t"
+		},
+		{
+			"name": "INextBotEventResponder::OnIgnite()",
+			"name_mangled": "_ZN22INextBotEventResponder8OnIgniteEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnInjured(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN22INextBotEventResponder9OnInjuredERK15CTakeDamageInfo"
+		},
+		{
+			"name": "INextBotEventResponder::OnKilled(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN22INextBotEventResponder8OnKilledERK15CTakeDamageInfo"
+		},
+		{
+			"name": "INextBotEventResponder::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN22INextBotEventResponder13OnOtherKilledEP20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "INextBotEventResponder::OnSight(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder7OnSightEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnLostSight(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder11OnLostSightEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnSound(CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN22INextBotEventResponder7OnSoundEP11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "INextBotEventResponder::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN22INextBotEventResponder14OnSpokeConceptEP20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "INextBotEventResponder::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN22INextBotEventResponder13OnWeaponFiredEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "INextBotEventResponder::OnNavAreaChanged(CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN22INextBotEventResponder16OnNavAreaChangedEP8CNavAreaS1_"
+		},
+		{
+			"name": "INextBotEventResponder::OnModelChanged()",
+			"name_mangled": "_ZN22INextBotEventResponder14OnModelChangedEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN22INextBotEventResponder8OnPickUpEP11CBaseEntityP20CBaseCombatCharacter"
+		},
+		{
+			"name": "INextBotEventResponder::OnDrop(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder6OnDropEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnActorEmoted(CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN22INextBotEventResponder13OnActorEmotedEP20CBaseCombatCharacteri"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandAttack(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder15OnCommandAttackEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandApproach(Vector const&, float)",
+			"name_mangled": "_ZN22INextBotEventResponder17OnCommandApproachERK6Vectorf"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandApproach(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder17OnCommandApproachEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandRetreat(CBaseEntity*, float)",
+			"name_mangled": "_ZN22INextBotEventResponder16OnCommandRetreatEP11CBaseEntityf"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandPause(float)",
+			"name_mangled": "_ZN22INextBotEventResponder14OnCommandPauseEf"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandResume()",
+			"name_mangled": "_ZN22INextBotEventResponder15OnCommandResumeEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandString(char const*)",
+			"name_mangled": "_ZN22INextBotEventResponder15OnCommandStringEPKc"
+		},
+		{
+			"name": "INextBotEventResponder::OnShoved(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder8OnShovedEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnBlinded(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder9OnBlindedEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnTerritoryContested(int)",
+			"name_mangled": "_ZN22INextBotEventResponder20OnTerritoryContestedEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnTerritoryCaptured(int)",
+			"name_mangled": "_ZN22INextBotEventResponder19OnTerritoryCapturedEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnTerritoryLost(int)",
+			"name_mangled": "_ZN22INextBotEventResponder15OnTerritoryLostEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnWin()",
+			"name_mangled": "_ZN22INextBotEventResponder5OnWinEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnLose()",
+			"name_mangled": "_ZN22INextBotEventResponder6OnLoseEv"
+		},
+		{
+			"name": "CEyeballBossLocomotion::Reset()",
+			"name_mangled": "_ZN22CEyeballBossLocomotion5ResetEv"
+		},
+		{
+			"name": "CEyeballBossLocomotion::Update()",
+			"name_mangled": "_ZN22CEyeballBossLocomotion6UpdateEv"
+		},
+		{
+			"name": "INextBotComponent::Upkeep()",
+			"name_mangled": "_ZN17INextBotComponent6UpkeepEv"
+		},
+		{
+			"name": "INextBotComponent::GetBot() const",
+			"name_mangled": "_ZNK17INextBotComponent6GetBotEv"
+		},
+		{
+			"name": "ILocomotion::GetScriptDesc()",
+			"name_mangled": "_ZN11ILocomotion13GetScriptDescEv"
+		},
+		{
+			"name": "CEyeballBossLocomotion::Approach(Vector const&, float)",
+			"name_mangled": "_ZN22CEyeballBossLocomotion8ApproachERK6Vectorf"
+		},
+		{
+			"name": "ILocomotion::DriveTo(Vector const&)",
+			"name_mangled": "_ZN11ILocomotion7DriveToERK6Vector"
+		},
+		{
+			"name": "ILocomotion::ClimbUpToLedge(Vector const&, Vector const&, CBaseEntity const*)",
+			"name_mangled": "_ZN11ILocomotion14ClimbUpToLedgeERK6VectorS2_PK11CBaseEntity"
+		},
+		{
+			"name": "ILocomotion::JumpAcrossGap(Vector const&, Vector const&)",
+			"name_mangled": "_ZN11ILocomotion13JumpAcrossGapERK6VectorS2_"
+		},
+		{
+			"name": "ILocomotion::Jump()",
+			"name_mangled": "_ZN11ILocomotion4JumpEv"
+		},
+		{
+			"name": "ILocomotion::IsClimbingOrJumping() const",
+			"name_mangled": "_ZNK11ILocomotion19IsClimbingOrJumpingEv"
+		},
+		{
+			"name": "ILocomotion::IsClimbingUpToLedge() const",
+			"name_mangled": "_ZNK11ILocomotion19IsClimbingUpToLedgeEv"
+		},
+		{
+			"name": "ILocomotion::IsJumpingAcrossGap() const",
+			"name_mangled": "_ZNK11ILocomotion18IsJumpingAcrossGapEv"
+		},
+		{
+			"name": "ILocomotion::IsScrambling() const",
+			"name_mangled": "_ZNK11ILocomotion12IsScramblingEv"
+		},
+		{
+			"name": "ILocomotion::Run()",
+			"name_mangled": "_ZN11ILocomotion3RunEv"
+		},
+		{
+			"name": "ILocomotion::Walk()",
+			"name_mangled": "_ZN11ILocomotion4WalkEv"
+		},
+		{
+			"name": "ILocomotion::Stop()",
+			"name_mangled": "_ZN11ILocomotion4StopEv"
+		},
+		{
+			"name": "ILocomotion::IsRunning() const",
+			"name_mangled": "_ZNK11ILocomotion9IsRunningEv"
+		},
+		{
+			"name": "CEyeballBossLocomotion::SetDesiredSpeed(float)",
+			"name_mangled": "_ZN22CEyeballBossLocomotion15SetDesiredSpeedEf"
+		},
+		{
+			"name": "CEyeballBossLocomotion::GetDesiredSpeed() const",
+			"name_mangled": "_ZNK22CEyeballBossLocomotion15GetDesiredSpeedEv"
+		},
+		{
+			"name": "ILocomotion::SetSpeedLimit(float)",
+			"name_mangled": "_ZN11ILocomotion13SetSpeedLimitEf"
+		},
+		{
+			"name": "ILocomotion::GetSpeedLimit() const",
+			"name_mangled": "_ZNK11ILocomotion13GetSpeedLimitEv"
+		},
+		{
+			"name": "ILocomotion::IsOnGround() const",
+			"name_mangled": "_ZNK11ILocomotion10IsOnGroundEv"
+		},
+		{
+			"name": "ILocomotion::GetGround() const",
+			"name_mangled": "_ZNK11ILocomotion9GetGroundEv"
+		},
+		{
+			"name": "CEyeballBossLocomotion::GetGroundNormal() const",
+			"name_mangled": "_ZNK22CEyeballBossLocomotion15GetGroundNormalEv"
+		},
+		{
+			"name": "ILocomotion::GetGroundSpeed() const",
+			"name_mangled": "_ZNK11ILocomotion14GetGroundSpeedEv"
+		},
+		{
+			"name": "ILocomotion::GetGroundMotionVector() const",
+			"name_mangled": "_ZNK11ILocomotion21GetGroundMotionVectorEv"
+		},
+		{
+			"name": "ILocomotion::ClimbLadder(CNavLadder const*, CNavArea const*)",
+			"name_mangled": "_ZN11ILocomotion11ClimbLadderEPK10CNavLadderPK8CNavArea"
+		},
+		{
+			"name": "ILocomotion::DescendLadder(CNavLadder const*, CNavArea const*)",
+			"name_mangled": "_ZN11ILocomotion13DescendLadderEPK10CNavLadderPK8CNavArea"
+		},
+		{
+			"name": "ILocomotion::IsUsingLadder() const",
+			"name_mangled": "_ZNK11ILocomotion13IsUsingLadderEv"
+		},
+		{
+			"name": "ILocomotion::IsAscendingOrDescendingLadder() const",
+			"name_mangled": "_ZNK11ILocomotion29IsAscendingOrDescendingLadderEv"
+		},
+		{
+			"name": "ILocomotion::IsAbleToAutoCenterOnLadder() const",
+			"name_mangled": "_ZNK11ILocomotion26IsAbleToAutoCenterOnLadderEv"
+		},
+		{
+			"name": "CEyeballBossLocomotion::FaceTowards(Vector const&)",
+			"name_mangled": "_ZN22CEyeballBossLocomotion11FaceTowardsERK6Vector"
+		},
+		{
+			"name": "ILocomotion::SetDesiredLean(QAngle const&)",
+			"name_mangled": "_ZN11ILocomotion14SetDesiredLeanERK6QAngle"
+		},
+		{
+			"name": "ILocomotion::GetDesiredLean() const",
+			"name_mangled": "_ZNK11ILocomotion14GetDesiredLeanEv"
+		},
+		{
+			"name": "ILocomotion::IsAbleToJumpAcrossGaps() const",
+			"name_mangled": "_ZNK11ILocomotion22IsAbleToJumpAcrossGapsEv"
+		},
+		{
+			"name": "ILocomotion::IsAbleToClimb() const",
+			"name_mangled": "_ZNK11ILocomotion13IsAbleToClimbEv"
+		},
+		{
+			"name": "CEyeballBossLocomotion::GetFeet() const",
+			"name_mangled": "_ZNK22CEyeballBossLocomotion7GetFeetEv"
+		},
+		{
+			"name": "CEyeballBossLocomotion::GetStepHeight() const",
+			"name_mangled": "_ZNK22CEyeballBossLocomotion13GetStepHeightEv"
+		},
+		{
+			"name": "CEyeballBossLocomotion::GetMaxJumpHeight() const",
+			"name_mangled": "_ZNK22CEyeballBossLocomotion16GetMaxJumpHeightEv"
+		},
+		{
+			"name": "CEyeballBossLocomotion::GetDeathDropHeight() const",
+			"name_mangled": "_ZNK22CEyeballBossLocomotion18GetDeathDropHeightEv"
+		},
+		{
+			"name": "ILocomotion::GetRunSpeed() const",
+			"name_mangled": "_ZNK11ILocomotion11GetRunSpeedEv"
+		},
+		{
+			"name": "ILocomotion::GetWalkSpeed() const",
+			"name_mangled": "_ZNK11ILocomotion12GetWalkSpeedEv"
+		},
+		{
+			"name": "ILocomotion::GetMaxAcceleration() const",
+			"name_mangled": "_ZNK11ILocomotion18GetMaxAccelerationEv"
+		},
+		{
+			"name": "ILocomotion::GetMaxDeceleration() const",
+			"name_mangled": "_ZNK11ILocomotion18GetMaxDecelerationEv"
+		},
+		{
+			"name": "CEyeballBossLocomotion::GetVelocity() const",
+			"name_mangled": "_ZNK22CEyeballBossLocomotion11GetVelocityEv"
+		},
+		{
+			"name": "ILocomotion::GetSpeed() const",
+			"name_mangled": "_ZNK11ILocomotion8GetSpeedEv"
+		},
+		{
+			"name": "ILocomotion::GetMotionVector() const",
+			"name_mangled": "_ZNK11ILocomotion15GetMotionVectorEv"
+		},
+		{
+			"name": "ILocomotion::IsAreaTraversable(CNavArea const*) const",
+			"name_mangled": "_ZNK11ILocomotion17IsAreaTraversableEPK8CNavArea"
+		},
+		{
+			"name": "ILocomotion::GetTraversableSlopeLimit() const",
+			"name_mangled": "_ZNK11ILocomotion24GetTraversableSlopeLimitEv"
+		},
+		{
+			"name": "ILocomotion::IsPotentiallyTraversable(Vector const&, Vector const&, ILocomotion::TraverseWhenType, float*) const",
+			"name_mangled": "_ZNK11ILocomotion24IsPotentiallyTraversableERK6VectorS2_NS_16TraverseWhenTypeEPf"
+		},
+		{
+			"name": "ILocomotion::HasPotentialGap(Vector const&, Vector const&, float*) const",
+			"name_mangled": "_ZNK11ILocomotion15HasPotentialGapERK6VectorS2_Pf"
+		},
+		{
+			"name": "ILocomotion::IsGap(Vector const&, Vector const&) const",
+			"name_mangled": "_ZNK11ILocomotion5IsGapERK6VectorS2_"
+		},
+		{
+			"name": "ILocomotion::IsEntityTraversable(CBaseEntity*, ILocomotion::TraverseWhenType) const",
+			"name_mangled": "_ZNK11ILocomotion19IsEntityTraversableEP11CBaseEntityNS_16TraverseWhenTypeE"
+		},
+		{
+			"name": "ILocomotion::IsStuck() const",
+			"name_mangled": "_ZNK11ILocomotion7IsStuckEv"
+		},
+		{
+			"name": "ILocomotion::GetStuckDuration() const",
+			"name_mangled": "_ZNK11ILocomotion16GetStuckDurationEv"
+		},
+		{
+			"name": "ILocomotion::ClearStuckStatus(char const*)",
+			"name_mangled": "_ZN11ILocomotion16ClearStuckStatusEPKc"
+		},
+		{
+			"name": "ILocomotion::IsAttemptingToMove() const",
+			"name_mangled": "_ZNK11ILocomotion18IsAttemptingToMoveEv"
+		},
+		{
+			"name": "ILocomotion::ShouldCollideWith(CBaseEntity const*) const",
+			"name_mangled": "_ZNK11ILocomotion17ShouldCollideWithEPK11CBaseEntity"
+		},
+		{
+			"name": "ILocomotion::AdjustPosture(Vector const&)",
+			"name_mangled": "_ZN11ILocomotion13AdjustPostureERK6Vector"
+		},
+		{
+			"name": "ILocomotion::StuckMonitor()",
+			"name_mangled": "_ZN11ILocomotion12StuckMonitorEv"
+		},
+		{
+			"name": "CEyeballBossLocomotion::SetDesiredAltitude(float)",
+			"name_mangled": "_ZN22CEyeballBossLocomotion18SetDesiredAltitudeEf"
+		},
+		{
+			"name": "CEyeballBossLocomotion::GetDesiredAltitude() const",
+			"name_mangled": "_ZNK22CEyeballBossLocomotion18GetDesiredAltitudeEv"
+		}
+	]
+}

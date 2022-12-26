@@ -1,0 +1,66 @@
+{
+	"classname": "SVC_GameEventList",
+	"classname_mangled": "_ZTV17SVC_GameEventList",
+	"members": [
+		{
+			"name": "SVC_GameEventList::~SVC_GameEventList()",
+			"name_mangled": "_ZN17SVC_GameEventListD0Ev"
+		},
+		{
+			"name": "CNetMessage::SetNetChannel(INetChannel*)",
+			"name_mangled": "_ZN11CNetMessage13SetNetChannelEP11INetChannel"
+		},
+		{
+			"name": "CNetMessage::SetReliable(bool)",
+			"name_mangled": "_ZN11CNetMessage11SetReliableEb"
+		},
+		{
+			"name": "SVC_GameEventList::Process()",
+			"name_mangled": "_ZN17SVC_GameEventList7ProcessEv"
+		},
+		{
+			"name": "SVC_GameEventList::ReadFromBuffer(bf_read&)",
+			"name_mangled": "_ZN17SVC_GameEventList14ReadFromBufferER7bf_read"
+		},
+		{
+			"name": "SVC_GameEventList::WriteToBuffer(bf_write&)",
+			"name_mangled": "_ZN17SVC_GameEventList13WriteToBufferER8bf_write"
+		},
+		{
+			"name": "CNetMessage::IsReliable() const",
+			"name_mangled": "_ZNK11CNetMessage10IsReliableEv"
+		},
+		{
+			"name": "SVC_GameEventList::GetType() const",
+			"name_mangled": "_ZNK17SVC_GameEventList7GetTypeEv"
+		},
+		{
+			"name": "CNetMessage::GetGroup() const",
+			"name_mangled": "_ZNK11CNetMessage8GetGroupEv"
+		},
+		{
+			"name": "SVC_GameEventList::GetName() const",
+			"name_mangled": "_ZNK17SVC_GameEventList7GetNameEv"
+		},
+		{
+			"name": "CNetMessage::GetNetChannel() const",
+			"name_mangled": "_ZNK11CNetMessage13GetNetChannelEv"
+		},
+		{
+			"name": "SVC_GameEventList::ToString() const",
+			"name_mangled": "_ZNK17SVC_GameEventList8ToStringEv"
+		},
+		{
+			"name": "CNetMessage::BIncomingMessageForProcessing(double, int)",
+			"name_mangled": "_ZN11CNetMessage29BIncomingMessageForProcessingEdi"
+		},
+		{
+			"name": "SVC_GameEventList::GetSize() const",
+			"name_mangled": "_ZNK17SVC_GameEventList7GetSizeEv"
+		},
+		{
+			"name": "CNetMessage::SetRatePolicy()",
+			"name_mangled": "_ZN11CNetMessage13SetRatePolicyEv"
+		}
+	]
+}

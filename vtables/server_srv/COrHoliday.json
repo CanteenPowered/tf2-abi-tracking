@@ -1,0 +1,14 @@
+{
+	"classname": "COrHoliday",
+	"classname_mangled": "_ZTV10COrHoliday",
+	"members": [
+		{
+			"name": "COrHoliday::~COrHoliday()",
+			"name_mangled": "_ZN10COrHolidayD0Ev"
+		},
+		{
+			"name": "COrHoliday::IsActive(CRTime const&)",
+			"name_mangled": "_ZN10COrHoliday8IsActiveERK6CRTime"
+		}
+	]
+}

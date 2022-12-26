@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CGameWeaponManager>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CGameWeaponManagerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CGameWeaponManager>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CGameWeaponManagerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CGameWeaponManager>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CGameWeaponManagerE13GetEntitySizeEv"
+		}
+	]
+}

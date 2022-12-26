@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFWeaponInvis>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CTFWeaponInvisE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFWeaponInvis>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CTFWeaponInvisE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFWeaponInvis>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CTFWeaponInvisE13GetEntitySizeEv"
+		}
+	]
+}

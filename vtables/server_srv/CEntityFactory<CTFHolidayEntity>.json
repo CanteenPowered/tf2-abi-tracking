@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFHolidayEntity>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CTFHolidayEntityE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFHolidayEntity>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFHolidayEntityE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFHolidayEntity>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFHolidayEntityE13GetEntitySizeEv"
+		}
+	]
+}

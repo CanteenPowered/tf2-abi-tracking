@@ -1,0 +1,10 @@
+{
+	"classname": "IPositionWatcher",
+	"classname_mangled": "_ZTV16IPositionWatcher",
+	"members": [
+		{
+			"name": "IPositionWatcher::~IPositionWatcher()",
+			"name_mangled": "_ZN16IPositionWatcherD0Ev"
+		}
+	]
+}

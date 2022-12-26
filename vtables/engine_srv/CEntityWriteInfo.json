@@ -1,0 +1,10 @@
+{
+	"classname": "CEntityWriteInfo",
+	"classname_mangled": "_ZTV16CEntityWriteInfo",
+	"members": [
+		{
+			"name": "CEntityWriteInfo::~CEntityWriteInfo()",
+			"name_mangled": "_ZN16CEntityWriteInfoD0Ev"
+		}
+	]
+}

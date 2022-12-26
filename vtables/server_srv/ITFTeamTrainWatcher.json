@@ -1,0 +1,10 @@
+{
+	"classname": "ITFTeamTrainWatcher",
+	"classname_mangled": "_ZTV19ITFTeamTrainWatcher",
+	"members": [
+		{
+			"name": "ITFTeamTrainWatcher::~ITFTeamTrainWatcher()",
+			"name_mangled": "_ZN19ITFTeamTrainWatcherD0Ev"
+		}
+	]
+}

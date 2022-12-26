@@ -1,0 +1,86 @@
+{
+	"classname": "CLagCompensationManager",
+	"classname_mangled": "_ZTV23CLagCompensationManager",
+	"members": [
+		{
+			"name": "CBaseGameSystemPerFrame::Init()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame4InitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PostInit()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8PostInitEv"
+		},
+		{
+			"name": "CLagCompensationManager::Shutdown()",
+			"name_mangled": "_ZN23CLagCompensationManager8ShutdownEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CLagCompensationManager::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN23CLagCompensationManager23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnSave()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnRestore()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::IsPerFrame()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame10IsPerFrameEv"
+		},
+		{
+			"name": "CLagCompensationManager::~CLagCompensationManager()",
+			"name_mangled": "_ZN23CLagCompensationManagerD2Ev"
+		},
+		{
+			"name": "CLagCompensationManager::~CLagCompensationManager()",
+			"name_mangled": "_ZN23CLagCompensationManagerD0Ev"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CLagCompensationManager::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN23CLagCompensationManager26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PreClientUpdate()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame15PreClientUpdateEv"
+		},
+		{
+			"name": "CLagCompensationManager::StartLagCompensation(CBasePlayer*, CUserCmd*)",
+			"name_mangled": "_ZN23CLagCompensationManager20StartLagCompensationEP11CBasePlayerP8CUserCmd"
+		},
+		{
+			"name": "CLagCompensationManager::FinishLagCompensation(CBasePlayer*)",
+			"name_mangled": "_ZN23CLagCompensationManager21FinishLagCompensationEP11CBasePlayer"
+		},
+		{
+			"name": "CLagCompensationManager::IsCurrentlyDoingLagCompensation() const",
+			"name_mangled": "_ZNK23CLagCompensationManager31IsCurrentlyDoingLagCompensationEv"
+		}
+	]
+}

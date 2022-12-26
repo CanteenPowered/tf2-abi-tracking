@@ -1,0 +1,14 @@
+{
+	"classname": "CServerDLLSharedAppSystems",
+	"classname_mangled": "_ZTV26CServerDLLSharedAppSystems",
+	"members": [
+		{
+			"name": "CServerDLLSharedAppSystems::GetDllName(int)",
+			"name_mangled": "_ZN26CServerDLLSharedAppSystems10GetDllNameEi"
+		},
+		{
+			"name": "CServerDLLSharedAppSystems::GetInterfaceName(int)",
+			"name_mangled": "_ZN26CServerDLLSharedAppSystems16GetInterfaceNameEi"
+		}
+	]
+}

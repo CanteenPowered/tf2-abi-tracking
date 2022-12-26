@@ -1,0 +1,94 @@
+{
+	"classname": "CEngineTraceServer",
+	"classname_mangled": "_ZTV18CEngineTraceServer",
+	"members": [
+		{
+			"name": "CEngineTrace::GetPointContents_Collideable(ICollideable*, Vector const&)",
+			"name_mangled": "_ZN12CEngineTrace28GetPointContents_CollideableEP12ICollideableRK6Vector"
+		},
+		{
+			"name": "CEngineTrace::ClipRayToEntity(Ray_t const&, unsigned int, IHandleEntity*, CGameTrace*)",
+			"name_mangled": "_ZN12CEngineTrace15ClipRayToEntityERK5Ray_tjP13IHandleEntityP10CGameTrace"
+		},
+		{
+			"name": "CEngineTrace::ClipRayToCollideable(Ray_t const&, unsigned int, ICollideable*, CGameTrace*)",
+			"name_mangled": "_ZN12CEngineTrace20ClipRayToCollideableERK5Ray_tjP12ICollideableP10CGameTrace"
+		},
+		{
+			"name": "CEngineTrace::TraceRay(Ray_t const&, unsigned int, ITraceFilter*, CGameTrace*)",
+			"name_mangled": "_ZN12CEngineTrace8TraceRayERK5Ray_tjP12ITraceFilterP10CGameTrace"
+		},
+		{
+			"name": "CEngineTrace::SetupLeafAndEntityListRay(Ray_t const&, CTraceListData&)",
+			"name_mangled": "_ZN12CEngineTrace25SetupLeafAndEntityListRayERK5Ray_tR14CTraceListData"
+		},
+		{
+			"name": "CEngineTrace::SetupLeafAndEntityListBox(Vector const&, Vector const&, CTraceListData&)",
+			"name_mangled": "_ZN12CEngineTrace25SetupLeafAndEntityListBoxERK6VectorS2_R14CTraceListData"
+		},
+		{
+			"name": "CEngineTrace::TraceRayAgainstLeafAndEntityList(Ray_t const&, CTraceListData&, unsigned int, ITraceFilter*, CGameTrace*)",
+			"name_mangled": "_ZN12CEngineTrace32TraceRayAgainstLeafAndEntityListERK5Ray_tR14CTraceListDatajP12ITraceFilterP10CGameTrace"
+		},
+		{
+			"name": "CEngineTrace::SweepCollideable(ICollideable*, Vector const&, Vector const&, QAngle const&, unsigned int, ITraceFilter*, CGameTrace*)",
+			"name_mangled": "_ZN12CEngineTrace16SweepCollideableEP12ICollideableRK6VectorS4_RK6QAnglejP12ITraceFilterP10CGameTrace"
+		},
+		{
+			"name": "CEngineTrace::EnumerateEntities(Ray_t const&, bool, IEntityEnumerator*)",
+			"name_mangled": "_ZN12CEngineTrace17EnumerateEntitiesERK5Ray_tbP17IEntityEnumerator"
+		},
+		{
+			"name": "CEngineTrace::EnumerateEntities(Vector const&, Vector const&, IEntityEnumerator*)",
+			"name_mangled": "_ZN12CEngineTrace17EnumerateEntitiesERK6VectorS2_P17IEntityEnumerator"
+		},
+		{
+			"name": "CEngineTraceServer::GetCollideable(IHandleEntity*)",
+			"name_mangled": "_ZN18CEngineTraceServer14GetCollideableEP13IHandleEntity"
+		},
+		{
+			"name": "CEngineTrace::GetStatByIndex(int, bool)",
+			"name_mangled": "_ZN12CEngineTrace14GetStatByIndexEib"
+		},
+		{
+			"name": "CEngineTrace::GetBrushesInAABB(Vector const&, Vector const&, CUtlVector<int, CUtlMemory<int, int>>*, int)",
+			"name_mangled": "_ZN12CEngineTrace16GetBrushesInAABBERK6VectorS2_P10CUtlVectorIi10CUtlMemoryIiiEEi"
+		},
+		{
+			"name": "CEngineTrace::GetCollidableFromDisplacementsInAABB(Vector const&, Vector const&)",
+			"name_mangled": "_ZN12CEngineTrace36GetCollidableFromDisplacementsInAABBERK6VectorS2_"
+		},
+		{
+			"name": "CEngineTrace::GetBrushInfo(int, CUtlVector<Vector4D, CUtlMemory<Vector4D, int>>*, int*)",
+			"name_mangled": "_ZN12CEngineTrace12GetBrushInfoEiP10CUtlVectorI8Vector4D10CUtlMemoryIS1_iEEPi"
+		},
+		{
+			"name": "CEngineTrace::PointOutsideWorld(Vector const&)",
+			"name_mangled": "_ZN12CEngineTrace17PointOutsideWorldERK6Vector"
+		},
+		{
+			"name": "CEngineTrace::GetLeafContainingPoint(Vector const&)",
+			"name_mangled": "_ZN12CEngineTrace22GetLeafContainingPointERK6Vector"
+		},
+		{
+			"name": "CEngineTraceServer::HandleEntityToCollideable(IHandleEntity*, ICollideable**, char const**)",
+			"name_mangled": "_ZN18CEngineTraceServer25HandleEntityToCollideableEP13IHandleEntityPP12ICollideablePPKc"
+		},
+		{
+			"name": "CEngineTraceServer::GetWorldCollideable()",
+			"name_mangled": "_ZN18CEngineTraceServer19GetWorldCollideableEv"
+		},
+		{
+			"name": "CEngineTraceServer::SetTraceEntity(ICollideable*, CGameTrace*)",
+			"name_mangled": "_ZN18CEngineTraceServer14SetTraceEntityEP12ICollideableP10CGameTrace"
+		},
+		{
+			"name": "CEngineTraceServer::SpatialPartitionMask() const",
+			"name_mangled": "_ZNK18CEngineTraceServer20SpatialPartitionMaskEv"
+		},
+		{
+			"name": "CEngineTraceServer::SpatialPartitionTriggerMask() const",
+			"name_mangled": "_ZNK18CEngineTraceServer27SpatialPartitionTriggerMaskEv"
+		}
+	]
+}

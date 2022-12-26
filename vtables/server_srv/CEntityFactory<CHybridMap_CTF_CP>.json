@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CHybridMap_CTF_CP>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CHybridMap_CTF_CPE",
+	"members": [
+		{
+			"name": "CEntityFactory<CHybridMap_CTF_CP>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CHybridMap_CTF_CPE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CHybridMap_CTF_CP>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CHybridMap_CTF_CPE13GetEntitySizeEv"
+		}
+	]
+}

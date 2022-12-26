@@ -1,0 +1,90 @@
+{
+	"classname": "CTFQuestAndOperatorRestriction",
+	"classname_mangled": "_ZTV30CTFQuestAndOperatorRestriction",
+	"members": [
+		{
+			"name": "CTFQuestAndOperatorRestriction::~CTFQuestAndOperatorRestriction()",
+			"name_mangled": "_ZN30CTFQuestAndOperatorRestrictionD0Ev"
+		},
+		{
+			"name": "CTFQuestRestriction::GetBaseName() const",
+			"name_mangled": "_ZNK19CTFQuestRestriction11GetBaseNameEv"
+		},
+		{
+			"name": "CTFQuestCondition::GetConditionName() const",
+			"name_mangled": "_ZNK17CTFQuestCondition16GetConditionNameEv"
+		},
+		{
+			"name": "CTFQuestCondition::GetValueString() const",
+			"name_mangled": "_ZNK17CTFQuestCondition14GetValueStringEv"
+		},
+		{
+			"name": "CTFQuestOperatorRestriction::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN27CTFQuestOperatorRestriction11BInitFromKVEP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		},
+		{
+			"name": "CTFQuestOperatorRestriction::PrintDebugText() const",
+			"name_mangled": "_ZNK27CTFQuestOperatorRestriction14PrintDebugTextEv"
+		},
+		{
+			"name": "CTFQuestCondition::GetQuestOwner() const",
+			"name_mangled": "_ZNK17CTFQuestCondition13GetQuestOwnerEv"
+		},
+		{
+			"name": "CTFQuestAndOperatorRestriction::IsValidForPlayer(CTFPlayer const*, InvalidReason&) const",
+			"name_mangled": "_ZNK30CTFQuestAndOperatorRestriction16IsValidForPlayerEPK9CTFPlayerR13InvalidReason"
+		},
+		{
+			"name": "CTFQuestOperatorRestriction::IsOperator() const",
+			"name_mangled": "_ZNK27CTFQuestOperatorRestriction10IsOperatorEv"
+		},
+		{
+			"name": "CTFQuestCondition::IsEvaluator() const",
+			"name_mangled": "_ZNK17CTFQuestCondition11IsEvaluatorEv"
+		},
+		{
+			"name": "CTFQuestOperatorRestriction::AddChildByName(char const*)",
+			"name_mangled": "_ZN27CTFQuestOperatorRestriction14AddChildByNameEPKc"
+		},
+		{
+			"name": "CTFQuestOperatorRestriction::GetChildren(CUtlVector<CTFQuestCondition*, CUtlMemory<CTFQuestCondition*, int>>&)",
+			"name_mangled": "_ZN27CTFQuestOperatorRestriction11GetChildrenER10CUtlVectorIP17CTFQuestCondition10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CTFQuestOperatorRestriction::RemoveAndDeleteChild(CTFQuestCondition*)",
+			"name_mangled": "_ZN27CTFQuestOperatorRestriction20RemoveAndDeleteChildEP17CTFQuestCondition"
+		},
+		{
+			"name": "CTFQuestCondition::GetRequiredParamKeys(KeyValues*)",
+			"name_mangled": "_ZN17CTFQuestCondition20GetRequiredParamKeysEP9KeyValues"
+		},
+		{
+			"name": "CTFQuestCondition::GetOutputKeyValues(KeyValues*)",
+			"name_mangled": "_ZN17CTFQuestCondition18GetOutputKeyValuesEP9KeyValues"
+		},
+		{
+			"name": "CTFQuestRestriction::GetValidTypes(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const",
+			"name_mangled": "_ZNK19CTFQuestRestriction13GetValidTypesER10CUtlVectorIPKc10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CTFQuestRestriction::GetValidChildren(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const",
+			"name_mangled": "_ZNK19CTFQuestRestriction16GetValidChildrenER10CUtlVectorIPKc10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CTFQuestOperatorRestriction::GetMaxInputCount() const",
+			"name_mangled": "_ZNK27CTFQuestOperatorRestriction16GetMaxInputCountEv"
+		},
+		{
+			"name": "CTFQuestRestriction::GetEventName() const",
+			"name_mangled": "_ZNK19CTFQuestRestriction12GetEventNameEv"
+		},
+		{
+			"name": "CTFQuestRestriction::SetEventName(char const*)",
+			"name_mangled": "_ZN19CTFQuestRestriction12SetEventNameEPKc"
+		},
+		{
+			"name": "CTFQuestAndOperatorRestriction::PassesRestrictions(IGameEvent*) const",
+			"name_mangled": "_ZNK30CTFQuestAndOperatorRestriction18PassesRestrictionsEP10IGameEvent"
+		}
+	]
+}

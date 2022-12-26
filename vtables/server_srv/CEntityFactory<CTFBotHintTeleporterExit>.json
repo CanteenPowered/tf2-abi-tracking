@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFBotHintTeleporterExit>",
+	"classname_mangled": "_ZTV14CEntityFactoryI24CTFBotHintTeleporterExitE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFBotHintTeleporterExit>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI24CTFBotHintTeleporterExitE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFBotHintTeleporterExit>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI24CTFBotHintTeleporterExitE13GetEntitySizeEv"
+		}
+	]
+}

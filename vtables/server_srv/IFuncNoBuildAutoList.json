@@ -1,0 +1,10 @@
+{
+	"classname": "IFuncNoBuildAutoList",
+	"classname_mangled": "_ZTV20IFuncNoBuildAutoList",
+	"members": [
+		{
+			"name": "IFuncNoBuildAutoList::~IFuncNoBuildAutoList()",
+			"name_mangled": "_ZN20IFuncNoBuildAutoListD0Ev"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgHalloween_Merasmus2012>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI26CMsgHalloween_Merasmus2012EE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgHalloween_Merasmus2012>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI26CMsgHalloween_Merasmus2012ED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgHalloween_Merasmus2012>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI26CMsgHalloween_Merasmus2012E14GetGenericBodyEv"
+		}
+	]
+}

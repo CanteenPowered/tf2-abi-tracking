@@ -1,0 +1,22 @@
+{
+	"classname": "CVariantSaveDataOps",
+	"classname_mangled": "_ZTV19CVariantSaveDataOps",
+	"members": [
+		{
+			"name": "CVariantSaveDataOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)",
+			"name_mangled": "_ZN19CVariantSaveDataOps7RestoreERK22SaveRestoreFieldInfo_tP8IRestore"
+		},
+		{
+			"name": "CVariantSaveDataOps::IsEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN19CVariantSaveDataOps7IsEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CVariantSaveDataOps::MakeEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN19CVariantSaveDataOps9MakeEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)",
+			"name_mangled": "_ZN18CDefSaveRestoreOps5ParseERK22SaveRestoreFieldInfo_tPKc"
+		}
+	]
+}

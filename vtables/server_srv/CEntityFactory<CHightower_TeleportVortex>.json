@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CHightower_TeleportVortex>",
+	"classname_mangled": "_ZTV14CEntityFactoryI25CHightower_TeleportVortexE",
+	"members": [
+		{
+			"name": "CEntityFactory<CHightower_TeleportVortex>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI25CHightower_TeleportVortexE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CHightower_TeleportVortex>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI25CHightower_TeleportVortexE13GetEntitySizeEv"
+		}
+	]
+}

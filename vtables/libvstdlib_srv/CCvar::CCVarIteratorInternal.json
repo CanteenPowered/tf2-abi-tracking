@@ -1,0 +1,26 @@
+{
+	"classname": "CCvar::CCVarIteratorInternal",
+	"classname_mangled": "_ZTVN5CCvar21CCVarIteratorInternalE",
+	"members": [
+		{
+			"name": "CCvar::CCVarIteratorInternal::~CCVarIteratorInternal()",
+			"name_mangled": "_ZN5CCvar21CCVarIteratorInternalD0Ev"
+		},
+		{
+			"name": "CCvar::CCVarIteratorInternal::SetFirst()",
+			"name_mangled": "_ZN5CCvar21CCVarIteratorInternal8SetFirstEv"
+		},
+		{
+			"name": "CCvar::CCVarIteratorInternal::Next()",
+			"name_mangled": "_ZN5CCvar21CCVarIteratorInternal4NextEv"
+		},
+		{
+			"name": "CCvar::CCVarIteratorInternal::IsValid()",
+			"name_mangled": "_ZN5CCvar21CCVarIteratorInternal7IsValidEv"
+		},
+		{
+			"name": "CCvar::CCVarIteratorInternal::Get()",
+			"name_mangled": "_ZN5CCvar21CCVarIteratorInternal3GetEv"
+		}
+	]
+}

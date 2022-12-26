@@ -1,0 +1,10 @@
+{
+	"classname": "IPredictionSystem",
+	"classname_mangled": "_ZTV17IPredictionSystem",
+	"members": [
+		{
+			"name": "IPredictionSystem::~IPredictionSystem()",
+			"name_mangled": "_ZN17IPredictionSystemD0Ev"
+		}
+	]
+}

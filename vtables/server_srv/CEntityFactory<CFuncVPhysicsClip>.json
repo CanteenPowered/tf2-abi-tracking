@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncVPhysicsClip>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CFuncVPhysicsClipE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncVPhysicsClip>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CFuncVPhysicsClipE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncVPhysicsClip>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CFuncVPhysicsClipE13GetEntitySizeEv"
+		}
+	]
+}

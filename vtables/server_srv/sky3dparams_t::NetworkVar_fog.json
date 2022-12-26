@@ -1,0 +1,10 @@
+{
+	"classname": "sky3dparams_t::NetworkVar_fog",
+	"classname_mangled": "_ZTVN13sky3dparams_t14NetworkVar_fogE",
+	"members": [
+		{
+			"name": "sky3dparams_t::NetworkVar_fog::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN13sky3dparams_t14NetworkVar_fog19NetworkStateChangedEPv"
+		}
+	]
+}

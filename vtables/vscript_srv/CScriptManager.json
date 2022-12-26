@@ -1,0 +1,30 @@
+{
+	"classname": "CScriptManager",
+	"classname_mangled": "_ZTV14CScriptManager",
+	"members": [
+		{
+			"name": "CTier1AppSystem<IScriptManager, 0>::Disconnect()",
+			"name_mangled": "_ZN15CTier1AppSystemI14IScriptManagerLi0EE10DisconnectEv"
+		},
+		{
+			"name": "CBaseAppSystem<IScriptManager>::QueryInterface(char const*)",
+			"name_mangled": "_ZN14CBaseAppSystemI14IScriptManagerE14QueryInterfaceEPKc"
+		},
+		{
+			"name": "CTier1AppSystem<IScriptManager, 0>::Init()",
+			"name_mangled": "_ZN15CTier1AppSystemI14IScriptManagerLi0EE4InitEv"
+		},
+		{
+			"name": "CTier1AppSystem<IScriptManager, 0>::Shutdown()",
+			"name_mangled": "_ZN15CTier1AppSystemI14IScriptManagerLi0EE8ShutdownEv"
+		},
+		{
+			"name": "CScriptManager::CreateVM(ScriptLanguage_t)",
+			"name_mangled": "_ZN14CScriptManager8CreateVME16ScriptLanguage_t"
+		},
+		{
+			"name": "CScriptManager::DestroyVM(IScriptVM*)",
+			"name_mangled": "_ZN14CScriptManager9DestroyVMEP9IScriptVM"
+		}
+	]
+}

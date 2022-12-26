@@ -1,0 +1,10 @@
+{
+	"classname": "IGameEvent",
+	"classname_mangled": "_ZTV10IGameEvent",
+	"members": [
+		{
+			"name": "IGameEvent::~IGameEvent()",
+			"name_mangled": "_ZN10IGameEventD0Ev"
+		}
+	]
+}

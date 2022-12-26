@@ -1,0 +1,14 @@
+{
+	"classname": "CPhysicsPushedEntities",
+	"classname_mangled": "_ZTV22CPhysicsPushedEntities",
+	"members": [
+		{
+			"name": "CPhysicsPushedEntities::SpeculativelyCheckLinearPush(Vector const&)",
+			"name_mangled": "_ZN22CPhysicsPushedEntities28SpeculativelyCheckLinearPushERK6Vector"
+		},
+		{
+			"name": "CPhysicsPushedEntities::FinishRotPushedEntity(CBaseEntity*, CPhysicsPushedEntities::RotatingPushMove_t const&)",
+			"name_mangled": "_ZN22CPhysicsPushedEntities21FinishRotPushedEntityEP11CBaseEntityRKNS_18RotatingPushMove_tE"
+		}
+	]
+}

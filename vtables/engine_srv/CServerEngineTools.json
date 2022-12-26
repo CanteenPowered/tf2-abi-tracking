@@ -1,0 +1,50 @@
+{
+	"classname": "CServerEngineTools",
+	"classname_mangled": "_ZTV18CServerEngineTools",
+	"members": [
+		{
+			"name": "CServerEngineTools::~CServerEngineTools()",
+			"name_mangled": "_ZN18CServerEngineToolsD0Ev"
+		},
+		{
+			"name": "CServerEngineTools::LevelInitPreEntityAllTools()",
+			"name_mangled": "_ZN18CServerEngineTools26LevelInitPreEntityAllToolsEv"
+		},
+		{
+			"name": "CServerEngineTools::LevelInitPostEntityAllTools()",
+			"name_mangled": "_ZN18CServerEngineTools27LevelInitPostEntityAllToolsEv"
+		},
+		{
+			"name": "CServerEngineTools::LevelShutdownPreEntityAllTools()",
+			"name_mangled": "_ZN18CServerEngineTools30LevelShutdownPreEntityAllToolsEv"
+		},
+		{
+			"name": "CServerEngineTools::LevelShutdownPostEntityAllTools()",
+			"name_mangled": "_ZN18CServerEngineTools31LevelShutdownPostEntityAllToolsEv"
+		},
+		{
+			"name": "CServerEngineTools::FrameUpdatePreEntityThinkAllTools()",
+			"name_mangled": "_ZN18CServerEngineTools33FrameUpdatePreEntityThinkAllToolsEv"
+		},
+		{
+			"name": "CServerEngineTools::FrameUpdatePostEntityThinkAllTools()",
+			"name_mangled": "_ZN18CServerEngineTools34FrameUpdatePostEntityThinkAllToolsEv"
+		},
+		{
+			"name": "CServerEngineTools::PreClientUpdateAllTools()",
+			"name_mangled": "_ZN18CServerEngineTools23PreClientUpdateAllToolsEv"
+		},
+		{
+			"name": "CServerEngineTools::GetEntityData(char const*)",
+			"name_mangled": "_ZN18CServerEngineTools13GetEntityDataEPKc"
+		},
+		{
+			"name": "CServerEngineTools::PreSetupVisibilityAllTools()",
+			"name_mangled": "_ZN18CServerEngineTools26PreSetupVisibilityAllToolsEv"
+		},
+		{
+			"name": "CServerEngineTools::InToolMode()",
+			"name_mangled": "_ZN18CServerEngineTools10InToolModeEv"
+		}
+	]
+}

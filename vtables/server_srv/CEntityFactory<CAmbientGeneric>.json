@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAmbientGeneric>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CAmbientGenericE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAmbientGeneric>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CAmbientGenericE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAmbientGeneric>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CAmbientGenericE13GetEntitySizeEv"
+		}
+	]
+}

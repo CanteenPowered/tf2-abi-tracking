@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFKatana>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9CTFKatanaE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFKatana>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9CTFKatanaE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFKatana>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9CTFKatanaE13GetEntitySizeEv"
+		}
+	]
+}

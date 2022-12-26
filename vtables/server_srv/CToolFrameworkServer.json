@@ -1,0 +1,78 @@
+{
+	"classname": "CToolFrameworkServer",
+	"classname_mangled": "_ZTV20CToolFrameworkServer",
+	"members": [
+		{
+			"name": "CToolFrameworkServer::Init()",
+			"name_mangled": "_ZN20CToolFrameworkServer4InitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PostInit()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8PostInitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::Shutdown()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8ShutdownEv"
+		},
+		{
+			"name": "CToolFrameworkServer::LevelInitPreEntity()",
+			"name_mangled": "_ZN20CToolFrameworkServer18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CToolFrameworkServer::LevelInitPostEntity()",
+			"name_mangled": "_ZN20CToolFrameworkServer19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CToolFrameworkServer::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN20CToolFrameworkServer22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CToolFrameworkServer::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN20CToolFrameworkServer23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnSave()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnRestore()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::IsPerFrame()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame10IsPerFrameEv"
+		},
+		{
+			"name": "CToolFrameworkServer::~CToolFrameworkServer()",
+			"name_mangled": "_ZN20CToolFrameworkServerD2Ev"
+		},
+		{
+			"name": "CToolFrameworkServer::~CToolFrameworkServer()",
+			"name_mangled": "_ZN20CToolFrameworkServerD0Ev"
+		},
+		{
+			"name": "CToolFrameworkServer::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN20CToolFrameworkServer25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CToolFrameworkServer::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN20CToolFrameworkServer26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CToolFrameworkServer::PreClientUpdate()",
+			"name_mangled": "_ZN20CToolFrameworkServer15PreClientUpdateEv"
+		},
+		{
+			"name": "CToolFrameworkServer::PreSetupVisibility()",
+			"name_mangled": "_ZN20CToolFrameworkServer18PreSetupVisibilityEv"
+		}
+	]
+}

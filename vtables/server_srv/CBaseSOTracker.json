@@ -1,0 +1,14 @@
+{
+	"classname": "CBaseSOTracker",
+	"classname_mangled": "_ZTV14CBaseSOTracker",
+	"members": [
+		{
+			"name": "CBaseSOTracker::~CBaseSOTracker()",
+			"name_mangled": "_ZN14CBaseSOTrackerD0Ev"
+		},
+		{
+			"name": "CBaseSOTracker::Spew() const",
+			"name_mangled": "_ZNK14CBaseSOTracker4SpewEv"
+		}
+	]
+}

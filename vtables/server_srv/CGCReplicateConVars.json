@@ -1,0 +1,34 @@
+{
+	"classname": "CGCReplicateConVars",
+	"classname_mangled": "_ZTV19CGCReplicateConVars",
+	"members": [
+		{
+			"name": "CGCReplicateConVars::~CGCReplicateConVars()",
+			"name_mangled": "_ZN19CGCReplicateConVarsD0Ev"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunJob(void*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob15BYieldingRunJobEPv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob22BYieldingRunJobFromMsgEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob24CHeartbeatsBeforeTimeoutEv"
+		},
+		{
+			"name": "CGCReplicateConVars::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN19CGCReplicateConVars17BYieldingRunGCJobEPN5GCSDK13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::GetServerType()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob13GetServerTypeEv"
+		}
+	]
+}

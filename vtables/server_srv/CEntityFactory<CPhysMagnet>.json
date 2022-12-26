@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPhysMagnet>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CPhysMagnetE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPhysMagnet>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CPhysMagnetE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPhysMagnet>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CPhysMagnetE13GetEntitySizeEv"
+		}
+	]
+}

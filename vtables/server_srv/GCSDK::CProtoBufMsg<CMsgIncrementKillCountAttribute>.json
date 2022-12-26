@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgIncrementKillCountAttribute>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI31CMsgIncrementKillCountAttributeEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgIncrementKillCountAttribute>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI31CMsgIncrementKillCountAttributeED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgIncrementKillCountAttribute>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI31CMsgIncrementKillCountAttributeE14GetGenericBodyEv"
+		}
+	]
+}

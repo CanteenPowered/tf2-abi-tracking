@@ -1,0 +1,14 @@
+{
+	"classname": "google::protobuf::internal::DescriptorPoolExtensionFinder",
+	"classname_mangled": "_ZTVN6google8protobuf8internal29DescriptorPoolExtensionFinderE",
+	"members": [
+		{
+			"name": "google::protobuf::internal::DescriptorPoolExtensionFinder::~DescriptorPoolExtensionFinder()",
+			"name_mangled": "_ZN6google8protobuf8internal29DescriptorPoolExtensionFinderD0Ev"
+		},
+		{
+			"name": "google::protobuf::internal::DescriptorPoolExtensionFinder::Find(int, google::protobuf::internal::ExtensionInfo*)",
+			"name_mangled": "_ZN6google8protobuf8internal29DescriptorPoolExtensionFinder4FindEiPNS1_13ExtensionInfoE"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "IBreakablePropAutoList",
+	"classname_mangled": "_ZTV22IBreakablePropAutoList",
+	"members": [
+		{
+			"name": "IBreakablePropAutoList::~IBreakablePropAutoList()",
+			"name_mangled": "_ZN22IBreakablePropAutoListD0Ev"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"classname": "CAI_EnemiesListSaveRestoreOps",
+	"classname_mangled": "_ZTV29CAI_EnemiesListSaveRestoreOps",
+	"members": [
+		{
+			"name": "CAI_EnemiesListSaveRestoreOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)",
+			"name_mangled": "_ZN29CAI_EnemiesListSaveRestoreOps7RestoreERK22SaveRestoreFieldInfo_tP8IRestore"
+		},
+		{
+			"name": "CAI_EnemiesListSaveRestoreOps::IsEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN29CAI_EnemiesListSaveRestoreOps7IsEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CAI_EnemiesListSaveRestoreOps::MakeEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN29CAI_EnemiesListSaveRestoreOps9MakeEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)",
+			"name_mangled": "_ZN18CDefSaveRestoreOps5ParseERK22SaveRestoreFieldInfo_tPKc"
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"classname": "CSOTFLadderPlayerStats",
+	"classname_mangled": "_ZTV22CSOTFLadderPlayerStats",
+	"members": [
+		{
+			"name": "CSOTFLadderPlayerStats::~CSOTFLadderPlayerStats()",
+			"name_mangled": "_ZN22CSOTFLadderPlayerStatsD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CSOTFLadderPlayerStats::New() const",
+			"name_mangled": "_ZNK22CSOTFLadderPlayerStats3NewEv"
+		},
+		{
+			"name": "CSOTFLadderPlayerStats::Clear()",
+			"name_mangled": "_ZN22CSOTFLadderPlayerStats5ClearEv"
+		},
+		{
+			"name": "CSOTFLadderPlayerStats::IsInitialized() const",
+			"name_mangled": "_ZNK22CSOTFLadderPlayerStats13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CSOTFLadderPlayerStats::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN22CSOTFLadderPlayerStats27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CSOTFLadderPlayerStats::ByteSize() const",
+			"name_mangled": "_ZNK22CSOTFLadderPlayerStats8ByteSizeEv"
+		},
+		{
+			"name": "CSOTFLadderPlayerStats::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK22CSOTFLadderPlayerStats24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CSOTFLadderPlayerStats::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK22CSOTFLadderPlayerStats31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CSOTFLadderPlayerStats::GetCachedSize() const",
+			"name_mangled": "_ZNK22CSOTFLadderPlayerStats13GetCachedSizeEv"
+		},
+		{
+			"name": "CSOTFLadderPlayerStats::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN22CSOTFLadderPlayerStats8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CSOTFLadderPlayerStats::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN22CSOTFLadderPlayerStats9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CSOTFLadderPlayerStats::SetCachedSize(int) const",
+			"name_mangled": "_ZNK22CSOTFLadderPlayerStats13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CSOTFLadderPlayerStats::GetMetadata() const",
+			"name_mangled": "_ZNK22CSOTFLadderPlayerStats11GetMetadataEv"
+		}
+	]
+}

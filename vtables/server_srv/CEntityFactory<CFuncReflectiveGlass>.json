@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncReflectiveGlass>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CFuncReflectiveGlassE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncReflectiveGlass>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CFuncReflectiveGlassE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncReflectiveGlass>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CFuncReflectiveGlassE13GetEntitySizeEv"
+		}
+	]
+}

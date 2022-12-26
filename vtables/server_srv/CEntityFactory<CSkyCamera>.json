@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CSkyCamera>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10CSkyCameraE",
+	"members": [
+		{
+			"name": "CEntityFactory<CSkyCamera>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10CSkyCameraE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CSkyCamera>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10CSkyCameraE13GetEntitySizeEv"
+		}
+	]
+}

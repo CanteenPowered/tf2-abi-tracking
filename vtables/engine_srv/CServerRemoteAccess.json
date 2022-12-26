@@ -1,0 +1,26 @@
+{
+	"classname": "CServerRemoteAccess",
+	"classname_mangled": "_ZTV19CServerRemoteAccess",
+	"members": [
+		{
+			"name": "CServerRemoteAccess::~CServerRemoteAccess()",
+			"name_mangled": "_ZN19CServerRemoteAccessD0Ev"
+		},
+		{
+			"name": "CServerRemoteAccess::WriteDataRequest(unsigned int, void const*, int)",
+			"name_mangled": "_ZN19CServerRemoteAccess16WriteDataRequestEjPKvi"
+		},
+		{
+			"name": "CServerRemoteAccess::ReadDataResponse(unsigned int, void*, int)",
+			"name_mangled": "_ZN19CServerRemoteAccess16ReadDataResponseEjPvi"
+		},
+		{
+			"name": "CServerRemoteAccess::GetNextListenerID(bool, netadr_s const*)",
+			"name_mangled": "_ZN19CServerRemoteAccess17GetNextListenerIDEbPK8netadr_s"
+		},
+		{
+			"name": "CServerRemoteAccess::RegisterAdminUIID(unsigned int)",
+			"name_mangled": "_ZN19CServerRemoteAccess17RegisterAdminUIIDEj"
+		}
+	]
+}

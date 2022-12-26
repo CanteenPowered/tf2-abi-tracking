@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CSmokeStack>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CSmokeStackE",
+	"members": [
+		{
+			"name": "CEntityFactory<CSmokeStack>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CSmokeStackE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CSmokeStack>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CSmokeStackE13GetEntitySizeEv"
+		}
+	]
+}

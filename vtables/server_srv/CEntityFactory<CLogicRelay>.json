@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CLogicRelay>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CLogicRelayE",
+	"members": [
+		{
+			"name": "CEntityFactory<CLogicRelay>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CLogicRelayE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CLogicRelay>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CLogicRelayE13GetEntitySizeEv"
+		}
+	]
+}

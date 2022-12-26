@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CMedievalLogic>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CMedievalLogicE",
+	"members": [
+		{
+			"name": "CEntityFactory<CMedievalLogic>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CMedievalLogicE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CMedievalLogic>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CMedievalLogicE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEnvScreenOverlay>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CEnvScreenOverlayE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEnvScreenOverlay>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CEnvScreenOverlayE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEnvScreenOverlay>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CEnvScreenOverlayE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFRuneTempCrit>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CTFRuneTempCritE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFRuneTempCrit>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CTFRuneTempCritE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFRuneTempCrit>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CTFRuneTempCritE13GetEntitySizeEv"
+		}
+	]
+}

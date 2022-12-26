@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgAMAddFreeLicense",
+	"classname_mangled": "_ZTV20CMsgAMAddFreeLicense",
+	"members": [
+		{
+			"name": "CMsgAMAddFreeLicense::~CMsgAMAddFreeLicense()",
+			"name_mangled": "_ZN20CMsgAMAddFreeLicenseD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgAMAddFreeLicense::New() const",
+			"name_mangled": "_ZNK20CMsgAMAddFreeLicense3NewEv"
+		},
+		{
+			"name": "CMsgAMAddFreeLicense::Clear()",
+			"name_mangled": "_ZN20CMsgAMAddFreeLicense5ClearEv"
+		},
+		{
+			"name": "CMsgAMAddFreeLicense::IsInitialized() const",
+			"name_mangled": "_ZNK20CMsgAMAddFreeLicense13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgAMAddFreeLicense::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN20CMsgAMAddFreeLicense27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgAMAddFreeLicense::ByteSize() const",
+			"name_mangled": "_ZNK20CMsgAMAddFreeLicense8ByteSizeEv"
+		},
+		{
+			"name": "CMsgAMAddFreeLicense::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK20CMsgAMAddFreeLicense24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgAMAddFreeLicense::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK20CMsgAMAddFreeLicense31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgAMAddFreeLicense::GetCachedSize() const",
+			"name_mangled": "_ZNK20CMsgAMAddFreeLicense13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgAMAddFreeLicense::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN20CMsgAMAddFreeLicense8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgAMAddFreeLicense::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN20CMsgAMAddFreeLicense9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgAMAddFreeLicense::SetCachedSize(int) const",
+			"name_mangled": "_ZNK20CMsgAMAddFreeLicense13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgAMAddFreeLicense::GetMetadata() const",
+			"name_mangled": "_ZNK20CMsgAMAddFreeLicense11GetMetadataEv"
+		}
+	]
+}

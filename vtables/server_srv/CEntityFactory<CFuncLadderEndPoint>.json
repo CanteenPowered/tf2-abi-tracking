@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncLadderEndPoint>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CFuncLadderEndPointE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncLadderEndPoint>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CFuncLadderEndPointE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncLadderEndPoint>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CFuncLadderEndPointE13GetEntitySizeEv"
+		}
+	]
+}

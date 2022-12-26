@@ -1,0 +1,38 @@
+{
+	"classname": "CTacticalMissionManager",
+	"classname_mangled": "_ZTV23CTacticalMissionManager",
+	"members": [
+		{
+			"name": "CTacticalMissionManager::~CTacticalMissionManager()",
+			"name_mangled": "_ZN23CTacticalMissionManagerD0Ev"
+		},
+		{
+			"name": "CTacticalMissionManager::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN23CTacticalMissionManager13FireGameEventEP10IGameEvent"
+		},
+		{
+			"name": "CTacticalMissionManager::OnServerActivate()",
+			"name_mangled": "_ZN23CTacticalMissionManager16OnServerActivateEv"
+		},
+		{
+			"name": "CTacticalMissionManager::OnRoundRestart()",
+			"name_mangled": "_ZN23CTacticalMissionManager14OnRoundRestartEv"
+		},
+		{
+			"name": "CTacticalMissionManager::Register(CTacticalMission*)",
+			"name_mangled": "_ZN23CTacticalMissionManager8RegisterEP16CTacticalMission"
+		},
+		{
+			"name": "CTacticalMissionManager::Unregister(CTacticalMission*)",
+			"name_mangled": "_ZN23CTacticalMissionManager10UnregisterEP16CTacticalMission"
+		},
+		{
+			"name": "CTacticalMissionManager::GetMission(char const*)",
+			"name_mangled": "_ZN23CTacticalMissionManager10GetMissionEPKc"
+		},
+		{
+			"name": "CTacticalMissionManager::ForEachMission(CTacticalMissionManager::IForEachMission&)",
+			"name_mangled": "_ZN23CTacticalMissionManager14ForEachMissionERNS_15IForEachMissionE"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"classname": "SQTable",
+	"classname_mangled": "_ZTV7SQTable",
+	"members": [
+		{
+			"name": "SQTable::~SQTable()",
+			"name_mangled": "_ZN7SQTableD0Ev"
+		},
+		{
+			"name": "SQTable::Iterate(CSQStateIterator*)",
+			"name_mangled": "_ZN7SQTable7IterateEP16CSQStateIterator"
+		},
+		{
+			"name": "SQTable::Release()",
+			"name_mangled": "_ZN7SQTable7ReleaseEv"
+		},
+		{
+			"name": "SQTable::GetType()",
+			"name_mangled": "_ZN7SQTable7GetTypeEv"
+		},
+		{
+			"name": "SQTable::Mark(SQCollectable**)",
+			"name_mangled": "_ZN7SQTable4MarkEPP13SQCollectable"
+		},
+		{
+			"name": "SQTable::Finalize()",
+			"name_mangled": "_ZN7SQTable8FinalizeEv"
+		},
+		{
+			"name": "SQDelegable::GetMetaMethod(SQVM*, SQMetaMethod, SQObjectPtr&)",
+			"name_mangled": "_ZN11SQDelegable13GetMetaMethodEP4SQVM12SQMetaMethodR11SQObjectPtr"
+		}
+	]
+}

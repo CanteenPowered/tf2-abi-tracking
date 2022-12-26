@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFInfoPowerupSpawn>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CTFInfoPowerupSpawnE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFInfoPowerupSpawn>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFInfoPowerupSpawnE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFInfoPowerupSpawn>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFInfoPowerupSpawnE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"classname": "CEconTool_StrangePartRestriction",
+	"classname_mangled": "_ZTV32CEconTool_StrangePartRestriction",
+	"members": [
+		{
+			"name": "CEconTool_StrangePartRestriction::~CEconTool_StrangePartRestriction()",
+			"name_mangled": "_ZN32CEconTool_StrangePartRestrictionD0Ev"
+		},
+		{
+			"name": "CEconTool_StrangePartRestriction::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const",
+			"name_mangled": "_ZNK32CEconTool_StrangePartRestriction10CanApplyToEPK18IEconItemInterfaceS2_"
+		},
+		{
+			"name": "IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool21ShouldDisplayQuantityEPK18IEconItemInterface"
+		},
+		{
+			"name": "IEconTool::RequiresToolEscrowPeriod() const",
+			"name_mangled": "_ZNK9IEconTool24RequiresToolEscrowPeriodEv"
+		},
+		{
+			"name": "CEconTool_StrangePartRestriction::BFinishInitialization()",
+			"name_mangled": "_ZN32CEconTool_StrangePartRestriction21BFinishInitializationEv"
+		}
+	]
+}

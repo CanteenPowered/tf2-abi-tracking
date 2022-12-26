@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<SporeTrail>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10SporeTrailE",
+	"members": [
+		{
+			"name": "CEntityFactory<SporeTrail>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10SporeTrailE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<SporeTrail>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10SporeTrailE13GetEntitySizeEv"
+		}
+	]
+}

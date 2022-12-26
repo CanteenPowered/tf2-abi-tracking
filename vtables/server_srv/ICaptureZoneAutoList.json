@@ -1,0 +1,10 @@
+{
+	"classname": "ICaptureZoneAutoList",
+	"classname_mangled": "_ZTV20ICaptureZoneAutoList",
+	"members": [
+		{
+			"name": "ICaptureZoneAutoList::~ICaptureZoneAutoList()",
+			"name_mangled": "_ZN20ICaptureZoneAutoListD0Ev"
+		}
+	]
+}

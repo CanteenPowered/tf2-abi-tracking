@@ -1,0 +1,74 @@
+{
+	"classname": "CPostFrameNavigationHook",
+	"classname_mangled": "_ZTV24CPostFrameNavigationHook",
+	"members": [
+		{
+			"name": "CPostFrameNavigationHook::Init()",
+			"name_mangled": "_ZN24CPostFrameNavigationHook4InitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PostInit()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8PostInitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::Shutdown()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8ShutdownEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnSave()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnRestore()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::IsPerFrame()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame10IsPerFrameEv"
+		},
+		{
+			"name": "CPostFrameNavigationHook::~CPostFrameNavigationHook()",
+			"name_mangled": "_ZN24CPostFrameNavigationHookD1Ev"
+		},
+		{
+			"name": "CPostFrameNavigationHook::~CPostFrameNavigationHook()",
+			"name_mangled": "_ZN24CPostFrameNavigationHookD0Ev"
+		},
+		{
+			"name": "CPostFrameNavigationHook::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN24CPostFrameNavigationHook25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CPostFrameNavigationHook::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN24CPostFrameNavigationHook26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PreClientUpdate()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame15PreClientUpdateEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CDateBasedHoliday",
+	"classname_mangled": "_ZTV17CDateBasedHoliday",
+	"members": [
+		{
+			"name": "CDateBasedHoliday::~CDateBasedHoliday()",
+			"name_mangled": "_ZN17CDateBasedHolidayD0Ev"
+		},
+		{
+			"name": "CDateBasedHoliday::IsActive(CRTime const&)",
+			"name_mangled": "_ZN17CDateBasedHoliday8IsActiveERK6CRTime"
+		}
+	]
+}

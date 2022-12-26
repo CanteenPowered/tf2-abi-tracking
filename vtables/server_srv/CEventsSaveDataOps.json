@@ -1,0 +1,22 @@
+{
+	"classname": "CEventsSaveDataOps",
+	"classname_mangled": "_ZTV18CEventsSaveDataOps",
+	"members": [
+		{
+			"name": "CEventsSaveDataOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)",
+			"name_mangled": "_ZN18CEventsSaveDataOps7RestoreERK22SaveRestoreFieldInfo_tP8IRestore"
+		},
+		{
+			"name": "CEventsSaveDataOps::IsEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN18CEventsSaveDataOps7IsEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CEventsSaveDataOps::MakeEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN18CEventsSaveDataOps9MakeEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CEventsSaveDataOps::Parse(SaveRestoreFieldInfo_t const&, char const*)",
+			"name_mangled": "_ZN18CEventsSaveDataOps5ParseERK22SaveRestoreFieldInfo_tPKc"
+		}
+	]
+}

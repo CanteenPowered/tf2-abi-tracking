@@ -1,0 +1,70 @@
+{
+	"classname": "CHLTVDemoRecorder",
+	"classname_mangled": "_ZTV17CHLTVDemoRecorder",
+	"members": [
+		{
+			"name": "CHLTVDemoRecorder::GetRecordingTick()",
+			"name_mangled": "_ZN17CHLTVDemoRecorder16GetRecordingTickEv"
+		},
+		{
+			"name": "CHLTVDemoRecorder::StartRecording(char const*, bool)",
+			"name_mangled": "_ZN17CHLTVDemoRecorder14StartRecordingEPKcb"
+		},
+		{
+			"name": "CHLTVDemoRecorder::SetSignonState(int)",
+			"name_mangled": "_ZN17CHLTVDemoRecorder14SetSignonStateEi"
+		},
+		{
+			"name": "CHLTVDemoRecorder::IsRecording()",
+			"name_mangled": "_ZN17CHLTVDemoRecorder11IsRecordingEv"
+		},
+		{
+			"name": "CHLTVDemoRecorder::PauseRecording()",
+			"name_mangled": "_ZN17CHLTVDemoRecorder14PauseRecordingEv"
+		},
+		{
+			"name": "CHLTVDemoRecorder::ResumeRecording()",
+			"name_mangled": "_ZN17CHLTVDemoRecorder15ResumeRecordingEv"
+		},
+		{
+			"name": "CHLTVDemoRecorder::StopRecording()",
+			"name_mangled": "_ZN17CHLTVDemoRecorder13StopRecordingEv"
+		},
+		{
+			"name": "CHLTVDemoRecorder::RecordCommand(char const*)",
+			"name_mangled": "_ZN17CHLTVDemoRecorder13RecordCommandEPKc"
+		},
+		{
+			"name": "CHLTVDemoRecorder::RecordUserInput(int)",
+			"name_mangled": "_ZN17CHLTVDemoRecorder15RecordUserInputEi"
+		},
+		{
+			"name": "CHLTVDemoRecorder::RecordMessages(bf_read&, int)",
+			"name_mangled": "_ZN17CHLTVDemoRecorder14RecordMessagesER7bf_readi"
+		},
+		{
+			"name": "CHLTVDemoRecorder::RecordPacket()",
+			"name_mangled": "_ZN17CHLTVDemoRecorder12RecordPacketEv"
+		},
+		{
+			"name": "CHLTVDemoRecorder::RecordServerClasses(ServerClass*)",
+			"name_mangled": "_ZN17CHLTVDemoRecorder19RecordServerClassesEP11ServerClass"
+		},
+		{
+			"name": "CHLTVDemoRecorder::RecordStringTables()",
+			"name_mangled": "_ZN17CHLTVDemoRecorder18RecordStringTablesEv"
+		},
+		{
+			"name": "CHLTVDemoRecorder::ResetDemoInterpolation()",
+			"name_mangled": "_ZN17CHLTVDemoRecorder22ResetDemoInterpolationEv"
+		},
+		{
+			"name": "CHLTVDemoRecorder::~CHLTVDemoRecorder()",
+			"name_mangled": "_ZN17CHLTVDemoRecorderD2Ev"
+		},
+		{
+			"name": "CHLTVDemoRecorder::~CHLTVDemoRecorder()",
+			"name_mangled": "_ZN17CHLTVDemoRecorderD0Ev"
+		}
+	]
+}

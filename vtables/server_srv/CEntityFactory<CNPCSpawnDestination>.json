@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CNPCSpawnDestination>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CNPCSpawnDestinationE",
+	"members": [
+		{
+			"name": "CEntityFactory<CNPCSpawnDestination>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CNPCSpawnDestinationE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CNPCSpawnDestination>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CNPCSpawnDestinationE13GetEntitySizeEv"
+		}
+	]
+}

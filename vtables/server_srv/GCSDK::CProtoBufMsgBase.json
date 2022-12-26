@@ -1,0 +1,10 @@
+{
+	"classname": "GCSDK::CProtoBufMsgBase",
+	"classname_mangled": "_ZTVN5GCSDK16CProtoBufMsgBaseE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsgBase::~CProtoBufMsgBase()",
+			"name_mangled": "_ZN5GCSDK16CProtoBufMsgBaseD0Ev"
+		}
+	]
+}

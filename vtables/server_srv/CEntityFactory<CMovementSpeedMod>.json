@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CMovementSpeedMod>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CMovementSpeedModE",
+	"members": [
+		{
+			"name": "CEntityFactory<CMovementSpeedMod>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CMovementSpeedModE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CMovementSpeedMod>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CMovementSpeedModE13GetEntitySizeEv"
+		}
+	]
+}

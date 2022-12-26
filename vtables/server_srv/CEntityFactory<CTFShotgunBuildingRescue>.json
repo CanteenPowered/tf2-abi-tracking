@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFShotgunBuildingRescue>",
+	"classname_mangled": "_ZTV14CEntityFactoryI24CTFShotgunBuildingRescueE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFShotgunBuildingRescue>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI24CTFShotgunBuildingRescueE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFShotgunBuildingRescue>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI24CTFShotgunBuildingRescueE13GetEntitySizeEv"
+		}
+	]
+}

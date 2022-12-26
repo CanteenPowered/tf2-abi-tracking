@@ -1,0 +1,10 @@
+{
+	"classname": "CTraceFilterPlayersNPCs",
+	"classname_mangled": "_ZTV23CTraceFilterPlayersNPCs",
+	"members": [
+		{
+			"name": "CTraceFilterPlayersNPCs::GetTraceType() const",
+			"name_mangled": "_ZNK23CTraceFilterPlayersNPCs12GetTraceTypeEv"
+		}
+	]
+}

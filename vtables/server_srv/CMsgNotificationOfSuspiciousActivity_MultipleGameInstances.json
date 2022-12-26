@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgNotificationOfSuspiciousActivity_MultipleGameInstances",
+	"classname_mangled": "_ZTV58CMsgNotificationOfSuspiciousActivity_MultipleGameInstances",
+	"members": [
+		{
+			"name": "CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::~CMsgNotificationOfSuspiciousActivity_MultipleGameInstances()",
+			"name_mangled": "_ZN58CMsgNotificationOfSuspiciousActivity_MultipleGameInstancesD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::New() const",
+			"name_mangled": "_ZNK58CMsgNotificationOfSuspiciousActivity_MultipleGameInstances3NewEv"
+		},
+		{
+			"name": "CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::Clear()",
+			"name_mangled": "_ZN58CMsgNotificationOfSuspiciousActivity_MultipleGameInstances5ClearEv"
+		},
+		{
+			"name": "CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::IsInitialized() const",
+			"name_mangled": "_ZNK58CMsgNotificationOfSuspiciousActivity_MultipleGameInstances13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN58CMsgNotificationOfSuspiciousActivity_MultipleGameInstances27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::ByteSize() const",
+			"name_mangled": "_ZNK58CMsgNotificationOfSuspiciousActivity_MultipleGameInstances8ByteSizeEv"
+		},
+		{
+			"name": "CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK58CMsgNotificationOfSuspiciousActivity_MultipleGameInstances24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK58CMsgNotificationOfSuspiciousActivity_MultipleGameInstances31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::GetCachedSize() const",
+			"name_mangled": "_ZNK58CMsgNotificationOfSuspiciousActivity_MultipleGameInstances13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN58CMsgNotificationOfSuspiciousActivity_MultipleGameInstances8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN58CMsgNotificationOfSuspiciousActivity_MultipleGameInstances9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::SetCachedSize(int) const",
+			"name_mangled": "_ZNK58CMsgNotificationOfSuspiciousActivity_MultipleGameInstances13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgNotificationOfSuspiciousActivity_MultipleGameInstances::GetMetadata() const",
+			"name_mangled": "_ZNK58CMsgNotificationOfSuspiciousActivity_MultipleGameInstances11GetMetadataEv"
+		}
+	]
+}

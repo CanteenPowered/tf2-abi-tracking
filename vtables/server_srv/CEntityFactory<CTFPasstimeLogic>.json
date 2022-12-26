@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFPasstimeLogic>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CTFPasstimeLogicE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFPasstimeLogic>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFPasstimeLogicE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFPasstimeLogic>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFPasstimeLogicE13GetEntitySizeEv"
+		}
+	]
+}

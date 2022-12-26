@@ -1,0 +1,118 @@
+{
+	"classname": "CReplayServer",
+	"classname_mangled": "_ZTV13CReplayServer",
+	"members": [
+		{
+			"name": "CReplayServer::~CReplayServer()",
+			"name_mangled": "_ZN13CReplayServerD0Ev"
+		},
+		{
+			"name": "CReplayServer::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN13CReplayServer13FireGameEventEP10IGameEvent"
+		},
+		{
+			"name": "CReplayServer::IsMultiplayer() const",
+			"name_mangled": "_ZNK13CReplayServer13IsMultiplayerEv"
+		},
+		{
+			"name": "CReplayServer::IsReplay() const",
+			"name_mangled": "_ZNK13CReplayServer8IsReplayEv"
+		},
+		{
+			"name": "CReplayServer::Init(bool)",
+			"name_mangled": "_ZN13CReplayServer4InitEb"
+		},
+		{
+			"name": "CReplayServer::Clear()",
+			"name_mangled": "_ZN13CReplayServer5ClearEv"
+		},
+		{
+			"name": "CReplayServer::Shutdown()",
+			"name_mangled": "_ZN13CReplayServer8ShutdownEv"
+		},
+		{
+			"name": "CReplayServer::FillServerInfo(SVC_ServerInfo&)",
+			"name_mangled": "_ZN13CReplayServer14FillServerInfoER14SVC_ServerInfo"
+		},
+		{
+			"name": "CReplayServer::GetNetStats(float&, float&)",
+			"name_mangled": "_ZN13CReplayServer11GetNetStatsERfS0_"
+		},
+		{
+			"name": "CReplayServer::GetChallengeType(netadr_s&)",
+			"name_mangled": "_ZN13CReplayServer16GetChallengeTypeER8netadr_s"
+		},
+		{
+			"name": "CReplayServer::GetName() const",
+			"name_mangled": "_ZNK13CReplayServer7GetNameEv"
+		},
+		{
+			"name": "CReplayServer::GetPassword() const",
+			"name_mangled": "_ZNK13CReplayServer11GetPasswordEv"
+		},
+		{
+			"name": "CReplayServer::ConnectClient(netadr_s&, int, int, int, int, char const*, char const*, char const*, int)",
+			"name_mangled": "_ZN13CReplayServer13ConnectClientER8netadr_siiiiPKcS3_S3_i"
+		},
+		{
+			"name": "CReplayServer::ReplyChallenge(netadr_s&, int)",
+			"name_mangled": "_ZN13CReplayServer14ReplyChallengeER8netadr_si"
+		},
+		{
+			"name": "CReplayServer::ReplyServerChallenge(netadr_s&)",
+			"name_mangled": "_ZN13CReplayServer20ReplyServerChallengeER8netadr_s"
+		},
+		{
+			"name": "CReplayServer::RejectConnection(netadr_s const&, int, char const*)",
+			"name_mangled": "_ZN13CReplayServer16RejectConnectionERK8netadr_siPKc"
+		},
+		{
+			"name": "CReplayServer::CreateFakeClient(char const*)",
+			"name_mangled": "_ZN13CReplayServer16CreateFakeClientEPKc"
+		},
+		{
+			"name": "CReplayServer::GetBaseServer()",
+			"name_mangled": "_ZN13CReplayServer13GetBaseServerEv"
+		},
+		{
+			"name": "CReplayServer::GetDirector()",
+			"name_mangled": "_ZN13CReplayServer11GetDirectorEv"
+		},
+		{
+			"name": "CReplayServer::GetReplaySlot()",
+			"name_mangled": "_ZN13CReplayServer13GetReplaySlotEv"
+		},
+		{
+			"name": "CReplayServer::GetOnlineTime()",
+			"name_mangled": "_ZN13CReplayServer13GetOnlineTimeEv"
+		},
+		{
+			"name": "CReplayServer::BroadcastEvent(IGameEvent*)",
+			"name_mangled": "_ZN13CReplayServer14BroadcastEventEP10IGameEvent"
+		},
+		{
+			"name": "CReplayServer::IsRecording()",
+			"name_mangled": "_ZN13CReplayServer11IsRecordingEv"
+		},
+		{
+			"name": "CReplayServer::StartRecording()",
+			"name_mangled": "_ZN13CReplayServer14StartRecordingEv"
+		},
+		{
+			"name": "CReplayServer::StopRecording()",
+			"name_mangled": "_ZN13CReplayServer13StopRecordingEv"
+		},
+		{
+			"name": "CReplayServer::SetMaxClients(int)",
+			"name_mangled": "_ZN13CReplayServer13SetMaxClientsEi"
+		},
+		{
+			"name": "CReplayServer::UserInfoChanged(int)",
+			"name_mangled": "_ZN13CReplayServer15UserInfoChangedEi"
+		},
+		{
+			"name": "CReplayServer::ShouldUpdateMasterServer()",
+			"name_mangled": "_ZN13CReplayServer24ShouldUpdateMasterServerEv"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"classname": "CTEMuzzleFlash",
+	"classname_mangled": "_ZTV14CTEMuzzleFlash",
+	"members": [
+		{
+			"name": "CTEMuzzleFlash::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN14CTEMuzzleFlash40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEMuzzleFlash::~CTEMuzzleFlash()",
+			"name_mangled": "_ZN14CTEMuzzleFlashD2Ev"
+		},
+		{
+			"name": "CTEMuzzleFlash::~CTEMuzzleFlash()",
+			"name_mangled": "_ZN14CTEMuzzleFlashD0Ev"
+		},
+		{
+			"name": "CTEMuzzleFlash::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN14CTEMuzzleFlash4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

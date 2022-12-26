@@ -1,0 +1,10 @@
+{
+	"classname": "CTFPlayerShared::NetworkVar_m_ConditionList",
+	"classname_mangled": "_ZTVN15CTFPlayerShared26NetworkVar_m_ConditionListE",
+	"members": [
+		{
+			"name": "CTFPlayerShared::NetworkVar_m_ConditionList::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN15CTFPlayerShared26NetworkVar_m_ConditionList19NetworkStateChangedEPv"
+		}
+	]
+}

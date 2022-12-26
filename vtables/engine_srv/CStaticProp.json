@@ -1,0 +1,302 @@
+{
+	"classname": "CStaticProp",
+	"classname_mangled": "_ZTV11CStaticProp",
+	"members": [
+		{
+			"name": "CStaticProp::~CStaticProp()",
+			"name_mangled": "_ZN11CStaticPropD0Ev"
+		},
+		{
+			"name": "CStaticProp::SetRefEHandle(CBaseHandle const&)",
+			"name_mangled": "_ZN11CStaticProp13SetRefEHandleERK11CBaseHandle"
+		},
+		{
+			"name": "CStaticProp::GetRefEHandle() const",
+			"name_mangled": "_ZNK11CStaticProp13GetRefEHandleEv"
+		},
+		{
+			"name": "CStaticProp::GetCollideable()",
+			"name_mangled": "_ZN11CStaticProp14GetCollideableEv"
+		},
+		{
+			"name": "CStaticProp::GetClientNetworkable()",
+			"name_mangled": "_ZN11CStaticProp20GetClientNetworkableEv"
+		},
+		{
+			"name": "CStaticProp::GetClientRenderable()",
+			"name_mangled": "_ZN11CStaticProp19GetClientRenderableEv"
+		},
+		{
+			"name": "CStaticProp::GetIClientEntity()",
+			"name_mangled": "_ZN11CStaticProp16GetIClientEntityEv"
+		},
+		{
+			"name": "CStaticProp::GetBaseEntity()",
+			"name_mangled": "_ZN11CStaticProp13GetBaseEntityEv"
+		},
+		{
+			"name": "CStaticProp::GetClientThinkable()",
+			"name_mangled": "_ZN11CStaticProp18GetClientThinkableEv"
+		},
+		{
+			"name": "CStaticProp::GetIClientUnknown()",
+			"name_mangled": "_ZN11CStaticProp17GetIClientUnknownEv"
+		},
+		{
+			"name": "CStaticProp::OBBMinsPreScaled() const",
+			"name_mangled": "_ZNK11CStaticProp16OBBMinsPreScaledEv"
+		},
+		{
+			"name": "CStaticProp::OBBMaxsPreScaled() const",
+			"name_mangled": "_ZNK11CStaticProp16OBBMaxsPreScaledEv"
+		},
+		{
+			"name": "CStaticProp::OBBMins() const",
+			"name_mangled": "_ZNK11CStaticProp7OBBMinsEv"
+		},
+		{
+			"name": "CStaticProp::OBBMaxs() const",
+			"name_mangled": "_ZNK11CStaticProp7OBBMaxsEv"
+		},
+		{
+			"name": "CStaticProp::TestCollision(Ray_t const&, unsigned int, CGameTrace&)",
+			"name_mangled": "_ZN11CStaticProp13TestCollisionERK5Ray_tjR10CGameTrace"
+		},
+		{
+			"name": "CStaticProp::TestHitboxes(Ray_t const&, unsigned int, CGameTrace&)",
+			"name_mangled": "_ZN11CStaticProp12TestHitboxesERK5Ray_tjR10CGameTrace"
+		},
+		{
+			"name": "CStaticProp::GetCollisionModelIndex()",
+			"name_mangled": "_ZN11CStaticProp22GetCollisionModelIndexEv"
+		},
+		{
+			"name": "CStaticProp::GetCollisionModel()",
+			"name_mangled": "_ZN11CStaticProp17GetCollisionModelEv"
+		},
+		{
+			"name": "CStaticProp::GetCollisionOrigin() const",
+			"name_mangled": "_ZNK11CStaticProp18GetCollisionOriginEv"
+		},
+		{
+			"name": "CStaticProp::GetCollisionAngles() const",
+			"name_mangled": "_ZNK11CStaticProp18GetCollisionAnglesEv"
+		},
+		{
+			"name": "CStaticProp::CollisionToWorldTransform() const",
+			"name_mangled": "_ZNK11CStaticProp25CollisionToWorldTransformEv"
+		},
+		{
+			"name": "CStaticProp::GetSolid() const",
+			"name_mangled": "_ZNK11CStaticProp8GetSolidEv"
+		},
+		{
+			"name": "CStaticProp::GetSolidFlags() const",
+			"name_mangled": "_ZNK11CStaticProp13GetSolidFlagsEv"
+		},
+		{
+			"name": "CStaticProp::GetEntityHandle()",
+			"name_mangled": "_ZN11CStaticProp15GetEntityHandleEv"
+		},
+		{
+			"name": "CStaticProp::GetCollisionGroup() const",
+			"name_mangled": "_ZNK11CStaticProp17GetCollisionGroupEv"
+		},
+		{
+			"name": "CStaticProp::WorldSpaceTriggerBounds(Vector*, Vector*) const",
+			"name_mangled": "_ZNK11CStaticProp23WorldSpaceTriggerBoundsEP6VectorS1_"
+		},
+		{
+			"name": "CStaticProp::WorldSpaceSurroundingBounds(Vector*, Vector*)",
+			"name_mangled": "_ZN11CStaticProp27WorldSpaceSurroundingBoundsEP6VectorS1_"
+		},
+		{
+			"name": "CStaticProp::ShouldTouchTrigger(int) const",
+			"name_mangled": "_ZNK11CStaticProp18ShouldTouchTriggerEi"
+		},
+		{
+			"name": "CStaticProp::GetRootParentToWorldTransform() const",
+			"name_mangled": "_ZNK11CStaticProp29GetRootParentToWorldTransformEv"
+		},
+		{
+			"name": "CStaticProp::GetBody()",
+			"name_mangled": "_ZN11CStaticProp7GetBodyEv"
+		},
+		{
+			"name": "CStaticProp::GetSkin()",
+			"name_mangled": "_ZN11CStaticProp7GetSkinEv"
+		},
+		{
+			"name": "CStaticProp::GetRenderOrigin()",
+			"name_mangled": "_ZN11CStaticProp15GetRenderOriginEv"
+		},
+		{
+			"name": "CStaticProp::GetRenderAngles()",
+			"name_mangled": "_ZN11CStaticProp15GetRenderAnglesEv"
+		},
+		{
+			"name": "CStaticProp::ShouldDraw()",
+			"name_mangled": "_ZN11CStaticProp10ShouldDrawEv"
+		},
+		{
+			"name": "CStaticProp::IsTransparent()",
+			"name_mangled": "_ZN11CStaticProp13IsTransparentEv"
+		},
+		{
+			"name": "CStaticProp::IsTwoPass()",
+			"name_mangled": "_ZN11CStaticProp9IsTwoPassEv"
+		},
+		{
+			"name": "CStaticProp::OnThreadedDrawSetup()",
+			"name_mangled": "_ZN11CStaticProp19OnThreadedDrawSetupEv"
+		},
+		{
+			"name": "CStaticProp::GetModel() const",
+			"name_mangled": "_ZNK11CStaticProp8GetModelEv"
+		},
+		{
+			"name": "CStaticProp::DrawModel(int)",
+			"name_mangled": "_ZN11CStaticProp9DrawModelEi"
+		},
+		{
+			"name": "CStaticProp::ComputeFxBlend()",
+			"name_mangled": "_ZN11CStaticProp14ComputeFxBlendEv"
+		},
+		{
+			"name": "CStaticProp::GetFxBlend()",
+			"name_mangled": "_ZN11CStaticProp10GetFxBlendEv"
+		},
+		{
+			"name": "CStaticProp::GetColorModulation(float*)",
+			"name_mangled": "_ZN11CStaticProp18GetColorModulationEPf"
+		},
+		{
+			"name": "CStaticProp::LODTest()",
+			"name_mangled": "_ZN11CStaticProp7LODTestEv"
+		},
+		{
+			"name": "CStaticProp::SetupBones(matrix3x4_t*, int, int, float)",
+			"name_mangled": "_ZN11CStaticProp10SetupBonesEP11matrix3x4_tiif"
+		},
+		{
+			"name": "CStaticProp::SetupWeights(matrix3x4_t const*, int, float*, float*)",
+			"name_mangled": "_ZN11CStaticProp12SetupWeightsEPK11matrix3x4_tiPfS3_"
+		},
+		{
+			"name": "CStaticProp::UsesFlexDelayedWeights()",
+			"name_mangled": "_ZN11CStaticProp22UsesFlexDelayedWeightsEv"
+		},
+		{
+			"name": "CStaticProp::DoAnimationEvents()",
+			"name_mangled": "_ZN11CStaticProp17DoAnimationEventsEv"
+		},
+		{
+			"name": "CStaticProp::GetPVSNotifyInterface()",
+			"name_mangled": "_ZN11CStaticProp21GetPVSNotifyInterfaceEv"
+		},
+		{
+			"name": "CStaticProp::GetRenderBounds(Vector&, Vector&)",
+			"name_mangled": "_ZN11CStaticProp15GetRenderBoundsER6VectorS1_"
+		},
+		{
+			"name": "CStaticProp::GetRenderBoundsWorldspace(Vector&, Vector&)",
+			"name_mangled": "_ZN11CStaticProp25GetRenderBoundsWorldspaceER6VectorS1_"
+		},
+		{
+			"name": "CStaticProp::ShouldCacheRenderInfo()",
+			"name_mangled": "_ZN11CStaticProp21ShouldCacheRenderInfoEv"
+		},
+		{
+			"name": "CStaticProp::ShouldReceiveProjectedTextures(int)",
+			"name_mangled": "_ZN11CStaticProp30ShouldReceiveProjectedTexturesEi"
+		},
+		{
+			"name": "CStaticProp::GetShadowCastDistance(float*, ShadowType_t) const",
+			"name_mangled": "_ZNK11CStaticProp21GetShadowCastDistanceEPf12ShadowType_t"
+		},
+		{
+			"name": "CStaticProp::GetShadowCastDirection(Vector*, ShadowType_t) const",
+			"name_mangled": "_ZNK11CStaticProp22GetShadowCastDirectionEP6Vector12ShadowType_t"
+		},
+		{
+			"name": "CStaticProp::UsesPowerOfTwoFrameBufferTexture()",
+			"name_mangled": "_ZN11CStaticProp32UsesPowerOfTwoFrameBufferTextureEv"
+		},
+		{
+			"name": "CStaticProp::UsesFullFrameBufferTexture()",
+			"name_mangled": "_ZN11CStaticProp26UsesFullFrameBufferTextureEv"
+		},
+		{
+			"name": "CStaticProp::GetShadowHandle() const",
+			"name_mangled": "_ZNK11CStaticProp15GetShadowHandleEv"
+		},
+		{
+			"name": "CStaticProp::RenderHandle()",
+			"name_mangled": "_ZN11CStaticProp12RenderHandleEv"
+		},
+		{
+			"name": "CStaticProp::RecordToolMessage()",
+			"name_mangled": "_ZN11CStaticProp17RecordToolMessageEv"
+		},
+		{
+			"name": "CStaticProp::GetShadowRenderBounds(Vector&, Vector&, ShadowType_t)",
+			"name_mangled": "_ZN11CStaticProp21GetShadowRenderBoundsER6VectorS1_12ShadowType_t"
+		},
+		{
+			"name": "CStaticProp::IsShadowDirty()",
+			"name_mangled": "_ZN11CStaticProp13IsShadowDirtyEv"
+		},
+		{
+			"name": "CStaticProp::MarkShadowDirty(bool)",
+			"name_mangled": "_ZN11CStaticProp15MarkShadowDirtyEb"
+		},
+		{
+			"name": "CStaticProp::GetShadowParent()",
+			"name_mangled": "_ZN11CStaticProp15GetShadowParentEv"
+		},
+		{
+			"name": "CStaticProp::FirstShadowChild()",
+			"name_mangled": "_ZN11CStaticProp16FirstShadowChildEv"
+		},
+		{
+			"name": "CStaticProp::NextShadowPeer()",
+			"name_mangled": "_ZN11CStaticProp14NextShadowPeerEv"
+		},
+		{
+			"name": "CStaticProp::ShadowCastType()",
+			"name_mangled": "_ZN11CStaticProp14ShadowCastTypeEv"
+		},
+		{
+			"name": "CStaticProp::CreateModelInstance()",
+			"name_mangled": "_ZN11CStaticProp19CreateModelInstanceEv"
+		},
+		{
+			"name": "CStaticProp::GetModelInstance()",
+			"name_mangled": "_ZN11CStaticProp16GetModelInstanceEv"
+		},
+		{
+			"name": "CStaticProp::LookupAttachment(char const*)",
+			"name_mangled": "_ZN11CStaticProp16LookupAttachmentEPKc"
+		},
+		{
+			"name": "CStaticProp::GetAttachment(int, Vector&, QAngle&)",
+			"name_mangled": "_ZN11CStaticProp13GetAttachmentEiR6VectorR6QAngle"
+		},
+		{
+			"name": "CStaticProp::GetAttachment(int, matrix3x4_t&)",
+			"name_mangled": "_ZN11CStaticProp13GetAttachmentEiR11matrix3x4_t"
+		},
+		{
+			"name": "CStaticProp::IgnoresZBuffer() const",
+			"name_mangled": "_ZNK11CStaticProp14IgnoresZBufferEv"
+		},
+		{
+			"name": "CStaticProp::GetRenderClipPlane()",
+			"name_mangled": "_ZN11CStaticProp18GetRenderClipPlaneEv"
+		},
+		{
+			"name": "CStaticProp::RenderableToWorldTransform()",
+			"name_mangled": "_ZN11CStaticProp26RenderableToWorldTransformEv"
+		}
+	]
+}

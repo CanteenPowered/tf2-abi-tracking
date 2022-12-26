@@ -1,0 +1,10 @@
+{
+	"classname": "ICurveDataAccessor",
+	"classname_mangled": "_ZTV18ICurveDataAccessor",
+	"members": [
+		{
+			"name": "ICurveDataAccessor::~ICurveDataAccessor()",
+			"name_mangled": "_ZN18ICurveDataAccessorD0Ev"
+		}
+	]
+}

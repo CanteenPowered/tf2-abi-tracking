@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CSteamJet>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9CSteamJetE",
+	"members": [
+		{
+			"name": "CEntityFactory<CSteamJet>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9CSteamJetE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CSteamJet>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9CSteamJetE13GetEntitySizeEv"
+		}
+	]
+}

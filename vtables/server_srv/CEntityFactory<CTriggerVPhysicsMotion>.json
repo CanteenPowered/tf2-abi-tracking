@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTriggerVPhysicsMotion>",
+	"classname_mangled": "_ZTV14CEntityFactoryI22CTriggerVPhysicsMotionE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTriggerVPhysicsMotion>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI22CTriggerVPhysicsMotionE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTriggerVPhysicsMotion>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI22CTriggerVPhysicsMotionE13GetEntitySizeEv"
+		}
+	]
+}

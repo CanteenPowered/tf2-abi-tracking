@@ -1,0 +1,10 @@
+{
+	"classname": "CSHA1",
+	"classname_mangled": "_ZTV5CSHA1",
+	"members": [
+		{
+			"name": "CSHA1::~CSHA1()",
+			"name_mangled": "_ZN5CSHA1D0Ev"
+		}
+	]
+}

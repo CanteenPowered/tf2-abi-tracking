@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgSOSingleObject>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI18CMsgSOSingleObjectEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgSOSingleObject>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI18CMsgSOSingleObjectED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgSOSingleObject>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI18CMsgSOSingleObjectE14GetGenericBodyEv"
+		}
+	]
+}

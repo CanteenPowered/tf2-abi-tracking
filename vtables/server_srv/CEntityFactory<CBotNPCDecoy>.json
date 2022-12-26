@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBotNPCDecoy>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CBotNPCDecoyE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBotNPCDecoy>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CBotNPCDecoyE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBotNPCDecoy>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CBotNPCDecoyE13GetEntitySizeEv"
+		}
+	]
+}

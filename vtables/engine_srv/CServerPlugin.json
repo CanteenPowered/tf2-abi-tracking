@@ -1,0 +1,74 @@
+{
+	"classname": "CServerPlugin",
+	"classname_mangled": "_ZTV13CServerPlugin",
+	"members": [
+		{
+			"name": "CServerPlugin::ClientCommand(edict_t*, char const*)",
+			"name_mangled": "_ZN13CServerPlugin13ClientCommandEP7edict_tPKc"
+		},
+		{
+			"name": "CServerPlugin::StartQueryCvarValue(edict_t*, char const*)",
+			"name_mangled": "_ZN13CServerPlugin19StartQueryCvarValueEP7edict_tPKc"
+		},
+		{
+			"name": "CServerPlugin::LevelInit(char const*, char const*, char const*, char const*, bool, bool)",
+			"name_mangled": "_ZN13CServerPlugin9LevelInitEPKcS1_S1_S1_bb"
+		},
+		{
+			"name": "CServerPlugin::ServerActivate(edict_t*, int, int)",
+			"name_mangled": "_ZN13CServerPlugin14ServerActivateEP7edict_tii"
+		},
+		{
+			"name": "CServerPlugin::GameFrame(bool)",
+			"name_mangled": "_ZN13CServerPlugin9GameFrameEb"
+		},
+		{
+			"name": "CServerPlugin::LevelShutdown()",
+			"name_mangled": "_ZN13CServerPlugin13LevelShutdownEv"
+		},
+		{
+			"name": "CServerPlugin::ClientActive(edict_t*, bool)",
+			"name_mangled": "_ZN13CServerPlugin12ClientActiveEP7edict_tb"
+		},
+		{
+			"name": "CServerPlugin::ClientDisconnect(edict_t*)",
+			"name_mangled": "_ZN13CServerPlugin16ClientDisconnectEP7edict_t"
+		},
+		{
+			"name": "CServerPlugin::ClientPutInServer(edict_t*, char const*)",
+			"name_mangled": "_ZN13CServerPlugin17ClientPutInServerEP7edict_tPKc"
+		},
+		{
+			"name": "CServerPlugin::SetCommandClient(int)",
+			"name_mangled": "_ZN13CServerPlugin16SetCommandClientEi"
+		},
+		{
+			"name": "CServerPlugin::ClientSettingsChanged(edict_t*)",
+			"name_mangled": "_ZN13CServerPlugin21ClientSettingsChangedEP7edict_t"
+		},
+		{
+			"name": "CServerPlugin::ClientConnect(edict_t*, char const*, char const*, char*, int)",
+			"name_mangled": "_ZN13CServerPlugin13ClientConnectEP7edict_tPKcS3_Pci"
+		},
+		{
+			"name": "CServerPlugin::ClientCommand(edict_t*, CCommand const&)",
+			"name_mangled": "_ZN13CServerPlugin13ClientCommandEP7edict_tRK8CCommand"
+		},
+		{
+			"name": "CServerPlugin::NetworkIDValidated(char const*, char const*)",
+			"name_mangled": "_ZN13CServerPlugin18NetworkIDValidatedEPKcS1_"
+		},
+		{
+			"name": "CServerPlugin::OnQueryCvarValueFinished(int, edict_t*, EQueryCvarValueStatus, char const*, char const*)",
+			"name_mangled": "_ZN13CServerPlugin24OnQueryCvarValueFinishedEiP7edict_t21EQueryCvarValueStatusPKcS4_"
+		},
+		{
+			"name": "CServerPlugin::OnEdictAllocated(edict_t*)",
+			"name_mangled": "_ZN13CServerPlugin16OnEdictAllocatedEP7edict_t"
+		},
+		{
+			"name": "CServerPlugin::OnEdictFreed(edict_t const*)",
+			"name_mangled": "_ZN13CServerPlugin12OnEdictFreedEPK7edict_t"
+		}
+	]
+}

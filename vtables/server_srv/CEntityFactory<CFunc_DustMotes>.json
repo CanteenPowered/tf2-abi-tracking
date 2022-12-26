@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFunc_DustMotes>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CFunc_DustMotesE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFunc_DustMotes>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CFunc_DustMotesE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFunc_DustMotes>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CFunc_DustMotesE13GetEntitySizeEv"
+		}
+	]
+}

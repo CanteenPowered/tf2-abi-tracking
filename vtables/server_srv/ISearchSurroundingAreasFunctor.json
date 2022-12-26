@@ -1,0 +1,10 @@
+{
+	"classname": "ISearchSurroundingAreasFunctor",
+	"classname_mangled": "_ZTV30ISearchSurroundingAreasFunctor",
+	"members": [
+		{
+			"name": "ISearchSurroundingAreasFunctor::~ISearchSurroundingAreasFunctor()",
+			"name_mangled": "_ZN30ISearchSurroundingAreasFunctorD0Ev"
+		}
+	]
+}

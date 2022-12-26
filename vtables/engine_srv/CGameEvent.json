@@ -1,0 +1,90 @@
+{
+	"classname": "CGameEvent",
+	"classname_mangled": "_ZTV10CGameEvent",
+	"members": [
+		{
+			"name": "CGameEvent::~CGameEvent()",
+			"name_mangled": "_ZN10CGameEventD0Ev"
+		},
+		{
+			"name": "CGameEvent::GetName() const",
+			"name_mangled": "_ZNK10CGameEvent7GetNameEv"
+		},
+		{
+			"name": "CGameEvent::IsReliable() const",
+			"name_mangled": "_ZNK10CGameEvent10IsReliableEv"
+		},
+		{
+			"name": "CGameEvent::IsLocal() const",
+			"name_mangled": "_ZNK10CGameEvent7IsLocalEv"
+		},
+		{
+			"name": "CGameEvent::IsEmpty(char const*)",
+			"name_mangled": "_ZN10CGameEvent7IsEmptyEPKc"
+		},
+		{
+			"name": "CGameEvent::GetBool(char const*, bool) const",
+			"name_mangled": "_ZNK10CGameEvent7GetBoolEPKcb"
+		},
+		{
+			"name": "CGameEvent::GetInt(char const*, int) const",
+			"name_mangled": "_ZNK10CGameEvent6GetIntEPKci"
+		},
+		{
+			"name": "CGameEvent::GetFloat(char const*, float) const",
+			"name_mangled": "_ZNK10CGameEvent8GetFloatEPKcf"
+		},
+		{
+			"name": "CGameEvent::GetString(char const*, char const*) const",
+			"name_mangled": "_ZNK10CGameEvent9GetStringEPKcS1_"
+		},
+		{
+			"name": "CGameEvent::SetBool(char const*, bool)",
+			"name_mangled": "_ZN10CGameEvent7SetBoolEPKcb"
+		},
+		{
+			"name": "CGameEvent::SetInt(char const*, int)",
+			"name_mangled": "_ZN10CGameEvent6SetIntEPKci"
+		},
+		{
+			"name": "CGameEvent::SetFloat(char const*, float)",
+			"name_mangled": "_ZN10CGameEvent8SetFloatEPKcf"
+		},
+		{
+			"name": "CGameEvent::SetString(char const*, char const*)",
+			"name_mangled": "_ZN10CGameEvent9SetStringEPKcS1_"
+		},
+		{
+			"name": "CGameEvent::GetUint64(char const*, unsigned long long) const",
+			"name_mangled": "_ZNK10CGameEvent9GetUint64EPKcy"
+		},
+		{
+			"name": "CGameEvent::GetWString(char const*, wchar_t const*) const",
+			"name_mangled": "_ZNK10CGameEvent10GetWStringEPKcPKw"
+		},
+		{
+			"name": "CGameEvent::GetPtr(char const*) const",
+			"name_mangled": "_ZNK10CGameEvent6GetPtrEPKc"
+		},
+		{
+			"name": "CGameEvent::SetUint64(char const*, unsigned long long)",
+			"name_mangled": "_ZN10CGameEvent9SetUint64EPKcy"
+		},
+		{
+			"name": "CGameEvent::SetWString(char const*, wchar_t const*)",
+			"name_mangled": "_ZN10CGameEvent10SetWStringEPKcPKw"
+		},
+		{
+			"name": "CGameEvent::SetPtr(char const*, void const*)",
+			"name_mangled": "_ZN10CGameEvent6SetPtrEPKcPKv"
+		},
+		{
+			"name": "CGameEvent::GetDataKeys() const",
+			"name_mangled": "_ZNK10CGameEvent11GetDataKeysEv"
+		},
+		{
+			"name": "CGameEvent::ForEventData(IGameEventVisitor2*) const",
+			"name_mangled": "_ZNK10CGameEvent12ForEventDataEP18IGameEventVisitor2"
+		}
+	]
+}

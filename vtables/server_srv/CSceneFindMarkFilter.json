@@ -1,0 +1,10 @@
+{
+	"classname": "CSceneFindMarkFilter",
+	"classname_mangled": "_ZTV20CSceneFindMarkFilter",
+	"members": [
+		{
+			"name": "CSceneFindMarkFilter::GetFilterResult()",
+			"name_mangled": "_ZN20CSceneFindMarkFilter15GetFilterResultEv"
+		}
+	]
+}

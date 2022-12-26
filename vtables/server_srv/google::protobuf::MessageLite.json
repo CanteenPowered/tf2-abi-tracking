@@ -1,0 +1,10 @@
+{
+	"classname": "google::protobuf::MessageLite",
+	"classname_mangled": "_ZTVN6google8protobuf11MessageLiteE",
+	"members": [
+		{
+			"name": "google::protobuf::MessageLite::~MessageLite()",
+			"name_mangled": "_ZN6google8protobuf11MessageLiteD0Ev"
+		}
+	]
+}

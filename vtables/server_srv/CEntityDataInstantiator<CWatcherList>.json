@@ -1,0 +1,22 @@
+{
+	"classname": "CEntityDataInstantiator<CWatcherList>",
+	"classname_mangled": "_ZTV23CEntityDataInstantiatorI12CWatcherListE",
+	"members": [
+		{
+			"name": "CEntityDataInstantiator<CWatcherList>::~CEntityDataInstantiator()",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI12CWatcherListED0Ev"
+		},
+		{
+			"name": "CEntityDataInstantiator<CWatcherList>::GetDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI12CWatcherListE13GetDataObjectEPK11CBaseEntity"
+		},
+		{
+			"name": "CEntityDataInstantiator<CWatcherList>::CreateDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI12CWatcherListE16CreateDataObjectEPK11CBaseEntity"
+		},
+		{
+			"name": "CEntityDataInstantiator<CWatcherList>::DestroyDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI12CWatcherListE17DestroyDataObjectEPK11CBaseEntity"
+		}
+	]
+}

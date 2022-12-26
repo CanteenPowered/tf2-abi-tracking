@@ -1,0 +1,10 @@
+{
+	"classname": "IPooledVBAllocator",
+	"classname_mangled": "_ZTV18IPooledVBAllocator",
+	"members": [
+		{
+			"name": "IPooledVBAllocator::~IPooledVBAllocator()",
+			"name_mangled": "_ZN18IPooledVBAllocatorD0Ev"
+		}
+	]
+}

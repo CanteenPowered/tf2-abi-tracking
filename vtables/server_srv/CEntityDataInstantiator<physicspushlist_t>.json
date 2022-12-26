@@ -1,0 +1,22 @@
+{
+	"classname": "CEntityDataInstantiator<physicspushlist_t>",
+	"classname_mangled": "_ZTV23CEntityDataInstantiatorI17physicspushlist_tE",
+	"members": [
+		{
+			"name": "CEntityDataInstantiator<physicspushlist_t>::~CEntityDataInstantiator()",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI17physicspushlist_tED0Ev"
+		},
+		{
+			"name": "CEntityDataInstantiator<physicspushlist_t>::GetDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI17physicspushlist_tE13GetDataObjectEPK11CBaseEntity"
+		},
+		{
+			"name": "CEntityDataInstantiator<physicspushlist_t>::CreateDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI17physicspushlist_tE16CreateDataObjectEPK11CBaseEntity"
+		},
+		{
+			"name": "CEntityDataInstantiator<physicspushlist_t>::DestroyDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI17physicspushlist_tE17DestroyDataObjectEPK11CBaseEntity"
+		}
+	]
+}

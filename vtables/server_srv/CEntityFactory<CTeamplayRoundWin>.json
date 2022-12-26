@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTeamplayRoundWin>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CTeamplayRoundWinE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTeamplayRoundWin>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CTeamplayRoundWinE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTeamplayRoundWin>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CTeamplayRoundWinE13GetEntitySizeEv"
+		}
+	]
+}

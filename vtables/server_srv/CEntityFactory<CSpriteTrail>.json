@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CSpriteTrail>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CSpriteTrailE",
+	"members": [
+		{
+			"name": "CEntityFactory<CSpriteTrail>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CSpriteTrailE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CSpriteTrail>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CSpriteTrailE13GetEntitySizeEv"
+		}
+	]
+}

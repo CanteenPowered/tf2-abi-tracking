@@ -1,0 +1,10 @@
+{
+	"classname": "IEyeballBossAutoList",
+	"classname_mangled": "_ZTV20IEyeballBossAutoList",
+	"members": [
+		{
+			"name": "IEyeballBossAutoList::~IEyeballBossAutoList()",
+			"name_mangled": "_ZN20IEyeballBossAutoListD0Ev"
+		}
+	]
+}

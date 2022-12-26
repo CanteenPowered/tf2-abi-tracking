@@ -1,0 +1,218 @@
+{
+	"classname": "CHLTVServer",
+	"classname_mangled": "_ZTV11CHLTVServer",
+	"members": [
+		{
+			"name": "CHLTVServer::~CHLTVServer()",
+			"name_mangled": "_ZN11CHLTVServerD0Ev"
+		},
+		{
+			"name": "CHLTVServer::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN11CHLTVServer13FireGameEventEP10IGameEvent"
+		},
+		{
+			"name": "CHLTVServer::ProcessConnectionlessPacket(netpacket_s*)",
+			"name_mangled": "_ZN11CHLTVServer27ProcessConnectionlessPacketEP11netpacket_s"
+		},
+		{
+			"name": "CHLTVServer::Init(bool)",
+			"name_mangled": "_ZN11CHLTVServer4InitEb"
+		},
+		{
+			"name": "CHLTVServer::Shutdown()",
+			"name_mangled": "_ZN11CHLTVServer8ShutdownEv"
+		},
+		{
+			"name": "CHLTVServer::Clear()",
+			"name_mangled": "_ZN11CHLTVServer5ClearEv"
+		},
+		{
+			"name": "CHLTVServer::IsHLTV() const",
+			"name_mangled": "_ZNK11CHLTVServer6IsHLTVEv"
+		},
+		{
+			"name": "CHLTVServer::IsMultiplayer() const",
+			"name_mangled": "_ZNK11CHLTVServer13IsMultiplayerEv"
+		},
+		{
+			"name": "CHLTVServer::FillServerInfo(SVC_ServerInfo&)",
+			"name_mangled": "_ZN11CHLTVServer14FillServerInfoER14SVC_ServerInfo"
+		},
+		{
+			"name": "CHLTVServer::GetNetStats(float&, float&)",
+			"name_mangled": "_ZN11CHLTVServer11GetNetStatsERfS0_"
+		},
+		{
+			"name": "CHLTVServer::GetChallengeType(netadr_s&)",
+			"name_mangled": "_ZN11CHLTVServer16GetChallengeTypeER8netadr_s"
+		},
+		{
+			"name": "CHLTVServer::GetName() const",
+			"name_mangled": "_ZNK11CHLTVServer7GetNameEv"
+		},
+		{
+			"name": "CHLTVServer::GetPassword() const",
+			"name_mangled": "_ZNK11CHLTVServer11GetPasswordEv"
+		},
+		{
+			"name": "CHLTVServer::ConnectClient(netadr_s&, int, int, int, int, char const*, char const*, char const*, int)",
+			"name_mangled": "_ZN11CHLTVServer13ConnectClientER8netadr_siiiiPKcS3_S3_i"
+		},
+		{
+			"name": "CHLTVServer::GetBaseServer()",
+			"name_mangled": "_ZN11CHLTVServer13GetBaseServerEv"
+		},
+		{
+			"name": "CHLTVServer::GetDirector()",
+			"name_mangled": "_ZN11CHLTVServer11GetDirectorEv"
+		},
+		{
+			"name": "CHLTVServer::GetHLTVSlot()",
+			"name_mangled": "_ZN11CHLTVServer11GetHLTVSlotEv"
+		},
+		{
+			"name": "CHLTVServer::GetOnlineTime()",
+			"name_mangled": "_ZN11CHLTVServer13GetOnlineTimeEv"
+		},
+		{
+			"name": "CHLTVServer::GetLocalStats(int&, int&, int&)",
+			"name_mangled": "_ZN11CHLTVServer13GetLocalStatsERiS0_S0_"
+		},
+		{
+			"name": "CHLTVServer::GetGlobalStats(int&, int&, int&)",
+			"name_mangled": "_ZN11CHLTVServer14GetGlobalStatsERiS0_S0_"
+		},
+		{
+			"name": "CHLTVServer::IsMasterProxy()",
+			"name_mangled": "_ZN11CHLTVServer13IsMasterProxyEv"
+		},
+		{
+			"name": "CHLTVServer::IsDemoPlayback()",
+			"name_mangled": "_ZN11CHLTVServer14IsDemoPlaybackEv"
+		},
+		{
+			"name": "CHLTVServer::GetRelayAddress()",
+			"name_mangled": "_ZN11CHLTVServer15GetRelayAddressEv"
+		},
+		{
+			"name": "CHLTVServer::BroadcastEvent(IGameEvent*)",
+			"name_mangled": "_ZN11CHLTVServer14BroadcastEventEP10IGameEvent"
+		},
+		{
+			"name": "CHLTVServer::GetDemoFile()",
+			"name_mangled": "_ZN11CHLTVServer11GetDemoFileEv"
+		},
+		{
+			"name": "CHLTVServer::GetPlaybackStartTick()",
+			"name_mangled": "_ZN11CHLTVServer20GetPlaybackStartTickEv"
+		},
+		{
+			"name": "CHLTVServer::GetPlaybackTick()",
+			"name_mangled": "_ZN11CHLTVServer15GetPlaybackTickEv"
+		},
+		{
+			"name": "CHLTVServer::GetTotalTicks()",
+			"name_mangled": "_ZN11CHLTVServer13GetTotalTicksEv"
+		},
+		{
+			"name": "CHLTVServer::StartPlayback(char const*, bool)",
+			"name_mangled": "_ZN11CHLTVServer13StartPlaybackEPKcb"
+		},
+		{
+			"name": "CHLTVServer::IsPlayingBack()",
+			"name_mangled": "_ZN11CHLTVServer13IsPlayingBackEv"
+		},
+		{
+			"name": "CHLTVServer::IsPlaybackPaused()",
+			"name_mangled": "_ZN11CHLTVServer16IsPlaybackPausedEv"
+		},
+		{
+			"name": "CHLTVServer::IsPlayingTimeDemo()",
+			"name_mangled": "_ZN11CHLTVServer17IsPlayingTimeDemoEv"
+		},
+		{
+			"name": "CHLTVServer::IsSkipping()",
+			"name_mangled": "_ZN11CHLTVServer10IsSkippingEv"
+		},
+		{
+			"name": "CHLTVServer::CanSkipBackwards()",
+			"name_mangled": "_ZN11CHLTVServer16CanSkipBackwardsEv"
+		},
+		{
+			"name": "CHLTVServer::SetPlaybackTimeScale(float)",
+			"name_mangled": "_ZN11CHLTVServer20SetPlaybackTimeScaleEf"
+		},
+		{
+			"name": "CHLTVServer::GetPlaybackTimeScale()",
+			"name_mangled": "_ZN11CHLTVServer20GetPlaybackTimeScaleEv"
+		},
+		{
+			"name": "CHLTVServer::PausePlayback(float)",
+			"name_mangled": "_ZN11CHLTVServer13PausePlaybackEf"
+		},
+		{
+			"name": "CHLTVServer::SkipToTick(int, bool, bool)",
+			"name_mangled": "_ZN11CHLTVServer10SkipToTickEibb"
+		},
+		{
+			"name": "CHLTVServer::SetEndTick(int)",
+			"name_mangled": "_ZN11CHLTVServer10SetEndTickEi"
+		},
+		{
+			"name": "CHLTVServer::ResumePlayback()",
+			"name_mangled": "_ZN11CHLTVServer14ResumePlaybackEv"
+		},
+		{
+			"name": "CHLTVServer::StopPlayback()",
+			"name_mangled": "_ZN11CHLTVServer12StopPlaybackEv"
+		},
+		{
+			"name": "CHLTVServer::InterpolateViewpoint()",
+			"name_mangled": "_ZN11CHLTVServer20InterpolateViewpointEv"
+		},
+		{
+			"name": "CHLTVServer::ReadPacket()",
+			"name_mangled": "_ZN11CHLTVServer10ReadPacketEv"
+		},
+		{
+			"name": "CHLTVServer::ResetDemoInterpolation()",
+			"name_mangled": "_ZN11CHLTVServer22ResetDemoInterpolationEv"
+		},
+		{
+			"name": "CHLTVServer::GetProtocolVersion()",
+			"name_mangled": "_ZN11CHLTVServer18GetProtocolVersionEv"
+		},
+		{
+			"name": "CHLTVServer::ShouldLoopDemos()",
+			"name_mangled": "_ZN11CHLTVServer15ShouldLoopDemosEv"
+		},
+		{
+			"name": "CHLTVServer::OnLastDemoInLoopPlayed()",
+			"name_mangled": "_ZN11CHLTVServer22OnLastDemoInLoopPlayedEv"
+		},
+		{
+			"name": "CHLTVServer::IsLoading()",
+			"name_mangled": "_ZN11CHLTVServer9IsLoadingEv"
+		},
+		{
+			"name": "CHLTVServer::SetMaxClients(int)",
+			"name_mangled": "_ZN11CHLTVServer13SetMaxClientsEi"
+		},
+		{
+			"name": "CHLTVServer::UserInfoChanged(int)",
+			"name_mangled": "_ZN11CHLTVServer15UserInfoChangedEi"
+		},
+		{
+			"name": "CHLTVServer::SendClientMessages(bool)",
+			"name_mangled": "_ZN11CHLTVServer18SendClientMessagesEb"
+		},
+		{
+			"name": "CHLTVServer::ShouldUpdateMasterServer()",
+			"name_mangled": "_ZN11CHLTVServer24ShouldUpdateMasterServerEv"
+		},
+		{
+			"name": "CHLTVServer::CreateNewClient(int)",
+			"name_mangled": "_ZN11CHLTVServer15CreateNewClientEi"
+		}
+	]
+}

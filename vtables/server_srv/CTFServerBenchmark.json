@@ -1,0 +1,26 @@
+{
+	"classname": "CTFServerBenchmark",
+	"classname_mangled": "_ZTV18CTFServerBenchmark",
+	"members": [
+		{
+			"name": "CTFServerBenchmark::UpdateBenchmark()",
+			"name_mangled": "_ZN18CTFServerBenchmark15UpdateBenchmarkEv"
+		},
+		{
+			"name": "CServerBenchmarkHook::EndBenchmark()",
+			"name_mangled": "_ZN20CServerBenchmarkHook12EndBenchmarkEv"
+		},
+		{
+			"name": "CTFServerBenchmark::GetPhysicsModelNames(CUtlVector<char*, CUtlMemory<char*, int>>&)",
+			"name_mangled": "_ZN18CTFServerBenchmark20GetPhysicsModelNamesER10CUtlVectorIPc10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "CTFServerBenchmark::CreateBot()",
+			"name_mangled": "_ZN18CTFServerBenchmark9CreateBotEv"
+		},
+		{
+			"name": "CTFServerBenchmark::GetBlueSpawnPoint(bool)",
+			"name_mangled": "_ZN18CTFServerBenchmark17GetBlueSpawnPointEb"
+		}
+	]
+}

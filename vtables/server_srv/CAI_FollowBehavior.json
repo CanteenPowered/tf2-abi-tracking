@@ -1,0 +1,314 @@
+{
+	"classname": "CAI_FollowBehavior",
+	"classname_mangled": "_ZTV18CAI_FollowBehavior",
+	"members": [
+		{
+			"name": "CAI_FollowBehavior::~CAI_FollowBehavior()",
+			"name_mangled": "_ZN18CAI_FollowBehaviorD0Ev"
+		},
+		{
+			"name": "CAI_ComponentWithOuter<CAI_BaseNPC, CAI_BehaviorBase>::SetOuter(CAI_BaseNPC*)",
+			"name_mangled": "_ZN22CAI_ComponentWithOuterI11CAI_BaseNPC16CAI_BehaviorBaseE8SetOuterEPS0_"
+		},
+		{
+			"name": "CAI_Component::TaskFail(int)",
+			"name_mangled": "_ZN13CAI_Component8TaskFailEi"
+		},
+		{
+			"name": "CAI_FollowBehavior::TaskComplete(bool)",
+			"name_mangled": "_ZN18CAI_FollowBehavior12TaskCompleteEb"
+		},
+		{
+			"name": "CAI_FollowBehavior::GetName()",
+			"name_mangled": "_ZN18CAI_FollowBehavior7GetNameEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::KeyValue(char const*, char const*)",
+			"name_mangled": "_ZN16CAI_BehaviorBase8KeyValueEPKcS1_"
+		},
+		{
+			"name": "CAI_FollowBehavior::CanSelectSchedule()",
+			"name_mangled": "_ZN18CAI_FollowBehavior17CanSelectScheduleEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::BeginScheduleSelection()",
+			"name_mangled": "_ZN18CAI_FollowBehavior22BeginScheduleSelectionEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::EndScheduleSelection()",
+			"name_mangled": "_ZN18CAI_FollowBehavior20EndScheduleSelectionEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::BridgeSpeakMapmakerInterruptConcept(string_t)",
+			"name_mangled": "_ZN16CAI_BehaviorBase35BridgeSpeakMapmakerInterruptConceptE8string_t"
+		},
+		{
+			"name": "CAI_FollowBehavior::GatherConditions()",
+			"name_mangled": "_ZN18CAI_FollowBehavior16GatherConditionsEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::GatherConditionsNotActive()",
+			"name_mangled": "_ZN16CAI_BehaviorBase25GatherConditionsNotActiveEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::OnUpdateShotRegulator()",
+			"name_mangled": "_ZN16CAI_BehaviorBase21OnUpdateShotRegulatorEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::GetClassScheduleIdSpace()",
+			"name_mangled": "_ZN18CAI_FollowBehavior23GetClassScheduleIdSpaceEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::DrawDebugTextOverlays(int)",
+			"name_mangled": "_ZN18CAI_FollowBehavior21DrawDebugTextOverlaysEi"
+		},
+		{
+			"name": "CAI_BehaviorBase::Save(ISave&)",
+			"name_mangled": "_ZN16CAI_BehaviorBase4SaveER5ISave"
+		},
+		{
+			"name": "CAI_BehaviorBase::Restore(IRestore&)",
+			"name_mangled": "_ZN16CAI_BehaviorBase7RestoreER8IRestore"
+		},
+		{
+			"name": "CAI_FollowBehavior::Precache()",
+			"name_mangled": "_ZN18CAI_FollowBehavior8PrecacheEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::Spawn()",
+			"name_mangled": "_ZN16CAI_BehaviorBase5SpawnEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::UpdateOnRemove()",
+			"name_mangled": "_ZN16CAI_BehaviorBase14UpdateOnRemoveEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::Event_Killed(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN16CAI_BehaviorBase12Event_KilledERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CAI_FollowBehavior::CleanupOnDeath(CBaseEntity*, bool)",
+			"name_mangled": "_ZN18CAI_FollowBehavior14CleanupOnDeathEP11CBaseEntityb"
+		},
+		{
+			"name": "CAI_BehaviorBase::PrescheduleThink()",
+			"name_mangled": "_ZN16CAI_BehaviorBase16PrescheduleThinkEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::OnScheduleChange()",
+			"name_mangled": "_ZN16CAI_BehaviorBase16OnScheduleChangeEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::OnStartSchedule(int)",
+			"name_mangled": "_ZN18CAI_FollowBehavior15OnStartScheduleEi"
+		},
+		{
+			"name": "CAI_FollowBehavior::SelectSchedule()",
+			"name_mangled": "_ZN18CAI_FollowBehavior14SelectScheduleEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::SelectFailSchedule(int, int, int)",
+			"name_mangled": "_ZN18CAI_FollowBehavior18SelectFailScheduleEiii"
+		},
+		{
+			"name": "CAI_FollowBehavior::StartTask(Task_t const*)",
+			"name_mangled": "_ZN18CAI_FollowBehavior9StartTaskEPK6Task_t"
+		},
+		{
+			"name": "CAI_FollowBehavior::RunTask(Task_t const*)",
+			"name_mangled": "_ZN18CAI_FollowBehavior7RunTaskEPK6Task_t"
+		},
+		{
+			"name": "CAI_BehaviorBase::AimGun()",
+			"name_mangled": "_ZN16CAI_BehaviorBase6AimGunEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::TranslateSchedule(int)",
+			"name_mangled": "_ZN18CAI_FollowBehavior17TranslateScheduleEi"
+		},
+		{
+			"name": "CAI_BehaviorBase::GetSchedule(int)",
+			"name_mangled": "_ZN16CAI_BehaviorBase11GetScheduleEi"
+		},
+		{
+			"name": "CAI_FollowBehavior::GetSchedulingErrorName()",
+			"name_mangled": "_ZN18CAI_FollowBehavior22GetSchedulingErrorNameEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::BuildScheduleTestBits()",
+			"name_mangled": "_ZN18CAI_FollowBehavior21BuildScheduleTestBitsEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::NPC_TranslateActivity(Activity)",
+			"name_mangled": "_ZN18CAI_FollowBehavior21NPC_TranslateActivityE8Activity"
+		},
+		{
+			"name": "CAI_FollowBehavior::IsCurTaskContinuousMove()",
+			"name_mangled": "_ZN18CAI_FollowBehavior23IsCurTaskContinuousMoveEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::OnMovementFailed()",
+			"name_mangled": "_ZN18CAI_FollowBehavior16OnMovementFailedEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::OnMovementComplete()",
+			"name_mangled": "_ZN18CAI_FollowBehavior18OnMovementCompleteEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::GetDefaultNavGoalTolerance()",
+			"name_mangled": "_ZN16CAI_BehaviorBase26GetDefaultNavGoalToleranceEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::FValidateHintType(CAI_Hint*)",
+			"name_mangled": "_ZN18CAI_FollowBehavior17FValidateHintTypeEP8CAI_Hint"
+		},
+		{
+			"name": "CAI_BehaviorBase::IsValidEnemy(CBaseEntity*)",
+			"name_mangled": "_ZN16CAI_BehaviorBase12IsValidEnemyEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BehaviorBase::BestEnemy()",
+			"name_mangled": "_ZN16CAI_BehaviorBase9BestEnemyEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::IsValidCover(Vector const&, CAI_Hint const*)",
+			"name_mangled": "_ZN18CAI_FollowBehavior12IsValidCoverERK6VectorPK8CAI_Hint"
+		},
+		{
+			"name": "CAI_FollowBehavior::IsValidShootPosition(Vector const&, CAI_Node*, CAI_Hint const*)",
+			"name_mangled": "_ZN18CAI_FollowBehavior20IsValidShootPositionERK6VectorP8CAI_NodePK8CAI_Hint"
+		},
+		{
+			"name": "CAI_BehaviorBase::GetMaxTacticalLateralMovement()",
+			"name_mangled": "_ZN16CAI_BehaviorBase29GetMaxTacticalLateralMovementEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::ShouldIgnoreSound(CSound*)",
+			"name_mangled": "_ZN16CAI_BehaviorBase17ShouldIgnoreSoundEP6CSound"
+		},
+		{
+			"name": "CAI_BehaviorBase::OnSeeEntity(CBaseEntity*)",
+			"name_mangled": "_ZN16CAI_BehaviorBase11OnSeeEntityEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BehaviorBase::OnFriendDamaged(CBaseCombatCharacter*, CBaseEntity*)",
+			"name_mangled": "_ZN16CAI_BehaviorBase15OnFriendDamagedEP20CBaseCombatCharacterP11CBaseEntity"
+		},
+		{
+			"name": "CAI_BehaviorBase::IsInterruptable()",
+			"name_mangled": "_ZN16CAI_BehaviorBase15IsInterruptableEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::IsNavigationUrgent()",
+			"name_mangled": "_ZN16CAI_BehaviorBase18IsNavigationUrgentEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::OnTakeDamage_Alive(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN16CAI_BehaviorBase18OnTakeDamage_AliveERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CAI_BehaviorBase::GetReasonableFacingDist()",
+			"name_mangled": "_ZN16CAI_BehaviorBase23GetReasonableFacingDistEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::ShouldPlayerAvoid()",
+			"name_mangled": "_ZN16CAI_BehaviorBase17ShouldPlayerAvoidEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::CanFlinch()",
+			"name_mangled": "_ZN16CAI_BehaviorBase9CanFlinchEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::IsCrouching()",
+			"name_mangled": "_ZN16CAI_BehaviorBase11IsCrouchingEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::IsCrouchedActivity(Activity)",
+			"name_mangled": "_ZN16CAI_BehaviorBase18IsCrouchedActivityE8Activity"
+		},
+		{
+			"name": "CAI_BehaviorBase::QueryHearSound(CSound*)",
+			"name_mangled": "_ZN16CAI_BehaviorBase14QueryHearSoundEP6CSound"
+		},
+		{
+			"name": "CAI_BehaviorBase::CanRunAScriptedNPCInteraction(bool)",
+			"name_mangled": "_ZN16CAI_BehaviorBase29CanRunAScriptedNPCInteractionEb"
+		},
+		{
+			"name": "CAI_BehaviorBase::GetFlinchActivity(bool, bool)",
+			"name_mangled": "_ZN16CAI_BehaviorBase17GetFlinchActivityEbb"
+		},
+		{
+			"name": "CAI_BehaviorBase::OnCalcBaseMove(AILocalMoveGoal_t*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN16CAI_BehaviorBase14OnCalcBaseMoveEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_BehaviorBase::ModifyOrAppendCriteria(AI_CriteriaSet&)",
+			"name_mangled": "_ZN16CAI_BehaviorBase22ModifyOrAppendCriteriaER14AI_CriteriaSet"
+		},
+		{
+			"name": "CAI_BehaviorBase::Teleport(Vector const*, QAngle const*, Vector const*)",
+			"name_mangled": "_ZN16CAI_BehaviorBase8TeleportEPK6VectorPK6QAngleS2_"
+		},
+		{
+			"name": "CAI_BehaviorBase::HandleAnimEvent(animevent_t*)",
+			"name_mangled": "_ZN16CAI_BehaviorBase15HandleAnimEventEP11animevent_t"
+		},
+		{
+			"name": "CAI_FollowBehavior::ShouldAlwaysThink()",
+			"name_mangled": "_ZN18CAI_FollowBehavior17ShouldAlwaysThinkEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::OnChangeActiveWeapon(CBaseCombatWeapon*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN16CAI_BehaviorBase20OnChangeActiveWeaponEP17CBaseCombatWeaponS1_"
+		},
+		{
+			"name": "CAI_BehaviorBase::SpeakMapmakerInterruptConcept(string_t)",
+			"name_mangled": "_ZN16CAI_BehaviorBase29SpeakMapmakerInterruptConceptE8string_t"
+		},
+		{
+			"name": "CAI_BehaviorBase::OnRestore()",
+			"name_mangled": "_ZN16CAI_BehaviorBase9OnRestoreEv"
+		},
+		{
+			"name": "CAI_BehaviorBase::OnChangeHintGroup(string_t, string_t)",
+			"name_mangled": "_ZN16CAI_BehaviorBase17OnChangeHintGroupE8string_tS0_"
+		},
+		{
+			"name": "CAI_Behavior<CAI_BaseNPC, 100000>::IsBehaviorSchedule(int)",
+			"name_mangled": "_ZN12CAI_BehaviorI11CAI_BaseNPCLi100000EE18IsBehaviorScheduleEi"
+		},
+		{
+			"name": "CAI_FollowBehavior::GetDataDescMap()",
+			"name_mangled": "_ZN18CAI_FollowBehavior14GetDataDescMapEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::DrawDebugGeometryOverlays()",
+			"name_mangled": "_ZN18CAI_FollowBehavior25DrawDebugGeometryOverlaysEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::FarFromFollowTarget()",
+			"name_mangled": "_ZN18CAI_FollowBehavior19FarFromFollowTargetEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::TargetIsUnreachable()",
+			"name_mangled": "_ZN18CAI_FollowBehavior19TargetIsUnreachableEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::ShouldFollow()",
+			"name_mangled": "_ZN18CAI_FollowBehavior12ShouldFollowEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::FollowCallBaseSelectSchedule()",
+			"name_mangled": "_ZN18CAI_FollowBehavior28FollowCallBaseSelectScheduleEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::IsChaseGoalInRange()",
+			"name_mangled": "_ZN18CAI_FollowBehavior18IsChaseGoalInRangeEv"
+		},
+		{
+			"name": "CAI_FollowBehavior::LoadedSchedules()",
+			"name_mangled": "_ZN18CAI_FollowBehavior15LoadedSchedulesEv"
+		}
+	]
+}

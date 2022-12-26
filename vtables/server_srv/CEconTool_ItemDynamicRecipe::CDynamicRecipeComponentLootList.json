@@ -1,0 +1,18 @@
+{
+	"classname": "CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentLootList",
+	"classname_mangled": "_ZTVN27CEconTool_ItemDynamicRecipe31CDynamicRecipeComponentLootListE",
+	"members": [
+		{
+			"name": "CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentLootList::~CDynamicRecipeComponentLootList()",
+			"name_mangled": "_ZN27CEconTool_ItemDynamicRecipe31CDynamicRecipeComponentLootListD0Ev"
+		},
+		{
+			"name": "CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentLootList::ParseKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN27CEconTool_ItemDynamicRecipe31CDynamicRecipeComponentLootList7ParseKVEP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS4_iEE"
+		},
+		{
+			"name": "CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentLootList::BFinishInitialization_Internal(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*, CUtlVector<CEconItemAttributeDefinition const*, CUtlMemory<CEconItemAttributeDefinition const*, int>>*)",
+			"name_mangled": "_ZN27CEconTool_ItemDynamicRecipe31CDynamicRecipeComponentLootList30BFinishInitialization_InternalEP10CUtlVectorI10CUtlString10CUtlMemoryIS2_iEEPS1_IPK28CEconItemAttributeDefinitionS3_IS9_iEE"
+		}
+	]
+}

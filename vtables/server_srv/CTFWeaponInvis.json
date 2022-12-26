@@ -1,0 +1,1926 @@
+{
+	"classname": "CTFWeaponInvis",
+	"classname_mangled": "_ZTV14CTFWeaponInvis",
+	"members": [
+		{
+			"name": "CTFWeaponInvis::~CTFWeaponInvis()",
+			"name_mangled": "_ZN14CTFWeaponInvisD0Ev"
+		},
+		{
+			"name": "CBaseEntity::SetRefEHandle(CBaseHandle const&)",
+			"name_mangled": "_ZN11CBaseEntity13SetRefEHandleERK11CBaseHandle"
+		},
+		{
+			"name": "CBaseEntity::GetRefEHandle() const",
+			"name_mangled": "_ZNK11CBaseEntity13GetRefEHandleEv"
+		},
+		{
+			"name": "CBaseEntity::GetCollideable()",
+			"name_mangled": "_ZN11CBaseEntity14GetCollideableEv"
+		},
+		{
+			"name": "CBaseEntity::GetNetworkable()",
+			"name_mangled": "_ZN11CBaseEntity14GetNetworkableEv"
+		},
+		{
+			"name": "CBaseEntity::GetBaseEntity()",
+			"name_mangled": "_ZN11CBaseEntity13GetBaseEntityEv"
+		},
+		{
+			"name": "CBaseEntity::GetModelIndex() const",
+			"name_mangled": "_ZNK11CBaseEntity13GetModelIndexEv"
+		},
+		{
+			"name": "CBaseEntity::GetModelName() const",
+			"name_mangled": "_ZNK11CBaseEntity12GetModelNameEv"
+		},
+		{
+			"name": "CBaseEntity::SetModelIndex(int)",
+			"name_mangled": "_ZN11CBaseEntity13SetModelIndexEi"
+		},
+		{
+			"name": "CTFWeaponInvis::GetServerClass()",
+			"name_mangled": "_ZN14CTFWeaponInvis14GetServerClassEv"
+		},
+		{
+			"name": "CTFWeaponInvis::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN14CTFWeaponInvis40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTFWeaponInvis::GetDataDescMap()",
+			"name_mangled": "_ZN14CTFWeaponInvis14GetDataDescMapEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetScriptDesc()",
+			"name_mangled": "_ZN13CTFWeaponBase13GetScriptDescEv"
+		},
+		{
+			"name": "CBaseEntity::SetModelIndexOverride(int, int)",
+			"name_mangled": "_ZN11CBaseEntity21SetModelIndexOverrideEii"
+		},
+		{
+			"name": "CBaseAnimating::TestCollision(Ray_t const&, unsigned int, CGameTrace&)",
+			"name_mangled": "_ZN14CBaseAnimating13TestCollisionERK5Ray_tjR10CGameTrace"
+		},
+		{
+			"name": "CBaseAnimating::TestHitboxes(Ray_t const&, unsigned int, CGameTrace&)",
+			"name_mangled": "_ZN14CBaseAnimating12TestHitboxesERK5Ray_tjR10CGameTrace"
+		},
+		{
+			"name": "CBaseEntity::ComputeWorldSpaceSurroundingBox(Vector*, Vector*)",
+			"name_mangled": "_ZN11CBaseEntity31ComputeWorldSpaceSurroundingBoxEP6VectorS1_"
+		},
+		{
+			"name": "CBaseEntity::ShouldCollide(int, int) const",
+			"name_mangled": "_ZNK11CBaseEntity13ShouldCollideEii"
+		},
+		{
+			"name": "CBaseEntity::SetOwnerEntity(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity14SetOwnerEntityEPS_"
+		},
+		{
+			"name": "CBaseEntity::SetScriptOwnerEntity(HSCRIPT__*)",
+			"name_mangled": "_ZN11CBaseEntity20SetScriptOwnerEntityEP9HSCRIPT__"
+		},
+		{
+			"name": "CBaseEntity::ShouldTransmit(CCheckTransmitInfo const*)",
+			"name_mangled": "_ZN11CBaseEntity14ShouldTransmitEPK18CCheckTransmitInfo"
+		},
+		{
+			"name": "CBaseCombatWeapon::UpdateTransmitState()",
+			"name_mangled": "_ZN17CBaseCombatWeapon19UpdateTransmitStateEv"
+		},
+		{
+			"name": "CBaseAnimating::SetTransmit(CCheckTransmitInfo*, bool)",
+			"name_mangled": "_ZN14CBaseAnimating11SetTransmitEP18CCheckTransmitInfob"
+		},
+		{
+			"name": "CTFWeaponBase::GetTracerType()",
+			"name_mangled": "_ZN13CTFWeaponBase13GetTracerTypeEv"
+		},
+		{
+			"name": "CTFWeaponInvis::Spawn()",
+			"name_mangled": "_ZN14CTFWeaponInvis5SpawnEv"
+		},
+		{
+			"name": "CTFWeaponBase::Precache()",
+			"name_mangled": "_ZN13CTFWeaponBase8PrecacheEv"
+		},
+		{
+			"name": "CBaseAnimating::SetModel(char const*)",
+			"name_mangled": "_ZN14CBaseAnimating8SetModelEPKc"
+		},
+		{
+			"name": "CEconEntity::OnNewModel()",
+			"name_mangled": "_ZN11CEconEntity10OnNewModelEv"
+		},
+		{
+			"name": "CBaseEntity::PostConstructor(char const*)",
+			"name_mangled": "_ZN11CBaseEntity15PostConstructorEPKc"
+		},
+		{
+			"name": "CBaseEntity::PostClientActive()",
+			"name_mangled": "_ZN11CBaseEntity16PostClientActiveEv"
+		},
+		{
+			"name": "CBaseEntity::ParseMapData(CEntityMapData*)",
+			"name_mangled": "_ZN11CBaseEntity12ParseMapDataEP14CEntityMapData"
+		},
+		{
+			"name": "CBaseEntity::KeyValue(char const*, char const*)",
+			"name_mangled": "_ZN11CBaseEntity8KeyValueEPKcS1_"
+		},
+		{
+			"name": "CBaseEntity::KeyValue(char const*, float)",
+			"name_mangled": "_ZN11CBaseEntity8KeyValueEPKcf"
+		},
+		{
+			"name": "CBaseEntity::KeyValue(char const*, Vector const&)",
+			"name_mangled": "_ZN11CBaseEntity8KeyValueEPKcRK6Vector"
+		},
+		{
+			"name": "CBaseEntity::GetKeyValue(char const*, char*, int)",
+			"name_mangled": "_ZN11CBaseEntity11GetKeyValueEPKcPci"
+		},
+		{
+			"name": "CTFWeaponBase::Activate()",
+			"name_mangled": "_ZN13CTFWeaponBase8ActivateEv"
+		},
+		{
+			"name": "CBaseEntity::SetParent(CBaseEntity*, int)",
+			"name_mangled": "_ZN11CBaseEntity9SetParentEPS_i"
+		},
+		{
+			"name": "CBaseCombatWeapon::ObjectCaps()",
+			"name_mangled": "_ZN17CBaseCombatWeapon10ObjectCapsEv"
+		},
+		{
+			"name": "CBaseEntity::AcceptInput(char const*, CBaseEntity*, CBaseEntity*, variant_t, int)",
+			"name_mangled": "_ZN11CBaseEntity11AcceptInputEPKcPS_S2_9variant_ti"
+		},
+		{
+			"name": "CBaseAnimating::GetInputDispatchEffectPosition(char const*, Vector&, QAngle&)",
+			"name_mangled": "_ZN14CBaseAnimating30GetInputDispatchEffectPositionEPKcR6VectorR6QAngle"
+		},
+		{
+			"name": "CBaseEntity::DrawDebugGeometryOverlays()",
+			"name_mangled": "_ZN11CBaseEntity25DrawDebugGeometryOverlaysEv"
+		},
+		{
+			"name": "CBaseAnimating::DrawDebugTextOverlays()",
+			"name_mangled": "_ZN14CBaseAnimating21DrawDebugTextOverlaysEv"
+		},
+		{
+			"name": "CBaseEntity::Save(ISave&)",
+			"name_mangled": "_ZN11CBaseEntity4SaveER5ISave"
+		},
+		{
+			"name": "CBaseAnimating::Restore(IRestore&)",
+			"name_mangled": "_ZN14CBaseAnimating7RestoreER8IRestore"
+		},
+		{
+			"name": "CBaseEntity::ShouldSavePhysics()",
+			"name_mangled": "_ZN11CBaseEntity17ShouldSavePhysicsEv"
+		},
+		{
+			"name": "CBaseEntity::OnSave(IEntitySaveUtils*)",
+			"name_mangled": "_ZN11CBaseEntity6OnSaveEP16IEntitySaveUtils"
+		},
+		{
+			"name": "CBaseAnimating::OnRestore()",
+			"name_mangled": "_ZN14CBaseAnimating9OnRestoreEv"
+		},
+		{
+			"name": "CBaseEntity::RequiredEdictIndex()",
+			"name_mangled": "_ZN11CBaseEntity18RequiredEdictIndexEv"
+		},
+		{
+			"name": "CBaseEntity::MoveDone()",
+			"name_mangled": "_ZN11CBaseEntity8MoveDoneEv"
+		},
+		{
+			"name": "CBaseEntity::Think()",
+			"name_mangled": "_ZN11CBaseEntity5ThinkEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::NetworkStateChanged_m_nNextThinkTick()",
+			"name_mangled": "_ZN17CBaseCombatWeapon36NetworkStateChanged_m_nNextThinkTickEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::NetworkStateChanged_m_nNextThinkTick(void*)",
+			"name_mangled": "_ZN17CBaseCombatWeapon36NetworkStateChanged_m_nNextThinkTickEPv"
+		},
+		{
+			"name": "CBaseAnimating::GetBaseAnimating()",
+			"name_mangled": "_ZN14CBaseAnimating16GetBaseAnimatingEv"
+		},
+		{
+			"name": "CBaseEntity::GetResponseSystem()",
+			"name_mangled": "_ZN11CBaseEntity17GetResponseSystemEv"
+		},
+		{
+			"name": "CBaseEntity::DispatchResponse(char const*)",
+			"name_mangled": "_ZN11CBaseEntity16DispatchResponseEPKc"
+		},
+		{
+			"name": "CBaseEntity::Classify()",
+			"name_mangled": "_ZN11CBaseEntity8ClassifyEv"
+		},
+		{
+			"name": "CBaseEntity::DeathNotice(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity11DeathNoticeEPS_"
+		},
+		{
+			"name": "CBaseEntity::ShouldAttractAutoAim(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity20ShouldAttractAutoAimEPS_"
+		},
+		{
+			"name": "CBaseEntity::GetAutoAimRadius()",
+			"name_mangled": "_ZN11CBaseEntity16GetAutoAimRadiusEv"
+		},
+		{
+			"name": "CBaseEntity::GetAutoAimCenter()",
+			"name_mangled": "_ZN11CBaseEntity16GetAutoAimCenterEv"
+		},
+		{
+			"name": "CBaseEntity::GetBeamTraceFilter()",
+			"name_mangled": "_ZN11CBaseEntity18GetBeamTraceFilterEv"
+		},
+		{
+			"name": "CBaseEntity::PassesDamageFilter(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CBaseEntity18PassesDamageFilterERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseEntity::TraceAttack(CTakeDamageInfo const&, Vector const&, CGameTrace*, CDmgAccumulator*)",
+			"name_mangled": "_ZN11CBaseEntity11TraceAttackERK15CTakeDamageInfoRK6VectorP10CGameTraceP15CDmgAccumulator"
+		},
+		{
+			"name": "CBaseEntity::CanBeHitByMeleeAttack(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity21CanBeHitByMeleeAttackEPS_"
+		},
+		{
+			"name": "CBaseEntity::OnTakeDamage(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CBaseEntity12OnTakeDamageERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseEntity::AdjustDamageDirection(CTakeDamageInfo const&, Vector&, CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity21AdjustDamageDirectionERK15CTakeDamageInfoR6VectorPS_"
+		},
+		{
+			"name": "CBaseEntity::TakeHealth(float, int)",
+			"name_mangled": "_ZN11CBaseEntity10TakeHealthEfi"
+		},
+		{
+			"name": "CBaseEntity::IsAlive()",
+			"name_mangled": "_ZN11CBaseEntity7IsAliveEv"
+		},
+		{
+			"name": "CBaseEntity::Event_Killed(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CBaseEntity12Event_KilledERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseEntity::Event_KilledOther(CBaseEntity*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CBaseEntity17Event_KilledOtherEPS_RK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseEntity::BloodColor()",
+			"name_mangled": "_ZN11CBaseEntity10BloodColorEv"
+		},
+		{
+			"name": "CBaseEntity::IsTriggered(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity11IsTriggeredEPS_"
+		},
+		{
+			"name": "CBaseEntity::IsNPC() const",
+			"name_mangled": "_ZNK11CBaseEntity5IsNPCEv"
+		},
+		{
+			"name": "CBaseEntity::MyCombatCharacterPointer()",
+			"name_mangled": "_ZN11CBaseEntity24MyCombatCharacterPointerEv"
+		},
+		{
+			"name": "CBaseEntity::MyNextBotPointer()",
+			"name_mangled": "_ZN11CBaseEntity16MyNextBotPointerEv"
+		},
+		{
+			"name": "CBaseEntity::GetDelay()",
+			"name_mangled": "_ZN11CBaseEntity8GetDelayEv"
+		},
+		{
+			"name": "CBaseEntity::IsMoving()",
+			"name_mangled": "_ZN11CBaseEntity8IsMovingEv"
+		},
+		{
+			"name": "CBaseEntity::DamageDecal(int, int)",
+			"name_mangled": "_ZN11CBaseEntity11DamageDecalEii"
+		},
+		{
+			"name": "CBaseEntity::DecalTrace(CGameTrace*, char const*)",
+			"name_mangled": "_ZN11CBaseEntity10DecalTraceEP10CGameTracePKc"
+		},
+		{
+			"name": "CBaseEntity::ImpactTrace(CGameTrace*, int, char const*)",
+			"name_mangled": "_ZN11CBaseEntity11ImpactTraceEP10CGameTraceiPKc"
+		},
+		{
+			"name": "CBaseEntity::OnControls(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity10OnControlsEPS_"
+		},
+		{
+			"name": "CBaseEntity::HasTarget(string_t)",
+			"name_mangled": "_ZN11CBaseEntity9HasTargetE8string_t"
+		},
+		{
+			"name": "CBaseEntity::IsPlayer() const",
+			"name_mangled": "_ZNK11CBaseEntity8IsPlayerEv"
+		},
+		{
+			"name": "CBaseEntity::IsNetClient() const",
+			"name_mangled": "_ZNK11CBaseEntity11IsNetClientEv"
+		},
+		{
+			"name": "CBaseEntity::IsTemplate()",
+			"name_mangled": "_ZN11CBaseEntity10IsTemplateEv"
+		},
+		{
+			"name": "CBaseEntity::IsBaseObject() const",
+			"name_mangled": "_ZNK11CBaseEntity12IsBaseObjectEv"
+		},
+		{
+			"name": "CBaseEntity::IsBaseTrain() const",
+			"name_mangled": "_ZNK11CBaseEntity11IsBaseTrainEv"
+		},
+		{
+			"name": "CBaseEntity::IsCombatItem() const",
+			"name_mangled": "_ZNK11CBaseEntity12IsCombatItemEv"
+		},
+		{
+			"name": "CBaseEntity::IsProjectileCollisionTarget() const",
+			"name_mangled": "_ZNK11CBaseEntity27IsProjectileCollisionTargetEv"
+		},
+		{
+			"name": "CBaseEntity::IsFuncLOD() const",
+			"name_mangled": "_ZNK11CBaseEntity9IsFuncLODEv"
+		},
+		{
+			"name": "CBaseEntity::IsBaseProjectile() const",
+			"name_mangled": "_ZNK11CBaseEntity16IsBaseProjectileEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::IsBaseCombatWeapon() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon18IsBaseCombatWeaponEv"
+		},
+		{
+			"name": "CBaseEntity::IsWearable() const",
+			"name_mangled": "_ZNK11CBaseEntity10IsWearableEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::MyCombatWeaponPointer()",
+			"name_mangled": "_ZN17CBaseCombatWeapon21MyCombatWeaponPointerEv"
+		},
+		{
+			"name": "CBaseEntity::GetServerVehicle()",
+			"name_mangled": "_ZN11CBaseEntity16GetServerVehicleEv"
+		},
+		{
+			"name": "CBaseEntity::IsViewable()",
+			"name_mangled": "_ZN11CBaseEntity10IsViewableEv"
+		},
+		{
+			"name": "CTFWeaponBase::ChangeTeam(int)",
+			"name_mangled": "_ZN13CTFWeaponBase10ChangeTeamEi"
+		},
+		{
+			"name": "CBaseEntity::OnEntityEvent(EntityEvent_t, void*)",
+			"name_mangled": "_ZN11CBaseEntity13OnEntityEventE13EntityEvent_tPv"
+		},
+		{
+			"name": "CBaseEntity::CanStandOn(CBaseEntity*) const",
+			"name_mangled": "_ZNK11CBaseEntity10CanStandOnEPS_"
+		},
+		{
+			"name": "CBaseEntity::CanStandOn(edict_t*) const",
+			"name_mangled": "_ZNK11CBaseEntity10CanStandOnEP7edict_t"
+		},
+		{
+			"name": "CBaseEntity::GetEnemy()",
+			"name_mangled": "_ZN11CBaseEntity8GetEnemyEv"
+		},
+		{
+			"name": "CBaseEntity::GetEnemy() const",
+			"name_mangled": "_ZNK11CBaseEntity8GetEnemyEv"
+		},
+		{
+			"name": "CTFWeaponBase::Use(CBaseEntity*, CBaseEntity*, USE_TYPE, float)",
+			"name_mangled": "_ZN13CTFWeaponBase3UseEP11CBaseEntityS1_8USE_TYPEf"
+		},
+		{
+			"name": "CBaseEntity::StartTouch(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity10StartTouchEPS_"
+		},
+		{
+			"name": "CBaseEntity::Touch(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity5TouchEPS_"
+		},
+		{
+			"name": "CBaseEntity::EndTouch(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity8EndTouchEPS_"
+		},
+		{
+			"name": "CBaseEntity::StartBlocked(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity12StartBlockedEPS_"
+		},
+		{
+			"name": "CBaseEntity::Blocked(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity7BlockedEPS_"
+		},
+		{
+			"name": "CBaseEntity::EndBlocked()",
+			"name_mangled": "_ZN11CBaseEntity10EndBlockedEv"
+		},
+		{
+			"name": "CBaseEntity::PhysicsSimulate()",
+			"name_mangled": "_ZN11CBaseEntity15PhysicsSimulateEv"
+		},
+		{
+			"name": "CTFWeaponBase::UpdateOnRemove()",
+			"name_mangled": "_ZN13CTFWeaponBase14UpdateOnRemoveEv"
+		},
+		{
+			"name": "CBaseEntity::StopLoopingSounds()",
+			"name_mangled": "_ZN11CBaseEntity17StopLoopingSoundsEv"
+		},
+		{
+			"name": "CBaseEntity::SUB_AllowedToFade()",
+			"name_mangled": "_ZN11CBaseEntity17SUB_AllowedToFadeEv"
+		},
+		{
+			"name": "CBaseAnimating::Teleport(Vector const*, QAngle const*, Vector const*)",
+			"name_mangled": "_ZN14CBaseAnimating8TeleportEPK6VectorPK6QAngleS2_"
+		},
+		{
+			"name": "CBaseEntity::NotifySystemEvent(CBaseEntity*, notify_system_event_t, notify_system_event_params_t const&)",
+			"name_mangled": "_ZN11CBaseEntity17NotifySystemEventEPS_21notify_system_event_tRK28notify_system_event_params_t"
+		},
+		{
+			"name": "CBaseCombatWeapon::MakeTracer(Vector const&, CGameTrace const&, int)",
+			"name_mangled": "_ZN17CBaseCombatWeapon10MakeTracerERK6VectorRK10CGameTracei"
+		},
+		{
+			"name": "CBaseEntity::GetTracerAttachment()",
+			"name_mangled": "_ZN11CBaseEntity19GetTracerAttachmentEv"
+		},
+		{
+			"name": "CBaseEntity::FireBullets(FireBulletsInfo_t const&)",
+			"name_mangled": "_ZN11CBaseEntity11FireBulletsERK17FireBulletsInfo_t"
+		},
+		{
+			"name": "CBaseEntity::DoImpactEffect(CGameTrace&, int)",
+			"name_mangled": "_ZN11CBaseEntity14DoImpactEffectER10CGameTracei"
+		},
+		{
+			"name": "CBaseEntity::ModifyFireBulletsDamage(CTakeDamageInfo*)",
+			"name_mangled": "_ZN11CBaseEntity23ModifyFireBulletsDamageEP15CTakeDamageInfo"
+		},
+		{
+			"name": "CTFWeaponBase::Respawn()",
+			"name_mangled": "_ZN13CTFWeaponBase7RespawnEv"
+		},
+		{
+			"name": "CBaseEntity::IsLockedByMaster()",
+			"name_mangled": "_ZN11CBaseEntity16IsLockedByMasterEv"
+		},
+		{
+			"name": "CBaseEntity::GetMaxHealth() const",
+			"name_mangled": "_ZNK11CBaseEntity12GetMaxHealthEv"
+		},
+		{
+			"name": "CBaseAnimating::ModifyOrAppendCriteria(AI_CriteriaSet&)",
+			"name_mangled": "_ZN14CBaseAnimating22ModifyOrAppendCriteriaER14AI_CriteriaSet"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_iMaxHealth()",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_iMaxHealthEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_iMaxHealth(void*)",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_iMaxHealthEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_iHealth()",
+			"name_mangled": "_ZN11CBaseEntity29NetworkStateChanged_m_iHealthEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_iHealth(void*)",
+			"name_mangled": "_ZN11CBaseEntity29NetworkStateChanged_m_iHealthEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_lifeState()",
+			"name_mangled": "_ZN11CBaseEntity31NetworkStateChanged_m_lifeStateEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_lifeState(void*)",
+			"name_mangled": "_ZN11CBaseEntity31NetworkStateChanged_m_lifeStateEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_takedamage()",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_takedamageEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_takedamage(void*)",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_takedamageEPv"
+		},
+		{
+			"name": "CBaseEntity::RunVScripts()",
+			"name_mangled": "_ZN11CBaseEntity11RunVScriptsEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetDamageType() const",
+			"name_mangled": "_ZNK13CTFWeaponBase13GetDamageTypeEv"
+		},
+		{
+			"name": "CBaseEntity::GetDamage()",
+			"name_mangled": "_ZN11CBaseEntity9GetDamageEv"
+		},
+		{
+			"name": "CBaseEntity::SetDamage(float)",
+			"name_mangled": "_ZN11CBaseEntity9SetDamageEf"
+		},
+		{
+			"name": "CBaseEntity::EyePosition()",
+			"name_mangled": "_ZN11CBaseEntity11EyePositionEv"
+		},
+		{
+			"name": "CBaseEntity::EyeAngles()",
+			"name_mangled": "_ZN11CBaseEntity9EyeAnglesEv"
+		},
+		{
+			"name": "CBaseEntity::LocalEyeAngles()",
+			"name_mangled": "_ZN11CBaseEntity14LocalEyeAnglesEv"
+		},
+		{
+			"name": "CBaseEntity::EarPosition()",
+			"name_mangled": "_ZN11CBaseEntity11EarPositionEv"
+		},
+		{
+			"name": "CBaseEntity::BodyTarget(Vector const&, bool)",
+			"name_mangled": "_ZN11CBaseEntity10BodyTargetERK6Vectorb"
+		},
+		{
+			"name": "CBaseEntity::HeadTarget(Vector const&)",
+			"name_mangled": "_ZN11CBaseEntity10HeadTargetERK6Vector"
+		},
+		{
+			"name": "CBaseEntity::GetVectors(Vector*, Vector*, Vector*) const",
+			"name_mangled": "_ZNK11CBaseEntity10GetVectorsEP6VectorS1_S1_"
+		},
+		{
+			"name": "CBaseEntity::GetViewOffset() const",
+			"name_mangled": "_ZNK11CBaseEntity13GetViewOffsetEv"
+		},
+		{
+			"name": "CBaseEntity::SetViewOffset(Vector const&)",
+			"name_mangled": "_ZN11CBaseEntity13SetViewOffsetERK6Vector"
+		},
+		{
+			"name": "CBaseEntity::GetSmoothedVelocity()",
+			"name_mangled": "_ZN11CBaseEntity19GetSmoothedVelocityEv"
+		},
+		{
+			"name": "CBaseAnimating::GetVelocity(Vector*, Vector*)",
+			"name_mangled": "_ZN14CBaseAnimating11GetVelocityEP6VectorS1_"
+		},
+		{
+			"name": "CBaseEntity::FVisible(CBaseEntity*, int, CBaseEntity**)",
+			"name_mangled": "_ZN11CBaseEntity8FVisibleEPS_iPS0_"
+		},
+		{
+			"name": "CBaseEntity::FVisible(Vector const&, int, CBaseEntity**)",
+			"name_mangled": "_ZN11CBaseEntity8FVisibleERK6VectoriPPS_"
+		},
+		{
+			"name": "CBaseEntity::CanBeSeenBy(CAI_BaseNPC*)",
+			"name_mangled": "_ZN11CBaseEntity11CanBeSeenByEP11CAI_BaseNPC"
+		},
+		{
+			"name": "CBaseEntity::GetAttackDamageScale(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity20GetAttackDamageScaleEPS_"
+		},
+		{
+			"name": "CBaseEntity::GetReceivedDamageScale(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity22GetReceivedDamageScaleEPS_"
+		},
+		{
+			"name": "CBaseEntity::GetGroundVelocityToApply(Vector&)",
+			"name_mangled": "_ZN11CBaseEntity24GetGroundVelocityToApplyER6Vector"
+		},
+		{
+			"name": "CBaseEntity::PhysicsSplash(Vector const&, Vector const&, float, float)",
+			"name_mangled": "_ZN11CBaseEntity13PhysicsSplashERK6VectorS2_ff"
+		},
+		{
+			"name": "CBaseEntity::Splash()",
+			"name_mangled": "_ZN11CBaseEntity6SplashEv"
+		},
+		{
+			"name": "CBaseEntity::WorldSpaceCenter() const",
+			"name_mangled": "_ZNK11CBaseEntity16WorldSpaceCenterEv"
+		},
+		{
+			"name": "CBaseEntity::GetSoundEmissionOrigin() const",
+			"name_mangled": "_ZNK11CBaseEntity22GetSoundEmissionOriginEv"
+		},
+		{
+			"name": "CBaseEntity::ModifyEmitSoundParams(EmitSound_t&)",
+			"name_mangled": "_ZN11CBaseEntity21ModifyEmitSoundParamsER11EmitSound_t"
+		},
+		{
+			"name": "CBaseEntity::IsDeflectable()",
+			"name_mangled": "_ZN11CBaseEntity13IsDeflectableEv"
+		},
+		{
+			"name": "CBaseEntity::Deflected(CBaseEntity*, Vector&)",
+			"name_mangled": "_ZN11CBaseEntity9DeflectedEPS_R6Vector"
+		},
+		{
+			"name": "CBaseEntity::CreateVPhysics()",
+			"name_mangled": "_ZN11CBaseEntity14CreateVPhysicsEv"
+		},
+		{
+			"name": "CBaseEntity::ForceVPhysicsCollide(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity20ForceVPhysicsCollideEPS_"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsDestroyObject()",
+			"name_mangled": "_ZN11CBaseEntity21VPhysicsDestroyObjectEv"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsUpdate(IPhysicsObject*)",
+			"name_mangled": "_ZN11CBaseEntity14VPhysicsUpdateEP14IPhysicsObject"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsTakeDamage(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CBaseEntity18VPhysicsTakeDamageERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsShadowCollision(int, gamevcollisionevent_t*)",
+			"name_mangled": "_ZN11CBaseEntity23VPhysicsShadowCollisionEiP21gamevcollisionevent_t"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsShadowUpdate(IPhysicsObject*)",
+			"name_mangled": "_ZN11CBaseEntity20VPhysicsShadowUpdateEP14IPhysicsObject"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsCollision(int, gamevcollisionevent_t*)",
+			"name_mangled": "_ZN11CBaseEntity17VPhysicsCollisionEiP21gamevcollisionevent_t"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsFriction(IPhysicsObject*, float, int, int)",
+			"name_mangled": "_ZN11CBaseEntity16VPhysicsFrictionEP14IPhysicsObjectfii"
+		},
+		{
+			"name": "CBaseEntity::UpdatePhysicsShadowToCurrentPosition(float)",
+			"name_mangled": "_ZN11CBaseEntity36UpdatePhysicsShadowToCurrentPositionEf"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsGetObjectList(IPhysicsObject**, int)",
+			"name_mangled": "_ZN11CBaseEntity21VPhysicsGetObjectListEPP14IPhysicsObjecti"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsIsFlesh()",
+			"name_mangled": "_ZN11CBaseEntity15VPhysicsIsFleshEv"
+		},
+		{
+			"name": "CBaseEntity::HasPhysicsAttacker(float)",
+			"name_mangled": "_ZN11CBaseEntity18HasPhysicsAttackerEf"
+		},
+		{
+			"name": "CBaseEntity::PhysicsSolidMaskForEntity() const",
+			"name_mangled": "_ZNK11CBaseEntity25PhysicsSolidMaskForEntityEv"
+		},
+		{
+			"name": "CBaseEntity::ResolveFlyCollisionCustom(CGameTrace&, Vector&)",
+			"name_mangled": "_ZN11CBaseEntity25ResolveFlyCollisionCustomER10CGameTraceR6Vector"
+		},
+		{
+			"name": "CBaseEntity::PerformCustomPhysics(Vector*, Vector*, QAngle*, QAngle*)",
+			"name_mangled": "_ZN11CBaseEntity20PerformCustomPhysicsEP6VectorS1_P6QAngleS3_"
+		},
+		{
+			"name": "CBaseAnimating::GetStepOrigin() const",
+			"name_mangled": "_ZNK14CBaseAnimating13GetStepOriginEv"
+		},
+		{
+			"name": "CBaseAnimating::GetStepAngles() const",
+			"name_mangled": "_ZNK14CBaseAnimating13GetStepAnglesEv"
+		},
+		{
+			"name": "CBaseEntity::ShouldDrawWaterImpacts()",
+			"name_mangled": "_ZN11CBaseEntity22ShouldDrawWaterImpactsEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_fFlags()",
+			"name_mangled": "_ZN11CBaseEntity28NetworkStateChanged_m_fFlagsEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_fFlags(void*)",
+			"name_mangled": "_ZN11CBaseEntity28NetworkStateChanged_m_fFlagsEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_nWaterLevel()",
+			"name_mangled": "_ZN11CBaseEntity33NetworkStateChanged_m_nWaterLevelEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_nWaterLevel(void*)",
+			"name_mangled": "_ZN11CBaseEntity33NetworkStateChanged_m_nWaterLevelEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_hGroundEntity()",
+			"name_mangled": "_ZN11CBaseEntity35NetworkStateChanged_m_hGroundEntityEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_hGroundEntity(void*)",
+			"name_mangled": "_ZN11CBaseEntity35NetworkStateChanged_m_hGroundEntityEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecBaseVelocity()",
+			"name_mangled": "_ZN11CBaseEntity37NetworkStateChanged_m_vecBaseVelocityEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecBaseVelocity(void*)",
+			"name_mangled": "_ZN11CBaseEntity37NetworkStateChanged_m_vecBaseVelocityEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_flFriction()",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_flFrictionEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_flFriction(void*)",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_flFrictionEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecVelocity()",
+			"name_mangled": "_ZN11CBaseEntity33NetworkStateChanged_m_vecVelocityEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecVelocity(void*)",
+			"name_mangled": "_ZN11CBaseEntity33NetworkStateChanged_m_vecVelocityEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecViewOffset()",
+			"name_mangled": "_ZN11CBaseEntity35NetworkStateChanged_m_vecViewOffsetEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecViewOffset(void*)",
+			"name_mangled": "_ZN11CBaseEntity35NetworkStateChanged_m_vecViewOffsetEPv"
+		},
+		{
+			"name": "CBaseEntity::ShouldBlockNav() const",
+			"name_mangled": "_ZNK11CBaseEntity14ShouldBlockNavEv"
+		},
+		{
+			"name": "CBaseEntity::ShouldForceTransmitsForTeam(int)",
+			"name_mangled": "_ZN11CBaseEntity27ShouldForceTransmitsForTeamEi"
+		},
+		{
+			"name": "CBaseEntity::IsTruceValidForEnt() const",
+			"name_mangled": "_ZNK11CBaseEntity18IsTruceValidForEntEv"
+		},
+		{
+			"name": "CBaseEntity::GetDefaultItemChargeMeterValue() const",
+			"name_mangled": "_ZNK11CBaseEntity30GetDefaultItemChargeMeterValueEv"
+		},
+		{
+			"name": "CBaseEntity::BCanCallVote()",
+			"name_mangled": "_ZN11CBaseEntity12BCanCallVoteEv"
+		},
+		{
+			"name": "CBaseAnimating::GetIdealSpeed() const",
+			"name_mangled": "_ZNK14CBaseAnimating13GetIdealSpeedEv"
+		},
+		{
+			"name": "CBaseAnimating::GetIdealAccel() const",
+			"name_mangled": "_ZNK14CBaseAnimating13GetIdealAccelEv"
+		},
+		{
+			"name": "CBaseAnimating::StudioFrameAdvance()",
+			"name_mangled": "_ZN14CBaseAnimating18StudioFrameAdvanceEv"
+		},
+		{
+			"name": "CBaseAnimating::SetSequence(int)",
+			"name_mangled": "_ZN14CBaseAnimating11SetSequenceEi"
+		},
+		{
+			"name": "CBaseAnimating::IsActivityFinished()",
+			"name_mangled": "_ZN14CBaseAnimating18IsActivityFinishedEv"
+		},
+		{
+			"name": "CBaseAnimating::GetSequenceGroundSpeed(CStudioHdr*, int)",
+			"name_mangled": "_ZN14CBaseAnimating22GetSequenceGroundSpeedEP10CStudioHdri"
+		},
+		{
+			"name": "CBaseAnimating::ClampRagdollForce(Vector const&, Vector*)",
+			"name_mangled": "_ZN14CBaseAnimating17ClampRagdollForceERK6VectorPS0_"
+		},
+		{
+			"name": "CBaseAnimating::BecomeRagdollOnClient(Vector const&)",
+			"name_mangled": "_ZN14CBaseAnimating21BecomeRagdollOnClientERK6Vector"
+		},
+		{
+			"name": "CBaseAnimating::IsRagdoll()",
+			"name_mangled": "_ZN14CBaseAnimating9IsRagdollEv"
+		},
+		{
+			"name": "CBaseAnimating::CanBecomeRagdoll()",
+			"name_mangled": "_ZN14CBaseAnimating16CanBecomeRagdollEv"
+		},
+		{
+			"name": "CBaseAnimating::GetSkeleton(CStudioHdr*, Vector*, Quaternion*, int)",
+			"name_mangled": "_ZN14CBaseAnimating11GetSkeletonEP10CStudioHdrP6VectorP10Quaternioni"
+		},
+		{
+			"name": "CBaseAnimating::GetBoneTransform(int, matrix3x4_t&)",
+			"name_mangled": "_ZN14CBaseAnimating16GetBoneTransformEiR11matrix3x4_t"
+		},
+		{
+			"name": "CBaseAnimating::SetupBones(matrix3x4_t*, int)",
+			"name_mangled": "_ZN14CBaseAnimating10SetupBonesEP11matrix3x4_ti"
+		},
+		{
+			"name": "CBaseAnimating::CalculateIKLocks(float)",
+			"name_mangled": "_ZN14CBaseAnimating16CalculateIKLocksEf"
+		},
+		{
+			"name": "CBaseAnimating::DispatchAnimEvents(CBaseAnimating*)",
+			"name_mangled": "_ZN14CBaseAnimating18DispatchAnimEventsEPS_"
+		},
+		{
+			"name": "CBaseCombatWeapon::HandleAnimEvent(animevent_t*)",
+			"name_mangled": "_ZN17CBaseCombatWeapon15HandleAnimEventEP11animevent_t"
+		},
+		{
+			"name": "CBaseAnimating::PopulatePoseParameters()",
+			"name_mangled": "_ZN14CBaseAnimating22PopulatePoseParametersEv"
+		},
+		{
+			"name": "CBaseAnimating::GetAttachment(int, matrix3x4_t&)",
+			"name_mangled": "_ZN14CBaseAnimating13GetAttachmentEiR11matrix3x4_t"
+		},
+		{
+			"name": "CBaseAnimating::InitBoneControllers()",
+			"name_mangled": "_ZN14CBaseAnimating19InitBoneControllersEv"
+		},
+		{
+			"name": "CBaseAnimating::GetGroundSpeedVelocity()",
+			"name_mangled": "_ZN14CBaseAnimating22GetGroundSpeedVelocityEv"
+		},
+		{
+			"name": "CBaseAnimating::RefreshCollisionBounds()",
+			"name_mangled": "_ZN14CBaseAnimating22RefreshCollisionBoundsEv"
+		},
+		{
+			"name": "CBaseAnimating::Ignite(float, bool, float, bool)",
+			"name_mangled": "_ZN14CBaseAnimating6IgniteEfbfb"
+		},
+		{
+			"name": "CBaseAnimating::IgniteLifetime(float)",
+			"name_mangled": "_ZN14CBaseAnimating14IgniteLifetimeEf"
+		},
+		{
+			"name": "CBaseAnimating::IgniteNumHitboxFires(int)",
+			"name_mangled": "_ZN14CBaseAnimating20IgniteNumHitboxFiresEi"
+		},
+		{
+			"name": "CBaseAnimating::IgniteHitboxFireScale(float)",
+			"name_mangled": "_ZN14CBaseAnimating21IgniteHitboxFireScaleEf"
+		},
+		{
+			"name": "CBaseAnimating::Extinguish()",
+			"name_mangled": "_ZN14CBaseAnimating10ExtinguishEv"
+		},
+		{
+			"name": "CBaseAnimating::SetLightingOriginRelative(CBaseEntity*)",
+			"name_mangled": "_ZN14CBaseAnimating25SetLightingOriginRelativeEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseAnimating::SetLightingOrigin(CBaseEntity*)",
+			"name_mangled": "_ZN14CBaseAnimating17SetLightingOriginEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseCombatWeapon::GiveTo(CBaseEntity*)",
+			"name_mangled": "_ZN17CBaseCombatWeapon6GiveToEP11CBaseEntity"
+		},
+		{
+			"name": "CEconEntity::CalculateVisibleClassFor(CBaseCombatCharacter*)",
+			"name_mangled": "_ZN11CEconEntity24CalculateVisibleClassForEP20CBaseCombatCharacter"
+		},
+		{
+			"name": "CEconEntity::GetAttributeManager()",
+			"name_mangled": "_ZN11CEconEntity19GetAttributeManagerEv"
+		},
+		{
+			"name": "CEconEntity::GetAttributeContainer()",
+			"name_mangled": "_ZN11CEconEntity21GetAttributeContainerEv"
+		},
+		{
+			"name": "CEconEntity::GetAttributeOwner()",
+			"name_mangled": "_ZN11CEconEntity17GetAttributeOwnerEv"
+		},
+		{
+			"name": "CEconEntity::GetAttributeList()",
+			"name_mangled": "_ZN11CEconEntity16GetAttributeListEv"
+		},
+		{
+			"name": "CTFWeaponBase::ReapplyProvision()",
+			"name_mangled": "_ZN13CTFWeaponBase16ReapplyProvisionEv"
+		},
+		{
+			"name": "CEconEntity::UpdateBodygroups(CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN11CEconEntity16UpdateBodygroupsEP20CBaseCombatCharacteri"
+		},
+		{
+			"name": "CTFWeaponBase::TranslateViewmodelHandActivityInternal(Activity)",
+			"name_mangled": "_ZN13CTFWeaponBase38TranslateViewmodelHandActivityInternalE8Activity"
+		},
+		{
+			"name": "CTFWeaponBase::IsPredicted() const",
+			"name_mangled": "_ZNK13CTFWeaponBase11IsPredictedEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetSubType()",
+			"name_mangled": "_ZN17CBaseCombatWeapon10GetSubTypeEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::SetSubType(int)",
+			"name_mangled": "_ZN17CBaseCombatWeapon10SetSubTypeEi"
+		},
+		{
+			"name": "CTFWeaponBase::Equip(CBaseCombatCharacter*)",
+			"name_mangled": "_ZN13CTFWeaponBase5EquipEP20CBaseCombatCharacter"
+		},
+		{
+			"name": "CTFWeaponBase::Drop(Vector const&)",
+			"name_mangled": "_ZN13CTFWeaponBase4DropERK6Vector"
+		},
+		{
+			"name": "CBaseCombatWeapon::UpdateClientData(CBasePlayer*)",
+			"name_mangled": "_ZN17CBaseCombatWeapon16UpdateClientDataEP11CBasePlayer"
+		},
+		{
+			"name": "CBaseCombatWeapon::IsAllowedToSwitch()",
+			"name_mangled": "_ZN17CBaseCombatWeapon17IsAllowedToSwitchEv"
+		},
+		{
+			"name": "CTFWeaponInvis::CanBeSelected()",
+			"name_mangled": "_ZN14CTFWeaponInvis13CanBeSelectedEv"
+		},
+		{
+			"name": "CTFWeaponInvis::VisibleInWeaponSelection()",
+			"name_mangled": "_ZN14CTFWeaponInvis24VisibleInWeaponSelectionEv"
+		},
+		{
+			"name": "CTFWeaponBase::HasAmmo()",
+			"name_mangled": "_ZN13CTFWeaponBase7HasAmmoEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::SetPickupTouch()",
+			"name_mangled": "_ZN17CBaseCombatWeapon14SetPickupTouchEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::DefaultTouch(CBaseEntity*)",
+			"name_mangled": "_ZN17CBaseCombatWeapon12DefaultTouchEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseCombatWeapon::ShouldDisplayAltFireHUDHint()",
+			"name_mangled": "_ZN17CBaseCombatWeapon27ShouldDisplayAltFireHUDHintEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::DisplayAltFireHudHint()",
+			"name_mangled": "_ZN17CBaseCombatWeapon21DisplayAltFireHudHintEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::RescindAltFireHudHint()",
+			"name_mangled": "_ZN17CBaseCombatWeapon21RescindAltFireHudHintEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::ShouldDisplayReloadHUDHint()",
+			"name_mangled": "_ZN17CBaseCombatWeapon26ShouldDisplayReloadHUDHintEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::DisplayReloadHudHint()",
+			"name_mangled": "_ZN17CBaseCombatWeapon20DisplayReloadHudHintEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::RescindReloadHudHint()",
+			"name_mangled": "_ZN17CBaseCombatWeapon20RescindReloadHudHintEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::SetViewModelIndex(int)",
+			"name_mangled": "_ZN17CBaseCombatWeapon17SetViewModelIndexEi"
+		},
+		{
+			"name": "CTFWeaponBase::SendWeaponAnim(int)",
+			"name_mangled": "_ZN13CTFWeaponBase14SendWeaponAnimEi"
+		},
+		{
+			"name": "CBaseCombatWeapon::SendViewModelAnim(int)",
+			"name_mangled": "_ZN17CBaseCombatWeapon17SendViewModelAnimEi"
+		},
+		{
+			"name": "CBaseCombatWeapon::SetViewModel()",
+			"name_mangled": "_ZN17CBaseCombatWeapon12SetViewModelEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::HasWeaponIdleTimeElapsed()",
+			"name_mangled": "_ZN17CBaseCombatWeapon24HasWeaponIdleTimeElapsedEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::SetWeaponIdleTime(float)",
+			"name_mangled": "_ZN17CBaseCombatWeapon17SetWeaponIdleTimeEf"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetWeaponIdleTime()",
+			"name_mangled": "_ZN17CBaseCombatWeapon17GetWeaponIdleTimeEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::HasAnyAmmo()",
+			"name_mangled": "_ZN17CBaseCombatWeapon10HasAnyAmmoEv"
+		},
+		{
+			"name": "CTFWeaponInvis::HasPrimaryAmmo()",
+			"name_mangled": "_ZN14CTFWeaponInvis14HasPrimaryAmmoEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::HasSecondaryAmmo()",
+			"name_mangled": "_ZN17CBaseCombatWeapon16HasSecondaryAmmoEv"
+		},
+		{
+			"name": "CTFWeaponBase::CanHolster() const",
+			"name_mangled": "_ZNK13CTFWeaponBase10CanHolsterEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::DefaultDeploy(char*, char*, int, char*)",
+			"name_mangled": "_ZN17CBaseCombatWeapon13DefaultDeployEPcS0_iS0_"
+		},
+		{
+			"name": "CTFWeaponInvis::CanDeploy()",
+			"name_mangled": "_ZN14CTFWeaponInvis9CanDeployEv"
+		},
+		{
+			"name": "CTFWeaponInvis::Deploy()",
+			"name_mangled": "_ZN14CTFWeaponInvis6DeployEv"
+		},
+		{
+			"name": "CTFWeaponInvis::Holster(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN14CTFWeaponInvis7HolsterEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetLastWeapon()",
+			"name_mangled": "_ZN17CBaseCombatWeapon13GetLastWeaponEv"
+		},
+		{
+			"name": "CTFWeaponInvis::SetWeaponVisible(bool)",
+			"name_mangled": "_ZN14CTFWeaponInvis16SetWeaponVisibleEb"
+		},
+		{
+			"name": "CBaseCombatWeapon::IsWeaponVisible()",
+			"name_mangled": "_ZN17CBaseCombatWeapon15IsWeaponVisibleEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::ReloadOrSwitchWeapons()",
+			"name_mangled": "_ZN17CBaseCombatWeapon21ReloadOrSwitchWeaponsEv"
+		},
+		{
+			"name": "CTFWeaponInvis::OnActiveStateChanged(int)",
+			"name_mangled": "_ZN14CTFWeaponInvis20OnActiveStateChangedEi"
+		},
+		{
+			"name": "CBaseCombatWeapon::HolsterOnDetach()",
+			"name_mangled": "_ZN17CBaseCombatWeapon15HolsterOnDetachEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::IsHolstered()",
+			"name_mangled": "_ZN17CBaseCombatWeapon11IsHolsteredEv"
+		},
+		{
+			"name": "CTFWeaponBase::Detach()",
+			"name_mangled": "_ZN13CTFWeaponBase6DetachEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::ItemPreFrame()",
+			"name_mangled": "_ZN17CBaseCombatWeapon12ItemPreFrameEv"
+		},
+		{
+			"name": "CTFWeaponBase::ItemPostFrame()",
+			"name_mangled": "_ZN13CTFWeaponBase13ItemPostFrameEv"
+		},
+		{
+			"name": "CTFWeaponInvis::ItemBusyFrame()",
+			"name_mangled": "_ZN14CTFWeaponInvis13ItemBusyFrameEv"
+		},
+		{
+			"name": "CTFWeaponBase::ItemHolsterFrame()",
+			"name_mangled": "_ZN13CTFWeaponBase16ItemHolsterFrameEv"
+		},
+		{
+			"name": "CTFWeaponBase::WeaponIdle()",
+			"name_mangled": "_ZN13CTFWeaponBase10WeaponIdleEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::HandleFireOnEmpty()",
+			"name_mangled": "_ZN17CBaseCombatWeapon17HandleFireOnEmptyEv"
+		},
+		{
+			"name": "CTFWeaponBase::CanPerformSecondaryAttack() const",
+			"name_mangled": "_ZNK13CTFWeaponBase25CanPerformSecondaryAttackEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::ShouldBlockPrimaryFire()",
+			"name_mangled": "_ZN17CBaseCombatWeapon22ShouldBlockPrimaryFireEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::IsWeaponZoomed()",
+			"name_mangled": "_ZN17CBaseCombatWeapon14IsWeaponZoomedEv"
+		},
+		{
+			"name": "CTFWeaponBase::CheckReload()",
+			"name_mangled": "_ZN13CTFWeaponBase11CheckReloadEv"
+		},
+		{
+			"name": "CTFWeaponBase::FinishReload()",
+			"name_mangled": "_ZN13CTFWeaponBase12FinishReloadEv"
+		},
+		{
+			"name": "CTFWeaponBase::AbortReload()",
+			"name_mangled": "_ZN13CTFWeaponBase11AbortReloadEv"
+		},
+		{
+			"name": "CTFWeaponBase::Reload()",
+			"name_mangled": "_ZN13CTFWeaponBase6ReloadEv"
+		},
+		{
+			"name": "CTFWeaponBase::AutoFiresFullClip() const",
+			"name_mangled": "_ZNK13CTFWeaponBase17AutoFiresFullClipEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::UpdateAutoFire()",
+			"name_mangled": "_ZN17CBaseCombatWeapon14UpdateAutoFireEv"
+		},
+		{
+			"name": "CTFWeaponInvis::PrimaryAttack()",
+			"name_mangled": "_ZN14CTFWeaponInvis13PrimaryAttackEv"
+		},
+		{
+			"name": "CTFWeaponInvis::SecondaryAttack()",
+			"name_mangled": "_ZN14CTFWeaponInvis15SecondaryAttackEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetPrimaryAttackActivity()",
+			"name_mangled": "_ZN17CBaseCombatWeapon24GetPrimaryAttackActivityEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetSecondaryAttackActivity()",
+			"name_mangled": "_ZN17CBaseCombatWeapon26GetSecondaryAttackActivityEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetDrawActivity()",
+			"name_mangled": "_ZN17CBaseCombatWeapon15GetDrawActivityEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetDefaultAnimSpeed()",
+			"name_mangled": "_ZN17CBaseCombatWeapon19GetDefaultAnimSpeedEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetBulletType()",
+			"name_mangled": "_ZN17CBaseCombatWeapon13GetBulletTypeEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetBulletSpread()",
+			"name_mangled": "_ZN13CTFWeaponBase15GetBulletSpreadEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetBulletSpread(WeaponProficiency_t)",
+			"name_mangled": "_ZN17CBaseCombatWeapon15GetBulletSpreadE19WeaponProficiency_t"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetSpreadBias(WeaponProficiency_t)",
+			"name_mangled": "_ZN17CBaseCombatWeapon13GetSpreadBiasE19WeaponProficiency_t"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetFireRate()",
+			"name_mangled": "_ZN17CBaseCombatWeapon11GetFireRateEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetMinBurst()",
+			"name_mangled": "_ZN17CBaseCombatWeapon11GetMinBurstEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetMaxBurst()",
+			"name_mangled": "_ZN17CBaseCombatWeapon11GetMaxBurstEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetMinRestTime()",
+			"name_mangled": "_ZN17CBaseCombatWeapon14GetMinRestTimeEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetMaxRestTime()",
+			"name_mangled": "_ZN17CBaseCombatWeapon14GetMaxRestTimeEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetRandomBurst()",
+			"name_mangled": "_ZN17CBaseCombatWeapon14GetRandomBurstEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::WeaponSound(WeaponSound_t, float)",
+			"name_mangled": "_ZN17CBaseCombatWeapon11WeaponSoundE13WeaponSound_tf"
+		},
+		{
+			"name": "CBaseCombatWeapon::StopWeaponSound(WeaponSound_t)",
+			"name_mangled": "_ZN17CBaseCombatWeapon15StopWeaponSoundE13WeaponSound_t"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetProficiencyValues()",
+			"name_mangled": "_ZN17CBaseCombatWeapon20GetProficiencyValuesEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetMaxAutoAimDeflection()",
+			"name_mangled": "_ZN17CBaseCombatWeapon23GetMaxAutoAimDeflectionEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::WeaponAutoAimScale()",
+			"name_mangled": "_ZN17CBaseCombatWeapon18WeaponAutoAimScaleEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::StartSprinting()",
+			"name_mangled": "_ZN17CBaseCombatWeapon14StartSprintingEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::StopSprinting()",
+			"name_mangled": "_ZN17CBaseCombatWeapon13StopSprintingEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetDamage(float, int)",
+			"name_mangled": "_ZN17CBaseCombatWeapon9GetDamageEfi"
+		},
+		{
+			"name": "CBaseCombatWeapon::SetActivity(Activity, float)",
+			"name_mangled": "_ZN17CBaseCombatWeapon11SetActivityE8Activityf"
+		},
+		{
+			"name": "CBaseCombatWeapon::AddViewKick()",
+			"name_mangled": "_ZN17CBaseCombatWeapon11AddViewKickEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetDeathNoticeName()",
+			"name_mangled": "_ZN17CBaseCombatWeapon18GetDeathNoticeNameEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::OnPickedUp(CBaseCombatCharacter*)",
+			"name_mangled": "_ZN17CBaseCombatWeapon10OnPickedUpEP20CBaseCombatCharacter"
+		},
+		{
+			"name": "CBaseCombatWeapon::AddViewmodelBob(CBaseViewModel*, Vector&, QAngle&)",
+			"name_mangled": "_ZN17CBaseCombatWeapon15AddViewmodelBobEP14CBaseViewModelR6VectorR6QAngle"
+		},
+		{
+			"name": "CBaseCombatWeapon::CalcViewmodelBob()",
+			"name_mangled": "_ZN17CBaseCombatWeapon16CalcViewmodelBobEv"
+		},
+		{
+			"name": "CTFWeaponInvis::GetControlPanelInfo(int, char const*&)",
+			"name_mangled": "_ZN14CTFWeaponInvis19GetControlPanelInfoEiRPKc"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetControlPanelClassName(int, char const*&)",
+			"name_mangled": "_ZN17CBaseCombatWeapon24GetControlPanelClassNameEiRPKc"
+		},
+		{
+			"name": "CTFWeaponInvis::ShouldShowControlPanels()",
+			"name_mangled": "_ZN14CTFWeaponInvis23ShouldShowControlPanelsEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::CanBePickedUpByNPCs()",
+			"name_mangled": "_ZN17CBaseCombatWeapon19CanBePickedUpByNPCsEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetSkinOverride() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon15GetSkinOverrideEv"
+		},
+		{
+			"name": "CTFWeaponInvis::GetViewModel(int) const",
+			"name_mangled": "_ZNK14CTFWeaponInvis12GetViewModelEi"
+		},
+		{
+			"name": "CTFWeaponBase::GetWorldModel() const",
+			"name_mangled": "_ZNK13CTFWeaponBase13GetWorldModelEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetAnimPrefix() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon13GetAnimPrefixEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetMaxClip1() const",
+			"name_mangled": "_ZNK13CTFWeaponBase11GetMaxClip1Ev"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetMaxClip2() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon11GetMaxClip2Ev"
+		},
+		{
+			"name": "CTFWeaponBase::GetDefaultClip1() const",
+			"name_mangled": "_ZNK13CTFWeaponBase15GetDefaultClip1Ev"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetDefaultClip2() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon15GetDefaultClip2Ev"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetWeight() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon9GetWeightEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::AllowsAutoSwitchTo() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon18AllowsAutoSwitchToEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::AllowsAutoSwitchFrom() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon20AllowsAutoSwitchFromEv"
+		},
+		{
+			"name": "CTFWeaponBase::ForceWeaponSwitch() const",
+			"name_mangled": "_ZNK13CTFWeaponBase17ForceWeaponSwitchEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetWeaponFlags() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon14GetWeaponFlagsEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetSlot() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon7GetSlotEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetPosition() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon11GetPositionEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetName() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon7GetNameEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetPrintName() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon12GetPrintNameEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetShootSound(int) const",
+			"name_mangled": "_ZNK13CTFWeaponBase13GetShootSoundEi"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetRumbleEffect() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon15GetRumbleEffectEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::UsesClipsForAmmo1() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon17UsesClipsForAmmo1Ev"
+		},
+		{
+			"name": "CBaseCombatWeapon::UsesClipsForAmmo2() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon17UsesClipsForAmmo2Ev"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetEncryptionKey()",
+			"name_mangled": "_ZN17CBaseCombatWeapon16GetEncryptionKeyEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetPrimaryAmmoType() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon18GetPrimaryAmmoTypeEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetSecondaryAmmoType() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon20GetSecondaryAmmoTypeEv"
+		},
+		{
+			"name": "CTFWeaponBase::Clip1()",
+			"name_mangled": "_ZN13CTFWeaponBase5Clip1Ev"
+		},
+		{
+			"name": "CTFWeaponBase::Clip2()",
+			"name_mangled": "_ZN13CTFWeaponBase5Clip2Ev"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetSpriteActive() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon15GetSpriteActiveEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetSpriteInactive() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon17GetSpriteInactiveEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetSpriteAmmo() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon13GetSpriteAmmoEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetSpriteAmmo2() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon14GetSpriteAmmo2Ev"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetSpriteCrosshair() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon18GetSpriteCrosshairEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetSpriteAutoaim() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon16GetSpriteAutoaimEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetSpriteZoomedCrosshair() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon24GetSpriteZoomedCrosshairEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetSpriteZoomedAutoaim() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon22GetSpriteZoomedAutoaimEv"
+		},
+		{
+			"name": "CTFWeaponBase::ActivityOverride(Activity, bool*)",
+			"name_mangled": "_ZN13CTFWeaponBase16ActivityOverrideE8ActivityPb"
+		},
+		{
+			"name": "CTFWeaponBase::ActivityList(int&)",
+			"name_mangled": "_ZN13CTFWeaponBase12ActivityListERi"
+		},
+		{
+			"name": "CBaseCombatWeapon::ShouldUseLargeViewModelVROverride()",
+			"name_mangled": "_ZN17CBaseCombatWeapon33ShouldUseLargeViewModelVROverrideEv"
+		},
+		{
+			"name": "CTFWeaponBase::FallInit()",
+			"name_mangled": "_ZN13CTFWeaponBase8FallInitEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::FallThink()",
+			"name_mangled": "_ZN17CBaseCombatWeapon9FallThinkEv"
+		},
+		{
+			"name": "CTFWeaponBase::Materialize()",
+			"name_mangled": "_ZN13CTFWeaponBase11MaterializeEv"
+		},
+		{
+			"name": "CTFWeaponBase::CheckRespawn()",
+			"name_mangled": "_ZN13CTFWeaponBase12CheckRespawnEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::Delete()",
+			"name_mangled": "_ZN17CBaseCombatWeapon6DeleteEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::Kill()",
+			"name_mangled": "_ZN17CBaseCombatWeapon4KillEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::CapabilitiesGet()",
+			"name_mangled": "_ZN17CBaseCombatWeapon15CapabilitiesGetEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::WeaponLOSCondition(Vector const&, Vector const&, bool)",
+			"name_mangled": "_ZN17CBaseCombatWeapon18WeaponLOSConditionERK6VectorS2_b"
+		},
+		{
+			"name": "CBaseCombatWeapon::WeaponRangeAttack1Condition(float, float)",
+			"name_mangled": "_ZN17CBaseCombatWeapon27WeaponRangeAttack1ConditionEff"
+		},
+		{
+			"name": "CBaseCombatWeapon::WeaponRangeAttack2Condition(float, float)",
+			"name_mangled": "_ZN17CBaseCombatWeapon27WeaponRangeAttack2ConditionEff"
+		},
+		{
+			"name": "CBaseCombatWeapon::WeaponMeleeAttack1Condition(float, float)",
+			"name_mangled": "_ZN17CBaseCombatWeapon27WeaponMeleeAttack1ConditionEff"
+		},
+		{
+			"name": "CBaseCombatWeapon::WeaponMeleeAttack2Condition(float, float)",
+			"name_mangled": "_ZN17CBaseCombatWeapon27WeaponMeleeAttack2ConditionEff"
+		},
+		{
+			"name": "CBaseCombatWeapon::Operator_FrameUpdate(CBaseCombatCharacter*)",
+			"name_mangled": "_ZN17CBaseCombatWeapon20Operator_FrameUpdateEP20CBaseCombatCharacter"
+		},
+		{
+			"name": "CTFWeaponBase::Operator_HandleAnimEvent(animevent_t*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN13CTFWeaponBase24Operator_HandleAnimEventEP11animevent_tP20CBaseCombatCharacter"
+		},
+		{
+			"name": "CBaseCombatWeapon::Operator_ForceNPCFire(CBaseCombatCharacter*, bool)",
+			"name_mangled": "_ZN17CBaseCombatWeapon21Operator_ForceNPCFireEP20CBaseCombatCharacterb"
+		},
+		{
+			"name": "CBaseCombatWeapon::GetDmgAccumulator()",
+			"name_mangled": "_ZN17CBaseCombatWeapon17GetDmgAccumulatorEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::CanLower()",
+			"name_mangled": "_ZN17CBaseCombatWeapon8CanLowerEv"
+		},
+		{
+			"name": "CTFWeaponBase::Ready()",
+			"name_mangled": "_ZN13CTFWeaponBase5ReadyEv"
+		},
+		{
+			"name": "CTFWeaponBase::Lower()",
+			"name_mangled": "_ZN13CTFWeaponBase5LowerEv"
+		},
+		{
+			"name": "CTFWeaponInvis::HideThink()",
+			"name_mangled": "_ZN14CTFWeaponInvis9HideThinkEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::CanReload()",
+			"name_mangled": "_ZN17CBaseCombatWeapon9CanReloadEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetNextSecondaryAttackDelay()",
+			"name_mangled": "_ZN13CTFWeaponBase27GetNextSecondaryAttackDelayEv"
+		},
+		{
+			"name": "CTFWeaponInvis::GetWeaponID() const",
+			"name_mangled": "_ZNK14CTFWeaponInvis11GetWeaponIDEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetCustomDamageType() const",
+			"name_mangled": "_ZNK13CTFWeaponBase19GetCustomDamageTypeEv"
+		},
+		{
+			"name": "CTFWeaponBase::UsesPrimaryAmmo()",
+			"name_mangled": "_ZN13CTFWeaponBase15UsesPrimaryAmmoEv"
+		},
+		{
+			"name": "CTFWeaponBase::UberChargeAmmoPerShot()",
+			"name_mangled": "_ZN13CTFWeaponBase21UberChargeAmmoPerShotEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetPlayerPoseParamList(int&)",
+			"name_mangled": "_ZN13CTFWeaponBase22GetPlayerPoseParamListERi"
+		},
+		{
+			"name": "CTFWeaponBase::GetItemPoseParamList(int&)",
+			"name_mangled": "_ZN13CTFWeaponBase20GetItemPoseParamListERi"
+		},
+		{
+			"name": "CTFWeaponBase::GetOwnerViaInterface()",
+			"name_mangled": "_ZN13CTFWeaponBase20GetOwnerViaInterfaceEv"
+		},
+		{
+			"name": "CTFWeaponBase::StartHolsterAnim()",
+			"name_mangled": "_ZN13CTFWeaponBase16StartHolsterAnimEv"
+		},
+		{
+			"name": "CTFWeaponBase::UpdateHands()",
+			"name_mangled": "_ZN13CTFWeaponBase11UpdateHandsEv"
+		},
+		{
+			"name": "CTFWeaponBase::OwnerCanTaunt()",
+			"name_mangled": "_ZN13CTFWeaponBase13OwnerCanTauntEv"
+		},
+		{
+			"name": "CTFWeaponBase::CanBeCritBoosted()",
+			"name_mangled": "_ZN13CTFWeaponBase16CanBeCritBoostedEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetTauntItem() const",
+			"name_mangled": "_ZNK13CTFWeaponBase12GetTauntItemEv"
+		},
+		{
+			"name": "CTFWeaponBase::UpdateExtraWearables()",
+			"name_mangled": "_ZN13CTFWeaponBase20UpdateExtraWearablesEv"
+		},
+		{
+			"name": "CTFWeaponBase::ExtraWearableEquipped(CTFWearable*)",
+			"name_mangled": "_ZN13CTFWeaponBase21ExtraWearableEquippedEP11CTFWearable"
+		},
+		{
+			"name": "CTFWeaponBase::ExtraWearableViewModelEquipped(CTFWearable*)",
+			"name_mangled": "_ZN13CTFWeaponBase30ExtraWearableViewModelEquippedEP11CTFWearable"
+		},
+		{
+			"name": "CTFWeaponBase::HideAttachmentsAndShowBodygroupsWhenPerformingWeaponIndependentTaunt() const",
+			"name_mangled": "_ZNK13CTFWeaponBase68HideAttachmentsAndShowBodygroupsWhenPerformingWeaponIndependentTauntEv"
+		},
+		{
+			"name": "CTFWeaponBase::RemoveExtraWearables()",
+			"name_mangled": "_ZN13CTFWeaponBase20RemoveExtraWearablesEv"
+		},
+		{
+			"name": "CTFWeaponBase::Misfire()",
+			"name_mangled": "_ZN13CTFWeaponBase7MisfireEv"
+		},
+		{
+			"name": "CTFWeaponBase::FireFullClipAtOnce()",
+			"name_mangled": "_ZN13CTFWeaponBase18FireFullClipAtOnceEv"
+		},
+		{
+			"name": "CTFWeaponBase::CalcIsAttackCriticalHelper()",
+			"name_mangled": "_ZN13CTFWeaponBase26CalcIsAttackCriticalHelperEv"
+		},
+		{
+			"name": "CTFWeaponBase::CalcIsAttackCriticalHelperNoCrits()",
+			"name_mangled": "_ZN13CTFWeaponBase33CalcIsAttackCriticalHelperNoCritsEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetPenetrateType() const",
+			"name_mangled": "_ZNK13CTFWeaponBase16GetPenetrateTypeEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetProjectileFireSetup(CTFPlayer*, Vector, Vector*, QAngle*, bool, float)",
+			"name_mangled": "_ZN13CTFWeaponBase22GetProjectileFireSetupEP9CTFPlayer6VectorPS2_P6QAnglebf"
+		},
+		{
+			"name": "CTFWeaponBase::GetSpreadAngles()",
+			"name_mangled": "_ZN13CTFWeaponBase15GetSpreadAnglesEv"
+		},
+		{
+			"name": "CTFWeaponBase::IsFiring() const",
+			"name_mangled": "_ZNK13CTFWeaponBase8IsFiringEv"
+		},
+		{
+			"name": "CTFWeaponBase::AreRandomCritsEnabled()",
+			"name_mangled": "_ZN13CTFWeaponBase21AreRandomCritsEnabledEv"
+		},
+		{
+			"name": "CTFWeaponBase::DefaultReload(int, int, int)",
+			"name_mangled": "_ZN13CTFWeaponBase13DefaultReloadEiii"
+		},
+		{
+			"name": "CTFWeaponBase::IsReloading() const",
+			"name_mangled": "_ZNK13CTFWeaponBase11IsReloadingEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetReloadSpeedScale() const",
+			"name_mangled": "_ZNK13CTFWeaponBase19GetReloadSpeedScaleEv"
+		},
+		{
+			"name": "CTFWeaponBase::CheckReloadMisfire()",
+			"name_mangled": "_ZN13CTFWeaponBase18CheckReloadMisfireEv"
+		},
+		{
+			"name": "CTFWeaponBase::CanDrop()",
+			"name_mangled": "_ZN13CTFWeaponBase7CanDropEv"
+		},
+		{
+			"name": "CTFWeaponBase::AllowTaunts()",
+			"name_mangled": "_ZN13CTFWeaponBase11AllowTauntsEv"
+		},
+		{
+			"name": "CTFWeaponBase::ApplyFireDelay(float) const",
+			"name_mangled": "_ZNK13CTFWeaponBase14ApplyFireDelayEf"
+		},
+		{
+			"name": "CTFWeaponBase::GetActivityWeaponRole() const",
+			"name_mangled": "_ZNK13CTFWeaponBase21GetActivityWeaponRoleEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetViewModelWeaponRole()",
+			"name_mangled": "_ZN13CTFWeaponBase22GetViewModelWeaponRoleEv"
+		},
+		{
+			"name": "CTFWeaponBase::AddAssociatedObject(CBaseObject*)",
+			"name_mangled": "_ZN13CTFWeaponBase19AddAssociatedObjectEP11CBaseObject"
+		},
+		{
+			"name": "CTFWeaponBase::RemoveAssociatedObject(CBaseObject*)",
+			"name_mangled": "_ZN13CTFWeaponBase22RemoveAssociatedObjectEP11CBaseObject"
+		},
+		{
+			"name": "CTFWeaponBase::ApplyOnHitAttributes(CBaseEntity*, CTFPlayer*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN13CTFWeaponBase20ApplyOnHitAttributesEP11CBaseEntityP9CTFPlayerRK15CTakeDamageInfo"
+		},
+		{
+			"name": "CTFWeaponBase::ApplyPostHitEffects(CTakeDamageInfo const&, CTFPlayer*)",
+			"name_mangled": "_ZN13CTFWeaponBase19ApplyPostHitEffectsERK15CTakeDamageInfoP9CTFPlayer"
+		},
+		{
+			"name": "CTFWeaponBase::ApplyOnInjuredAttributes(CTFPlayer*, CTFPlayer*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN13CTFWeaponBase24ApplyOnInjuredAttributesEP9CTFPlayerS1_RK15CTakeDamageInfo"
+		},
+		{
+			"name": "CTFWeaponBase::DeflectProjectiles()",
+			"name_mangled": "_ZN13CTFWeaponBase18DeflectProjectilesEv"
+		},
+		{
+			"name": "CTFWeaponBase::DeflectPlayer(CTFPlayer*, CTFPlayer*, Vector&)",
+			"name_mangled": "_ZN13CTFWeaponBase13DeflectPlayerEP9CTFPlayerS1_R6Vector"
+		},
+		{
+			"name": "CTFWeaponBase::DeflectEntity(CBaseEntity*, CTFPlayer*, Vector&)",
+			"name_mangled": "_ZN13CTFWeaponBase13DeflectEntityEP11CBaseEntityP9CTFPlayerR6Vector"
+		},
+		{
+			"name": "CTFWeaponBase::PlayDeflectionSound(bool)",
+			"name_mangled": "_ZN13CTFWeaponBase19PlayDeflectionSoundEb"
+		},
+		{
+			"name": "CTFWeaponBase::GetDeflectionRadius() const",
+			"name_mangled": "_ZNK13CTFWeaponBase19GetDeflectionRadiusEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetJarateTime()",
+			"name_mangled": "_ZN13CTFWeaponBase13GetJarateTimeEv"
+		},
+		{
+			"name": "CTFWeaponBase::CanAttack()",
+			"name_mangled": "_ZN13CTFWeaponBase9CanAttackEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetCanAttackFlags() const",
+			"name_mangled": "_ZNK13CTFWeaponBase17GetCanAttackFlagsEv"
+		},
+		{
+			"name": "CTFWeaponBase::WeaponReset()",
+			"name_mangled": "_ZN13CTFWeaponBase11WeaponResetEv"
+		},
+		{
+			"name": "CTFWeaponBase::WeaponRegenerate()",
+			"name_mangled": "_ZN13CTFWeaponBase16WeaponRegenerateEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetMuzzleFlashEffectName_3rd()",
+			"name_mangled": "_ZN13CTFWeaponBase28GetMuzzleFlashEffectName_3rdEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetMuzzleFlashEffectName_1st()",
+			"name_mangled": "_ZN13CTFWeaponBase28GetMuzzleFlashEffectName_1stEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetMuzzleFlashModel()",
+			"name_mangled": "_ZN13CTFWeaponBase19GetMuzzleFlashModelEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetMuzzleFlashModelLifetime()",
+			"name_mangled": "_ZN13CTFWeaponBase27GetMuzzleFlashModelLifetimeEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetMuzzleFlashParticleEffect()",
+			"name_mangled": "_ZN13CTFWeaponBase28GetMuzzleFlashParticleEffectEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetInventoryModel()",
+			"name_mangled": "_ZN13CTFWeaponBase17GetInventoryModelEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetSpeedMod()",
+			"name_mangled": "_ZN13CTFWeaponBase11GetSpeedModEv"
+		},
+		{
+			"name": "CTFWeaponBase::CanFireCriticalShot(bool, CBaseEntity*)",
+			"name_mangled": "_ZN13CTFWeaponBase19CanFireCriticalShotEbP11CBaseEntity"
+		},
+		{
+			"name": "CTFWeaponBase::CanFireRandomCriticalShot(float)",
+			"name_mangled": "_ZN13CTFWeaponBase25CanFireRandomCriticalShotEf"
+		},
+		{
+			"name": "CTFWeaponBase::OnControlStunned()",
+			"name_mangled": "_ZN13CTFWeaponBase16OnControlStunnedEv"
+		},
+		{
+			"name": "CTFWeaponBase::HideWhileStunned()",
+			"name_mangled": "_ZN13CTFWeaponBase16HideWhileStunnedEv"
+		},
+		{
+			"name": "CTFWeaponBase::IsViewModelFlipped()",
+			"name_mangled": "_ZN13CTFWeaponBase18IsViewModelFlippedEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetMaxHealthMod()",
+			"name_mangled": "_ZN13CTFWeaponBase15GetMaxHealthModEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetLastDeployTime()",
+			"name_mangled": "_ZN13CTFWeaponBase17GetLastDeployTimeEv"
+		},
+		{
+			"name": "CTFWeaponBase::IsEnergyWeapon() const",
+			"name_mangled": "_ZNK13CTFWeaponBase14IsEnergyWeaponEv"
+		},
+		{
+			"name": "CTFWeaponBase::IsBlastImpactWeapon() const",
+			"name_mangled": "_ZNK13CTFWeaponBase19IsBlastImpactWeaponEv"
+		},
+		{
+			"name": "CTFWeaponBase::Energy_GetShotCost() const",
+			"name_mangled": "_ZNK13CTFWeaponBase18Energy_GetShotCostEv"
+		},
+		{
+			"name": "CTFWeaponBase::Energy_GetRechargeCost() const",
+			"name_mangled": "_ZNK13CTFWeaponBase22Energy_GetRechargeCostEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetParticleColor(int)",
+			"name_mangled": "_ZN13CTFWeaponBase16GetParticleColorEi"
+		},
+		{
+			"name": "CTFWeaponBase::HasLastShotCritical()",
+			"name_mangled": "_ZN13CTFWeaponBase19HasLastShotCriticalEv"
+		},
+		{
+			"name": "CTFWeaponBase::UseServerRandomSeed() const",
+			"name_mangled": "_ZNK13CTFWeaponBase19UseServerRandomSeedEv"
+		},
+		{
+			"name": "CTFWeaponBase::IsBroken() const",
+			"name_mangled": "_ZNK13CTFWeaponBase8IsBrokenEv"
+		},
+		{
+			"name": "CTFWeaponBase::SetBroken(bool)",
+			"name_mangled": "_ZN13CTFWeaponBase9SetBrokenEb"
+		},
+		{
+			"name": "CTFWeaponBase::OnBulletFire(int)",
+			"name_mangled": "_ZN13CTFWeaponBase12OnBulletFireEi"
+		},
+		{
+			"name": "CTFWeaponBase::OnPlayerKill(CTFPlayer*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN13CTFWeaponBase12OnPlayerKillEP9CTFPlayerRK15CTakeDamageInfo"
+		},
+		{
+			"name": "CTFWeaponBase::GetLastHitTime()",
+			"name_mangled": "_ZN13CTFWeaponBase14GetLastHitTimeEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetDropSkinOverride()",
+			"name_mangled": "_ZN13CTFWeaponBase19GetDropSkinOverrideEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetInitialAfterburnDuration() const",
+			"name_mangled": "_ZNK13CTFWeaponBase27GetInitialAfterburnDurationEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetAfterburnRateOnHit() const",
+			"name_mangled": "_ZNK13CTFWeaponBase21GetAfterburnRateOnHitEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetSkin()",
+			"name_mangled": "_ZN13CTFWeaponBase7GetSkinEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetEffectBarProgress()",
+			"name_mangled": "_ZN13CTFWeaponBase20GetEffectBarProgressEv"
+		},
+		{
+			"name": "CTFWeaponBase::CanPickupOtherWeapon() const",
+			"name_mangled": "_ZNK13CTFWeaponBase20CanPickupOtherWeaponEv"
+		},
+		{
+			"name": "CTFWeaponBase::ShouldRemoveInvisibilityOnPrimaryAttack() const",
+			"name_mangled": "_ZNK13CTFWeaponBase39ShouldRemoveInvisibilityOnPrimaryAttackEv"
+		},
+		{
+			"name": "CTFWeaponBase::GetEffectBarAmmo()",
+			"name_mangled": "_ZN13CTFWeaponBase16GetEffectBarAmmoEv"
+		},
+		{
+			"name": "CTFWeaponBase::InternalGetEffectBarRechargeTime()",
+			"name_mangled": "_ZN13CTFWeaponBase32InternalGetEffectBarRechargeTimeEv"
+		},
+		{
+			"name": "CTFWeaponBase::CanInspect() const",
+			"name_mangled": "_ZNK13CTFWeaponBase10CanInspectEv"
+		},
+		{
+			"name": "CTFWeaponBase::HookAttributes()",
+			"name_mangled": "_ZN13CTFWeaponBase14HookAttributesEv"
+		},
+		{
+			"name": "CTFWeaponBase::OnUpgraded()",
+			"name_mangled": "_ZN13CTFWeaponBase10OnUpgradedEv"
+		},
+		{
+			"name": "CTFWeaponInvis::ShouldDrawCrosshair()",
+			"name_mangled": "_ZN14CTFWeaponInvis19ShouldDrawCrosshairEv"
+		},
+		{
+			"name": "CTFWeaponInvis::HasFeignDeath()",
+			"name_mangled": "_ZN14CTFWeaponInvis13HasFeignDeathEv"
+		},
+		{
+			"name": "CTFWeaponInvis::HasMotionCloak()",
+			"name_mangled": "_ZN14CTFWeaponInvis14HasMotionCloakEv"
+		},
+		{
+			"name": "CTFWeaponInvis::SetFeignDeathState(bool)",
+			"name_mangled": "_ZN14CTFWeaponInvis18SetFeignDeathStateEb"
+		},
+		{
+			"name": "CTFWeaponInvis::SetCloakRates()",
+			"name_mangled": "_ZN14CTFWeaponInvis13SetCloakRatesEv"
+		},
+		{
+			"name": "CTFWeaponInvis::ActivateInvisibilityWatch()",
+			"name_mangled": "_ZN14CTFWeaponInvis25ActivateInvisibilityWatchEv"
+		},
+		{
+			"name": "CTFWeaponInvis::CleanupInvisibilityWatch()",
+			"name_mangled": "_ZN14CTFWeaponInvis24CleanupInvisibilityWatchEv"
+		},
+		{
+			"name": "CTFWeaponInvis::AllowsAutoSwitchTo()",
+			"name_mangled": "_ZN14CTFWeaponInvis18AllowsAutoSwitchToEv"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "IFuncForceFieldAutoList",
+	"classname_mangled": "_ZTV23IFuncForceFieldAutoList",
+	"members": [
+		{
+			"name": "IFuncForceFieldAutoList::~IFuncForceFieldAutoList()",
+			"name_mangled": "_ZN23IFuncForceFieldAutoListD0Ev"
+		}
+	]
+}

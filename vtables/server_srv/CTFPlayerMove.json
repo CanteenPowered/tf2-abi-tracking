@@ -1,0 +1,22 @@
+{
+	"classname": "CTFPlayerMove",
+	"classname_mangled": "_ZTV13CTFPlayerMove",
+	"members": [
+		{
+			"name": "CTFPlayerMove::~CTFPlayerMove()",
+			"name_mangled": "_ZN13CTFPlayerMoveD0Ev"
+		},
+		{
+			"name": "CTFPlayerMove::SetupMove(CBasePlayer*, CUserCmd*, IMoveHelper*, CMoveData*)",
+			"name_mangled": "_ZN13CTFPlayerMove9SetupMoveEP11CBasePlayerP8CUserCmdP11IMoveHelperP9CMoveData"
+		},
+		{
+			"name": "CTFPlayerMove::FinishMove(CBasePlayer*, CUserCmd*, CMoveData*)",
+			"name_mangled": "_ZN13CTFPlayerMove10FinishMoveEP11CBasePlayerP8CUserCmdP9CMoveData"
+		},
+		{
+			"name": "CTFPlayerMove::StartCommand(CBasePlayer*, CUserCmd*)",
+			"name_mangled": "_ZN13CTFPlayerMove12StartCommandEP11CBasePlayerP8CUserCmd"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAI_TestHull>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CAI_TestHullE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAI_TestHull>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CAI_TestHullE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAI_TestHull>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CAI_TestHullE13GetEntitySizeEv"
+		}
+	]
+}

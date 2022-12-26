@@ -1,0 +1,10 @@
+{
+	"classname": "CFlexAnimationTrack",
+	"classname_mangled": "_ZTV19CFlexAnimationTrack",
+	"members": [
+		{
+			"name": "CFlexAnimationTrack::~CFlexAnimationTrack()",
+			"name_mangled": "_ZN19CFlexAnimationTrackD0Ev"
+		}
+	]
+}

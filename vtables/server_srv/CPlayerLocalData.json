@@ -1,0 +1,10 @@
+{
+	"classname": "CPlayerLocalData",
+	"classname_mangled": "_ZTV16CPlayerLocalData",
+	"members": [
+		{
+			"name": "CPlayerLocalData::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN16CPlayerLocalData19NetworkStateChangedEPv"
+		}
+	]
+}

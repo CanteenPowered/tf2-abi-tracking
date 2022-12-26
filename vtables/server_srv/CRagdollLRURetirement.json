@@ -1,0 +1,78 @@
+{
+	"classname": "CRagdollLRURetirement",
+	"classname_mangled": "_ZTV21CRagdollLRURetirement",
+	"members": [
+		{
+			"name": "CBaseGameSystemPerFrame::Init()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame4InitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PostInit()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8PostInitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::Shutdown()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8ShutdownEv"
+		},
+		{
+			"name": "CRagdollLRURetirement::LevelInitPreEntity()",
+			"name_mangled": "_ZN21CRagdollLRURetirement18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnSave()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnRestore()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::IsPerFrame()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame10IsPerFrameEv"
+		},
+		{
+			"name": "CRagdollLRURetirement::~CRagdollLRURetirement()",
+			"name_mangled": "_ZN21CRagdollLRURetirementD1Ev"
+		},
+		{
+			"name": "CRagdollLRURetirement::~CRagdollLRURetirement()",
+			"name_mangled": "_ZN21CRagdollLRURetirementD0Ev"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CRagdollLRURetirement::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN21CRagdollLRURetirement26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PreClientUpdate()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame15PreClientUpdateEv"
+		},
+		{
+			"name": "CRagdollLRURetirement::Update(float)",
+			"name_mangled": "_ZN21CRagdollLRURetirement6UpdateEf"
+		}
+	]
+}

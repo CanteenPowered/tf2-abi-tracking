@@ -1,0 +1,66 @@
+{
+	"classname": "SVC_UpdateStringTable",
+	"classname_mangled": "_ZTV21SVC_UpdateStringTable",
+	"members": [
+		{
+			"name": "SVC_UpdateStringTable::~SVC_UpdateStringTable()",
+			"name_mangled": "_ZN21SVC_UpdateStringTableD0Ev"
+		},
+		{
+			"name": "CNetMessage::SetNetChannel(INetChannel*)",
+			"name_mangled": "_ZN11CNetMessage13SetNetChannelEP11INetChannel"
+		},
+		{
+			"name": "CNetMessage::SetReliable(bool)",
+			"name_mangled": "_ZN11CNetMessage11SetReliableEb"
+		},
+		{
+			"name": "SVC_UpdateStringTable::Process()",
+			"name_mangled": "_ZN21SVC_UpdateStringTable7ProcessEv"
+		},
+		{
+			"name": "SVC_UpdateStringTable::ReadFromBuffer(bf_read&)",
+			"name_mangled": "_ZN21SVC_UpdateStringTable14ReadFromBufferER7bf_read"
+		},
+		{
+			"name": "SVC_UpdateStringTable::WriteToBuffer(bf_write&)",
+			"name_mangled": "_ZN21SVC_UpdateStringTable13WriteToBufferER8bf_write"
+		},
+		{
+			"name": "CNetMessage::IsReliable() const",
+			"name_mangled": "_ZNK11CNetMessage10IsReliableEv"
+		},
+		{
+			"name": "SVC_UpdateStringTable::GetType() const",
+			"name_mangled": "_ZNK21SVC_UpdateStringTable7GetTypeEv"
+		},
+		{
+			"name": "SVC_UpdateStringTable::GetGroup() const",
+			"name_mangled": "_ZNK21SVC_UpdateStringTable8GetGroupEv"
+		},
+		{
+			"name": "SVC_UpdateStringTable::GetName() const",
+			"name_mangled": "_ZNK21SVC_UpdateStringTable7GetNameEv"
+		},
+		{
+			"name": "CNetMessage::GetNetChannel() const",
+			"name_mangled": "_ZNK11CNetMessage13GetNetChannelEv"
+		},
+		{
+			"name": "SVC_UpdateStringTable::ToString() const",
+			"name_mangled": "_ZNK21SVC_UpdateStringTable8ToStringEv"
+		},
+		{
+			"name": "CNetMessage::BIncomingMessageForProcessing(double, int)",
+			"name_mangled": "_ZN11CNetMessage29BIncomingMessageForProcessingEdi"
+		},
+		{
+			"name": "SVC_UpdateStringTable::GetSize() const",
+			"name_mangled": "_ZNK21SVC_UpdateStringTable7GetSizeEv"
+		},
+		{
+			"name": "CNetMessage::SetRatePolicy()",
+			"name_mangled": "_ZN11CNetMessage13SetRatePolicyEv"
+		}
+	]
+}

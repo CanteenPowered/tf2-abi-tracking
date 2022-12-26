@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFPowerupBottle>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CTFPowerupBottleE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFPowerupBottle>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFPowerupBottleE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFPowerupBottle>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFPowerupBottleE13GetEntitySizeEv"
+		}
+	]
+}

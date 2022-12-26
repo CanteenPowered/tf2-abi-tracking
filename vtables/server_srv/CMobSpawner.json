@@ -1,0 +1,50 @@
+{
+	"classname": "CMobSpawner",
+	"classname_mangled": "_ZTV11CMobSpawner",
+	"members": [
+		{
+			"name": "CMobSpawner::~CMobSpawner()",
+			"name_mangled": "_ZN11CMobSpawnerD0Ev"
+		},
+		{
+			"name": "CMobSpawner::Parse(KeyValues*)",
+			"name_mangled": "_ZN11CMobSpawner5ParseEP9KeyValues"
+		},
+		{
+			"name": "CMobSpawner::Spawn(Vector const&, CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>*)",
+			"name_mangled": "_ZN11CMobSpawner5SpawnERK6VectorP10CUtlVectorI7CHandleI11CBaseEntityE10CUtlMemoryIS6_iEE"
+		},
+		{
+			"name": "IPopulationSpawner::IsWhereRequired() const",
+			"name_mangled": "_ZNK18IPopulationSpawner15IsWhereRequiredEv"
+		},
+		{
+			"name": "IPopulationSpawner::IsVarious()",
+			"name_mangled": "_ZN18IPopulationSpawner9IsVariousEv"
+		},
+		{
+			"name": "IPopulationSpawner::GetClass(int)",
+			"name_mangled": "_ZN18IPopulationSpawner8GetClassEi"
+		},
+		{
+			"name": "IPopulationSpawner::GetClassIcon(int)",
+			"name_mangled": "_ZN18IPopulationSpawner12GetClassIconEi"
+		},
+		{
+			"name": "IPopulationSpawner::GetHealth(int)",
+			"name_mangled": "_ZN18IPopulationSpawner9GetHealthEi"
+		},
+		{
+			"name": "IPopulationSpawner::IsMiniBoss(int)",
+			"name_mangled": "_ZN18IPopulationSpawner10IsMiniBossEi"
+		},
+		{
+			"name": "IPopulationSpawner::HasAttribute(CTFBot::AttributeType, int)",
+			"name_mangled": "_ZN18IPopulationSpawner12HasAttributeEN6CTFBot13AttributeTypeEi"
+		},
+		{
+			"name": "CMobSpawner::HasEventChangeAttributes(char const*) const",
+			"name_mangled": "_ZNK11CMobSpawner24HasEventChangeAttributesEPKc"
+		}
+	]
+}

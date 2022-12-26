@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEntityParticleTrail>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CEntityParticleTrailE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEntityParticleTrail>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CEntityParticleTrailE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEntityParticleTrail>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CEntityParticleTrailE13GetEntitySizeEv"
+		}
+	]
+}

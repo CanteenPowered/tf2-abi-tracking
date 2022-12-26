@@ -1,0 +1,18 @@
+{
+	"classname": "CAI_SensedObjectsManager",
+	"classname_mangled": "_ZTV24CAI_SensedObjectsManager",
+	"members": [
+		{
+			"name": "CAI_SensedObjectsManager::OnEntitySpawned(CBaseEntity*)",
+			"name_mangled": "_ZN24CAI_SensedObjectsManager15OnEntitySpawnedEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_SensedObjectsManager::OnEntityDeleted(CBaseEntity*)",
+			"name_mangled": "_ZN24CAI_SensedObjectsManager15OnEntityDeletedEP11CBaseEntity"
+		},
+		{
+			"name": "CAI_SensedObjectsManager::AddEntity(CBaseEntity*)",
+			"name_mangled": "_ZN24CAI_SensedObjectsManager9AddEntityEP11CBaseEntity"
+		}
+	]
+}

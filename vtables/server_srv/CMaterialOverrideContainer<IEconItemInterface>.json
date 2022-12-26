@@ -1,0 +1,30 @@
+{
+	"classname": "CMaterialOverrideContainer<IEconItemInterface>",
+	"classname_mangled": "_ZTV26CMaterialOverrideContainerI18IEconItemInterfaceE",
+	"members": [
+		{
+			"name": "CMaterialOverrideContainer<IEconItemInterface>::~CMaterialOverrideContainer()",
+			"name_mangled": "_ZN26CMaterialOverrideContainerI18IEconItemInterfaceED0Ev"
+		},
+		{
+			"name": "IEconItemInterface::IsTradable() const",
+			"name_mangled": "_ZNK18IEconItemInterface10IsTradableEv"
+		},
+		{
+			"name": "IEconItemInterface::GetUntradabilityFlags() const",
+			"name_mangled": "_ZNK18IEconItemInterface21GetUntradabilityFlagsEv"
+		},
+		{
+			"name": "IEconItemInterface::IsCommodity() const",
+			"name_mangled": "_ZNK18IEconItemInterface11IsCommodityEv"
+		},
+		{
+			"name": "IEconItemInterface::IsUsableInCrafting() const",
+			"name_mangled": "_ZNK18IEconItemInterface18IsUsableInCraftingEv"
+		},
+		{
+			"name": "IEconItemInterface::IsMarketable() const",
+			"name_mangled": "_ZNK18IEconItemInterface12IsMarketableEv"
+		}
+	]
+}

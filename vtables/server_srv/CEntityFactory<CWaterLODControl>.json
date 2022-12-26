@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CWaterLODControl>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CWaterLODControlE",
+	"members": [
+		{
+			"name": "CEntityFactory<CWaterLODControl>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CWaterLODControlE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CWaterLODControl>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CWaterLODControlE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CLogicEventListenerItemEquip>",
+	"classname_mangled": "_ZTV14CEntityFactoryI28CLogicEventListenerItemEquipE",
+	"members": [
+		{
+			"name": "CEntityFactory<CLogicEventListenerItemEquip>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI28CLogicEventListenerItemEquipE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CLogicEventListenerItemEquip>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI28CLogicEventListenerItemEquipE13GetEntitySizeEv"
+		}
+	]
+}

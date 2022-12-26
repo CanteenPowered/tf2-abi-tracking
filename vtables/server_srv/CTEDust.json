@@ -1,0 +1,30 @@
+{
+	"classname": "CTEDust",
+	"classname_mangled": "_ZTV7CTEDust",
+	"members": [
+		{
+			"name": "CTEDust::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN7CTEDust40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEDust::~CTEDust()",
+			"name_mangled": "_ZN7CTEDustD1Ev"
+		},
+		{
+			"name": "CTEDust::~CTEDust()",
+			"name_mangled": "_ZN7CTEDustD0Ev"
+		},
+		{
+			"name": "CTEDust::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN7CTEDust4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"classname": "CAI_Senses",
+	"classname_mangled": "_ZTV10CAI_Senses",
+	"members": [
+		{
+			"name": "CAI_Senses::~CAI_Senses()",
+			"name_mangled": "_ZN10CAI_SensesD0Ev"
+		},
+		{
+			"name": "CAI_Component::SetOuter(CAI_BaseNPC*)",
+			"name_mangled": "_ZN13CAI_Component8SetOuterEP11CAI_BaseNPC"
+		},
+		{
+			"name": "CAI_Component::TaskFail(int)",
+			"name_mangled": "_ZN13CAI_Component8TaskFailEi"
+		},
+		{
+			"name": "CAI_Component::TaskComplete(bool)",
+			"name_mangled": "_ZN13CAI_Component12TaskCompleteEb"
+		}
+	]
+}

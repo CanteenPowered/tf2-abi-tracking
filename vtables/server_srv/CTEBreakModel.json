@@ -1,0 +1,30 @@
+{
+	"classname": "CTEBreakModel",
+	"classname_mangled": "_ZTV13CTEBreakModel",
+	"members": [
+		{
+			"name": "CTEBreakModel::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN13CTEBreakModel40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEBreakModel::~CTEBreakModel()",
+			"name_mangled": "_ZN13CTEBreakModelD2Ev"
+		},
+		{
+			"name": "CTEBreakModel::~CTEBreakModel()",
+			"name_mangled": "_ZN13CTEBreakModelD0Ev"
+		},
+		{
+			"name": "CTEBreakModel::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN13CTEBreakModel4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CTEBreakModel::Precache()",
+			"name_mangled": "_ZN13CTEBreakModel8PrecacheEv"
+		}
+	]
+}

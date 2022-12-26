@@ -1,0 +1,10 @@
+{
+	"classname": "CItemSelectionCriteria::ICondition",
+	"classname_mangled": "_ZTVN22CItemSelectionCriteria10IConditionE",
+	"members": [
+		{
+			"name": "CItemSelectionCriteria::ICondition::~ICondition()",
+			"name_mangled": "_ZN22CItemSelectionCriteria10IConditionD0Ev"
+		}
+	]
+}

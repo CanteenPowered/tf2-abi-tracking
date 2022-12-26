@@ -1,0 +1,106 @@
+{
+	"classname": "CSoundControllerImp",
+	"classname_mangled": "_ZTV19CSoundControllerImp",
+	"members": [
+		{
+			"name": "CSoundControllerImp::SystemUpdate()",
+			"name_mangled": "_ZN19CSoundControllerImp12SystemUpdateEv"
+		},
+		{
+			"name": "CSoundControllerImp::Play(CSoundPatch*, float, float, float)",
+			"name_mangled": "_ZN19CSoundControllerImp4PlayEP11CSoundPatchfff"
+		},
+		{
+			"name": "CSoundControllerImp::CommandAdd(CSoundPatch*, float, soundcommands_t, float, float)",
+			"name_mangled": "_ZN19CSoundControllerImp10CommandAddEP11CSoundPatchf15soundcommands_tff"
+		},
+		{
+			"name": "CSoundControllerImp::CommandClear(CSoundPatch*)",
+			"name_mangled": "_ZN19CSoundControllerImp12CommandClearEP11CSoundPatch"
+		},
+		{
+			"name": "CSoundControllerImp::Shutdown(CSoundPatch*)",
+			"name_mangled": "_ZN19CSoundControllerImp8ShutdownEP11CSoundPatch"
+		},
+		{
+			"name": "CSoundControllerImp::SoundCreate(IRecipientFilter&, int, char const*)",
+			"name_mangled": "_ZN19CSoundControllerImp11SoundCreateER16IRecipientFilteriPKc"
+		},
+		{
+			"name": "CSoundControllerImp::SoundCreate(IRecipientFilter&, int, int, char const*, float)",
+			"name_mangled": "_ZN19CSoundControllerImp11SoundCreateER16IRecipientFilteriiPKcf"
+		},
+		{
+			"name": "CSoundControllerImp::SoundCreate(IRecipientFilter&, int, int, char const*, soundlevel_t)",
+			"name_mangled": "_ZN19CSoundControllerImp11SoundCreateER16IRecipientFilteriiPKc12soundlevel_t"
+		},
+		{
+			"name": "CSoundControllerImp::SoundCreate(IRecipientFilter&, int, EmitSound_t const&)",
+			"name_mangled": "_ZN19CSoundControllerImp11SoundCreateER16IRecipientFilteriRK11EmitSound_t"
+		},
+		{
+			"name": "CSoundControllerImp::SoundDestroy(CSoundPatch*)",
+			"name_mangled": "_ZN19CSoundControllerImp12SoundDestroyEP11CSoundPatch"
+		},
+		{
+			"name": "CSoundControllerImp::SoundChangePitch(CSoundPatch*, float, float)",
+			"name_mangled": "_ZN19CSoundControllerImp16SoundChangePitchEP11CSoundPatchff"
+		},
+		{
+			"name": "CSoundControllerImp::SoundChangeVolume(CSoundPatch*, float, float)",
+			"name_mangled": "_ZN19CSoundControllerImp17SoundChangeVolumeEP11CSoundPatchff"
+		},
+		{
+			"name": "CSoundControllerImp::SoundFadeOut(CSoundPatch*, float, bool)",
+			"name_mangled": "_ZN19CSoundControllerImp12SoundFadeOutEP11CSoundPatchfb"
+		},
+		{
+			"name": "CSoundControllerImp::SoundGetPitch(CSoundPatch*)",
+			"name_mangled": "_ZN19CSoundControllerImp13SoundGetPitchEP11CSoundPatch"
+		},
+		{
+			"name": "CSoundControllerImp::SoundGetVolume(CSoundPatch*)",
+			"name_mangled": "_ZN19CSoundControllerImp14SoundGetVolumeEP11CSoundPatch"
+		},
+		{
+			"name": "CSoundControllerImp::SoundPlayEnvelope(CSoundPatch*, soundcommands_t, envelopePoint_t*, int)",
+			"name_mangled": "_ZN19CSoundControllerImp17SoundPlayEnvelopeEP11CSoundPatch15soundcommands_tP15envelopePoint_ti"
+		},
+		{
+			"name": "CSoundControllerImp::SoundPlayEnvelope(CSoundPatch*, soundcommands_t, envelopeDescription_t*)",
+			"name_mangled": "_ZN19CSoundControllerImp17SoundPlayEnvelopeEP11CSoundPatch15soundcommands_tP21envelopeDescription_t"
+		},
+		{
+			"name": "CSoundControllerImp::CheckLoopingSoundsForPlayer(CBasePlayer*)",
+			"name_mangled": "_ZN19CSoundControllerImp27CheckLoopingSoundsForPlayerEP11CBasePlayer"
+		},
+		{
+			"name": "CSoundControllerImp::SoundGetName(CSoundPatch*)",
+			"name_mangled": "_ZN19CSoundControllerImp12SoundGetNameEP11CSoundPatch"
+		},
+		{
+			"name": "CSoundControllerImp::SoundSetCloseCaptionDuration(CSoundPatch*, float)",
+			"name_mangled": "_ZN19CSoundControllerImp28SoundSetCloseCaptionDurationEP11CSoundPatchf"
+		},
+		{
+			"name": "CSoundControllerImp::OnRestore()",
+			"name_mangled": "_ZN19CSoundControllerImp9OnRestoreEv"
+		},
+		{
+			"name": "CSoundControllerImp::PreClientUpdate()",
+			"name_mangled": "_ZN19CSoundControllerImp15PreClientUpdateEv"
+		},
+		{
+			"name": "CSoundControllerImp::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN19CSoundControllerImp22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CSoundControllerImp::~CSoundControllerImp()",
+			"name_mangled": "_ZN19CSoundControllerImpD1Ev"
+		},
+		{
+			"name": "CSoundControllerImp::~CSoundControllerImp()",
+			"name_mangled": "_ZN19CSoundControllerImpD0Ev"
+		}
+	]
+}

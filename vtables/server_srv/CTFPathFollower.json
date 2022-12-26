@@ -1,0 +1,130 @@
+{
+	"classname": "CTFPathFollower",
+	"classname_mangled": "_ZTV15CTFPathFollower",
+	"members": [
+		{
+			"name": "CTFPathFollower::~CTFPathFollower()",
+			"name_mangled": "_ZN15CTFPathFollowerD0Ev"
+		},
+		{
+			"name": "Path::GetLength() const",
+			"name_mangled": "_ZNK4Path9GetLengthEv"
+		},
+		{
+			"name": "Path::GetPosition(float, Path::Segment const*) const",
+			"name_mangled": "_ZNK4Path11GetPositionEfPKNS_7SegmentE"
+		},
+		{
+			"name": "Path::GetClosestPosition(Vector const&, Path::Segment const*, float) const",
+			"name_mangled": "_ZNK4Path18GetClosestPositionERK6VectorPKNS_7SegmentEf"
+		},
+		{
+			"name": "Path::GetStartPosition() const",
+			"name_mangled": "_ZNK4Path16GetStartPositionEv"
+		},
+		{
+			"name": "Path::GetEndPosition() const",
+			"name_mangled": "_ZNK4Path14GetEndPositionEv"
+		},
+		{
+			"name": "Path::GetSubject() const",
+			"name_mangled": "_ZNK4Path10GetSubjectEv"
+		},
+		{
+			"name": "CTFPathFollower::GetCurrentGoal() const",
+			"name_mangled": "_ZNK15CTFPathFollower14GetCurrentGoalEv"
+		},
+		{
+			"name": "Path::GetAge() const",
+			"name_mangled": "_ZNK4Path6GetAgeEv"
+		},
+		{
+			"name": "Path::MoveCursorToClosestPosition(Vector const&, Path::SeekType, float) const",
+			"name_mangled": "_ZNK4Path27MoveCursorToClosestPositionERK6VectorNS_8SeekTypeEf"
+		},
+		{
+			"name": "Path::MoveCursorToStart()",
+			"name_mangled": "_ZN4Path17MoveCursorToStartEv"
+		},
+		{
+			"name": "Path::MoveCursorToEnd()",
+			"name_mangled": "_ZN4Path15MoveCursorToEndEv"
+		},
+		{
+			"name": "Path::MoveCursor(float, Path::MoveCursorType)",
+			"name_mangled": "_ZN4Path10MoveCursorEfNS_14MoveCursorTypeE"
+		},
+		{
+			"name": "Path::GetCursorPosition() const",
+			"name_mangled": "_ZNK4Path17GetCursorPositionEv"
+		},
+		{
+			"name": "Path::GetCursorData() const",
+			"name_mangled": "_ZNK4Path13GetCursorDataEv"
+		},
+		{
+			"name": "Path::IsValid() const",
+			"name_mangled": "_ZNK4Path7IsValidEv"
+		},
+		{
+			"name": "CTFPathFollower::Invalidate()",
+			"name_mangled": "_ZN15CTFPathFollower10InvalidateEv"
+		},
+		{
+			"name": "PathFollower::Draw(Path::Segment const*) const",
+			"name_mangled": "_ZNK12PathFollower4DrawEPKN4Path7SegmentE"
+		},
+		{
+			"name": "Path::DrawInterpolated(float, float)",
+			"name_mangled": "_ZN4Path16DrawInterpolatedEff"
+		},
+		{
+			"name": "Path::FirstSegment() const",
+			"name_mangled": "_ZNK4Path12FirstSegmentEv"
+		},
+		{
+			"name": "Path::NextSegment(Path::Segment const*) const",
+			"name_mangled": "_ZNK4Path11NextSegmentEPKNS_7SegmentE"
+		},
+		{
+			"name": "Path::PriorSegment(Path::Segment const*) const",
+			"name_mangled": "_ZNK4Path12PriorSegmentEPKNS_7SegmentE"
+		},
+		{
+			"name": "Path::LastSegment() const",
+			"name_mangled": "_ZNK4Path11LastSegmentEv"
+		},
+		{
+			"name": "CTFPathFollower::OnPathChanged(INextBot*, Path::ResultType)",
+			"name_mangled": "_ZN15CTFPathFollower13OnPathChangedEP8INextBotN4Path10ResultTypeE"
+		},
+		{
+			"name": "Path::Copy(INextBot*, Path const&)",
+			"name_mangled": "_ZN4Path4CopyEP8INextBotRKS_"
+		},
+		{
+			"name": "Path::ComputeWithOpenGoal(INextBot*, IPathCost const&, IPathOpenGoalSelector const&, float)",
+			"name_mangled": "_ZN4Path19ComputeWithOpenGoalEP8INextBotRK9IPathCostRK21IPathOpenGoalSelectorf"
+		},
+		{
+			"name": "Path::ComputeAreaCrossing(INextBot*, CNavArea const*, Vector const&, CNavArea const*, NavDirType, Vector*) const",
+			"name_mangled": "_ZNK4Path19ComputeAreaCrossingEP8INextBotPK8CNavAreaRK6VectorS4_10NavDirTypePS5_"
+		},
+		{
+			"name": "CTFPathFollower::Update(INextBot*)",
+			"name_mangled": "_ZN15CTFPathFollower6UpdateEP8INextBot"
+		},
+		{
+			"name": "CTFPathFollower::SetMinLookAheadDistance(float)",
+			"name_mangled": "_ZN15CTFPathFollower23SetMinLookAheadDistanceEf"
+		},
+		{
+			"name": "PathFollower::GetHindrance() const",
+			"name_mangled": "_ZNK12PathFollower12GetHindranceEv"
+		},
+		{
+			"name": "PathFollower::IsDiscontinuityAhead(INextBot*, Path::SegmentType, float) const",
+			"name_mangled": "_ZNK12PathFollower20IsDiscontinuityAheadEP8INextBotN4Path11SegmentTypeEf"
+		}
+	]
+}

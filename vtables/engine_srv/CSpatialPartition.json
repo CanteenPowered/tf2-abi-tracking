@@ -1,0 +1,158 @@
+{
+	"classname": "CSpatialPartition",
+	"classname_mangled": "_ZTV17CSpatialPartition",
+	"members": [
+		{
+			"name": "CSpatialPartition::~CSpatialPartition()",
+			"name_mangled": "_ZN17CSpatialPartitionD0Ev"
+		},
+		{
+			"name": "CSpatialPartition::CreateHandle(IHandleEntity*)",
+			"name_mangled": "_ZN17CSpatialPartition12CreateHandleEP13IHandleEntity"
+		},
+		{
+			"name": "CSpatialPartition::CreateHandle(IHandleEntity*, int, Vector const&, Vector const&)",
+			"name_mangled": "_ZN17CSpatialPartition12CreateHandleEP13IHandleEntityiRK6VectorS4_"
+		},
+		{
+			"name": "CSpatialPartition::DestroyHandle(unsigned short)",
+			"name_mangled": "_ZN17CSpatialPartition13DestroyHandleEt"
+		},
+		{
+			"name": "CSpatialPartition::Insert(int, unsigned short)",
+			"name_mangled": "_ZN17CSpatialPartition6InsertEit"
+		},
+		{
+			"name": "CSpatialPartition::Remove(int, unsigned short)",
+			"name_mangled": "_ZN17CSpatialPartition6RemoveEit"
+		},
+		{
+			"name": "CSpatialPartition::RemoveAndInsert(int, int, unsigned short)",
+			"name_mangled": "_ZN17CSpatialPartition15RemoveAndInsertEiit"
+		},
+		{
+			"name": "CSpatialPartition::Remove(unsigned short)",
+			"name_mangled": "_ZN17CSpatialPartition6RemoveEt"
+		},
+		{
+			"name": "CSpatialPartition::ElementMoved(unsigned short, Vector const&, Vector const&)",
+			"name_mangled": "_ZN17CSpatialPartition12ElementMovedEtRK6VectorS2_"
+		},
+		{
+			"name": "CSpatialPartition::HideElement(unsigned short)",
+			"name_mangled": "_ZN17CSpatialPartition11HideElementEt"
+		},
+		{
+			"name": "CSpatialPartition::UnhideElement(unsigned short, int)",
+			"name_mangled": "_ZN17CSpatialPartition13UnhideElementEti"
+		},
+		{
+			"name": "CSpatialPartition::InstallQueryCallback_V1(IPartitionQueryCallback*)",
+			"name_mangled": "_ZN17CSpatialPartition23InstallQueryCallback_V1EP23IPartitionQueryCallback"
+		},
+		{
+			"name": "CSpatialPartition::RemoveQueryCallback(IPartitionQueryCallback*)",
+			"name_mangled": "_ZN17CSpatialPartition19RemoveQueryCallbackEP23IPartitionQueryCallback"
+		},
+		{
+			"name": "CSpatialPartition::EnumerateElementsInBox(int, Vector const&, Vector const&, bool, IPartitionEnumerator*)",
+			"name_mangled": "_ZN17CSpatialPartition22EnumerateElementsInBoxEiRK6VectorS2_bP20IPartitionEnumerator"
+		},
+		{
+			"name": "CSpatialPartition::EnumerateElementsInSphere(int, Vector const&, float, bool, IPartitionEnumerator*)",
+			"name_mangled": "_ZN17CSpatialPartition25EnumerateElementsInSphereEiRK6VectorfbP20IPartitionEnumerator"
+		},
+		{
+			"name": "CSpatialPartition::EnumerateElementsAlongRay(int, Ray_t const&, bool, IPartitionEnumerator*)",
+			"name_mangled": "_ZN17CSpatialPartition25EnumerateElementsAlongRayEiRK5Ray_tbP20IPartitionEnumerator"
+		},
+		{
+			"name": "CSpatialPartition::EnumerateElementsAtPoint(int, Vector const&, bool, IPartitionEnumerator*)",
+			"name_mangled": "_ZN17CSpatialPartition24EnumerateElementsAtPointEiRK6VectorbP20IPartitionEnumerator"
+		},
+		{
+			"name": "CSpatialPartition::SuppressLists(int, bool)",
+			"name_mangled": "_ZN17CSpatialPartition13SuppressListsEib"
+		},
+		{
+			"name": "CSpatialPartition::GetSuppressedLists()",
+			"name_mangled": "_ZN17CSpatialPartition18GetSuppressedListsEv"
+		},
+		{
+			"name": "CSpatialPartition::RenderAllObjectsInTree(float)",
+			"name_mangled": "_ZN17CSpatialPartition22RenderAllObjectsInTreeEf"
+		},
+		{
+			"name": "CSpatialPartition::RenderObjectsInPlayerLeafs(Vector const&, Vector const&, float)",
+			"name_mangled": "_ZN17CSpatialPartition26RenderObjectsInPlayerLeafsERK6VectorS2_f"
+		},
+		{
+			"name": "CSpatialPartition::RenderLeafsForRayTraceStart(float)",
+			"name_mangled": "_ZN17CSpatialPartition27RenderLeafsForRayTraceStartEf"
+		},
+		{
+			"name": "CSpatialPartition::RenderLeafsForRayTraceEnd()",
+			"name_mangled": "_ZN17CSpatialPartition25RenderLeafsForRayTraceEndEv"
+		},
+		{
+			"name": "CSpatialPartition::RenderLeafsForHullTraceStart(float)",
+			"name_mangled": "_ZN17CSpatialPartition28RenderLeafsForHullTraceStartEf"
+		},
+		{
+			"name": "CSpatialPartition::RenderLeafsForHullTraceEnd()",
+			"name_mangled": "_ZN17CSpatialPartition26RenderLeafsForHullTraceEndEv"
+		},
+		{
+			"name": "CSpatialPartition::RenderLeafsForBoxStart(float)",
+			"name_mangled": "_ZN17CSpatialPartition22RenderLeafsForBoxStartEf"
+		},
+		{
+			"name": "CSpatialPartition::RenderLeafsForBoxEnd()",
+			"name_mangled": "_ZN17CSpatialPartition20RenderLeafsForBoxEndEv"
+		},
+		{
+			"name": "CSpatialPartition::RenderLeafsForSphereStart(float)",
+			"name_mangled": "_ZN17CSpatialPartition25RenderLeafsForSphereStartEf"
+		},
+		{
+			"name": "CSpatialPartition::RenderLeafsForSphereEnd()",
+			"name_mangled": "_ZN17CSpatialPartition23RenderLeafsForSphereEndEv"
+		},
+		{
+			"name": "CSpatialPartition::RenderObjectsInBox(Vector const&, Vector const&, float)",
+			"name_mangled": "_ZN17CSpatialPartition18RenderObjectsInBoxERK6VectorS2_f"
+		},
+		{
+			"name": "CSpatialPartition::RenderObjectsInSphere(Vector const&, float, float)",
+			"name_mangled": "_ZN17CSpatialPartition21RenderObjectsInSphereERK6Vectorff"
+		},
+		{
+			"name": "CSpatialPartition::RenderObjectsAlongRay(Ray_t const&, float)",
+			"name_mangled": "_ZN17CSpatialPartition21RenderObjectsAlongRayERK5Ray_tf"
+		},
+		{
+			"name": "CSpatialPartition::ReportStats(char const*)",
+			"name_mangled": "_ZN17CSpatialPartition11ReportStatsEPKc"
+		},
+		{
+			"name": "CSpatialPartition::InstallQueryCallback(IPartitionQueryCallback*)",
+			"name_mangled": "_ZN17CSpatialPartition20InstallQueryCallbackEP23IPartitionQueryCallback"
+		},
+		{
+			"name": "CSpatialPartition::Init(Vector const&, Vector const&)",
+			"name_mangled": "_ZN17CSpatialPartition4InitERK6VectorS2_"
+		},
+		{
+			"name": "CSpatialPartition::DrawDebugOverlays()",
+			"name_mangled": "_ZN17CSpatialPartition17DrawDebugOverlaysEv"
+		},
+		{
+			"name": "CSpatialPartition::InsertIntoTree(unsigned short, Vector const&, Vector const&)",
+			"name_mangled": "_ZN17CSpatialPartition14InsertIntoTreeEtRK6VectorS2_"
+		},
+		{
+			"name": "CSpatialPartition::RemoveFromTree(unsigned short)",
+			"name_mangled": "_ZN17CSpatialPartition14RemoveFromTreeEt"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFIntermission>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CTFIntermissionE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFIntermission>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CTFIntermissionE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFIntermission>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CTFIntermissionE13GetEntitySizeEv"
+		}
+	]
+}

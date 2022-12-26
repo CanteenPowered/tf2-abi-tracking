@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<SmokeTrail>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10SmokeTrailE",
+	"members": [
+		{
+			"name": "CEntityFactory<SmokeTrail>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10SmokeTrailE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<SmokeTrail>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10SmokeTrailE13GetEntitySizeEv"
+		}
+	]
+}

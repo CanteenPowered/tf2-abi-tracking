@@ -1,0 +1,14 @@
+{
+	"classname": "CNavAreaScriptInstanceHelper",
+	"classname_mangled": "_ZTV28CNavAreaScriptInstanceHelper",
+	"members": [
+		{
+			"name": "CNavAreaScriptInstanceHelper::ToString(void*, char*, int)",
+			"name_mangled": "_ZN28CNavAreaScriptInstanceHelper8ToStringEPvPci"
+		},
+		{
+			"name": "IScriptInstanceHelper::BindOnRead(HSCRIPT__*, void*, char const*)",
+			"name_mangled": "_ZN21IScriptInstanceHelper10BindOnReadEP9HSCRIPT__PvPKc"
+		}
+	]
+}

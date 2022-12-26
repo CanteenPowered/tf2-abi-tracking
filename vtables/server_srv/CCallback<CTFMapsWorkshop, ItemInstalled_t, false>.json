@@ -1,0 +1,22 @@
+{
+	"classname": "CCallback<CTFMapsWorkshop, ItemInstalled_t, false>",
+	"classname_mangled": "_ZTV9CCallbackI15CTFMapsWorkshop15ItemInstalled_tLb0EE",
+	"members": [
+		{
+			"name": "CCallbackImpl<12>::Run(void*, bool, unsigned long long)",
+			"name_mangled": "_ZN13CCallbackImplILi12EE3RunEPvby"
+		},
+		{
+			"name": "CCallbackImpl<12>::GetCallbackSizeBytes()",
+			"name_mangled": "_ZN13CCallbackImplILi12EE20GetCallbackSizeBytesEv"
+		},
+		{
+			"name": "CCallback<CTFMapsWorkshop, ItemInstalled_t, false>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI15CTFMapsWorkshop15ItemInstalled_tLb0EED2Ev"
+		},
+		{
+			"name": "CCallback<CTFMapsWorkshop, ItemInstalled_t, false>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI15CTFMapsWorkshop15ItemInstalled_tLb0EED0Ev"
+		}
+	]
+}

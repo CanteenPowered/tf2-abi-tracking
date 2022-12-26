@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTriggerPlayerMovement>",
+	"classname_mangled": "_ZTV14CEntityFactoryI22CTriggerPlayerMovementE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTriggerPlayerMovement>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI22CTriggerPlayerMovementE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTriggerPlayerMovement>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI22CTriggerPlayerMovementE13GetEntitySizeEv"
+		}
+	]
+}

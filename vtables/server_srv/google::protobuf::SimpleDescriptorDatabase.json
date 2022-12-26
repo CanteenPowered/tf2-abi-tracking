@@ -1,0 +1,26 @@
+{
+	"classname": "google::protobuf::SimpleDescriptorDatabase",
+	"classname_mangled": "_ZTVN6google8protobuf24SimpleDescriptorDatabaseE",
+	"members": [
+		{
+			"name": "google::protobuf::SimpleDescriptorDatabase::~SimpleDescriptorDatabase()",
+			"name_mangled": "_ZN6google8protobuf24SimpleDescriptorDatabaseD0Ev"
+		},
+		{
+			"name": "google::protobuf::SimpleDescriptorDatabase::FindFileByName(std::string const&, google::protobuf::FileDescriptorProto*)",
+			"name_mangled": "_ZN6google8protobuf24SimpleDescriptorDatabase14FindFileByNameERKSsPNS0_19FileDescriptorProtoE"
+		},
+		{
+			"name": "google::protobuf::SimpleDescriptorDatabase::FindFileContainingSymbol(std::string const&, google::protobuf::FileDescriptorProto*)",
+			"name_mangled": "_ZN6google8protobuf24SimpleDescriptorDatabase24FindFileContainingSymbolERKSsPNS0_19FileDescriptorProtoE"
+		},
+		{
+			"name": "google::protobuf::SimpleDescriptorDatabase::FindFileContainingExtension(std::string const&, int, google::protobuf::FileDescriptorProto*)",
+			"name_mangled": "_ZN6google8protobuf24SimpleDescriptorDatabase27FindFileContainingExtensionERKSsiPNS0_19FileDescriptorProtoE"
+		},
+		{
+			"name": "google::protobuf::SimpleDescriptorDatabase::FindAllExtensionNumbers(std::string const&, std::vector<int, std::allocator<int>>*)",
+			"name_mangled": "_ZN6google8protobuf24SimpleDescriptorDatabase23FindAllExtensionNumbersERKSsPSt6vectorIiSaIiEE"
+		}
+	]
+}

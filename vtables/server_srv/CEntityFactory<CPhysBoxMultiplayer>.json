@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPhysBoxMultiplayer>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CPhysBoxMultiplayerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPhysBoxMultiplayer>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CPhysBoxMultiplayerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPhysBoxMultiplayer>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CPhysBoxMultiplayerE13GetEntitySizeEv"
+		}
+	]
+}

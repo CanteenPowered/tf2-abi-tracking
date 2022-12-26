@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CCompetitiveLogic>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CCompetitiveLogicE",
+	"members": [
+		{
+			"name": "CEntityFactory<CCompetitiveLogic>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CCompetitiveLogicE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CCompetitiveLogic>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CCompetitiveLogicE13GetEntitySizeEv"
+		}
+	]
+}

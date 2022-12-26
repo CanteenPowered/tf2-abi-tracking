@@ -1,0 +1,10 @@
+{
+	"classname": "google::protobuf::DescriptorPool::ErrorCollector",
+	"classname_mangled": "_ZTVN6google8protobuf14DescriptorPool14ErrorCollectorE",
+	"members": [
+		{
+			"name": "google::protobuf::DescriptorPool::ErrorCollector::~ErrorCollector()",
+			"name_mangled": "_ZN6google8protobuf14DescriptorPool14ErrorCollectorD0Ev"
+		}
+	]
+}

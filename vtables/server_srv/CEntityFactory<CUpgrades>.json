@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CUpgrades>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9CUpgradesE",
+	"members": [
+		{
+			"name": "CEntityFactory<CUpgrades>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9CUpgradesE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CUpgrades>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9CUpgradesE13GetEntitySizeEv"
+		}
+	]
+}

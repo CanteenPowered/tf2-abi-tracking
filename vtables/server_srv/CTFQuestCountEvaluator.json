@@ -1,0 +1,98 @@
+{
+	"classname": "CTFQuestCountEvaluator",
+	"classname_mangled": "_ZTV22CTFQuestCountEvaluator",
+	"members": [
+		{
+			"name": "CTFQuestCountEvaluator::~CTFQuestCountEvaluator()",
+			"name_mangled": "_ZN22CTFQuestCountEvaluatorD0Ev"
+		},
+		{
+			"name": "CTFQuestEvaluator::GetBaseName() const",
+			"name_mangled": "_ZNK17CTFQuestEvaluator11GetBaseNameEv"
+		},
+		{
+			"name": "CTFQuestCountEvaluator::GetConditionName() const",
+			"name_mangled": "_ZNK22CTFQuestCountEvaluator16GetConditionNameEv"
+		},
+		{
+			"name": "CTFQuestCondition::GetValueString() const",
+			"name_mangled": "_ZNK17CTFQuestCondition14GetValueStringEv"
+		},
+		{
+			"name": "CTFQuestCountEvaluator::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN22CTFQuestCountEvaluator11BInitFromKVEP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		},
+		{
+			"name": "CTFQuestCondition::PrintDebugText() const",
+			"name_mangled": "_ZNK17CTFQuestCondition14PrintDebugTextEv"
+		},
+		{
+			"name": "CTFQuestCondition::GetQuestOwner() const",
+			"name_mangled": "_ZNK17CTFQuestCondition13GetQuestOwnerEv"
+		},
+		{
+			"name": "CTFQuestCountEvaluator::IsValidForPlayer(CTFPlayer const*, InvalidReason&) const",
+			"name_mangled": "_ZNK22CTFQuestCountEvaluator16IsValidForPlayerEPK9CTFPlayerR13InvalidReason"
+		},
+		{
+			"name": "CTFQuestCondition::IsOperator() const",
+			"name_mangled": "_ZNK17CTFQuestCondition10IsOperatorEv"
+		},
+		{
+			"name": "CTFQuestEvaluator::IsEvaluator() const",
+			"name_mangled": "_ZNK17CTFQuestEvaluator11IsEvaluatorEv"
+		},
+		{
+			"name": "CTFQuestCountEvaluator::AddChildByName(char const*)",
+			"name_mangled": "_ZN22CTFQuestCountEvaluator14AddChildByNameEPKc"
+		},
+		{
+			"name": "CTFQuestCountEvaluator::GetChildren(CUtlVector<CTFQuestCondition*, CUtlMemory<CTFQuestCondition*, int>>&)",
+			"name_mangled": "_ZN22CTFQuestCountEvaluator11GetChildrenER10CUtlVectorIP17CTFQuestCondition10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CTFQuestCountEvaluator::RemoveAndDeleteChild(CTFQuestCondition*)",
+			"name_mangled": "_ZN22CTFQuestCountEvaluator20RemoveAndDeleteChildEP17CTFQuestCondition"
+		},
+		{
+			"name": "CTFQuestCountEvaluator::GetRequiredParamKeys(KeyValues*)",
+			"name_mangled": "_ZN22CTFQuestCountEvaluator20GetRequiredParamKeysEP9KeyValues"
+		},
+		{
+			"name": "CTFQuestCountEvaluator::GetOutputKeyValues(KeyValues*)",
+			"name_mangled": "_ZN22CTFQuestCountEvaluator18GetOutputKeyValuesEP9KeyValues"
+		},
+		{
+			"name": "CTFQuestEvaluator::GetValidTypes(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const",
+			"name_mangled": "_ZNK17CTFQuestEvaluator13GetValidTypesER10CUtlVectorIPKc10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CTFQuestCountEvaluator::GetValidChildren(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const",
+			"name_mangled": "_ZNK22CTFQuestCountEvaluator16GetValidChildrenER10CUtlVectorIPKc10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CTFQuestCountEvaluator::GetMaxInputCount() const",
+			"name_mangled": "_ZNK22CTFQuestCountEvaluator16GetMaxInputCountEv"
+		},
+		{
+			"name": "CTFQuestCondition::GetEventName() const",
+			"name_mangled": "_ZNK17CTFQuestCondition12GetEventNameEv"
+		},
+		{
+			"name": "CTFQuestCondition::SetEventName(char const*)",
+			"name_mangled": "_ZN17CTFQuestCondition12SetEventNameEPKc"
+		},
+		{
+			"name": "CTFQuestCountEvaluator::EvaluateCondition(CTFQuestEvaluator*, int)",
+			"name_mangled": "_ZN22CTFQuestCountEvaluator17EvaluateConditionEP17CTFQuestEvaluatori"
+		},
+		{
+			"name": "CTFQuestCountEvaluator::ResetCondition()",
+			"name_mangled": "_ZN22CTFQuestCountEvaluator14ResetConditionEv"
+		},
+		{
+			"name": "CTFQuestCountEvaluator::GetChildrenSubTypeCount() const",
+			"name_mangled": "_ZNK22CTFQuestCountEvaluator23GetChildrenSubTypeCountEv"
+		}
+	]
+}

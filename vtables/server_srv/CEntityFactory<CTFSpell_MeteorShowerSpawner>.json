@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFSpell_MeteorShowerSpawner>",
+	"classname_mangled": "_ZTV14CEntityFactoryI28CTFSpell_MeteorShowerSpawnerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFSpell_MeteorShowerSpawner>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI28CTFSpell_MeteorShowerSpawnerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFSpell_MeteorShowerSpawner>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI28CTFSpell_MeteorShowerSpawnerE13GetEntitySizeEv"
+		}
+	]
+}

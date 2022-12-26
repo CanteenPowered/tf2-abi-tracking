@@ -1,0 +1,14 @@
+{
+	"classname": "CTFCondition",
+	"classname_mangled": "_ZTV12CTFCondition",
+	"members": [
+		{
+			"name": "CTFCondition::~CTFCondition()",
+			"name_mangled": "_ZN12CTFConditionD0Ev"
+		},
+		{
+			"name": "CTFCondition::Add(float)",
+			"name_mangled": "_ZN12CTFCondition3AddEf"
+		}
+	]
+}

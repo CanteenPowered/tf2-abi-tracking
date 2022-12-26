@@ -1,0 +1,10 @@
+{
+	"classname": "IServerMessageHandler",
+	"classname_mangled": "_ZTV21IServerMessageHandler",
+	"members": [
+		{
+			"name": "IServerMessageHandler::~IServerMessageHandler()",
+			"name_mangled": "_ZN21IServerMessageHandlerD0Ev"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"classname": "CVGUILocalizationProvider",
+	"classname_mangled": "_ZTV25CVGUILocalizationProvider",
+	"members": [
+		{
+			"name": "CVGUILocalizationProvider::ConvertLoccharToANSI(wchar_t const*, CUtlConstStringBase<char>*) const",
+			"name_mangled": "_ZNK25CVGUILocalizationProvider20ConvertLoccharToANSIEPKwP19CUtlConstStringBaseIcE"
+		},
+		{
+			"name": "CVGUILocalizationProvider::ConvertLoccharToUnicode(wchar_t const*, CUtlConstStringBase<wchar_t>*) const",
+			"name_mangled": "_ZNK25CVGUILocalizationProvider23ConvertLoccharToUnicodeEPKwP19CUtlConstStringBaseIwE"
+		},
+		{
+			"name": "CVGUILocalizationProvider::ConvertUTF8ToLocchar(char const*, CUtlConstStringBase<wchar_t>*) const",
+			"name_mangled": "_ZNK25CVGUILocalizationProvider20ConvertUTF8ToLoccharEPKcP19CUtlConstStringBaseIwE"
+		},
+		{
+			"name": "CVGUILocalizationProvider::ConvertLoccharToANSI(wchar_t const*, char*, int) const",
+			"name_mangled": "_ZNK25CVGUILocalizationProvider20ConvertLoccharToANSIEPKwPci"
+		},
+		{
+			"name": "CVGUILocalizationProvider::ConvertLoccharToUnicode(wchar_t const*, wchar_t*, int) const",
+			"name_mangled": "_ZNK25CVGUILocalizationProvider23ConvertLoccharToUnicodeEPKwPwi"
+		},
+		{
+			"name": "CVGUILocalizationProvider::ConvertUTF8ToLocchar(char const*, wchar_t*, int) const",
+			"name_mangled": "_ZNK25CVGUILocalizationProvider20ConvertUTF8ToLoccharEPKcPwi"
+		},
+		{
+			"name": "CVGUILocalizationProvider::GetELang() const",
+			"name_mangled": "_ZNK25CVGUILocalizationProvider8GetELangEv"
+		}
+	]
+}

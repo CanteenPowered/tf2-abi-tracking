@@ -1,0 +1,14 @@
+{
+	"classname": "CQueuedPacketSender",
+	"classname_mangled": "_ZTV19CQueuedPacketSender",
+	"members": [
+		{
+			"name": "CQueuedPacketSender::~CQueuedPacketSender()",
+			"name_mangled": "_ZN19CQueuedPacketSenderD0Ev"
+		},
+		{
+			"name": "CQueuedPacketSender::Start(unsigned int)",
+			"name_mangled": "_ZN19CQueuedPacketSender5StartEj"
+		}
+	]
+}

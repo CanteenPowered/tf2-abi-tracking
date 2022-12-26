@@ -1,0 +1,10 @@
+{
+	"classname": "GCSDK::CGCMsg<MsgGCStandardResponse_t>",
+	"classname_mangled": "_ZTVN5GCSDK6CGCMsgI23MsgGCStandardResponse_tEE",
+	"members": [
+		{
+			"name": "GCSDK::CGCMsg<MsgGCStandardResponse_t>::~CGCMsg()",
+			"name_mangled": "_ZN5GCSDK6CGCMsgI23MsgGCStandardResponse_tED0Ev"
+		}
+	]
+}

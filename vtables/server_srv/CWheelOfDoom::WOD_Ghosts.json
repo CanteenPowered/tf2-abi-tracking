@@ -1,0 +1,18 @@
+{
+	"classname": "CWheelOfDoom::WOD_Ghosts",
+	"classname_mangled": "_ZTVN12CWheelOfDoom10WOD_GhostsE",
+	"members": [
+		{
+			"name": "CWheelOfDoom::WOD_Ghosts::ActivateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom10WOD_Ghosts14ActivateEffectERNS_12EffectData_tE"
+		},
+		{
+			"name": "CWheelOfDoom::WOD_BaseEffect::UpdateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom14WOD_BaseEffect12UpdateEffectERNS_12EffectData_tE"
+		},
+		{
+			"name": "CWheelOfDoom::WOD_Ghosts::DeactivateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom10WOD_Ghosts16DeactivateEffectERNS_12EffectData_tE"
+		}
+	]
+}

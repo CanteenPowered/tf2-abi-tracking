@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgGCNewMatchForLobbyResponse>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI30CMsgGCNewMatchForLobbyResponseEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGCNewMatchForLobbyResponse>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI30CMsgGCNewMatchForLobbyResponseED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGCNewMatchForLobbyResponse>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI30CMsgGCNewMatchForLobbyResponseE14GetGenericBodyEv"
+		}
+	]
+}

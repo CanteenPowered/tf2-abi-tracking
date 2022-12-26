@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CHeadlessHatman>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CHeadlessHatmanE",
+	"members": [
+		{
+			"name": "CEntityFactory<CHeadlessHatman>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CHeadlessHatmanE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CHeadlessHatman>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CHeadlessHatmanE13GetEntitySizeEv"
+		}
+	]
+}

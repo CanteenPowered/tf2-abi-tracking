@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTemplateNPCMaker>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CTemplateNPCMakerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTemplateNPCMaker>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CTemplateNPCMakerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTemplateNPCMaker>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CTemplateNPCMakerE13GetEntitySizeEv"
+		}
+	]
+}

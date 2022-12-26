@@ -1,0 +1,22 @@
+{
+	"classname": "GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_CoachJoining>",
+	"classname_mangled": "_ZTVN5GCSDK22CProtoBufMsgMemoryPoolI27CMsgTFCoaching_CoachJoiningEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_CoachJoining>::~CProtoBufMsgMemoryPool()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI27CMsgTFCoaching_CoachJoiningED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_CoachJoining>::GetName()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI27CMsgTFCoaching_CoachJoiningE7GetNameEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_CoachJoining>::InternalAlloc()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI27CMsgTFCoaching_CoachJoiningE13InternalAllocEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgTFCoaching_CoachJoining>::InternalFree(google::protobuf::Message*)",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI27CMsgTFCoaching_CoachJoiningE12InternalFreeEPN6google8protobuf7MessageE"
+		}
+	]
+}

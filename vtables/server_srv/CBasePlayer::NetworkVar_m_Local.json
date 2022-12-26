@@ -1,0 +1,10 @@
+{
+	"classname": "CBasePlayer::NetworkVar_m_Local",
+	"classname_mangled": "_ZTVN11CBasePlayer18NetworkVar_m_LocalE",
+	"members": [
+		{
+			"name": "CBasePlayer::NetworkVar_m_Local::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN11CBasePlayer18NetworkVar_m_Local19NetworkStateChangedEPv"
+		}
+	]
+}

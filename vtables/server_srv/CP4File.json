@@ -1,0 +1,38 @@
+{
+	"classname": "CP4File",
+	"classname_mangled": "_ZTV7CP4File",
+	"members": [
+		{
+			"name": "CP4File::~CP4File()",
+			"name_mangled": "_ZN7CP4FileD0Ev"
+		},
+		{
+			"name": "CP4File::Edit()",
+			"name_mangled": "_ZN7CP4File4EditEv"
+		},
+		{
+			"name": "CP4File::Add()",
+			"name_mangled": "_ZN7CP4File3AddEv"
+		},
+		{
+			"name": "CP4File::Revert()",
+			"name_mangled": "_ZN7CP4File6RevertEv"
+		},
+		{
+			"name": "CP4File::Delete()",
+			"name_mangled": "_ZN7CP4File6DeleteEv"
+		},
+		{
+			"name": "CP4File::IsFileInPerforce()",
+			"name_mangled": "_ZN7CP4File16IsFileInPerforceEv"
+		},
+		{
+			"name": "CP4File::SetFileType(CUtlString const&)",
+			"name_mangled": "_ZN7CP4File11SetFileTypeERK10CUtlString"
+		},
+		{
+			"name": "CP4File::GetFileState()",
+			"name_mangled": "_ZN7CP4File12GetFileStateEv"
+		}
+	]
+}

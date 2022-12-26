@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgGC_DailyCompetitiveStatsRollup",
+	"classname_mangled": "_ZTV34CMsgGC_DailyCompetitiveStatsRollup",
+	"members": [
+		{
+			"name": "CMsgGC_DailyCompetitiveStatsRollup::~CMsgGC_DailyCompetitiveStatsRollup()",
+			"name_mangled": "_ZN34CMsgGC_DailyCompetitiveStatsRollupD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgGC_DailyCompetitiveStatsRollup::New() const",
+			"name_mangled": "_ZNK34CMsgGC_DailyCompetitiveStatsRollup3NewEv"
+		},
+		{
+			"name": "CMsgGC_DailyCompetitiveStatsRollup::Clear()",
+			"name_mangled": "_ZN34CMsgGC_DailyCompetitiveStatsRollup5ClearEv"
+		},
+		{
+			"name": "CMsgGC_DailyCompetitiveStatsRollup::IsInitialized() const",
+			"name_mangled": "_ZNK34CMsgGC_DailyCompetitiveStatsRollup13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgGC_DailyCompetitiveStatsRollup::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN34CMsgGC_DailyCompetitiveStatsRollup27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgGC_DailyCompetitiveStatsRollup::ByteSize() const",
+			"name_mangled": "_ZNK34CMsgGC_DailyCompetitiveStatsRollup8ByteSizeEv"
+		},
+		{
+			"name": "CMsgGC_DailyCompetitiveStatsRollup::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK34CMsgGC_DailyCompetitiveStatsRollup24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgGC_DailyCompetitiveStatsRollup::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK34CMsgGC_DailyCompetitiveStatsRollup31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgGC_DailyCompetitiveStatsRollup::GetCachedSize() const",
+			"name_mangled": "_ZNK34CMsgGC_DailyCompetitiveStatsRollup13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgGC_DailyCompetitiveStatsRollup::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN34CMsgGC_DailyCompetitiveStatsRollup8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgGC_DailyCompetitiveStatsRollup::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN34CMsgGC_DailyCompetitiveStatsRollup9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgGC_DailyCompetitiveStatsRollup::SetCachedSize(int) const",
+			"name_mangled": "_ZNK34CMsgGC_DailyCompetitiveStatsRollup13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgGC_DailyCompetitiveStatsRollup::GetMetadata() const",
+			"name_mangled": "_ZNK34CMsgGC_DailyCompetitiveStatsRollup11GetMetadataEv"
+		}
+	]
+}

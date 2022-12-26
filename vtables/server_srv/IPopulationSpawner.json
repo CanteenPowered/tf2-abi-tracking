@@ -1,0 +1,10 @@
+{
+	"classname": "IPopulationSpawner",
+	"classname_mangled": "_ZTV18IPopulationSpawner",
+	"members": [
+		{
+			"name": "IPopulationSpawner::~IPopulationSpawner()",
+			"name_mangled": "_ZN18IPopulationSpawnerD0Ev"
+		}
+	]
+}

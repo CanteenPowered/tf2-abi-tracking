@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFireTrail>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10CFireTrailE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFireTrail>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10CFireTrailE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFireTrail>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10CFireTrailE13GetEntitySizeEv"
+		}
+	]
+}

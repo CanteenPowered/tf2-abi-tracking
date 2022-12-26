@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTeamTrainWatcher>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CTeamTrainWatcherE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTeamTrainWatcher>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CTeamTrainWatcherE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTeamTrainWatcher>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CTeamTrainWatcherE13GetEntitySizeEv"
+		}
+	]
+}

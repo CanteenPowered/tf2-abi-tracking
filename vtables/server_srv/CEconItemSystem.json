@@ -1,0 +1,14 @@
+{
+	"classname": "CEconItemSystem",
+	"classname_mangled": "_ZTV15CEconItemSystem",
+	"members": [
+		{
+			"name": "CEconItemSystem::~CEconItemSystem()",
+			"name_mangled": "_ZN15CEconItemSystemD0Ev"
+		},
+		{
+			"name": "CEconItemSystem::GenerateBaseItem(baseitemcriteria_t*)",
+			"name_mangled": "_ZN15CEconItemSystem16GenerateBaseItemEP18baseitemcriteria_t"
+		}
+	]
+}

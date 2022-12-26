@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CWeaponIFMSteadyCam>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CWeaponIFMSteadyCamE",
+	"members": [
+		{
+			"name": "CEntityFactory<CWeaponIFMSteadyCam>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CWeaponIFMSteadyCamE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CWeaponIFMSteadyCam>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CWeaponIFMSteadyCamE13GetEntitySizeEv"
+		}
+	]
+}

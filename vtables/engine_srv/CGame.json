@@ -1,0 +1,78 @@
+{
+	"classname": "CGame",
+	"classname_mangled": "_ZTV5CGame",
+	"members": [
+		{
+			"name": "CGame::~CGame()",
+			"name_mangled": "_ZN5CGameD0Ev"
+		},
+		{
+			"name": "CGame::Init(void*)",
+			"name_mangled": "_ZN5CGame4InitEPv"
+		},
+		{
+			"name": "CGame::Shutdown()",
+			"name_mangled": "_ZN5CGame8ShutdownEv"
+		},
+		{
+			"name": "CGame::CreateGameWindow()",
+			"name_mangled": "_ZN5CGame16CreateGameWindowEv"
+		},
+		{
+			"name": "CGame::DestroyGameWindow()",
+			"name_mangled": "_ZN5CGame17DestroyGameWindowEv"
+		},
+		{
+			"name": "CGame::SetGameWindow(void*)",
+			"name_mangled": "_ZN5CGame13SetGameWindowEPv"
+		},
+		{
+			"name": "CGame::InputAttachToGameWindow()",
+			"name_mangled": "_ZN5CGame23InputAttachToGameWindowEv"
+		},
+		{
+			"name": "CGame::InputDetachFromGameWindow()",
+			"name_mangled": "_ZN5CGame25InputDetachFromGameWindowEv"
+		},
+		{
+			"name": "CGame::PlayStartupVideos()",
+			"name_mangled": "_ZN5CGame17PlayStartupVideosEv"
+		},
+		{
+			"name": "CGame::GetMainWindow()",
+			"name_mangled": "_ZN5CGame13GetMainWindowEv"
+		},
+		{
+			"name": "CGame::GetMainDeviceWindow()",
+			"name_mangled": "_ZN5CGame19GetMainDeviceWindowEv"
+		},
+		{
+			"name": "CGame::GetMainWindowAddress()",
+			"name_mangled": "_ZN5CGame20GetMainWindowAddressEv"
+		},
+		{
+			"name": "CGame::GetDesktopInfo(int&, int&, int&)",
+			"name_mangled": "_ZN5CGame14GetDesktopInfoERiS0_S0_"
+		},
+		{
+			"name": "CGame::SetWindowXY(int, int)",
+			"name_mangled": "_ZN5CGame11SetWindowXYEii"
+		},
+		{
+			"name": "CGame::SetWindowSize(int, int)",
+			"name_mangled": "_ZN5CGame13SetWindowSizeEii"
+		},
+		{
+			"name": "CGame::GetWindowRect(int*, int*, int*, int*)",
+			"name_mangled": "_ZN5CGame13GetWindowRectEPiS0_S0_S0_"
+		},
+		{
+			"name": "CGame::IsActiveApp()",
+			"name_mangled": "_ZN5CGame11IsActiveAppEv"
+		},
+		{
+			"name": "CGame::DispatchAllStoredGameMessages()",
+			"name_mangled": "_ZN5CGame29DispatchAllStoredGameMessagesEv"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"classname": "CTESmoke",
+	"classname_mangled": "_ZTV8CTESmoke",
+	"members": [
+		{
+			"name": "CTESmoke::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN8CTESmoke40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTESmoke::~CTESmoke()",
+			"name_mangled": "_ZN8CTESmokeD2Ev"
+		},
+		{
+			"name": "CTESmoke::~CTESmoke()",
+			"name_mangled": "_ZN8CTESmokeD0Ev"
+		},
+		{
+			"name": "CTESmoke::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN8CTESmoke4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

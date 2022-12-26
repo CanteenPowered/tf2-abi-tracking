@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CMathRemap>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10CMathRemapE",
+	"members": [
+		{
+			"name": "CEntityFactory<CMathRemap>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10CMathRemapE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CMathRemap>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10CMathRemapE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,174 @@
+{
+	"classname": "Action<CTFRobotDestruction_Robot>",
+	"classname_mangled": "_ZTV6ActionI25CTFRobotDestruction_RobotE",
+	"members": [
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::~Action()",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotED0Ev"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::FirstContainedResponder() const",
+			"name_mangled": "_ZNK6ActionI25CTFRobotDestruction_RobotE23FirstContainedResponderEv"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::NextContainedResponder(INextBotEventResponder*) const",
+			"name_mangled": "_ZNK6ActionI25CTFRobotDestruction_RobotE22NextContainedResponderEP22INextBotEventResponder"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnLeaveGround(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE13OnLeaveGroundEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnLandOnGround(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE14OnLandOnGroundEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnContact(CBaseEntity*, CGameTrace*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE9OnContactEP11CBaseEntityP10CGameTrace"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnMoveToSuccess(Path const*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE15OnMoveToSuccessEPK4Path"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnMoveToFailure(Path const*, MoveToFailureType)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE15OnMoveToFailureEPK4Path17MoveToFailureType"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnStuck()",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE7OnStuckEv"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnUnStuck()",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE9OnUnStuckEv"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnPostureChanged()",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE16OnPostureChangedEv"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnAnimationActivityComplete(int)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE27OnAnimationActivityCompleteEi"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnAnimationActivityInterrupted(int)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE30OnAnimationActivityInterruptedEi"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnAnimationEvent(animevent_t*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE16OnAnimationEventEP11animevent_t"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnIgnite()",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE8OnIgniteEv"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnInjured(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE9OnInjuredERK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnKilled(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE8OnKilledERK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE13OnOtherKilledEP20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnSight(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE7OnSightEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnLostSight(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE11OnLostSightEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnSound(CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE7OnSoundEP11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE14OnSpokeConceptEP20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE13OnWeaponFiredEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnNavAreaChanged(CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE16OnNavAreaChangedEP8CNavAreaS3_"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnModelChanged()",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE14OnModelChangedEv"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE8OnPickUpEP11CBaseEntityP20CBaseCombatCharacter"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnDrop(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE6OnDropEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnActorEmoted(CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE13OnActorEmotedEP20CBaseCombatCharacteri"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnCommandAttack(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE15OnCommandAttackEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnCommandApproach(Vector const&, float)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE17OnCommandApproachERK6Vectorf"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnCommandApproach(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE17OnCommandApproachEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnCommandRetreat(CBaseEntity*, float)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE16OnCommandRetreatEP11CBaseEntityf"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnCommandPause(float)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE14OnCommandPauseEf"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnCommandResume()",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE15OnCommandResumeEv"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnCommandString(char const*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE15OnCommandStringEPKc"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnShoved(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE8OnShovedEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnBlinded(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE9OnBlindedEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnTerritoryContested(int)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE20OnTerritoryContestedEi"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnTerritoryCaptured(int)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE19OnTerritoryCapturedEi"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnTerritoryLost(int)",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE15OnTerritoryLostEi"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnWin()",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE5OnWinEv"
+		},
+		{
+			"name": "Action<CTFRobotDestruction_Robot>::OnLose()",
+			"name_mangled": "_ZN6ActionI25CTFRobotDestruction_RobotE6OnLoseEv"
+		}
+	]
+}

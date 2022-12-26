@@ -1,0 +1,10 @@
+{
+	"classname": "CVoiceGameMgr",
+	"classname_mangled": "_ZTV13CVoiceGameMgr",
+	"members": [
+		{
+			"name": "CVoiceGameMgr::~CVoiceGameMgr()",
+			"name_mangled": "_ZN13CVoiceGameMgrD0Ev"
+		}
+	]
+}

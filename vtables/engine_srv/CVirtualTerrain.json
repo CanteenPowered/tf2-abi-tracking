@@ -1,0 +1,14 @@
+{
+	"classname": "CVirtualTerrain",
+	"classname_mangled": "_ZTV15CVirtualTerrain",
+	"members": [
+		{
+			"name": "CVirtualTerrain::GetWorldspaceBounds(void*, Vector*, Vector*)",
+			"name_mangled": "_ZN15CVirtualTerrain19GetWorldspaceBoundsEPvP6VectorS2_"
+		},
+		{
+			"name": "CVirtualTerrain::GetTrianglesInSphere(void*, Vector const&, float, virtualmeshtrianglelist_t*)",
+			"name_mangled": "_ZN15CVirtualTerrain20GetTrianglesInSphereEPvRK6VectorfP25virtualmeshtrianglelist_t"
+		}
+	]
+}

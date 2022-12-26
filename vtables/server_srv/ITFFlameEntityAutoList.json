@@ -1,0 +1,10 @@
+{
+	"classname": "ITFFlameEntityAutoList",
+	"classname_mangled": "_ZTV22ITFFlameEntityAutoList",
+	"members": [
+		{
+			"name": "ITFFlameEntityAutoList::~ITFFlameEntityAutoList()",
+			"name_mangled": "_ZN22ITFFlameEntityAutoListD0Ev"
+		}
+	]
+}

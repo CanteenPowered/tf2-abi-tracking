@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CInfoLightingRelative>",
+	"classname_mangled": "_ZTV14CEntityFactoryI21CInfoLightingRelativeE",
+	"members": [
+		{
+			"name": "CEntityFactory<CInfoLightingRelative>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI21CInfoLightingRelativeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CInfoLightingRelative>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI21CInfoLightingRelativeE13GetEntitySizeEv"
+		}
+	]
+}

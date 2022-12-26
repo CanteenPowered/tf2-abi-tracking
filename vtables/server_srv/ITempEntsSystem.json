@@ -1,0 +1,10 @@
+{
+	"classname": "ITempEntsSystem",
+	"classname_mangled": "_ZTV15ITempEntsSystem",
+	"members": [
+		{
+			"name": "ITempEntsSystem::~ITempEntsSystem()",
+			"name_mangled": "_ZN15ITempEntsSystemD0Ev"
+		}
+	]
+}

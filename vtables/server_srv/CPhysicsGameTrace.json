@@ -1,0 +1,14 @@
+{
+	"classname": "CPhysicsGameTrace",
+	"classname_mangled": "_ZTV17CPhysicsGameTrace",
+	"members": [
+		{
+			"name": "CPhysicsGameTrace::VehicleTraceRayWithWater(Ray_t const&, void*, CGameTrace*)",
+			"name_mangled": "_ZN17CPhysicsGameTrace24VehicleTraceRayWithWaterERK5Ray_tPvP10CGameTrace"
+		},
+		{
+			"name": "CPhysicsGameTrace::VehiclePointInWater(Vector const&)",
+			"name_mangled": "_ZN17CPhysicsGameTrace19VehiclePointInWaterERK6Vector"
+		}
+	]
+}

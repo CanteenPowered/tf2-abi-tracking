@@ -1,0 +1,14 @@
+{
+	"classname": "CEconItemView::NetworkVar_m_NetworkedDynamicAttributesForDemos",
+	"classname_mangled": "_ZTVN13CEconItemView47NetworkVar_m_NetworkedDynamicAttributesForDemosE",
+	"members": [
+		{
+			"name": "CEconItemView::NetworkVar_m_NetworkedDynamicAttributesForDemos::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN13CEconItemView47NetworkVar_m_NetworkedDynamicAttributesForDemos19NetworkStateChangedEPv"
+		},
+		{
+			"name": "CAttributeList::GetDataDescMap()",
+			"name_mangled": "_ZN14CAttributeList14GetDataDescMapEv"
+		}
+	]
+}

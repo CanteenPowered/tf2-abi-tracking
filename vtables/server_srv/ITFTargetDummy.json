@@ -1,0 +1,10 @@
+{
+	"classname": "ITFTargetDummy",
+	"classname_mangled": "_ZTV14ITFTargetDummy",
+	"members": [
+		{
+			"name": "ITFTargetDummy::~ITFTargetDummy()",
+			"name_mangled": "_ZN14ITFTargetDummyD0Ev"
+		}
+	]
+}

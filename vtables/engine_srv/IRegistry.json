@@ -1,0 +1,10 @@
+{
+	"classname": "IRegistry",
+	"classname_mangled": "_ZTV9IRegistry",
+	"members": [
+		{
+			"name": "IRegistry::~IRegistry()",
+			"name_mangled": "_ZN9IRegistryD0Ev"
+		}
+	]
+}

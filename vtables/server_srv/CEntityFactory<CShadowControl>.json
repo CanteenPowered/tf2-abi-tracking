@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CShadowControl>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CShadowControlE",
+	"members": [
+		{
+			"name": "CEntityFactory<CShadowControl>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CShadowControlE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CShadowControl>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CShadowControlE13GetEntitySizeEv"
+		}
+	]
+}

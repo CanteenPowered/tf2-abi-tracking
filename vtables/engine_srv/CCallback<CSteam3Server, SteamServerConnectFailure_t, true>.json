@@ -1,0 +1,22 @@
+{
+	"classname": "CCallback<CSteam3Server, SteamServerConnectFailure_t, true>",
+	"classname_mangled": "_ZTV9CCallbackI13CSteam3Server27SteamServerConnectFailure_tLb1EE",
+	"members": [
+		{
+			"name": "CCallbackImpl<8>::Run(void*, bool, unsigned long long)",
+			"name_mangled": "_ZN13CCallbackImplILi8EE3RunEPvby"
+		},
+		{
+			"name": "CCallbackImpl<8>::GetCallbackSizeBytes()",
+			"name_mangled": "_ZN13CCallbackImplILi8EE20GetCallbackSizeBytesEv"
+		},
+		{
+			"name": "CCallback<CSteam3Server, SteamServerConnectFailure_t, true>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI13CSteam3Server27SteamServerConnectFailure_tLb1EED1Ev"
+		},
+		{
+			"name": "CCallback<CSteam3Server, SteamServerConnectFailure_t, true>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI13CSteam3Server27SteamServerConnectFailure_tLb1EED0Ev"
+		}
+	]
+}

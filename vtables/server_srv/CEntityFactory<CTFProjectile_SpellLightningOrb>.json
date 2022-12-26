@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_SpellLightningOrb>",
+	"classname_mangled": "_ZTV14CEntityFactoryI31CTFProjectile_SpellLightningOrbE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_SpellLightningOrb>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI31CTFProjectile_SpellLightningOrbE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_SpellLightningOrb>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI31CTFProjectile_SpellLightningOrbE13GetEntitySizeEv"
+		}
+	]
+}

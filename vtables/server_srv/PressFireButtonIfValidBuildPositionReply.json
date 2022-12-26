@@ -1,0 +1,10 @@
+{
+	"classname": "PressFireButtonIfValidBuildPositionReply",
+	"classname_mangled": "_ZTV40PressFireButtonIfValidBuildPositionReply",
+	"members": [
+		{
+			"name": "INextBotReply::OnFail(INextBot*, INextBotReply::FailureReason)",
+			"name_mangled": "_ZN13INextBotReply6OnFailEP8INextBotNS_13FailureReasonE"
+		}
+	]
+}

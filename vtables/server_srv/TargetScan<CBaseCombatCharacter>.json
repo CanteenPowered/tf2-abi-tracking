@@ -1,0 +1,18 @@
+{
+	"classname": "TargetScan<CBaseCombatCharacter>",
+	"classname_mangled": "_ZTV10TargetScanI20CBaseCombatCharacterE",
+	"members": [
+		{
+			"name": "TargetScan<CBaseCombatCharacter>::ViewDot(Vector const&) const",
+			"name_mangled": "_ZNK10TargetScanI20CBaseCombatCharacterE7ViewDotERK6Vector"
+		},
+		{
+			"name": "TargetScan<CBaseCombatCharacter>::IsTargetVisible(CBaseCombatCharacter*) const",
+			"name_mangled": "_ZNK10TargetScanI20CBaseCombatCharacterE15IsTargetVisibleEPS0_"
+		},
+		{
+			"name": "TargetScan<CBaseCombatCharacter>::IsPotentialTarget(CBaseCombatCharacter*) const",
+			"name_mangled": "_ZNK10TargetScanI20CBaseCombatCharacterE17IsPotentialTargetEPS0_"
+		}
+	]
+}

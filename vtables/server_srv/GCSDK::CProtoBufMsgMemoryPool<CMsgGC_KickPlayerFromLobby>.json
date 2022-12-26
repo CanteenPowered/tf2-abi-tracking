@@ -1,0 +1,22 @@
+{
+	"classname": "GCSDK::CProtoBufMsgMemoryPool<CMsgGC_KickPlayerFromLobby>",
+	"classname_mangled": "_ZTVN5GCSDK22CProtoBufMsgMemoryPoolI26CMsgGC_KickPlayerFromLobbyEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGC_KickPlayerFromLobby>::~CProtoBufMsgMemoryPool()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI26CMsgGC_KickPlayerFromLobbyED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGC_KickPlayerFromLobby>::GetName()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI26CMsgGC_KickPlayerFromLobbyE7GetNameEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGC_KickPlayerFromLobby>::InternalAlloc()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI26CMsgGC_KickPlayerFromLobbyE13InternalAllocEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGC_KickPlayerFromLobby>::InternalFree(google::protobuf::Message*)",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI26CMsgGC_KickPlayerFromLobbyE12InternalFreeEPN6google8protobuf7MessageE"
+		}
+	]
+}

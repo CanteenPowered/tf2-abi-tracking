@@ -1,0 +1,10 @@
+{
+	"classname": "google::protobuf::TextFormat::Finder",
+	"classname_mangled": "_ZTVN6google8protobuf10TextFormat6FinderE",
+	"members": [
+		{
+			"name": "google::protobuf::TextFormat::Finder::~Finder()",
+			"name_mangled": "_ZN6google8protobuf10TextFormat6FinderD0Ev"
+		}
+	]
+}

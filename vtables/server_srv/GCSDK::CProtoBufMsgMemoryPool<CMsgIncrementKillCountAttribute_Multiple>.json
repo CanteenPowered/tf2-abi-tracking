@@ -1,0 +1,22 @@
+{
+	"classname": "GCSDK::CProtoBufMsgMemoryPool<CMsgIncrementKillCountAttribute_Multiple>",
+	"classname_mangled": "_ZTVN5GCSDK22CProtoBufMsgMemoryPoolI40CMsgIncrementKillCountAttribute_MultipleEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgIncrementKillCountAttribute_Multiple>::~CProtoBufMsgMemoryPool()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI40CMsgIncrementKillCountAttribute_MultipleED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgIncrementKillCountAttribute_Multiple>::GetName()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI40CMsgIncrementKillCountAttribute_MultipleE7GetNameEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgIncrementKillCountAttribute_Multiple>::InternalAlloc()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI40CMsgIncrementKillCountAttribute_MultipleE13InternalAllocEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgIncrementKillCountAttribute_Multiple>::InternalFree(google::protobuf::Message*)",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI40CMsgIncrementKillCountAttribute_MultipleE12InternalFreeEPN6google8protobuf7MessageE"
+		}
+	]
+}

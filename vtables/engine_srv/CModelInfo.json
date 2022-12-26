@@ -1,0 +1,10 @@
+{
+	"classname": "CModelInfo",
+	"classname_mangled": "_ZTV10CModelInfo",
+	"members": [
+		{
+			"name": "CModelInfo::~CModelInfo()",
+			"name_mangled": "_ZN10CModelInfoD0Ev"
+		}
+	]
+}

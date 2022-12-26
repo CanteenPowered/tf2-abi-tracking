@@ -1,0 +1,66 @@
+{
+	"classname": "MM_Heartbeat",
+	"classname_mangled": "_ZTV12MM_Heartbeat",
+	"members": [
+		{
+			"name": "MM_Heartbeat::~MM_Heartbeat()",
+			"name_mangled": "_ZN12MM_HeartbeatD0Ev"
+		},
+		{
+			"name": "CNetMessage::SetNetChannel(INetChannel*)",
+			"name_mangled": "_ZN11CNetMessage13SetNetChannelEP11INetChannel"
+		},
+		{
+			"name": "CNetMessage::SetReliable(bool)",
+			"name_mangled": "_ZN11CNetMessage11SetReliableEb"
+		},
+		{
+			"name": "MM_Heartbeat::Process()",
+			"name_mangled": "_ZN12MM_Heartbeat7ProcessEv"
+		},
+		{
+			"name": "MM_Heartbeat::ReadFromBuffer(bf_read&)",
+			"name_mangled": "_ZN12MM_Heartbeat14ReadFromBufferER7bf_read"
+		},
+		{
+			"name": "MM_Heartbeat::WriteToBuffer(bf_write&)",
+			"name_mangled": "_ZN12MM_Heartbeat13WriteToBufferER8bf_write"
+		},
+		{
+			"name": "CNetMessage::IsReliable() const",
+			"name_mangled": "_ZNK11CNetMessage10IsReliableEv"
+		},
+		{
+			"name": "MM_Heartbeat::GetType() const",
+			"name_mangled": "_ZNK12MM_Heartbeat7GetTypeEv"
+		},
+		{
+			"name": "CNetMessage::GetGroup() const",
+			"name_mangled": "_ZNK11CNetMessage8GetGroupEv"
+		},
+		{
+			"name": "MM_Heartbeat::GetName() const",
+			"name_mangled": "_ZNK12MM_Heartbeat7GetNameEv"
+		},
+		{
+			"name": "CNetMessage::GetNetChannel() const",
+			"name_mangled": "_ZNK11CNetMessage13GetNetChannelEv"
+		},
+		{
+			"name": "MM_Heartbeat::ToString() const",
+			"name_mangled": "_ZNK12MM_Heartbeat8ToStringEv"
+		},
+		{
+			"name": "CNetMessage::BIncomingMessageForProcessing(double, int)",
+			"name_mangled": "_ZN11CNetMessage29BIncomingMessageForProcessingEdi"
+		},
+		{
+			"name": "MM_Heartbeat::GetSize() const",
+			"name_mangled": "_ZNK12MM_Heartbeat7GetSizeEv"
+		},
+		{
+			"name": "CNetMessage::SetRatePolicy()",
+			"name_mangled": "_ZN11CNetMessage13SetRatePolicyEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgGC_GameServer_ServerModificationItem>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI40CMsgGC_GameServer_ServerModificationItemEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGC_GameServer_ServerModificationItem>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI40CMsgGC_GameServer_ServerModificationItemED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGC_GameServer_ServerModificationItem>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI40CMsgGC_GameServer_ServerModificationItemE14GetGenericBodyEv"
+		}
+	]
+}

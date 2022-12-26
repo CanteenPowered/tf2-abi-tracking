@@ -1,0 +1,30 @@
+{
+	"classname": "CTEFireBullets",
+	"classname_mangled": "_ZTV14CTEFireBullets",
+	"members": [
+		{
+			"name": "CTEFireBullets::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN14CTEFireBullets40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEFireBullets::~CTEFireBullets()",
+			"name_mangled": "_ZN14CTEFireBulletsD1Ev"
+		},
+		{
+			"name": "CTEFireBullets::~CTEFireBullets()",
+			"name_mangled": "_ZN14CTEFireBulletsD0Ev"
+		},
+		{
+			"name": "CBaseTempEntity::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN15CBaseTempEntity4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

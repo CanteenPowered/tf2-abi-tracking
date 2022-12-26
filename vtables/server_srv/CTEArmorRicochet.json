@@ -1,0 +1,30 @@
+{
+	"classname": "CTEArmorRicochet",
+	"classname_mangled": "_ZTV16CTEArmorRicochet",
+	"members": [
+		{
+			"name": "CTEArmorRicochet::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN16CTEArmorRicochet40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEArmorRicochet::~CTEArmorRicochet()",
+			"name_mangled": "_ZN16CTEArmorRicochetD1Ev"
+		},
+		{
+			"name": "CTEArmorRicochet::~CTEArmorRicochet()",
+			"name_mangled": "_ZN16CTEArmorRicochetD0Ev"
+		},
+		{
+			"name": "CTEMetalSparks::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN14CTEMetalSparks4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

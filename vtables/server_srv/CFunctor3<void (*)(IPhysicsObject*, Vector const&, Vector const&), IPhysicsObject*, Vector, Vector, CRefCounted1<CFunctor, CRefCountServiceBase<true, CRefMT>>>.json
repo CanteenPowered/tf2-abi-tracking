@@ -1,0 +1,22 @@
+{
+	"classname": "CFunctor3<void (*)(IPhysicsObject*, Vector const&, Vector const&), IPhysicsObject*, Vector, Vector, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>>",
+	"classname_mangled": "_ZTV9CFunctor3IPFvP14IPhysicsObjectRK6VectorS4_ES1_S2_S2_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEEE",
+	"members": [
+		{
+			"name": "CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>::Release()",
+			"name_mangled": "_ZN12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE7ReleaseEv"
+		},
+		{
+			"name": "CFunctor3<void (*)(IPhysicsObject*, Vector const&, Vector const&), IPhysicsObject*, Vector, Vector, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>>::~CFunctor3()",
+			"name_mangled": "_ZN9CFunctor3IPFvP14IPhysicsObjectRK6VectorS4_ES1_S2_S2_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEEED1Ev"
+		},
+		{
+			"name": "CFunctor3<void (*)(IPhysicsObject*, Vector const&, Vector const&), IPhysicsObject*, Vector, Vector, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>>::~CFunctor3()",
+			"name_mangled": "_ZN9CFunctor3IPFvP14IPhysicsObjectRK6VectorS4_ES1_S2_S2_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEEED0Ev"
+		},
+		{
+			"name": "CFunctor3<void (*)(IPhysicsObject*, Vector const&, Vector const&), IPhysicsObject*, Vector, Vector, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>>::operator()()",
+			"name_mangled": "_ZN9CFunctor3IPFvP14IPhysicsObjectRK6VectorS4_ES1_S2_S2_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEEEclEv"
+		}
+	]
+}

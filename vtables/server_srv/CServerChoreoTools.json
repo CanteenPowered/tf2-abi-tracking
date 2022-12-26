@@ -1,0 +1,26 @@
+{
+	"classname": "CServerChoreoTools",
+	"classname_mangled": "_ZTV18CServerChoreoTools",
+	"members": [
+		{
+			"name": "CServerChoreoTools::~CServerChoreoTools()",
+			"name_mangled": "_ZN18CServerChoreoToolsD0Ev"
+		},
+		{
+			"name": "CServerChoreoTools::NextChoreoEntity(void*)",
+			"name_mangled": "_ZN18CServerChoreoTools16NextChoreoEntityEPv"
+		},
+		{
+			"name": "CServerChoreoTools::GetSceneFile(void*)",
+			"name_mangled": "_ZN18CServerChoreoTools12GetSceneFileEPv"
+		},
+		{
+			"name": "CServerChoreoTools::GetEntIndex(void*)",
+			"name_mangled": "_ZN18CServerChoreoTools11GetEntIndexEPv"
+		},
+		{
+			"name": "CServerChoreoTools::ReloadSceneFromDisk(int)",
+			"name_mangled": "_ZN18CServerChoreoTools19ReloadSceneFromDiskEi"
+		}
+	]
+}

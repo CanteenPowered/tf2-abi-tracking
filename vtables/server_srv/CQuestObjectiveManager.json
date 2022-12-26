@@ -1,0 +1,94 @@
+{
+	"classname": "CQuestObjectiveManager",
+	"classname_mangled": "_ZTV22CQuestObjectiveManager",
+	"members": [
+		{
+			"name": "CSOTrackerManager::PreSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager11PreSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::SOUpdated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager9SOUpdatedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::PostSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager12PostSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::SODestroyed(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager11SODestroyedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::SOCacheSubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager17SOCacheSubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::SOCacheUnsubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager19SOCacheUnsubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CQuestObjectiveManager::~CQuestObjectiveManager()",
+			"name_mangled": "_ZN22CQuestObjectiveManagerD1Ev"
+		},
+		{
+			"name": "CQuestObjectiveManager::~CQuestObjectiveManager()",
+			"name_mangled": "_ZN22CQuestObjectiveManagerD0Ev"
+		},
+		{
+			"name": "CSOTrackerManager::Initialize()",
+			"name_mangled": "_ZN17CSOTrackerManager10InitializeEv"
+		},
+		{
+			"name": "CSOTrackerManager::Shutdown()",
+			"name_mangled": "_ZN17CSOTrackerManager8ShutdownEv"
+		},
+		{
+			"name": "CSOTrackerManager::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN17CSOTrackerManager13FireGameEventEP10IGameEvent"
+		},
+		{
+			"name": "CSOTrackerManager::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN17CSOTrackerManager25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CQuestObjectiveManager::GetKeyForObjectTracker(GCSDK::CSharedObject const*, CSteamID)",
+			"name_mangled": "_ZN22CQuestObjectiveManager22GetKeyForObjectTrackerEPKN5GCSDK13CSharedObjectE8CSteamID"
+		},
+		{
+			"name": "CQuestObjectiveManager::GetType() const",
+			"name_mangled": "_ZNK22CQuestObjectiveManager7GetTypeEv"
+		},
+		{
+			"name": "CQuestObjectiveManager::GetName() const",
+			"name_mangled": "_ZNK22CQuestObjectiveManager7GetNameEv"
+		},
+		{
+			"name": "CQuestObjectiveManager::GetDebugObjectDescription(GCSDK::CSharedObject const*) const",
+			"name_mangled": "_ZNK22CQuestObjectiveManager25GetDebugObjectDescriptionEPKN5GCSDK13CSharedObjectE"
+		},
+		{
+			"name": "CQuestObjectiveManager::AllocateNewTracker(GCSDK::CSharedObject const*, CSteamID, CSOTrackerManager*) const",
+			"name_mangled": "_ZNK22CQuestObjectiveManager18AllocateNewTrackerEPKN5GCSDK13CSharedObjectE8CSteamIDP17CSOTrackerManager"
+		},
+		{
+			"name": "CQuestObjectiveManager::AllocateNewProtoMessage() const",
+			"name_mangled": "_ZNK22CQuestObjectiveManager23AllocateNewProtoMessageEv"
+		},
+		{
+			"name": "CQuestObjectiveManager::OnCommitRecieved(google::protobuf::Message const*)",
+			"name_mangled": "_ZN22CQuestObjectiveManager16OnCommitRecievedEPKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CQuestObjectiveManager::ShouldTrackObject(CSteamID const&, GCSDK::CSharedObject const*) const",
+			"name_mangled": "_ZNK22CQuestObjectiveManager17ShouldTrackObjectERK8CSteamIDPKN5GCSDK13CSharedObjectE"
+		},
+		{
+			"name": "CQuestObjectiveManager::CompareRecords(google::protobuf::Message const*, google::protobuf::Message const*) const",
+			"name_mangled": "_ZNK22CQuestObjectiveManager14CompareRecordsEPKN6google8protobuf7MessageES4_"
+		},
+		{
+			"name": "CQuestObjectiveManager::SendMessageForCommit(google::protobuf::Message const*) const",
+			"name_mangled": "_ZNK22CQuestObjectiveManager20SendMessageForCommitEPKN6google8protobuf7MessageE"
+		}
+	]
+}

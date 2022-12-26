@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CLogicCompareInteger>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CLogicCompareIntegerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CLogicCompareInteger>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CLogicCompareIntegerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CLogicCompareInteger>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CLogicCompareIntegerE13GetEntitySizeEv"
+		}
+	]
+}

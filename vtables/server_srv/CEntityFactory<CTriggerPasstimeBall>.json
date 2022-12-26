@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTriggerPasstimeBall>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CTriggerPasstimeBallE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTriggerPasstimeBall>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CTriggerPasstimeBallE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTriggerPasstimeBall>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CTriggerPasstimeBallE13GetEntitySizeEv"
+		}
+	]
+}

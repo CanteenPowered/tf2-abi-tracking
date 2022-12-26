@@ -1,0 +1,10 @@
+{
+	"classname": "IPopulator",
+	"classname_mangled": "_ZTV10IPopulator",
+	"members": [
+		{
+			"name": "IPopulator::~IPopulator()",
+			"name_mangled": "_ZN10IPopulatorD0Ev"
+		}
+	]
+}

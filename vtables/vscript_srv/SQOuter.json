@@ -1,0 +1,30 @@
+{
+	"classname": "SQOuter",
+	"classname_mangled": "_ZTV7SQOuter",
+	"members": [
+		{
+			"name": "SQOuter::~SQOuter()",
+			"name_mangled": "_ZN7SQOuterD0Ev"
+		},
+		{
+			"name": "SQRefCounted::Iterate(CSQStateIterator*)",
+			"name_mangled": "_ZN12SQRefCounted7IterateEP16CSQStateIterator"
+		},
+		{
+			"name": "SQOuter::Release()",
+			"name_mangled": "_ZN7SQOuter7ReleaseEv"
+		},
+		{
+			"name": "SQOuter::GetType()",
+			"name_mangled": "_ZN7SQOuter7GetTypeEv"
+		},
+		{
+			"name": "SQOuter::Mark(SQCollectable**)",
+			"name_mangled": "_ZN7SQOuter4MarkEPP13SQCollectable"
+		},
+		{
+			"name": "SQOuter::Finalize()",
+			"name_mangled": "_ZN7SQOuter8FinalizeEv"
+		}
+	]
+}

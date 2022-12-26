@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CWeightButton>",
+	"classname_mangled": "_ZTV14CEntityFactoryI13CWeightButtonE",
+	"members": [
+		{
+			"name": "CEntityFactory<CWeightButton>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI13CWeightButtonE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CWeightButton>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI13CWeightButtonE13GetEntitySizeEv"
+		}
+	]
+}

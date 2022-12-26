@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncTrackTrain>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CFuncTrackTrainE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncTrackTrain>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CFuncTrackTrainE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncTrackTrain>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CFuncTrackTrainE13GetEntitySizeEv"
+		}
+	]
+}

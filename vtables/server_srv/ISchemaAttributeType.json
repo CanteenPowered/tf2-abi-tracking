@@ -1,0 +1,10 @@
+{
+	"classname": "ISchemaAttributeType",
+	"classname_mangled": "_ZTV20ISchemaAttributeType",
+	"members": [
+		{
+			"name": "ISchemaAttributeType::~ISchemaAttributeType()",
+			"name_mangled": "_ZN20ISchemaAttributeTypeD0Ev"
+		}
+	]
+}

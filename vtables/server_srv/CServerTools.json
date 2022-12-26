@@ -1,0 +1,214 @@
+{
+	"classname": "CServerTools",
+	"classname_mangled": "_ZTV12CServerTools",
+	"members": [
+		{
+			"name": "CServerTools::~CServerTools()",
+			"name_mangled": "_ZN12CServerToolsD0Ev"
+		},
+		{
+			"name": "CServerTools::GetIServerEntity(IClientEntity*)",
+			"name_mangled": "_ZN12CServerTools16GetIServerEntityEP13IClientEntity"
+		},
+		{
+			"name": "CServerTools::SnapPlayerToPosition(Vector const&, QAngle const&, IClientEntity*)",
+			"name_mangled": "_ZN12CServerTools20SnapPlayerToPositionERK6VectorRK6QAngleP13IClientEntity"
+		},
+		{
+			"name": "CServerTools::GetPlayerPosition(Vector&, QAngle&, IClientEntity*)",
+			"name_mangled": "_ZN12CServerTools17GetPlayerPositionER6VectorR6QAngleP13IClientEntity"
+		},
+		{
+			"name": "CServerTools::SetPlayerFOV(int, IClientEntity*)",
+			"name_mangled": "_ZN12CServerTools12SetPlayerFOVEiP13IClientEntity"
+		},
+		{
+			"name": "CServerTools::GetPlayerFOV(IClientEntity*)",
+			"name_mangled": "_ZN12CServerTools12GetPlayerFOVEP13IClientEntity"
+		},
+		{
+			"name": "CServerTools::IsInNoClipMode(IClientEntity*)",
+			"name_mangled": "_ZN12CServerTools14IsInNoClipModeEP13IClientEntity"
+		},
+		{
+			"name": "CServerTools::FirstEntity()",
+			"name_mangled": "_ZN12CServerTools11FirstEntityEv"
+		},
+		{
+			"name": "CServerTools::NextEntity(CBaseEntity*)",
+			"name_mangled": "_ZN12CServerTools10NextEntityEP11CBaseEntity"
+		},
+		{
+			"name": "CServerTools::FindEntityByHammerID(int)",
+			"name_mangled": "_ZN12CServerTools20FindEntityByHammerIDEi"
+		},
+		{
+			"name": "CServerTools::GetKeyValue(CBaseEntity*, char const*, char*, int)",
+			"name_mangled": "_ZN12CServerTools11GetKeyValueEP11CBaseEntityPKcPci"
+		},
+		{
+			"name": "CServerTools::SetKeyValue(CBaseEntity*, char const*, char const*)",
+			"name_mangled": "_ZN12CServerTools11SetKeyValueEP11CBaseEntityPKcS3_"
+		},
+		{
+			"name": "CServerTools::SetKeyValue(CBaseEntity*, char const*, float)",
+			"name_mangled": "_ZN12CServerTools11SetKeyValueEP11CBaseEntityPKcf"
+		},
+		{
+			"name": "CServerTools::SetKeyValue(CBaseEntity*, char const*, Vector const&)",
+			"name_mangled": "_ZN12CServerTools11SetKeyValueEP11CBaseEntityPKcRK6Vector"
+		},
+		{
+			"name": "CServerTools::CreateEntityByName(char const*)",
+			"name_mangled": "_ZN12CServerTools18CreateEntityByNameEPKc"
+		},
+		{
+			"name": "CServerTools::DispatchSpawn(CBaseEntity*)",
+			"name_mangled": "_ZN12CServerTools13DispatchSpawnEP11CBaseEntity"
+		},
+		{
+			"name": "CServerTools::ReloadParticleDefintions(char const*, void const*, int)",
+			"name_mangled": "_ZN12CServerTools24ReloadParticleDefintionsEPKcPKvi"
+		},
+		{
+			"name": "CServerTools::AddOriginToPVS(Vector const&)",
+			"name_mangled": "_ZN12CServerTools14AddOriginToPVSERK6Vector"
+		},
+		{
+			"name": "CServerTools::MoveEngineViewTo(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN12CServerTools16MoveEngineViewToERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CServerTools::DestroyEntityByHammerId(int)",
+			"name_mangled": "_ZN12CServerTools23DestroyEntityByHammerIdEi"
+		},
+		{
+			"name": "CServerTools::GetBaseEntityByEntIndex(int)",
+			"name_mangled": "_ZN12CServerTools23GetBaseEntityByEntIndexEi"
+		},
+		{
+			"name": "CServerTools::RemoveEntity(CBaseEntity*)",
+			"name_mangled": "_ZN12CServerTools12RemoveEntityEP11CBaseEntity"
+		},
+		{
+			"name": "CServerTools::RemoveEntityImmediate(CBaseEntity*)",
+			"name_mangled": "_ZN12CServerTools21RemoveEntityImmediateEP11CBaseEntity"
+		},
+		{
+			"name": "CServerTools::GetEntityFactoryDictionary()",
+			"name_mangled": "_ZN12CServerTools26GetEntityFactoryDictionaryEv"
+		},
+		{
+			"name": "CServerTools::SetMoveType(CBaseEntity*, int)",
+			"name_mangled": "_ZN12CServerTools11SetMoveTypeEP11CBaseEntityi"
+		},
+		{
+			"name": "CServerTools::SetMoveType(CBaseEntity*, int, int)",
+			"name_mangled": "_ZN12CServerTools11SetMoveTypeEP11CBaseEntityii"
+		},
+		{
+			"name": "CServerTools::ResetSequence(CBaseAnimating*, int)",
+			"name_mangled": "_ZN12CServerTools13ResetSequenceEP14CBaseAnimatingi"
+		},
+		{
+			"name": "CServerTools::ResetSequenceInfo(CBaseAnimating*)",
+			"name_mangled": "_ZN12CServerTools17ResetSequenceInfoEP14CBaseAnimating"
+		},
+		{
+			"name": "CServerTools::ClearMultiDamage()",
+			"name_mangled": "_ZN12CServerTools16ClearMultiDamageEv"
+		},
+		{
+			"name": "CServerTools::ApplyMultiDamage()",
+			"name_mangled": "_ZN12CServerTools16ApplyMultiDamageEv"
+		},
+		{
+			"name": "CServerTools::AddMultiDamage(CTakeDamageInfo const&, CBaseEntity*)",
+			"name_mangled": "_ZN12CServerTools14AddMultiDamageERK15CTakeDamageInfoP11CBaseEntity"
+		},
+		{
+			"name": "CServerTools::RadiusDamage(CTakeDamageInfo const&, Vector const&, float, int, CBaseEntity*)",
+			"name_mangled": "_ZN12CServerTools12RadiusDamageERK15CTakeDamageInfoRK6VectorfiP11CBaseEntity"
+		},
+		{
+			"name": "CServerTools::GetTempEntsSystem()",
+			"name_mangled": "_ZN12CServerTools17GetTempEntsSystemEv"
+		},
+		{
+			"name": "CServerTools::GetTempEntList()",
+			"name_mangled": "_ZN12CServerTools14GetTempEntListEv"
+		},
+		{
+			"name": "CServerTools::GetEntityList()",
+			"name_mangled": "_ZN12CServerTools13GetEntityListEv"
+		},
+		{
+			"name": "CServerTools::IsEntityPtr(void*)",
+			"name_mangled": "_ZN12CServerTools11IsEntityPtrEPv"
+		},
+		{
+			"name": "CServerTools::FindEntityByClassname(CBaseEntity*, char const*)",
+			"name_mangled": "_ZN12CServerTools21FindEntityByClassnameEP11CBaseEntityPKc"
+		},
+		{
+			"name": "CServerTools::FindEntityByName(CBaseEntity*, char const*, CBaseEntity*, CBaseEntity*, CBaseEntity*, IEntityFindFilter*)",
+			"name_mangled": "_ZN12CServerTools16FindEntityByNameEP11CBaseEntityPKcS1_S1_S1_P17IEntityFindFilter"
+		},
+		{
+			"name": "CServerTools::FindEntityInSphere(CBaseEntity*, Vector const&, float)",
+			"name_mangled": "_ZN12CServerTools18FindEntityInSphereEP11CBaseEntityRK6Vectorf"
+		},
+		{
+			"name": "CServerTools::FindEntityByTarget(CBaseEntity*, char const*)",
+			"name_mangled": "_ZN12CServerTools18FindEntityByTargetEP11CBaseEntityPKc"
+		},
+		{
+			"name": "CServerTools::FindEntityByModel(CBaseEntity*, char const*)",
+			"name_mangled": "_ZN12CServerTools17FindEntityByModelEP11CBaseEntityPKc"
+		},
+		{
+			"name": "CServerTools::FindEntityByNameNearest(char const*, Vector const&, float, CBaseEntity*, CBaseEntity*, CBaseEntity*)",
+			"name_mangled": "_ZN12CServerTools23FindEntityByNameNearestEPKcRK6VectorfP11CBaseEntityS6_S6_"
+		},
+		{
+			"name": "CServerTools::FindEntityByNameWithin(CBaseEntity*, char const*, Vector const&, float, CBaseEntity*, CBaseEntity*, CBaseEntity*)",
+			"name_mangled": "_ZN12CServerTools22FindEntityByNameWithinEP11CBaseEntityPKcRK6VectorfS1_S1_S1_"
+		},
+		{
+			"name": "CServerTools::FindEntityByClassnameNearest(char const*, Vector const&, float)",
+			"name_mangled": "_ZN12CServerTools28FindEntityByClassnameNearestEPKcRK6Vectorf"
+		},
+		{
+			"name": "CServerTools::FindEntityByClassnameWithin(CBaseEntity*, char const*, Vector const&, float)",
+			"name_mangled": "_ZN12CServerTools27FindEntityByClassnameWithinEP11CBaseEntityPKcRK6Vectorf"
+		},
+		{
+			"name": "CServerTools::FindEntityByClassnameWithin(CBaseEntity*, char const*, Vector const&, Vector const&)",
+			"name_mangled": "_ZN12CServerTools27FindEntityByClassnameWithinEP11CBaseEntityPKcRK6VectorS6_"
+		},
+		{
+			"name": "CServerTools::FindEntityGeneric(CBaseEntity*, char const*, CBaseEntity*, CBaseEntity*, CBaseEntity*)",
+			"name_mangled": "_ZN12CServerTools17FindEntityGenericEP11CBaseEntityPKcS1_S1_S1_"
+		},
+		{
+			"name": "CServerTools::FindEntityGenericWithin(CBaseEntity*, char const*, Vector const&, float, CBaseEntity*, CBaseEntity*, CBaseEntity*)",
+			"name_mangled": "_ZN12CServerTools23FindEntityGenericWithinEP11CBaseEntityPKcRK6VectorfS1_S1_S1_"
+		},
+		{
+			"name": "CServerTools::FindEntityGenericNearest(char const*, Vector const&, float, CBaseEntity*, CBaseEntity*, CBaseEntity*)",
+			"name_mangled": "_ZN12CServerTools24FindEntityGenericNearestEPKcRK6VectorfP11CBaseEntityS6_S6_"
+		},
+		{
+			"name": "CServerTools::FindEntityNearestFacing(Vector const&, Vector const&, float)",
+			"name_mangled": "_ZN12CServerTools23FindEntityNearestFacingERK6VectorS2_f"
+		},
+		{
+			"name": "CServerTools::FindEntityClassNearestFacing(Vector const&, Vector const&, float, char*)",
+			"name_mangled": "_ZN12CServerTools28FindEntityClassNearestFacingERK6VectorS2_fPc"
+		},
+		{
+			"name": "CServerTools::FindEntityProcedural(char const*, CBaseEntity*, CBaseEntity*, CBaseEntity*)",
+			"name_mangled": "_ZN12CServerTools20FindEntityProceduralEPKcP11CBaseEntityS3_S3_"
+		}
+	]
+}

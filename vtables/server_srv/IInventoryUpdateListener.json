@@ -1,0 +1,30 @@
+{
+	"classname": "IInventoryUpdateListener",
+	"classname_mangled": "_ZTV24IInventoryUpdateListener",
+	"members": [
+		{
+			"name": "IInventoryUpdateListener::PreSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN24IInventoryUpdateListener11PreSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "IInventoryUpdateListener::SOUpdated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN24IInventoryUpdateListener9SOUpdatedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "IInventoryUpdateListener::PostSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN24IInventoryUpdateListener12PostSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "IInventoryUpdateListener::SODestroyed(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN24IInventoryUpdateListener11SODestroyedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "IInventoryUpdateListener::SOCacheSubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN24IInventoryUpdateListener17SOCacheSubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "IInventoryUpdateListener::SOCacheUnsubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN24IInventoryUpdateListener19SOCacheUnsubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		}
+	]
+}

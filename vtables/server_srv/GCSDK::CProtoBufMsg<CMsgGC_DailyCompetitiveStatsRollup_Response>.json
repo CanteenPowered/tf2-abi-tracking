@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgGC_DailyCompetitiveStatsRollup_Response>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI43CMsgGC_DailyCompetitiveStatsRollup_ResponseEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGC_DailyCompetitiveStatsRollup_Response>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI43CMsgGC_DailyCompetitiveStatsRollup_ResponseED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGC_DailyCompetitiveStatsRollup_Response>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI43CMsgGC_DailyCompetitiveStatsRollup_ResponseE14GetGenericBodyEv"
+		}
+	]
+}

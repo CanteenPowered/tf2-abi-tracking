@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTriggerAreaCapture>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CTriggerAreaCaptureE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTriggerAreaCapture>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CTriggerAreaCaptureE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTriggerAreaCapture>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CTriggerAreaCaptureE13GetEntitySizeEv"
+		}
+	]
+}

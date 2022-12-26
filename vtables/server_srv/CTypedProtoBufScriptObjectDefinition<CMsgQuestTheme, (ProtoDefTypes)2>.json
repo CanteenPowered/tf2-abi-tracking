@@ -1,0 +1,42 @@
+{
+	"classname": "CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>",
+	"classname_mangled": "_ZTV36CTypedProtoBufScriptObjectDefinitionI14CMsgQuestThemeL13ProtoDefTypes2EE",
+	"members": [
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::~CTypedProtoBufScriptObjectDefinition()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI14CMsgQuestThemeL13ProtoDefTypes2EED0Ev"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMsg() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI14CMsgQuestThemeL13ProtoDefTypes2EE6GetMsgEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetDefType() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI14CMsgQuestThemeL13ProtoDefTypes2EE10GetDefTypeEv"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::GetDisplayName() const",
+			"name_mangled": "_ZNK31IProtoBufScriptObjectDefinition14GetDisplayNameEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetTopLayerMessage() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI14CMsgQuestThemeL13ProtoDefTypes2EE18GetTopLayerMessageEv"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN31IProtoBufScriptObjectDefinition15BPostDataLoadedEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN31IProtoBufScriptObjectDefinition13BOnDataLoadedEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMutableTopLayerMsg()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI14CMsgQuestThemeL13ProtoDefTypes2EE21GetMutableTopLayerMsgEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestTheme, (ProtoDefTypes)2>::GetMutableMsg()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI14CMsgQuestThemeL13ProtoDefTypes2EE13GetMutableMsgEv"
+		}
+	]
+}

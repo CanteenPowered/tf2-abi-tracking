@@ -1,0 +1,66 @@
+{
+	"classname": "NET_SignonState",
+	"classname_mangled": "_ZTV15NET_SignonState",
+	"members": [
+		{
+			"name": "NET_SignonState::~NET_SignonState()",
+			"name_mangled": "_ZN15NET_SignonStateD0Ev"
+		},
+		{
+			"name": "CNetMessage::SetNetChannel(INetChannel*)",
+			"name_mangled": "_ZN11CNetMessage13SetNetChannelEP11INetChannel"
+		},
+		{
+			"name": "CNetMessage::SetReliable(bool)",
+			"name_mangled": "_ZN11CNetMessage11SetReliableEb"
+		},
+		{
+			"name": "NET_SignonState::Process()",
+			"name_mangled": "_ZN15NET_SignonState7ProcessEv"
+		},
+		{
+			"name": "NET_SignonState::ReadFromBuffer(bf_read&)",
+			"name_mangled": "_ZN15NET_SignonState14ReadFromBufferER7bf_read"
+		},
+		{
+			"name": "NET_SignonState::WriteToBuffer(bf_write&)",
+			"name_mangled": "_ZN15NET_SignonState13WriteToBufferER8bf_write"
+		},
+		{
+			"name": "CNetMessage::IsReliable() const",
+			"name_mangled": "_ZNK11CNetMessage10IsReliableEv"
+		},
+		{
+			"name": "NET_SignonState::GetType() const",
+			"name_mangled": "_ZNK15NET_SignonState7GetTypeEv"
+		},
+		{
+			"name": "NET_SignonState::GetGroup() const",
+			"name_mangled": "_ZNK15NET_SignonState8GetGroupEv"
+		},
+		{
+			"name": "NET_SignonState::GetName() const",
+			"name_mangled": "_ZNK15NET_SignonState7GetNameEv"
+		},
+		{
+			"name": "CNetMessage::GetNetChannel() const",
+			"name_mangled": "_ZNK11CNetMessage13GetNetChannelEv"
+		},
+		{
+			"name": "NET_SignonState::ToString() const",
+			"name_mangled": "_ZNK15NET_SignonState8ToStringEv"
+		},
+		{
+			"name": "CNetMessage::BIncomingMessageForProcessing(double, int)",
+			"name_mangled": "_ZN11CNetMessage29BIncomingMessageForProcessingEdi"
+		},
+		{
+			"name": "NET_SignonState::GetSize() const",
+			"name_mangled": "_ZNK15NET_SignonState7GetSizeEv"
+		},
+		{
+			"name": "CNetMessage::SetRatePolicy()",
+			"name_mangled": "_ZN11CNetMessage13SetRatePolicyEv"
+		}
+	]
+}

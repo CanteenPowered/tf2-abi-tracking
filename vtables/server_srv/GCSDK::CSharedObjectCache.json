@@ -1,0 +1,10 @@
+{
+	"classname": "GCSDK::CSharedObjectCache",
+	"classname_mangled": "_ZTVN5GCSDK18CSharedObjectCacheE",
+	"members": [
+		{
+			"name": "GCSDK::CSharedObjectCache::~CSharedObjectCache()",
+			"name_mangled": "_ZN5GCSDK18CSharedObjectCacheD0Ev"
+		}
+	]
+}

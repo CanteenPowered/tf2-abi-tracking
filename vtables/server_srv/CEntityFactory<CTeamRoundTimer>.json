@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTeamRoundTimer>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CTeamRoundTimerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTeamRoundTimer>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CTeamRoundTimerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTeamRoundTimer>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CTeamRoundTimerE13GetEntitySizeEv"
+		}
+	]
+}

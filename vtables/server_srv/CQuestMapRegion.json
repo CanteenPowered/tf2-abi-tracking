@@ -1,0 +1,42 @@
+{
+	"classname": "CQuestMapRegion",
+	"classname_mangled": "_ZTV15CQuestMapRegion",
+	"members": [
+		{
+			"name": "CQuestMapRegion::~CQuestMapRegion()",
+			"name_mangled": "_ZN15CQuestMapRegionD0Ev"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetMsg() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI21CMsgQuestMapRegionDefL13ProtoDefTypes3EE6GetMsgEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetDefType() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI21CMsgQuestMapRegionDefL13ProtoDefTypes3EE10GetDefTypeEv"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::GetDisplayName() const",
+			"name_mangled": "_ZNK31IProtoBufScriptObjectDefinition14GetDisplayNameEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetTopLayerMessage() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI21CMsgQuestMapRegionDefL13ProtoDefTypes3EE18GetTopLayerMessageEv"
+		},
+		{
+			"name": "CQuestMapRegion::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN15CQuestMapRegion15BPostDataLoadedEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN31IProtoBufScriptObjectDefinition13BOnDataLoadedEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetMutableTopLayerMsg()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI21CMsgQuestMapRegionDefL13ProtoDefTypes3EE21GetMutableTopLayerMsgEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapRegionDef, (ProtoDefTypes)3>::GetMutableMsg()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI21CMsgQuestMapRegionDefL13ProtoDefTypes3EE13GetMutableMsgEv"
+		}
+	]
+}

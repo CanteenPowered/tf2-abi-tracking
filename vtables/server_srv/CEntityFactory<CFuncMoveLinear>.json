@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncMoveLinear>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CFuncMoveLinearE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncMoveLinear>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CFuncMoveLinearE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncMoveLinear>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CFuncMoveLinearE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "CAI_LeadBehaviorHandler",
+	"classname_mangled": "_ZTV23CAI_LeadBehaviorHandler",
+	"members": [
+		{
+			"name": "CAI_LeadBehaviorHandler::GetConceptModifiers(char const*)",
+			"name_mangled": "_ZN23CAI_LeadBehaviorHandler19GetConceptModifiersEPKc"
+		}
+	]
+}

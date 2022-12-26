@@ -1,0 +1,30 @@
+{
+	"classname": "CTEShatterSurface",
+	"classname_mangled": "_ZTV17CTEShatterSurface",
+	"members": [
+		{
+			"name": "CTEShatterSurface::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN17CTEShatterSurface40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEShatterSurface::~CTEShatterSurface()",
+			"name_mangled": "_ZN17CTEShatterSurfaceD2Ev"
+		},
+		{
+			"name": "CTEShatterSurface::~CTEShatterSurface()",
+			"name_mangled": "_ZN17CTEShatterSurfaceD0Ev"
+		},
+		{
+			"name": "CTEShatterSurface::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN17CTEShatterSurface4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

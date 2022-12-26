@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncMonitor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CFuncMonitorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncMonitor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CFuncMonitorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncMonitor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CFuncMonitorE13GetEntitySizeEv"
+		}
+	]
+}

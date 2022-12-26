@@ -1,0 +1,22 @@
+{
+	"classname": "CMemberFunctor1<CAI_Navigator*, bool (CAI_Navigator::*)(Vector const&), Vector, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>",
+	"classname_mangled": "_ZTV15CMemberFunctor1IP13CAI_NavigatorMS0_FbRK6VectorES2_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneE",
+	"members": [
+		{
+			"name": "CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>::Release()",
+			"name_mangled": "_ZN12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE7ReleaseEv"
+		},
+		{
+			"name": "CMemberFunctor1<CAI_Navigator*, bool (CAI_Navigator::*)(Vector const&), Vector, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::~CMemberFunctor1()",
+			"name_mangled": "_ZN15CMemberFunctor1IP13CAI_NavigatorMS0_FbRK6VectorES2_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneED1Ev"
+		},
+		{
+			"name": "CMemberFunctor1<CAI_Navigator*, bool (CAI_Navigator::*)(Vector const&), Vector, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::~CMemberFunctor1()",
+			"name_mangled": "_ZN15CMemberFunctor1IP13CAI_NavigatorMS0_FbRK6VectorES2_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneED0Ev"
+		},
+		{
+			"name": "CMemberFunctor1<CAI_Navigator*, bool (CAI_Navigator::*)(Vector const&), Vector, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::operator()()",
+			"name_mangled": "_ZN15CMemberFunctor1IP13CAI_NavigatorMS0_FbRK6VectorES2_12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneEclEv"
+		}
+	]
+}

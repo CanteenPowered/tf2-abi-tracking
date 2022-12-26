@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTriggerToggleSave>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CTriggerToggleSaveE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTriggerToggleSave>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CTriggerToggleSaveE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTriggerToggleSave>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CTriggerToggleSaveE13GetEntitySizeEv"
+		}
+	]
+}

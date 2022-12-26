@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFStunBall>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CTFStunBallE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFStunBall>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CTFStunBallE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFStunBall>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CTFStunBallE13GetEntitySizeEv"
+		}
+	]
+}

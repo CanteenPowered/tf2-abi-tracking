@@ -1,0 +1,22 @@
+{
+	"classname": "ISchemaAttributeTypeBase<CAttribute_WorldItemPlacement>",
+	"classname_mangled": "_ZTV24ISchemaAttributeTypeBaseI29CAttribute_WorldItemPlacementE",
+	"members": [
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_WorldItemPlacement>::~ISchemaAttributeTypeBase()",
+			"name_mangled": "_ZN24ISchemaAttributeTypeBaseI29CAttribute_WorldItemPlacementED0Ev"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_WorldItemPlacement>::GetTypeUniqueIdentifier() const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI29CAttribute_WorldItemPlacementE23GetTypeUniqueIdentifierEv"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_WorldItemPlacement>::LoadEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI29CAttribute_WorldItemPlacementE22LoadEconAttributeValueEP9CEconItemPK28CEconItemAttributeDefinitionRK22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_WorldItemPlacement>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&, std::string*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI29CAttribute_WorldItemPlacementE37ConvertEconAttributeValueToByteStreamERK22attribute_data_union_tPSs"
+		}
+	]
+}

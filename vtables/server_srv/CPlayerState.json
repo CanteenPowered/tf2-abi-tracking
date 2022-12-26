@@ -1,0 +1,18 @@
+{
+	"classname": "CPlayerState",
+	"classname_mangled": "_ZTV12CPlayerState",
+	"members": [
+		{
+			"name": "CPlayerState::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN12CPlayerState19NetworkStateChangedEPv"
+		},
+		{
+			"name": "CPlayerState::~CPlayerState()",
+			"name_mangled": "_ZN12CPlayerStateD1Ev"
+		},
+		{
+			"name": "CPlayerState::~CPlayerState()",
+			"name_mangled": "_ZN12CPlayerStateD0Ev"
+		}
+	]
+}

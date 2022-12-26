@@ -1,0 +1,42 @@
+{
+	"classname": "CPaintKitDefinition",
+	"classname_mangled": "_ZTV19CPaintKitDefinition",
+	"members": [
+		{
+			"name": "CPaintKitDefinition::~CPaintKitDefinition()",
+			"name_mangled": "_ZN19CPaintKitDefinitionD0Ev"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetMsg() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI23CMsgPaintKit_DefinitionL13ProtoDefTypes9EE6GetMsgEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetDefType() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI23CMsgPaintKit_DefinitionL13ProtoDefTypes9EE10GetDefTypeEv"
+		},
+		{
+			"name": "CPaintKitDefinition::GetDisplayName() const",
+			"name_mangled": "_ZNK19CPaintKitDefinition14GetDisplayNameEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetTopLayerMessage() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI23CMsgPaintKit_DefinitionL13ProtoDefTypes9EE18GetTopLayerMessageEv"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN31IProtoBufScriptObjectDefinition15BPostDataLoadedEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN31IProtoBufScriptObjectDefinition13BOnDataLoadedEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetMutableTopLayerMsg()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI23CMsgPaintKit_DefinitionL13ProtoDefTypes9EE21GetMutableTopLayerMsgEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_Definition, (ProtoDefTypes)9>::GetMutableMsg()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI23CMsgPaintKit_DefinitionL13ProtoDefTypes9EE13GetMutableMsgEv"
+		}
+	]
+}

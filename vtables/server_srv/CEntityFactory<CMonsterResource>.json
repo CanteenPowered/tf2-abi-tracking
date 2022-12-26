@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CMonsterResource>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CMonsterResourceE",
+	"members": [
+		{
+			"name": "CEntityFactory<CMonsterResource>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CMonsterResourceE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CMonsterResource>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CMonsterResourceE13GetEntitySizeEv"
+		}
+	]
+}

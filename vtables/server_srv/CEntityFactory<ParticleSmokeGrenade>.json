@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<ParticleSmokeGrenade>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20ParticleSmokeGrenadeE",
+	"members": [
+		{
+			"name": "CEntityFactory<ParticleSmokeGrenade>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20ParticleSmokeGrenadeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<ParticleSmokeGrenade>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20ParticleSmokeGrenadeE13GetEntitySizeEv"
+		}
+	]
+}

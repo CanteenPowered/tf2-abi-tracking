@@ -1,0 +1,26 @@
+{
+	"classname": "FindSafeSentryApproachAreaScan",
+	"classname_mangled": "_ZTV30FindSafeSentryApproachAreaScan",
+	"members": [
+		{
+			"name": "FindSafeSentryApproachAreaScan::~FindSafeSentryApproachAreaScan()",
+			"name_mangled": "_ZN30FindSafeSentryApproachAreaScanD0Ev"
+		},
+		{
+			"name": "FindSafeSentryApproachAreaScan::operator()(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN30FindSafeSentryApproachAreaScanclEP8CNavAreaS1_f"
+		},
+		{
+			"name": "FindSafeSentryApproachAreaScan::ShouldSearch(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN30FindSafeSentryApproachAreaScan12ShouldSearchEP8CNavAreaS1_f"
+		},
+		{
+			"name": "ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN30ISearchSurroundingAreasFunctor20IterateAdjacentAreasEP8CNavAreaS1_f"
+		},
+		{
+			"name": "FindSafeSentryApproachAreaScan::PostSearch()",
+			"name_mangled": "_ZN30FindSafeSentryApproachAreaScan10PostSearchEv"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "IConnectionlessPacketHandler",
+	"classname_mangled": "_ZTV28IConnectionlessPacketHandler",
+	"members": [
+		{
+			"name": "IConnectionlessPacketHandler::~IConnectionlessPacketHandler()",
+			"name_mangled": "_ZN28IConnectionlessPacketHandlerD0Ev"
+		}
+	]
+}

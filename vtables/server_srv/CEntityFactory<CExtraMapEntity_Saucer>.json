@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CExtraMapEntity_Saucer>",
+	"classname_mangled": "_ZTV14CEntityFactoryI22CExtraMapEntity_SaucerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CExtraMapEntity_Saucer>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI22CExtraMapEntity_SaucerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CExtraMapEntity_Saucer>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI22CExtraMapEntity_SaucerE13GetEntitySizeEv"
+		}
+	]
+}

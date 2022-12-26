@@ -1,0 +1,10 @@
+{
+	"classname": "CManagedDataCacheClient<CColorMeshData, colormeshparams_t, CColorMeshData*>",
+	"classname_mangled": "_ZTV23CManagedDataCacheClientI14CColorMeshData17colormeshparams_tPS0_E",
+	"members": [
+		{
+			"name": "CDefaultDataCacheClient::GetItemName(unsigned int, void const*, char*, unsigned int)",
+			"name_mangled": "_ZN23CDefaultDataCacheClient11GetItemNameEjPKvPcj"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CObjectTeleporter>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CObjectTeleporterE",
+	"members": [
+		{
+			"name": "CEntityFactory<CObjectTeleporter>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CObjectTeleporterE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CObjectTeleporter>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CObjectTeleporterE13GetEntitySizeEv"
+		}
+	]
+}

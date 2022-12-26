@@ -1,0 +1,82 @@
+{
+	"classname": "CSOEconClaimCode",
+	"classname_mangled": "_ZTV16CSOEconClaimCode",
+	"members": [
+		{
+			"name": "CSOEconClaimCode::~CSOEconClaimCode()",
+			"name_mangled": "_ZN16CSOEconClaimCodeD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CSOEconClaimCode::New() const",
+			"name_mangled": "_ZNK16CSOEconClaimCode3NewEv"
+		},
+		{
+			"name": "CSOEconClaimCode::Clear()",
+			"name_mangled": "_ZN16CSOEconClaimCode5ClearEv"
+		},
+		{
+			"name": "CSOEconClaimCode::IsInitialized() const",
+			"name_mangled": "_ZNK16CSOEconClaimCode13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CSOEconClaimCode::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN16CSOEconClaimCode27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CSOEconClaimCode::ByteSize() const",
+			"name_mangled": "_ZNK16CSOEconClaimCode8ByteSizeEv"
+		},
+		{
+			"name": "CSOEconClaimCode::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK16CSOEconClaimCode24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CSOEconClaimCode::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK16CSOEconClaimCode31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CSOEconClaimCode::GetCachedSize() const",
+			"name_mangled": "_ZNK16CSOEconClaimCode13GetCachedSizeEv"
+		},
+		{
+			"name": "CSOEconClaimCode::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN16CSOEconClaimCode8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CSOEconClaimCode::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN16CSOEconClaimCode9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CSOEconClaimCode::SetCachedSize(int) const",
+			"name_mangled": "_ZNK16CSOEconClaimCode13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CSOEconClaimCode::GetMetadata() const",
+			"name_mangled": "_ZNK16CSOEconClaimCode11GetMetadataEv"
+		}
+	]
+}

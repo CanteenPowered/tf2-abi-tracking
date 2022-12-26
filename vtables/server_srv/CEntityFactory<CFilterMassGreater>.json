@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFilterMassGreater>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CFilterMassGreaterE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFilterMassGreater>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CFilterMassGreaterE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFilterMassGreater>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CFilterMassGreaterE13GetEntitySizeEv"
+		}
+	]
+}

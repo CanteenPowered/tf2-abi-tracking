@@ -1,0 +1,14 @@
+{
+	"classname": "CReplayFrame",
+	"classname_mangled": "_ZTV12CReplayFrame",
+	"members": [
+		{
+			"name": "CReplayFrame::~CReplayFrame()",
+			"name_mangled": "_ZN12CReplayFrameD0Ev"
+		},
+		{
+			"name": "CReplayFrame::IsMemPoolAllocated()",
+			"name_mangled": "_ZN12CReplayFrame18IsMemPoolAllocatedEv"
+		}
+	]
+}

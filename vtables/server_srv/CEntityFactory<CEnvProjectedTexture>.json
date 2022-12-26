@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEnvProjectedTexture>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CEnvProjectedTextureE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEnvProjectedTexture>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CEnvProjectedTextureE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEnvProjectedTexture>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CEnvProjectedTextureE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,302 @@
+{
+	"classname": "CFourWheelServerVehicle",
+	"classname_mangled": "_ZTV23CFourWheelServerVehicle",
+	"members": [
+		{
+			"name": "CBaseServerVehicle::GetPassengerRole(CBaseCombatCharacter*)",
+			"name_mangled": "_ZN18CBaseServerVehicle16GetPassengerRoleEP20CBaseCombatCharacter"
+		},
+		{
+			"name": "CFourWheelServerVehicle::GetVehicleViewPosition(int, Vector*, QAngle*, float*)",
+			"name_mangled": "_ZN23CFourWheelServerVehicle22GetVehicleViewPositionEiP6VectorP6QAnglePf"
+		},
+		{
+			"name": "CBaseServerVehicle::IsPassengerUsingStandardWeapons(int)",
+			"name_mangled": "_ZN18CBaseServerVehicle31IsPassengerUsingStandardWeaponsEi"
+		},
+		{
+			"name": "CBaseServerVehicle::SetupMove(CBasePlayer*, CUserCmd*, IMoveHelper*, CMoveData*)",
+			"name_mangled": "_ZN18CBaseServerVehicle9SetupMoveEP11CBasePlayerP8CUserCmdP11IMoveHelperP9CMoveData"
+		},
+		{
+			"name": "CBaseServerVehicle::ProcessMovement(CBasePlayer*, CMoveData*)",
+			"name_mangled": "_ZN18CBaseServerVehicle15ProcessMovementEP11CBasePlayerP9CMoveData"
+		},
+		{
+			"name": "CBaseServerVehicle::FinishMove(CBasePlayer*, CUserCmd*, CMoveData*)",
+			"name_mangled": "_ZN18CBaseServerVehicle10FinishMoveEP11CBasePlayerP8CUserCmdP9CMoveData"
+		},
+		{
+			"name": "CBaseServerVehicle::ItemPostFrame(CBasePlayer*)",
+			"name_mangled": "_ZN18CBaseServerVehicle13ItemPostFrameEP11CBasePlayer"
+		},
+		{
+			"name": "CBaseServerVehicle::GetVehicleEnt()",
+			"name_mangled": "_ZN18CBaseServerVehicle13GetVehicleEntEv"
+		},
+		{
+			"name": "CBaseServerVehicle::SetPassenger(int, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN18CBaseServerVehicle12SetPassengerEiP20CBaseCombatCharacter"
+		},
+		{
+			"name": "CBaseServerVehicle::IsPassengerVisible(int)",
+			"name_mangled": "_ZN18CBaseServerVehicle18IsPassengerVisibleEi"
+		},
+		{
+			"name": "CBaseServerVehicle::IsPassengerDamagable(int)",
+			"name_mangled": "_ZN18CBaseServerVehicle20IsPassengerDamagableEi"
+		},
+		{
+			"name": "CBaseServerVehicle::PassengerShouldReceiveDamage(CTakeDamageInfo&)",
+			"name_mangled": "_ZN18CBaseServerVehicle28PassengerShouldReceiveDamageER15CTakeDamageInfo"
+		},
+		{
+			"name": "CFourWheelServerVehicle::IsVehicleUpright()",
+			"name_mangled": "_ZN23CFourWheelServerVehicle16IsVehicleUprightEv"
+		},
+		{
+			"name": "CFourWheelServerVehicle::IsPassengerEntering()",
+			"name_mangled": "_ZN23CFourWheelServerVehicle19IsPassengerEnteringEv"
+		},
+		{
+			"name": "CFourWheelServerVehicle::IsPassengerExiting()",
+			"name_mangled": "_ZN23CFourWheelServerVehicle18IsPassengerExitingEv"
+		},
+		{
+			"name": "CBaseServerVehicle::GetPassengerSeatPoint(int, Vector*, QAngle*)",
+			"name_mangled": "_ZN18CBaseServerVehicle21GetPassengerSeatPointEiP6VectorP6QAngle"
+		},
+		{
+			"name": "CBaseServerVehicle::HandlePassengerEntry(CBaseCombatCharacter*, bool)",
+			"name_mangled": "_ZN18CBaseServerVehicle20HandlePassengerEntryEP20CBaseCombatCharacterb"
+		},
+		{
+			"name": "CBaseServerVehicle::HandlePassengerExit(CBaseCombatCharacter*)",
+			"name_mangled": "_ZN18CBaseServerVehicle19HandlePassengerExitEP20CBaseCombatCharacter"
+		},
+		{
+			"name": "CBaseServerVehicle::GetPassengerExitPoint(int, Vector*, QAngle*)",
+			"name_mangled": "_ZN18CBaseServerVehicle21GetPassengerExitPointEiP6VectorP6QAngle"
+		},
+		{
+			"name": "CBaseServerVehicle::GetEntryAnimForPoint(Vector const&)",
+			"name_mangled": "_ZN18CBaseServerVehicle20GetEntryAnimForPointERK6Vector"
+		},
+		{
+			"name": "CBaseServerVehicle::GetExitAnimToUse(Vector&, bool&)",
+			"name_mangled": "_ZN18CBaseServerVehicle16GetExitAnimToUseER6VectorRb"
+		},
+		{
+			"name": "CBaseServerVehicle::HandleEntryExitFinish(bool, bool)",
+			"name_mangled": "_ZN18CBaseServerVehicle21HandleEntryExitFinishEbb"
+		},
+		{
+			"name": "CBaseServerVehicle::ClassifyPassenger(CBaseCombatCharacter*, Class_T)",
+			"name_mangled": "_ZN18CBaseServerVehicle17ClassifyPassengerEP20CBaseCombatCharacter7Class_T"
+		},
+		{
+			"name": "CBaseServerVehicle::PassengerDamageModifier(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN18CBaseServerVehicle23PassengerDamageModifierERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CFourWheelServerVehicle::GetVehicleParams()",
+			"name_mangled": "_ZN23CFourWheelServerVehicle16GetVehicleParamsEv"
+		},
+		{
+			"name": "CFourWheelServerVehicle::GetVehicleController()",
+			"name_mangled": "_ZN23CFourWheelServerVehicle20GetVehicleControllerEv"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_GetAvailableSeat(CBaseCombatCharacter*, string_t, VehicleSeatQuery_e)",
+			"name_mangled": "_ZN18CBaseServerVehicle20NPC_GetAvailableSeatEP20CBaseCombatCharacter8string_t18VehicleSeatQuery_e"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_AddPassenger(CBaseCombatCharacter*, string_t, int)",
+			"name_mangled": "_ZN18CBaseServerVehicle16NPC_AddPassengerEP20CBaseCombatCharacter8string_ti"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_RemovePassenger(CBaseCombatCharacter*)",
+			"name_mangled": "_ZN18CBaseServerVehicle19NPC_RemovePassengerEP20CBaseCombatCharacter"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_GetPassengerSeatPosition(CBaseCombatCharacter*, Vector*, QAngle*)",
+			"name_mangled": "_ZN18CBaseServerVehicle28NPC_GetPassengerSeatPositionEP20CBaseCombatCharacterP6VectorP6QAngle"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_GetPassengerSeatPositionLocal(CBaseCombatCharacter*, Vector*, QAngle*)",
+			"name_mangled": "_ZN18CBaseServerVehicle33NPC_GetPassengerSeatPositionLocalEP20CBaseCombatCharacterP6VectorP6QAngle"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_GetPassengerSeatAttachment(CBaseCombatCharacter*)",
+			"name_mangled": "_ZN18CBaseServerVehicle30NPC_GetPassengerSeatAttachmentEP20CBaseCombatCharacter"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_HasAvailableSeat(string_t)",
+			"name_mangled": "_ZN18CBaseServerVehicle20NPC_HasAvailableSeatE8string_t"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_GetPassengerSeatAnims(CBaseCombatCharacter*, PassengerSeatAnimType_t)",
+			"name_mangled": "_ZN18CBaseServerVehicle25NPC_GetPassengerSeatAnimsEP20CBaseCombatCharacter23PassengerSeatAnimType_t"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_GetPassengerInSeat(int, int)",
+			"name_mangled": "_ZN18CBaseServerVehicle22NPC_GetPassengerInSeatEii"
+		},
+		{
+			"name": "CBaseServerVehicle::RestorePassengerInfo()",
+			"name_mangled": "_ZN18CBaseServerVehicle20RestorePassengerInfoEv"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_CanDrive()",
+			"name_mangled": "_ZN18CBaseServerVehicle12NPC_CanDriveEv"
+		},
+		{
+			"name": "CFourWheelServerVehicle::NPC_SetDriver(CNPC_VehicleDriver*)",
+			"name_mangled": "_ZN23CFourWheelServerVehicle13NPC_SetDriverEP18CNPC_VehicleDriver"
+		},
+		{
+			"name": "CFourWheelServerVehicle::NPC_DriveVehicle()",
+			"name_mangled": "_ZN23CFourWheelServerVehicle16NPC_DriveVehicleEv"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_ThrottleCenter()",
+			"name_mangled": "_ZN18CBaseServerVehicle18NPC_ThrottleCenterEv"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_ThrottleReverse()",
+			"name_mangled": "_ZN18CBaseServerVehicle19NPC_ThrottleReverseEv"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_ThrottleForward()",
+			"name_mangled": "_ZN18CBaseServerVehicle19NPC_ThrottleForwardEv"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_Brake()",
+			"name_mangled": "_ZN18CBaseServerVehicle9NPC_BrakeEv"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_TurnLeft(float)",
+			"name_mangled": "_ZN18CBaseServerVehicle12NPC_TurnLeftEf"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_TurnRight(float)",
+			"name_mangled": "_ZN18CBaseServerVehicle13NPC_TurnRightEf"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_TurnCenter()",
+			"name_mangled": "_ZN18CBaseServerVehicle14NPC_TurnCenterEv"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_PrimaryFire()",
+			"name_mangled": "_ZN18CBaseServerVehicle15NPC_PrimaryFireEv"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_SecondaryFire()",
+			"name_mangled": "_ZN18CBaseServerVehicle17NPC_SecondaryFireEv"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_HasPrimaryWeapon()",
+			"name_mangled": "_ZN18CBaseServerVehicle20NPC_HasPrimaryWeaponEv"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_HasSecondaryWeapon()",
+			"name_mangled": "_ZN18CBaseServerVehicle22NPC_HasSecondaryWeaponEv"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_AimPrimaryWeapon(Vector)",
+			"name_mangled": "_ZN18CBaseServerVehicle20NPC_AimPrimaryWeaponE6Vector"
+		},
+		{
+			"name": "CBaseServerVehicle::NPC_AimSecondaryWeapon(Vector)",
+			"name_mangled": "_ZN18CBaseServerVehicle22NPC_AimSecondaryWeaponE6Vector"
+		},
+		{
+			"name": "CBaseServerVehicle::Weapon_PrimaryRanges(float*, float*)",
+			"name_mangled": "_ZN18CBaseServerVehicle20Weapon_PrimaryRangesEPfS0_"
+		},
+		{
+			"name": "CBaseServerVehicle::Weapon_SecondaryRanges(float*, float*)",
+			"name_mangled": "_ZN18CBaseServerVehicle22Weapon_SecondaryRangesEPfS0_"
+		},
+		{
+			"name": "CBaseServerVehicle::Weapon_PrimaryCanFireAt()",
+			"name_mangled": "_ZN18CBaseServerVehicle23Weapon_PrimaryCanFireAtEv"
+		},
+		{
+			"name": "CBaseServerVehicle::Weapon_SecondaryCanFireAt()",
+			"name_mangled": "_ZN18CBaseServerVehicle25Weapon_SecondaryCanFireAtEv"
+		},
+		{
+			"name": "CBaseServerVehicle::ReloadScript()",
+			"name_mangled": "_ZN18CBaseServerVehicle12ReloadScriptEv"
+		},
+		{
+			"name": "CBaseServerVehicle::Precache()",
+			"name_mangled": "_ZN18CBaseServerVehicle8PrecacheEv"
+		},
+		{
+			"name": "CFourWheelServerVehicle::IsVehicleBodyInWater()",
+			"name_mangled": "_ZN23CFourWheelServerVehicle20IsVehicleBodyInWaterEv"
+		},
+		{
+			"name": "CBaseServerVehicle::GetDriver()",
+			"name_mangled": "_ZN18CBaseServerVehicle9GetDriverEv"
+		},
+		{
+			"name": "CBaseServerVehicle::ParseEntryExitAnims()",
+			"name_mangled": "_ZN18CBaseServerVehicle19ParseEntryExitAnimsEv"
+		},
+		{
+			"name": "CBaseServerVehicle::CheckExitPoint(float, int, Vector*)",
+			"name_mangled": "_ZN18CBaseServerVehicle14CheckExitPointEfiP6Vector"
+		},
+		{
+			"name": "CFourWheelServerVehicle::SetVehicle(CBaseEntity*)",
+			"name_mangled": "_ZN23CFourWheelServerVehicle10SetVehicleEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseServerVehicle::SoundStart()",
+			"name_mangled": "_ZN18CBaseServerVehicle10SoundStartEv"
+		},
+		{
+			"name": "CBaseServerVehicle::SoundStartDisabled()",
+			"name_mangled": "_ZN18CBaseServerVehicle18SoundStartDisabledEv"
+		},
+		{
+			"name": "CBaseServerVehicle::SoundShutdown(float)",
+			"name_mangled": "_ZN18CBaseServerVehicle13SoundShutdownEf"
+		},
+		{
+			"name": "CBaseServerVehicle::SoundUpdate(vbs_sound_update_t&)",
+			"name_mangled": "_ZN18CBaseServerVehicle11SoundUpdateER18vbs_sound_update_t"
+		},
+		{
+			"name": "CBaseServerVehicle::PlaySound(vehiclesound)",
+			"name_mangled": "_ZN18CBaseServerVehicle9PlaySoundE12vehiclesound"
+		},
+		{
+			"name": "CBaseServerVehicle::StopSound(vehiclesound)",
+			"name_mangled": "_ZN18CBaseServerVehicle9StopSoundE12vehiclesound"
+		},
+		{
+			"name": "CBaseServerVehicle::RecalculateSoundGear(vbs_sound_update_t&)",
+			"name_mangled": "_ZN18CBaseServerVehicle20RecalculateSoundGearER18vbs_sound_update_t"
+		},
+		{
+			"name": "CBaseServerVehicle::StartEngineRumble()",
+			"name_mangled": "_ZN18CBaseServerVehicle17StartEngineRumbleEv"
+		},
+		{
+			"name": "CBaseServerVehicle::StopEngineRumble()",
+			"name_mangled": "_ZN18CBaseServerVehicle16StopEngineRumbleEv"
+		},
+		{
+			"name": "CFourWheelServerVehicle::~CFourWheelServerVehicle()",
+			"name_mangled": "_ZN23CFourWheelServerVehicleD2Ev"
+		},
+		{
+			"name": "CFourWheelServerVehicle::~CFourWheelServerVehicle()",
+			"name_mangled": "_ZN23CFourWheelServerVehicleD0Ev"
+		}
+	]
+}

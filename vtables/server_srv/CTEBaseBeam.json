@@ -1,0 +1,18 @@
+{
+	"classname": "CTEBaseBeam",
+	"classname_mangled": "_ZTV11CTEBaseBeam",
+	"members": [
+		{
+			"name": "CTEBaseBeam::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN11CTEBaseBeam40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEBaseBeam::~CTEBaseBeam()",
+			"name_mangled": "_ZN11CTEBaseBeamD2Ev"
+		},
+		{
+			"name": "CTEBaseBeam::~CTEBaseBeam()",
+			"name_mangled": "_ZN11CTEBaseBeamD0Ev"
+		}
+	]
+}

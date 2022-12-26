@@ -1,0 +1,10 @@
+{
+	"classname": "IGame",
+	"classname_mangled": "_ZTV5IGame",
+	"members": [
+		{
+			"name": "IGame::~IGame()",
+			"name_mangled": "_ZN5IGameD0Ev"
+		}
+	]
+}

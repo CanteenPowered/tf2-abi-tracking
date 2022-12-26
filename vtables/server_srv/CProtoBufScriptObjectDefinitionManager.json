@@ -1,0 +1,74 @@
+{
+	"classname": "CProtoBufScriptObjectDefinitionManager",
+	"classname_mangled": "_ZTV38CProtoBufScriptObjectDefinitionManager",
+	"members": [
+		{
+			"name": "CProtoBufScriptObjectDefinitionManager::Init()",
+			"name_mangled": "_ZN38CProtoBufScriptObjectDefinitionManager4InitEv"
+		},
+		{
+			"name": "CProtoBufScriptObjectDefinitionManager::PostInit()",
+			"name_mangled": "_ZN38CProtoBufScriptObjectDefinitionManager8PostInitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::Shutdown()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8ShutdownEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnSave()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnRestore()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::IsPerFrame()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame10IsPerFrameEv"
+		},
+		{
+			"name": "CProtoBufScriptObjectDefinitionManager::~CProtoBufScriptObjectDefinitionManager()",
+			"name_mangled": "_ZN38CProtoBufScriptObjectDefinitionManagerD2Ev"
+		},
+		{
+			"name": "CProtoBufScriptObjectDefinitionManager::~CProtoBufScriptObjectDefinitionManager()",
+			"name_mangled": "_ZN38CProtoBufScriptObjectDefinitionManagerD0Ev"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PreClientUpdate()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame15PreClientUpdateEv"
+		}
+	]
+}

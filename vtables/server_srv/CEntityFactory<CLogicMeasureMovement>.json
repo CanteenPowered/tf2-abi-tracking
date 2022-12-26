@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CLogicMeasureMovement>",
+	"classname_mangled": "_ZTV14CEntityFactoryI21CLogicMeasureMovementE",
+	"members": [
+		{
+			"name": "CEntityFactory<CLogicMeasureMovement>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI21CLogicMeasureMovementE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CLogicMeasureMovement>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI21CLogicMeasureMovementE13GetEntitySizeEv"
+		}
+	]
+}

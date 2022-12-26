@@ -1,0 +1,22 @@
+{
+	"classname": "SQVM::FindAllClosuresForFunctionBySourceAndLineNumber(sqvector<SQObjectPtr>&, char const*, int)::CHackerator",
+	"classname_mangled": "_ZTVZN4SQVM47FindAllClosuresForFunctionBySourceAndLineNumberER8sqvectorI11SQObjectPtrEPKciE11CHackerator",
+	"members": [
+		{
+			"name": "SQVM::FindAllClosuresForFunctionBySourceAndLineNumber(sqvector<SQObjectPtr>&, char const*, int)::CHackerator::Key(SQObjectPtr const&)",
+			"name_mangled": "_ZZN4SQVM47FindAllClosuresForFunctionBySourceAndLineNumberER8sqvectorI11SQObjectPtrEPKciEN11CHackerator3KeyERKS1_"
+		},
+		{
+			"name": "SQVM::FindAllClosuresForFunctionBySourceAndLineNumber(sqvector<SQObjectPtr>&, char const*, int)::CHackerator::Value(SQObjectPtr const&)",
+			"name_mangled": "_ZZN4SQVM47FindAllClosuresForFunctionBySourceAndLineNumberER8sqvectorI11SQObjectPtrEPKciEN11CHackerator5ValueERKS1_"
+		},
+		{
+			"name": "SQVM::FindAllClosuresForFunctionBySourceAndLineNumber(sqvector<SQObjectPtr>&, char const*, int)::CHackerator::BeginContained()",
+			"name_mangled": "_ZZN4SQVM47FindAllClosuresForFunctionBySourceAndLineNumberER8sqvectorI11SQObjectPtrEPKciEN11CHackerator14BeginContainedEv"
+		},
+		{
+			"name": "SQVM::FindAllClosuresForFunctionBySourceAndLineNumber(sqvector<SQObjectPtr>&, char const*, int)::CHackerator::EndContained()",
+			"name_mangled": "_ZZN4SQVM47FindAllClosuresForFunctionBySourceAndLineNumberER8sqvectorI11SQObjectPtrEPKciEN11CHackerator12EndContainedEv"
+		}
+	]
+}

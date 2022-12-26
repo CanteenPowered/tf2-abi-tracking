@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAI_ChangeHintGroup>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CAI_ChangeHintGroupE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAI_ChangeHintGroup>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CAI_ChangeHintGroupE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAI_ChangeHintGroup>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CAI_ChangeHintGroupE13GetEntitySizeEv"
+		}
+	]
+}

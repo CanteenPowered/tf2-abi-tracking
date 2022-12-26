@@ -1,0 +1,30 @@
+{
+	"classname": "CTEFootprintDecal",
+	"classname_mangled": "_ZTV17CTEFootprintDecal",
+	"members": [
+		{
+			"name": "CTEFootprintDecal::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN17CTEFootprintDecal40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEFootprintDecal::~CTEFootprintDecal()",
+			"name_mangled": "_ZN17CTEFootprintDecalD1Ev"
+		},
+		{
+			"name": "CTEFootprintDecal::~CTEFootprintDecal()",
+			"name_mangled": "_ZN17CTEFootprintDecalD0Ev"
+		},
+		{
+			"name": "CBaseTempEntity::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN15CBaseTempEntity4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

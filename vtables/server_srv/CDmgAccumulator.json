@@ -1,0 +1,14 @@
+{
+	"classname": "CDmgAccumulator",
+	"classname_mangled": "_ZTV15CDmgAccumulator",
+	"members": [
+		{
+			"name": "CDmgAccumulator::AccumulateMultiDamage(CTakeDamageInfo const&, CBaseEntity*)",
+			"name_mangled": "_ZN15CDmgAccumulator21AccumulateMultiDamageERK15CTakeDamageInfoP11CBaseEntity"
+		},
+		{
+			"name": "CDmgAccumulator::Process()",
+			"name_mangled": "_ZN15CDmgAccumulator7ProcessEv"
+		}
+	]
+}

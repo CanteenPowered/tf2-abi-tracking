@@ -1,0 +1,22 @@
+{
+	"classname": "snappy::ByteArraySource",
+	"classname_mangled": "_ZTVN6snappy15ByteArraySourceE",
+	"members": [
+		{
+			"name": "snappy::ByteArraySource::~ByteArraySource()",
+			"name_mangled": "_ZN6snappy15ByteArraySourceD0Ev"
+		},
+		{
+			"name": "snappy::ByteArraySource::Available() const",
+			"name_mangled": "_ZNK6snappy15ByteArraySource9AvailableEv"
+		},
+		{
+			"name": "snappy::ByteArraySource::Peek(unsigned int*)",
+			"name_mangled": "_ZN6snappy15ByteArraySource4PeekEPj"
+		},
+		{
+			"name": "snappy::ByteArraySource::Skip(unsigned int)",
+			"name_mangled": "_ZN6snappy15ByteArraySource4SkipEj"
+		}
+	]
+}

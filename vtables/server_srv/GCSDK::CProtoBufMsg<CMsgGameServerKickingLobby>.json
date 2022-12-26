@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgGameServerKickingLobby>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI26CMsgGameServerKickingLobbyEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGameServerKickingLobby>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI26CMsgGameServerKickingLobbyED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGameServerKickingLobby>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI26CMsgGameServerKickingLobbyE14GetGenericBodyEv"
+		}
+	]
+}

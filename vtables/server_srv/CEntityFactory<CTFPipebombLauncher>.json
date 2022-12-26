@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFPipebombLauncher>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CTFPipebombLauncherE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFPipebombLauncher>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFPipebombLauncherE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFPipebombLauncher>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFPipebombLauncherE13GetEntitySizeEv"
+		}
+	]
+}

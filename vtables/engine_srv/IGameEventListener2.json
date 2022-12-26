@@ -1,0 +1,10 @@
+{
+	"classname": "IGameEventListener2",
+	"classname_mangled": "_ZTV19IGameEventListener2",
+	"members": [
+		{
+			"name": "IGameEventListener2::~IGameEventListener2()",
+			"name_mangled": "_ZN19IGameEventListener2D0Ev"
+		}
+	]
+}

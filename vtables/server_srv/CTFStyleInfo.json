@@ -1,0 +1,18 @@
+{
+	"classname": "CTFStyleInfo",
+	"classname_mangled": "_ZTV12CTFStyleInfo",
+	"members": [
+		{
+			"name": "CTFStyleInfo::~CTFStyleInfo()",
+			"name_mangled": "_ZN12CTFStyleInfoD0Ev"
+		},
+		{
+			"name": "CTFStyleInfo::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN12CTFStyleInfo11BInitFromKVEP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		},
+		{
+			"name": "CTFStyleInfo::GeneratePrecacheModelStringsForStyle(CUtlVector<char const*, CUtlMemory<char const*, int>>*) const",
+			"name_mangled": "_ZNK12CTFStyleInfo36GeneratePrecacheModelStringsForStyleEP10CUtlVectorIPKc10CUtlMemoryIS2_iEE"
+		}
+	]
+}

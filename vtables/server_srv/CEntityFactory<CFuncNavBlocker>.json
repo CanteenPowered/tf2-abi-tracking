@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncNavBlocker>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CFuncNavBlockerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncNavBlocker>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CFuncNavBlockerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncNavBlocker>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CFuncNavBlockerE13GetEntitySizeEv"
+		}
+	]
+}

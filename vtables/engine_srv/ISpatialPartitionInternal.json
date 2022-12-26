@@ -1,0 +1,10 @@
+{
+	"classname": "ISpatialPartitionInternal",
+	"classname_mangled": "_ZTV25ISpatialPartitionInternal",
+	"members": [
+		{
+			"name": "ISpatialPartitionInternal::~ISpatialPartitionInternal()",
+			"name_mangled": "_ZN25ISpatialPartitionInternalD0Ev"
+		}
+	]
+}

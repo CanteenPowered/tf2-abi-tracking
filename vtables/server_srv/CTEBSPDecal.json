@@ -1,0 +1,30 @@
+{
+	"classname": "CTEBSPDecal",
+	"classname_mangled": "_ZTV11CTEBSPDecal",
+	"members": [
+		{
+			"name": "CTEBSPDecal::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN11CTEBSPDecal40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEBSPDecal::~CTEBSPDecal()",
+			"name_mangled": "_ZN11CTEBSPDecalD1Ev"
+		},
+		{
+			"name": "CTEBSPDecal::~CTEBSPDecal()",
+			"name_mangled": "_ZN11CTEBSPDecalD0Ev"
+		},
+		{
+			"name": "CTEBSPDecal::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN11CTEBSPDecal4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

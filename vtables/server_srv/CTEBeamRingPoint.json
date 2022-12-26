@@ -1,0 +1,30 @@
+{
+	"classname": "CTEBeamRingPoint",
+	"classname_mangled": "_ZTV16CTEBeamRingPoint",
+	"members": [
+		{
+			"name": "CTEBeamRingPoint::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN16CTEBeamRingPoint40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEBeamRingPoint::~CTEBeamRingPoint()",
+			"name_mangled": "_ZN16CTEBeamRingPointD2Ev"
+		},
+		{
+			"name": "CTEBeamRingPoint::~CTEBeamRingPoint()",
+			"name_mangled": "_ZN16CTEBeamRingPointD0Ev"
+		},
+		{
+			"name": "CTEBeamRingPoint::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN16CTEBeamRingPoint4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

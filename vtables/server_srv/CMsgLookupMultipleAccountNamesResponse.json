@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgLookupMultipleAccountNamesResponse",
+	"classname_mangled": "_ZTV38CMsgLookupMultipleAccountNamesResponse",
+	"members": [
+		{
+			"name": "CMsgLookupMultipleAccountNamesResponse::~CMsgLookupMultipleAccountNamesResponse()",
+			"name_mangled": "_ZN38CMsgLookupMultipleAccountNamesResponseD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgLookupMultipleAccountNamesResponse::New() const",
+			"name_mangled": "_ZNK38CMsgLookupMultipleAccountNamesResponse3NewEv"
+		},
+		{
+			"name": "CMsgLookupMultipleAccountNamesResponse::Clear()",
+			"name_mangled": "_ZN38CMsgLookupMultipleAccountNamesResponse5ClearEv"
+		},
+		{
+			"name": "CMsgLookupMultipleAccountNamesResponse::IsInitialized() const",
+			"name_mangled": "_ZNK38CMsgLookupMultipleAccountNamesResponse13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgLookupMultipleAccountNamesResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN38CMsgLookupMultipleAccountNamesResponse27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgLookupMultipleAccountNamesResponse::ByteSize() const",
+			"name_mangled": "_ZNK38CMsgLookupMultipleAccountNamesResponse8ByteSizeEv"
+		},
+		{
+			"name": "CMsgLookupMultipleAccountNamesResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK38CMsgLookupMultipleAccountNamesResponse24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgLookupMultipleAccountNamesResponse::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK38CMsgLookupMultipleAccountNamesResponse31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgLookupMultipleAccountNamesResponse::GetCachedSize() const",
+			"name_mangled": "_ZNK38CMsgLookupMultipleAccountNamesResponse13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgLookupMultipleAccountNamesResponse::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN38CMsgLookupMultipleAccountNamesResponse8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgLookupMultipleAccountNamesResponse::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN38CMsgLookupMultipleAccountNamesResponse9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgLookupMultipleAccountNamesResponse::SetCachedSize(int) const",
+			"name_mangled": "_ZNK38CMsgLookupMultipleAccountNamesResponse13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgLookupMultipleAccountNamesResponse::GetMetadata() const",
+			"name_mangled": "_ZNK38CMsgLookupMultipleAccountNamesResponse11GetMetadataEv"
+		}
+	]
+}

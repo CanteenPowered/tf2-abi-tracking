@@ -1,0 +1,14 @@
+{
+	"classname": "CAttributeList",
+	"classname_mangled": "_ZTV14CAttributeList",
+	"members": [
+		{
+			"name": "CAttributeList::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN14CAttributeList19NetworkStateChangedEPv"
+		},
+		{
+			"name": "CAttributeList::GetDataDescMap()",
+			"name_mangled": "_ZN14CAttributeList14GetDataDescMapEv"
+		}
+	]
+}

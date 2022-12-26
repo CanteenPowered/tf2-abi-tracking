@@ -1,0 +1,30 @@
+{
+	"classname": "CCopyRecipientFilter",
+	"classname_mangled": "_ZTV20CCopyRecipientFilter",
+	"members": [
+		{
+			"name": "CCopyRecipientFilter::~CCopyRecipientFilter()",
+			"name_mangled": "_ZN20CCopyRecipientFilterD0Ev"
+		},
+		{
+			"name": "CCopyRecipientFilter::IsReliable() const",
+			"name_mangled": "_ZNK20CCopyRecipientFilter10IsReliableEv"
+		},
+		{
+			"name": "CCopyRecipientFilter::IsInitMessage() const",
+			"name_mangled": "_ZNK20CCopyRecipientFilter13IsInitMessageEv"
+		},
+		{
+			"name": "CCopyRecipientFilter::GetRecipientCount() const",
+			"name_mangled": "_ZNK20CCopyRecipientFilter17GetRecipientCountEv"
+		},
+		{
+			"name": "CCopyRecipientFilter::GetRecipientIndex(int) const",
+			"name_mangled": "_ZNK20CCopyRecipientFilter17GetRecipientIndexEi"
+		},
+		{
+			"name": "CCopyRecipientFilter::AddRecipient(CBasePlayer*)",
+			"name_mangled": "_ZN20CCopyRecipientFilter12AddRecipientEP11CBasePlayer"
+		}
+	]
+}

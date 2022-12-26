@@ -1,0 +1,22 @@
+{
+	"classname": "CEngineBSPTree",
+	"classname_mangled": "_ZTV14CEngineBSPTree",
+	"members": [
+		{
+			"name": "CEngineBSPTree::EnumerateLeavesAtPoint(Vector const&, ISpatialLeafEnumerator*, int)",
+			"name_mangled": "_ZN14CEngineBSPTree22EnumerateLeavesAtPointERK6VectorP22ISpatialLeafEnumeratori"
+		},
+		{
+			"name": "CEngineBSPTree::EnumerateLeavesInBox(Vector const&, Vector const&, ISpatialLeafEnumerator*, int)",
+			"name_mangled": "_ZN14CEngineBSPTree20EnumerateLeavesInBoxERK6VectorS2_P22ISpatialLeafEnumeratori"
+		},
+		{
+			"name": "CEngineBSPTree::EnumerateLeavesInSphere(Vector const&, float, ISpatialLeafEnumerator*, int)",
+			"name_mangled": "_ZN14CEngineBSPTree23EnumerateLeavesInSphereERK6VectorfP22ISpatialLeafEnumeratori"
+		},
+		{
+			"name": "CEngineBSPTree::EnumerateLeavesAlongRay(Ray_t const&, ISpatialLeafEnumerator*, int)",
+			"name_mangled": "_ZN14CEngineBSPTree23EnumerateLeavesAlongRayERK5Ray_tP22ISpatialLeafEnumeratori"
+		}
+	]
+}

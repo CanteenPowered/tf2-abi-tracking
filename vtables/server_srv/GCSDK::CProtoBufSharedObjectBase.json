@@ -1,0 +1,10 @@
+{
+	"classname": "GCSDK::CProtoBufSharedObjectBase",
+	"classname_mangled": "_ZTVN5GCSDK25CProtoBufSharedObjectBaseE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::~CProtoBufSharedObjectBase()",
+			"name_mangled": "_ZN5GCSDK25CProtoBufSharedObjectBaseD0Ev"
+		}
+	]
+}

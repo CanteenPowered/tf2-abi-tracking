@@ -1,0 +1,10 @@
+{
+	"classname": "flame_point_t",
+	"classname_mangled": "_ZTV13flame_point_t",
+	"members": [
+		{
+			"name": "flame_point_t::~flame_point_t()",
+			"name_mangled": "_ZN13flame_point_tD0Ev"
+		}
+	]
+}

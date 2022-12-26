@@ -1,0 +1,10 @@
+{
+	"classname": "IServerEntity",
+	"classname_mangled": "_ZTV13IServerEntity",
+	"members": [
+		{
+			"name": "IServerEntity::~IServerEntity()",
+			"name_mangled": "_ZN13IServerEntityD0Ev"
+		}
+	]
+}

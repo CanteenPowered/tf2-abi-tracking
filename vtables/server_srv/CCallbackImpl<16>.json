@@ -1,0 +1,22 @@
+{
+	"classname": "CCallbackImpl<16>",
+	"classname_mangled": "_ZTV13CCallbackImplILi16EE",
+	"members": [
+		{
+			"name": "CCallbackImpl<16>::Run(void*, bool, unsigned long long)",
+			"name_mangled": "_ZN13CCallbackImplILi16EE3RunEPvby"
+		},
+		{
+			"name": "CCallbackImpl<16>::GetCallbackSizeBytes()",
+			"name_mangled": "_ZN13CCallbackImplILi16EE20GetCallbackSizeBytesEv"
+		},
+		{
+			"name": "CCallbackImpl<16>::~CCallbackImpl()",
+			"name_mangled": "_ZN13CCallbackImplILi16EED2Ev"
+		},
+		{
+			"name": "CCallbackImpl<16>::~CCallbackImpl()",
+			"name_mangled": "_ZN13CCallbackImplILi16EED0Ev"
+		}
+	]
+}

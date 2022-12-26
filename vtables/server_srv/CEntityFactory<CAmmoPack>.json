@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAmmoPack>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9CAmmoPackE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAmmoPack>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9CAmmoPackE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAmmoPack>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9CAmmoPackE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityTouchManager",
+	"classname_mangled": "_ZTV19CEntityTouchManager",
+	"members": [
+		{
+			"name": "IEntityListener::OnEntitySpawned(CBaseEntity*)",
+			"name_mangled": "_ZN15IEntityListener15OnEntitySpawnedEP11CBaseEntity"
+		},
+		{
+			"name": "CEntityTouchManager::OnEntityDeleted(CBaseEntity*)",
+			"name_mangled": "_ZN19CEntityTouchManager15OnEntityDeletedEP11CBaseEntity"
+		}
+	]
+}

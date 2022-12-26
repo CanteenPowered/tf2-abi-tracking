@@ -1,0 +1,10 @@
+{
+	"classname": "CHangRope",
+	"classname_mangled": "_ZTV9CHangRope",
+	"members": [
+		{
+			"name": "CHangRope::ApplyConstraints(CSimplePhysics::CNode*, int)",
+			"name_mangled": "_ZN9CHangRope16ApplyConstraintsEPN14CSimplePhysics5CNodeEi"
+		}
+	]
+}

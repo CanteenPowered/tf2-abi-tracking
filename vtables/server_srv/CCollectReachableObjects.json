@@ -1,0 +1,26 @@
+{
+	"classname": "CCollectReachableObjects",
+	"classname_mangled": "_ZTV24CCollectReachableObjects",
+	"members": [
+		{
+			"name": "CCollectReachableObjects::~CCollectReachableObjects()",
+			"name_mangled": "_ZN24CCollectReachableObjectsD0Ev"
+		},
+		{
+			"name": "CCollectReachableObjects::operator()(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN24CCollectReachableObjectsclEP8CNavAreaS1_f"
+		},
+		{
+			"name": "CCollectReachableObjects::ShouldSearch(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN24CCollectReachableObjects12ShouldSearchEP8CNavAreaS1_f"
+		},
+		{
+			"name": "ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN30ISearchSurroundingAreasFunctor20IterateAdjacentAreasEP8CNavAreaS1_f"
+		},
+		{
+			"name": "ISearchSurroundingAreasFunctor::PostSearch()",
+			"name_mangled": "_ZN30ISearchSurroundingAreasFunctor10PostSearchEv"
+		}
+	]
+}

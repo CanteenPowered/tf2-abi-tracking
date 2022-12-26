@@ -1,0 +1,10 @@
+{
+	"classname": "CTFDamageEvent",
+	"classname_mangled": "_ZTV14CTFDamageEvent",
+	"members": [
+		{
+			"name": "CTFDamageEvent::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN14CTFDamageEvent19NetworkStateChangedEPv"
+		}
+	]
+}

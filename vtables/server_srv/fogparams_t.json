@@ -1,0 +1,10 @@
+{
+	"classname": "fogparams_t",
+	"classname_mangled": "_ZTV11fogparams_t",
+	"members": [
+		{
+			"name": "fogparams_t::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN11fogparams_t19NetworkStateChangedEPv"
+		}
+	]
+}

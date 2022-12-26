@@ -1,0 +1,26 @@
+{
+	"classname": "CEconTool_CustomizeTexture",
+	"classname_mangled": "_ZTV26CEconTool_CustomizeTexture",
+	"members": [
+		{
+			"name": "CEconTool_CustomizeTexture::~CEconTool_CustomizeTexture()",
+			"name_mangled": "_ZN26CEconTool_CustomizeTextureD0Ev"
+		},
+		{
+			"name": "IEconTool::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool10CanApplyToEPK18IEconItemInterfaceS2_"
+		},
+		{
+			"name": "IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool21ShouldDisplayQuantityEPK18IEconItemInterface"
+		},
+		{
+			"name": "IEconTool::RequiresToolEscrowPeriod() const",
+			"name_mangled": "_ZNK9IEconTool24RequiresToolEscrowPeriodEv"
+		},
+		{
+			"name": "IEconTool::BFinishInitialization()",
+			"name_mangled": "_ZN9IEconTool21BFinishInitializationEv"
+		}
+	]
+}

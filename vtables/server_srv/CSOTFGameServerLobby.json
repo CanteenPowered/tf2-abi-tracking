@@ -1,0 +1,82 @@
+{
+	"classname": "CSOTFGameServerLobby",
+	"classname_mangled": "_ZTV20CSOTFGameServerLobby",
+	"members": [
+		{
+			"name": "CSOTFGameServerLobby::~CSOTFGameServerLobby()",
+			"name_mangled": "_ZN20CSOTFGameServerLobbyD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CSOTFGameServerLobby::New() const",
+			"name_mangled": "_ZNK20CSOTFGameServerLobby3NewEv"
+		},
+		{
+			"name": "CSOTFGameServerLobby::Clear()",
+			"name_mangled": "_ZN20CSOTFGameServerLobby5ClearEv"
+		},
+		{
+			"name": "CSOTFGameServerLobby::IsInitialized() const",
+			"name_mangled": "_ZNK20CSOTFGameServerLobby13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CSOTFGameServerLobby::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN20CSOTFGameServerLobby27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CSOTFGameServerLobby::ByteSize() const",
+			"name_mangled": "_ZNK20CSOTFGameServerLobby8ByteSizeEv"
+		},
+		{
+			"name": "CSOTFGameServerLobby::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK20CSOTFGameServerLobby24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CSOTFGameServerLobby::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK20CSOTFGameServerLobby31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CSOTFGameServerLobby::GetCachedSize() const",
+			"name_mangled": "_ZNK20CSOTFGameServerLobby13GetCachedSizeEv"
+		},
+		{
+			"name": "CSOTFGameServerLobby::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN20CSOTFGameServerLobby8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CSOTFGameServerLobby::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN20CSOTFGameServerLobby9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CSOTFGameServerLobby::SetCachedSize(int) const",
+			"name_mangled": "_ZNK20CSOTFGameServerLobby13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CSOTFGameServerLobby::GetMetadata() const",
+			"name_mangled": "_ZNK20CSOTFGameServerLobby11GetMetadataEv"
+		}
+	]
+}

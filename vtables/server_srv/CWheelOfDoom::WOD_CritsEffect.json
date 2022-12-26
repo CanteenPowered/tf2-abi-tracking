@@ -1,0 +1,18 @@
+{
+	"classname": "CWheelOfDoom::WOD_CritsEffect",
+	"classname_mangled": "_ZTVN12CWheelOfDoom15WOD_CritsEffectE",
+	"members": [
+		{
+			"name": "CWheelOfDoom::WOD_CritsEffect::ActivateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom15WOD_CritsEffect14ActivateEffectERNS_12EffectData_tE"
+		},
+		{
+			"name": "CWheelOfDoom::WOD_BaseEffect::UpdateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom14WOD_BaseEffect12UpdateEffectERNS_12EffectData_tE"
+		},
+		{
+			"name": "CWheelOfDoom::WOD_BaseEffect::DeactivateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom14WOD_BaseEffect16DeactivateEffectERNS_12EffectData_tE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"classname": "CSelectDefenseAreaForPoint",
+	"classname_mangled": "_ZTV26CSelectDefenseAreaForPoint",
+	"members": [
+		{
+			"name": "CSelectDefenseAreaForPoint::~CSelectDefenseAreaForPoint()",
+			"name_mangled": "_ZN26CSelectDefenseAreaForPointD0Ev"
+		},
+		{
+			"name": "CSelectDefenseAreaForPoint::operator()(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN26CSelectDefenseAreaForPointclEP8CNavAreaS1_f"
+		},
+		{
+			"name": "CSelectDefenseAreaForPoint::ShouldSearch(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN26CSelectDefenseAreaForPoint12ShouldSearchEP8CNavAreaS1_f"
+		},
+		{
+			"name": "ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN30ISearchSurroundingAreasFunctor20IterateAdjacentAreasEP8CNavAreaS1_f"
+		},
+		{
+			"name": "ISearchSurroundingAreasFunctor::PostSearch()",
+			"name_mangled": "_ZN30ISearchSurroundingAreasFunctor10PostSearchEv"
+		}
+	]
+}

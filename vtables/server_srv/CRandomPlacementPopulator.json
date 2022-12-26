@@ -1,0 +1,34 @@
+{
+	"classname": "CRandomPlacementPopulator",
+	"classname_mangled": "_ZTV25CRandomPlacementPopulator",
+	"members": [
+		{
+			"name": "CRandomPlacementPopulator::~CRandomPlacementPopulator()",
+			"name_mangled": "_ZN25CRandomPlacementPopulatorD0Ev"
+		},
+		{
+			"name": "CRandomPlacementPopulator::Parse(KeyValues*)",
+			"name_mangled": "_ZN25CRandomPlacementPopulator5ParseEP9KeyValues"
+		},
+		{
+			"name": "CRandomPlacementPopulator::PostInitialize()",
+			"name_mangled": "_ZN25CRandomPlacementPopulator14PostInitializeEv"
+		},
+		{
+			"name": "IPopulator::Update()",
+			"name_mangled": "_ZN10IPopulator6UpdateEv"
+		},
+		{
+			"name": "IPopulator::UnpauseSpawning()",
+			"name_mangled": "_ZN10IPopulator15UnpauseSpawningEv"
+		},
+		{
+			"name": "IPopulator::OnPlayerKilled(CTFPlayer*)",
+			"name_mangled": "_ZN10IPopulator14OnPlayerKilledEP9CTFPlayer"
+		},
+		{
+			"name": "IPopulator::HasEventChangeAttributes(char const*) const",
+			"name_mangled": "_ZNK10IPopulator24HasEventChangeAttributesEPKc"
+		}
+	]
+}

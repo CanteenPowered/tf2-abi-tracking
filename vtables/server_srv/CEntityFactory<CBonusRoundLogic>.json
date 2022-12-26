@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBonusRoundLogic>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CBonusRoundLogicE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBonusRoundLogic>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CBonusRoundLogicE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBonusRoundLogic>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CBonusRoundLogicE13GetEntitySizeEv"
+		}
+	]
+}

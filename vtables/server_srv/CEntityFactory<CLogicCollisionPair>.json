@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CLogicCollisionPair>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CLogicCollisionPairE",
+	"members": [
+		{
+			"name": "CEntityFactory<CLogicCollisionPair>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CLogicCollisionPairE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CLogicCollisionPair>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CLogicCollisionPairE13GetEntitySizeEv"
+		}
+	]
+}

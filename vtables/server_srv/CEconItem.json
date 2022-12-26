@@ -1,0 +1,114 @@
+{
+	"classname": "CEconItem",
+	"classname_mangled": "_ZTV9CEconItem",
+	"members": [
+		{
+			"name": "CEconItem::~CEconItem()",
+			"name_mangled": "_ZN9CEconItemD0Ev"
+		},
+		{
+			"name": "CEconItem::GetTypeID() const",
+			"name_mangled": "_ZNK9CEconItem9GetTypeIDEv"
+		},
+		{
+			"name": "CEconItem::BParseFromMessage(CUtlBuffer const&)",
+			"name_mangled": "_ZN9CEconItem17BParseFromMessageERK10CUtlBuffer"
+		},
+		{
+			"name": "CEconItem::BParseFromMessage(std::string const&)",
+			"name_mangled": "_ZN9CEconItem17BParseFromMessageERKSs"
+		},
+		{
+			"name": "CEconItem::BUpdateFromNetwork(GCSDK::CSharedObject const&)",
+			"name_mangled": "_ZN9CEconItem18BUpdateFromNetworkERKN5GCSDK13CSharedObjectE"
+		},
+		{
+			"name": "CEconItem::BIsKeyLess(GCSDK::CSharedObject const&) const",
+			"name_mangled": "_ZNK9CEconItem10BIsKeyLessERKN5GCSDK13CSharedObjectE"
+		},
+		{
+			"name": "CEconItem::Copy(GCSDK::CSharedObject const&)",
+			"name_mangled": "_ZN9CEconItem4CopyERKN5GCSDK13CSharedObjectE"
+		},
+		{
+			"name": "CEconItem::Dump() const",
+			"name_mangled": "_ZNK9CEconItem4DumpEv"
+		},
+		{
+			"name": "GCSDK::CSharedObject::BShouldDeleteByCache() const",
+			"name_mangled": "_ZNK5GCSDK13CSharedObject20BShouldDeleteByCacheEv"
+		},
+		{
+			"name": "CEconItem::GetDebugString() const",
+			"name_mangled": "_ZNK9CEconItem14GetDebugStringEv"
+		},
+		{
+			"name": "CEconItem::GetItemDefinition() const",
+			"name_mangled": "_ZNK9CEconItem17GetItemDefinitionEv"
+		},
+		{
+			"name": "CEconItem::IterateAttributes(IEconItemAttributeIterator*) const",
+			"name_mangled": "_ZNK9CEconItem17IterateAttributesEP26IEconItemAttributeIterator"
+		},
+		{
+			"name": "CEconItem::GetID() const",
+			"name_mangled": "_ZNK9CEconItem5GetIDEv"
+		},
+		{
+			"name": "CEconItem::GetAccountID() const",
+			"name_mangled": "_ZNK9CEconItem12GetAccountIDEv"
+		},
+		{
+			"name": "CEconItem::GetItemLevel() const",
+			"name_mangled": "_ZNK9CEconItem12GetItemLevelEv"
+		},
+		{
+			"name": "CEconItem::GetQuality() const",
+			"name_mangled": "_ZNK9CEconItem10GetQualityEv"
+		},
+		{
+			"name": "CEconItem::GetQuantity() const",
+			"name_mangled": "_ZNK9CEconItem11GetQuantityEv"
+		},
+		{
+			"name": "CEconItem::GetFlags() const",
+			"name_mangled": "_ZNK9CEconItem8GetFlagsEv"
+		},
+		{
+			"name": "CEconItem::GetOrigin() const",
+			"name_mangled": "_ZNK9CEconItem9GetOriginEv"
+		},
+		{
+			"name": "CEconItem::GetStyle() const",
+			"name_mangled": "_ZNK9CEconItem8GetStyleEv"
+		},
+		{
+			"name": "CEconItem::GetCustomName() const",
+			"name_mangled": "_ZNK9CEconItem13GetCustomNameEv"
+		},
+		{
+			"name": "CEconItem::GetCustomDesc() const",
+			"name_mangled": "_ZNK9CEconItem13GetCustomDescEv"
+		},
+		{
+			"name": "CEconItem::GetInUse() const",
+			"name_mangled": "_ZNK9CEconItem8GetInUseEv"
+		},
+		{
+			"name": "CEconItem::IsTradable() const",
+			"name_mangled": "_ZNK9CEconItem10IsTradableEv"
+		},
+		{
+			"name": "CEconItem::IsMarketable() const",
+			"name_mangled": "_ZNK9CEconItem12IsMarketableEv"
+		},
+		{
+			"name": "CEconItem::IsCommodity() const",
+			"name_mangled": "_ZNK9CEconItem11IsCommodityEv"
+		},
+		{
+			"name": "CEconItem::IsUsableInCrafting() const",
+			"name_mangled": "_ZNK9CEconItem18IsUsableInCraftingEv"
+		}
+	]
+}

@@ -1,0 +1,154 @@
+{
+	"classname": "ChasePath",
+	"classname_mangled": "_ZTV9ChasePath",
+	"members": [
+		{
+			"name": "ChasePath::~ChasePath()",
+			"name_mangled": "_ZN9ChasePathD0Ev"
+		},
+		{
+			"name": "Path::GetLength() const",
+			"name_mangled": "_ZNK4Path9GetLengthEv"
+		},
+		{
+			"name": "Path::GetPosition(float, Path::Segment const*) const",
+			"name_mangled": "_ZNK4Path11GetPositionEfPKNS_7SegmentE"
+		},
+		{
+			"name": "Path::GetClosestPosition(Vector const&, Path::Segment const*, float) const",
+			"name_mangled": "_ZNK4Path18GetClosestPositionERK6VectorPKNS_7SegmentEf"
+		},
+		{
+			"name": "Path::GetStartPosition() const",
+			"name_mangled": "_ZNK4Path16GetStartPositionEv"
+		},
+		{
+			"name": "Path::GetEndPosition() const",
+			"name_mangled": "_ZNK4Path14GetEndPositionEv"
+		},
+		{
+			"name": "Path::GetSubject() const",
+			"name_mangled": "_ZNK4Path10GetSubjectEv"
+		},
+		{
+			"name": "PathFollower::GetCurrentGoal() const",
+			"name_mangled": "_ZNK12PathFollower14GetCurrentGoalEv"
+		},
+		{
+			"name": "Path::GetAge() const",
+			"name_mangled": "_ZNK4Path6GetAgeEv"
+		},
+		{
+			"name": "Path::MoveCursorToClosestPosition(Vector const&, Path::SeekType, float) const",
+			"name_mangled": "_ZNK4Path27MoveCursorToClosestPositionERK6VectorNS_8SeekTypeEf"
+		},
+		{
+			"name": "Path::MoveCursorToStart()",
+			"name_mangled": "_ZN4Path17MoveCursorToStartEv"
+		},
+		{
+			"name": "Path::MoveCursorToEnd()",
+			"name_mangled": "_ZN4Path15MoveCursorToEndEv"
+		},
+		{
+			"name": "Path::MoveCursor(float, Path::MoveCursorType)",
+			"name_mangled": "_ZN4Path10MoveCursorEfNS_14MoveCursorTypeE"
+		},
+		{
+			"name": "Path::GetCursorPosition() const",
+			"name_mangled": "_ZNK4Path17GetCursorPositionEv"
+		},
+		{
+			"name": "Path::GetCursorData() const",
+			"name_mangled": "_ZNK4Path13GetCursorDataEv"
+		},
+		{
+			"name": "Path::IsValid() const",
+			"name_mangled": "_ZNK4Path7IsValidEv"
+		},
+		{
+			"name": "ChasePath::Invalidate()",
+			"name_mangled": "_ZN9ChasePath10InvalidateEv"
+		},
+		{
+			"name": "PathFollower::Draw(Path::Segment const*) const",
+			"name_mangled": "_ZNK12PathFollower4DrawEPKN4Path7SegmentE"
+		},
+		{
+			"name": "Path::DrawInterpolated(float, float)",
+			"name_mangled": "_ZN4Path16DrawInterpolatedEff"
+		},
+		{
+			"name": "Path::FirstSegment() const",
+			"name_mangled": "_ZNK4Path12FirstSegmentEv"
+		},
+		{
+			"name": "Path::NextSegment(Path::Segment const*) const",
+			"name_mangled": "_ZNK4Path11NextSegmentEPKNS_7SegmentE"
+		},
+		{
+			"name": "Path::PriorSegment(Path::Segment const*) const",
+			"name_mangled": "_ZNK4Path12PriorSegmentEPKNS_7SegmentE"
+		},
+		{
+			"name": "Path::LastSegment() const",
+			"name_mangled": "_ZNK4Path11LastSegmentEv"
+		},
+		{
+			"name": "PathFollower::OnPathChanged(INextBot*, Path::ResultType)",
+			"name_mangled": "_ZN12PathFollower13OnPathChangedEP8INextBotN4Path10ResultTypeE"
+		},
+		{
+			"name": "Path::Copy(INextBot*, Path const&)",
+			"name_mangled": "_ZN4Path4CopyEP8INextBotRKS_"
+		},
+		{
+			"name": "Path::ComputeWithOpenGoal(INextBot*, IPathCost const&, IPathOpenGoalSelector const&, float)",
+			"name_mangled": "_ZN4Path19ComputeWithOpenGoalEP8INextBotRK9IPathCostRK21IPathOpenGoalSelectorf"
+		},
+		{
+			"name": "Path::ComputeAreaCrossing(INextBot*, CNavArea const*, Vector const&, CNavArea const*, NavDirType, Vector*) const",
+			"name_mangled": "_ZNK4Path19ComputeAreaCrossingEP8INextBotPK8CNavAreaRK6VectorS4_10NavDirTypePS5_"
+		},
+		{
+			"name": "PathFollower::Update(INextBot*)",
+			"name_mangled": "_ZN12PathFollower6UpdateEP8INextBot"
+		},
+		{
+			"name": "PathFollower::SetMinLookAheadDistance(float)",
+			"name_mangled": "_ZN12PathFollower23SetMinLookAheadDistanceEf"
+		},
+		{
+			"name": "PathFollower::GetHindrance() const",
+			"name_mangled": "_ZNK12PathFollower12GetHindranceEv"
+		},
+		{
+			"name": "PathFollower::IsDiscontinuityAhead(INextBot*, Path::SegmentType, float) const",
+			"name_mangled": "_ZNK12PathFollower20IsDiscontinuityAheadEP8INextBotN4Path11SegmentTypeEf"
+		},
+		{
+			"name": "ChasePath::Update(INextBot*, CBaseEntity*, IPathCost const&, Vector*)",
+			"name_mangled": "_ZN9ChasePath6UpdateEP8INextBotP11CBaseEntityRK9IPathCostP6Vector"
+		},
+		{
+			"name": "ChasePath::GetLeadRadius() const",
+			"name_mangled": "_ZNK9ChasePath13GetLeadRadiusEv"
+		},
+		{
+			"name": "ChasePath::GetMaxPathLength() const",
+			"name_mangled": "_ZNK9ChasePath16GetMaxPathLengthEv"
+		},
+		{
+			"name": "ChasePath::PredictSubjectPosition(INextBot*, CBaseEntity*) const",
+			"name_mangled": "_ZNK9ChasePath22PredictSubjectPositionEP8INextBotP11CBaseEntity"
+		},
+		{
+			"name": "ChasePath::IsRepathNeeded(INextBot*, CBaseEntity*) const",
+			"name_mangled": "_ZNK9ChasePath14IsRepathNeededEP8INextBotP11CBaseEntity"
+		},
+		{
+			"name": "ChasePath::GetLifetime() const",
+			"name_mangled": "_ZNK9ChasePath11GetLifetimeEv"
+		}
+	]
+}

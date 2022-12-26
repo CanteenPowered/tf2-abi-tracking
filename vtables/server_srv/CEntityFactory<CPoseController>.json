@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPoseController>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CPoseControllerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPoseController>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CPoseControllerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPoseController>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CPoseControllerE13GetEntitySizeEv"
+		}
+	]
+}

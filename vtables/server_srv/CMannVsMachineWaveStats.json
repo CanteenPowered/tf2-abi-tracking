@@ -1,0 +1,10 @@
+{
+	"classname": "CMannVsMachineWaveStats",
+	"classname_mangled": "_ZTV23CMannVsMachineWaveStats",
+	"members": [
+		{
+			"name": "CMannVsMachineWaveStats::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN23CMannVsMachineWaveStats19NetworkStateChangedEPv"
+		}
+	]
+}

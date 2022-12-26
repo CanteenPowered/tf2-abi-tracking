@@ -1,0 +1,18 @@
+{
+	"classname": "google::protobuf::io::FileInputStream::CopyingFileInputStream",
+	"classname_mangled": "_ZTVN6google8protobuf2io15FileInputStream22CopyingFileInputStreamE",
+	"members": [
+		{
+			"name": "google::protobuf::io::FileInputStream::CopyingFileInputStream::~CopyingFileInputStream()",
+			"name_mangled": "_ZN6google8protobuf2io15FileInputStream22CopyingFileInputStreamD0Ev"
+		},
+		{
+			"name": "google::protobuf::io::FileInputStream::CopyingFileInputStream::Read(void*, int)",
+			"name_mangled": "_ZN6google8protobuf2io15FileInputStream22CopyingFileInputStream4ReadEPvi"
+		},
+		{
+			"name": "google::protobuf::io::FileInputStream::CopyingFileInputStream::Skip(int)",
+			"name_mangled": "_ZN6google8protobuf2io15FileInputStream22CopyingFileInputStream4SkipEi"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "SendProp",
+	"classname_mangled": "_ZTV8SendProp",
+	"members": [
+		{
+			"name": "SendProp::~SendProp()",
+			"name_mangled": "_ZN8SendPropD0Ev"
+		}
+	]
+}

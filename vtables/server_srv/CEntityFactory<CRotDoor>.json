@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CRotDoor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI8CRotDoorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CRotDoor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI8CRotDoorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CRotDoor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI8CRotDoorE13GetEntitySizeEv"
+		}
+	]
+}

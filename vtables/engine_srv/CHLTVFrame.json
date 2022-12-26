@@ -1,0 +1,14 @@
+{
+	"classname": "CHLTVFrame",
+	"classname_mangled": "_ZTV10CHLTVFrame",
+	"members": [
+		{
+			"name": "CHLTVFrame::~CHLTVFrame()",
+			"name_mangled": "_ZN10CHLTVFrameD0Ev"
+		},
+		{
+			"name": "CHLTVFrame::IsMemPoolAllocated()",
+			"name_mangled": "_ZN10CHLTVFrame18IsMemPoolAllocatedEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFLunchBox_Drink>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CTFLunchBox_DrinkE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFLunchBox_Drink>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CTFLunchBox_DrinkE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFLunchBox_Drink>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CTFLunchBox_DrinkE13GetEntitySizeEv"
+		}
+	]
+}

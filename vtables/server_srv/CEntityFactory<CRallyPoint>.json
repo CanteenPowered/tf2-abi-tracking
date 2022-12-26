@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CRallyPoint>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CRallyPointE",
+	"members": [
+		{
+			"name": "CEntityFactory<CRallyPoint>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CRallyPointE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CRallyPoint>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CRallyPointE13GetEntitySizeEv"
+		}
+	]
+}

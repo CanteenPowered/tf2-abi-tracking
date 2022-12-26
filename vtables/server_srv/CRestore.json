@@ -1,0 +1,162 @@
+{
+	"classname": "CRestore",
+	"classname_mangled": "_ZTV8CRestore",
+	"members": [
+		{
+			"name": "CRestore::SetReadPos(int)",
+			"name_mangled": "_ZN8CRestore10SetReadPosEi"
+		},
+		{
+			"name": "CRestore::ReadAll(void*, datamap_t*)",
+			"name_mangled": "_ZN8CRestore7ReadAllEPvP9datamap_t"
+		},
+		{
+			"name": "CRestore::ReadFields(char const*, void*, datamap_t*, typedescription_t*, int)",
+			"name_mangled": "_ZN8CRestore10ReadFieldsEPKcPvP9datamap_tP17typedescription_ti"
+		},
+		{
+			"name": "CRestore::EmptyFields(void*, typedescription_t*, int)",
+			"name_mangled": "_ZN8CRestore11EmptyFieldsEPvP17typedescription_ti"
+		},
+		{
+			"name": "CRestore::StartBlock(SaveRestoreRecordHeader_t*)",
+			"name_mangled": "_ZN8CRestore10StartBlockEP25SaveRestoreRecordHeader_t"
+		},
+		{
+			"name": "CRestore::StartBlock(char*)",
+			"name_mangled": "_ZN8CRestore10StartBlockEPc"
+		},
+		{
+			"name": "CRestore::StartBlock()",
+			"name_mangled": "_ZN8CRestore10StartBlockEv"
+		},
+		{
+			"name": "CRestore::EndBlock()",
+			"name_mangled": "_ZN8CRestore8EndBlockEv"
+		},
+		{
+			"name": "CRestore::ReadHeader(SaveRestoreRecordHeader_t*)",
+			"name_mangled": "_ZN8CRestore10ReadHeaderEP25SaveRestoreRecordHeader_t"
+		},
+		{
+			"name": "CRestore::SkipHeader()",
+			"name_mangled": "_ZN8CRestore10SkipHeaderEv"
+		},
+		{
+			"name": "CRestore::StringFromHeaderSymbol(int)",
+			"name_mangled": "_ZN8CRestore22StringFromHeaderSymbolEi"
+		},
+		{
+			"name": "CRestore::ReadShort()",
+			"name_mangled": "_ZN8CRestore9ReadShortEv"
+		},
+		{
+			"name": "CRestore::ReadShort(short*, int, int)",
+			"name_mangled": "_ZN8CRestore9ReadShortEPsii"
+		},
+		{
+			"name": "CRestore::ReadInt(int*, int, int)",
+			"name_mangled": "_ZN8CRestore7ReadIntEPiii"
+		},
+		{
+			"name": "CRestore::ReadInt()",
+			"name_mangled": "_ZN8CRestore7ReadIntEv"
+		},
+		{
+			"name": "CRestore::ReadBool(bool*, int, int)",
+			"name_mangled": "_ZN8CRestore8ReadBoolEPbii"
+		},
+		{
+			"name": "CRestore::ReadFloat(float*, int, int)",
+			"name_mangled": "_ZN8CRestore9ReadFloatEPfii"
+		},
+		{
+			"name": "CRestore::ReadData(char*, int, int)",
+			"name_mangled": "_ZN8CRestore8ReadDataEPcii"
+		},
+		{
+			"name": "CRestore::ReadString(char*, int, int)",
+			"name_mangled": "_ZN8CRestore10ReadStringEPcii"
+		},
+		{
+			"name": "CRestore::ReadString(string_t*, int, int)",
+			"name_mangled": "_ZN8CRestore10ReadStringEP8string_tii"
+		},
+		{
+			"name": "CRestore::ReadVector(Vector*)",
+			"name_mangled": "_ZN8CRestore10ReadVectorEP6Vector"
+		},
+		{
+			"name": "CRestore::ReadVector(Vector*, int, int)",
+			"name_mangled": "_ZN8CRestore10ReadVectorEP6Vectorii"
+		},
+		{
+			"name": "CRestore::ReadQuaternion(Quaternion*)",
+			"name_mangled": "_ZN8CRestore14ReadQuaternionEP10Quaternion"
+		},
+		{
+			"name": "CRestore::ReadQuaternion(Quaternion*, int, int)",
+			"name_mangled": "_ZN8CRestore14ReadQuaternionEP10Quaternionii"
+		},
+		{
+			"name": "CRestore::ReadTime(float*, int, int)",
+			"name_mangled": "_ZN8CRestore8ReadTimeEPfii"
+		},
+		{
+			"name": "CRestore::ReadTick(int*, int, int)",
+			"name_mangled": "_ZN8CRestore8ReadTickEPiii"
+		},
+		{
+			"name": "CRestore::ReadPositionVector(Vector*)",
+			"name_mangled": "_ZN8CRestore18ReadPositionVectorEP6Vector"
+		},
+		{
+			"name": "CRestore::ReadPositionVector(Vector*, int, int)",
+			"name_mangled": "_ZN8CRestore18ReadPositionVectorEP6Vectorii"
+		},
+		{
+			"name": "CRestore::ReadFunction(datamap_t*, void (CBaseEntity::***)(inputdata_t&), int, int)",
+			"name_mangled": "_ZN8CRestore12ReadFunctionEP9datamap_tPPM11CBaseEntityFvR11inputdata_tEii"
+		},
+		{
+			"name": "CRestore::ReadEntityPtr(CBaseEntity**, int, int)",
+			"name_mangled": "_ZN8CRestore13ReadEntityPtrEPP11CBaseEntityii"
+		},
+		{
+			"name": "CRestore::ReadEdictPtr(edict_t**, int, int)",
+			"name_mangled": "_ZN8CRestore12ReadEdictPtrEPP7edict_tii"
+		},
+		{
+			"name": "CRestore::ReadEHandle(CHandle<CBaseEntity>*, int, int)",
+			"name_mangled": "_ZN8CRestore11ReadEHandleEP7CHandleI11CBaseEntityEii"
+		},
+		{
+			"name": "CRestore::ReadVMatrix(VMatrix*, int, int)",
+			"name_mangled": "_ZN8CRestore11ReadVMatrixEP7VMatrixii"
+		},
+		{
+			"name": "CRestore::ReadVMatrixWorldspace(VMatrix*, int, int)",
+			"name_mangled": "_ZN8CRestore21ReadVMatrixWorldspaceEP7VMatrixii"
+		},
+		{
+			"name": "CRestore::ReadMatrix3x4Worldspace(matrix3x4_t*, int, int)",
+			"name_mangled": "_ZN8CRestore23ReadMatrix3x4WorldspaceEP11matrix3x4_tii"
+		},
+		{
+			"name": "CRestore::GetPrecacheMode()",
+			"name_mangled": "_ZN8CRestore15GetPrecacheModeEv"
+		},
+		{
+			"name": "CRestore::GetGameSaveRestoreInfo()",
+			"name_mangled": "_ZN8CRestore22GetGameSaveRestoreInfoEv"
+		},
+		{
+			"name": "CRestore::~CRestore()",
+			"name_mangled": "_ZN8CRestoreD1Ev"
+		},
+		{
+			"name": "CRestore::~CRestore()",
+			"name_mangled": "_ZN8CRestoreD0Ev"
+		}
+	]
+}

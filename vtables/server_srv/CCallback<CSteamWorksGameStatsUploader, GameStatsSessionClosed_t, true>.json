@@ -1,0 +1,22 @@
+{
+	"classname": "CCallback<CSteamWorksGameStatsUploader, GameStatsSessionClosed_t, true>",
+	"classname_mangled": "_ZTV9CCallbackI28CSteamWorksGameStatsUploader24GameStatsSessionClosed_tLb1EE",
+	"members": [
+		{
+			"name": "CCallbackImpl<12>::Run(void*, bool, unsigned long long)",
+			"name_mangled": "_ZN13CCallbackImplILi12EE3RunEPvby"
+		},
+		{
+			"name": "CCallbackImpl<12>::GetCallbackSizeBytes()",
+			"name_mangled": "_ZN13CCallbackImplILi12EE20GetCallbackSizeBytesEv"
+		},
+		{
+			"name": "CCallback<CSteamWorksGameStatsUploader, GameStatsSessionClosed_t, true>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI28CSteamWorksGameStatsUploader24GameStatsSessionClosed_tLb1EED2Ev"
+		},
+		{
+			"name": "CCallback<CSteamWorksGameStatsUploader, GameStatsSessionClosed_t, true>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI28CSteamWorksGameStatsUploader24GameStatsSessionClosed_tLb1EED0Ev"
+		}
+	]
+}

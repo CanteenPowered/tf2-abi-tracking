@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFish>",
+	"classname_mangled": "_ZTV14CEntityFactoryI5CFishE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFish>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI5CFishE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFish>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI5CFishE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CVoteController>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CVoteControllerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CVoteController>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CVoteControllerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CVoteController>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CVoteControllerE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBaseMoveBehavior>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CBaseMoveBehaviorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBaseMoveBehavior>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CBaseMoveBehaviorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBaseMoveBehavior>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CBaseMoveBehaviorE13GetEntitySizeEv"
+		}
+	]
+}

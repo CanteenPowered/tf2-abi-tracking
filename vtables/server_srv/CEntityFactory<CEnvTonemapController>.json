@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEnvTonemapController>",
+	"classname_mangled": "_ZTV14CEntityFactoryI21CEnvTonemapControllerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEnvTonemapController>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI21CEnvTonemapControllerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEnvTonemapController>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI21CEnvTonemapControllerE13GetEntitySizeEv"
+		}
+	]
+}

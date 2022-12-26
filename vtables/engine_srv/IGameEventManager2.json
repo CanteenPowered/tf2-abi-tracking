@@ -1,0 +1,10 @@
+{
+	"classname": "IGameEventManager2",
+	"classname_mangled": "_ZTV18IGameEventManager2",
+	"members": [
+		{
+			"name": "IGameEventManager2::~IGameEventManager2()",
+			"name_mangled": "_ZN18IGameEventManager2D0Ev"
+		}
+	]
+}

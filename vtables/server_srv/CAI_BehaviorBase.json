@@ -1,0 +1,22 @@
+{
+	"classname": "CAI_BehaviorBase",
+	"classname_mangled": "_ZTV16CAI_BehaviorBase",
+	"members": [
+		{
+			"name": "CAI_BehaviorBase::~CAI_BehaviorBase()",
+			"name_mangled": "_ZN16CAI_BehaviorBaseD0Ev"
+		},
+		{
+			"name": "CAI_Component::SetOuter(CAI_BaseNPC*)",
+			"name_mangled": "_ZN13CAI_Component8SetOuterEP11CAI_BaseNPC"
+		},
+		{
+			"name": "CAI_Component::TaskFail(int)",
+			"name_mangled": "_ZN13CAI_Component8TaskFailEi"
+		},
+		{
+			"name": "CAI_Component::TaskComplete(bool)",
+			"name_mangled": "_ZN13CAI_Component12TaskCompleteEb"
+		}
+	]
+}

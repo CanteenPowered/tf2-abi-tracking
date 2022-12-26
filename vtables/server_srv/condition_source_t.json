@@ -1,0 +1,10 @@
+{
+	"classname": "condition_source_t",
+	"classname_mangled": "_ZTV18condition_source_t",
+	"members": [
+		{
+			"name": "condition_source_t::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN18condition_source_t19NetworkStateChangedEPv"
+		}
+	]
+}

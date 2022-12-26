@@ -1,0 +1,10 @@
+{
+	"classname": "CWaterTraceFilter",
+	"classname_mangled": "_ZTV17CWaterTraceFilter",
+	"members": [
+		{
+			"name": "CTraceFilter::GetTraceType() const",
+			"name_mangled": "_ZNK12CTraceFilter12GetTraceTypeEv"
+		}
+	]
+}

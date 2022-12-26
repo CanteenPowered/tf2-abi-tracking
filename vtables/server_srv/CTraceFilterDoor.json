@@ -1,0 +1,10 @@
+{
+	"classname": "CTraceFilterDoor",
+	"classname_mangled": "_ZTV16CTraceFilterDoor",
+	"members": [
+		{
+			"name": "CTraceFilterEntitiesOnly::GetTraceType() const",
+			"name_mangled": "_ZNK24CTraceFilterEntitiesOnly12GetTraceTypeEv"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"classname": "CDedicatedServerAPI",
+	"classname_mangled": "_ZTV19CDedicatedServerAPI",
+	"members": [
+		{
+			"name": "CDedicatedServerAPI::Disconnect()",
+			"name_mangled": "_ZN19CDedicatedServerAPI10DisconnectEv"
+		},
+		{
+			"name": "CDedicatedServerAPI::QueryInterface(char const*)",
+			"name_mangled": "_ZN19CDedicatedServerAPI14QueryInterfaceEPKc"
+		},
+		{
+			"name": "CTier2AppSystem<IDedicatedServerAPI, 0>::Init()",
+			"name_mangled": "_ZN15CTier2AppSystemI19IDedicatedServerAPILi0EE4InitEv"
+		},
+		{
+			"name": "CTier2AppSystem<IDedicatedServerAPI, 0>::Shutdown()",
+			"name_mangled": "_ZN15CTier2AppSystemI19IDedicatedServerAPILi0EE8ShutdownEv"
+		},
+		{
+			"name": "CDedicatedServerAPI::ModInit(ModInfo_t&)",
+			"name_mangled": "_ZN19CDedicatedServerAPI7ModInitER9ModInfo_t"
+		},
+		{
+			"name": "CDedicatedServerAPI::ModShutdown()",
+			"name_mangled": "_ZN19CDedicatedServerAPI11ModShutdownEv"
+		},
+		{
+			"name": "CDedicatedServerAPI::RunFrame()",
+			"name_mangled": "_ZN19CDedicatedServerAPI8RunFrameEv"
+		},
+		{
+			"name": "CDedicatedServerAPI::AddConsoleText(char*)",
+			"name_mangled": "_ZN19CDedicatedServerAPI14AddConsoleTextEPc"
+		},
+		{
+			"name": "CDedicatedServerAPI::UpdateStatus(float*, int*, int*, char*, int)",
+			"name_mangled": "_ZN19CDedicatedServerAPI12UpdateStatusEPfPiS1_Pci"
+		},
+		{
+			"name": "CDedicatedServerAPI::UpdateHostname(char*, int)",
+			"name_mangled": "_ZN19CDedicatedServerAPI14UpdateHostnameEPci"
+		}
+	]
+}

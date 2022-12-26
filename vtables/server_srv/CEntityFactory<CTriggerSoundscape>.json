@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTriggerSoundscape>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CTriggerSoundscapeE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTriggerSoundscape>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CTriggerSoundscapeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTriggerSoundscape>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CTriggerSoundscapeE13GetEntitySizeEv"
+		}
+	]
+}

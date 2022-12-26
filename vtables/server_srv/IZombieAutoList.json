@@ -1,0 +1,10 @@
+{
+	"classname": "IZombieAutoList",
+	"classname_mangled": "_ZTV15IZombieAutoList",
+	"members": [
+		{
+			"name": "IZombieAutoList::~IZombieAutoList()",
+			"name_mangled": "_ZN15IZombieAutoListD0Ev"
+		}
+	]
+}

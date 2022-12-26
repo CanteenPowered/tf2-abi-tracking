@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_Jar>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CTFProjectile_JarE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_Jar>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CTFProjectile_JarE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_Jar>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CTFProjectile_JarE13GetEntitySizeEv"
+		}
+	]
+}

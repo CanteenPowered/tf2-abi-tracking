@@ -1,0 +1,10 @@
+{
+	"classname": "IEngineReplay",
+	"classname_mangled": "_ZTV13IEngineReplay",
+	"members": [
+		{
+			"name": "IEngineReplay::~IEngineReplay()",
+			"name_mangled": "_ZN13IEngineReplayD0Ev"
+		}
+	]
+}

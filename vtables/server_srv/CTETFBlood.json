@@ -1,0 +1,30 @@
+{
+	"classname": "CTETFBlood",
+	"classname_mangled": "_ZTV10CTETFBlood",
+	"members": [
+		{
+			"name": "CTETFBlood::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN10CTETFBlood40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTETFBlood::~CTETFBlood()",
+			"name_mangled": "_ZN10CTETFBloodD2Ev"
+		},
+		{
+			"name": "CTETFBlood::~CTETFBlood()",
+			"name_mangled": "_ZN10CTETFBloodD0Ev"
+		},
+		{
+			"name": "CTETFBlood::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN10CTETFBlood4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

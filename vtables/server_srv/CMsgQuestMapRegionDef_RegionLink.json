@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgQuestMapRegionDef_RegionLink",
+	"classname_mangled": "_ZTV32CMsgQuestMapRegionDef_RegionLink",
+	"members": [
+		{
+			"name": "CMsgQuestMapRegionDef_RegionLink::~CMsgQuestMapRegionDef_RegionLink()",
+			"name_mangled": "_ZN32CMsgQuestMapRegionDef_RegionLinkD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgQuestMapRegionDef_RegionLink::New() const",
+			"name_mangled": "_ZNK32CMsgQuestMapRegionDef_RegionLink3NewEv"
+		},
+		{
+			"name": "CMsgQuestMapRegionDef_RegionLink::Clear()",
+			"name_mangled": "_ZN32CMsgQuestMapRegionDef_RegionLink5ClearEv"
+		},
+		{
+			"name": "CMsgQuestMapRegionDef_RegionLink::IsInitialized() const",
+			"name_mangled": "_ZNK32CMsgQuestMapRegionDef_RegionLink13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgQuestMapRegionDef_RegionLink::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN32CMsgQuestMapRegionDef_RegionLink27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgQuestMapRegionDef_RegionLink::ByteSize() const",
+			"name_mangled": "_ZNK32CMsgQuestMapRegionDef_RegionLink8ByteSizeEv"
+		},
+		{
+			"name": "CMsgQuestMapRegionDef_RegionLink::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK32CMsgQuestMapRegionDef_RegionLink24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgQuestMapRegionDef_RegionLink::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK32CMsgQuestMapRegionDef_RegionLink31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgQuestMapRegionDef_RegionLink::GetCachedSize() const",
+			"name_mangled": "_ZNK32CMsgQuestMapRegionDef_RegionLink13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgQuestMapRegionDef_RegionLink::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN32CMsgQuestMapRegionDef_RegionLink8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgQuestMapRegionDef_RegionLink::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN32CMsgQuestMapRegionDef_RegionLink9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgQuestMapRegionDef_RegionLink::SetCachedSize(int) const",
+			"name_mangled": "_ZNK32CMsgQuestMapRegionDef_RegionLink13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgQuestMapRegionDef_RegionLink::GetMetadata() const",
+			"name_mangled": "_ZNK32CMsgQuestMapRegionDef_RegionLink11GetMetadataEv"
+		}
+	]
+}

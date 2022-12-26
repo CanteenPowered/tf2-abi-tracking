@@ -1,0 +1,54 @@
+{
+	"classname": "CDefaultResponseSystem",
+	"classname_mangled": "_ZTV22CDefaultResponseSystem",
+	"members": [
+		{
+			"name": "CDefaultResponseSystem::~CDefaultResponseSystem()",
+			"name_mangled": "_ZN22CDefaultResponseSystemD0Ev"
+		},
+		{
+			"name": "CResponseSystem::FindBestResponse(AI_CriteriaSet const&, AI_Response&, IResponseFilter*)",
+			"name_mangled": "_ZN15CResponseSystem16FindBestResponseERK14AI_CriteriaSetR11AI_ResponseP15IResponseFilter"
+		},
+		{
+			"name": "CResponseSystem::GetAllResponses(CUtlVector<AI_Response*, CUtlMemory<AI_Response*, int>>*)",
+			"name_mangled": "_ZN15CResponseSystem15GetAllResponsesEP10CUtlVectorIP11AI_Response10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CResponseSystem::PrecacheResponses(bool)",
+			"name_mangled": "_ZN15CResponseSystem17PrecacheResponsesEb"
+		},
+		{
+			"name": "CDefaultResponseSystem::Release()",
+			"name_mangled": "_ZN22CDefaultResponseSystem7ReleaseEv"
+		},
+		{
+			"name": "CResponseSystem::DumpRules()",
+			"name_mangled": "_ZN15CResponseSystem9DumpRulesEv"
+		},
+		{
+			"name": "CResponseSystem::Precache()",
+			"name_mangled": "_ZN15CResponseSystem8PrecacheEv"
+		},
+		{
+			"name": "CDefaultResponseSystem::GetScriptFile()",
+			"name_mangled": "_ZN22CDefaultResponseSystem13GetScriptFileEv"
+		},
+		{
+			"name": "CDefaultResponseSystem::Init()",
+			"name_mangled": "_ZN22CDefaultResponseSystem4InitEv"
+		},
+		{
+			"name": "CDefaultResponseSystem::Shutdown()",
+			"name_mangled": "_ZN22CDefaultResponseSystem8ShutdownEv"
+		},
+		{
+			"name": "CDefaultResponseSystem::LevelInitPostEntity()",
+			"name_mangled": "_ZN22CDefaultResponseSystem19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CDefaultResponseSystem::LevelInitPreEntity()",
+			"name_mangled": "_ZN22CDefaultResponseSystem18LevelInitPreEntityEv"
+		}
+	]
+}

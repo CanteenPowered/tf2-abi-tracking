@@ -1,0 +1,98 @@
+{
+	"classname": "CRestartGameIssue",
+	"classname_mangled": "_ZTV17CRestartGameIssue",
+	"members": [
+		{
+			"name": "CRestartGameIssue::~CRestartGameIssue()",
+			"name_mangled": "_ZN17CRestartGameIssueD0Ev"
+		},
+		{
+			"name": "CBaseIssue::GetTypeStringLocalized()",
+			"name_mangled": "_ZN10CBaseIssue22GetTypeStringLocalizedEv"
+		},
+		{
+			"name": "CBaseIssue::GetDetailsString()",
+			"name_mangled": "_ZN10CBaseIssue16GetDetailsStringEv"
+		},
+		{
+			"name": "CBaseIssue::SetIssueDetails(char const*)",
+			"name_mangled": "_ZN10CBaseIssue15SetIssueDetailsEPKc"
+		},
+		{
+			"name": "CBaseIssue::OnVoteFailed(int)",
+			"name_mangled": "_ZN10CBaseIssue12OnVoteFailedEi"
+		},
+		{
+			"name": "CBaseIssue::OnVoteStarted()",
+			"name_mangled": "_ZN10CBaseIssue13OnVoteStartedEv"
+		},
+		{
+			"name": "CRestartGameIssue::IsEnabled()",
+			"name_mangled": "_ZN17CRestartGameIssue9IsEnabledEv"
+		},
+		{
+			"name": "CBaseIssue::CanTeamCallVote(int) const",
+			"name_mangled": "_ZNK10CBaseIssue15CanTeamCallVoteEi"
+		},
+		{
+			"name": "CRestartGameIssue::RequestCallVote(int, char const*, vote_create_failed_t&, int&)",
+			"name_mangled": "_ZN17CRestartGameIssue15RequestCallVoteEiPKcR20vote_create_failed_tRi"
+		},
+		{
+			"name": "CBaseIssue::IsTeamRestrictedVote()",
+			"name_mangled": "_ZN10CBaseIssue20IsTeamRestrictedVoteEv"
+		},
+		{
+			"name": "CRestartGameIssue::GetDisplayString()",
+			"name_mangled": "_ZN17CRestartGameIssue16GetDisplayStringEv"
+		},
+		{
+			"name": "CRestartGameIssue::ExecuteCommand()",
+			"name_mangled": "_ZN17CRestartGameIssue14ExecuteCommandEv"
+		},
+		{
+			"name": "CRestartGameIssue::ListIssueDetails(CBasePlayer*)",
+			"name_mangled": "_ZN17CRestartGameIssue16ListIssueDetailsEP11CBasePlayer"
+		},
+		{
+			"name": "CRestartGameIssue::GetVotePassedString()",
+			"name_mangled": "_ZN17CRestartGameIssue19GetVotePassedStringEv"
+		},
+		{
+			"name": "CBaseIssue::CountPotentialVoters()",
+			"name_mangled": "_ZN10CBaseIssue20CountPotentialVotersEv"
+		},
+		{
+			"name": "CBaseIssue::GetNumberVoteOptions()",
+			"name_mangled": "_ZN10CBaseIssue20GetNumberVoteOptionsEv"
+		},
+		{
+			"name": "CBaseIssue::IsYesNoVote()",
+			"name_mangled": "_ZN10CBaseIssue11IsYesNoVoteEv"
+		},
+		{
+			"name": "CBaseIssue::GetVoteOptions(CUtlVector<char const*, CUtlMemory<char const*, int>>&)",
+			"name_mangled": "_ZN10CBaseIssue14GetVoteOptionsER10CUtlVectorIPKc10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CBaseIssue::BRecordVoteFailureEventForEntity(int) const",
+			"name_mangled": "_ZNK10CBaseIssue32BRecordVoteFailureEventForEntityEi"
+		},
+		{
+			"name": "CBaseIssue::GetQuorumRatio()",
+			"name_mangled": "_ZN10CBaseIssue14GetQuorumRatioEv"
+		},
+		{
+			"name": "CBaseIssue::ProcessResults(CUtlVector<char const*, CUtlMemory<char const*, int>> const&, int const*, CUtlMap<CSteamID, int, unsigned short, bool (*)(CSteamID const&, CSteamID const&)> const&, int, int, int)",
+			"name_mangled": "_ZN10CBaseIssue14ProcessResultsERK10CUtlVectorIPKc10CUtlMemoryIS2_iEEPKiRK7CUtlMapI8CSteamIDitPFbRKSB_SD_EEiii"
+		},
+		{
+			"name": "CBaseIssue::OnVoteEnded()",
+			"name_mangled": "_ZN10CBaseIssue11OnVoteEndedEv"
+		},
+		{
+			"name": "CBaseIssue::OnPlayerDisconnected(CBasePlayer*)",
+			"name_mangled": "_ZN10CBaseIssue20OnPlayerDisconnectedEP11CBasePlayer"
+		}
+	]
+}

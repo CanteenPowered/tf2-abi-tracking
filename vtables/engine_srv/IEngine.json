@@ -1,0 +1,10 @@
+{
+	"classname": "IEngine",
+	"classname_mangled": "_ZTV7IEngine",
+	"members": [
+		{
+			"name": "IEngine::~IEngine()",
+			"name_mangled": "_ZN7IEngineD0Ev"
+		}
+	]
+}

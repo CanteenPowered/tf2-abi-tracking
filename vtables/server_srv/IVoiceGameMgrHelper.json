@@ -1,0 +1,10 @@
+{
+	"classname": "IVoiceGameMgrHelper",
+	"classname_mangled": "_ZTV19IVoiceGameMgrHelper",
+	"members": [
+		{
+			"name": "IVoiceGameMgrHelper::~IVoiceGameMgrHelper()",
+			"name_mangled": "_ZN19IVoiceGameMgrHelperD0Ev"
+		}
+	]
+}

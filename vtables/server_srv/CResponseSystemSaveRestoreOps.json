@@ -1,0 +1,22 @@
+{
+	"classname": "CResponseSystemSaveRestoreOps",
+	"classname_mangled": "_ZTV29CResponseSystemSaveRestoreOps",
+	"members": [
+		{
+			"name": "CResponseSystemSaveRestoreOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)",
+			"name_mangled": "_ZN29CResponseSystemSaveRestoreOps7RestoreERK22SaveRestoreFieldInfo_tP8IRestore"
+		},
+		{
+			"name": "CDefSaveRestoreOps::IsEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN18CDefSaveRestoreOps7IsEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CDefSaveRestoreOps::MakeEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN18CDefSaveRestoreOps9MakeEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)",
+			"name_mangled": "_ZN18CDefSaveRestoreOps5ParseERK22SaveRestoreFieldInfo_tPKc"
+		}
+	]
+}

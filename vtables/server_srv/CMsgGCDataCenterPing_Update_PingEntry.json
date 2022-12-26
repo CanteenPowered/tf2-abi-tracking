@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgGCDataCenterPing_Update_PingEntry",
+	"classname_mangled": "_ZTV37CMsgGCDataCenterPing_Update_PingEntry",
+	"members": [
+		{
+			"name": "CMsgGCDataCenterPing_Update_PingEntry::~CMsgGCDataCenterPing_Update_PingEntry()",
+			"name_mangled": "_ZN37CMsgGCDataCenterPing_Update_PingEntryD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgGCDataCenterPing_Update_PingEntry::New() const",
+			"name_mangled": "_ZNK37CMsgGCDataCenterPing_Update_PingEntry3NewEv"
+		},
+		{
+			"name": "CMsgGCDataCenterPing_Update_PingEntry::Clear()",
+			"name_mangled": "_ZN37CMsgGCDataCenterPing_Update_PingEntry5ClearEv"
+		},
+		{
+			"name": "CMsgGCDataCenterPing_Update_PingEntry::IsInitialized() const",
+			"name_mangled": "_ZNK37CMsgGCDataCenterPing_Update_PingEntry13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgGCDataCenterPing_Update_PingEntry::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN37CMsgGCDataCenterPing_Update_PingEntry27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgGCDataCenterPing_Update_PingEntry::ByteSize() const",
+			"name_mangled": "_ZNK37CMsgGCDataCenterPing_Update_PingEntry8ByteSizeEv"
+		},
+		{
+			"name": "CMsgGCDataCenterPing_Update_PingEntry::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK37CMsgGCDataCenterPing_Update_PingEntry24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgGCDataCenterPing_Update_PingEntry::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK37CMsgGCDataCenterPing_Update_PingEntry31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgGCDataCenterPing_Update_PingEntry::GetCachedSize() const",
+			"name_mangled": "_ZNK37CMsgGCDataCenterPing_Update_PingEntry13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgGCDataCenterPing_Update_PingEntry::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN37CMsgGCDataCenterPing_Update_PingEntry8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgGCDataCenterPing_Update_PingEntry::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN37CMsgGCDataCenterPing_Update_PingEntry9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgGCDataCenterPing_Update_PingEntry::SetCachedSize(int) const",
+			"name_mangled": "_ZNK37CMsgGCDataCenterPing_Update_PingEntry13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgGCDataCenterPing_Update_PingEntry::GetMetadata() const",
+			"name_mangled": "_ZNK37CMsgGCDataCenterPing_Update_PingEntry11GetMetadataEv"
+		}
+	]
+}

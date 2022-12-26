@@ -1,0 +1,54 @@
+{
+	"classname": "CTFItemDefinition",
+	"classname_mangled": "_ZTV17CTFItemDefinition",
+	"members": [
+		{
+			"name": "CTFItemDefinition::~CTFItemDefinition()",
+			"name_mangled": "_ZN17CTFItemDefinitionD0Ev"
+		},
+		{
+			"name": "CTFItemDefinition::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN17CTFItemDefinition11BInitFromKVEP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		},
+		{
+			"name": "CEconItemDefinition::BPostInit(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN19CEconItemDefinition9BPostInitEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "CTFItemDefinition::BInitFromTestItemKVs(int, KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN17CTFItemDefinition20BInitFromTestItemKVsEiP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		},
+		{
+			"name": "CTFItemDefinition::GeneratePrecacheModelStrings(bool, CUtlVector<char const*, CUtlMemory<char const*, int>>*) const",
+			"name_mangled": "_ZNK17CTFItemDefinition28GeneratePrecacheModelStringsEbP10CUtlVectorIPKc10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CEconItemDefinition::GeneratePrecacheSoundStrings(bool, CUtlVector<char const*, CUtlMemory<char const*, int>>*) const",
+			"name_mangled": "_ZNK19CEconItemDefinition28GeneratePrecacheSoundStringsEbP10CUtlVectorIPKc10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CTFItemDefinition::CopyPolymorphic(CEconItemDefinition const*)",
+			"name_mangled": "_ZN17CTFItemDefinition15CopyPolymorphicEPK19CEconItemDefinition"
+		},
+		{
+			"name": "CEconItemDefinition::GetBundleItemCount() const",
+			"name_mangled": "_ZNK19CEconItemDefinition18GetBundleItemCountEv"
+		},
+		{
+			"name": "CEconItemDefinition::GetBundleItem(int) const",
+			"name_mangled": "_ZNK19CEconItemDefinition13GetBundleItemEi"
+		},
+		{
+			"name": "CEconItemDefinition::GetIconDisplayModel() const",
+			"name_mangled": "_ZNK19CEconItemDefinition19GetIconDisplayModelEv"
+		},
+		{
+			"name": "CTFItemDefinition::IsContentStreamable() const",
+			"name_mangled": "_ZNK17CTFItemDefinition19IsContentStreamableEv"
+		},
+		{
+			"name": "CTFItemDefinition::GetPlayerDisplayModelAlt(int) const",
+			"name_mangled": "_ZNK17CTFItemDefinition24GetPlayerDisplayModelAltEi"
+		}
+	]
+}

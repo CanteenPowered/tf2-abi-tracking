@@ -1,0 +1,10 @@
+{
+	"classname": "GCSDK::IParty",
+	"classname_mangled": "_ZTVN5GCSDK6IPartyE",
+	"members": [
+		{
+			"name": "GCSDK::IParty::~IParty()",
+			"name_mangled": "_ZN5GCSDK6IPartyD0Ev"
+		}
+	]
+}

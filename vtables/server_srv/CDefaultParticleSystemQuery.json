@@ -1,0 +1,66 @@
+{
+	"classname": "CDefaultParticleSystemQuery",
+	"classname_mangled": "_ZTV27CDefaultParticleSystemQuery",
+	"members": [
+		{
+			"name": "CBaseAppSystem<IParticleSystemQuery>::Disconnect()",
+			"name_mangled": "_ZN14CBaseAppSystemI20IParticleSystemQueryE10DisconnectEv"
+		},
+		{
+			"name": "CBaseAppSystem<IParticleSystemQuery>::QueryInterface(char const*)",
+			"name_mangled": "_ZN14CBaseAppSystemI20IParticleSystemQueryE14QueryInterfaceEPKc"
+		},
+		{
+			"name": "CBaseAppSystem<IParticleSystemQuery>::Init()",
+			"name_mangled": "_ZN14CBaseAppSystemI20IParticleSystemQueryE4InitEv"
+		},
+		{
+			"name": "CBaseAppSystem<IParticleSystemQuery>::Shutdown()",
+			"name_mangled": "_ZN14CBaseAppSystemI20IParticleSystemQueryE8ShutdownEv"
+		},
+		{
+			"name": "CDefaultParticleSystemQuery::GetLightingAtPoint(Vector const&, Color&)",
+			"name_mangled": "_ZN27CDefaultParticleSystemQuery18GetLightingAtPointERK6VectorR5Color"
+		},
+		{
+			"name": "CDefaultParticleSystemQuery::TraceLine(Vector const&, Vector const&, unsigned int, IHandleEntity const*, int, CBaseTrace*)",
+			"name_mangled": "_ZN27CDefaultParticleSystemQuery9TraceLineERK6VectorS2_jPK13IHandleEntityiP10CBaseTrace"
+		},
+		{
+			"name": "IParticleSystemQuery::MovePointInsideControllingObject(CParticleCollection*, void*, Vector*)",
+			"name_mangled": "_ZN20IParticleSystemQuery32MovePointInsideControllingObjectEP19CParticleCollectionPvP6Vector"
+		},
+		{
+			"name": "IParticleSystemQuery::IsPointInControllingObjectHitBox(CParticleCollection*, int, Vector, bool)",
+			"name_mangled": "_ZN20IParticleSystemQuery32IsPointInControllingObjectHitBoxEP19CParticleCollectioni6Vectorb"
+		},
+		{
+			"name": "IParticleSystemQuery::GetCollisionGroupFromName(char const*)",
+			"name_mangled": "_ZN20IParticleSystemQuery25GetCollisionGroupFromNameEPKc"
+		},
+		{
+			"name": "CDefaultParticleSystemQuery::GetRandomPointsOnControllingObjectHitBox(CParticleCollection*, int, int, float, int, Vector*, Vector, Vector*, int*)",
+			"name_mangled": "_ZN27CDefaultParticleSystemQuery40GetRandomPointsOnControllingObjectHitBoxEP19CParticleCollectioniifiP6VectorS2_S3_Pi"
+		},
+		{
+			"name": "IParticleSystemQuery::GetControllingObjectHitBoxInfo(CParticleCollection*, int, int, ModelHitBoxInfo_t*)",
+			"name_mangled": "_ZN20IParticleSystemQuery30GetControllingObjectHitBoxInfoEP19CParticleCollectioniiP17ModelHitBoxInfo_t"
+		},
+		{
+			"name": "IParticleSystemQuery::GetLocalPlayerPos()",
+			"name_mangled": "_ZN20IParticleSystemQuery17GetLocalPlayerPosEv"
+		},
+		{
+			"name": "IParticleSystemQuery::GetLocalPlayerEyeVectors(Vector*, Vector*, Vector*)",
+			"name_mangled": "_ZN20IParticleSystemQuery24GetLocalPlayerEyeVectorsEP6VectorS1_S1_"
+		},
+		{
+			"name": "CDefaultParticleSystemQuery::GetPixelVisibility(int*, Vector const&, float)",
+			"name_mangled": "_ZN27CDefaultParticleSystemQuery18GetPixelVisibilityEPiRK6Vectorf"
+		},
+		{
+			"name": "IParticleSystemQuery::SetUpLightingEnvironment(Vector const&)",
+			"name_mangled": "_ZN20IParticleSystemQuery24SetUpLightingEnvironmentERK6Vector"
+		}
+	]
+}

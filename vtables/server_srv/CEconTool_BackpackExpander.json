@@ -1,0 +1,26 @@
+{
+	"classname": "CEconTool_BackpackExpander",
+	"classname_mangled": "_ZTV26CEconTool_BackpackExpander",
+	"members": [
+		{
+			"name": "CEconTool_BackpackExpander::~CEconTool_BackpackExpander()",
+			"name_mangled": "_ZN26CEconTool_BackpackExpanderD0Ev"
+		},
+		{
+			"name": "IEconTool::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool10CanApplyToEPK18IEconItemInterfaceS2_"
+		},
+		{
+			"name": "IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool21ShouldDisplayQuantityEPK18IEconItemInterface"
+		},
+		{
+			"name": "IEconTool::RequiresToolEscrowPeriod() const",
+			"name_mangled": "_ZNK9IEconTool24RequiresToolEscrowPeriodEv"
+		},
+		{
+			"name": "CEconTool_BackpackExpander::BFinishInitialization()",
+			"name_mangled": "_ZN26CEconTool_BackpackExpander21BFinishInitializationEv"
+		}
+	]
+}

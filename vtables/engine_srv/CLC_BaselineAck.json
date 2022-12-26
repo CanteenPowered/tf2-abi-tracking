@@ -1,0 +1,66 @@
+{
+	"classname": "CLC_BaselineAck",
+	"classname_mangled": "_ZTV15CLC_BaselineAck",
+	"members": [
+		{
+			"name": "CLC_BaselineAck::~CLC_BaselineAck()",
+			"name_mangled": "_ZN15CLC_BaselineAckD0Ev"
+		},
+		{
+			"name": "CNetMessage::SetNetChannel(INetChannel*)",
+			"name_mangled": "_ZN11CNetMessage13SetNetChannelEP11INetChannel"
+		},
+		{
+			"name": "CNetMessage::SetReliable(bool)",
+			"name_mangled": "_ZN11CNetMessage11SetReliableEb"
+		},
+		{
+			"name": "CLC_BaselineAck::Process()",
+			"name_mangled": "_ZN15CLC_BaselineAck7ProcessEv"
+		},
+		{
+			"name": "CLC_BaselineAck::ReadFromBuffer(bf_read&)",
+			"name_mangled": "_ZN15CLC_BaselineAck14ReadFromBufferER7bf_read"
+		},
+		{
+			"name": "CLC_BaselineAck::WriteToBuffer(bf_write&)",
+			"name_mangled": "_ZN15CLC_BaselineAck13WriteToBufferER8bf_write"
+		},
+		{
+			"name": "CNetMessage::IsReliable() const",
+			"name_mangled": "_ZNK11CNetMessage10IsReliableEv"
+		},
+		{
+			"name": "CLC_BaselineAck::GetType() const",
+			"name_mangled": "_ZNK15CLC_BaselineAck7GetTypeEv"
+		},
+		{
+			"name": "CLC_BaselineAck::GetGroup() const",
+			"name_mangled": "_ZNK15CLC_BaselineAck8GetGroupEv"
+		},
+		{
+			"name": "CLC_BaselineAck::GetName() const",
+			"name_mangled": "_ZNK15CLC_BaselineAck7GetNameEv"
+		},
+		{
+			"name": "CNetMessage::GetNetChannel() const",
+			"name_mangled": "_ZNK11CNetMessage13GetNetChannelEv"
+		},
+		{
+			"name": "CLC_BaselineAck::ToString() const",
+			"name_mangled": "_ZNK15CLC_BaselineAck8ToStringEv"
+		},
+		{
+			"name": "CNetMessage::BIncomingMessageForProcessing(double, int)",
+			"name_mangled": "_ZN11CNetMessage29BIncomingMessageForProcessingEdi"
+		},
+		{
+			"name": "CLC_BaselineAck::GetSize() const",
+			"name_mangled": "_ZNK15CLC_BaselineAck7GetSizeEv"
+		},
+		{
+			"name": "CNetMessage::SetRatePolicy()",
+			"name_mangled": "_ZN11CNetMessage13SetRatePolicyEv"
+		}
+	]
+}

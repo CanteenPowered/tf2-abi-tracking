@@ -1,0 +1,10 @@
+{
+	"classname": "IFuncRespawnRoomAutoList",
+	"classname_mangled": "_ZTV24IFuncRespawnRoomAutoList",
+	"members": [
+		{
+			"name": "IFuncRespawnRoomAutoList::~IFuncRespawnRoomAutoList()",
+			"name_mangled": "_ZN24IFuncRespawnRoomAutoListD0Ev"
+		}
+	]
+}

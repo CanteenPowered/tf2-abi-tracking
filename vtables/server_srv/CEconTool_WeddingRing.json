@@ -1,0 +1,26 @@
+{
+	"classname": "CEconTool_WeddingRing",
+	"classname_mangled": "_ZTV21CEconTool_WeddingRing",
+	"members": [
+		{
+			"name": "CEconTool_WeddingRing::~CEconTool_WeddingRing()",
+			"name_mangled": "_ZN21CEconTool_WeddingRingD0Ev"
+		},
+		{
+			"name": "IEconTool::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool10CanApplyToEPK18IEconItemInterfaceS2_"
+		},
+		{
+			"name": "IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool21ShouldDisplayQuantityEPK18IEconItemInterface"
+		},
+		{
+			"name": "CEconTool_WeddingRing::RequiresToolEscrowPeriod() const",
+			"name_mangled": "_ZNK21CEconTool_WeddingRing24RequiresToolEscrowPeriodEv"
+		},
+		{
+			"name": "IEconTool::BFinishInitialization()",
+			"name_mangled": "_ZN9IEconTool21BFinishInitializationEv"
+		}
+	]
+}

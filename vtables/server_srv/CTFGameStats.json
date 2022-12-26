@@ -1,0 +1,246 @@
+{
+	"classname": "CTFGameStats",
+	"classname_mangled": "_ZTV12CTFGameStats",
+	"members": [
+		{
+			"name": "CTFGameStats::AddDataForSend(KeyValues*, StatSendType_t)",
+			"name_mangled": "_ZN12CTFGameStats14AddDataForSendEP9KeyValues14StatSendType_t"
+		},
+		{
+			"name": "CBaseGameStats::ShouldSendDataOnLevelShutdown()",
+			"name_mangled": "_ZN14CBaseGameStats29ShouldSendDataOnLevelShutdownEv"
+		},
+		{
+			"name": "CBaseGameStats::ShouldSendDataOnAppShutdown()",
+			"name_mangled": "_ZN14CBaseGameStats27ShouldSendDataOnAppShutdownEv"
+		},
+		{
+			"name": "CBaseGameStats::Event_Init()",
+			"name_mangled": "_ZN14CBaseGameStats10Event_InitEv"
+		},
+		{
+			"name": "CBaseGameStats::Event_Shutdown()",
+			"name_mangled": "_ZN14CBaseGameStats14Event_ShutdownEv"
+		},
+		{
+			"name": "CBaseGameStats::Event_MapChange(char const*, char const*)",
+			"name_mangled": "_ZN14CBaseGameStats15Event_MapChangeEPKcS1_"
+		},
+		{
+			"name": "CTFGameStats::Event_LevelInit()",
+			"name_mangled": "_ZN12CTFGameStats15Event_LevelInitEv"
+		},
+		{
+			"name": "CTFGameStats::Event_LevelShutdown(float)",
+			"name_mangled": "_ZN12CTFGameStats19Event_LevelShutdownEf"
+		},
+		{
+			"name": "CBaseGameStats::Event_SaveGame()",
+			"name_mangled": "_ZN14CBaseGameStats14Event_SaveGameEv"
+		},
+		{
+			"name": "CBaseGameStats::Event_LoadGame()",
+			"name_mangled": "_ZN14CBaseGameStats14Event_LoadGameEv"
+		},
+		{
+			"name": "CBaseGameStats::OnInit(CBaseGameStats*, char const*)",
+			"name_mangled": "_ZN14CBaseGameStats6OnInitEPS_PKc"
+		},
+		{
+			"name": "CTFGameStats::Clear()",
+			"name_mangled": "_ZN12CTFGameStats5ClearEv"
+		},
+		{
+			"name": "CBaseGameStats::StatTrackingEnabledForMod()",
+			"name_mangled": "_ZN14CBaseGameStats25StatTrackingEnabledForModEv"
+		},
+		{
+			"name": "CBaseGameStats::HaveValidData()",
+			"name_mangled": "_ZN14CBaseGameStats13HaveValidDataEv"
+		},
+		{
+			"name": "CBaseGameStats::ShouldTrackStandardStats()",
+			"name_mangled": "_ZN14CBaseGameStats24ShouldTrackStandardStatsEv"
+		},
+		{
+			"name": "CBaseGameStats::GetStatSaveFileName()",
+			"name_mangled": "_ZN14CBaseGameStats19GetStatSaveFileNameEv"
+		},
+		{
+			"name": "CBaseGameStats::GetStatUploadRegistryKeyName()",
+			"name_mangled": "_ZN14CBaseGameStats28GetStatUploadRegistryKeyNameEv"
+		},
+		{
+			"name": "CBaseGameStats::UserPlayedAllTheMaps()",
+			"name_mangled": "_ZN14CBaseGameStats20UserPlayedAllTheMapsEv"
+		},
+		{
+			"name": "CTFGameStats::Event_PlayerKilled(CBasePlayer*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN12CTFGameStats18Event_PlayerKilledEP11CBasePlayerRK15CTakeDamageInfo"
+		},
+		{
+			"name": "CTFGameStats::Event_PlayerConnected(CBasePlayer*)",
+			"name_mangled": "_ZN12CTFGameStats21Event_PlayerConnectedEP11CBasePlayer"
+		},
+		{
+			"name": "CBaseGameStats::Event_PlayerDisconnected(CBasePlayer*)",
+			"name_mangled": "_ZN14CBaseGameStats24Event_PlayerDisconnectedEP11CBasePlayer"
+		},
+		{
+			"name": "CBaseGameStats::Event_PlayerDamage(CBasePlayer*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN14CBaseGameStats18Event_PlayerDamageEP11CBasePlayerRK15CTakeDamageInfo"
+		},
+		{
+			"name": "CTFGameStats::Event_PlayerKilledOther(CBasePlayer*, CBaseEntity*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN12CTFGameStats23Event_PlayerKilledOtherEP11CBasePlayerP11CBaseEntityRK15CTakeDamageInfo"
+		},
+		{
+			"name": "CTFGameStats::Event_PlayerSuicide(CBasePlayer*)",
+			"name_mangled": "_ZN12CTFGameStats19Event_PlayerSuicideEP11CBasePlayer"
+		},
+		{
+			"name": "CBaseGameStats::Event_Credits()",
+			"name_mangled": "_ZN14CBaseGameStats13Event_CreditsEv"
+		},
+		{
+			"name": "CBaseGameStats::Event_Commentary()",
+			"name_mangled": "_ZN14CBaseGameStats16Event_CommentaryEv"
+		},
+		{
+			"name": "CBaseGameStats::Event_CrateSmashed()",
+			"name_mangled": "_ZN14CBaseGameStats18Event_CrateSmashedEv"
+		},
+		{
+			"name": "CBaseGameStats::Event_Punted(CBaseEntity*)",
+			"name_mangled": "_ZN14CBaseGameStats12Event_PuntedEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseGameStats::Event_PlayerTraveled(CBasePlayer*, float, bool, bool)",
+			"name_mangled": "_ZN14CBaseGameStats20Event_PlayerTraveledEP11CBasePlayerfbb"
+		},
+		{
+			"name": "CBaseGameStats::Event_WeaponFired(CBasePlayer*, bool, char const*)",
+			"name_mangled": "_ZN14CBaseGameStats17Event_WeaponFiredEP11CBasePlayerbPKc"
+		},
+		{
+			"name": "CBaseGameStats::Event_WeaponHit(CBasePlayer*, bool, char const*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN14CBaseGameStats15Event_WeaponHitEP11CBasePlayerbPKcRK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseGameStats::Event_FlippedVehicle(CBasePlayer*, CPropVehicleDriveable*)",
+			"name_mangled": "_ZN14CBaseGameStats20Event_FlippedVehicleEP11CBasePlayerP21CPropVehicleDriveable"
+		},
+		{
+			"name": "CBaseGameStats::Event_PreSaveGameLoaded(char const*, bool)",
+			"name_mangled": "_ZN14CBaseGameStats23Event_PreSaveGameLoadedEPKcb"
+		},
+		{
+			"name": "CBaseGameStats::Event_PlayerEnteredGodMode(CBasePlayer*)",
+			"name_mangled": "_ZN14CBaseGameStats26Event_PlayerEnteredGodModeEP11CBasePlayer"
+		},
+		{
+			"name": "CBaseGameStats::Event_PlayerEnteredNoClip(CBasePlayer*)",
+			"name_mangled": "_ZN14CBaseGameStats25Event_PlayerEnteredNoClipEP11CBasePlayer"
+		},
+		{
+			"name": "CBaseGameStats::Event_DecrementPlayerEnteredNoClip(CBasePlayer*)",
+			"name_mangled": "_ZN14CBaseGameStats34Event_DecrementPlayerEnteredNoClipEP11CBasePlayer"
+		},
+		{
+			"name": "CBaseGameStats::Event_IncrementCountedStatistic(Vector const&, char const*, float)",
+			"name_mangled": "_ZN14CBaseGameStats31Event_IncrementCountedStatisticERK6VectorPKcf"
+		},
+		{
+			"name": "CBaseGameStats::Event_WindowShattered(CBasePlayer*)",
+			"name_mangled": "_ZN14CBaseGameStats21Event_WindowShatteredEP11CBasePlayer"
+		},
+		{
+			"name": "CBaseGameStats::AppendCustomDataToSaveBuffer(CUtlBuffer&)",
+			"name_mangled": "_ZN14CBaseGameStats28AppendCustomDataToSaveBufferER10CUtlBuffer"
+		},
+		{
+			"name": "CBaseGameStats::LoadCustomDataFromBuffer(CUtlBuffer&)",
+			"name_mangled": "_ZN14CBaseGameStats24LoadCustomDataFromBufferER10CUtlBuffer"
+		},
+		{
+			"name": "CBaseGameStats::LoadingEvent_PlayerIDDifferentThanLoadedStats()",
+			"name_mangled": "_ZN14CBaseGameStats45LoadingEvent_PlayerIDDifferentThanLoadedStatsEv"
+		},
+		{
+			"name": "CBaseGameStats::LoadFromFile()",
+			"name_mangled": "_ZN14CBaseGameStats12LoadFromFileEv"
+		},
+		{
+			"name": "CBaseGameStats::SaveToFileNOW(bool)",
+			"name_mangled": "_ZN14CBaseGameStats13SaveToFileNOWEb"
+		},
+		{
+			"name": "CBaseGameStats::UploadStatsFileNOW()",
+			"name_mangled": "_ZN14CBaseGameStats18UploadStatsFileNOWEv"
+		},
+		{
+			"name": "CBaseGameStats::AutoSave_OnInit()",
+			"name_mangled": "_ZN14CBaseGameStats15AutoSave_OnInitEv"
+		},
+		{
+			"name": "CBaseGameStats::AutoSave_OnShutdown()",
+			"name_mangled": "_ZN14CBaseGameStats19AutoSave_OnShutdownEv"
+		},
+		{
+			"name": "CBaseGameStats::AutoSave_OnMapChange()",
+			"name_mangled": "_ZN14CBaseGameStats20AutoSave_OnMapChangeEv"
+		},
+		{
+			"name": "CBaseGameStats::AutoSave_OnLevelInit()",
+			"name_mangled": "_ZN14CBaseGameStats20AutoSave_OnLevelInitEv"
+		},
+		{
+			"name": "CBaseGameStats::AutoSave_OnLevelShutdown()",
+			"name_mangled": "_ZN14CBaseGameStats24AutoSave_OnLevelShutdownEv"
+		},
+		{
+			"name": "CBaseGameStats::AutoUpload_OnInit()",
+			"name_mangled": "_ZN14CBaseGameStats17AutoUpload_OnInitEv"
+		},
+		{
+			"name": "CBaseGameStats::AutoUpload_OnShutdown()",
+			"name_mangled": "_ZN14CBaseGameStats21AutoUpload_OnShutdownEv"
+		},
+		{
+			"name": "CBaseGameStats::AutoUpload_OnMapChange()",
+			"name_mangled": "_ZN14CBaseGameStats22AutoUpload_OnMapChangeEv"
+		},
+		{
+			"name": "CBaseGameStats::AutoUpload_OnLevelInit()",
+			"name_mangled": "_ZN14CBaseGameStats22AutoUpload_OnLevelInitEv"
+		},
+		{
+			"name": "CBaseGameStats::AutoUpload_OnLevelShutdown()",
+			"name_mangled": "_ZN14CBaseGameStats26AutoUpload_OnLevelShutdownEv"
+		},
+		{
+			"name": "CTFGameStats::~CTFGameStats()",
+			"name_mangled": "_ZN12CTFGameStatsD2Ev"
+		},
+		{
+			"name": "CTFGameStats::~CTFGameStats()",
+			"name_mangled": "_ZN12CTFGameStatsD0Ev"
+		},
+		{
+			"name": "CTFGameStats::Init()",
+			"name_mangled": "_ZN12CTFGameStats4InitEv"
+		},
+		{
+			"name": "CTFGameStats::LevelInitPreEntity()",
+			"name_mangled": "_ZN12CTFGameStats18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CTFGameStats::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN12CTFGameStats36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CTFGameStats::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN12CTFGameStats13FireGameEventEP10IGameEvent"
+		}
+	]
+}

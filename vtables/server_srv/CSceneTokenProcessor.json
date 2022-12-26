@@ -1,0 +1,18 @@
+{
+	"classname": "CSceneTokenProcessor",
+	"classname_mangled": "_ZTV20CSceneTokenProcessor",
+	"members": [
+		{
+			"name": "CSceneTokenProcessor::GetToken(bool)",
+			"name_mangled": "_ZN20CSceneTokenProcessor8GetTokenEb"
+		},
+		{
+			"name": "CSceneTokenProcessor::TokenAvailable()",
+			"name_mangled": "_ZN20CSceneTokenProcessor14TokenAvailableEv"
+		},
+		{
+			"name": "CSceneTokenProcessor::Error(char const*, ...)",
+			"name_mangled": "_ZN20CSceneTokenProcessor5ErrorEPKcz"
+		}
+	]
+}

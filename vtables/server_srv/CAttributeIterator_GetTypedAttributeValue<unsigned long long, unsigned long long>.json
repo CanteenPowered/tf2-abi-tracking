@@ -1,0 +1,38 @@
+{
+	"classname": "CAttributeIterator_GetTypedAttributeValue<unsigned long long, unsigned long long>",
+	"classname_mangled": "_ZTV41CAttributeIterator_GetTypedAttributeValueIyyE",
+	"members": [
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<unsigned long long, unsigned long long>::~CAttributeIterator_GetTypedAttributeValue()",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueIyyED0Ev"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<unsigned long long, unsigned long long>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned int)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueIyyE23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionj"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<unsigned long long, unsigned long long>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, float)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueIyyE23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionf"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<unsigned long long, unsigned long long>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned long long const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueIyyE23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRKy"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<unsigned long long, unsigned long long>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_String const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueIyyE23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK17CAttribute_String"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<unsigned long long, unsigned long long>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_DynamicRecipeComponent const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueIyyE23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK33CAttribute_DynamicRecipeComponent"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<unsigned long long, unsigned long long>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_ItemSlotCriteria const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueIyyE23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK27CAttribute_ItemSlotCriteria"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<unsigned long long, unsigned long long>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_WorldItemPlacement const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueIyyE23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK29CAttribute_WorldItemPlacement"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"classname": "google::protobuf::io::ConcatenatingInputStream",
+	"classname_mangled": "_ZTVN6google8protobuf2io24ConcatenatingInputStreamE",
+	"members": [
+		{
+			"name": "google::protobuf::io::ConcatenatingInputStream::~ConcatenatingInputStream()",
+			"name_mangled": "_ZN6google8protobuf2io24ConcatenatingInputStreamD0Ev"
+		},
+		{
+			"name": "google::protobuf::io::ConcatenatingInputStream::Next(void const**, int*)",
+			"name_mangled": "_ZN6google8protobuf2io24ConcatenatingInputStream4NextEPPKvPi"
+		},
+		{
+			"name": "google::protobuf::io::ConcatenatingInputStream::BackUp(int)",
+			"name_mangled": "_ZN6google8protobuf2io24ConcatenatingInputStream6BackUpEi"
+		},
+		{
+			"name": "google::protobuf::io::ConcatenatingInputStream::Skip(int)",
+			"name_mangled": "_ZN6google8protobuf2io24ConcatenatingInputStream4SkipEi"
+		},
+		{
+			"name": "google::protobuf::io::ConcatenatingInputStream::ByteCount() const",
+			"name_mangled": "_ZNK6google8protobuf2io24ConcatenatingInputStream9ByteCountEv"
+		}
+	]
+}

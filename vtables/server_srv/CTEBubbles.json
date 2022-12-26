@@ -1,0 +1,30 @@
+{
+	"classname": "CTEBubbles",
+	"classname_mangled": "_ZTV10CTEBubbles",
+	"members": [
+		{
+			"name": "CTEBubbles::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN10CTEBubbles40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEBubbles::~CTEBubbles()",
+			"name_mangled": "_ZN10CTEBubblesD2Ev"
+		},
+		{
+			"name": "CTEBubbles::~CTEBubbles()",
+			"name_mangled": "_ZN10CTEBubblesD0Ev"
+		},
+		{
+			"name": "CTEBubbles::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN10CTEBubbles4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

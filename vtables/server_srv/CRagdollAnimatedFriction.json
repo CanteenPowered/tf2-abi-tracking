@@ -1,0 +1,10 @@
+{
+	"classname": "CRagdollAnimatedFriction",
+	"classname_mangled": "_ZTV24CRagdollAnimatedFriction",
+	"members": [
+		{
+			"name": "CRagdollAnimatedFriction::SetDefaults(void*)",
+			"name_mangled": "_ZN24CRagdollAnimatedFriction11SetDefaultsEPv"
+		}
+	]
+}

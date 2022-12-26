@@ -1,0 +1,10 @@
+{
+	"classname": "CPlayerInfoManager",
+	"classname_mangled": "_ZTV18CPlayerInfoManager",
+	"members": [
+		{
+			"name": "CPlayerInfoManager::GetGlobalVars()",
+			"name_mangled": "_ZN18CPlayerInfoManager13GetGlobalVarsEv"
+		}
+	]
+}

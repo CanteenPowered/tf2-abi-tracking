@@ -1,0 +1,22 @@
+{
+	"classname": "CChoreoScene",
+	"classname_mangled": "_ZTV12CChoreoScene",
+	"members": [
+		{
+			"name": "CChoreoScene::~CChoreoScene()",
+			"name_mangled": "_ZN12CChoreoSceneD0Ev"
+		},
+		{
+			"name": "CChoreoScene::GetDuration()",
+			"name_mangled": "_ZN12CChoreoScene11GetDurationEv"
+		},
+		{
+			"name": "CChoreoScene::CurveHasEndTime()",
+			"name_mangled": "_ZN12CChoreoScene15CurveHasEndTimeEv"
+		},
+		{
+			"name": "CChoreoScene::GetDefaultCurveType()",
+			"name_mangled": "_ZN12CChoreoScene19GetDefaultCurveTypeEv"
+		}
+	]
+}

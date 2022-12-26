@@ -1,0 +1,98 @@
+{
+	"classname": "CTFQuestEventListener",
+	"classname_mangled": "_ZTV21CTFQuestEventListener",
+	"members": [
+		{
+			"name": "CTFQuestEventListener::~CTFQuestEventListener()",
+			"name_mangled": "_ZN21CTFQuestEventListenerD0Ev"
+		},
+		{
+			"name": "CTFQuestEvaluator::GetBaseName() const",
+			"name_mangled": "_ZNK17CTFQuestEvaluator11GetBaseNameEv"
+		},
+		{
+			"name": "CTFQuestEventListener::GetConditionName() const",
+			"name_mangled": "_ZNK21CTFQuestEventListener16GetConditionNameEv"
+		},
+		{
+			"name": "CTFQuestEventListener::GetValueString() const",
+			"name_mangled": "_ZNK21CTFQuestEventListener14GetValueStringEv"
+		},
+		{
+			"name": "CTFQuestEventListener::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN21CTFQuestEventListener11BInitFromKVEP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		},
+		{
+			"name": "CTFQuestCondition::PrintDebugText() const",
+			"name_mangled": "_ZNK17CTFQuestCondition14PrintDebugTextEv"
+		},
+		{
+			"name": "CTFQuestCondition::GetQuestOwner() const",
+			"name_mangled": "_ZNK17CTFQuestCondition13GetQuestOwnerEv"
+		},
+		{
+			"name": "CTFQuestEventListener::IsValidForPlayer(CTFPlayer const*, InvalidReason&) const",
+			"name_mangled": "_ZNK21CTFQuestEventListener16IsValidForPlayerEPK9CTFPlayerR13InvalidReason"
+		},
+		{
+			"name": "CTFQuestCondition::IsOperator() const",
+			"name_mangled": "_ZNK17CTFQuestCondition10IsOperatorEv"
+		},
+		{
+			"name": "CTFQuestEvaluator::IsEvaluator() const",
+			"name_mangled": "_ZNK17CTFQuestEvaluator11IsEvaluatorEv"
+		},
+		{
+			"name": "CTFQuestEventListener::AddChildByName(char const*)",
+			"name_mangled": "_ZN21CTFQuestEventListener14AddChildByNameEPKc"
+		},
+		{
+			"name": "CTFQuestEventListener::GetChildren(CUtlVector<CTFQuestCondition*, CUtlMemory<CTFQuestCondition*, int>>&)",
+			"name_mangled": "_ZN21CTFQuestEventListener11GetChildrenER10CUtlVectorIP17CTFQuestCondition10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CTFQuestEventListener::RemoveAndDeleteChild(CTFQuestCondition*)",
+			"name_mangled": "_ZN21CTFQuestEventListener20RemoveAndDeleteChildEP17CTFQuestCondition"
+		},
+		{
+			"name": "CTFQuestEventListener::GetRequiredParamKeys(KeyValues*)",
+			"name_mangled": "_ZN21CTFQuestEventListener20GetRequiredParamKeysEP9KeyValues"
+		},
+		{
+			"name": "CTFQuestEventListener::GetOutputKeyValues(KeyValues*)",
+			"name_mangled": "_ZN21CTFQuestEventListener18GetOutputKeyValuesEP9KeyValues"
+		},
+		{
+			"name": "CTFQuestEvaluator::GetValidTypes(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const",
+			"name_mangled": "_ZNK17CTFQuestEvaluator13GetValidTypesER10CUtlVectorIPKc10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CTFQuestEvaluator::GetValidChildren(CUtlVector<char const*, CUtlMemory<char const*, int>>&) const",
+			"name_mangled": "_ZNK17CTFQuestEvaluator16GetValidChildrenER10CUtlVectorIPKc10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CTFQuestEventListener::GetMaxInputCount() const",
+			"name_mangled": "_ZNK21CTFQuestEventListener16GetMaxInputCountEv"
+		},
+		{
+			"name": "CTFQuestEventListener::GetEventName() const",
+			"name_mangled": "_ZNK21CTFQuestEventListener12GetEventNameEv"
+		},
+		{
+			"name": "CTFQuestEventListener::SetEventName(char const*)",
+			"name_mangled": "_ZN21CTFQuestEventListener12SetEventNameEPKc"
+		},
+		{
+			"name": "CTFQuestEventListener::EvaluateCondition(CTFQuestEvaluator*, int)",
+			"name_mangled": "_ZN21CTFQuestEventListener17EvaluateConditionEP17CTFQuestEvaluatori"
+		},
+		{
+			"name": "CTFQuestEventListener::ResetCondition()",
+			"name_mangled": "_ZN21CTFQuestEventListener14ResetConditionEv"
+		},
+		{
+			"name": "CTFQuestEventListener::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN21CTFQuestEventListener13FireGameEventEP10IGameEvent"
+		}
+	]
+}

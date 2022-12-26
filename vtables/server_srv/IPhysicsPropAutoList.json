@@ -1,0 +1,10 @@
+{
+	"classname": "IPhysicsPropAutoList",
+	"classname_mangled": "_ZTV20IPhysicsPropAutoList",
+	"members": [
+		{
+			"name": "IPhysicsPropAutoList::~IPhysicsPropAutoList()",
+			"name_mangled": "_ZN20IPhysicsPropAutoListD0Ev"
+		}
+	]
+}

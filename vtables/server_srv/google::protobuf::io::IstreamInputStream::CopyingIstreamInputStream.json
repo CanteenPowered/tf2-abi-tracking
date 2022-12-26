@@ -1,0 +1,18 @@
+{
+	"classname": "google::protobuf::io::IstreamInputStream::CopyingIstreamInputStream",
+	"classname_mangled": "_ZTVN6google8protobuf2io18IstreamInputStream25CopyingIstreamInputStreamE",
+	"members": [
+		{
+			"name": "google::protobuf::io::IstreamInputStream::CopyingIstreamInputStream::~CopyingIstreamInputStream()",
+			"name_mangled": "_ZN6google8protobuf2io18IstreamInputStream25CopyingIstreamInputStreamD0Ev"
+		},
+		{
+			"name": "google::protobuf::io::IstreamInputStream::CopyingIstreamInputStream::Read(void*, int)",
+			"name_mangled": "_ZN6google8protobuf2io18IstreamInputStream25CopyingIstreamInputStream4ReadEPvi"
+		},
+		{
+			"name": "google::protobuf::io::CopyingInputStream::Skip(int)",
+			"name_mangled": "_ZN6google8protobuf2io18CopyingInputStream4SkipEi"
+		}
+	]
+}

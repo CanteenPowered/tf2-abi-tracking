@@ -1,0 +1,14 @@
+{
+	"classname": "INextBotComponentScriptInstanceHelper",
+	"classname_mangled": "_ZTV37INextBotComponentScriptInstanceHelper",
+	"members": [
+		{
+			"name": "INextBotComponentScriptInstanceHelper::ToString(void*, char*, int)",
+			"name_mangled": "_ZN37INextBotComponentScriptInstanceHelper8ToStringEPvPci"
+		},
+		{
+			"name": "IScriptInstanceHelper::BindOnRead(HSCRIPT__*, void*, char const*)",
+			"name_mangled": "_ZN21IScriptInstanceHelper10BindOnReadEP9HSCRIPT__PvPKc"
+		}
+	]
+}

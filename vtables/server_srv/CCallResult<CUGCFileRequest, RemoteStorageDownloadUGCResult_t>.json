@@ -1,0 +1,14 @@
+{
+	"classname": "CCallResult<CUGCFileRequest, RemoteStorageDownloadUGCResult_t>",
+	"classname_mangled": "_ZTV11CCallResultI15CUGCFileRequest32RemoteStorageDownloadUGCResult_tE",
+	"members": [
+		{
+			"name": "CCallResult<CUGCFileRequest, RemoteStorageDownloadUGCResult_t>::Run(void*, bool, unsigned long long)",
+			"name_mangled": "_ZN11CCallResultI15CUGCFileRequest32RemoteStorageDownloadUGCResult_tE3RunEPvby"
+		},
+		{
+			"name": "CCallResult<CUGCFileRequest, RemoteStorageDownloadUGCResult_t>::GetCallbackSizeBytes()",
+			"name_mangled": "_ZN11CCallResultI15CUGCFileRequest32RemoteStorageDownloadUGCResult_tE20GetCallbackSizeBytesEv"
+		}
+	]
+}

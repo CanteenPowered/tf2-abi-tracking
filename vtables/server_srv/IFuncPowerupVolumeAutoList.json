@@ -1,0 +1,10 @@
+{
+	"classname": "IFuncPowerupVolumeAutoList",
+	"classname_mangled": "_ZTV26IFuncPowerupVolumeAutoList",
+	"members": [
+		{
+			"name": "IFuncPowerupVolumeAutoList::~IFuncPowerupVolumeAutoList()",
+			"name_mangled": "_ZN26IFuncPowerupVolumeAutoListD0Ev"
+		}
+	]
+}

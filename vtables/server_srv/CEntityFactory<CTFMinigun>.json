@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFMinigun>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10CTFMinigunE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFMinigun>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10CTFMinigunE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFMinigun>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10CTFMinigunE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"classname": "CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentDefinedItem",
+	"classname_mangled": "_ZTVN27CEconTool_ItemDynamicRecipe34CDynamicRecipeComponentDefinedItemE",
+	"members": [
+		{
+			"name": "CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentDefinedItem::~CDynamicRecipeComponentDefinedItem()",
+			"name_mangled": "_ZN27CEconTool_ItemDynamicRecipe34CDynamicRecipeComponentDefinedItemD0Ev"
+		},
+		{
+			"name": "CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentDefinedItem::ParseKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN27CEconTool_ItemDynamicRecipe34CDynamicRecipeComponentDefinedItem7ParseKVEP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS4_iEE"
+		},
+		{
+			"name": "CEconTool_ItemDynamicRecipe::CDynamicRecipeComponentDefinedItem::BFinishInitialization_Internal(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*, CUtlVector<CEconItemAttributeDefinition const*, CUtlMemory<CEconItemAttributeDefinition const*, int>>*)",
+			"name_mangled": "_ZN27CEconTool_ItemDynamicRecipe34CDynamicRecipeComponentDefinedItem30BFinishInitialization_InternalEP10CUtlVectorI10CUtlString10CUtlMemoryIS2_iEEPS1_IPK28CEconItemAttributeDefinitionS3_IS9_iEE"
+		}
+	]
+}

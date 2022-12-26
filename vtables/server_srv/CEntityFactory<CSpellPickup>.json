@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CSpellPickup>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CSpellPickupE",
+	"members": [
+		{
+			"name": "CEntityFactory<CSpellPickup>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CSpellPickupE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CSpellPickup>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CSpellPickupE13GetEntitySizeEv"
+		}
+	]
+}

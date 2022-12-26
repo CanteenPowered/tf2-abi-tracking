@@ -1,0 +1,14 @@
+{
+	"classname": "CVScriptGameEventListener",
+	"classname_mangled": "_ZTV25CVScriptGameEventListener",
+	"members": [
+		{
+			"name": "CVScriptGameEventListener::~CVScriptGameEventListener()",
+			"name_mangled": "_ZN25CVScriptGameEventListenerD0Ev"
+		},
+		{
+			"name": "CVScriptGameEventListener::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN25CVScriptGameEventListener13FireGameEventEP10IGameEvent"
+		}
+	]
+}

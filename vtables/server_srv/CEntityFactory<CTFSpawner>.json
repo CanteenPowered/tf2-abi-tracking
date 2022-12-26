@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFSpawner>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10CTFSpawnerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFSpawner>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10CTFSpawnerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFSpawner>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10CTFSpawnerE13GetEntitySizeEv"
+		}
+	]
+}

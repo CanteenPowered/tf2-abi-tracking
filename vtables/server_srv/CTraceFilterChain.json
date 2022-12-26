@@ -1,0 +1,10 @@
+{
+	"classname": "CTraceFilterChain",
+	"classname_mangled": "_ZTV17CTraceFilterChain",
+	"members": [
+		{
+			"name": "CTraceFilter::GetTraceType() const",
+			"name_mangled": "_ZNK12CTraceFilter12GetTraceTypeEv"
+		}
+	]
+}

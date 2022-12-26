@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTriggerAddOrRemoveTFPlayerAttributes>",
+	"classname_mangled": "_ZTV14CEntityFactoryI37CTriggerAddOrRemoveTFPlayerAttributesE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTriggerAddOrRemoveTFPlayerAttributes>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI37CTriggerAddOrRemoveTFPlayerAttributesE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTriggerAddOrRemoveTFPlayerAttributes>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI37CTriggerAddOrRemoveTFPlayerAttributesE13GetEntitySizeEv"
+		}
+	]
+}

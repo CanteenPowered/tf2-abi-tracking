@@ -1,0 +1,26 @@
+{
+	"classname": "GCSDK::CGCClientSharedObjectCache",
+	"classname_mangled": "_ZTVN5GCSDK26CGCClientSharedObjectCacheE",
+	"members": [
+		{
+			"name": "GCSDK::CGCClientSharedObjectCache::~CGCClientSharedObjectCache()",
+			"name_mangled": "_ZN5GCSDK26CGCClientSharedObjectCacheD0Ev"
+		},
+		{
+			"name": "GCSDK::CGCClientSharedObjectCache::GetOwner() const",
+			"name_mangled": "_ZNK5GCSDK26CGCClientSharedObjectCache8GetOwnerEv"
+		},
+		{
+			"name": "GCSDK::CSharedObjectCache::MarkDirty()",
+			"name_mangled": "_ZN5GCSDK18CSharedObjectCache9MarkDirtyEv"
+		},
+		{
+			"name": "GCSDK::CSharedObjectCache::Dump() const",
+			"name_mangled": "_ZNK5GCSDK18CSharedObjectCache4DumpEv"
+		},
+		{
+			"name": "GCSDK::CGCClientSharedObjectCache::AllocateTypeCache(int) const",
+			"name_mangled": "_ZNK5GCSDK26CGCClientSharedObjectCache17AllocateTypeCacheEi"
+		}
+	]
+}

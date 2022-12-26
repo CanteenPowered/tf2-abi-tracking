@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFPEPBrawlerBlaster>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CTFPEPBrawlerBlasterE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFPEPBrawlerBlaster>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CTFPEPBrawlerBlasterE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFPEPBrawlerBlaster>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CTFPEPBrawlerBlasterE13GetEntitySizeEv"
+		}
+	]
+}

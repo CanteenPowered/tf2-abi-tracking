@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFBreakableSign>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CTFBreakableSignE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFBreakableSign>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFBreakableSignE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFBreakableSign>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFBreakableSignE13GetEntitySizeEv"
+		}
+	]
+}

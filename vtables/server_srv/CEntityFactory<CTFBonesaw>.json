@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFBonesaw>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10CTFBonesawE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFBonesaw>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10CTFBonesawE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFBonesaw>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10CTFBonesawE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,634 @@
+{
+	"classname": "CMultiplayRules",
+	"classname_mangled": "_ZTV15CMultiplayRules",
+	"members": [
+		{
+			"name": "CMultiplayRules::Init()",
+			"name_mangled": "_ZN15CMultiplayRules4InitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PostInit()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8PostInitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::Shutdown()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8ShutdownEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CGameRules::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN10CGameRules23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnSave()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnRestore()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::IsPerFrame()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame10IsPerFrameEv"
+		},
+		{
+			"name": "CMultiplayRules::~CMultiplayRules()",
+			"name_mangled": "_ZN15CMultiplayRulesD2Ev"
+		},
+		{
+			"name": "CMultiplayRules::~CMultiplayRules()",
+			"name_mangled": "_ZN15CMultiplayRulesD0Ev"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CMultiplayRules::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN15CMultiplayRules26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PreClientUpdate()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame15PreClientUpdateEv"
+		},
+		{
+			"name": "CMultiplayRules::Damage_IsTimeBased(int)",
+			"name_mangled": "_ZN15CMultiplayRules18Damage_IsTimeBasedEi"
+		},
+		{
+			"name": "CMultiplayRules::Damage_ShouldGibCorpse(int)",
+			"name_mangled": "_ZN15CMultiplayRules22Damage_ShouldGibCorpseEi"
+		},
+		{
+			"name": "CMultiplayRules::Damage_ShowOnHUD(int)",
+			"name_mangled": "_ZN15CMultiplayRules16Damage_ShowOnHUDEi"
+		},
+		{
+			"name": "CMultiplayRules::Damage_NoPhysicsForce(int)",
+			"name_mangled": "_ZN15CMultiplayRules21Damage_NoPhysicsForceEi"
+		},
+		{
+			"name": "CMultiplayRules::Damage_ShouldNotBleed(int)",
+			"name_mangled": "_ZN15CMultiplayRules21Damage_ShouldNotBleedEi"
+		},
+		{
+			"name": "CMultiplayRules::Damage_GetTimeBased()",
+			"name_mangled": "_ZN15CMultiplayRules19Damage_GetTimeBasedEv"
+		},
+		{
+			"name": "CMultiplayRules::Damage_GetShouldGibCorpse()",
+			"name_mangled": "_ZN15CMultiplayRules25Damage_GetShouldGibCorpseEv"
+		},
+		{
+			"name": "CMultiplayRules::Damage_GetShowOnHud()",
+			"name_mangled": "_ZN15CMultiplayRules19Damage_GetShowOnHudEv"
+		},
+		{
+			"name": "CMultiplayRules::Damage_GetNoPhysicsForce()",
+			"name_mangled": "_ZN15CMultiplayRules24Damage_GetNoPhysicsForceEv"
+		},
+		{
+			"name": "CMultiplayRules::Damage_GetShouldNotBleed()",
+			"name_mangled": "_ZN15CMultiplayRules24Damage_GetShouldNotBleedEv"
+		},
+		{
+			"name": "CMultiplayRules::SwitchToNextBestWeapon(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN15CMultiplayRules22SwitchToNextBestWeaponEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CMultiplayRules::GetNextBestWeapon(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN15CMultiplayRules17GetNextBestWeaponEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CGameRules::ShouldCollide(int, int)",
+			"name_mangled": "_ZN10CGameRules13ShouldCollideEii"
+		},
+		{
+			"name": "CGameRules::DefaultFOV()",
+			"name_mangled": "_ZN10CGameRules10DefaultFOVEv"
+		},
+		{
+			"name": "CGameRules::GetViewVectors() const",
+			"name_mangled": "_ZNK10CGameRules14GetViewVectorsEv"
+		},
+		{
+			"name": "CGameRules::GetAmmoDamage(CBaseEntity*, CBaseEntity*, int)",
+			"name_mangled": "_ZN10CGameRules13GetAmmoDamageEP11CBaseEntityS1_i"
+		},
+		{
+			"name": "CGameRules::GetDamageMultiplier()",
+			"name_mangled": "_ZN10CGameRules19GetDamageMultiplierEv"
+		},
+		{
+			"name": "CMultiplayRules::IsMultiplayer()",
+			"name_mangled": "_ZN15CMultiplayRules13IsMultiplayerEv"
+		},
+		{
+			"name": "CGameRules::GetEncryptionKey()",
+			"name_mangled": "_ZN10CGameRules16GetEncryptionKeyEv"
+		},
+		{
+			"name": "CGameRules::InRoundRestart()",
+			"name_mangled": "_ZN10CGameRules14InRoundRestartEv"
+		},
+		{
+			"name": "CGameRules::AllowThirdPersonCamera()",
+			"name_mangled": "_ZN10CGameRules22AllowThirdPersonCameraEv"
+		},
+		{
+			"name": "CMultiplayRules::ClientCommandKeyValues(edict_t*, KeyValues*)",
+			"name_mangled": "_ZN15CMultiplayRules22ClientCommandKeyValuesEP7edict_tP9KeyValues"
+		},
+		{
+			"name": "CGameRules::IsConnectedUserInfoChangeAllowed(CBasePlayer*)",
+			"name_mangled": "_ZN10CGameRules32IsConnectedUserInfoChangeAllowedEP11CBasePlayer"
+		},
+		{
+			"name": "CGameRules::Status(void (*)(char const*, ...))",
+			"name_mangled": "_ZN10CGameRules6StatusEPFvPKczE"
+		},
+		{
+			"name": "CMultiplayRules::GetTaggedConVarList(KeyValues*)",
+			"name_mangled": "_ZN15CMultiplayRules19GetTaggedConVarListEP9KeyValues"
+		},
+		{
+			"name": "CGameRules::CheckHaptics(CBasePlayer*)",
+			"name_mangled": "_ZN10CGameRules12CheckHapticsEP11CBasePlayer"
+		},
+		{
+			"name": "CGameRules::LevelShutdown()",
+			"name_mangled": "_ZN10CGameRules13LevelShutdownEv"
+		},
+		{
+			"name": "CGameRules::Precache()",
+			"name_mangled": "_ZN10CGameRules8PrecacheEv"
+		},
+		{
+			"name": "CMultiplayRules::RefreshSkillData(bool)",
+			"name_mangled": "_ZN15CMultiplayRules16RefreshSkillDataEb"
+		},
+		{
+			"name": "CMultiplayRules::Think()",
+			"name_mangled": "_ZN15CMultiplayRules5ThinkEv"
+		},
+		{
+			"name": "CMultiplayRules::IsAllowedToSpawn(CBaseEntity*)",
+			"name_mangled": "_ZN15CMultiplayRules16IsAllowedToSpawnEP11CBaseEntity"
+		},
+		{
+			"name": "CGameRules::EndGameFrame()",
+			"name_mangled": "_ZN10CGameRules12EndGameFrameEv"
+		},
+		{
+			"name": "CGameRules::IsSkillLevel(int)",
+			"name_mangled": "_ZN10CGameRules12IsSkillLevelEi"
+		},
+		{
+			"name": "CGameRules::GetSkillLevel()",
+			"name_mangled": "_ZN10CGameRules13GetSkillLevelEv"
+		},
+		{
+			"name": "CGameRules::OnSkillLevelChanged(int)",
+			"name_mangled": "_ZN10CGameRules19OnSkillLevelChangedEi"
+		},
+		{
+			"name": "CGameRules::SetSkillLevel(int)",
+			"name_mangled": "_ZN10CGameRules13SetSkillLevelEi"
+		},
+		{
+			"name": "CMultiplayRules::FAllowFlashlight()",
+			"name_mangled": "_ZN15CMultiplayRules16FAllowFlashlightEv"
+		},
+		{
+			"name": "CMultiplayRules::FShouldSwitchWeapon(CBasePlayer*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN15CMultiplayRules19FShouldSwitchWeaponEP11CBasePlayerP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CMultiplayRules::IsDeathmatch()",
+			"name_mangled": "_ZN15CMultiplayRules12IsDeathmatchEv"
+		},
+		{
+			"name": "CGameRules::IsTeamplay()",
+			"name_mangled": "_ZN10CGameRules10IsTeamplayEv"
+		},
+		{
+			"name": "CMultiplayRules::IsCoOp()",
+			"name_mangled": "_ZN15CMultiplayRules6IsCoOpEv"
+		},
+		{
+			"name": "CGameRules::GetGameDescription()",
+			"name_mangled": "_ZN10CGameRules18GetGameDescriptionEv"
+		},
+		{
+			"name": "CMultiplayRules::ClientConnected(edict_t*, char const*, char const*, char*, int)",
+			"name_mangled": "_ZN15CMultiplayRules15ClientConnectedEP7edict_tPKcS3_Pci"
+		},
+		{
+			"name": "CMultiplayRules::InitHUD(CBasePlayer*)",
+			"name_mangled": "_ZN15CMultiplayRules7InitHUDEP11CBasePlayer"
+		},
+		{
+			"name": "CMultiplayRules::ClientDisconnected(edict_t*)",
+			"name_mangled": "_ZN15CMultiplayRules18ClientDisconnectedEP7edict_t"
+		},
+		{
+			"name": "CMultiplayRules::FlPlayerFallDamage(CBasePlayer*)",
+			"name_mangled": "_ZN15CMultiplayRules18FlPlayerFallDamageEP11CBasePlayer"
+		},
+		{
+			"name": "CMultiplayRules::FPlayerCanTakeDamage(CBasePlayer*, CBaseEntity*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN15CMultiplayRules20FPlayerCanTakeDamageEP11CBasePlayerP11CBaseEntityRK15CTakeDamageInfo"
+		},
+		{
+			"name": "CGameRules::ShouldAutoAim(CBasePlayer*, edict_t*)",
+			"name_mangled": "_ZN10CGameRules13ShouldAutoAimEP11CBasePlayerP7edict_t"
+		},
+		{
+			"name": "CGameRules::GetAutoAimScale(CBasePlayer*)",
+			"name_mangled": "_ZN10CGameRules15GetAutoAimScaleEP11CBasePlayer"
+		},
+		{
+			"name": "CGameRules::GetAutoAimMode()",
+			"name_mangled": "_ZN10CGameRules14GetAutoAimModeEv"
+		},
+		{
+			"name": "CGameRules::ShouldUseRobustRadiusDamage(CBaseEntity*)",
+			"name_mangled": "_ZN10CGameRules27ShouldUseRobustRadiusDamageEP11CBaseEntity"
+		},
+		{
+			"name": "CGameRules::RadiusDamage(CTakeDamageInfo const&, Vector const&, float, int, CBaseEntity*)",
+			"name_mangled": "_ZN10CGameRules12RadiusDamageERK15CTakeDamageInfoRK6VectorfiP11CBaseEntity"
+		},
+		{
+			"name": "CGameRules::FlPlayerFallDeathDoesScreenFade(CBasePlayer*)",
+			"name_mangled": "_ZN10CGameRules31FlPlayerFallDeathDoesScreenFadeEP11CBasePlayer"
+		},
+		{
+			"name": "CMultiplayRules::AllowDamage(CBaseEntity*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN15CMultiplayRules11AllowDamageEP11CBaseEntityRK15CTakeDamageInfo"
+		},
+		{
+			"name": "CMultiplayRules::PlayerSpawn(CBasePlayer*)",
+			"name_mangled": "_ZN15CMultiplayRules11PlayerSpawnEP11CBasePlayer"
+		},
+		{
+			"name": "CMultiplayRules::PlayerThink(CBasePlayer*)",
+			"name_mangled": "_ZN15CMultiplayRules11PlayerThinkEP11CBasePlayer"
+		},
+		{
+			"name": "CMultiplayRules::FPlayerCanRespawn(CBasePlayer*)",
+			"name_mangled": "_ZN15CMultiplayRules17FPlayerCanRespawnEP11CBasePlayer"
+		},
+		{
+			"name": "CMultiplayRules::FlPlayerSpawnTime(CBasePlayer*)",
+			"name_mangled": "_ZN15CMultiplayRules17FlPlayerSpawnTimeEP11CBasePlayer"
+		},
+		{
+			"name": "CMultiplayRules::GetPlayerSpawnSpot(CBasePlayer*)",
+			"name_mangled": "_ZN15CMultiplayRules18GetPlayerSpawnSpotEP11CBasePlayer"
+		},
+		{
+			"name": "CGameRules::IsSpawnPointValid(CBaseEntity*, CBasePlayer*)",
+			"name_mangled": "_ZN10CGameRules17IsSpawnPointValidEP11CBaseEntityP11CBasePlayer"
+		},
+		{
+			"name": "CMultiplayRules::AllowAutoTargetCrosshair()",
+			"name_mangled": "_ZN15CMultiplayRules24AllowAutoTargetCrosshairEv"
+		},
+		{
+			"name": "CMultiplayRules::ClientCommand(CBaseEntity*, CCommand const&)",
+			"name_mangled": "_ZN15CMultiplayRules13ClientCommandEP11CBaseEntityRK8CCommand"
+		},
+		{
+			"name": "CMultiplayRules::ClientSettingsChanged(CBasePlayer*)",
+			"name_mangled": "_ZN15CMultiplayRules21ClientSettingsChangedEP11CBasePlayer"
+		},
+		{
+			"name": "CMultiplayRules::IPointsForKill(CBasePlayer*, CBasePlayer*)",
+			"name_mangled": "_ZN15CMultiplayRules14IPointsForKillEP11CBasePlayerS1_"
+		},
+		{
+			"name": "CMultiplayRules::PlayerKilled(CBasePlayer*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN15CMultiplayRules12PlayerKilledEP11CBasePlayerRK15CTakeDamageInfo"
+		},
+		{
+			"name": "CMultiplayRules::DeathNotice(CBasePlayer*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN15CMultiplayRules11DeathNoticeEP11CBasePlayerRK15CTakeDamageInfo"
+		},
+		{
+			"name": "CGameRules::GetDamageCustomString(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN10CGameRules21GetDamageCustomStringERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CGameRules::AdjustPlayerDamageInflicted(float)",
+			"name_mangled": "_ZN10CGameRules27AdjustPlayerDamageInflictedEf"
+		},
+		{
+			"name": "CGameRules::AdjustPlayerDamageTaken(CTakeDamageInfo*)",
+			"name_mangled": "_ZN10CGameRules23AdjustPlayerDamageTakenEP15CTakeDamageInfo"
+		},
+		{
+			"name": "CMultiplayRules::CanHavePlayerItem(CBasePlayer*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN15CMultiplayRules17CanHavePlayerItemEP11CBasePlayerP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CMultiplayRules::WeaponShouldRespawn(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN15CMultiplayRules19WeaponShouldRespawnEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CMultiplayRules::FlWeaponRespawnTime(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN15CMultiplayRules19FlWeaponRespawnTimeEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CMultiplayRules::FlWeaponTryRespawn(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN15CMultiplayRules18FlWeaponTryRespawnEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CMultiplayRules::VecWeaponRespawnSpot(CBaseCombatWeapon*)",
+			"name_mangled": "_ZN15CMultiplayRules20VecWeaponRespawnSpotEP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CMultiplayRules::CanHaveItem(CBasePlayer*, CItem*)",
+			"name_mangled": "_ZN15CMultiplayRules11CanHaveItemEP11CBasePlayerP5CItem"
+		},
+		{
+			"name": "CMultiplayRules::PlayerGotItem(CBasePlayer*, CItem*)",
+			"name_mangled": "_ZN15CMultiplayRules13PlayerGotItemEP11CBasePlayerP5CItem"
+		},
+		{
+			"name": "CMultiplayRules::ItemShouldRespawn(CItem*)",
+			"name_mangled": "_ZN15CMultiplayRules17ItemShouldRespawnEP5CItem"
+		},
+		{
+			"name": "CMultiplayRules::FlItemRespawnTime(CItem*)",
+			"name_mangled": "_ZN15CMultiplayRules17FlItemRespawnTimeEP5CItem"
+		},
+		{
+			"name": "CMultiplayRules::VecItemRespawnSpot(CItem*)",
+			"name_mangled": "_ZN15CMultiplayRules18VecItemRespawnSpotEP5CItem"
+		},
+		{
+			"name": "CMultiplayRules::VecItemRespawnAngles(CItem*)",
+			"name_mangled": "_ZN15CMultiplayRules20VecItemRespawnAnglesEP5CItem"
+		},
+		{
+			"name": "CGameRules::CanHaveAmmo(CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN10CGameRules11CanHaveAmmoEP20CBaseCombatCharacteri"
+		},
+		{
+			"name": "CGameRules::CanHaveAmmo(CBaseCombatCharacter*, char const*)",
+			"name_mangled": "_ZN10CGameRules11CanHaveAmmoEP20CBaseCombatCharacterPKc"
+		},
+		{
+			"name": "CMultiplayRules::PlayerGotAmmo(CBaseCombatCharacter*, char*, int)",
+			"name_mangled": "_ZN15CMultiplayRules13PlayerGotAmmoEP20CBaseCombatCharacterPci"
+		},
+		{
+			"name": "CGameRules::GetAmmoQuantityScale(int)",
+			"name_mangled": "_ZN10CGameRules20GetAmmoQuantityScaleEi"
+		},
+		{
+			"name": "CGameRules::InitDefaultAIRelationships()",
+			"name_mangled": "_ZN10CGameRules26InitDefaultAIRelationshipsEv"
+		},
+		{
+			"name": "CGameRules::AIClassText(int)",
+			"name_mangled": "_ZN10CGameRules11AIClassTextEi"
+		},
+		{
+			"name": "CMultiplayRules::FlHealthChargerRechargeTime()",
+			"name_mangled": "_ZN15CMultiplayRules27FlHealthChargerRechargeTimeEv"
+		},
+		{
+			"name": "CMultiplayRules::FlHEVChargerRechargeTime()",
+			"name_mangled": "_ZN15CMultiplayRules24FlHEVChargerRechargeTimeEv"
+		},
+		{
+			"name": "CMultiplayRules::DeadPlayerWeapons(CBasePlayer*)",
+			"name_mangled": "_ZN15CMultiplayRules17DeadPlayerWeaponsEP11CBasePlayer"
+		},
+		{
+			"name": "CMultiplayRules::DeadPlayerAmmo(CBasePlayer*)",
+			"name_mangled": "_ZN15CMultiplayRules14DeadPlayerAmmoEP11CBasePlayer"
+		},
+		{
+			"name": "CMultiplayRules::GetTeamID(CBaseEntity*)",
+			"name_mangled": "_ZN15CMultiplayRules9GetTeamIDEP11CBaseEntity"
+		},
+		{
+			"name": "CMultiplayRules::PlayerRelationship(CBaseEntity*, CBaseEntity*)",
+			"name_mangled": "_ZN15CMultiplayRules18PlayerRelationshipEP11CBaseEntityS1_"
+		},
+		{
+			"name": "CMultiplayRules::PlayerCanHearChat(CBasePlayer*, CBasePlayer*)",
+			"name_mangled": "_ZN15CMultiplayRules17PlayerCanHearChatEP11CBasePlayerS1_"
+		},
+		{
+			"name": "CGameRules::CheckChatText(CBasePlayer*, char*)",
+			"name_mangled": "_ZN10CGameRules13CheckChatTextEP11CBasePlayerPc"
+		},
+		{
+			"name": "CGameRules::GetTeamIndex(char const*)",
+			"name_mangled": "_ZN10CGameRules12GetTeamIndexEPKc"
+		},
+		{
+			"name": "CGameRules::GetIndexedTeamName(int)",
+			"name_mangled": "_ZN10CGameRules18GetIndexedTeamNameEi"
+		},
+		{
+			"name": "CGameRules::IsValidTeam(char const*)",
+			"name_mangled": "_ZN10CGameRules11IsValidTeamEPKc"
+		},
+		{
+			"name": "CGameRules::ChangePlayerTeam(CBasePlayer*, char const*, bool, bool)",
+			"name_mangled": "_ZN10CGameRules16ChangePlayerTeamEP11CBasePlayerPKcbb"
+		},
+		{
+			"name": "CGameRules::SetDefaultPlayerTeam(CBasePlayer*)",
+			"name_mangled": "_ZN10CGameRules20SetDefaultPlayerTeamEP11CBasePlayer"
+		},
+		{
+			"name": "CGameRules::UpdateClientData(CBasePlayer*)",
+			"name_mangled": "_ZN10CGameRules16UpdateClientDataEP11CBasePlayer"
+		},
+		{
+			"name": "CMultiplayRules::PlayTextureSounds()",
+			"name_mangled": "_ZN15CMultiplayRules17PlayTextureSoundsEv"
+		},
+		{
+			"name": "CMultiplayRules::PlayFootstepSounds(CBasePlayer*)",
+			"name_mangled": "_ZN15CMultiplayRules18PlayFootstepSoundsEP11CBasePlayer"
+		},
+		{
+			"name": "CMultiplayRules::FAllowNPCs()",
+			"name_mangled": "_ZN15CMultiplayRules10FAllowNPCsEv"
+		},
+		{
+			"name": "CMultiplayRules::EndMultiplayerGame()",
+			"name_mangled": "_ZN15CMultiplayRules18EndMultiplayerGameEv"
+		},
+		{
+			"name": "CGameRules::WeaponTraceEntity(CBaseEntity*, Vector const&, Vector const&, unsigned int, CGameTrace*)",
+			"name_mangled": "_ZN10CGameRules17WeaponTraceEntityEP11CBaseEntityRK6VectorS4_jP10CGameTrace"
+		},
+		{
+			"name": "CGameRules::CreateStandardEntities()",
+			"name_mangled": "_ZN10CGameRules22CreateStandardEntitiesEv"
+		},
+		{
+			"name": "CGameRules::GetChatPrefix(bool, CBasePlayer*)",
+			"name_mangled": "_ZN10CGameRules13GetChatPrefixEbP11CBasePlayer"
+		},
+		{
+			"name": "CGameRules::GetChatLocation(bool, CBasePlayer*)",
+			"name_mangled": "_ZN10CGameRules15GetChatLocationEbP11CBasePlayer"
+		},
+		{
+			"name": "CGameRules::GetChatFormat(bool, CBasePlayer*)",
+			"name_mangled": "_ZN10CGameRules13GetChatFormatEbP11CBasePlayer"
+		},
+		{
+			"name": "CGameRules::ShouldBurningPropsEmitLight()",
+			"name_mangled": "_ZN10CGameRules27ShouldBurningPropsEmitLightEv"
+		},
+		{
+			"name": "CGameRules::CanEntityBeUsePushed(CBaseEntity*)",
+			"name_mangled": "_ZN10CGameRules20CanEntityBeUsePushedEP11CBaseEntity"
+		},
+		{
+			"name": "CGameRules::CreateCustomNetworkStringTables()",
+			"name_mangled": "_ZN10CGameRules31CreateCustomNetworkStringTablesEv"
+		},
+		{
+			"name": "CGameRules::MarkAchievement(IRecipientFilter&, char const*)",
+			"name_mangled": "_ZN10CGameRules15MarkAchievementER16IRecipientFilterPKc"
+		},
+		{
+			"name": "CMultiplayRules::ResetMapCycleTimeStamp()",
+			"name_mangled": "_ZN15CMultiplayRules22ResetMapCycleTimeStampEv"
+		},
+		{
+			"name": "CGameRules::OnNavMeshLoad()",
+			"name_mangled": "_ZN10CGameRules13OnNavMeshLoadEv"
+		},
+		{
+			"name": "CGameRules::TacticalMissionManagerFactory()",
+			"name_mangled": "_ZN10CGameRules29TacticalMissionManagerFactoryEv"
+		},
+		{
+			"name": "CGameRules::ProcessVerboseLogOutput()",
+			"name_mangled": "_ZN10CGameRules23ProcessVerboseLogOutputEv"
+		},
+		{
+			"name": "CGameRules::GetGameTypeName()",
+			"name_mangled": "_ZN10CGameRules15GetGameTypeNameEv"
+		},
+		{
+			"name": "CGameRules::GetGameType()",
+			"name_mangled": "_ZN10CGameRules11GetGameTypeEv"
+		},
+		{
+			"name": "CMultiplayRules::ShouldDrawHeadLabels()",
+			"name_mangled": "_ZN15CMultiplayRules20ShouldDrawHeadLabelsEv"
+		},
+		{
+			"name": "CGameRules::ClientSpawned(edict_t*)",
+			"name_mangled": "_ZN10CGameRules13ClientSpawnedEP7edict_t"
+		},
+		{
+			"name": "CGameRules::OnFileReceived(char const*, unsigned int)",
+			"name_mangled": "_ZN10CGameRules14OnFileReceivedEPKcj"
+		},
+		{
+			"name": "CGameRules::IsHolidayActive(int) const",
+			"name_mangled": "_ZNK10CGameRules15IsHolidayActiveEi"
+		},
+		{
+			"name": "CMultiplayRules::IsManualMapChangeOkay(char const**)",
+			"name_mangled": "_ZN15CMultiplayRules21IsManualMapChangeOkayEPPKc"
+		},
+		{
+			"name": "CGameRules::RegisterScriptFunctions()",
+			"name_mangled": "_ZN10CGameRules23RegisterScriptFunctionsEv"
+		},
+		{
+			"name": "CGameRules::SaveConvar(ConVarRef const&)",
+			"name_mangled": "_ZN10CGameRules10SaveConvarERK9ConVarRef"
+		},
+		{
+			"name": "CGameRules::RevertSavedConvars()",
+			"name_mangled": "_ZN10CGameRules18RevertSavedConvarsEv"
+		},
+		{
+			"name": "CGameRules::HasSavedConvar(string_t)",
+			"name_mangled": "_ZN10CGameRules14HasSavedConvarE8string_t"
+		},
+		{
+			"name": "CMultiplayRules::GetDeathScorer(CBaseEntity*, CBaseEntity*, CBaseEntity*)",
+			"name_mangled": "_ZN15CMultiplayRules14GetDeathScorerEP11CBaseEntityS1_S1_"
+		},
+		{
+			"name": "CMultiplayRules::VoiceCommand(CBaseMultiplayerPlayer*, int, int)",
+			"name_mangled": "_ZN15CMultiplayRules12VoiceCommandEP22CBaseMultiplayerPlayerii"
+		},
+		{
+			"name": "CMultiplayRules::HandleTimeLimitChange()",
+			"name_mangled": "_ZN15CMultiplayRules21HandleTimeLimitChangeEv"
+		},
+		{
+			"name": "CMultiplayRules::InitCustomResponseRulesDicts()",
+			"name_mangled": "_ZN15CMultiplayRules28InitCustomResponseRulesDictsEv"
+		},
+		{
+			"name": "CMultiplayRules::ShutdownCustomResponseRulesDicts()",
+			"name_mangled": "_ZN15CMultiplayRules32ShutdownCustomResponseRulesDictsEv"
+		},
+		{
+			"name": "CMultiplayRules::GetNextLevelName(char*, int, bool)",
+			"name_mangled": "_ZN15CMultiplayRules16GetNextLevelNameEPcib"
+		},
+		{
+			"name": "CMultiplayRules::LoadMapCycleFileIntoVector(char const*, CUtlVector<char*, CUtlMemory<char*, int>>&)",
+			"name_mangled": "_ZN15CMultiplayRules26LoadMapCycleFileIntoVectorEPKcR10CUtlVectorIPc10CUtlMemoryIS3_iEE"
+		},
+		{
+			"name": "CMultiplayRules::UseSuicidePenalty()",
+			"name_mangled": "_ZN15CMultiplayRules17UseSuicidePenaltyEv"
+		},
+		{
+			"name": "CMultiplayRules::GetLastMajorEventTime()",
+			"name_mangled": "_ZN15CMultiplayRules21GetLastMajorEventTimeEv"
+		},
+		{
+			"name": "CMultiplayRules::ChangeLevel()",
+			"name_mangled": "_ZN15CMultiplayRules11ChangeLevelEv"
+		},
+		{
+			"name": "CMultiplayRules::GoToIntermission()",
+			"name_mangled": "_ZN15CMultiplayRules16GoToIntermissionEv"
+		},
+		{
+			"name": "CMultiplayRules::LoadMapCycleFile()",
+			"name_mangled": "_ZN15CMultiplayRules16LoadMapCycleFileEv"
+		}
+	]
+}

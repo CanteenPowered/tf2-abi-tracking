@@ -1,0 +1,62 @@
+{
+	"classname": "google::protobuf::TextFormat::FieldValuePrinter",
+	"classname_mangled": "_ZTVN6google8protobuf10TextFormat17FieldValuePrinterE",
+	"members": [
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::~FieldValuePrinter()",
+			"name_mangled": "_ZN6google8protobuf10TextFormat17FieldValuePrinterD0Ev"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintBool(bool) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter9PrintBoolEb"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintInt32(int) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter10PrintInt32Ei"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintUInt32(unsigned int) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter11PrintUInt32Ej"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintInt64(long long) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter10PrintInt64Ex"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintUInt64(unsigned long long) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter11PrintUInt64Ey"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintFloat(float) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter10PrintFloatEf"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintDouble(double) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter11PrintDoubleEd"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintString(std::string const&) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter11PrintStringERKSs"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintBytes(std::string const&) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter10PrintBytesERKSs"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintEnum(int, std::string const&) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter9PrintEnumEiRKSs"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintFieldName(google::protobuf::Message const&, google::protobuf::Reflection const*, google::protobuf::FieldDescriptor const*) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter14PrintFieldNameERKNS0_7MessageEPKNS0_10ReflectionEPKNS0_15FieldDescriptorE"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintMessageStart(google::protobuf::Message const&, int, int, bool) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter17PrintMessageStartERKNS0_7MessageEiib"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintMessageEnd(google::protobuf::Message const&, int, int, bool) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter15PrintMessageEndERKNS0_7MessageEiib"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"classname": "CSoundPatchSaveRestoreOps",
+	"classname_mangled": "_ZTV25CSoundPatchSaveRestoreOps",
+	"members": [
+		{
+			"name": "CSoundPatchSaveRestoreOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)",
+			"name_mangled": "_ZN25CSoundPatchSaveRestoreOps7RestoreERK22SaveRestoreFieldInfo_tP8IRestore"
+		},
+		{
+			"name": "CClassPtrSaveRestoreOps::IsEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN23CClassPtrSaveRestoreOps7IsEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CClassPtrSaveRestoreOps::MakeEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN23CClassPtrSaveRestoreOps9MakeEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)",
+			"name_mangled": "_ZN18CDefSaveRestoreOps5ParseERK22SaveRestoreFieldInfo_tPKc"
+		}
+	]
+}

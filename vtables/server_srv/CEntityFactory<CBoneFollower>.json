@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBoneFollower>",
+	"classname_mangled": "_ZTV14CEntityFactoryI13CBoneFollowerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBoneFollower>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI13CBoneFollowerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBoneFollower>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI13CBoneFollowerE13GetEntitySizeEv"
+		}
+	]
+}

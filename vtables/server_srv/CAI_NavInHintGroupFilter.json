@@ -1,0 +1,10 @@
+{
+	"classname": "CAI_NavInHintGroupFilter",
+	"classname_mangled": "_ZTV24CAI_NavInHintGroupFilter",
+	"members": [
+		{
+			"name": "CAI_NavInHintGroupFilter::ShouldContinue()",
+			"name_mangled": "_ZN24CAI_NavInHintGroupFilter14ShouldContinueEv"
+		}
+	]
+}

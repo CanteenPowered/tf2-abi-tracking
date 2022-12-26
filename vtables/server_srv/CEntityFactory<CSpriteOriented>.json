@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CSpriteOriented>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CSpriteOrientedE",
+	"members": [
+		{
+			"name": "CEntityFactory<CSpriteOriented>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CSpriteOrientedE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CSpriteOriented>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CSpriteOrientedE13GetEntitySizeEv"
+		}
+	]
+}

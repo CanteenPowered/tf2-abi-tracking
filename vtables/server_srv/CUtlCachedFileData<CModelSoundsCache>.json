@@ -1,0 +1,10 @@
+{
+	"classname": "CUtlCachedFileData<CModelSoundsCache>",
+	"classname_mangled": "_ZTV18CUtlCachedFileDataI17CModelSoundsCacheE",
+	"members": [
+		{
+			"name": "CUtlCachedFileData<CModelSoundsCache>::~CUtlCachedFileData()",
+			"name_mangled": "_ZN18CUtlCachedFileDataI17CModelSoundsCacheED0Ev"
+		}
+	]
+}

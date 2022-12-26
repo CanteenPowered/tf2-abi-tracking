@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFBotProxy>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CTFBotProxyE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFBotProxy>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CTFBotProxyE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFBotProxy>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CTFBotProxyE13GetEntitySizeEv"
+		}
+	]
+}

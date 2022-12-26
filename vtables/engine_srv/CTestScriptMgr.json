@@ -1,0 +1,10 @@
+{
+	"classname": "CTestScriptMgr",
+	"classname_mangled": "_ZTV14CTestScriptMgr",
+	"members": [
+		{
+			"name": "CTestScriptMgr::~CTestScriptMgr()",
+			"name_mangled": "_ZN14CTestScriptMgrD0Ev"
+		}
+	]
+}

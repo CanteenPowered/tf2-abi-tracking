@@ -1,0 +1,18 @@
+{
+	"classname": "IKeyValuesDumpContextAsText",
+	"classname_mangled": "_ZTV27IKeyValuesDumpContextAsText",
+	"members": [
+		{
+			"name": "IKeyValuesDumpContextAsText::KvWriteValue(KeyValues*, int)",
+			"name_mangled": "_ZN27IKeyValuesDumpContextAsText12KvWriteValueEP9KeyValuesi"
+		},
+		{
+			"name": "IKeyValuesDumpContextAsText::KvEndKey(KeyValues*, int)",
+			"name_mangled": "_ZN27IKeyValuesDumpContextAsText8KvEndKeyEP9KeyValuesi"
+		},
+		{
+			"name": "IKeyValuesDumpContextAsText::KvWriteIndent(int)",
+			"name_mangled": "_ZN27IKeyValuesDumpContextAsText13KvWriteIndentEi"
+		}
+	]
+}

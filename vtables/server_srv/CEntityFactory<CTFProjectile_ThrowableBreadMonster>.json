@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_ThrowableBreadMonster>",
+	"classname_mangled": "_ZTV14CEntityFactoryI35CTFProjectile_ThrowableBreadMonsterE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_ThrowableBreadMonster>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI35CTFProjectile_ThrowableBreadMonsterE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_ThrowableBreadMonster>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI35CTFProjectile_ThrowableBreadMonsterE13GetEntitySizeEv"
+		}
+	]
+}

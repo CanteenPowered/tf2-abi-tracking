@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTeleportVortex>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CTeleportVortexE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTeleportVortex>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CTeleportVortexE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTeleportVortex>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CTeleportVortexE13GetEntitySizeEv"
+		}
+	]
+}

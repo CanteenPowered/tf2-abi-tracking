@@ -1,0 +1,38 @@
+{
+	"classname": "CAchievementSaveRestoreBlockHandler",
+	"classname_mangled": "_ZTV35CAchievementSaveRestoreBlockHandler",
+	"members": [
+		{
+			"name": "CDefSaveRestoreBlockHandler::PreSave(CSaveRestoreData*)",
+			"name_mangled": "_ZN27CDefSaveRestoreBlockHandler7PreSaveEP16CSaveRestoreData"
+		},
+		{
+			"name": "CAchievementSaveRestoreBlockHandler::Save(ISave*)",
+			"name_mangled": "_ZN35CAchievementSaveRestoreBlockHandler4SaveEP5ISave"
+		},
+		{
+			"name": "CAchievementSaveRestoreBlockHandler::WriteSaveHeaders(ISave*)",
+			"name_mangled": "_ZN35CAchievementSaveRestoreBlockHandler16WriteSaveHeadersEP5ISave"
+		},
+		{
+			"name": "CDefSaveRestoreBlockHandler::PostSave()",
+			"name_mangled": "_ZN27CDefSaveRestoreBlockHandler8PostSaveEv"
+		},
+		{
+			"name": "CDefSaveRestoreBlockHandler::PreRestore()",
+			"name_mangled": "_ZN27CDefSaveRestoreBlockHandler10PreRestoreEv"
+		},
+		{
+			"name": "CAchievementSaveRestoreBlockHandler::ReadRestoreHeaders(IRestore*)",
+			"name_mangled": "_ZN35CAchievementSaveRestoreBlockHandler18ReadRestoreHeadersEP8IRestore"
+		},
+		{
+			"name": "CAchievementSaveRestoreBlockHandler::Restore(IRestore*, bool)",
+			"name_mangled": "_ZN35CAchievementSaveRestoreBlockHandler7RestoreEP8IRestoreb"
+		},
+		{
+			"name": "CDefSaveRestoreBlockHandler::PostRestore()",
+			"name_mangled": "_ZN27CDefSaveRestoreBlockHandler11PostRestoreEv"
+		}
+	]
+}

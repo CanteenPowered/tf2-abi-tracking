@@ -1,0 +1,10 @@
+{
+	"classname": "IServerGameEnts",
+	"classname_mangled": "_ZTV15IServerGameEnts",
+	"members": [
+		{
+			"name": "IServerGameEnts::~IServerGameEnts()",
+			"name_mangled": "_ZN15IServerGameEntsD0Ev"
+		}
+	]
+}

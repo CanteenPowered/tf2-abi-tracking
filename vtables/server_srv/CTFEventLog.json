@@ -1,0 +1,42 @@
+{
+	"classname": "CTFEventLog",
+	"classname_mangled": "_ZTV11CTFEventLog",
+	"members": [
+		{
+			"name": "CTFEventLog::~CTFEventLog()",
+			"name_mangled": "_ZN11CTFEventLogD0Ev"
+		},
+		{
+			"name": "CEventLog::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN9CEventLog13FireGameEventEP10IGameEvent"
+		},
+		{
+			"name": "CTFEventLog::Init()",
+			"name_mangled": "_ZN11CTFEventLog4InitEv"
+		},
+		{
+			"name": "CEventLog::Shutdown()",
+			"name_mangled": "_ZN9CEventLog8ShutdownEv"
+		},
+		{
+			"name": "CTFEventLog::PrintEvent(IGameEvent*)",
+			"name_mangled": "_ZN11CTFEventLog10PrintEventEP10IGameEvent"
+		},
+		{
+			"name": "CEventLog::PrintGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN9CEventLog14PrintGameEventEP10IGameEvent"
+		},
+		{
+			"name": "CEventLog::PrintPlayerEvent(IGameEvent*)",
+			"name_mangled": "_ZN9CEventLog16PrintPlayerEventEP10IGameEvent"
+		},
+		{
+			"name": "CEventLog::PrintTeamEvent(IGameEvent*)",
+			"name_mangled": "_ZN9CEventLog14PrintTeamEventEP10IGameEvent"
+		},
+		{
+			"name": "CEventLog::PrintOtherEvent(IGameEvent*)",
+			"name_mangled": "_ZN9CEventLog15PrintOtherEventEP10IGameEvent"
+		}
+	]
+}

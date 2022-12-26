@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAI_AssaultGoal>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CAI_AssaultGoalE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAI_AssaultGoal>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CAI_AssaultGoalE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAI_AssaultGoal>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CAI_AssaultGoalE13GetEntitySizeEv"
+		}
+	]
+}

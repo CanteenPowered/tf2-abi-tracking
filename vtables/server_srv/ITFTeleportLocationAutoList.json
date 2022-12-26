@@ -1,0 +1,10 @@
+{
+	"classname": "ITFTeleportLocationAutoList",
+	"classname_mangled": "_ZTV27ITFTeleportLocationAutoList",
+	"members": [
+		{
+			"name": "ITFTeleportLocationAutoList::~ITFTeleportLocationAutoList()",
+			"name_mangled": "_ZN27ITFTeleportLocationAutoListD0Ev"
+		}
+	]
+}

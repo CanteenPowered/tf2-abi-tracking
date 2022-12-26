@@ -1,0 +1,10 @@
+{
+	"classname": "GCSDK::ILobby",
+	"classname_mangled": "_ZTVN5GCSDK6ILobbyE",
+	"members": [
+		{
+			"name": "GCSDK::ILobby::~ILobby()",
+			"name_mangled": "_ZN5GCSDK6ILobbyD0Ev"
+		}
+	]
+}

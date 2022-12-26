@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFHalloweenMinigame>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CTFHalloweenMinigameE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFHalloweenMinigame>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CTFHalloweenMinigameE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFHalloweenMinigame>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CTFHalloweenMinigameE13GetEntitySizeEv"
+		}
+	]
+}

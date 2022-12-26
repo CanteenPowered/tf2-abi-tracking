@@ -1,0 +1,34 @@
+{
+	"classname": "CWaveSpawnPopulator",
+	"classname_mangled": "_ZTV19CWaveSpawnPopulator",
+	"members": [
+		{
+			"name": "CWaveSpawnPopulator::~CWaveSpawnPopulator()",
+			"name_mangled": "_ZN19CWaveSpawnPopulatorD0Ev"
+		},
+		{
+			"name": "CWaveSpawnPopulator::Parse(KeyValues*)",
+			"name_mangled": "_ZN19CWaveSpawnPopulator5ParseEP9KeyValues"
+		},
+		{
+			"name": "IPopulator::PostInitialize()",
+			"name_mangled": "_ZN10IPopulator14PostInitializeEv"
+		},
+		{
+			"name": "CWaveSpawnPopulator::Update()",
+			"name_mangled": "_ZN19CWaveSpawnPopulator6UpdateEv"
+		},
+		{
+			"name": "IPopulator::UnpauseSpawning()",
+			"name_mangled": "_ZN10IPopulator15UnpauseSpawningEv"
+		},
+		{
+			"name": "CWaveSpawnPopulator::OnPlayerKilled(CTFPlayer*)",
+			"name_mangled": "_ZN19CWaveSpawnPopulator14OnPlayerKilledEP9CTFPlayer"
+		},
+		{
+			"name": "IPopulator::HasEventChangeAttributes(char const*) const",
+			"name_mangled": "_ZNK10IPopulator24HasEventChangeAttributesEPKc"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"classname": "CModelSoundsCache",
+	"classname_mangled": "_ZTV17CModelSoundsCache",
+	"members": [
+		{
+			"name": "CModelSoundsCache::Restore(CUtlBuffer&)",
+			"name_mangled": "_ZN17CModelSoundsCache7RestoreER10CUtlBuffer"
+		},
+		{
+			"name": "CModelSoundsCache::Rebuild(char const*)",
+			"name_mangled": "_ZN17CModelSoundsCache7RebuildEPKc"
+		},
+		{
+			"name": "CModelSoundsCache::~CModelSoundsCache()",
+			"name_mangled": "_ZN17CModelSoundsCacheD2Ev"
+		},
+		{
+			"name": "CModelSoundsCache::~CModelSoundsCache()",
+			"name_mangled": "_ZN17CModelSoundsCacheD0Ev"
+		}
+	]
+}

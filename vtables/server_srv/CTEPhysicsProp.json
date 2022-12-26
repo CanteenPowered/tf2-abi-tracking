@@ -1,0 +1,30 @@
+{
+	"classname": "CTEPhysicsProp",
+	"classname_mangled": "_ZTV14CTEPhysicsProp",
+	"members": [
+		{
+			"name": "CTEPhysicsProp::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN14CTEPhysicsProp40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEPhysicsProp::~CTEPhysicsProp()",
+			"name_mangled": "_ZN14CTEPhysicsPropD2Ev"
+		},
+		{
+			"name": "CTEPhysicsProp::~CTEPhysicsProp()",
+			"name_mangled": "_ZN14CTEPhysicsPropD0Ev"
+		},
+		{
+			"name": "CTEPhysicsProp::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN14CTEPhysicsProp4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CTEPhysicsProp::Precache()",
+			"name_mangled": "_ZN14CTEPhysicsProp8PrecacheEv"
+		}
+	]
+}

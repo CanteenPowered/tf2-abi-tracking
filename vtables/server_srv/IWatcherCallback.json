@@ -1,0 +1,10 @@
+{
+	"classname": "IWatcherCallback",
+	"classname_mangled": "_ZTV16IWatcherCallback",
+	"members": [
+		{
+			"name": "IWatcherCallback::~IWatcherCallback()",
+			"name_mangled": "_ZN16IWatcherCallbackD0Ev"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"classname": "GCSDK::CProtoBufNetPacket",
+	"classname_mangled": "_ZTVN5GCSDK18CProtoBufNetPacketE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufNetPacket::~CProtoBufNetPacket()",
+			"name_mangled": "_ZN5GCSDK18CProtoBufNetPacketD0Ev"
+		},
+		{
+			"name": "GCSDK::CRefCount::DestroyThis()",
+			"name_mangled": "_ZN5GCSDK9CRefCount11DestroyThisEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufNetPacket::GetEMsgFormatType() const",
+			"name_mangled": "_ZNK5GCSDK18CProtoBufNetPacket17GetEMsgFormatTypeEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufNetPacket::GetCNetPacket() const",
+			"name_mangled": "_ZNK5GCSDK18CProtoBufNetPacket13GetCNetPacketEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufNetPacket::PubData() const",
+			"name_mangled": "_ZNK5GCSDK18CProtoBufNetPacket7PubDataEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufNetPacket::CubData() const",
+			"name_mangled": "_ZNK5GCSDK18CProtoBufNetPacket7CubDataEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufNetPacket::GetEMsg() const",
+			"name_mangled": "_ZNK5GCSDK18CProtoBufNetPacket7GetEMsgEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufNetPacket::GetSourceJobID() const",
+			"name_mangled": "_ZNK5GCSDK18CProtoBufNetPacket14GetSourceJobIDEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufNetPacket::GetTargetJobID() const",
+			"name_mangled": "_ZNK5GCSDK18CProtoBufNetPacket14GetTargetJobIDEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufNetPacket::SetTargetJobID(unsigned long long)",
+			"name_mangled": "_ZN5GCSDK18CProtoBufNetPacket14SetTargetJobIDEy"
+		},
+		{
+			"name": "GCSDK::CProtoBufNetPacket::GetSteamID() const",
+			"name_mangled": "_ZNK5GCSDK18CProtoBufNetPacket10GetSteamIDEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufNetPacket::SetSteamID(CSteamID)",
+			"name_mangled": "_ZN5GCSDK18CProtoBufNetPacket10SetSteamIDE8CSteamID"
+		},
+		{
+			"name": "GCSDK::CProtoBufNetPacket::GetSourceAppID() const",
+			"name_mangled": "_ZNK5GCSDK18CProtoBufNetPacket14GetSourceAppIDEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufNetPacket::SetSourceAppID(unsigned int)",
+			"name_mangled": "_ZN5GCSDK18CProtoBufNetPacket14SetSourceAppIDEj"
+		},
+		{
+			"name": "GCSDK::CProtoBufNetPacket::BHasTargetJobName() const",
+			"name_mangled": "_ZNK5GCSDK18CProtoBufNetPacket17BHasTargetJobNameEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufNetPacket::GetTargetJobName() const",
+			"name_mangled": "_ZNK5GCSDK18CProtoBufNetPacket16GetTargetJobNameEv"
+		}
+	]
+}

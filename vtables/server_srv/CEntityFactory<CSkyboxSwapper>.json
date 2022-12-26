@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CSkyboxSwapper>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CSkyboxSwapperE",
+	"members": [
+		{
+			"name": "CEntityFactory<CSkyboxSwapper>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CSkyboxSwapperE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CSkyboxSwapper>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CSkyboxSwapperE13GetEntitySizeEv"
+		}
+	]
+}

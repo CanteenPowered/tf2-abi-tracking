@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFParachute>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CTFParachuteE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFParachute>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CTFParachuteE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFParachute>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CTFParachuteE13GetEntitySizeEv"
+		}
+	]
+}

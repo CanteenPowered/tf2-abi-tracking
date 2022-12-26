@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<GCQuestStrangeEvent>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI19GCQuestStrangeEventEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<GCQuestStrangeEvent>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI19GCQuestStrangeEventED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<GCQuestStrangeEvent>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI19GCQuestStrangeEventE14GetGenericBodyEv"
+		}
+	]
+}

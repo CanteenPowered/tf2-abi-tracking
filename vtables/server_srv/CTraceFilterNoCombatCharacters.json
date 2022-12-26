@@ -1,0 +1,18 @@
+{
+	"classname": "CTraceFilterNoCombatCharacters",
+	"classname_mangled": "_ZTV30CTraceFilterNoCombatCharacters",
+	"members": [
+		{
+			"name": "CTraceFilter::GetTraceType() const",
+			"name_mangled": "_ZNK12CTraceFilter12GetTraceTypeEv"
+		},
+		{
+			"name": "CTraceFilterSimple::SetPassEntity(IHandleEntity const*)",
+			"name_mangled": "_ZN18CTraceFilterSimple13SetPassEntityEPK13IHandleEntity"
+		},
+		{
+			"name": "CTraceFilterSimple::SetCollisionGroup(int)",
+			"name_mangled": "_ZN18CTraceFilterSimple17SetCollisionGroupEi"
+		}
+	]
+}

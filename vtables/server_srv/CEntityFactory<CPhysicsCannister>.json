@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPhysicsCannister>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CPhysicsCannisterE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPhysicsCannister>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CPhysicsCannisterE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPhysicsCannister>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CPhysicsCannisterE13GetEntitySizeEv"
+		}
+	]
+}

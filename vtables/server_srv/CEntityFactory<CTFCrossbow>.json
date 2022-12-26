@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFCrossbow>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CTFCrossbowE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFCrossbow>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CTFCrossbowE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFCrossbow>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CTFCrossbowE13GetEntitySizeEv"
+		}
+	]
+}

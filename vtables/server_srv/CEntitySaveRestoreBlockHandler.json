@@ -1,0 +1,38 @@
+{
+	"classname": "CEntitySaveRestoreBlockHandler",
+	"classname_mangled": "_ZTV30CEntitySaveRestoreBlockHandler",
+	"members": [
+		{
+			"name": "CEntitySaveRestoreBlockHandler::PreSave(CSaveRestoreData*)",
+			"name_mangled": "_ZN30CEntitySaveRestoreBlockHandler7PreSaveEP16CSaveRestoreData"
+		},
+		{
+			"name": "CEntitySaveRestoreBlockHandler::Save(ISave*)",
+			"name_mangled": "_ZN30CEntitySaveRestoreBlockHandler4SaveEP5ISave"
+		},
+		{
+			"name": "CEntitySaveRestoreBlockHandler::WriteSaveHeaders(ISave*)",
+			"name_mangled": "_ZN30CEntitySaveRestoreBlockHandler16WriteSaveHeadersEP5ISave"
+		},
+		{
+			"name": "CEntitySaveRestoreBlockHandler::PostSave()",
+			"name_mangled": "_ZN30CEntitySaveRestoreBlockHandler8PostSaveEv"
+		},
+		{
+			"name": "CEntitySaveRestoreBlockHandler::PreRestore()",
+			"name_mangled": "_ZN30CEntitySaveRestoreBlockHandler10PreRestoreEv"
+		},
+		{
+			"name": "CEntitySaveRestoreBlockHandler::ReadRestoreHeaders(IRestore*)",
+			"name_mangled": "_ZN30CEntitySaveRestoreBlockHandler18ReadRestoreHeadersEP8IRestore"
+		},
+		{
+			"name": "CEntitySaveRestoreBlockHandler::Restore(IRestore*, bool)",
+			"name_mangled": "_ZN30CEntitySaveRestoreBlockHandler7RestoreEP8IRestoreb"
+		},
+		{
+			"name": "CEntitySaveRestoreBlockHandler::PostRestore()",
+			"name_mangled": "_ZN30CEntitySaveRestoreBlockHandler11PostRestoreEv"
+		}
+	]
+}

@@ -1,0 +1,294 @@
+{
+	"classname": "CSingleplayRules",
+	"classname_mangled": "_ZTV16CSingleplayRules",
+	"members": [
+		{
+			"name": "CBaseGameSystemPerFrame::Init()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame4InitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PostInit()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8PostInitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::Shutdown()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8ShutdownEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CGameRules::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN10CGameRules23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnSave()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnRestore()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::IsPerFrame()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame10IsPerFrameEv"
+		},
+		{
+			"name": "CSingleplayRules::~CSingleplayRules()",
+			"name_mangled": "_ZN16CSingleplayRulesD1Ev"
+		},
+		{
+			"name": "CSingleplayRules::~CSingleplayRules()",
+			"name_mangled": "_ZN16CSingleplayRulesD0Ev"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CGameRules::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN10CGameRules26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PreClientUpdate()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame15PreClientUpdateEv"
+		},
+		{
+			"name": "CSingleplayRules::Damage_IsTimeBased(int)",
+			"name_mangled": "_ZN16CSingleplayRules18Damage_IsTimeBasedEi"
+		},
+		{
+			"name": "CSingleplayRules::Damage_ShouldGibCorpse(int)",
+			"name_mangled": "_ZN16CSingleplayRules22Damage_ShouldGibCorpseEi"
+		},
+		{
+			"name": "CSingleplayRules::Damage_ShowOnHUD(int)",
+			"name_mangled": "_ZN16CSingleplayRules16Damage_ShowOnHUDEi"
+		},
+		{
+			"name": "CSingleplayRules::Damage_NoPhysicsForce(int)",
+			"name_mangled": "_ZN16CSingleplayRules21Damage_NoPhysicsForceEi"
+		},
+		{
+			"name": "CSingleplayRules::Damage_ShouldNotBleed(int)",
+			"name_mangled": "_ZN16CSingleplayRules21Damage_ShouldNotBleedEi"
+		},
+		{
+			"name": "CSingleplayRules::Damage_GetTimeBased()",
+			"name_mangled": "_ZN16CSingleplayRules19Damage_GetTimeBasedEv"
+		},
+		{
+			"name": "CSingleplayRules::Damage_GetShouldGibCorpse()",
+			"name_mangled": "_ZN16CSingleplayRules25Damage_GetShouldGibCorpseEv"
+		},
+		{
+			"name": "CSingleplayRules::Damage_GetShowOnHud()",
+			"name_mangled": "_ZN16CSingleplayRules19Damage_GetShowOnHudEv"
+		},
+		{
+			"name": "CSingleplayRules::Damage_GetNoPhysicsForce()",
+			"name_mangled": "_ZN16CSingleplayRules24Damage_GetNoPhysicsForceEv"
+		},
+		{
+			"name": "CSingleplayRules::Damage_GetShouldNotBleed()",
+			"name_mangled": "_ZN16CSingleplayRules24Damage_GetShouldNotBleedEv"
+		},
+		{
+			"name": "CSingleplayRules::SwitchToNextBestWeapon(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN16CSingleplayRules22SwitchToNextBestWeaponEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CSingleplayRules::GetNextBestWeapon(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN16CSingleplayRules17GetNextBestWeaponEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CGameRules::ShouldCollide(int, int)",
+			"name_mangled": "_ZN10CGameRules13ShouldCollideEii"
+		},
+		{
+			"name": "CGameRules::DefaultFOV()",
+			"name_mangled": "_ZN10CGameRules10DefaultFOVEv"
+		},
+		{
+			"name": "CGameRules::GetViewVectors() const",
+			"name_mangled": "_ZNK10CGameRules14GetViewVectorsEv"
+		},
+		{
+			"name": "CGameRules::GetAmmoDamage(CBaseEntity*, CBaseEntity*, int)",
+			"name_mangled": "_ZN10CGameRules13GetAmmoDamageEP11CBaseEntityS1_i"
+		},
+		{
+			"name": "CGameRules::GetDamageMultiplier()",
+			"name_mangled": "_ZN10CGameRules19GetDamageMultiplierEv"
+		},
+		{
+			"name": "CSingleplayRules::IsMultiplayer()",
+			"name_mangled": "_ZN16CSingleplayRules13IsMultiplayerEv"
+		},
+		{
+			"name": "CGameRules::GetEncryptionKey()",
+			"name_mangled": "_ZN10CGameRules16GetEncryptionKeyEv"
+		},
+		{
+			"name": "CGameRules::InRoundRestart()",
+			"name_mangled": "_ZN10CGameRules14InRoundRestartEv"
+		},
+		{
+			"name": "CGameRules::AllowThirdPersonCamera()",
+			"name_mangled": "_ZN10CGameRules22AllowThirdPersonCameraEv"
+		},
+		{
+			"name": "CGameRules::ClientCommandKeyValues(edict_t*, KeyValues*)",
+			"name_mangled": "_ZN10CGameRules22ClientCommandKeyValuesEP7edict_tP9KeyValues"
+		},
+		{
+			"name": "CGameRules::IsConnectedUserInfoChangeAllowed(CBasePlayer*)",
+			"name_mangled": "_ZN10CGameRules32IsConnectedUserInfoChangeAllowedEP11CBasePlayer"
+		},
+		{
+			"name": "CGameRules::Status(void (*)(char const*, ...))",
+			"name_mangled": "_ZN10CGameRules6StatusEPFvPKczE"
+		},
+		{
+			"name": "CGameRules::GetTaggedConVarList(KeyValues*)",
+			"name_mangled": "_ZN10CGameRules19GetTaggedConVarListEP9KeyValues"
+		},
+		{
+			"name": "CGameRules::CheckHaptics(CBasePlayer*)",
+			"name_mangled": "_ZN10CGameRules12CheckHapticsEP11CBasePlayer"
+		},
+		{
+			"name": "CGameRules::LevelShutdown()",
+			"name_mangled": "_ZN10CGameRules13LevelShutdownEv"
+		},
+		{
+			"name": "CGameRules::Precache()",
+			"name_mangled": "_ZN10CGameRules8PrecacheEv"
+		},
+		{
+			"name": "CGameRules::RefreshSkillData(bool)",
+			"name_mangled": "_ZN10CGameRules16RefreshSkillDataEb"
+		},
+		{
+			"name": "CSingleplayRules::Think()",
+			"name_mangled": "_ZN16CSingleplayRules5ThinkEv"
+		},
+		{
+			"name": "CSingleplayRules::IsAllowedToSpawn(CBaseEntity*)",
+			"name_mangled": "_ZN16CSingleplayRules16IsAllowedToSpawnEP11CBaseEntity"
+		},
+		{
+			"name": "CGameRules::EndGameFrame()",
+			"name_mangled": "_ZN10CGameRules12EndGameFrameEv"
+		},
+		{
+			"name": "CGameRules::IsSkillLevel(int)",
+			"name_mangled": "_ZN10CGameRules12IsSkillLevelEi"
+		},
+		{
+			"name": "CGameRules::GetSkillLevel()",
+			"name_mangled": "_ZN10CGameRules13GetSkillLevelEv"
+		},
+		{
+			"name": "CGameRules::OnSkillLevelChanged(int)",
+			"name_mangled": "_ZN10CGameRules19OnSkillLevelChangedEi"
+		},
+		{
+			"name": "CGameRules::SetSkillLevel(int)",
+			"name_mangled": "_ZN10CGameRules13SetSkillLevelEi"
+		},
+		{
+			"name": "CSingleplayRules::FAllowFlashlight()",
+			"name_mangled": "_ZN16CSingleplayRules16FAllowFlashlightEv"
+		},
+		{
+			"name": "CSingleplayRules::FShouldSwitchWeapon(CBasePlayer*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN16CSingleplayRules19FShouldSwitchWeaponEP11CBasePlayerP17CBaseCombatWeapon"
+		},
+		{
+			"name": "CSingleplayRules::IsDeathmatch()",
+			"name_mangled": "_ZN16CSingleplayRules12IsDeathmatchEv"
+		},
+		{
+			"name": "CGameRules::IsTeamplay()",
+			"name_mangled": "_ZN10CGameRules10IsTeamplayEv"
+		},
+		{
+			"name": "CSingleplayRules::IsCoOp()",
+			"name_mangled": "_ZN16CSingleplayRules6IsCoOpEv"
+		},
+		{
+			"name": "CGameRules::GetGameDescription()",
+			"name_mangled": "_ZN10CGameRules18GetGameDescriptionEv"
+		},
+		{
+			"name": "CSingleplayRules::ClientConnected(edict_t*, char const*, char const*, char*, int)",
+			"name_mangled": "_ZN16CSingleplayRules15ClientConnectedEP7edict_tPKcS3_Pci"
+		},
+		{
+			"name": "CSingleplayRules::InitHUD(CBasePlayer*)",
+			"name_mangled": "_ZN16CSingleplayRules7InitHUDEP11CBasePlayer"
+		},
+		{
+			"name": "CSingleplayRules::ClientDisconnected(edict_t*)",
+			"name_mangled": "_ZN16CSingleplayRules18ClientDisconnectedEP7edict_t"
+		},
+		{
+			"name": "CSingleplayRules::FlPlayerFallDamage(CBasePlayer*)",
+			"name_mangled": "_ZN16CSingleplayRules18FlPlayerFallDamageEP11CBasePlayer"
+		},
+		{
+			"name": "CGameRules::FPlayerCanTakeDamage(CBasePlayer*, CBaseEntity*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN10CGameRules20FPlayerCanTakeDamageEP11CBasePlayerP11CBaseEntityRK15CTakeDamageInfo"
+		},
+		{
+			"name": "CGameRules::ShouldAutoAim(CBasePlayer*, edict_t*)",
+			"name_mangled": "_ZN10CGameRules13ShouldAutoAimEP11CBasePlayerP7edict_t"
+		},
+		{
+			"name": "CGameRules::GetAutoAimScale(CBasePlayer*)",
+			"name_mangled": "_ZN10CGameRules15GetAutoAimScaleEP11CBasePlayer"
+		},
+		{
+			"name": "CSingleplayRules::GetAutoAimMode()",
+			"name_mangled": "_ZN16CSingleplayRules14GetAutoAimModeEv"
+		},
+		{
+			"name": "CGameRules::ShouldUseRobustRadiusDamage(CBaseEntity*)",
+			"name_mangled": "_ZN10CGameRules27ShouldUseRobustRadiusDamageEP11CBaseEntity"
+		},
+		{
+			"name": "CGameRules::RadiusDamage(CTakeDamageInfo const&, Vector const&, float, int, CBaseEntity*)",
+			"name_mangled": "_ZN10CGameRules12RadiusDamageERK15CTakeDamageInfoRK6VectorfiP11CBaseEntity"
+		},
+		{
+			"name": "CGameRules::FlPlayerFallDeathDoesScreenFade(CBasePlayer*)",
+			"name_mangled": "_ZN10CGameRules31FlPlayerFallDeathDoesScreenFadeEP11CBasePlayer"
+		},
+		{
+			"name": "CSingleplayRules::AllowDamage(CBaseEntity*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN16CSingleplayRules11AllowDamageEP11CBaseEntityRK15CTakeDamageInfo"
+		},
+		{
+			"name": "CSingleplayRules::PlayerSpawn(CBasePlayer*)",
+			"name_mangled": "_ZN16CSingleplayRules11PlayerSpawnEP11CBasePlayer"
+		}
+	]
+}

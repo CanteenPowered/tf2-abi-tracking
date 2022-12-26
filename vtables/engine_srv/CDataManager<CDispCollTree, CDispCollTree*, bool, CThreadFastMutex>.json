@@ -1,0 +1,30 @@
+{
+	"classname": "CDataManager<CDispCollTree, CDispCollTree*, bool, CThreadFastMutex>",
+	"classname_mangled": "_ZTV12CDataManagerI13CDispCollTreePS0_b16CThreadFastMutexE",
+	"members": [
+		{
+			"name": "CDataManager<CDispCollTree, CDispCollTree*, bool, CThreadFastMutex>::TryLock()",
+			"name_mangled": "_ZN12CDataManagerI13CDispCollTreePS0_b16CThreadFastMutexE7TryLockEv"
+		},
+		{
+			"name": "CDataManager<CDispCollTree, CDispCollTree*, bool, CThreadFastMutex>::Unlock()",
+			"name_mangled": "_ZN12CDataManagerI13CDispCollTreePS0_b16CThreadFastMutexE6UnlockEv"
+		},
+		{
+			"name": "CDataManager<CDispCollTree, CDispCollTree*, bool, CThreadFastMutex>::~CDataManager()",
+			"name_mangled": "_ZN12CDataManagerI13CDispCollTreePS0_b16CThreadFastMutexED1Ev"
+		},
+		{
+			"name": "CDataManager<CDispCollTree, CDispCollTree*, bool, CThreadFastMutex>::~CDataManager()",
+			"name_mangled": "_ZN12CDataManagerI13CDispCollTreePS0_b16CThreadFastMutexED0Ev"
+		},
+		{
+			"name": "CDataManager<CDispCollTree, CDispCollTree*, bool, CThreadFastMutex>::DestroyResourceStorage(void*)",
+			"name_mangled": "_ZN12CDataManagerI13CDispCollTreePS0_b16CThreadFastMutexE22DestroyResourceStorageEPv"
+		},
+		{
+			"name": "CDataManager<CDispCollTree, CDispCollTree*, bool, CThreadFastMutex>::GetRealSize(void*)",
+			"name_mangled": "_ZN12CDataManagerI13CDispCollTreePS0_b16CThreadFastMutexE11GetRealSizeEPv"
+		}
+	]
+}

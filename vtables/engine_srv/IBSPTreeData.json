@@ -1,0 +1,10 @@
+{
+	"classname": "IBSPTreeData",
+	"classname_mangled": "_ZTV12IBSPTreeData",
+	"members": [
+		{
+			"name": "IBSPTreeData::~IBSPTreeData()",
+			"name_mangled": "_ZN12IBSPTreeDataD0Ev"
+		}
+	]
+}

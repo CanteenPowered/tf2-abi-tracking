@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFWearableCampaignItem>",
+	"classname_mangled": "_ZTV14CEntityFactoryI23CTFWearableCampaignItemE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFWearableCampaignItem>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI23CTFWearableCampaignItemE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFWearableCampaignItem>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI23CTFWearableCampaignItemE13GetEntitySizeEv"
+		}
+	]
+}

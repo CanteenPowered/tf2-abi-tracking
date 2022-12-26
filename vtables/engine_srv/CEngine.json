@@ -1,0 +1,46 @@
+{
+	"classname": "CEngine",
+	"classname_mangled": "_ZTV7CEngine",
+	"members": [
+		{
+			"name": "CEngine::~CEngine()",
+			"name_mangled": "_ZN7CEngineD0Ev"
+		},
+		{
+			"name": "CEngine::Load(bool, char const*)",
+			"name_mangled": "_ZN7CEngine4LoadEbPKc"
+		},
+		{
+			"name": "CEngine::Unload()",
+			"name_mangled": "_ZN7CEngine6UnloadEv"
+		},
+		{
+			"name": "CEngine::SetNextState(IEngine::EngineState_t)",
+			"name_mangled": "_ZN7CEngine12SetNextStateEN7IEngine13EngineState_tE"
+		},
+		{
+			"name": "CEngine::GetState()",
+			"name_mangled": "_ZN7CEngine8GetStateEv"
+		},
+		{
+			"name": "CEngine::Frame()",
+			"name_mangled": "_ZN7CEngine5FrameEv"
+		},
+		{
+			"name": "CEngine::GetFrameTime()",
+			"name_mangled": "_ZN7CEngine12GetFrameTimeEv"
+		},
+		{
+			"name": "CEngine::GetCurTime()",
+			"name_mangled": "_ZN7CEngine10GetCurTimeEv"
+		},
+		{
+			"name": "CEngine::GetQuitting()",
+			"name_mangled": "_ZN7CEngine11GetQuittingEv"
+		},
+		{
+			"name": "CEngine::SetQuitting(int)",
+			"name_mangled": "_ZN7CEngine11SetQuittingEi"
+		}
+	]
+}

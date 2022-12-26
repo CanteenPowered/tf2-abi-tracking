@@ -1,0 +1,22 @@
+{
+	"classname": "CBaseAppSystem<IScriptManager>",
+	"classname_mangled": "_ZTV14CBaseAppSystemI14IScriptManagerE",
+	"members": [
+		{
+			"name": "CBaseAppSystem<IScriptManager>::Disconnect()",
+			"name_mangled": "_ZN14CBaseAppSystemI14IScriptManagerE10DisconnectEv"
+		},
+		{
+			"name": "CBaseAppSystem<IScriptManager>::QueryInterface(char const*)",
+			"name_mangled": "_ZN14CBaseAppSystemI14IScriptManagerE14QueryInterfaceEPKc"
+		},
+		{
+			"name": "CBaseAppSystem<IScriptManager>::Init()",
+			"name_mangled": "_ZN14CBaseAppSystemI14IScriptManagerE4InitEv"
+		},
+		{
+			"name": "CBaseAppSystem<IScriptManager>::Shutdown()",
+			"name_mangled": "_ZN14CBaseAppSystemI14IScriptManagerE8ShutdownEv"
+		}
+	]
+}

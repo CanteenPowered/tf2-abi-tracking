@@ -1,0 +1,82 @@
+{
+	"classname": "CGCMsg_WorldItemPlacement_Update",
+	"classname_mangled": "_ZTV32CGCMsg_WorldItemPlacement_Update",
+	"members": [
+		{
+			"name": "CGCMsg_WorldItemPlacement_Update::~CGCMsg_WorldItemPlacement_Update()",
+			"name_mangled": "_ZN32CGCMsg_WorldItemPlacement_UpdateD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CGCMsg_WorldItemPlacement_Update::New() const",
+			"name_mangled": "_ZNK32CGCMsg_WorldItemPlacement_Update3NewEv"
+		},
+		{
+			"name": "CGCMsg_WorldItemPlacement_Update::Clear()",
+			"name_mangled": "_ZN32CGCMsg_WorldItemPlacement_Update5ClearEv"
+		},
+		{
+			"name": "CGCMsg_WorldItemPlacement_Update::IsInitialized() const",
+			"name_mangled": "_ZNK32CGCMsg_WorldItemPlacement_Update13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CGCMsg_WorldItemPlacement_Update::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN32CGCMsg_WorldItemPlacement_Update27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CGCMsg_WorldItemPlacement_Update::ByteSize() const",
+			"name_mangled": "_ZNK32CGCMsg_WorldItemPlacement_Update8ByteSizeEv"
+		},
+		{
+			"name": "CGCMsg_WorldItemPlacement_Update::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK32CGCMsg_WorldItemPlacement_Update24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CGCMsg_WorldItemPlacement_Update::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK32CGCMsg_WorldItemPlacement_Update31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CGCMsg_WorldItemPlacement_Update::GetCachedSize() const",
+			"name_mangled": "_ZNK32CGCMsg_WorldItemPlacement_Update13GetCachedSizeEv"
+		},
+		{
+			"name": "CGCMsg_WorldItemPlacement_Update::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN32CGCMsg_WorldItemPlacement_Update8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CGCMsg_WorldItemPlacement_Update::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN32CGCMsg_WorldItemPlacement_Update9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CGCMsg_WorldItemPlacement_Update::SetCachedSize(int) const",
+			"name_mangled": "_ZNK32CGCMsg_WorldItemPlacement_Update13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CGCMsg_WorldItemPlacement_Update::GetMetadata() const",
+			"name_mangled": "_ZNK32CGCMsg_WorldItemPlacement_Update11GetMetadataEv"
+		}
+	]
+}

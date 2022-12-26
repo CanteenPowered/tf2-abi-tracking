@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFRaygun>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9CTFRaygunE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFRaygun>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9CTFRaygunE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFRaygun>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9CTFRaygunE13GetEntitySizeEv"
+		}
+	]
+}

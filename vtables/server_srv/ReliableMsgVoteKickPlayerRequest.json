@@ -1,0 +1,38 @@
+{
+	"classname": "ReliableMsgVoteKickPlayerRequest",
+	"classname_mangled": "_ZTV32ReliableMsgVoteKickPlayerRequest",
+	"members": [
+		{
+			"name": "ReliableMsgVoteKickPlayerRequest::~ReliableMsgVoteKickPlayerRequest()",
+			"name_mangled": "_ZN32ReliableMsgVoteKickPlayerRequestD0Ev"
+		},
+		{
+			"name": "CJobReliableMessageBase<ReliableMsgVoteKickPlayerRequest, CMsgGC_TFVoteKickPlayerRequest, (ETFGCMsg)6513, CMsgGC_VoteKickPlayerRequestResponse, (ETFGCMsg)6514>::BYieldingRunJob(void*)",
+			"name_mangled": "_ZN23CJobReliableMessageBaseI32ReliableMsgVoteKickPlayerRequest30CMsgGC_TFVoteKickPlayerRequestL8ETFGCMsg6513E36CMsgGC_VoteKickPlayerRequestResponseLS2_6514EE15BYieldingRunJobEPv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob22BYieldingRunJobFromMsgEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob24CHeartbeatsBeforeTimeoutEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::GetServerType()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob13GetServerTypeEv"
+		},
+		{
+			"name": "CJobReliableMessageBase<ReliableMsgVoteKickPlayerRequest, CMsgGC_TFVoteKickPlayerRequest, (ETFGCMsg)6513, CMsgGC_VoteKickPlayerRequestResponse, (ETFGCMsg)6514>::Finalize()",
+			"name_mangled": "_ZN23CJobReliableMessageBaseI32ReliableMsgVoteKickPlayerRequest30CMsgGC_TFVoteKickPlayerRequestL8ETFGCMsg6513E36CMsgGC_VoteKickPlayerRequestResponseLS2_6514EE8FinalizeEv"
+		}
+	]
+}

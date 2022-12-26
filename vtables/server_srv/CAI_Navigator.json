@@ -1,0 +1,130 @@
+{
+	"classname": "CAI_Navigator",
+	"classname_mangled": "_ZTV13CAI_Navigator",
+	"members": [
+		{
+			"name": "CAI_Navigator::~CAI_Navigator()",
+			"name_mangled": "_ZN13CAI_NavigatorD0Ev"
+		},
+		{
+			"name": "CAI_Component::SetOuter(CAI_BaseNPC*)",
+			"name_mangled": "_ZN13CAI_Component8SetOuterEP11CAI_BaseNPC"
+		},
+		{
+			"name": "CAI_Component::TaskFail(int)",
+			"name_mangled": "_ZN13CAI_Component8TaskFailEi"
+		},
+		{
+			"name": "CAI_Component::TaskComplete(bool)",
+			"name_mangled": "_ZN13CAI_Component12TaskCompleteEb"
+		},
+		{
+			"name": "CAI_Navigator::Init(CAI_Network*)",
+			"name_mangled": "_ZN13CAI_Navigator4InitEP11CAI_Network"
+		},
+		{
+			"name": "CAI_Navigator::SetGoal(AI_NavGoal_t const&, unsigned int)",
+			"name_mangled": "_ZN13CAI_Navigator7SetGoalERK12AI_NavGoal_tj"
+		},
+		{
+			"name": "CAI_Navigator::SetGoalTarget(CBaseEntity*, Vector const&)",
+			"name_mangled": "_ZN13CAI_Navigator13SetGoalTargetEP11CBaseEntityRK6Vector"
+		},
+		{
+			"name": "CAI_Navigator::SimplifyPath(bool, float)",
+			"name_mangled": "_ZN13CAI_Navigator12SimplifyPathEbf"
+		},
+		{
+			"name": "CAI_Navigator::CalcYawSpeed()",
+			"name_mangled": "_ZN13CAI_Navigator12CalcYawSpeedEv"
+		},
+		{
+			"name": "CAI_Navigator::OnScheduleChange()",
+			"name_mangled": "_ZN13CAI_Navigator16OnScheduleChangeEv"
+		},
+		{
+			"name": "CAI_Navigator::Move(float)",
+			"name_mangled": "_ZN13CAI_Navigator4MoveEf"
+		},
+		{
+			"name": "CAI_Navigator::OnClearPath()",
+			"name_mangled": "_ZN13CAI_Navigator11OnClearPathEv"
+		},
+		{
+			"name": "CAI_Navigator::OnNewGoal()",
+			"name_mangled": "_ZN13CAI_Navigator9OnNewGoalEv"
+		},
+		{
+			"name": "CAI_Navigator::OnNavComplete()",
+			"name_mangled": "_ZN13CAI_Navigator13OnNavCompleteEv"
+		},
+		{
+			"name": "CAI_Navigator::MoveNormal()",
+			"name_mangled": "_ZN13CAI_Navigator10MoveNormalEv"
+		},
+		{
+			"name": "CAI_Navigator::MoveClimb()",
+			"name_mangled": "_ZN13CAI_Navigator9MoveClimbEv"
+		},
+		{
+			"name": "CAI_Navigator::MoveJump()",
+			"name_mangled": "_ZN13CAI_Navigator8MoveJumpEv"
+		},
+		{
+			"name": "CAI_Navigator::MoveEnact(AILocalMoveGoal_t const&)",
+			"name_mangled": "_ZN13CAI_Navigator9MoveEnactERK17AILocalMoveGoal_t"
+		},
+		{
+			"name": "CAI_Navigator::MoveCalcBaseGoal(AILocalMoveGoal_t*)",
+			"name_mangled": "_ZN13CAI_Navigator16MoveCalcBaseGoalEP17AILocalMoveGoal_t"
+		},
+		{
+			"name": "CAI_Navigator::OnCalcBaseMove(AILocalMoveGoal_t*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN13CAI_Navigator14OnCalcBaseMoveEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_Navigator::OnObstructionPreSteer(AILocalMoveGoal_t*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN13CAI_Navigator21OnObstructionPreSteerEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_Navigator::OnFailedSteer(AILocalMoveGoal_t*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN13CAI_Navigator13OnFailedSteerEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_Navigator::OnFailedLocalNavigation(AILocalMoveGoal_t*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN13CAI_Navigator23OnFailedLocalNavigationEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_Navigator::OnInsufficientStopDist(AILocalMoveGoal_t*, float, AIMoveResult_t*)",
+			"name_mangled": "_ZN13CAI_Navigator22OnInsufficientStopDistEP17AILocalMoveGoal_tfP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_Navigator::OnMoveStalled(AILocalMoveGoal_t const&)",
+			"name_mangled": "_ZN13CAI_Navigator13OnMoveStalledERK17AILocalMoveGoal_t"
+		},
+		{
+			"name": "CAI_Navigator::OnMoveExecuteFailed(AILocalMoveGoal_t const&, AIMoveTrace_t const&, AIMotorMoveResult_t, AIMoveResult_t*)",
+			"name_mangled": "_ZN13CAI_Navigator19OnMoveExecuteFailedERK17AILocalMoveGoal_tRK13AIMoveTrace_t19AIMotorMoveResult_tP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_Navigator::OnMoveBlocked(AIMoveResult_t*)",
+			"name_mangled": "_ZN13CAI_Navigator13OnMoveBlockedEP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_Navigator::MoveUpdateWaypoint(AIMoveResult_t*)",
+			"name_mangled": "_ZN13CAI_Navigator18MoveUpdateWaypointEP14AIMoveResult_t"
+		},
+		{
+			"name": "CAI_Navigator::DoFindPathToPos()",
+			"name_mangled": "_ZN13CAI_Navigator15DoFindPathToPosEv"
+		},
+		{
+			"name": "CAI_Navigator::ShouldOptimizeInitialPathSegment(AI_Waypoint_t*)",
+			"name_mangled": "_ZN13CAI_Navigator32ShouldOptimizeInitialPathSegmentEP13AI_Waypoint_t"
+		},
+		{
+			"name": "CAI_Navigator::GetStoppingPath(CAI_WaypointList*)",
+			"name_mangled": "_ZN13CAI_Navigator15GetStoppingPathEP16CAI_WaypointList"
+		}
+	]
+}

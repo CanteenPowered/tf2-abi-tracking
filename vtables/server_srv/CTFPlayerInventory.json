@@ -1,0 +1,102 @@
+{
+	"classname": "CTFPlayerInventory",
+	"classname_mangled": "_ZTV18CTFPlayerInventory",
+	"members": [
+		{
+			"name": "CPlayerInventory::PreSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN16CPlayerInventory11PreSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CTFPlayerInventory::SOUpdated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN18CTFPlayerInventory9SOUpdatedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CPlayerInventory::PostSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN16CPlayerInventory12PostSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CPlayerInventory::SODestroyed(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN16CPlayerInventory11SODestroyedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CPlayerInventory::SOCacheSubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN16CPlayerInventory17SOCacheSubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CPlayerInventory::SOCacheUnsubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN16CPlayerInventory19SOCacheUnsubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CTFPlayerInventory::~CTFPlayerInventory()",
+			"name_mangled": "_ZN18CTFPlayerInventoryD1Ev"
+		},
+		{
+			"name": "CTFPlayerInventory::~CTFPlayerInventory()",
+			"name_mangled": "_ZN18CTFPlayerInventoryD0Ev"
+		},
+		{
+			"name": "CTFPlayerInventory::CanPurchaseItems(int) const",
+			"name_mangled": "_ZNK18CTFPlayerInventory16CanPurchaseItemsEi"
+		},
+		{
+			"name": "CTFPlayerInventory::GetMaxItemCount() const",
+			"name_mangled": "_ZNK18CTFPlayerInventory15GetMaxItemCountEv"
+		},
+		{
+			"name": "CTFPlayerInventory::GetItemInLoadout(int, int)",
+			"name_mangled": "_ZN18CTFPlayerInventory16GetItemInLoadoutEii"
+		},
+		{
+			"name": "CPlayerInventory::ItemShouldBeIncluded(int)",
+			"name_mangled": "_ZN16CPlayerInventory20ItemShouldBeIncludedEi"
+		},
+		{
+			"name": "CTFPlayerInventory::DumpInventoryToConsole(bool)",
+			"name_mangled": "_ZN18CTFPlayerInventory22DumpInventoryToConsoleEb"
+		},
+		{
+			"name": "CTFPlayerInventory::ExtractInventorySortPosition(unsigned int)",
+			"name_mangled": "_ZN18CTFPlayerInventory28ExtractInventorySortPositionEj"
+		},
+		{
+			"name": "CTFPlayerInventory::GetPreviewItemDef() const",
+			"name_mangled": "_ZNK18CTFPlayerInventory17GetPreviewItemDefEv"
+		},
+		{
+			"name": "CPlayerInventory::SOClear()",
+			"name_mangled": "_ZN16CPlayerInventory7SOClearEv"
+		},
+		{
+			"name": "CTFPlayerInventory::NotifyHasNewItems()",
+			"name_mangled": "_ZN18CTFPlayerInventory17NotifyHasNewItemsEv"
+		},
+		{
+			"name": "CPlayerInventory::AddEconItem(CEconItem*, bool, bool, bool)",
+			"name_mangled": "_ZN16CPlayerInventory11AddEconItemEP9CEconItembbb"
+		},
+		{
+			"name": "CPlayerInventory::RemoveItem(unsigned long long)",
+			"name_mangled": "_ZN16CPlayerInventory10RemoveItemEy"
+		},
+		{
+			"name": "CTFPlayerInventory::OnHasNewItems()",
+			"name_mangled": "_ZN18CTFPlayerInventory13OnHasNewItemsEv"
+		},
+		{
+			"name": "CPlayerInventory::OnItemChangedPosition(CEconItemView*, unsigned int)",
+			"name_mangled": "_ZN16CPlayerInventory21OnItemChangedPositionEP13CEconItemViewj"
+		},
+		{
+			"name": "CTFPlayerInventory::ValidateInventoryPositions()",
+			"name_mangled": "_ZN18CTFPlayerInventory26ValidateInventoryPositionsEv"
+		},
+		{
+			"name": "CTFPlayerInventory::ItemHasBeenUpdated(CEconItemView*, bool, bool)",
+			"name_mangled": "_ZN18CTFPlayerInventory18ItemHasBeenUpdatedEP13CEconItemViewbb"
+		},
+		{
+			"name": "CTFPlayerInventory::ItemIsBeingRemoved(CEconItemView*)",
+			"name_mangled": "_ZN18CTFPlayerInventory18ItemIsBeingRemovedEP13CEconItemView"
+		}
+	]
+}

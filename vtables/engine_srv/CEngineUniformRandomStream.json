@@ -1,0 +1,18 @@
+{
+	"classname": "CEngineUniformRandomStream",
+	"classname_mangled": "_ZTV26CEngineUniformRandomStream",
+	"members": [
+		{
+			"name": "CEngineUniformRandomStream::RandomFloat(float, float)",
+			"name_mangled": "_ZN26CEngineUniformRandomStream11RandomFloatEff"
+		},
+		{
+			"name": "CEngineUniformRandomStream::RandomInt(int, int)",
+			"name_mangled": "_ZN26CEngineUniformRandomStream9RandomIntEii"
+		},
+		{
+			"name": "CEngineUniformRandomStream::RandomFloatExp(float, float, float)",
+			"name_mangled": "_ZN26CEngineUniformRandomStream14RandomFloatExpEfff"
+		}
+	]
+}

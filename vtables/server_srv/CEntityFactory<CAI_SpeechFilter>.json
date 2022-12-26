@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAI_SpeechFilter>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CAI_SpeechFilterE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAI_SpeechFilter>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CAI_SpeechFilterE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAI_SpeechFilter>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CAI_SpeechFilterE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"classname": "CEconTool_ItemDynamicRecipe::CRecipeComponentInputDefIndexIterator",
+	"classname_mangled": "_ZTVN27CEconTool_ItemDynamicRecipe37CRecipeComponentInputDefIndexIteratorE",
+	"members": [
+		{
+			"name": "CEconTool_ItemDynamicRecipe::CRecipeComponentInputDefIndexIterator::~CRecipeComponentInputDefIndexIterator()",
+			"name_mangled": "_ZN27CEconTool_ItemDynamicRecipe37CRecipeComponentInputDefIndexIteratorD0Ev"
+		},
+		{
+			"name": "CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned int)",
+			"name_mangled": "_ZN34CEconItemSpecificAttributeIterator23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionj"
+		},
+		{
+			"name": "CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, float)",
+			"name_mangled": "_ZN34CEconItemSpecificAttributeIterator23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionf"
+		},
+		{
+			"name": "CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned long long const&)",
+			"name_mangled": "_ZN34CEconItemSpecificAttributeIterator23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRKy"
+		},
+		{
+			"name": "CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_String const&)",
+			"name_mangled": "_ZN34CEconItemSpecificAttributeIterator23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK17CAttribute_String"
+		},
+		{
+			"name": "CEconTool_ItemDynamicRecipe::CRecipeComponentInputDefIndexIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_DynamicRecipeComponent const&)",
+			"name_mangled": "_ZN27CEconTool_ItemDynamicRecipe37CRecipeComponentInputDefIndexIterator23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK33CAttribute_DynamicRecipeComponent"
+		},
+		{
+			"name": "CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_ItemSlotCriteria const&)",
+			"name_mangled": "_ZN34CEconItemSpecificAttributeIterator23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK27CAttribute_ItemSlotCriteria"
+		},
+		{
+			"name": "CEconItemSpecificAttributeIterator::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_WorldItemPlacement const&)",
+			"name_mangled": "_ZN34CEconItemSpecificAttributeIterator23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK29CAttribute_WorldItemPlacement"
+		}
+	]
+}

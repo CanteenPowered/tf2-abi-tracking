@@ -1,0 +1,10 @@
+{
+	"classname": "CPlayerLocalData::NetworkVar_m_audio",
+	"classname_mangled": "_ZTVN16CPlayerLocalData18NetworkVar_m_audioE",
+	"members": [
+		{
+			"name": "CPlayerLocalData::NetworkVar_m_audio::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN16CPlayerLocalData18NetworkVar_m_audio19NetworkStateChangedEPv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPasstimeGun>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CPasstimeGunE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPasstimeGun>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CPasstimeGunE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPasstimeGun>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CPasstimeGunE13GetEntitySizeEv"
+		}
+	]
+}

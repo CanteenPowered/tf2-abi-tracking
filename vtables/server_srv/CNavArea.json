@@ -1,0 +1,150 @@
+{
+	"classname": "CNavArea",
+	"classname_mangled": "_ZTV8CNavArea",
+	"members": [
+		{
+			"name": "CNavArea::~CNavArea()",
+			"name_mangled": "_ZN8CNavAreaD0Ev"
+		},
+		{
+			"name": "CNavArea::OnServerActivate()",
+			"name_mangled": "_ZN8CNavArea16OnServerActivateEv"
+		},
+		{
+			"name": "CNavArea::OnRoundRestart()",
+			"name_mangled": "_ZN8CNavArea14OnRoundRestartEv"
+		},
+		{
+			"name": "CNavArea::OnRoundRestartPreEntity()",
+			"name_mangled": "_ZN8CNavArea23OnRoundRestartPreEntityEv"
+		},
+		{
+			"name": "CNavArea::OnEnter(CBaseCombatCharacter*, CNavArea*)",
+			"name_mangled": "_ZN8CNavArea7OnEnterEP20CBaseCombatCharacterPS_"
+		},
+		{
+			"name": "CNavArea::OnExit(CBaseCombatCharacter*, CNavArea*)",
+			"name_mangled": "_ZN8CNavArea6OnExitEP20CBaseCombatCharacterPS_"
+		},
+		{
+			"name": "CNavArea::OnDestroyNotify(CNavArea*)",
+			"name_mangled": "_ZN8CNavArea15OnDestroyNotifyEPS_"
+		},
+		{
+			"name": "CNavArea::OnDestroyNotify(CNavLadder*)",
+			"name_mangled": "_ZN8CNavArea15OnDestroyNotifyEP10CNavLadder"
+		},
+		{
+			"name": "CNavArea::OnEditCreateNotify(CNavArea*)",
+			"name_mangled": "_ZN8CNavArea18OnEditCreateNotifyEPS_"
+		},
+		{
+			"name": "CNavArea::OnEditDestroyNotify(CNavArea*)",
+			"name_mangled": "_ZN8CNavArea19OnEditDestroyNotifyEPS_"
+		},
+		{
+			"name": "CNavArea::OnEditDestroyNotify(CNavLadder*)",
+			"name_mangled": "_ZN8CNavArea19OnEditDestroyNotifyEP10CNavLadder"
+		},
+		{
+			"name": "CNavArea::Save(CUtlBuffer&, unsigned int) const",
+			"name_mangled": "_ZNK8CNavArea4SaveER10CUtlBufferj"
+		},
+		{
+			"name": "CNavArea::Load(CUtlBuffer&, unsigned int, unsigned int)",
+			"name_mangled": "_ZN8CNavArea4LoadER10CUtlBufferjj"
+		},
+		{
+			"name": "CNavArea::PostLoad()",
+			"name_mangled": "_ZN8CNavArea8PostLoadEv"
+		},
+		{
+			"name": "CNavArea::SaveToSelectedSet(KeyValues*) const",
+			"name_mangled": "_ZNK8CNavArea17SaveToSelectedSetEP9KeyValues"
+		},
+		{
+			"name": "CNavArea::RestoreFromSelectedSet(KeyValues*)",
+			"name_mangled": "_ZN8CNavArea22RestoreFromSelectedSetEP9KeyValues"
+		},
+		{
+			"name": "CNavArea::UpdateBlocked(bool, int)",
+			"name_mangled": "_ZN8CNavArea13UpdateBlockedEbi"
+		},
+		{
+			"name": "CNavArea::IsBlocked(int, bool) const",
+			"name_mangled": "_ZNK8CNavArea9IsBlockedEib"
+		},
+		{
+			"name": "CNavArea::GetDangerDecayRate() const",
+			"name_mangled": "_ZNK8CNavArea18GetDangerDecayRateEv"
+		},
+		{
+			"name": "CNavArea::Draw() const",
+			"name_mangled": "_ZNK8CNavArea4DrawEv"
+		},
+		{
+			"name": "CNavArea::DrawFilled(int, int, int, int, float, bool, float) const",
+			"name_mangled": "_ZNK8CNavArea10DrawFilledEiiiifbf"
+		},
+		{
+			"name": "CNavArea::DrawSelectedSet(Vector const&) const",
+			"name_mangled": "_ZNK8CNavArea15DrawSelectedSetERK6Vector"
+		},
+		{
+			"name": "CNavArea::ComputeHidingSpots()",
+			"name_mangled": "_ZN8CNavArea18ComputeHidingSpotsEv"
+		},
+		{
+			"name": "CNavArea::ComputeSniperSpots()",
+			"name_mangled": "_ZN8CNavArea18ComputeSniperSpotsEv"
+		},
+		{
+			"name": "CNavArea::ComputeSpotEncounters()",
+			"name_mangled": "_ZN8CNavArea21ComputeSpotEncountersEv"
+		},
+		{
+			"name": "CNavArea::ComputeEarliestOccupyTimes()",
+			"name_mangled": "_ZN8CNavArea26ComputeEarliestOccupyTimesEv"
+		},
+		{
+			"name": "CNavArea::CustomAnalysis(bool)",
+			"name_mangled": "_ZN8CNavArea14CustomAnalysisEb"
+		},
+		{
+			"name": "CNavArea::ComputeLighting()",
+			"name_mangled": "_ZN8CNavArea15ComputeLightingEv"
+		},
+		{
+			"name": "CNavArea::IsAbleToMergeWith(CNavArea*) const",
+			"name_mangled": "_ZNK8CNavArea17IsAbleToMergeWithEPS_"
+		},
+		{
+			"name": "CNavArea::InheritAttributes(CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN8CNavArea17InheritAttributesEPS_S0_"
+		},
+		{
+			"name": "CNavArea::IsEntirelyVisible(Vector const&, CBaseEntity const*) const",
+			"name_mangled": "_ZNK8CNavArea17IsEntirelyVisibleERK6VectorPK11CBaseEntity"
+		},
+		{
+			"name": "CNavArea::IsPartiallyVisible(Vector const&, CBaseEntity const*) const",
+			"name_mangled": "_ZNK8CNavArea18IsPartiallyVisibleERK6VectorPK11CBaseEntity"
+		},
+		{
+			"name": "CNavArea::IsPotentiallyVisible(CNavArea const*) const",
+			"name_mangled": "_ZNK8CNavArea20IsPotentiallyVisibleEPKS_"
+		},
+		{
+			"name": "CNavArea::IsPotentiallyVisibleToTeam(int) const",
+			"name_mangled": "_ZNK8CNavArea26IsPotentiallyVisibleToTeamEi"
+		},
+		{
+			"name": "CNavArea::IsCompletelyVisible(CNavArea const*) const",
+			"name_mangled": "_ZNK8CNavArea19IsCompletelyVisibleEPKS_"
+		},
+		{
+			"name": "CNavArea::IsCompletelyVisibleToTeam(int) const",
+			"name_mangled": "_ZNK8CNavArea25IsCompletelyVisibleToTeamEi"
+		}
+	]
+}

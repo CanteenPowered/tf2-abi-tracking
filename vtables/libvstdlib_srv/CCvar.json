@@ -1,0 +1,142 @@
+{
+	"classname": "CCvar",
+	"classname_mangled": "_ZTV5CCvar",
+	"members": [
+		{
+			"name": "CCvar::Disconnect()",
+			"name_mangled": "_ZN5CCvar10DisconnectEv"
+		},
+		{
+			"name": "CCvar::QueryInterface(char const*)",
+			"name_mangled": "_ZN5CCvar14QueryInterfaceEPKc"
+		},
+		{
+			"name": "CCvar::Init()",
+			"name_mangled": "_ZN5CCvar4InitEv"
+		},
+		{
+			"name": "CCvar::Shutdown()",
+			"name_mangled": "_ZN5CCvar8ShutdownEv"
+		},
+		{
+			"name": "CCvar::AllocateDLLIdentifier()",
+			"name_mangled": "_ZN5CCvar21AllocateDLLIdentifierEv"
+		},
+		{
+			"name": "CCvar::RegisterConCommand(ConCommandBase*)",
+			"name_mangled": "_ZN5CCvar18RegisterConCommandEP14ConCommandBase"
+		},
+		{
+			"name": "CCvar::UnregisterConCommand(ConCommandBase*)",
+			"name_mangled": "_ZN5CCvar20UnregisterConCommandEP14ConCommandBase"
+		},
+		{
+			"name": "CCvar::UnregisterConCommands(int)",
+			"name_mangled": "_ZN5CCvar21UnregisterConCommandsEi"
+		},
+		{
+			"name": "CCvar::GetCommandLineValue(char const*)",
+			"name_mangled": "_ZN5CCvar19GetCommandLineValueEPKc"
+		},
+		{
+			"name": "CCvar::FindCommandBase(char const*)",
+			"name_mangled": "_ZN5CCvar15FindCommandBaseEPKc"
+		},
+		{
+			"name": "CCvar::FindCommandBase(char const*) const",
+			"name_mangled": "_ZNK5CCvar15FindCommandBaseEPKc"
+		},
+		{
+			"name": "CCvar::FindVar(char const*)",
+			"name_mangled": "_ZN5CCvar7FindVarEPKc"
+		},
+		{
+			"name": "CCvar::FindVar(char const*) const",
+			"name_mangled": "_ZNK5CCvar7FindVarEPKc"
+		},
+		{
+			"name": "CCvar::FindCommand(char const*)",
+			"name_mangled": "_ZN5CCvar11FindCommandEPKc"
+		},
+		{
+			"name": "CCvar::FindCommand(char const*) const",
+			"name_mangled": "_ZNK5CCvar11FindCommandEPKc"
+		},
+		{
+			"name": "CCvar::GetCommands()",
+			"name_mangled": "_ZN5CCvar11GetCommandsEv"
+		},
+		{
+			"name": "CCvar::GetCommands() const",
+			"name_mangled": "_ZNK5CCvar11GetCommandsEv"
+		},
+		{
+			"name": "CCvar::InstallGlobalChangeCallback(void (*)(IConVar*, char const*, float))",
+			"name_mangled": "_ZN5CCvar27InstallGlobalChangeCallbackEPFvP7IConVarPKcfE"
+		},
+		{
+			"name": "CCvar::RemoveGlobalChangeCallback(void (*)(IConVar*, char const*, float))",
+			"name_mangled": "_ZN5CCvar26RemoveGlobalChangeCallbackEPFvP7IConVarPKcfE"
+		},
+		{
+			"name": "CCvar::CallGlobalChangeCallbacks(ConVar*, char const*, float)",
+			"name_mangled": "_ZN5CCvar25CallGlobalChangeCallbacksEP6ConVarPKcf"
+		},
+		{
+			"name": "CCvar::InstallConsoleDisplayFunc(IConsoleDisplayFunc*)",
+			"name_mangled": "_ZN5CCvar25InstallConsoleDisplayFuncEP19IConsoleDisplayFunc"
+		},
+		{
+			"name": "CCvar::RemoveConsoleDisplayFunc(IConsoleDisplayFunc*)",
+			"name_mangled": "_ZN5CCvar24RemoveConsoleDisplayFuncEP19IConsoleDisplayFunc"
+		},
+		{
+			"name": "CCvar::ConsoleColorPrintf(Color const&, char const*, ...) const",
+			"name_mangled": "_ZNK5CCvar18ConsoleColorPrintfERK5ColorPKcz"
+		},
+		{
+			"name": "CCvar::ConsolePrintf(char const*, ...) const",
+			"name_mangled": "_ZNK5CCvar13ConsolePrintfEPKcz"
+		},
+		{
+			"name": "CCvar::ConsoleDPrintf(char const*, ...) const",
+			"name_mangled": "_ZNK5CCvar14ConsoleDPrintfEPKcz"
+		},
+		{
+			"name": "CCvar::RevertFlaggedConVars(int)",
+			"name_mangled": "_ZN5CCvar20RevertFlaggedConVarsEi"
+		},
+		{
+			"name": "CCvar::InstallCVarQuery(ICvarQuery*)",
+			"name_mangled": "_ZN5CCvar16InstallCVarQueryEP10ICvarQuery"
+		},
+		{
+			"name": "CCvar::IsMaterialThreadSetAllowed() const",
+			"name_mangled": "_ZNK5CCvar26IsMaterialThreadSetAllowedEv"
+		},
+		{
+			"name": "CCvar::QueueMaterialThreadSetValue(ConVar*, char const*)",
+			"name_mangled": "_ZN5CCvar27QueueMaterialThreadSetValueEP6ConVarPKc"
+		},
+		{
+			"name": "CCvar::QueueMaterialThreadSetValue(ConVar*, int)",
+			"name_mangled": "_ZN5CCvar27QueueMaterialThreadSetValueEP6ConVari"
+		},
+		{
+			"name": "CCvar::QueueMaterialThreadSetValue(ConVar*, float)",
+			"name_mangled": "_ZN5CCvar27QueueMaterialThreadSetValueEP6ConVarf"
+		},
+		{
+			"name": "CCvar::HasQueuedMaterialThreadConVarSets() const",
+			"name_mangled": "_ZNK5CCvar33HasQueuedMaterialThreadConVarSetsEv"
+		},
+		{
+			"name": "CCvar::ProcessQueuedMaterialThreadConVarSets()",
+			"name_mangled": "_ZN5CCvar37ProcessQueuedMaterialThreadConVarSetsEv"
+		},
+		{
+			"name": "CCvar::FactoryInternalIterator()",
+			"name_mangled": "_ZN5CCvar23FactoryInternalIteratorEv"
+		}
+	]
+}

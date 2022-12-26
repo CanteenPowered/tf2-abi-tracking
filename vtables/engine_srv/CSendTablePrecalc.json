@@ -1,0 +1,10 @@
+{
+	"classname": "CSendTablePrecalc",
+	"classname_mangled": "_ZTV17CSendTablePrecalc",
+	"members": [
+		{
+			"name": "CSendTablePrecalc::~CSendTablePrecalc()",
+			"name_mangled": "_ZN17CSendTablePrecalcD0Ev"
+		}
+	]
+}

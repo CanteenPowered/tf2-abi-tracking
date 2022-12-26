@@ -1,0 +1,10 @@
+{
+	"classname": "CBreakParser",
+	"classname_mangled": "_ZTV12CBreakParser",
+	"members": [
+		{
+			"name": "CBreakParser::SetDefaults(void*)",
+			"name_mangled": "_ZN12CBreakParser11SetDefaultsEPv"
+		}
+	]
+}

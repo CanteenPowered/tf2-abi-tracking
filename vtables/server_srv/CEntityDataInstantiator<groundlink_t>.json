@@ -1,0 +1,22 @@
+{
+	"classname": "CEntityDataInstantiator<groundlink_t>",
+	"classname_mangled": "_ZTV23CEntityDataInstantiatorI12groundlink_tE",
+	"members": [
+		{
+			"name": "CEntityDataInstantiator<groundlink_t>::~CEntityDataInstantiator()",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI12groundlink_tED0Ev"
+		},
+		{
+			"name": "CEntityDataInstantiator<groundlink_t>::GetDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI12groundlink_tE13GetDataObjectEPK11CBaseEntity"
+		},
+		{
+			"name": "CEntityDataInstantiator<groundlink_t>::CreateDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI12groundlink_tE16CreateDataObjectEPK11CBaseEntity"
+		},
+		{
+			"name": "CEntityDataInstantiator<groundlink_t>::DestroyDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI12groundlink_tE17DestroyDataObjectEPK11CBaseEntity"
+		}
+	]
+}

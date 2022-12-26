@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFilterTFCanCap>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CFilterTFCanCapE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFilterTFCanCap>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CFilterTFCanCapE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFilterTFCanCap>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CFilterTFCanCapE13GetEntitySizeEv"
+		}
+	]
+}

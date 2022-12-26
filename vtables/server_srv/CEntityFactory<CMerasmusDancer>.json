@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CMerasmusDancer>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CMerasmusDancerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CMerasmusDancer>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CMerasmusDancerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CMerasmusDancer>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CMerasmusDancerE13GetEntitySizeEv"
+		}
+	]
+}

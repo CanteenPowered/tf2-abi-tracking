@@ -1,0 +1,22 @@
+{
+	"classname": "CWeaponLOSFilter",
+	"classname_mangled": "_ZTV16CWeaponLOSFilter",
+	"members": [
+		{
+			"name": "CTraceFilter::GetTraceType() const",
+			"name_mangled": "_ZNK12CTraceFilter12GetTraceTypeEv"
+		},
+		{
+			"name": "CTraceFilterSimple::SetPassEntity(IHandleEntity const*)",
+			"name_mangled": "_ZN18CTraceFilterSimple13SetPassEntityEPK13IHandleEntity"
+		},
+		{
+			"name": "CTraceFilterSimple::SetCollisionGroup(int)",
+			"name_mangled": "_ZN18CTraceFilterSimple17SetCollisionGroupEi"
+		},
+		{
+			"name": "CTraceFilterSkipTwoEntities::SetPassEntity2(IHandleEntity const*)",
+			"name_mangled": "_ZN27CTraceFilterSkipTwoEntities14SetPassEntity2EPK13IHandleEntity"
+		}
+	]
+}

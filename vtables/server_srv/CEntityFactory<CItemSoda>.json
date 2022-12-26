@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CItemSoda>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9CItemSodaE",
+	"members": [
+		{
+			"name": "CEntityFactory<CItemSoda>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9CItemSodaE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CItemSoda>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9CItemSodaE13GetEntitySizeEv"
+		}
+	]
+}

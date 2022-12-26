@@ -1,0 +1,50 @@
+{
+	"classname": "CWarData",
+	"classname_mangled": "_ZTV8CWarData",
+	"members": [
+		{
+			"name": "CWarData::~CWarData()",
+			"name_mangled": "_ZN8CWarDataD0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObject<CSOWarData, 38, true>::GetTypeID() const",
+			"name_mangled": "_ZNK5GCSDK21CProtoBufSharedObjectI10CSOWarDataLi38ELb1EE9GetTypeIDEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)",
+			"name_mangled": "_ZN5GCSDK25CProtoBufSharedObjectBase17BParseFromMessageERK10CUtlBuffer"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)",
+			"name_mangled": "_ZN5GCSDK25CProtoBufSharedObjectBase17BParseFromMessageERKSs"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)",
+			"name_mangled": "_ZN5GCSDK25CProtoBufSharedObjectBase18BUpdateFromNetworkERKNS_13CSharedObjectE"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const",
+			"name_mangled": "_ZNK5GCSDK25CProtoBufSharedObjectBase10BIsKeyLessERKNS_13CSharedObjectE"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)",
+			"name_mangled": "_ZN5GCSDK25CProtoBufSharedObjectBase4CopyERKNS_13CSharedObjectE"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::Dump() const",
+			"name_mangled": "_ZNK5GCSDK25CProtoBufSharedObjectBase4DumpEv"
+		},
+		{
+			"name": "GCSDK::CSharedObject::BShouldDeleteByCache() const",
+			"name_mangled": "_ZNK5GCSDK13CSharedObject20BShouldDeleteByCacheEv"
+		},
+		{
+			"name": "GCSDK::CSharedObject::GetDebugString() const",
+			"name_mangled": "_ZNK5GCSDK13CSharedObject14GetDebugStringEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObject<CSOWarData, 38, true>::GetPObject()",
+			"name_mangled": "_ZN5GCSDK21CProtoBufSharedObjectI10CSOWarDataLi38ELb1EE10GetPObjectEv"
+		}
+	]
+}

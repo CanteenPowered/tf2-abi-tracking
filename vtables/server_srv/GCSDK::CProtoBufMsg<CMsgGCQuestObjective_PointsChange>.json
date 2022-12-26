@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgGCQuestObjective_PointsChange>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI33CMsgGCQuestObjective_PointsChangeEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGCQuestObjective_PointsChange>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI33CMsgGCQuestObjective_PointsChangeED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGCQuestObjective_PointsChange>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI33CMsgGCQuestObjective_PointsChangeE14GetGenericBodyEv"
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgHalloween_ServerBossEvent",
+	"classname_mangled": "_ZTV29CMsgHalloween_ServerBossEvent",
+	"members": [
+		{
+			"name": "CMsgHalloween_ServerBossEvent::~CMsgHalloween_ServerBossEvent()",
+			"name_mangled": "_ZN29CMsgHalloween_ServerBossEventD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgHalloween_ServerBossEvent::New() const",
+			"name_mangled": "_ZNK29CMsgHalloween_ServerBossEvent3NewEv"
+		},
+		{
+			"name": "CMsgHalloween_ServerBossEvent::Clear()",
+			"name_mangled": "_ZN29CMsgHalloween_ServerBossEvent5ClearEv"
+		},
+		{
+			"name": "CMsgHalloween_ServerBossEvent::IsInitialized() const",
+			"name_mangled": "_ZNK29CMsgHalloween_ServerBossEvent13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgHalloween_ServerBossEvent::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN29CMsgHalloween_ServerBossEvent27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgHalloween_ServerBossEvent::ByteSize() const",
+			"name_mangled": "_ZNK29CMsgHalloween_ServerBossEvent8ByteSizeEv"
+		},
+		{
+			"name": "CMsgHalloween_ServerBossEvent::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK29CMsgHalloween_ServerBossEvent24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgHalloween_ServerBossEvent::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK29CMsgHalloween_ServerBossEvent31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgHalloween_ServerBossEvent::GetCachedSize() const",
+			"name_mangled": "_ZNK29CMsgHalloween_ServerBossEvent13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgHalloween_ServerBossEvent::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN29CMsgHalloween_ServerBossEvent8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgHalloween_ServerBossEvent::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN29CMsgHalloween_ServerBossEvent9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgHalloween_ServerBossEvent::SetCachedSize(int) const",
+			"name_mangled": "_ZNK29CMsgHalloween_ServerBossEvent13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgHalloween_ServerBossEvent::GetMetadata() const",
+			"name_mangled": "_ZNK29CMsgHalloween_ServerBossEvent11GetMetadataEv"
+		}
+	]
+}

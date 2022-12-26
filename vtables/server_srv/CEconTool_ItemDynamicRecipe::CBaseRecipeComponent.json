@@ -1,0 +1,18 @@
+{
+	"classname": "CEconTool_ItemDynamicRecipe::CBaseRecipeComponent",
+	"classname_mangled": "_ZTVN27CEconTool_ItemDynamicRecipe20CBaseRecipeComponentE",
+	"members": [
+		{
+			"name": "CEconTool_ItemDynamicRecipe::CBaseRecipeComponent::~CBaseRecipeComponent()",
+			"name_mangled": "_ZN27CEconTool_ItemDynamicRecipe20CBaseRecipeComponentD0Ev"
+		},
+		{
+			"name": "CEconTool_ItemDynamicRecipe::CBaseRecipeComponent::ParseKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN27CEconTool_ItemDynamicRecipe20CBaseRecipeComponent7ParseKVEP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS4_iEE"
+		},
+		{
+			"name": "CEconTool_ItemDynamicRecipe::CBaseRecipeComponent::BFinishInitialization_Internal(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*, CUtlVector<CEconItemAttributeDefinition const*, CUtlMemory<CEconItemAttributeDefinition const*, int>>*)",
+			"name_mangled": "_ZN27CEconTool_ItemDynamicRecipe20CBaseRecipeComponent30BFinishInitialization_InternalEP10CUtlVectorI10CUtlString10CUtlMemoryIS2_iEEPS1_IPK28CEconItemAttributeDefinitionS3_IS9_iEE"
+		}
+	]
+}

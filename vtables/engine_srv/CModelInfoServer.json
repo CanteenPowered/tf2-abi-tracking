@@ -1,0 +1,250 @@
+{
+	"classname": "CModelInfoServer",
+	"classname_mangled": "_ZTV16CModelInfoServer",
+	"members": [
+		{
+			"name": "CModelInfoServer::~CModelInfoServer()",
+			"name_mangled": "_ZN16CModelInfoServerD0Ev"
+		},
+		{
+			"name": "CModelInfoServer::GetModel(int)",
+			"name_mangled": "_ZN16CModelInfoServer8GetModelEi"
+		},
+		{
+			"name": "CModelInfo::GetModelIndex(char const*) const",
+			"name_mangled": "_ZNK10CModelInfo13GetModelIndexEPKc"
+		},
+		{
+			"name": "CModelInfo::GetModelName(model_t const*) const",
+			"name_mangled": "_ZNK10CModelInfo12GetModelNameEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::GetVCollide(model_t const*)",
+			"name_mangled": "_ZN10CModelInfo11GetVCollideEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::GetVCollide(int)",
+			"name_mangled": "_ZN10CModelInfo11GetVCollideEi"
+		},
+		{
+			"name": "CModelInfo::GetModelBounds(model_t const*, Vector&, Vector&) const",
+			"name_mangled": "_ZNK10CModelInfo14GetModelBoundsEPK7model_tR6VectorS4_"
+		},
+		{
+			"name": "CModelInfo::GetModelRenderBounds(model_t const*, Vector&, Vector&) const",
+			"name_mangled": "_ZNK10CModelInfo20GetModelRenderBoundsEPK7model_tR6VectorS4_"
+		},
+		{
+			"name": "CModelInfo::GetModelFrameCount(model_t const*) const",
+			"name_mangled": "_ZNK10CModelInfo18GetModelFrameCountEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::GetModelType(model_t const*) const",
+			"name_mangled": "_ZNK10CModelInfo12GetModelTypeEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::GetModelExtraData(model_t const*)",
+			"name_mangled": "_ZN10CModelInfo17GetModelExtraDataEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::ModelHasMaterialProxy(model_t const*) const",
+			"name_mangled": "_ZNK10CModelInfo21ModelHasMaterialProxyEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::IsTranslucent(model_t const*) const",
+			"name_mangled": "_ZNK10CModelInfo13IsTranslucentEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::IsTranslucentTwoPass(model_t const*) const",
+			"name_mangled": "_ZNK10CModelInfo20IsTranslucentTwoPassEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::RecomputeTranslucency(model_t const*, int, int, void*, float)",
+			"name_mangled": "_ZN10CModelInfo21RecomputeTranslucencyEPK7model_tiiPvf"
+		},
+		{
+			"name": "CModelInfo::GetModelMaterialCount(model_t const*) const",
+			"name_mangled": "_ZNK10CModelInfo21GetModelMaterialCountEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::GetModelMaterials(model_t const*, int, IMaterial**)",
+			"name_mangled": "_ZN10CModelInfo17GetModelMaterialsEPK7model_tiPP9IMaterial"
+		},
+		{
+			"name": "CModelInfo::IsModelVertexLit(model_t const*) const",
+			"name_mangled": "_ZNK10CModelInfo16IsModelVertexLitEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::GetModelKeyValueText(model_t const*)",
+			"name_mangled": "_ZN10CModelInfo20GetModelKeyValueTextEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::GetModelKeyValue(model_t const*, CUtlBuffer&)",
+			"name_mangled": "_ZN10CModelInfo16GetModelKeyValueEPK7model_tR10CUtlBuffer"
+		},
+		{
+			"name": "CModelInfo::GetModelRadius(model_t const*)",
+			"name_mangled": "_ZN10CModelInfo14GetModelRadiusEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::FindModel(studiohdr_t const*, void**, char const*) const",
+			"name_mangled": "_ZNK10CModelInfo9FindModelEPK11studiohdr_tPPvPKc"
+		},
+		{
+			"name": "CModelInfo::FindModel(void*) const",
+			"name_mangled": "_ZNK10CModelInfo9FindModelEPv"
+		},
+		{
+			"name": "CModelInfo::GetVirtualModel(studiohdr_t const*) const",
+			"name_mangled": "_ZNK10CModelInfo15GetVirtualModelEPK11studiohdr_t"
+		},
+		{
+			"name": "CModelInfo::GetAnimBlock(studiohdr_t const*, int) const",
+			"name_mangled": "_ZNK10CModelInfo12GetAnimBlockEPK11studiohdr_ti"
+		},
+		{
+			"name": "CModelInfoServer::GetModelMaterialColorAndLighting(model_t const*, Vector const&, QAngle const&, CGameTrace*, Vector&, Vector&)",
+			"name_mangled": "_ZN16CModelInfoServer32GetModelMaterialColorAndLightingEPK7model_tRK6VectorRK6QAngleP10CGameTraceRS3_SB_"
+		},
+		{
+			"name": "CModelInfo::GetIlluminationPoint(model_t const*, IClientRenderable*, Vector const&, QAngle const&, Vector*)",
+			"name_mangled": "_ZN10CModelInfo20GetIlluminationPointEPK7model_tP17IClientRenderableRK6VectorRK6QAnglePS5_"
+		},
+		{
+			"name": "CModelInfo::GetModelContents(int)",
+			"name_mangled": "_ZN10CModelInfo16GetModelContentsEi"
+		},
+		{
+			"name": "CModelInfo::GetStudiomodel(model_t const*)",
+			"name_mangled": "_ZN10CModelInfo14GetStudiomodelEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::GetModelSpriteWidth(model_t const*) const",
+			"name_mangled": "_ZNK10CModelInfo19GetModelSpriteWidthEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::GetModelSpriteHeight(model_t const*) const",
+			"name_mangled": "_ZNK10CModelInfo20GetModelSpriteHeightEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::SetLevelScreenFadeRange(float, float)",
+			"name_mangled": "_ZN10CModelInfo23SetLevelScreenFadeRangeEff"
+		},
+		{
+			"name": "CModelInfo::GetLevelScreenFadeRange(float*, float*) const",
+			"name_mangled": "_ZNK10CModelInfo23GetLevelScreenFadeRangeEPfS0_"
+		},
+		{
+			"name": "CModelInfo::SetViewScreenFadeRange(float, float)",
+			"name_mangled": "_ZN10CModelInfo22SetViewScreenFadeRangeEff"
+		},
+		{
+			"name": "CModelInfo::ComputeLevelScreenFade(Vector const&, float, float) const",
+			"name_mangled": "_ZNK10CModelInfo22ComputeLevelScreenFadeERK6Vectorff"
+		},
+		{
+			"name": "CModelInfo::ComputeViewScreenFade(Vector const&, float, float) const",
+			"name_mangled": "_ZNK10CModelInfo21ComputeViewScreenFadeERK6Vectorff"
+		},
+		{
+			"name": "CModelInfo::GetAutoplayList(studiohdr_t const*, unsigned short**) const",
+			"name_mangled": "_ZNK10CModelInfo15GetAutoplayListEPK11studiohdr_tPPt"
+		},
+		{
+			"name": "CModelInfo::GetCollideForVirtualTerrain(int)",
+			"name_mangled": "_ZN10CModelInfo27GetCollideForVirtualTerrainEi"
+		},
+		{
+			"name": "CModelInfo::IsUsingFBTexture(model_t const*, int, int, void*) const",
+			"name_mangled": "_ZNK10CModelInfo16IsUsingFBTextureEPK7model_tiiPv"
+		},
+		{
+			"name": "CModelInfoServer::FindOrLoadModel(char const*)",
+			"name_mangled": "_ZN16CModelInfoServer15FindOrLoadModelEPKc"
+		},
+		{
+			"name": "IVModelInfo::InitDynamicModels()",
+			"name_mangled": "_ZN11IVModelInfo17InitDynamicModelsEv"
+		},
+		{
+			"name": "IVModelInfo::ShutdownDynamicModels()",
+			"name_mangled": "_ZN11IVModelInfo21ShutdownDynamicModelsEv"
+		},
+		{
+			"name": "IVModelInfo::AddDynamicModel(char const*, int)",
+			"name_mangled": "_ZN11IVModelInfo15AddDynamicModelEPKci"
+		},
+		{
+			"name": "IVModelInfo::ReferenceModel(int)",
+			"name_mangled": "_ZN11IVModelInfo14ReferenceModelEi"
+		},
+		{
+			"name": "IVModelInfo::UnreferenceModel(int)",
+			"name_mangled": "_ZN11IVModelInfo16UnreferenceModelEi"
+		},
+		{
+			"name": "IVModelInfo::CleanupDynamicModels(bool)",
+			"name_mangled": "_ZN11IVModelInfo20CleanupDynamicModelsEb"
+		},
+		{
+			"name": "CModelInfo::GetCacheHandle(model_t const*) const",
+			"name_mangled": "_ZNK10CModelInfo14GetCacheHandleEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::GetBrushModelPlaneCount(model_t const*) const",
+			"name_mangled": "_ZNK10CModelInfo23GetBrushModelPlaneCountEPK7model_t"
+		},
+		{
+			"name": "CModelInfo::GetBrushModelPlane(model_t const*, int, cplane_t&, Vector*) const",
+			"name_mangled": "_ZNK10CModelInfo18GetBrushModelPlaneEPK7model_tiR8cplane_tP6Vector"
+		},
+		{
+			"name": "CModelInfo::GetSurfacepropsForVirtualTerrain(int)",
+			"name_mangled": "_ZN10CModelInfo32GetSurfacepropsForVirtualTerrainEi"
+		},
+		{
+			"name": "CModelInfo::OnLevelChange()",
+			"name_mangled": "_ZN10CModelInfo13OnLevelChangeEv"
+		},
+		{
+			"name": "CModelInfo::GetModelClientSideIndex(char const*) const",
+			"name_mangled": "_ZNK10CModelInfo23GetModelClientSideIndexEPKc"
+		},
+		{
+			"name": "CModelInfoServer::RegisterDynamicModel(char const*, bool)",
+			"name_mangled": "_ZN16CModelInfoServer20RegisterDynamicModelEPKcb"
+		},
+		{
+			"name": "CModelInfo::IsDynamicModelLoading(int)",
+			"name_mangled": "_ZN10CModelInfo21IsDynamicModelLoadingEi"
+		},
+		{
+			"name": "CModelInfo::AddRefDynamicModel(int)",
+			"name_mangled": "_ZN10CModelInfo18AddRefDynamicModelEi"
+		},
+		{
+			"name": "CModelInfo::ReleaseDynamicModel(int)",
+			"name_mangled": "_ZN10CModelInfo19ReleaseDynamicModelEi"
+		},
+		{
+			"name": "CModelInfo::RegisterModelLoadCallback(int, IModelLoadCallback*, bool)",
+			"name_mangled": "_ZN10CModelInfo25RegisterModelLoadCallbackEiP18IModelLoadCallbackb"
+		},
+		{
+			"name": "CModelInfo::UnregisterModelLoadCallback(int, IModelLoadCallback*)",
+			"name_mangled": "_ZN10CModelInfo27UnregisterModelLoadCallbackEiP18IModelLoadCallback"
+		},
+		{
+			"name": "CModelInfoServer::OnDynamicModelsStringTableChange(int, char const*, void const*)",
+			"name_mangled": "_ZN16CModelInfoServer32OnDynamicModelsStringTableChangeEiPKcPKv"
+		},
+		{
+			"name": "CModelInfoServer::GetDynamicModelStringTable() const",
+			"name_mangled": "_ZNK16CModelInfoServer26GetDynamicModelStringTableEv"
+		},
+		{
+			"name": "CModelInfoServer::LookupPrecachedModelIndex(char const*) const",
+			"name_mangled": "_ZNK16CModelInfoServer25LookupPrecachedModelIndexEPKc"
+		}
+	]
+}

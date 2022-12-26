@@ -1,0 +1,10 @@
+{
+	"classname": "IHLTVServer",
+	"classname_mangled": "_ZTV11IHLTVServer",
+	"members": [
+		{
+			"name": "IHLTVServer::~IHLTVServer()",
+			"name_mangled": "_ZN11IHLTVServerD0Ev"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "CAchievementSaveThread",
+	"classname_mangled": "_ZTV22CAchievementSaveThread",
+	"members": [
+		{
+			"name": "CAchievementSaveThread::~CAchievementSaveThread()",
+			"name_mangled": "_ZN22CAchievementSaveThreadD0Ev"
+		}
+	]
+}

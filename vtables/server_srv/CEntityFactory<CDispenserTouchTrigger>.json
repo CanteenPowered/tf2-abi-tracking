@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CDispenserTouchTrigger>",
+	"classname_mangled": "_ZTV14CEntityFactoryI22CDispenserTouchTriggerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CDispenserTouchTrigger>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI22CDispenserTouchTriggerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CDispenserTouchTrigger>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI22CDispenserTouchTriggerE13GetEntitySizeEv"
+		}
+	]
+}

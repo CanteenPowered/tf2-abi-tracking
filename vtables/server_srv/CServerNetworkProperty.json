@@ -1,0 +1,54 @@
+{
+	"classname": "CServerNetworkProperty",
+	"classname_mangled": "_ZTV22CServerNetworkProperty",
+	"members": [
+		{
+			"name": "CServerNetworkProperty::GetServerClass()",
+			"name_mangled": "_ZN22CServerNetworkProperty14GetServerClassEv"
+		},
+		{
+			"name": "CServerNetworkProperty::GetEdict() const",
+			"name_mangled": "_ZNK22CServerNetworkProperty8GetEdictEv"
+		},
+		{
+			"name": "CServerNetworkProperty::GetClassName() const",
+			"name_mangled": "_ZNK22CServerNetworkProperty12GetClassNameEv"
+		},
+		{
+			"name": "CServerNetworkProperty::Release()",
+			"name_mangled": "_ZN22CServerNetworkProperty7ReleaseEv"
+		},
+		{
+			"name": "CServerNetworkProperty::AreaNum() const",
+			"name_mangled": "_ZNK22CServerNetworkProperty7AreaNumEv"
+		},
+		{
+			"name": "CServerNetworkProperty::GetBaseNetworkable()",
+			"name_mangled": "_ZN22CServerNetworkProperty18GetBaseNetworkableEv"
+		},
+		{
+			"name": "CServerNetworkProperty::GetBaseEntity()",
+			"name_mangled": "_ZN22CServerNetworkProperty13GetBaseEntityEv"
+		},
+		{
+			"name": "CServerNetworkProperty::GetPVSInfo()",
+			"name_mangled": "_ZN22CServerNetworkProperty10GetPVSInfoEv"
+		},
+		{
+			"name": "CServerNetworkProperty::~CServerNetworkProperty()",
+			"name_mangled": "_ZN22CServerNetworkPropertyD1Ev"
+		},
+		{
+			"name": "CServerNetworkProperty::~CServerNetworkProperty()",
+			"name_mangled": "_ZN22CServerNetworkPropertyD0Ev"
+		},
+		{
+			"name": "CServerNetworkProperty::GetDataDescMap()",
+			"name_mangled": "_ZN22CServerNetworkProperty14GetDataDescMapEv"
+		},
+		{
+			"name": "CServerNetworkProperty::FireEvent()",
+			"name_mangled": "_ZN22CServerNetworkProperty9FireEventEv"
+		}
+	]
+}

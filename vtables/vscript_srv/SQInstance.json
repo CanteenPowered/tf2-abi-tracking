@@ -1,0 +1,34 @@
+{
+	"classname": "SQInstance",
+	"classname_mangled": "_ZTV10SQInstance",
+	"members": [
+		{
+			"name": "SQInstance::~SQInstance()",
+			"name_mangled": "_ZN10SQInstanceD0Ev"
+		},
+		{
+			"name": "SQInstance::Iterate(CSQStateIterator*)",
+			"name_mangled": "_ZN10SQInstance7IterateEP16CSQStateIterator"
+		},
+		{
+			"name": "SQInstance::Release()",
+			"name_mangled": "_ZN10SQInstance7ReleaseEv"
+		},
+		{
+			"name": "SQInstance::GetType()",
+			"name_mangled": "_ZN10SQInstance7GetTypeEv"
+		},
+		{
+			"name": "SQInstance::Mark(SQCollectable**)",
+			"name_mangled": "_ZN10SQInstance4MarkEPP13SQCollectable"
+		},
+		{
+			"name": "SQInstance::Finalize()",
+			"name_mangled": "_ZN10SQInstance8FinalizeEv"
+		},
+		{
+			"name": "SQInstance::GetMetaMethod(SQVM*, SQMetaMethod, SQObjectPtr&)",
+			"name_mangled": "_ZN10SQInstance13GetMetaMethodEP4SQVM12SQMetaMethodR11SQObjectPtr"
+		}
+	]
+}

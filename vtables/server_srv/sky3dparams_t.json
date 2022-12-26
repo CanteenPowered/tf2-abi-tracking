@@ -1,0 +1,10 @@
+{
+	"classname": "sky3dparams_t",
+	"classname_mangled": "_ZTV13sky3dparams_t",
+	"members": [
+		{
+			"name": "sky3dparams_t::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN13sky3dparams_t19NetworkStateChangedEPv"
+		}
+	]
+}

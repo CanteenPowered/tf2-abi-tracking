@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFReviveMarker>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CTFReviveMarkerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFReviveMarker>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CTFReviveMarkerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFReviveMarker>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CTFReviveMarkerE13GetEntitySizeEv"
+		}
+	]
+}

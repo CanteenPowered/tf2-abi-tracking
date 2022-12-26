@@ -1,0 +1,14 @@
+{
+	"classname": "CFrameSnapshotManager",
+	"classname_mangled": "_ZTV21CFrameSnapshotManager",
+	"members": [
+		{
+			"name": "CFrameSnapshotManager::~CFrameSnapshotManager()",
+			"name_mangled": "_ZN21CFrameSnapshotManagerD0Ev"
+		},
+		{
+			"name": "CFrameSnapshotManager::LevelChanged()",
+			"name_mangled": "_ZN21CFrameSnapshotManager12LevelChangedEv"
+		}
+	]
+}

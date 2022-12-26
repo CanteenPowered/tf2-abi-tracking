@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFGrenadePipebombProjectile>",
+	"classname_mangled": "_ZTV14CEntityFactoryI28CTFGrenadePipebombProjectileE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFGrenadePipebombProjectile>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI28CTFGrenadePipebombProjectileE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFGrenadePipebombProjectile>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI28CTFGrenadePipebombProjectileE13GetEntitySizeEv"
+		}
+	]
+}

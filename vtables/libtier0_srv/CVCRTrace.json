@@ -1,0 +1,10 @@
+{
+	"classname": "CVCRTrace",
+	"classname_mangled": "_ZTV9CVCRTrace",
+	"members": [
+		{
+			"name": "CVCRTrace::Read(void*, int)",
+			"name_mangled": "_ZN9CVCRTrace4ReadEPvi"
+		}
+	]
+}

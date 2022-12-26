@@ -1,0 +1,22 @@
+{
+	"classname": "CTFPlayerShared",
+	"classname_mangled": "_ZTV15CTFPlayerShared",
+	"members": [
+		{
+			"name": "CTFPlayerShared::~CTFPlayerShared()",
+			"name_mangled": "_ZN15CTFPlayerSharedD0Ev"
+		},
+		{
+			"name": "CTFPlayerShared::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN15CTFPlayerShared13FireGameEventEP10IGameEvent"
+		},
+		{
+			"name": "CTFPlayerShared::NetworkStateChanged()",
+			"name_mangled": "_ZN15CTFPlayerShared19NetworkStateChangedEv"
+		},
+		{
+			"name": "CTFPlayerShared::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN15CTFPlayerShared19NetworkStateChangedEPv"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"classname": "CTEImpact",
+	"classname_mangled": "_ZTV9CTEImpact",
+	"members": [
+		{
+			"name": "CTEImpact::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN9CTEImpact40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEImpact::~CTEImpact()",
+			"name_mangled": "_ZN9CTEImpactD2Ev"
+		},
+		{
+			"name": "CTEImpact::~CTEImpact()",
+			"name_mangled": "_ZN9CTEImpactD0Ev"
+		},
+		{
+			"name": "CBaseTempEntity::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN15CBaseTempEntity4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CTEImpact::Precache()",
+			"name_mangled": "_ZN9CTEImpact8PrecacheEv"
+		}
+	]
+}

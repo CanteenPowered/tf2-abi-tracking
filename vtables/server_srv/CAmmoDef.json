@@ -1,0 +1,10 @@
+{
+	"classname": "CAmmoDef",
+	"classname_mangled": "_ZTV8CAmmoDef",
+	"members": [
+		{
+			"name": "CAmmoDef::~CAmmoDef()",
+			"name_mangled": "_ZN8CAmmoDefD0Ev"
+		}
+	]
+}

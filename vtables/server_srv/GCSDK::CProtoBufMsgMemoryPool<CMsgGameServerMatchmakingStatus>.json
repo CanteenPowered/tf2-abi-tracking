@@ -1,0 +1,22 @@
+{
+	"classname": "GCSDK::CProtoBufMsgMemoryPool<CMsgGameServerMatchmakingStatus>",
+	"classname_mangled": "_ZTVN5GCSDK22CProtoBufMsgMemoryPoolI31CMsgGameServerMatchmakingStatusEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGameServerMatchmakingStatus>::~CProtoBufMsgMemoryPool()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI31CMsgGameServerMatchmakingStatusED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGameServerMatchmakingStatus>::GetName()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI31CMsgGameServerMatchmakingStatusE7GetNameEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGameServerMatchmakingStatus>::InternalAlloc()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI31CMsgGameServerMatchmakingStatusE13InternalAllocEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGameServerMatchmakingStatus>::InternalFree(google::protobuf::Message*)",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI31CMsgGameServerMatchmakingStatusE12InternalFreeEPN6google8protobuf7MessageE"
+		}
+	]
+}

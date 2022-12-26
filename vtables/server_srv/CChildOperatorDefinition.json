@@ -1,0 +1,26 @@
+{
+	"classname": "CChildOperatorDefinition",
+	"classname_mangled": "_ZTV24CChildOperatorDefinition",
+	"members": [
+		{
+			"name": "CChildOperatorDefinition::CreateInstance(UniqueId_t const&) const",
+			"name_mangled": "_ZNK24CChildOperatorDefinition14CreateInstanceERK10UniqueId_t"
+		},
+		{
+			"name": "CChildOperatorDefinition::GetUnpackStructure() const",
+			"name_mangled": "_ZNK24CChildOperatorDefinition18GetUnpackStructureEv"
+		},
+		{
+			"name": "CChildOperatorDefinition::GetId() const",
+			"name_mangled": "_ZNK24CChildOperatorDefinition5GetIdEv"
+		},
+		{
+			"name": "CChildOperatorDefinition::IsObsolete() const",
+			"name_mangled": "_ZNK24CChildOperatorDefinition10IsObsoleteEv"
+		},
+		{
+			"name": "CChildOperatorDefinition::GetClassSize() const",
+			"name_mangled": "_ZNK24CChildOperatorDefinition12GetClassSizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPasstimeBallSpawn>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CPasstimeBallSpawnE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPasstimeBallSpawn>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CPasstimeBallSpawnE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPasstimeBallSpawn>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CPasstimeBallSpawnE13GetEntitySizeEv"
+		}
+	]
+}

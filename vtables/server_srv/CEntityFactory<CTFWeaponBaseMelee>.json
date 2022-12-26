@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFWeaponBaseMelee>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CTFWeaponBaseMeleeE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFWeaponBaseMelee>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CTFWeaponBaseMeleeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFWeaponBaseMelee>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CTFWeaponBaseMeleeE13GetEntitySizeEv"
+		}
+	]
+}

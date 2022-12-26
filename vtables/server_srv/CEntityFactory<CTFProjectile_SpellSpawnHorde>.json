@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_SpellSpawnHorde>",
+	"classname_mangled": "_ZTV14CEntityFactoryI29CTFProjectile_SpellSpawnHordeE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_SpellSpawnHorde>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI29CTFProjectile_SpellSpawnHordeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_SpellSpawnHorde>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI29CTFProjectile_SpellSpawnHordeE13GetEntitySizeEv"
+		}
+	]
+}

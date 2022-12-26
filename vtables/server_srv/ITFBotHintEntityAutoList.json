@@ -1,0 +1,10 @@
+{
+	"classname": "ITFBotHintEntityAutoList",
+	"classname_mangled": "_ZTV24ITFBotHintEntityAutoList",
+	"members": [
+		{
+			"name": "ITFBotHintEntityAutoList::~ITFBotHintEntityAutoList()",
+			"name_mangled": "_ZN24ITFBotHintEntityAutoListD0Ev"
+		}
+	]
+}

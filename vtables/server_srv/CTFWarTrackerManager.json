@@ -1,0 +1,94 @@
+{
+	"classname": "CTFWarTrackerManager",
+	"classname_mangled": "_ZTV20CTFWarTrackerManager",
+	"members": [
+		{
+			"name": "CSOTrackerManager::PreSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager11PreSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::SOUpdated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager9SOUpdatedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::PostSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager12PostSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::SODestroyed(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager11SODestroyedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::SOCacheSubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager17SOCacheSubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::SOCacheUnsubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager19SOCacheUnsubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CTFWarTrackerManager::~CTFWarTrackerManager()",
+			"name_mangled": "_ZN20CTFWarTrackerManagerD2Ev"
+		},
+		{
+			"name": "CTFWarTrackerManager::~CTFWarTrackerManager()",
+			"name_mangled": "_ZN20CTFWarTrackerManagerD0Ev"
+		},
+		{
+			"name": "CSOTrackerManager::Initialize()",
+			"name_mangled": "_ZN17CSOTrackerManager10InitializeEv"
+		},
+		{
+			"name": "CSOTrackerManager::Shutdown()",
+			"name_mangled": "_ZN17CSOTrackerManager8ShutdownEv"
+		},
+		{
+			"name": "CSOTrackerManager::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN17CSOTrackerManager13FireGameEventEP10IGameEvent"
+		},
+		{
+			"name": "CSOTrackerManager::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN17CSOTrackerManager25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CTFWarTrackerManager::GetKeyForObjectTracker(GCSDK::CSharedObject const*, CSteamID)",
+			"name_mangled": "_ZN20CTFWarTrackerManager22GetKeyForObjectTrackerEPKN5GCSDK13CSharedObjectE8CSteamID"
+		},
+		{
+			"name": "CTFWarTrackerManager::GetType() const",
+			"name_mangled": "_ZNK20CTFWarTrackerManager7GetTypeEv"
+		},
+		{
+			"name": "CTFWarTrackerManager::GetName() const",
+			"name_mangled": "_ZNK20CTFWarTrackerManager7GetNameEv"
+		},
+		{
+			"name": "CTFWarTrackerManager::GetDebugObjectDescription(GCSDK::CSharedObject const*) const",
+			"name_mangled": "_ZNK20CTFWarTrackerManager25GetDebugObjectDescriptionEPKN5GCSDK13CSharedObjectE"
+		},
+		{
+			"name": "CTFWarTrackerManager::AllocateNewTracker(GCSDK::CSharedObject const*, CSteamID, CSOTrackerManager*) const",
+			"name_mangled": "_ZNK20CTFWarTrackerManager18AllocateNewTrackerEPKN5GCSDK13CSharedObjectE8CSteamIDP17CSOTrackerManager"
+		},
+		{
+			"name": "CTFWarTrackerManager::AllocateNewProtoMessage() const",
+			"name_mangled": "_ZNK20CTFWarTrackerManager23AllocateNewProtoMessageEv"
+		},
+		{
+			"name": "CTFWarTrackerManager::OnCommitRecieved(google::protobuf::Message const*)",
+			"name_mangled": "_ZN20CTFWarTrackerManager16OnCommitRecievedEPKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CTFWarTrackerManager::ShouldTrackObject(CSteamID const&, GCSDK::CSharedObject const*) const",
+			"name_mangled": "_ZNK20CTFWarTrackerManager17ShouldTrackObjectERK8CSteamIDPKN5GCSDK13CSharedObjectE"
+		},
+		{
+			"name": "CTFWarTrackerManager::CompareRecords(google::protobuf::Message const*, google::protobuf::Message const*) const",
+			"name_mangled": "_ZNK20CTFWarTrackerManager14CompareRecordsEPKN6google8protobuf7MessageES4_"
+		},
+		{
+			"name": "CTFWarTrackerManager::SendMessageForCommit(google::protobuf::Message const*) const",
+			"name_mangled": "_ZNK20CTFWarTrackerManager20SendMessageForCommitEPKN6google8protobuf7MessageE"
+		}
+	]
+}

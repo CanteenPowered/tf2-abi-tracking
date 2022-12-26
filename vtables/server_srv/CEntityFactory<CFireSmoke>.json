@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFireSmoke>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10CFireSmokeE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFireSmoke>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10CFireSmokeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFireSmoke>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10CFireSmokeE13GetEntitySizeEv"
+		}
+	]
+}

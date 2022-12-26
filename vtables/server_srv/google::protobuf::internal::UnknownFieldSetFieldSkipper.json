@@ -1,0 +1,22 @@
+{
+	"classname": "google::protobuf::internal::UnknownFieldSetFieldSkipper",
+	"classname_mangled": "_ZTVN6google8protobuf8internal27UnknownFieldSetFieldSkipperE",
+	"members": [
+		{
+			"name": "google::protobuf::internal::UnknownFieldSetFieldSkipper::~UnknownFieldSetFieldSkipper()",
+			"name_mangled": "_ZN6google8protobuf8internal27UnknownFieldSetFieldSkipperD0Ev"
+		},
+		{
+			"name": "google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipField(google::protobuf::io::CodedInputStream*, unsigned int)",
+			"name_mangled": "_ZN6google8protobuf8internal27UnknownFieldSetFieldSkipper9SkipFieldEPNS0_2io16CodedInputStreamEj"
+		},
+		{
+			"name": "google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipMessage(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN6google8protobuf8internal27UnknownFieldSetFieldSkipper11SkipMessageEPNS0_2io16CodedInputStreamE"
+		},
+		{
+			"name": "google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipUnknownEnum(int, int)",
+			"name_mangled": "_ZN6google8protobuf8internal27UnknownFieldSetFieldSkipper15SkipUnknownEnumEii"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<DustTrail>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9DustTrailE",
+	"members": [
+		{
+			"name": "CEntityFactory<DustTrail>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9DustTrailE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<DustTrail>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9DustTrailE13GetEntitySizeEv"
+		}
+	]
+}

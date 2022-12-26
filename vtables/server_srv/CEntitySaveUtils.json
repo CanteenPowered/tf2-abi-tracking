@@ -1,0 +1,14 @@
+{
+	"classname": "CEntitySaveUtils",
+	"classname_mangled": "_ZTV16CEntitySaveUtils",
+	"members": [
+		{
+			"name": "CEntitySaveUtils::GetEntityDependencyCount(CBaseEntity*)",
+			"name_mangled": "_ZN16CEntitySaveUtils24GetEntityDependencyCountEP11CBaseEntity"
+		},
+		{
+			"name": "CEntitySaveUtils::GetEntityDependencies(CBaseEntity*, int, CBaseEntity**)",
+			"name_mangled": "_ZN16CEntitySaveUtils21GetEntityDependenciesEP11CBaseEntityiPS1_"
+		}
+	]
+}

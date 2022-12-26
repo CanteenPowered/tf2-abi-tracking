@@ -1,0 +1,10 @@
+{
+	"classname": "CRagdollCollisionRules",
+	"classname_mangled": "_ZTV22CRagdollCollisionRules",
+	"members": [
+		{
+			"name": "CRagdollCollisionRules::SetDefaults(void*)",
+			"name_mangled": "_ZN22CRagdollCollisionRules11SetDefaultsEPv"
+		}
+	]
+}

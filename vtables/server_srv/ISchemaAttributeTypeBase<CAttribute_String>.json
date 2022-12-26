@@ -1,0 +1,22 @@
+{
+	"classname": "ISchemaAttributeTypeBase<CAttribute_String>",
+	"classname_mangled": "_ZTV24ISchemaAttributeTypeBaseI17CAttribute_StringE",
+	"members": [
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_String>::~ISchemaAttributeTypeBase()",
+			"name_mangled": "_ZN24ISchemaAttributeTypeBaseI17CAttribute_StringED0Ev"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_String>::GetTypeUniqueIdentifier() const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI17CAttribute_StringE23GetTypeUniqueIdentifierEv"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_String>::LoadEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI17CAttribute_StringE22LoadEconAttributeValueEP9CEconItemPK28CEconItemAttributeDefinitionRK22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_String>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&, std::string*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI17CAttribute_StringE37ConvertEconAttributeValueToByteStreamERK22attribute_data_union_tPSs"
+		}
+	]
+}

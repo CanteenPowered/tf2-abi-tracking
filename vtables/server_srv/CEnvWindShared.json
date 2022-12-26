@@ -1,0 +1,10 @@
+{
+	"classname": "CEnvWindShared",
+	"classname_mangled": "_ZTV14CEnvWindShared",
+	"members": [
+		{
+			"name": "CEnvWindShared::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN14CEnvWindShared19NetworkStateChangedEPv"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "ICaptureFlagAutoList",
+	"classname_mangled": "_ZTV20ICaptureFlagAutoList",
+	"members": [
+		{
+			"name": "ICaptureFlagAutoList::~ICaptureFlagAutoList()",
+			"name_mangled": "_ZN20ICaptureFlagAutoListD0Ev"
+		}
+	]
+}

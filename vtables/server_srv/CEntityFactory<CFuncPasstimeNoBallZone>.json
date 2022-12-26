@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncPasstimeNoBallZone>",
+	"classname_mangled": "_ZTV14CEntityFactoryI23CFuncPasstimeNoBallZoneE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncPasstimeNoBallZone>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI23CFuncPasstimeNoBallZoneE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncPasstimeNoBallZone>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI23CFuncPasstimeNoBallZoneE13GetEntitySizeEv"
+		}
+	]
+}

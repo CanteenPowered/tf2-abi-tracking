@@ -1,0 +1,10 @@
+{
+	"classname": "IServerChoreoTools",
+	"classname_mangled": "_ZTV18IServerChoreoTools",
+	"members": [
+		{
+			"name": "IServerChoreoTools::~IServerChoreoTools()",
+			"name_mangled": "_ZN18IServerChoreoToolsD0Ev"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CWC_UpdateIgnoreList>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CWC_UpdateIgnoreListE",
+	"members": [
+		{
+			"name": "CEntityFactory<CWC_UpdateIgnoreList>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CWC_UpdateIgnoreListE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CWC_UpdateIgnoreList>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CWC_UpdateIgnoreListE13GetEntitySizeEv"
+		}
+	]
+}

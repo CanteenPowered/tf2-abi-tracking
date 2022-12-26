@@ -1,0 +1,10 @@
+{
+	"classname": "localplayerscoring_t",
+	"classname_mangled": "_ZTV20localplayerscoring_t",
+	"members": [
+		{
+			"name": "localplayerscoring_t::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN20localplayerscoring_t19NetworkStateChangedEPv"
+		}
+	]
+}

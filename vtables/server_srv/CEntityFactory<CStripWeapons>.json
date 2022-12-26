@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CStripWeapons>",
+	"classname_mangled": "_ZTV14CEntityFactoryI13CStripWeaponsE",
+	"members": [
+		{
+			"name": "CEntityFactory<CStripWeapons>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI13CStripWeaponsE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CStripWeapons>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI13CStripWeaponsE13GetEntitySizeEv"
+		}
+	]
+}

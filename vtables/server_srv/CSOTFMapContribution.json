@@ -1,0 +1,82 @@
+{
+	"classname": "CSOTFMapContribution",
+	"classname_mangled": "_ZTV20CSOTFMapContribution",
+	"members": [
+		{
+			"name": "CSOTFMapContribution::~CSOTFMapContribution()",
+			"name_mangled": "_ZN20CSOTFMapContributionD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CSOTFMapContribution::New() const",
+			"name_mangled": "_ZNK20CSOTFMapContribution3NewEv"
+		},
+		{
+			"name": "CSOTFMapContribution::Clear()",
+			"name_mangled": "_ZN20CSOTFMapContribution5ClearEv"
+		},
+		{
+			"name": "CSOTFMapContribution::IsInitialized() const",
+			"name_mangled": "_ZNK20CSOTFMapContribution13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CSOTFMapContribution::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN20CSOTFMapContribution27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CSOTFMapContribution::ByteSize() const",
+			"name_mangled": "_ZNK20CSOTFMapContribution8ByteSizeEv"
+		},
+		{
+			"name": "CSOTFMapContribution::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK20CSOTFMapContribution24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CSOTFMapContribution::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK20CSOTFMapContribution31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CSOTFMapContribution::GetCachedSize() const",
+			"name_mangled": "_ZNK20CSOTFMapContribution13GetCachedSizeEv"
+		},
+		{
+			"name": "CSOTFMapContribution::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN20CSOTFMapContribution8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CSOTFMapContribution::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN20CSOTFMapContribution9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CSOTFMapContribution::SetCachedSize(int) const",
+			"name_mangled": "_ZNK20CSOTFMapContribution13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CSOTFMapContribution::GetMetadata() const",
+			"name_mangled": "_ZNK20CSOTFMapContribution11GetMetadataEv"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"classname": "CPlayerMove",
+	"classname_mangled": "_ZTV11CPlayerMove",
+	"members": [
+		{
+			"name": "CPlayerMove::~CPlayerMove()",
+			"name_mangled": "_ZN11CPlayerMoveD0Ev"
+		},
+		{
+			"name": "CPlayerMove::SetupMove(CBasePlayer*, CUserCmd*, IMoveHelper*, CMoveData*)",
+			"name_mangled": "_ZN11CPlayerMove9SetupMoveEP11CBasePlayerP8CUserCmdP11IMoveHelperP9CMoveData"
+		},
+		{
+			"name": "CPlayerMove::FinishMove(CBasePlayer*, CUserCmd*, CMoveData*)",
+			"name_mangled": "_ZN11CPlayerMove10FinishMoveEP11CBasePlayerP8CUserCmdP9CMoveData"
+		},
+		{
+			"name": "CPlayerMove::StartCommand(CBasePlayer*, CUserCmd*)",
+			"name_mangled": "_ZN11CPlayerMove12StartCommandEP11CBasePlayerP8CUserCmd"
+		}
+	]
+}

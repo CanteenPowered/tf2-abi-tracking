@@ -1,0 +1,10 @@
+{
+	"classname": "CVehicleSoundsParser",
+	"classname_mangled": "_ZTV20CVehicleSoundsParser",
+	"members": [
+		{
+			"name": "CVehicleSoundsParser::SetDefaults(void*)",
+			"name_mangled": "_ZN20CVehicleSoundsParser11SetDefaultsEPv"
+		}
+	]
+}

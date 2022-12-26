@@ -1,0 +1,10 @@
+{
+	"classname": "CTraceFilterPlayersNPCsPhysicsProps",
+	"classname_mangled": "_ZTV35CTraceFilterPlayersNPCsPhysicsProps",
+	"members": [
+		{
+			"name": "CTraceFilterPlayersNPCsPhysicsProps::GetTraceType() const",
+			"name_mangled": "_ZNK35CTraceFilterPlayersNPCsPhysicsProps12GetTraceTypeEv"
+		}
+	]
+}

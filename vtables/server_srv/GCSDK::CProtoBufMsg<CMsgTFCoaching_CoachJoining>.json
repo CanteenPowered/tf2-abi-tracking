@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgTFCoaching_CoachJoining>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI27CMsgTFCoaching_CoachJoiningEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgTFCoaching_CoachJoining>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI27CMsgTFCoaching_CoachJoiningED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgTFCoaching_CoachJoining>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI27CMsgTFCoaching_CoachJoiningE14GetGenericBodyEv"
+		}
+	]
+}

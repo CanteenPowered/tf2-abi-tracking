@@ -1,0 +1,58 @@
+{
+	"classname": "CSchemaAttributeType_Float",
+	"classname_mangled": "_ZTV26CSchemaAttributeType_Float",
+	"members": [
+		{
+			"name": "CSchemaAttributeType_Float::~CSchemaAttributeType_Float()",
+			"name_mangled": "_ZN26CSchemaAttributeType_FloatD0Ev"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<float>::GetTypeUniqueIdentifier() const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseIfE23GetTypeUniqueIdentifierEv"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<float>::LoadEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseIfE22LoadEconAttributeValueEP9CEconItemPK28CEconItemAttributeDefinitionRK22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<float>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&, std::string*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseIfE37ConvertEconAttributeValueToByteStreamERK22attribute_data_union_tPSs"
+		},
+		{
+			"name": "CSchemaAttributeType_Float::BConvertStringToEconAttributeValue(CEconItemAttributeDefinition const*, char const*, attribute_data_union_t*, bool) const",
+			"name_mangled": "_ZNK26CSchemaAttributeType_Float34BConvertStringToEconAttributeValueEPK28CEconItemAttributeDefinitionPKcP22attribute_data_union_tb"
+		},
+		{
+			"name": "CSchemaAttributeType_Float::ConvertEconAttributeValueToString(CEconItemAttributeDefinition const*, attribute_data_union_t const&, std::string*) const",
+			"name_mangled": "_ZNK26CSchemaAttributeType_Float33ConvertEconAttributeValueToStringEPK28CEconItemAttributeDefinitionRK22attribute_data_union_tPSs"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<float>::LoadByteStreamToEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, std::string const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseIfE34LoadByteStreamToEconAttributeValueEP9CEconItemPK28CEconItemAttributeDefinitionRKSs"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<float>::InitializeNewEconAttributeValue(attribute_data_union_t*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseIfE31InitializeNewEconAttributeValueEP22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<float>::UnloadEconAttributeValue(attribute_data_union_t*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseIfE24UnloadEconAttributeValueEP22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<float>::OnIterateAttributeValue(IEconItemAttributeIterator*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseIfE23OnIterateAttributeValueEP26IEconItemAttributeIteratorPK28CEconItemAttributeDefinitionRK22attribute_data_union_t"
+		},
+		{
+			"name": "CSchemaAttributeType_Float::BSupportsGameplayModificationAndNetworking() const",
+			"name_mangled": "_ZNK26CSchemaAttributeType_Float42BSupportsGameplayModificationAndNetworkingEv"
+		},
+		{
+			"name": "CSchemaAttributeType_Float::ConvertTypedValueToByteStream(float const&, std::string*) const",
+			"name_mangled": "_ZNK26CSchemaAttributeType_Float29ConvertTypedValueToByteStreamERKfPSs"
+		},
+		{
+			"name": "CSchemaAttributeType_Float::ConvertByteStreamToTypedValue(std::string const&, float*) const",
+			"name_mangled": "_ZNK26CSchemaAttributeType_Float29ConvertByteStreamToTypedValueERKSsPf"
+		}
+	]
+}

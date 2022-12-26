@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CGameGibManager>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CGameGibManagerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CGameGibManager>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CGameGibManagerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CGameGibManager>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CGameGibManagerE13GetEntitySizeEv"
+		}
+	]
+}

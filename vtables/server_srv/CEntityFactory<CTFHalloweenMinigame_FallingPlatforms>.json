@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFHalloweenMinigame_FallingPlatforms>",
+	"classname_mangled": "_ZTV14CEntityFactoryI37CTFHalloweenMinigame_FallingPlatformsE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFHalloweenMinigame_FallingPlatforms>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI37CTFHalloweenMinigame_FallingPlatformsE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFHalloweenMinigame_FallingPlatforms>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI37CTFHalloweenMinigame_FallingPlatformsE13GetEntitySizeEv"
+		}
+	]
+}

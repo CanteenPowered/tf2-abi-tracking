@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgUpdateItemSchema>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI20CMsgUpdateItemSchemaEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgUpdateItemSchema>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI20CMsgUpdateItemSchemaED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgUpdateItemSchema>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI20CMsgUpdateItemSchemaE14GetGenericBodyEv"
+		}
+	]
+}

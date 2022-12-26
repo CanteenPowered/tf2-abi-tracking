@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPointProximitySensor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI21CPointProximitySensorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPointProximitySensor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI21CPointProximitySensorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPointProximitySensor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI21CPointProximitySensorE13GetEntitySizeEv"
+		}
+	]
+}

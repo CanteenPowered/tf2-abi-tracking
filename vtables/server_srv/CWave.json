@@ -1,0 +1,34 @@
+{
+	"classname": "CWave",
+	"classname_mangled": "_ZTV5CWave",
+	"members": [
+		{
+			"name": "CWave::~CWave()",
+			"name_mangled": "_ZN5CWaveD0Ev"
+		},
+		{
+			"name": "CWave::Parse(KeyValues*)",
+			"name_mangled": "_ZN5CWave5ParseEP9KeyValues"
+		},
+		{
+			"name": "IPopulator::PostInitialize()",
+			"name_mangled": "_ZN10IPopulator14PostInitializeEv"
+		},
+		{
+			"name": "CWave::Update()",
+			"name_mangled": "_ZN5CWave6UpdateEv"
+		},
+		{
+			"name": "IPopulator::UnpauseSpawning()",
+			"name_mangled": "_ZN10IPopulator15UnpauseSpawningEv"
+		},
+		{
+			"name": "CWave::OnPlayerKilled(CTFPlayer*)",
+			"name_mangled": "_ZN5CWave14OnPlayerKilledEP9CTFPlayer"
+		},
+		{
+			"name": "CWave::HasEventChangeAttributes(char const*) const",
+			"name_mangled": "_ZNK5CWave24HasEventChangeAttributesEPKc"
+		}
+	]
+}

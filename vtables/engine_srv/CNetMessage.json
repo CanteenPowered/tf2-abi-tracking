@@ -1,0 +1,22 @@
+{
+	"classname": "CNetMessage",
+	"classname_mangled": "_ZTV11CNetMessage",
+	"members": [
+		{
+			"name": "CNetMessage::~CNetMessage()",
+			"name_mangled": "_ZN11CNetMessageD0Ev"
+		},
+		{
+			"name": "CNetMessage::SetNetChannel(INetChannel*)",
+			"name_mangled": "_ZN11CNetMessage13SetNetChannelEP11INetChannel"
+		},
+		{
+			"name": "CNetMessage::SetReliable(bool)",
+			"name_mangled": "_ZN11CNetMessage11SetReliableEb"
+		},
+		{
+			"name": "CNetMessage::Process()",
+			"name_mangled": "_ZN11CNetMessage7ProcessEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPhysicsEntitySolver>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CPhysicsEntitySolverE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPhysicsEntitySolver>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CPhysicsEntitySolverE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPhysicsEntitySolver>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CPhysicsEntitySolverE13GetEntitySizeEv"
+		}
+	]
+}

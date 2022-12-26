@@ -1,0 +1,118 @@
+{
+	"classname": "CStaticPropMgr",
+	"classname_mangled": "_ZTV14CStaticPropMgr",
+	"members": [
+		{
+			"name": "CStaticPropMgr::Shutdown()",
+			"name_mangled": "_ZN14CStaticPropMgr8ShutdownEv"
+		},
+		{
+			"name": "CStaticPropMgr::LevelInit()",
+			"name_mangled": "_ZN14CStaticPropMgr9LevelInitEv"
+		},
+		{
+			"name": "CStaticPropMgr::LevelInitClient()",
+			"name_mangled": "_ZN14CStaticPropMgr15LevelInitClientEv"
+		},
+		{
+			"name": "CStaticPropMgr::LevelShutdownClient()",
+			"name_mangled": "_ZN14CStaticPropMgr19LevelShutdownClientEv"
+		},
+		{
+			"name": "CStaticPropMgr::LevelShutdown()",
+			"name_mangled": "_ZN14CStaticPropMgr13LevelShutdownEv"
+		},
+		{
+			"name": "CStaticPropMgr::RecomputeStaticLighting()",
+			"name_mangled": "_ZN14CStaticPropMgr23RecomputeStaticLightingEv"
+		},
+		{
+			"name": "CStaticPropMgr::IsPropInPVS(IHandleEntity*, unsigned char const*) const",
+			"name_mangled": "_ZNK14CStaticPropMgr11IsPropInPVSEP13IHandleEntityPKh"
+		},
+		{
+			"name": "CStaticPropMgr::GetStaticProp(IHandleEntity*)",
+			"name_mangled": "_ZN14CStaticPropMgr13GetStaticPropEP13IHandleEntity"
+		},
+		{
+			"name": "CStaticPropMgr::GetLightCacheHandleForStaticProp(IHandleEntity*)",
+			"name_mangled": "_ZN14CStaticPropMgr32GetLightCacheHandleForStaticPropEP13IHandleEntity"
+		},
+		{
+			"name": "CStaticPropMgr::IsStaticProp(IHandleEntity*) const",
+			"name_mangled": "_ZNK14CStaticPropMgr12IsStaticPropEP13IHandleEntity"
+		},
+		{
+			"name": "CStaticPropMgr::IsStaticProp(CBaseHandle) const",
+			"name_mangled": "_ZNK14CStaticPropMgr12IsStaticPropE11CBaseHandle"
+		},
+		{
+			"name": "CStaticPropMgr::GetStaticPropIndex(IHandleEntity*) const",
+			"name_mangled": "_ZNK14CStaticPropMgr18GetStaticPropIndexEP13IHandleEntity"
+		},
+		{
+			"name": "CStaticPropMgr::PropHasBakedLightingDisabled(IHandleEntity*) const",
+			"name_mangled": "_ZNK14CStaticPropMgr28PropHasBakedLightingDisabledEP13IHandleEntity"
+		},
+		{
+			"name": "CStaticPropMgr::~CStaticPropMgr()",
+			"name_mangled": "_ZN14CStaticPropMgrD2Ev"
+		},
+		{
+			"name": "CStaticPropMgr::~CStaticPropMgr()",
+			"name_mangled": "_ZN14CStaticPropMgrD0Ev"
+		},
+		{
+			"name": "CStaticPropMgr::GetStaticPropByIndex(int)",
+			"name_mangled": "_ZN14CStaticPropMgr20GetStaticPropByIndexEi"
+		},
+		{
+			"name": "CStaticPropMgr::ComputePropOpacity(Vector const&, float)",
+			"name_mangled": "_ZN14CStaticPropMgr18ComputePropOpacityERK6Vectorf"
+		},
+		{
+			"name": "CStaticPropMgr::TraceRayAgainstStaticProp(Ray_t const&, int, CGameTrace&)",
+			"name_mangled": "_ZN14CStaticPropMgr25TraceRayAgainstStaticPropERK5Ray_tiR10CGameTrace"
+		},
+		{
+			"name": "CStaticPropMgr::AddDecalToStaticProp(Vector const&, Vector const&, int, int, bool, CGameTrace&)",
+			"name_mangled": "_ZN14CStaticPropMgr20AddDecalToStaticPropERK6VectorS2_iibR10CGameTrace"
+		},
+		{
+			"name": "CStaticPropMgr::AddColorDecalToStaticProp(Vector const&, Vector const&, int, int, bool, CGameTrace&, bool, Color)",
+			"name_mangled": "_ZN14CStaticPropMgr25AddColorDecalToStaticPropERK6VectorS2_iibR10CGameTraceb5Color"
+		},
+		{
+			"name": "CStaticPropMgr::AddShadowToStaticProp(unsigned short, IClientRenderable*)",
+			"name_mangled": "_ZN14CStaticPropMgr21AddShadowToStaticPropEtP17IClientRenderable"
+		},
+		{
+			"name": "CStaticPropMgr::RemoveAllShadowsFromStaticProp(IClientRenderable*)",
+			"name_mangled": "_ZN14CStaticPropMgr30RemoveAllShadowsFromStaticPropEP17IClientRenderable"
+		},
+		{
+			"name": "CStaticPropMgr::GetStaticPropMaterialColorAndLighting(CGameTrace*, int, Vector&, Vector&)",
+			"name_mangled": "_ZN14CStaticPropMgr37GetStaticPropMaterialColorAndLightingEP10CGameTraceiR6VectorS3_"
+		},
+		{
+			"name": "CStaticPropMgr::CreateVPhysicsRepresentations(IPhysicsEnvironment*, IVPhysicsKeyHandler*, void*)",
+			"name_mangled": "_ZN14CStaticPropMgr29CreateVPhysicsRepresentationsEP19IPhysicsEnvironmentP19IVPhysicsKeyHandlerPv"
+		},
+		{
+			"name": "CStaticPropMgr::GetAllStaticProps(CUtlVector<ICollideable*, CUtlMemory<ICollideable*, int>>*)",
+			"name_mangled": "_ZN14CStaticPropMgr17GetAllStaticPropsEP10CUtlVectorIP12ICollideable10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CStaticPropMgr::GetAllStaticPropsInAABB(Vector const&, Vector const&, CUtlVector<ICollideable*, CUtlMemory<ICollideable*, int>>*)",
+			"name_mangled": "_ZN14CStaticPropMgr23GetAllStaticPropsInAABBERK6VectorS2_P10CUtlVectorIP12ICollideable10CUtlMemoryIS5_iEE"
+		},
+		{
+			"name": "CStaticPropMgr::GetAllStaticPropsInOBB(Vector const&, Vector const&, Vector const&, Vector const&, CUtlVector<ICollideable*, CUtlMemory<ICollideable*, int>>*)",
+			"name_mangled": "_ZN14CStaticPropMgr22GetAllStaticPropsInOBBERK6VectorS2_S2_S2_P10CUtlVectorIP12ICollideable10CUtlMemoryIS5_iEE"
+		},
+		{
+			"name": "CStaticPropMgr::DrawStaticProps(IClientRenderable**, int, bool, bool)",
+			"name_mangled": "_ZN14CStaticPropMgr15DrawStaticPropsEPP17IClientRenderableibb"
+		}
+	]
+}

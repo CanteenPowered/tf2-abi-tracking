@@ -1,0 +1,22 @@
+{
+	"classname": "CVoiceServer",
+	"classname_mangled": "_ZTV12CVoiceServer",
+	"members": [
+		{
+			"name": "CVoiceServer::~CVoiceServer()",
+			"name_mangled": "_ZN12CVoiceServerD0Ev"
+		},
+		{
+			"name": "CVoiceServer::GetClientListening(int, int)",
+			"name_mangled": "_ZN12CVoiceServer18GetClientListeningEii"
+		},
+		{
+			"name": "CVoiceServer::SetClientListening(int, int, bool)",
+			"name_mangled": "_ZN12CVoiceServer18SetClientListeningEiib"
+		},
+		{
+			"name": "CVoiceServer::SetClientProximity(int, int, bool)",
+			"name_mangled": "_ZN12CVoiceServer18SetClientProximityEiib"
+		}
+	]
+}

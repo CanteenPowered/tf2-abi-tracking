@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CKothLogic>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10CKothLogicE",
+	"members": [
+		{
+			"name": "CEntityFactory<CKothLogic>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10CKothLogicE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CKothLogic>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10CKothLogicE13GetEntitySizeEv"
+		}
+	]
+}

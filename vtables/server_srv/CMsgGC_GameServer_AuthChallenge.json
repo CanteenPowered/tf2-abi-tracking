@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgGC_GameServer_AuthChallenge",
+	"classname_mangled": "_ZTV31CMsgGC_GameServer_AuthChallenge",
+	"members": [
+		{
+			"name": "CMsgGC_GameServer_AuthChallenge::~CMsgGC_GameServer_AuthChallenge()",
+			"name_mangled": "_ZN31CMsgGC_GameServer_AuthChallengeD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgGC_GameServer_AuthChallenge::New() const",
+			"name_mangled": "_ZNK31CMsgGC_GameServer_AuthChallenge3NewEv"
+		},
+		{
+			"name": "CMsgGC_GameServer_AuthChallenge::Clear()",
+			"name_mangled": "_ZN31CMsgGC_GameServer_AuthChallenge5ClearEv"
+		},
+		{
+			"name": "CMsgGC_GameServer_AuthChallenge::IsInitialized() const",
+			"name_mangled": "_ZNK31CMsgGC_GameServer_AuthChallenge13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgGC_GameServer_AuthChallenge::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN31CMsgGC_GameServer_AuthChallenge27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgGC_GameServer_AuthChallenge::ByteSize() const",
+			"name_mangled": "_ZNK31CMsgGC_GameServer_AuthChallenge8ByteSizeEv"
+		},
+		{
+			"name": "CMsgGC_GameServer_AuthChallenge::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK31CMsgGC_GameServer_AuthChallenge24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgGC_GameServer_AuthChallenge::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK31CMsgGC_GameServer_AuthChallenge31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgGC_GameServer_AuthChallenge::GetCachedSize() const",
+			"name_mangled": "_ZNK31CMsgGC_GameServer_AuthChallenge13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgGC_GameServer_AuthChallenge::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN31CMsgGC_GameServer_AuthChallenge8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgGC_GameServer_AuthChallenge::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN31CMsgGC_GameServer_AuthChallenge9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgGC_GameServer_AuthChallenge::SetCachedSize(int) const",
+			"name_mangled": "_ZNK31CMsgGC_GameServer_AuthChallenge13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgGC_GameServer_AuthChallenge::GetMetadata() const",
+			"name_mangled": "_ZNK31CMsgGC_GameServer_AuthChallenge11GetMetadataEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFBat_Fish>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CTFBat_FishE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFBat_Fish>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CTFBat_FishE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFBat_Fish>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CTFBat_FishE13GetEntitySizeEv"
+		}
+	]
+}

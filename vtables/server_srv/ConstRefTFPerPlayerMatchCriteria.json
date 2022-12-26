@@ -1,0 +1,14 @@
+{
+	"classname": "ConstRefTFPerPlayerMatchCriteria",
+	"classname_mangled": "_ZTV32ConstRefTFPerPlayerMatchCriteria",
+	"members": [
+		{
+			"name": "ConstRefTFPerPlayerMatchCriteria::~ConstRefTFPerPlayerMatchCriteria()",
+			"name_mangled": "_ZN32ConstRefTFPerPlayerMatchCriteriaD0Ev"
+		},
+		{
+			"name": "ConstRefTFPerPlayerMatchCriteria::Proto() const",
+			"name_mangled": "_ZNK32ConstRefTFPerPlayerMatchCriteria5ProtoEv"
+		}
+	]
+}

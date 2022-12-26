@@ -1,0 +1,38 @@
+{
+	"classname": "ReliableMsgNewMatchForLobby",
+	"classname_mangled": "_ZTV27ReliableMsgNewMatchForLobby",
+	"members": [
+		{
+			"name": "ReliableMsgNewMatchForLobby::~ReliableMsgNewMatchForLobby()",
+			"name_mangled": "_ZN27ReliableMsgNewMatchForLobbyD0Ev"
+		},
+		{
+			"name": "CJobReliableMessageBase<ReliableMsgNewMatchForLobby, CMsgGCNewMatchForLobbyRequest, (ETFGCMsg)6537, CMsgGCNewMatchForLobbyResponse, (ETFGCMsg)6538>::BYieldingRunJob(void*)",
+			"name_mangled": "_ZN23CJobReliableMessageBaseI27ReliableMsgNewMatchForLobby29CMsgGCNewMatchForLobbyRequestL8ETFGCMsg6537E30CMsgGCNewMatchForLobbyResponseLS2_6538EE15BYieldingRunJobEPv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob22BYieldingRunJobFromMsgEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob24CHeartbeatsBeforeTimeoutEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::GetServerType()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob13GetServerTypeEv"
+		},
+		{
+			"name": "CJobReliableMessageBase<ReliableMsgNewMatchForLobby, CMsgGCNewMatchForLobbyRequest, (ETFGCMsg)6537, CMsgGCNewMatchForLobbyResponse, (ETFGCMsg)6538>::Finalize()",
+			"name_mangled": "_ZN23CJobReliableMessageBaseI27ReliableMsgNewMatchForLobby29CMsgGCNewMatchForLobbyRequestL8ETFGCMsg6537E30CMsgGCNewMatchForLobbyResponseLS2_6538EE8FinalizeEv"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"classname": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>",
+	"classname_mangled": "_ZTV36CTypedProtoBufScriptObjectDefinitionI20CMsgQuestMapStarTypeL13ProtoDefTypes12EE",
+	"members": [
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::~CTypedProtoBufScriptObjectDefinition()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI20CMsgQuestMapStarTypeL13ProtoDefTypes12EED0Ev"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetMsg() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI20CMsgQuestMapStarTypeL13ProtoDefTypes12EE6GetMsgEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetDefType() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI20CMsgQuestMapStarTypeL13ProtoDefTypes12EE10GetDefTypeEv"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::GetDisplayName() const",
+			"name_mangled": "_ZNK31IProtoBufScriptObjectDefinition14GetDisplayNameEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetTopLayerMessage() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI20CMsgQuestMapStarTypeL13ProtoDefTypes12EE18GetTopLayerMessageEv"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN31IProtoBufScriptObjectDefinition15BPostDataLoadedEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN31IProtoBufScriptObjectDefinition13BOnDataLoadedEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetMutableTopLayerMsg()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI20CMsgQuestMapStarTypeL13ProtoDefTypes12EE21GetMutableTopLayerMsgEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgQuestMapStarType, (ProtoDefTypes)12>::GetMutableMsg()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI20CMsgQuestMapStarTypeL13ProtoDefTypes12EE13GetMutableMsgEv"
+		}
+	]
+}

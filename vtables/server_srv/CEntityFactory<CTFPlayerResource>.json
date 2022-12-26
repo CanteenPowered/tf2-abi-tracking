@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFPlayerResource>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CTFPlayerResourceE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFPlayerResource>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CTFPlayerResourceE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFPlayerResource>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CTFPlayerResourceE13GetEntitySizeEv"
+		}
+	]
+}

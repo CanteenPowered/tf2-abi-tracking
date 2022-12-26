@@ -1,0 +1,10 @@
+{
+	"classname": "ICurrencyPackAutoList",
+	"classname_mangled": "_ZTV21ICurrencyPackAutoList",
+	"members": [
+		{
+			"name": "ICurrencyPackAutoList::~ICurrencyPackAutoList()",
+			"name_mangled": "_ZN21ICurrencyPackAutoListD0Ev"
+		}
+	]
+}

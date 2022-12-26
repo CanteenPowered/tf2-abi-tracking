@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CMathColorBlend>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CMathColorBlendE",
+	"members": [
+		{
+			"name": "CEntityFactory<CMathColorBlend>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CMathColorBlendE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CMathColorBlend>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CMathColorBlendE13GetEntitySizeEv"
+		}
+	]
+}

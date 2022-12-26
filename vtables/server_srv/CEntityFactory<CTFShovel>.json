@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFShovel>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9CTFShovelE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFShovel>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9CTFShovelE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFShovel>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9CTFShovelE13GetEntitySizeEv"
+		}
+	]
+}

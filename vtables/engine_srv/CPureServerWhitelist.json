@@ -1,0 +1,22 @@
+{
+	"classname": "CPureServerWhitelist",
+	"classname_mangled": "_ZTV20CPureServerWhitelist",
+	"members": [
+		{
+			"name": "CPureServerWhitelist::Release()",
+			"name_mangled": "_ZN20CPureServerWhitelist7ReleaseEv"
+		},
+		{
+			"name": "CPureServerWhitelist::GetFileClass(char const*)",
+			"name_mangled": "_ZN20CPureServerWhitelist12GetFileClassEPKc"
+		},
+		{
+			"name": "CPureServerWhitelist::GetTrustedKeyCount() const",
+			"name_mangled": "_ZNK20CPureServerWhitelist18GetTrustedKeyCountEv"
+		},
+		{
+			"name": "CPureServerWhitelist::GetTrustedKey(int, int*) const",
+			"name_mangled": "_ZNK20CPureServerWhitelist13GetTrustedKeyEiPi"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAI_ScriptedSentence>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CAI_ScriptedSentenceE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAI_ScriptedSentence>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CAI_ScriptedSentenceE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAI_ScriptedSentence>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CAI_ScriptedSentenceE13GetEntitySizeEv"
+		}
+	]
+}

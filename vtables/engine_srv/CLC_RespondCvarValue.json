@@ -1,0 +1,66 @@
+{
+	"classname": "CLC_RespondCvarValue",
+	"classname_mangled": "_ZTV20CLC_RespondCvarValue",
+	"members": [
+		{
+			"name": "CLC_RespondCvarValue::~CLC_RespondCvarValue()",
+			"name_mangled": "_ZN20CLC_RespondCvarValueD0Ev"
+		},
+		{
+			"name": "CNetMessage::SetNetChannel(INetChannel*)",
+			"name_mangled": "_ZN11CNetMessage13SetNetChannelEP11INetChannel"
+		},
+		{
+			"name": "CNetMessage::SetReliable(bool)",
+			"name_mangled": "_ZN11CNetMessage11SetReliableEb"
+		},
+		{
+			"name": "CLC_RespondCvarValue::Process()",
+			"name_mangled": "_ZN20CLC_RespondCvarValue7ProcessEv"
+		},
+		{
+			"name": "CLC_RespondCvarValue::ReadFromBuffer(bf_read&)",
+			"name_mangled": "_ZN20CLC_RespondCvarValue14ReadFromBufferER7bf_read"
+		},
+		{
+			"name": "CLC_RespondCvarValue::WriteToBuffer(bf_write&)",
+			"name_mangled": "_ZN20CLC_RespondCvarValue13WriteToBufferER8bf_write"
+		},
+		{
+			"name": "CNetMessage::IsReliable() const",
+			"name_mangled": "_ZNK11CNetMessage10IsReliableEv"
+		},
+		{
+			"name": "CLC_RespondCvarValue::GetType() const",
+			"name_mangled": "_ZNK20CLC_RespondCvarValue7GetTypeEv"
+		},
+		{
+			"name": "CNetMessage::GetGroup() const",
+			"name_mangled": "_ZNK11CNetMessage8GetGroupEv"
+		},
+		{
+			"name": "CLC_RespondCvarValue::GetName() const",
+			"name_mangled": "_ZNK20CLC_RespondCvarValue7GetNameEv"
+		},
+		{
+			"name": "CNetMessage::GetNetChannel() const",
+			"name_mangled": "_ZNK11CNetMessage13GetNetChannelEv"
+		},
+		{
+			"name": "CLC_RespondCvarValue::ToString() const",
+			"name_mangled": "_ZNK20CLC_RespondCvarValue8ToStringEv"
+		},
+		{
+			"name": "CNetMessage::BIncomingMessageForProcessing(double, int)",
+			"name_mangled": "_ZN11CNetMessage29BIncomingMessageForProcessingEdi"
+		},
+		{
+			"name": "CLC_RespondCvarValue::GetSize() const",
+			"name_mangled": "_ZNK20CLC_RespondCvarValue7GetSizeEv"
+		},
+		{
+			"name": "CNetMessage::SetRatePolicy()",
+			"name_mangled": "_ZN11CNetMessage13SetRatePolicyEv"
+		}
+	]
+}

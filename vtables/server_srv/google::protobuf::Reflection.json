@@ -1,0 +1,10 @@
+{
+	"classname": "google::protobuf::Reflection",
+	"classname_mangled": "_ZTVN6google8protobuf10ReflectionE",
+	"members": [
+		{
+			"name": "google::protobuf::Reflection::~Reflection()",
+			"name_mangled": "_ZN6google8protobuf10ReflectionD0Ev"
+		}
+	]
+}

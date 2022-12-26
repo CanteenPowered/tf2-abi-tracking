@@ -1,0 +1,38 @@
+{
+	"classname": "CPooledVBAllocator_ColorMesh",
+	"classname_mangled": "_ZTV28CPooledVBAllocator_ColorMesh",
+	"members": [
+		{
+			"name": "CPooledVBAllocator_ColorMesh::~CPooledVBAllocator_ColorMesh()",
+			"name_mangled": "_ZN28CPooledVBAllocator_ColorMeshD0Ev"
+		},
+		{
+			"name": "CPooledVBAllocator_ColorMesh::Init(unsigned long long, int)",
+			"name_mangled": "_ZN28CPooledVBAllocator_ColorMesh4InitEyi"
+		},
+		{
+			"name": "CPooledVBAllocator_ColorMesh::Clear()",
+			"name_mangled": "_ZN28CPooledVBAllocator_ColorMesh5ClearEv"
+		},
+		{
+			"name": "CPooledVBAllocator_ColorMesh::GetSharedMesh()",
+			"name_mangled": "_ZN28CPooledVBAllocator_ColorMesh13GetSharedMeshEv"
+		},
+		{
+			"name": "CPooledVBAllocator_ColorMesh::GetVertexBufferBase()",
+			"name_mangled": "_ZN28CPooledVBAllocator_ColorMesh19GetVertexBufferBaseEv"
+		},
+		{
+			"name": "CPooledVBAllocator_ColorMesh::GetNumVertsAllocated()",
+			"name_mangled": "_ZN28CPooledVBAllocator_ColorMesh20GetNumVertsAllocatedEv"
+		},
+		{
+			"name": "CPooledVBAllocator_ColorMesh::Allocate(int)",
+			"name_mangled": "_ZN28CPooledVBAllocator_ColorMesh8AllocateEi"
+		},
+		{
+			"name": "CPooledVBAllocator_ColorMesh::Deallocate(int, int)",
+			"name_mangled": "_ZN28CPooledVBAllocator_ColorMesh10DeallocateEii"
+		}
+	]
+}

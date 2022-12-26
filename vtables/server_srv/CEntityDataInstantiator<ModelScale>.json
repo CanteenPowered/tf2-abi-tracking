@@ -1,0 +1,22 @@
+{
+	"classname": "CEntityDataInstantiator<ModelScale>",
+	"classname_mangled": "_ZTV23CEntityDataInstantiatorI10ModelScaleE",
+	"members": [
+		{
+			"name": "CEntityDataInstantiator<ModelScale>::~CEntityDataInstantiator()",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI10ModelScaleED0Ev"
+		},
+		{
+			"name": "CEntityDataInstantiator<ModelScale>::GetDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI10ModelScaleE13GetDataObjectEPK11CBaseEntity"
+		},
+		{
+			"name": "CEntityDataInstantiator<ModelScale>::CreateDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI10ModelScaleE16CreateDataObjectEPK11CBaseEntity"
+		},
+		{
+			"name": "CEntityDataInstantiator<ModelScale>::DestroyDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI10ModelScaleE17DestroyDataObjectEPK11CBaseEntity"
+		}
+	]
+}

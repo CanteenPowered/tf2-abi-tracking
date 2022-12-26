@@ -1,0 +1,30 @@
+{
+	"classname": "SQClass",
+	"classname_mangled": "_ZTV7SQClass",
+	"members": [
+		{
+			"name": "SQClass::~SQClass()",
+			"name_mangled": "_ZN7SQClassD0Ev"
+		},
+		{
+			"name": "SQClass::Iterate(CSQStateIterator*)",
+			"name_mangled": "_ZN7SQClass7IterateEP16CSQStateIterator"
+		},
+		{
+			"name": "SQClass::Release()",
+			"name_mangled": "_ZN7SQClass7ReleaseEv"
+		},
+		{
+			"name": "SQClass::GetType()",
+			"name_mangled": "_ZN7SQClass7GetTypeEv"
+		},
+		{
+			"name": "SQClass::Mark(SQCollectable**)",
+			"name_mangled": "_ZN7SQClass4MarkEPP13SQCollectable"
+		},
+		{
+			"name": "SQClass::Finalize()",
+			"name_mangled": "_ZN7SQClass8FinalizeEv"
+		}
+	]
+}

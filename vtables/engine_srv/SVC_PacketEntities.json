@@ -1,0 +1,66 @@
+{
+	"classname": "SVC_PacketEntities",
+	"classname_mangled": "_ZTV18SVC_PacketEntities",
+	"members": [
+		{
+			"name": "SVC_PacketEntities::~SVC_PacketEntities()",
+			"name_mangled": "_ZN18SVC_PacketEntitiesD0Ev"
+		},
+		{
+			"name": "CNetMessage::SetNetChannel(INetChannel*)",
+			"name_mangled": "_ZN11CNetMessage13SetNetChannelEP11INetChannel"
+		},
+		{
+			"name": "CNetMessage::SetReliable(bool)",
+			"name_mangled": "_ZN11CNetMessage11SetReliableEb"
+		},
+		{
+			"name": "SVC_PacketEntities::Process()",
+			"name_mangled": "_ZN18SVC_PacketEntities7ProcessEv"
+		},
+		{
+			"name": "SVC_PacketEntities::ReadFromBuffer(bf_read&)",
+			"name_mangled": "_ZN18SVC_PacketEntities14ReadFromBufferER7bf_read"
+		},
+		{
+			"name": "SVC_PacketEntities::WriteToBuffer(bf_write&)",
+			"name_mangled": "_ZN18SVC_PacketEntities13WriteToBufferER8bf_write"
+		},
+		{
+			"name": "CNetMessage::IsReliable() const",
+			"name_mangled": "_ZNK11CNetMessage10IsReliableEv"
+		},
+		{
+			"name": "SVC_PacketEntities::GetType() const",
+			"name_mangled": "_ZNK18SVC_PacketEntities7GetTypeEv"
+		},
+		{
+			"name": "SVC_PacketEntities::GetGroup() const",
+			"name_mangled": "_ZNK18SVC_PacketEntities8GetGroupEv"
+		},
+		{
+			"name": "SVC_PacketEntities::GetName() const",
+			"name_mangled": "_ZNK18SVC_PacketEntities7GetNameEv"
+		},
+		{
+			"name": "CNetMessage::GetNetChannel() const",
+			"name_mangled": "_ZNK11CNetMessage13GetNetChannelEv"
+		},
+		{
+			"name": "SVC_PacketEntities::ToString() const",
+			"name_mangled": "_ZNK18SVC_PacketEntities8ToStringEv"
+		},
+		{
+			"name": "CNetMessage::BIncomingMessageForProcessing(double, int)",
+			"name_mangled": "_ZN11CNetMessage29BIncomingMessageForProcessingEdi"
+		},
+		{
+			"name": "SVC_PacketEntities::GetSize() const",
+			"name_mangled": "_ZNK18SVC_PacketEntities7GetSizeEv"
+		},
+		{
+			"name": "CNetMessage::SetRatePolicy()",
+			"name_mangled": "_ZN11CNetMessage13SetRatePolicyEv"
+		}
+	]
+}

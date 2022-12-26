@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTankTrainAI>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CTankTrainAIE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTankTrainAI>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CTankTrainAIE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTankTrainAI>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CTankTrainAIE13GetEntitySizeEv"
+		}
+	]
+}

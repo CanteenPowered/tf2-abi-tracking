@@ -1,0 +1,22 @@
+{
+	"classname": "CMemberFunctor0<CParallelProcessor<PackWork_t, CFuncJobItemProcessor<PackWork_t>>*, void (CParallelProcessor<PackWork_t, CFuncJobItemProcessor<PackWork_t>>::*)(), CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>",
+	"classname_mangled": "_ZTV15CMemberFunctor0IP18CParallelProcessorI10PackWork_t21CFuncJobItemProcessorIS1_EEMS4_FvvE12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneE",
+	"members": [
+		{
+			"name": "CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>::Release()",
+			"name_mangled": "_ZN12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE7ReleaseEv"
+		},
+		{
+			"name": "CMemberFunctor0<CParallelProcessor<PackWork_t, CFuncJobItemProcessor<PackWork_t>>*, void (CParallelProcessor<PackWork_t, CFuncJobItemProcessor<PackWork_t>>::*)(), CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::~CMemberFunctor0()",
+			"name_mangled": "_ZN15CMemberFunctor0IP18CParallelProcessorI10PackWork_t21CFuncJobItemProcessorIS1_EEMS4_FvvE12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneED2Ev"
+		},
+		{
+			"name": "CMemberFunctor0<CParallelProcessor<PackWork_t, CFuncJobItemProcessor<PackWork_t>>*, void (CParallelProcessor<PackWork_t, CFuncJobItemProcessor<PackWork_t>>::*)(), CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::~CMemberFunctor0()",
+			"name_mangled": "_ZN15CMemberFunctor0IP18CParallelProcessorI10PackWork_t21CFuncJobItemProcessorIS1_EEMS4_FvvE12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneED0Ev"
+		},
+		{
+			"name": "CMemberFunctor0<CParallelProcessor<PackWork_t, CFuncJobItemProcessor<PackWork_t>>*, void (CParallelProcessor<PackWork_t, CFuncJobItemProcessor<PackWork_t>>::*)(), CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>, CFuncMemPolicyNone>::operator()()",
+			"name_mangled": "_ZN15CMemberFunctor0IP18CParallelProcessorI10PackWork_t21CFuncJobItemProcessorIS1_EEMS4_FvvE12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE18CFuncMemPolicyNoneEclEv"
+		}
+	]
+}

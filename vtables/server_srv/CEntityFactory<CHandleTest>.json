@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CHandleTest>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CHandleTestE",
+	"members": [
+		{
+			"name": "CEntityFactory<CHandleTest>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CHandleTestE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CHandleTest>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CHandleTestE13GetEntitySizeEv"
+		}
+	]
+}

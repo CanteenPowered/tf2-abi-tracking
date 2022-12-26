@@ -1,0 +1,42 @@
+{
+	"classname": "NextBotManager",
+	"classname_mangled": "_ZTV14NextBotManager",
+	"members": [
+		{
+			"name": "NextBotManager::~NextBotManager()",
+			"name_mangled": "_ZN14NextBotManagerD0Ev"
+		},
+		{
+			"name": "NextBotManager::Update()",
+			"name_mangled": "_ZN14NextBotManager6UpdateEv"
+		},
+		{
+			"name": "NextBotManager::OnMapLoaded()",
+			"name_mangled": "_ZN14NextBotManager11OnMapLoadedEv"
+		},
+		{
+			"name": "NextBotManager::OnRoundRestart()",
+			"name_mangled": "_ZN14NextBotManager14OnRoundRestartEv"
+		},
+		{
+			"name": "NextBotManager::OnBeginChangeLevel()",
+			"name_mangled": "_ZN14NextBotManager18OnBeginChangeLevelEv"
+		},
+		{
+			"name": "NextBotManager::OnKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN14NextBotManager8OnKilledEP20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "NextBotManager::OnSound(CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN14NextBotManager7OnSoundEP11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "NextBotManager::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN14NextBotManager14OnSpokeConceptEP20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "NextBotManager::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN14NextBotManager13OnWeaponFiredEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		}
+	]
+}

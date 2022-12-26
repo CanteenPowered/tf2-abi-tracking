@@ -1,0 +1,14 @@
+{
+	"classname": "CLog",
+	"classname_mangled": "_ZTV4CLog",
+	"members": [
+		{
+			"name": "CLog::~CLog()",
+			"name_mangled": "_ZN4CLogD0Ev"
+		},
+		{
+			"name": "CLog::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN4CLog13FireGameEventEP10IGameEvent"
+		}
+	]
+}

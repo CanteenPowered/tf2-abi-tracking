@@ -1,0 +1,10 @@
+{
+	"classname": "CJobThread",
+	"classname_mangled": "_ZTV10CJobThread",
+	"members": [
+		{
+			"name": "CJobThread::~CJobThread()",
+			"name_mangled": "_ZN10CJobThreadD0Ev"
+		}
+	]
+}

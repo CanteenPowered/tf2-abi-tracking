@@ -1,0 +1,22 @@
+{
+	"classname": "CDataManagerBase",
+	"classname_mangled": "_ZTV16CDataManagerBase",
+	"members": [
+		{
+			"name": "CDataManagerBase::TryLock()",
+			"name_mangled": "_ZN16CDataManagerBase7TryLockEv"
+		},
+		{
+			"name": "CDataManagerBase::Unlock()",
+			"name_mangled": "_ZN16CDataManagerBase6UnlockEv"
+		},
+		{
+			"name": "CDataManagerBase::~CDataManagerBase()",
+			"name_mangled": "_ZN16CDataManagerBaseD1Ev"
+		},
+		{
+			"name": "CDataManagerBase::~CDataManagerBase()",
+			"name_mangled": "_ZN16CDataManagerBaseD0Ev"
+		}
+	]
+}

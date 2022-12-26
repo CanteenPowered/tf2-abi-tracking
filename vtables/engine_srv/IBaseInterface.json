@@ -1,0 +1,10 @@
+{
+	"classname": "IBaseInterface",
+	"classname_mangled": "_ZTV14IBaseInterface",
+	"members": [
+		{
+			"name": "IBaseInterface::~IBaseInterface()",
+			"name_mangled": "_ZN14IBaseInterfaceD0Ev"
+		}
+	]
+}

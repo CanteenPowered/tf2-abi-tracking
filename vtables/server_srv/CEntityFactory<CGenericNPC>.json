@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CGenericNPC>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CGenericNPCE",
+	"members": [
+		{
+			"name": "CEntityFactory<CGenericNPC>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CGenericNPCE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CGenericNPC>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CGenericNPCE13GetEntitySizeEv"
+		}
+	]
+}

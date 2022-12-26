@@ -1,0 +1,30 @@
+{
+	"classname": "IEconItemInterface",
+	"classname_mangled": "_ZTV18IEconItemInterface",
+	"members": [
+		{
+			"name": "IEconItemInterface::~IEconItemInterface()",
+			"name_mangled": "_ZN18IEconItemInterfaceD0Ev"
+		},
+		{
+			"name": "IEconItemInterface::IsTradable() const",
+			"name_mangled": "_ZNK18IEconItemInterface10IsTradableEv"
+		},
+		{
+			"name": "IEconItemInterface::GetUntradabilityFlags() const",
+			"name_mangled": "_ZNK18IEconItemInterface21GetUntradabilityFlagsEv"
+		},
+		{
+			"name": "IEconItemInterface::IsCommodity() const",
+			"name_mangled": "_ZNK18IEconItemInterface11IsCommodityEv"
+		},
+		{
+			"name": "IEconItemInterface::IsUsableInCrafting() const",
+			"name_mangled": "_ZNK18IEconItemInterface18IsUsableInCraftingEv"
+		},
+		{
+			"name": "IEconItemInterface::IsMarketable() const",
+			"name_mangled": "_ZNK18IEconItemInterface12IsMarketableEv"
+		}
+	]
+}

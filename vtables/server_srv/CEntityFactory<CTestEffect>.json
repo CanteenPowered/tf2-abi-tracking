@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTestEffect>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CTestEffectE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTestEffect>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CTestEffectE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTestEffect>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CTestEffectE13GetEntitySizeEv"
+		}
+	]
+}

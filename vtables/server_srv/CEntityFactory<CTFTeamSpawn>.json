@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFTeamSpawn>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CTFTeamSpawnE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFTeamSpawn>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CTFTeamSpawnE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFTeamSpawn>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CTFTeamSpawnE13GetEntitySizeEv"
+		}
+	]
+}

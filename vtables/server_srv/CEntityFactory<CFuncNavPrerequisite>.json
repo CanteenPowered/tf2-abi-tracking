@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncNavPrerequisite>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CFuncNavPrerequisiteE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncNavPrerequisite>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CFuncNavPrerequisiteE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncNavPrerequisite>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CFuncNavPrerequisiteE13GetEntitySizeEv"
+		}
+	]
+}

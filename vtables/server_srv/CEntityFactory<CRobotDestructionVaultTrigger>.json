@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CRobotDestructionVaultTrigger>",
+	"classname_mangled": "_ZTV14CEntityFactoryI29CRobotDestructionVaultTriggerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CRobotDestructionVaultTrigger>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI29CRobotDestructionVaultTriggerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CRobotDestructionVaultTrigger>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI29CRobotDestructionVaultTriggerE13GetEntitySizeEv"
+		}
+	]
+}

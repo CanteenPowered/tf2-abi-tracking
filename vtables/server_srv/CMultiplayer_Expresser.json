@@ -1,0 +1,26 @@
+{
+	"classname": "CMultiplayer_Expresser",
+	"classname_mangled": "_ZTV22CMultiplayer_Expresser",
+	"members": [
+		{
+			"name": "CMultiplayer_Expresser::~CMultiplayer_Expresser()",
+			"name_mangled": "_ZN22CMultiplayer_ExpresserD0Ev"
+		},
+		{
+			"name": "CAI_Expresser::IsValidResponse(ResponseType_t, char const*)",
+			"name_mangled": "_ZN13CAI_Expresser15IsValidResponseE14ResponseType_tPKc"
+		},
+		{
+			"name": "CAI_Expresser::SpeakRawSentence(char const*, float, float, soundlevel_t, CBaseEntity*)",
+			"name_mangled": "_ZN13CAI_Expresser16SpeakRawSentenceEPKcff12soundlevel_tP11CBaseEntity"
+		},
+		{
+			"name": "CMultiplayer_Expresser::IsSpeaking()",
+			"name_mangled": "_ZN22CMultiplayer_Expresser10IsSpeakingEv"
+		},
+		{
+			"name": "CAI_Expresser::SetOuter(CBaseFlex*)",
+			"name_mangled": "_ZN13CAI_Expresser8SetOuterEP9CBaseFlex"
+		}
+	]
+}

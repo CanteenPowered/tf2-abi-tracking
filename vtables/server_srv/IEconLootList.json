@@ -1,0 +1,10 @@
+{
+	"classname": "IEconLootList",
+	"classname_mangled": "_ZTV13IEconLootList",
+	"members": [
+		{
+			"name": "IEconLootList::~IEconLootList()",
+			"name_mangled": "_ZN13IEconLootListD0Ev"
+		}
+	]
+}

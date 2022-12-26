@@ -1,0 +1,14 @@
+{
+	"classname": "CNoHoliday",
+	"classname_mangled": "_ZTV10CNoHoliday",
+	"members": [
+		{
+			"name": "CNoHoliday::~CNoHoliday()",
+			"name_mangled": "_ZN10CNoHolidayD0Ev"
+		},
+		{
+			"name": "CNoHoliday::IsActive(CRTime const&)",
+			"name_mangled": "_ZN10CNoHoliday8IsActiveERK6CRTime"
+		}
+	]
+}

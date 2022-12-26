@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_SentryRocket>",
+	"classname_mangled": "_ZTV14CEntityFactoryI26CTFProjectile_SentryRocketE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_SentryRocket>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI26CTFProjectile_SentryRocketE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_SentryRocket>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI26CTFProjectile_SentryRocketE13GetEntitySizeEv"
+		}
+	]
+}

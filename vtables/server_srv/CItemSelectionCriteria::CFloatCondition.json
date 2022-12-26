@@ -1,0 +1,34 @@
+{
+	"classname": "CItemSelectionCriteria::CFloatCondition",
+	"classname_mangled": "_ZTVN22CItemSelectionCriteria15CFloatConditionE",
+	"members": [
+		{
+			"name": "CItemSelectionCriteria::CFloatCondition::~CFloatCondition()",
+			"name_mangled": "_ZN22CItemSelectionCriteria15CFloatConditionD0Ev"
+		},
+		{
+			"name": "CItemSelectionCriteria::CCondition::BItemDefinitionPassesCriteria(CEconItemDefinition const*) const",
+			"name_mangled": "_ZNK22CItemSelectionCriteria10CCondition29BItemDefinitionPassesCriteriaEPK19CEconItemDefinition"
+		},
+		{
+			"name": "CItemSelectionCriteria::CCondition::GetEOp() const",
+			"name_mangled": "_ZNK22CItemSelectionCriteria10CCondition6GetEOpEv"
+		},
+		{
+			"name": "CItemSelectionCriteria::CCondition::GetField() const",
+			"name_mangled": "_ZNK22CItemSelectionCriteria10CCondition8GetFieldEv"
+		},
+		{
+			"name": "CItemSelectionCriteria::CCondition::GetValue() const",
+			"name_mangled": "_ZNK22CItemSelectionCriteria10CCondition8GetValueEv"
+		},
+		{
+			"name": "CItemSelectionCriteria::CFloatCondition::BSerializeToMsg(CSOItemCriteriaCondition&) const",
+			"name_mangled": "_ZNK22CItemSelectionCriteria15CFloatCondition15BSerializeToMsgER24CSOItemCriteriaCondition"
+		},
+		{
+			"name": "CItemSelectionCriteria::CFloatCondition::BInternalEvaluate(KeyValues*) const",
+			"name_mangled": "_ZNK22CItemSelectionCriteria15CFloatCondition17BInternalEvaluateEP9KeyValues"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_SpellBats>",
+	"classname_mangled": "_ZTV14CEntityFactoryI23CTFProjectile_SpellBatsE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_SpellBats>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI23CTFProjectile_SpellBatsE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_SpellBats>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI23CTFProjectile_SpellBatsE13GetEntitySizeEv"
+		}
+	]
+}

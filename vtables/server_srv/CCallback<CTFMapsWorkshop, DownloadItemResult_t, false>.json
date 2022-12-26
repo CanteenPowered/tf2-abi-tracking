@@ -1,0 +1,22 @@
+{
+	"classname": "CCallback<CTFMapsWorkshop, DownloadItemResult_t, false>",
+	"classname_mangled": "_ZTV9CCallbackI15CTFMapsWorkshop20DownloadItemResult_tLb0EE",
+	"members": [
+		{
+			"name": "CCallbackImpl<16>::Run(void*, bool, unsigned long long)",
+			"name_mangled": "_ZN13CCallbackImplILi16EE3RunEPvby"
+		},
+		{
+			"name": "CCallbackImpl<16>::GetCallbackSizeBytes()",
+			"name_mangled": "_ZN13CCallbackImplILi16EE20GetCallbackSizeBytesEv"
+		},
+		{
+			"name": "CCallback<CTFMapsWorkshop, DownloadItemResult_t, false>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI15CTFMapsWorkshop20DownloadItemResult_tLb0EED1Ev"
+		},
+		{
+			"name": "CCallback<CTFMapsWorkshop, DownloadItemResult_t, false>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI15CTFMapsWorkshop20DownloadItemResult_tLb0EED0Ev"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "GCSDK::CSharedObject",
+	"classname_mangled": "_ZTVN5GCSDK13CSharedObjectE",
+	"members": [
+		{
+			"name": "GCSDK::CSharedObject::~CSharedObject()",
+			"name_mangled": "_ZN5GCSDK13CSharedObjectD0Ev"
+		}
+	]
+}

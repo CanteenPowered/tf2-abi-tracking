@@ -1,0 +1,18 @@
+{
+	"classname": "CWheelOfDoom::WOD_BigHeadEffect",
+	"classname_mangled": "_ZTVN12CWheelOfDoom17WOD_BigHeadEffectE",
+	"members": [
+		{
+			"name": "CWheelOfDoom::WOD_BigHeadEffect::ActivateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom17WOD_BigHeadEffect14ActivateEffectERNS_12EffectData_tE"
+		},
+		{
+			"name": "CWheelOfDoom::WOD_BaseEffect::UpdateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom14WOD_BaseEffect12UpdateEffectERNS_12EffectData_tE"
+		},
+		{
+			"name": "CWheelOfDoom::WOD_BigHeadEffect::DeactivateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom17WOD_BigHeadEffect16DeactivateEffectERNS_12EffectData_tE"
+		}
+	]
+}

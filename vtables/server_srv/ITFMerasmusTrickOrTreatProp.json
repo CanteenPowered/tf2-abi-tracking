@@ -1,0 +1,10 @@
+{
+	"classname": "ITFMerasmusTrickOrTreatProp",
+	"classname_mangled": "_ZTV27ITFMerasmusTrickOrTreatProp",
+	"members": [
+		{
+			"name": "ITFMerasmusTrickOrTreatProp::~ITFMerasmusTrickOrTreatProp()",
+			"name_mangled": "_ZN27ITFMerasmusTrickOrTreatPropD0Ev"
+		}
+	]
+}

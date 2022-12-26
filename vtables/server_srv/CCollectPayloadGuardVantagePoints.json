@@ -1,0 +1,26 @@
+{
+	"classname": "CCollectPayloadGuardVantagePoints",
+	"classname_mangled": "_ZTV33CCollectPayloadGuardVantagePoints",
+	"members": [
+		{
+			"name": "CCollectPayloadGuardVantagePoints::~CCollectPayloadGuardVantagePoints()",
+			"name_mangled": "_ZN33CCollectPayloadGuardVantagePointsD0Ev"
+		},
+		{
+			"name": "CCollectPayloadGuardVantagePoints::operator()(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN33CCollectPayloadGuardVantagePointsclEP8CNavAreaS1_f"
+		},
+		{
+			"name": "ISearchSurroundingAreasFunctor::ShouldSearch(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN30ISearchSurroundingAreasFunctor12ShouldSearchEP8CNavAreaS1_f"
+		},
+		{
+			"name": "ISearchSurroundingAreasFunctor::IterateAdjacentAreas(CNavArea*, CNavArea*, float)",
+			"name_mangled": "_ZN30ISearchSurroundingAreasFunctor20IterateAdjacentAreasEP8CNavAreaS1_f"
+		},
+		{
+			"name": "ISearchSurroundingAreasFunctor::PostSearch()",
+			"name_mangled": "_ZN30ISearchSurroundingAreasFunctor10PostSearchEv"
+		}
+	]
+}

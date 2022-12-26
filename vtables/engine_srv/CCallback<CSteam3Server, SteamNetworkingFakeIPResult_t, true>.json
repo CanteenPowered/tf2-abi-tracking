@@ -1,0 +1,22 @@
+{
+	"classname": "CCallback<CSteam3Server, SteamNetworkingFakeIPResult_t, true>",
+	"classname_mangled": "_ZTV9CCallbackI13CSteam3Server29SteamNetworkingFakeIPResult_tLb1EE",
+	"members": [
+		{
+			"name": "CCallbackImpl<160>::Run(void*, bool, unsigned long long)",
+			"name_mangled": "_ZN13CCallbackImplILi160EE3RunEPvby"
+		},
+		{
+			"name": "CCallbackImpl<160>::GetCallbackSizeBytes()",
+			"name_mangled": "_ZN13CCallbackImplILi160EE20GetCallbackSizeBytesEv"
+		},
+		{
+			"name": "CCallback<CSteam3Server, SteamNetworkingFakeIPResult_t, true>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI13CSteam3Server29SteamNetworkingFakeIPResult_tLb1EED1Ev"
+		},
+		{
+			"name": "CCallback<CSteam3Server, SteamNetworkingFakeIPResult_t, true>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI13CSteam3Server29SteamNetworkingFakeIPResult_tLb1EED0Ev"
+		}
+	]
+}

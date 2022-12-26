@@ -1,0 +1,10 @@
+{
+	"classname": "IBaseObjectAutoList",
+	"classname_mangled": "_ZTV19IBaseObjectAutoList",
+	"members": [
+		{
+			"name": "IBaseObjectAutoList::~IBaseObjectAutoList()",
+			"name_mangled": "_ZN19IBaseObjectAutoListD0Ev"
+		}
+	]
+}

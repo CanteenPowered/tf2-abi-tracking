@@ -1,0 +1,10 @@
+{
+	"classname": "IBonusPackAutoList",
+	"classname_mangled": "_ZTV18IBonusPackAutoList",
+	"members": [
+		{
+			"name": "IBonusPackAutoList::~IBonusPackAutoList()",
+			"name_mangled": "_ZN18IBonusPackAutoListD0Ev"
+		}
+	]
+}

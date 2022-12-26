@@ -1,0 +1,10 @@
+{
+	"classname": "CTraceFilterWorldAndPropsOnly",
+	"classname_mangled": "_ZTV29CTraceFilterWorldAndPropsOnly",
+	"members": [
+		{
+			"name": "CTraceFilterWorldAndPropsOnly::GetTraceType() const",
+			"name_mangled": "_ZNK29CTraceFilterWorldAndPropsOnly12GetTraceTypeEv"
+		}
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgGameServerKickingLobbyResponse",
+	"classname_mangled": "_ZTV34CMsgGameServerKickingLobbyResponse",
+	"members": [
+		{
+			"name": "CMsgGameServerKickingLobbyResponse::~CMsgGameServerKickingLobbyResponse()",
+			"name_mangled": "_ZN34CMsgGameServerKickingLobbyResponseD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgGameServerKickingLobbyResponse::New() const",
+			"name_mangled": "_ZNK34CMsgGameServerKickingLobbyResponse3NewEv"
+		},
+		{
+			"name": "CMsgGameServerKickingLobbyResponse::Clear()",
+			"name_mangled": "_ZN34CMsgGameServerKickingLobbyResponse5ClearEv"
+		},
+		{
+			"name": "CMsgGameServerKickingLobbyResponse::IsInitialized() const",
+			"name_mangled": "_ZNK34CMsgGameServerKickingLobbyResponse13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgGameServerKickingLobbyResponse::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN34CMsgGameServerKickingLobbyResponse27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgGameServerKickingLobbyResponse::ByteSize() const",
+			"name_mangled": "_ZNK34CMsgGameServerKickingLobbyResponse8ByteSizeEv"
+		},
+		{
+			"name": "CMsgGameServerKickingLobbyResponse::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK34CMsgGameServerKickingLobbyResponse24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgGameServerKickingLobbyResponse::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK34CMsgGameServerKickingLobbyResponse31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgGameServerKickingLobbyResponse::GetCachedSize() const",
+			"name_mangled": "_ZNK34CMsgGameServerKickingLobbyResponse13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgGameServerKickingLobbyResponse::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN34CMsgGameServerKickingLobbyResponse8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgGameServerKickingLobbyResponse::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN34CMsgGameServerKickingLobbyResponse9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgGameServerKickingLobbyResponse::SetCachedSize(int) const",
+			"name_mangled": "_ZNK34CMsgGameServerKickingLobbyResponse13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgGameServerKickingLobbyResponse::GetMetadata() const",
+			"name_mangled": "_ZNK34CMsgGameServerKickingLobbyResponse11GetMetadataEv"
+		}
+	]
+}

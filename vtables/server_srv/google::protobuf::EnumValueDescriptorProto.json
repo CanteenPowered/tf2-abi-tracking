@@ -1,0 +1,82 @@
+{
+	"classname": "google::protobuf::EnumValueDescriptorProto",
+	"classname_mangled": "_ZTVN6google8protobuf24EnumValueDescriptorProtoE",
+	"members": [
+		{
+			"name": "google::protobuf::EnumValueDescriptorProto::~EnumValueDescriptorProto()",
+			"name_mangled": "_ZN6google8protobuf24EnumValueDescriptorProtoD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "google::protobuf::EnumValueDescriptorProto::New() const",
+			"name_mangled": "_ZNK6google8protobuf24EnumValueDescriptorProto3NewEv"
+		},
+		{
+			"name": "google::protobuf::EnumValueDescriptorProto::Clear()",
+			"name_mangled": "_ZN6google8protobuf24EnumValueDescriptorProto5ClearEv"
+		},
+		{
+			"name": "google::protobuf::EnumValueDescriptorProto::IsInitialized() const",
+			"name_mangled": "_ZNK6google8protobuf24EnumValueDescriptorProto13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "google::protobuf::EnumValueDescriptorProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN6google8protobuf24EnumValueDescriptorProto27MergePartialFromCodedStreamEPNS0_2io16CodedInputStreamE"
+		},
+		{
+			"name": "google::protobuf::EnumValueDescriptorProto::ByteSize() const",
+			"name_mangled": "_ZNK6google8protobuf24EnumValueDescriptorProto8ByteSizeEv"
+		},
+		{
+			"name": "google::protobuf::EnumValueDescriptorProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK6google8protobuf24EnumValueDescriptorProto24SerializeWithCachedSizesEPNS0_2io17CodedOutputStreamE"
+		},
+		{
+			"name": "google::protobuf::EnumValueDescriptorProto::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK6google8protobuf24EnumValueDescriptorProto31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "google::protobuf::EnumValueDescriptorProto::GetCachedSize() const",
+			"name_mangled": "_ZNK6google8protobuf24EnumValueDescriptorProto13GetCachedSizeEv"
+		},
+		{
+			"name": "google::protobuf::EnumValueDescriptorProto::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN6google8protobuf24EnumValueDescriptorProto8CopyFromERKNS0_7MessageE"
+		},
+		{
+			"name": "google::protobuf::EnumValueDescriptorProto::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN6google8protobuf24EnumValueDescriptorProto9MergeFromERKNS0_7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "google::protobuf::EnumValueDescriptorProto::SetCachedSize(int) const",
+			"name_mangled": "_ZNK6google8protobuf24EnumValueDescriptorProto13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "google::protobuf::EnumValueDescriptorProto::GetMetadata() const",
+			"name_mangled": "_ZNK6google8protobuf24EnumValueDescriptorProto11GetMetadataEv"
+		}
+	]
+}

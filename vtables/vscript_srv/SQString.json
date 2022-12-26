@@ -1,0 +1,18 @@
+{
+	"classname": "SQString",
+	"classname_mangled": "_ZTV8SQString",
+	"members": [
+		{
+			"name": "SQString::~SQString()",
+			"name_mangled": "_ZN8SQStringD0Ev"
+		},
+		{
+			"name": "SQRefCounted::Iterate(CSQStateIterator*)",
+			"name_mangled": "_ZN12SQRefCounted7IterateEP16CSQStateIterator"
+		},
+		{
+			"name": "SQString::Release()",
+			"name_mangled": "_ZN8SQString7ReleaseEv"
+		}
+	]
+}

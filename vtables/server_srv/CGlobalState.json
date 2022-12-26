@@ -1,0 +1,74 @@
+{
+	"classname": "CGlobalState",
+	"classname_mangled": "_ZTV12CGlobalState",
+	"members": [
+		{
+			"name": "CBaseGameSystem::Init()",
+			"name_mangled": "_ZN15CBaseGameSystem4InitEv"
+		},
+		{
+			"name": "CBaseGameSystem::PostInit()",
+			"name_mangled": "_ZN15CBaseGameSystem8PostInitEv"
+		},
+		{
+			"name": "CBaseGameSystem::Shutdown()",
+			"name_mangled": "_ZN15CBaseGameSystem8ShutdownEv"
+		},
+		{
+			"name": "CBaseGameSystem::LevelInitPreEntity()",
+			"name_mangled": "_ZN15CBaseGameSystem18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystem::LevelInitPostEntity()",
+			"name_mangled": "_ZN15CBaseGameSystem19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystem::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN15CBaseGameSystem36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CGlobalState::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN12CGlobalState22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CGlobalState::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN12CGlobalState23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystem::OnSave()",
+			"name_mangled": "_ZN15CBaseGameSystem6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystem::OnRestore()",
+			"name_mangled": "_ZN15CBaseGameSystem9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystem::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN15CBaseGameSystem19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystem::IsPerFrame()",
+			"name_mangled": "_ZN15CBaseGameSystem10IsPerFrameEv"
+		},
+		{
+			"name": "CGlobalState::~CGlobalState()",
+			"name_mangled": "_ZN12CGlobalStateD1Ev"
+		},
+		{
+			"name": "CGlobalState::~CGlobalState()",
+			"name_mangled": "_ZN12CGlobalStateD0Ev"
+		},
+		{
+			"name": "CBaseGameSystem::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN15CBaseGameSystem25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystem::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN15CBaseGameSystem26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystem::PreClientUpdate()",
+			"name_mangled": "_ZN15CBaseGameSystem15PreClientUpdateEv"
+		}
+	]
+}

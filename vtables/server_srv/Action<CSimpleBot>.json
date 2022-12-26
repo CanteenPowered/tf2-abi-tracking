@@ -1,0 +1,174 @@
+{
+	"classname": "Action<CSimpleBot>",
+	"classname_mangled": "_ZTV6ActionI10CSimpleBotE",
+	"members": [
+		{
+			"name": "Action<CSimpleBot>::~Action()",
+			"name_mangled": "_ZN6ActionI10CSimpleBotED0Ev"
+		},
+		{
+			"name": "Action<CSimpleBot>::FirstContainedResponder() const",
+			"name_mangled": "_ZNK6ActionI10CSimpleBotE23FirstContainedResponderEv"
+		},
+		{
+			"name": "Action<CSimpleBot>::NextContainedResponder(INextBotEventResponder*) const",
+			"name_mangled": "_ZNK6ActionI10CSimpleBotE22NextContainedResponderEP22INextBotEventResponder"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnLeaveGround(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE13OnLeaveGroundEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnLandOnGround(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE14OnLandOnGroundEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnContact(CBaseEntity*, CGameTrace*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE9OnContactEP11CBaseEntityP10CGameTrace"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnMoveToSuccess(Path const*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE15OnMoveToSuccessEPK4Path"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnMoveToFailure(Path const*, MoveToFailureType)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE15OnMoveToFailureEPK4Path17MoveToFailureType"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnStuck()",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE7OnStuckEv"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnUnStuck()",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE9OnUnStuckEv"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnPostureChanged()",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE16OnPostureChangedEv"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnAnimationActivityComplete(int)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE27OnAnimationActivityCompleteEi"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnAnimationActivityInterrupted(int)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE30OnAnimationActivityInterruptedEi"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnAnimationEvent(animevent_t*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE16OnAnimationEventEP11animevent_t"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnIgnite()",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE8OnIgniteEv"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnInjured(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE9OnInjuredERK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnKilled(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE8OnKilledERK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE13OnOtherKilledEP20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnSight(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE7OnSightEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnLostSight(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE11OnLostSightEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnSound(CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE7OnSoundEP11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE14OnSpokeConceptEP20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE13OnWeaponFiredEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnNavAreaChanged(CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE16OnNavAreaChangedEP8CNavAreaS3_"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnModelChanged()",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE14OnModelChangedEv"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE8OnPickUpEP11CBaseEntityP20CBaseCombatCharacter"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnDrop(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE6OnDropEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnActorEmoted(CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE13OnActorEmotedEP20CBaseCombatCharacteri"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnCommandAttack(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE15OnCommandAttackEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnCommandApproach(Vector const&, float)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE17OnCommandApproachERK6Vectorf"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnCommandApproach(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE17OnCommandApproachEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnCommandRetreat(CBaseEntity*, float)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE16OnCommandRetreatEP11CBaseEntityf"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnCommandPause(float)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE14OnCommandPauseEf"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnCommandResume()",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE15OnCommandResumeEv"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnCommandString(char const*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE15OnCommandStringEPKc"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnShoved(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE8OnShovedEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnBlinded(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE9OnBlindedEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnTerritoryContested(int)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE20OnTerritoryContestedEi"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnTerritoryCaptured(int)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE19OnTerritoryCapturedEi"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnTerritoryLost(int)",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE15OnTerritoryLostEi"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnWin()",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE5OnWinEv"
+		},
+		{
+			"name": "Action<CSimpleBot>::OnLose()",
+			"name_mangled": "_ZN6ActionI10CSimpleBotE6OnLoseEv"
+		}
+	]
+}

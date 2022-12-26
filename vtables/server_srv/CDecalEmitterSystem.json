@@ -1,0 +1,34 @@
+{
+	"classname": "CDecalEmitterSystem",
+	"classname_mangled": "_ZTV19CDecalEmitterSystem",
+	"members": [
+		{
+			"name": "CDecalEmitterSystem::GetDecalNameForIndex(int)",
+			"name_mangled": "_ZN19CDecalEmitterSystem20GetDecalNameForIndexEi"
+		},
+		{
+			"name": "CDecalEmitterSystem::TranslateDecalForGameMaterial(char const*, unsigned char)",
+			"name_mangled": "_ZN19CDecalEmitterSystem29TranslateDecalForGameMaterialEPKch"
+		},
+		{
+			"name": "CDecalEmitterSystem::Init()",
+			"name_mangled": "_ZN19CDecalEmitterSystem4InitEv"
+		},
+		{
+			"name": "CDecalEmitterSystem::Shutdown()",
+			"name_mangled": "_ZN19CDecalEmitterSystem8ShutdownEv"
+		},
+		{
+			"name": "CDecalEmitterSystem::LevelInitPreEntity()",
+			"name_mangled": "_ZN19CDecalEmitterSystem18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CDecalEmitterSystem::~CDecalEmitterSystem()",
+			"name_mangled": "_ZN19CDecalEmitterSystemD2Ev"
+		},
+		{
+			"name": "CDecalEmitterSystem::~CDecalEmitterSystem()",
+			"name_mangled": "_ZN19CDecalEmitterSystemD0Ev"
+		}
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"classname": "CEngineSoundServer",
+	"classname_mangled": "_ZTV18CEngineSoundServer",
+	"members": [
+		{
+			"name": "CEngineSoundServer::IsSoundPrecached(char const*)",
+			"name_mangled": "_ZN18CEngineSoundServer16IsSoundPrecachedEPKc"
+		},
+		{
+			"name": "CEngineSoundServer::PrefetchSound(char const*)",
+			"name_mangled": "_ZN18CEngineSoundServer13PrefetchSoundEPKc"
+		},
+		{
+			"name": "CEngineSoundServer::GetSoundDuration(char const*)",
+			"name_mangled": "_ZN18CEngineSoundServer16GetSoundDurationEPKc"
+		},
+		{
+			"name": "CEngineSoundServer::EmitSound(IRecipientFilter&, int, int, char const*, float, float, int, int, int, Vector const*, Vector const*, CUtlVector<Vector, CUtlMemory<Vector, int>>*, bool, float, int)",
+			"name_mangled": "_ZN18CEngineSoundServer9EmitSoundER16IRecipientFilteriiPKcffiiiPK6VectorS6_P10CUtlVectorIS4_10CUtlMemoryIS4_iEEbfi"
+		},
+		{
+			"name": "CEngineSoundServer::EmitSound(IRecipientFilter&, int, int, char const*, float, soundlevel_t, int, int, int, Vector const*, Vector const*, CUtlVector<Vector, CUtlMemory<Vector, int>>*, bool, float, int)",
+			"name_mangled": "_ZN18CEngineSoundServer9EmitSoundER16IRecipientFilteriiPKcf12soundlevel_tiiiPK6VectorS7_P10CUtlVectorIS5_10CUtlMemoryIS5_iEEbfi"
+		},
+		{
+			"name": "CEngineSoundServer::EmitSentenceByIndex(IRecipientFilter&, int, int, int, float, soundlevel_t, int, int, int, Vector const*, Vector const*, CUtlVector<Vector, CUtlMemory<Vector, int>>*, bool, float, int)",
+			"name_mangled": "_ZN18CEngineSoundServer19EmitSentenceByIndexER16IRecipientFilteriiif12soundlevel_tiiiPK6VectorS5_P10CUtlVectorIS3_10CUtlMemoryIS3_iEEbfi"
+		},
+		{
+			"name": "CEngineSoundServer::StopSound(int, int, char const*)",
+			"name_mangled": "_ZN18CEngineSoundServer9StopSoundEiiPKc"
+		},
+		{
+			"name": "CEngineSoundServer::StopAllSounds(bool)",
+			"name_mangled": "_ZN18CEngineSoundServer13StopAllSoundsEb"
+		},
+		{
+			"name": "CEngineSoundServer::SetRoomType(IRecipientFilter&, int)",
+			"name_mangled": "_ZN18CEngineSoundServer11SetRoomTypeER16IRecipientFilteri"
+		},
+		{
+			"name": "CEngineSoundServer::SetPlayerDSP(IRecipientFilter&, int, bool)",
+			"name_mangled": "_ZN18CEngineSoundServer12SetPlayerDSPER16IRecipientFilterib"
+		},
+		{
+			"name": "CEngineSoundServer::EmitAmbientSound(char const*, float, int, int, float)",
+			"name_mangled": "_ZN18CEngineSoundServer16EmitAmbientSoundEPKcfiif"
+		},
+		{
+			"name": "CEngineSoundServer::GetDistGainFromSoundLevel(soundlevel_t, float)",
+			"name_mangled": "_ZN18CEngineSoundServer25GetDistGainFromSoundLevelE12soundlevel_tf"
+		},
+		{
+			"name": "CEngineSoundServer::GetGuidForLastSoundEmitted()",
+			"name_mangled": "_ZN18CEngineSoundServer26GetGuidForLastSoundEmittedEv"
+		},
+		{
+			"name": "CEngineSoundServer::IsSoundStillPlaying(int)",
+			"name_mangled": "_ZN18CEngineSoundServer19IsSoundStillPlayingEi"
+		},
+		{
+			"name": "CEngineSoundServer::StopSoundByGuid(int)",
+			"name_mangled": "_ZN18CEngineSoundServer15StopSoundByGuidEi"
+		},
+		{
+			"name": "CEngineSoundServer::SetVolumeByGuid(int, float)",
+			"name_mangled": "_ZN18CEngineSoundServer15SetVolumeByGuidEif"
+		},
+		{
+			"name": "CEngineSoundServer::GetActiveSounds(CUtlVector<SndInfo_t, CUtlMemory<SndInfo_t, int>>&)",
+			"name_mangled": "_ZN18CEngineSoundServer15GetActiveSoundsER10CUtlVectorI9SndInfo_t10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "CEngineSoundServer::PrecacheSentenceGroup(char const*)",
+			"name_mangled": "_ZN18CEngineSoundServer21PrecacheSentenceGroupEPKc"
+		},
+		{
+			"name": "CEngineSoundServer::NotifyBeginMoviePlayback()",
+			"name_mangled": "_ZN18CEngineSoundServer24NotifyBeginMoviePlaybackEv"
+		},
+		{
+			"name": "CEngineSoundServer::NotifyEndMoviePlayback()",
+			"name_mangled": "_ZN18CEngineSoundServer22NotifyEndMoviePlaybackEv"
+		},
+		{
+			"name": "CEngineSoundServer::~CEngineSoundServer()",
+			"name_mangled": "_ZN18CEngineSoundServerD2Ev"
+		},
+		{
+			"name": "CEngineSoundServer::~CEngineSoundServer()",
+			"name_mangled": "_ZN18CEngineSoundServerD0Ev"
+		}
+	]
+}

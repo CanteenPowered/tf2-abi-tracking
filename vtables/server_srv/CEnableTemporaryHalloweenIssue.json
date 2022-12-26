@@ -1,0 +1,98 @@
+{
+	"classname": "CEnableTemporaryHalloweenIssue",
+	"classname_mangled": "_ZTV30CEnableTemporaryHalloweenIssue",
+	"members": [
+		{
+			"name": "CEnableTemporaryHalloweenIssue::~CEnableTemporaryHalloweenIssue()",
+			"name_mangled": "_ZN30CEnableTemporaryHalloweenIssueD0Ev"
+		},
+		{
+			"name": "CBaseIssue::GetTypeStringLocalized()",
+			"name_mangled": "_ZN10CBaseIssue22GetTypeStringLocalizedEv"
+		},
+		{
+			"name": "CBaseIssue::GetDetailsString()",
+			"name_mangled": "_ZN10CBaseIssue16GetDetailsStringEv"
+		},
+		{
+			"name": "CBaseIssue::SetIssueDetails(char const*)",
+			"name_mangled": "_ZN10CBaseIssue15SetIssueDetailsEPKc"
+		},
+		{
+			"name": "CEnableTemporaryHalloweenIssue::OnVoteFailed(int)",
+			"name_mangled": "_ZN30CEnableTemporaryHalloweenIssue12OnVoteFailedEi"
+		},
+		{
+			"name": "CBaseIssue::OnVoteStarted()",
+			"name_mangled": "_ZN10CBaseIssue13OnVoteStartedEv"
+		},
+		{
+			"name": "CEnableTemporaryHalloweenIssue::IsEnabled()",
+			"name_mangled": "_ZN30CEnableTemporaryHalloweenIssue9IsEnabledEv"
+		},
+		{
+			"name": "CBaseIssue::CanTeamCallVote(int) const",
+			"name_mangled": "_ZNK10CBaseIssue15CanTeamCallVoteEi"
+		},
+		{
+			"name": "CEnableTemporaryHalloweenIssue::RequestCallVote(int, char const*, vote_create_failed_t&, int&)",
+			"name_mangled": "_ZN30CEnableTemporaryHalloweenIssue15RequestCallVoteEiPKcR20vote_create_failed_tRi"
+		},
+		{
+			"name": "CBaseIssue::IsTeamRestrictedVote()",
+			"name_mangled": "_ZN10CBaseIssue20IsTeamRestrictedVoteEv"
+		},
+		{
+			"name": "CEnableTemporaryHalloweenIssue::GetDisplayString()",
+			"name_mangled": "_ZN30CEnableTemporaryHalloweenIssue16GetDisplayStringEv"
+		},
+		{
+			"name": "CEnableTemporaryHalloweenIssue::ExecuteCommand()",
+			"name_mangled": "_ZN30CEnableTemporaryHalloweenIssue14ExecuteCommandEv"
+		},
+		{
+			"name": "CEnableTemporaryHalloweenIssue::ListIssueDetails(CBasePlayer*)",
+			"name_mangled": "_ZN30CEnableTemporaryHalloweenIssue16ListIssueDetailsEP11CBasePlayer"
+		},
+		{
+			"name": "CEnableTemporaryHalloweenIssue::GetVotePassedString()",
+			"name_mangled": "_ZN30CEnableTemporaryHalloweenIssue19GetVotePassedStringEv"
+		},
+		{
+			"name": "CBaseIssue::CountPotentialVoters()",
+			"name_mangled": "_ZN10CBaseIssue20CountPotentialVotersEv"
+		},
+		{
+			"name": "CBaseIssue::GetNumberVoteOptions()",
+			"name_mangled": "_ZN10CBaseIssue20GetNumberVoteOptionsEv"
+		},
+		{
+			"name": "CEnableTemporaryHalloweenIssue::IsYesNoVote()",
+			"name_mangled": "_ZN30CEnableTemporaryHalloweenIssue11IsYesNoVoteEv"
+		},
+		{
+			"name": "CBaseIssue::GetVoteOptions(CUtlVector<char const*, CUtlMemory<char const*, int>>&)",
+			"name_mangled": "_ZN10CBaseIssue14GetVoteOptionsER10CUtlVectorIPKc10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CEnableTemporaryHalloweenIssue::BRecordVoteFailureEventForEntity(int) const",
+			"name_mangled": "_ZNK30CEnableTemporaryHalloweenIssue32BRecordVoteFailureEventForEntityEi"
+		},
+		{
+			"name": "CBaseIssue::GetQuorumRatio()",
+			"name_mangled": "_ZN10CBaseIssue14GetQuorumRatioEv"
+		},
+		{
+			"name": "CBaseIssue::ProcessResults(CUtlVector<char const*, CUtlMemory<char const*, int>> const&, int const*, CUtlMap<CSteamID, int, unsigned short, bool (*)(CSteamID const&, CSteamID const&)> const&, int, int, int)",
+			"name_mangled": "_ZN10CBaseIssue14ProcessResultsERK10CUtlVectorIPKc10CUtlMemoryIS2_iEEPKiRK7CUtlMapI8CSteamIDitPFbRKSB_SD_EEiii"
+		},
+		{
+			"name": "CBaseIssue::OnVoteEnded()",
+			"name_mangled": "_ZN10CBaseIssue11OnVoteEndedEv"
+		},
+		{
+			"name": "CBaseIssue::OnPlayerDisconnected(CBasePlayer*)",
+			"name_mangled": "_ZN10CBaseIssue20OnPlayerDisconnectedEP11CBasePlayer"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"classname": "CEconTool_Unusualifier",
+	"classname_mangled": "_ZTV22CEconTool_Unusualifier",
+	"members": [
+		{
+			"name": "CEconTool_Unusualifier::~CEconTool_Unusualifier()",
+			"name_mangled": "_ZN22CEconTool_UnusualifierD0Ev"
+		},
+		{
+			"name": "CEconTool_Unusualifier::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const",
+			"name_mangled": "_ZNK22CEconTool_Unusualifier10CanApplyToEPK18IEconItemInterfaceS2_"
+		},
+		{
+			"name": "IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool21ShouldDisplayQuantityEPK18IEconItemInterface"
+		},
+		{
+			"name": "IEconTool::RequiresToolEscrowPeriod() const",
+			"name_mangled": "_ZNK9IEconTool24RequiresToolEscrowPeriodEv"
+		},
+		{
+			"name": "IEconTool::BFinishInitialization()",
+			"name_mangled": "_ZN9IEconTool21BFinishInitializationEv"
+		}
+	]
+}

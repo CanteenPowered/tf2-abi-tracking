@@ -1,0 +1,14 @@
+{
+	"classname": "CCyclicalHoliday",
+	"classname_mangled": "_ZTV16CCyclicalHoliday",
+	"members": [
+		{
+			"name": "CCyclicalHoliday::~CCyclicalHoliday()",
+			"name_mangled": "_ZN16CCyclicalHolidayD0Ev"
+		},
+		{
+			"name": "CCyclicalHoliday::IsActive(CRTime const&)",
+			"name_mangled": "_ZN16CCyclicalHoliday8IsActiveERK6CRTime"
+		}
+	]
+}

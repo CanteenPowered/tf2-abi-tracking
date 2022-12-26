@@ -1,0 +1,134 @@
+{
+	"classname": "CTFHLTVDirector",
+	"classname_mangled": "_ZTV15CTFHLTVDirector",
+	"members": [
+		{
+			"name": "CTFHLTVDirector::~CTFHLTVDirector()",
+			"name_mangled": "_ZN15CTFHLTVDirectorD0Ev"
+		},
+		{
+			"name": "CHLTVDirector::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN13CHLTVDirector13FireGameEventEP10IGameEvent"
+		},
+		{
+			"name": "CHLTVDirector::Name()",
+			"name_mangled": "_ZN13CHLTVDirector4NameEv"
+		},
+		{
+			"name": "CTFHLTVDirector::SetHLTVServer(IHLTVServer*)",
+			"name_mangled": "_ZN15CTFHLTVDirector13SetHLTVServerEP11IHLTVServer"
+		},
+		{
+			"name": "CHLTVDirector::GetHLTVServer()",
+			"name_mangled": "_ZN13CHLTVDirector13GetHLTVServerEv"
+		},
+		{
+			"name": "CHLTVDirector::GetDirectorTick()",
+			"name_mangled": "_ZN13CHLTVDirector15GetDirectorTickEv"
+		},
+		{
+			"name": "CHLTVDirector::GetPVSEntity()",
+			"name_mangled": "_ZN13CHLTVDirector12GetPVSEntityEv"
+		},
+		{
+			"name": "CHLTVDirector::GetPVSOrigin()",
+			"name_mangled": "_ZN13CHLTVDirector12GetPVSOriginEv"
+		},
+		{
+			"name": "CHLTVDirector::GetDelay()",
+			"name_mangled": "_ZN13CHLTVDirector8GetDelayEv"
+		},
+		{
+			"name": "CHLTVDirector::IsActive()",
+			"name_mangled": "_ZN13CHLTVDirector8IsActiveEv"
+		},
+		{
+			"name": "CTFHLTVDirector::GetModEvents()",
+			"name_mangled": "_ZN15CTFHLTVDirector12GetModEventsEv"
+		},
+		{
+			"name": "CHLTVDirector::Init()",
+			"name_mangled": "_ZN13CHLTVDirector4InitEv"
+		},
+		{
+			"name": "CHLTVDirector::Shutdown()",
+			"name_mangled": "_ZN13CHLTVDirector8ShutdownEv"
+		},
+		{
+			"name": "CHLTVDirector::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN13CHLTVDirector26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CHLTVDirector::LevelInitPostEntity()",
+			"name_mangled": "_ZN13CHLTVDirector19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CTFHLTVDirector::GetFixedCameraEntityName()",
+			"name_mangled": "_ZN15CTFHLTVDirector24GetFixedCameraEntityNameEv"
+		},
+		{
+			"name": "CHLTVDirector::StartNewShot()",
+			"name_mangled": "_ZN13CHLTVDirector12StartNewShotEv"
+		},
+		{
+			"name": "CHLTVDirector::StartRandomShot()",
+			"name_mangled": "_ZN13CHLTVDirector15StartRandomShotEv"
+		},
+		{
+			"name": "CHLTVDirector::StartDelayMessage()",
+			"name_mangled": "_ZN13CHLTVDirector17StartDelayMessageEv"
+		},
+		{
+			"name": "CHLTVDirector::StartBestFixedCameraShot(bool)",
+			"name_mangled": "_ZN13CHLTVDirector24StartBestFixedCameraShotEb"
+		},
+		{
+			"name": "CHLTVDirector::StartBestPlayerCameraShot()",
+			"name_mangled": "_ZN13CHLTVDirector25StartBestPlayerCameraShotEv"
+		},
+		{
+			"name": "CHLTVDirector::StartFixedCameraShot(int, int)",
+			"name_mangled": "_ZN13CHLTVDirector20StartFixedCameraShotEii"
+		},
+		{
+			"name": "CHLTVDirector::StartChaseCameraShot(int, int, int, int, int, bool)",
+			"name_mangled": "_ZN13CHLTVDirector20StartChaseCameraShotEiiiiib"
+		},
+		{
+			"name": "CHLTVDirector::UpdateSettings()",
+			"name_mangled": "_ZN13CHLTVDirector14UpdateSettingsEv"
+		},
+		{
+			"name": "CHLTVDirector::AnalyzePlayers()",
+			"name_mangled": "_ZN13CHLTVDirector14AnalyzePlayersEv"
+		},
+		{
+			"name": "CHLTVDirector::AnalyzeCameras()",
+			"name_mangled": "_ZN13CHLTVDirector14AnalyzeCamerasEv"
+		},
+		{
+			"name": "CHLTVDirector::StartCameraManShot()",
+			"name_mangled": "_ZN13CHLTVDirector18StartCameraManShotEv"
+		},
+		{
+			"name": "CHLTVDirector::StartInstantBroadcastShot()",
+			"name_mangled": "_ZN13CHLTVDirector25StartInstantBroadcastShotEv"
+		},
+		{
+			"name": "CHLTVDirector::FinishCameraManShot()",
+			"name_mangled": "_ZN13CHLTVDirector19FinishCameraManShotEv"
+		},
+		{
+			"name": "CHLTVDirector::BuildActivePlayerList()",
+			"name_mangled": "_ZN13CHLTVDirector21BuildActivePlayerListEv"
+		},
+		{
+			"name": "CHLTVDirector::FindBestGameEvent()",
+			"name_mangled": "_ZN13CHLTVDirector17FindBestGameEventEv"
+		},
+		{
+			"name": "CTFHLTVDirector::CreateShotFromEvent(CHLTVGameEvent*)",
+			"name_mangled": "_ZN15CTFHLTVDirector19CreateShotFromEventEP14CHLTVGameEvent"
+		}
+	]
+}

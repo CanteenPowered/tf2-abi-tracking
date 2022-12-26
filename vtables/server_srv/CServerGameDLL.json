@@ -1,0 +1,194 @@
+{
+	"classname": "CServerGameDLL",
+	"classname_mangled": "_ZTV14CServerGameDLL",
+	"members": [
+		{
+			"name": "CServerGameDLL::ReplayInit(void* (*)(char const*, int*))",
+			"name_mangled": "_ZN14CServerGameDLL10ReplayInitEPFPvPKcPiE"
+		},
+		{
+			"name": "CServerGameDLL::GameInit()",
+			"name_mangled": "_ZN14CServerGameDLL8GameInitEv"
+		},
+		{
+			"name": "CServerGameDLL::LevelInit(char const*, char const*, char const*, char const*, bool, bool)",
+			"name_mangled": "_ZN14CServerGameDLL9LevelInitEPKcS1_S1_S1_bb"
+		},
+		{
+			"name": "CServerGameDLL::ServerActivate(edict_t*, int, int)",
+			"name_mangled": "_ZN14CServerGameDLL14ServerActivateEP7edict_tii"
+		},
+		{
+			"name": "CServerGameDLL::GameFrame(bool)",
+			"name_mangled": "_ZN14CServerGameDLL9GameFrameEb"
+		},
+		{
+			"name": "CServerGameDLL::PreClientUpdate(bool)",
+			"name_mangled": "_ZN14CServerGameDLL15PreClientUpdateEb"
+		},
+		{
+			"name": "CServerGameDLL::LevelShutdown()",
+			"name_mangled": "_ZN14CServerGameDLL13LevelShutdownEv"
+		},
+		{
+			"name": "CServerGameDLL::GameShutdown()",
+			"name_mangled": "_ZN14CServerGameDLL12GameShutdownEv"
+		},
+		{
+			"name": "CServerGameDLL::DLLShutdown()",
+			"name_mangled": "_ZN14CServerGameDLL11DLLShutdownEv"
+		},
+		{
+			"name": "CServerGameDLL::GetTickInterval() const",
+			"name_mangled": "_ZNK14CServerGameDLL15GetTickIntervalEv"
+		},
+		{
+			"name": "CServerGameDLL::GetAllServerClasses()",
+			"name_mangled": "_ZN14CServerGameDLL19GetAllServerClassesEv"
+		},
+		{
+			"name": "CServerGameDLL::GetGameDescription()",
+			"name_mangled": "_ZN14CServerGameDLL18GetGameDescriptionEv"
+		},
+		{
+			"name": "CServerGameDLL::CreateNetworkStringTables()",
+			"name_mangled": "_ZN14CServerGameDLL25CreateNetworkStringTablesEv"
+		},
+		{
+			"name": "CServerGameDLL::SaveInit(int)",
+			"name_mangled": "_ZN14CServerGameDLL8SaveInitEi"
+		},
+		{
+			"name": "CServerGameDLL::SaveWriteFields(CSaveRestoreData*, char const*, void*, datamap_t*, typedescription_t*, int)",
+			"name_mangled": "_ZN14CServerGameDLL15SaveWriteFieldsEP16CSaveRestoreDataPKcPvP9datamap_tP17typedescription_ti"
+		},
+		{
+			"name": "CServerGameDLL::SaveReadFields(CSaveRestoreData*, char const*, void*, datamap_t*, typedescription_t*, int)",
+			"name_mangled": "_ZN14CServerGameDLL14SaveReadFieldsEP16CSaveRestoreDataPKcPvP9datamap_tP17typedescription_ti"
+		},
+		{
+			"name": "CServerGameDLL::SaveGlobalState(CSaveRestoreData*)",
+			"name_mangled": "_ZN14CServerGameDLL15SaveGlobalStateEP16CSaveRestoreData"
+		},
+		{
+			"name": "CServerGameDLL::RestoreGlobalState(CSaveRestoreData*)",
+			"name_mangled": "_ZN14CServerGameDLL18RestoreGlobalStateEP16CSaveRestoreData"
+		},
+		{
+			"name": "CServerGameDLL::PreSave(CSaveRestoreData*)",
+			"name_mangled": "_ZN14CServerGameDLL7PreSaveEP16CSaveRestoreData"
+		},
+		{
+			"name": "CServerGameDLL::Save(CSaveRestoreData*)",
+			"name_mangled": "_ZN14CServerGameDLL4SaveEP16CSaveRestoreData"
+		},
+		{
+			"name": "CServerGameDLL::GetSaveComment(char*, int, float, float, bool)",
+			"name_mangled": "_ZN14CServerGameDLL14GetSaveCommentEPciffb"
+		},
+		{
+			"name": "CServerGameDLL::WriteSaveHeaders(CSaveRestoreData*)",
+			"name_mangled": "_ZN14CServerGameDLL16WriteSaveHeadersEP16CSaveRestoreData"
+		},
+		{
+			"name": "CServerGameDLL::ReadRestoreHeaders(CSaveRestoreData*)",
+			"name_mangled": "_ZN14CServerGameDLL18ReadRestoreHeadersEP16CSaveRestoreData"
+		},
+		{
+			"name": "CServerGameDLL::Restore(CSaveRestoreData*, bool)",
+			"name_mangled": "_ZN14CServerGameDLL7RestoreEP16CSaveRestoreDatab"
+		},
+		{
+			"name": "CServerGameDLL::IsRestoring()",
+			"name_mangled": "_ZN14CServerGameDLL11IsRestoringEv"
+		},
+		{
+			"name": "CServerGameDLL::CreateEntityTransitionList(CSaveRestoreData*, int)",
+			"name_mangled": "_ZN14CServerGameDLL26CreateEntityTransitionListEP16CSaveRestoreDatai"
+		},
+		{
+			"name": "CServerGameDLL::BuildAdjacentMapList()",
+			"name_mangled": "_ZN14CServerGameDLL20BuildAdjacentMapListEv"
+		},
+		{
+			"name": "CServerGameDLL::GetUserMessageInfo(int, char*, int, int&)",
+			"name_mangled": "_ZN14CServerGameDLL18GetUserMessageInfoEiPciRi"
+		},
+		{
+			"name": "CServerGameDLL::GetStandardSendProxies()",
+			"name_mangled": "_ZN14CServerGameDLL22GetStandardSendProxiesEv"
+		},
+		{
+			"name": "CServerGameDLL::PostInit()",
+			"name_mangled": "_ZN14CServerGameDLL8PostInitEv"
+		},
+		{
+			"name": "CServerGameDLL::Think(bool)",
+			"name_mangled": "_ZN14CServerGameDLL5ThinkEb"
+		},
+		{
+			"name": "CServerGameDLL::PreSaveGameLoaded(char const*, bool)",
+			"name_mangled": "_ZN14CServerGameDLL17PreSaveGameLoadedEPKcb"
+		},
+		{
+			"name": "CServerGameDLL::ShouldHideServer()",
+			"name_mangled": "_ZN14CServerGameDLL16ShouldHideServerEv"
+		},
+		{
+			"name": "CServerGameDLL::InvalidateMdlCache()",
+			"name_mangled": "_ZN14CServerGameDLL18InvalidateMdlCacheEv"
+		},
+		{
+			"name": "CServerGameDLL::OnQueryCvarValueFinished(int, edict_t*, EQueryCvarValueStatus, char const*, char const*)",
+			"name_mangled": "_ZN14CServerGameDLL24OnQueryCvarValueFinishedEiP7edict_t21EQueryCvarValueStatusPKcS4_"
+		},
+		{
+			"name": "CServerGameDLL::GameServerSteamAPIActivated()",
+			"name_mangled": "_ZN14CServerGameDLL27GameServerSteamAPIActivatedEv"
+		},
+		{
+			"name": "CServerGameDLL::GameServerSteamAPIShutdown()",
+			"name_mangled": "_ZN14CServerGameDLL26GameServerSteamAPIShutdownEv"
+		},
+		{
+			"name": "CServerGameDLL::SetServerHibernation(bool)",
+			"name_mangled": "_ZN14CServerGameDLL20SetServerHibernationEb"
+		},
+		{
+			"name": "CServerGameDLL::GetServerGCLobby()",
+			"name_mangled": "_ZN14CServerGameDLL16GetServerGCLobbyEv"
+		},
+		{
+			"name": "CServerGameDLL::GetServerBrowserMapOverride()",
+			"name_mangled": "_ZN14CServerGameDLL27GetServerBrowserMapOverrideEv"
+		},
+		{
+			"name": "CServerGameDLL::GetServerBrowserGameData()",
+			"name_mangled": "_ZN14CServerGameDLL24GetServerBrowserGameDataEv"
+		},
+		{
+			"name": "CServerGameDLL::Status(void (*)(char const*, ...))",
+			"name_mangled": "_ZN14CServerGameDLL6StatusEPFvPKczE"
+		},
+		{
+			"name": "CServerGameDLL::PrepareLevelResources(char*, unsigned int, char*, unsigned int)",
+			"name_mangled": "_ZN14CServerGameDLL21PrepareLevelResourcesEPcjS0_j"
+		},
+		{
+			"name": "CServerGameDLL::AsyncPrepareLevelResources(char*, unsigned int, char*, unsigned int, float*)",
+			"name_mangled": "_ZN14CServerGameDLL26AsyncPrepareLevelResourcesEPcjS0_jPf"
+		},
+		{
+			"name": "CServerGameDLL::CanProvideLevel(char*, int)",
+			"name_mangled": "_ZN14CServerGameDLL15CanProvideLevelEPci"
+		},
+		{
+			"name": "CServerGameDLL::IsManualMapChangeOkay(char const**)",
+			"name_mangled": "_ZN14CServerGameDLL21IsManualMapChangeOkayEPPKc"
+		},
+		{
+			"name": "CServerGameDLL::GetWorkshopMap(unsigned int, WorkshopMapDesc_t*)",
+			"name_mangled": "_ZN14CServerGameDLL14GetWorkshopMapEjP17WorkshopMapDesc_t"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "IServer",
+	"classname_mangled": "_ZTV7IServer",
+	"members": [
+		{
+			"name": "IServer::~IServer()",
+			"name_mangled": "_ZN7IServerD0Ev"
+		}
+	]
+}

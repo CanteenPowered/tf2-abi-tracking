@@ -1,0 +1,10 @@
+{
+	"classname": "IBaseProjectileAutoList",
+	"classname_mangled": "_ZTV23IBaseProjectileAutoList",
+	"members": [
+		{
+			"name": "IBaseProjectileAutoList::~IBaseProjectileAutoList()",
+			"name_mangled": "_ZN23IBaseProjectileAutoListD0Ev"
+		}
+	]
+}

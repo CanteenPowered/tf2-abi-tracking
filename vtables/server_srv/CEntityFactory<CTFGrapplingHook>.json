@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFGrapplingHook>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CTFGrapplingHookE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFGrapplingHook>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFGrapplingHookE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFGrapplingHook>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CTFGrapplingHookE13GetEntitySizeEv"
+		}
+	]
+}

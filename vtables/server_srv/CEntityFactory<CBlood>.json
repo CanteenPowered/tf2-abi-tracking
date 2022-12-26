@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBlood>",
+	"classname_mangled": "_ZTV14CEntityFactoryI6CBloodE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBlood>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI6CBloodE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBlood>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI6CBloodE13GetEntitySizeEv"
+		}
+	]
+}

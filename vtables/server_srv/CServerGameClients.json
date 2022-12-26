@@ -1,0 +1,78 @@
+{
+	"classname": "CServerGameClients",
+	"classname_mangled": "_ZTV18CServerGameClients",
+	"members": [
+		{
+			"name": "CServerGameClients::ClientConnect(edict_t*, char const*, char const*, char*, int)",
+			"name_mangled": "_ZN18CServerGameClients13ClientConnectEP7edict_tPKcS3_Pci"
+		},
+		{
+			"name": "CServerGameClients::ClientActive(edict_t*, bool)",
+			"name_mangled": "_ZN18CServerGameClients12ClientActiveEP7edict_tb"
+		},
+		{
+			"name": "CServerGameClients::ClientDisconnect(edict_t*)",
+			"name_mangled": "_ZN18CServerGameClients16ClientDisconnectEP7edict_t"
+		},
+		{
+			"name": "CServerGameClients::ClientPutInServer(edict_t*, char const*)",
+			"name_mangled": "_ZN18CServerGameClients17ClientPutInServerEP7edict_tPKc"
+		},
+		{
+			"name": "CServerGameClients::ClientCommand(edict_t*, CCommand const&)",
+			"name_mangled": "_ZN18CServerGameClients13ClientCommandEP7edict_tRK8CCommand"
+		},
+		{
+			"name": "CServerGameClients::SetCommandClient(int)",
+			"name_mangled": "_ZN18CServerGameClients16SetCommandClientEi"
+		},
+		{
+			"name": "CServerGameClients::ClientSettingsChanged(edict_t*)",
+			"name_mangled": "_ZN18CServerGameClients21ClientSettingsChangedEP7edict_t"
+		},
+		{
+			"name": "CServerGameClients::ClientSetupVisibility(edict_t*, edict_t*, unsigned char*, int)",
+			"name_mangled": "_ZN18CServerGameClients21ClientSetupVisibilityEP7edict_tS1_Phi"
+		},
+		{
+			"name": "CServerGameClients::ProcessUsercmds(edict_t*, bf_read*, int, int, int, bool, bool)",
+			"name_mangled": "_ZN18CServerGameClients15ProcessUsercmdsEP7edict_tP7bf_readiiibb"
+		},
+		{
+			"name": "CServerGameClients::PostClientMessagesSent_DEPRECIATED()",
+			"name_mangled": "_ZN18CServerGameClients34PostClientMessagesSent_DEPRECIATEDEv"
+		},
+		{
+			"name": "CServerGameClients::GetPlayerState(edict_t*)",
+			"name_mangled": "_ZN18CServerGameClients14GetPlayerStateEP7edict_t"
+		},
+		{
+			"name": "CServerGameClients::ClientEarPosition(edict_t*, Vector*)",
+			"name_mangled": "_ZN18CServerGameClients17ClientEarPositionEP7edict_tP6Vector"
+		},
+		{
+			"name": "CServerGameClients::GetReplayDelay(edict_t*, int&)",
+			"name_mangled": "_ZN18CServerGameClients14GetReplayDelayEP7edict_tRi"
+		},
+		{
+			"name": "CServerGameClients::GetBugReportInfo(char*, int)",
+			"name_mangled": "_ZN18CServerGameClients16GetBugReportInfoEPci"
+		},
+		{
+			"name": "CServerGameClients::NetworkIDValidated(char const*, char const*)",
+			"name_mangled": "_ZN18CServerGameClients18NetworkIDValidatedEPKcS1_"
+		},
+		{
+			"name": "CServerGameClients::ClientCommandKeyValues(edict_t*, KeyValues*)",
+			"name_mangled": "_ZN18CServerGameClients22ClientCommandKeyValuesEP7edict_tP9KeyValues"
+		},
+		{
+			"name": "CServerGameClients::ClientSpawned(edict_t*)",
+			"name_mangled": "_ZN18CServerGameClients13ClientSpawnedEP7edict_t"
+		},
+		{
+			"name": "CServerGameClients::ClientVoice(edict_t*)",
+			"name_mangled": "_ZN18CServerGameClients11ClientVoiceEP7edict_t"
+		}
+	]
+}

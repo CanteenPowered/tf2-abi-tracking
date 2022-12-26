@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CWeaponIFMBase>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CWeaponIFMBaseE",
+	"members": [
+		{
+			"name": "CEntityFactory<CWeaponIFMBase>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CWeaponIFMBaseE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CWeaponIFMBase>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CWeaponIFMBaseE13GetEntitySizeEv"
+		}
+	]
+}

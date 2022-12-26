@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CMannVsMachineLogic>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CMannVsMachineLogicE",
+	"members": [
+		{
+			"name": "CEntityFactory<CMannVsMachineLogic>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CMannVsMachineLogicE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CMannVsMachineLogic>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CMannVsMachineLogicE13GetEntitySizeEv"
+		}
+	]
+}

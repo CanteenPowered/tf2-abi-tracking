@@ -1,0 +1,34 @@
+{
+	"classname": "CMissionPopulator",
+	"classname_mangled": "_ZTV17CMissionPopulator",
+	"members": [
+		{
+			"name": "CMissionPopulator::~CMissionPopulator()",
+			"name_mangled": "_ZN17CMissionPopulatorD0Ev"
+		},
+		{
+			"name": "CMissionPopulator::Parse(KeyValues*)",
+			"name_mangled": "_ZN17CMissionPopulator5ParseEP9KeyValues"
+		},
+		{
+			"name": "IPopulator::PostInitialize()",
+			"name_mangled": "_ZN10IPopulator14PostInitializeEv"
+		},
+		{
+			"name": "CMissionPopulator::Update()",
+			"name_mangled": "_ZN17CMissionPopulator6UpdateEv"
+		},
+		{
+			"name": "CMissionPopulator::UnpauseSpawning()",
+			"name_mangled": "_ZN17CMissionPopulator15UnpauseSpawningEv"
+		},
+		{
+			"name": "IPopulator::OnPlayerKilled(CTFPlayer*)",
+			"name_mangled": "_ZN10IPopulator14OnPlayerKilledEP9CTFPlayer"
+		},
+		{
+			"name": "IPopulator::HasEventChangeAttributes(char const*) const",
+			"name_mangled": "_ZNK10IPopulator24HasEventChangeAttributesEPKc"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"classname": "CTFCondition_CritBoost",
+	"classname_mangled": "_ZTV22CTFCondition_CritBoost",
+	"members": [
+		{
+			"name": "CTFCondition_CritBoost::~CTFCondition_CritBoost()",
+			"name_mangled": "_ZN22CTFCondition_CritBoostD0Ev"
+		},
+		{
+			"name": "CTFCondition::Add(float)",
+			"name_mangled": "_ZN12CTFCondition3AddEf"
+		},
+		{
+			"name": "CTFCondition_CritBoost::OnAdded()",
+			"name_mangled": "_ZN22CTFCondition_CritBoost7OnAddedEv"
+		},
+		{
+			"name": "CTFCondition_CritBoost::OnRemoved()",
+			"name_mangled": "_ZN22CTFCondition_CritBoost9OnRemovedEv"
+		},
+		{
+			"name": "CTFCondition_CritBoost::OnThink()",
+			"name_mangled": "_ZN22CTFCondition_CritBoost7OnThinkEv"
+		},
+		{
+			"name": "CTFCondition_CritBoost::OnServerThink()",
+			"name_mangled": "_ZN22CTFCondition_CritBoost13OnServerThinkEv"
+		},
+		{
+			"name": "CTFCondition_CritBoost::IsHealable()",
+			"name_mangled": "_ZN22CTFCondition_CritBoost10IsHealableEv"
+		},
+		{
+			"name": "CTFCondition_CritBoost::UsesMinDuration()",
+			"name_mangled": "_ZN22CTFCondition_CritBoost15UsesMinDurationEv"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "CWorkerThread",
+	"classname_mangled": "_ZTV13CWorkerThread",
+	"members": [
+		{
+			"name": "CWorkerThread::~CWorkerThread()",
+			"name_mangled": "_ZN13CWorkerThreadD0Ev"
+		}
+	]
+}

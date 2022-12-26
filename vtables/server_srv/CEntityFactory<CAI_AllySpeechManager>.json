@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAI_AllySpeechManager>",
+	"classname_mangled": "_ZTV14CEntityFactoryI21CAI_AllySpeechManagerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAI_AllySpeechManager>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI21CAI_AllySpeechManagerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAI_AllySpeechManager>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI21CAI_AllySpeechManagerE13GetEntitySizeEv"
+		}
+	]
+}

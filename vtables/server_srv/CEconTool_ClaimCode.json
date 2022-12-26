@@ -1,0 +1,26 @@
+{
+	"classname": "CEconTool_ClaimCode",
+	"classname_mangled": "_ZTV19CEconTool_ClaimCode",
+	"members": [
+		{
+			"name": "CEconTool_ClaimCode::~CEconTool_ClaimCode()",
+			"name_mangled": "_ZN19CEconTool_ClaimCodeD0Ev"
+		},
+		{
+			"name": "IEconTool::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool10CanApplyToEPK18IEconItemInterfaceS2_"
+		},
+		{
+			"name": "IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool21ShouldDisplayQuantityEPK18IEconItemInterface"
+		},
+		{
+			"name": "IEconTool::RequiresToolEscrowPeriod() const",
+			"name_mangled": "_ZNK9IEconTool24RequiresToolEscrowPeriodEv"
+		},
+		{
+			"name": "CEconTool_ClaimCode::BFinishInitialization()",
+			"name_mangled": "_ZN19CEconTool_ClaimCode21BFinishInitializationEv"
+		}
+	]
+}

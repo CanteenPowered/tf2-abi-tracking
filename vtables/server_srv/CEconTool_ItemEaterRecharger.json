@@ -1,0 +1,26 @@
+{
+	"classname": "CEconTool_ItemEaterRecharger",
+	"classname_mangled": "_ZTV28CEconTool_ItemEaterRecharger",
+	"members": [
+		{
+			"name": "CEconTool_ItemEaterRecharger::~CEconTool_ItemEaterRecharger()",
+			"name_mangled": "_ZN28CEconTool_ItemEaterRechargerD0Ev"
+		},
+		{
+			"name": "CEconTool_ItemEaterRecharger::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const",
+			"name_mangled": "_ZNK28CEconTool_ItemEaterRecharger10CanApplyToEPK18IEconItemInterfaceS2_"
+		},
+		{
+			"name": "IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool21ShouldDisplayQuantityEPK18IEconItemInterface"
+		},
+		{
+			"name": "IEconTool::RequiresToolEscrowPeriod() const",
+			"name_mangled": "_ZNK9IEconTool24RequiresToolEscrowPeriodEv"
+		},
+		{
+			"name": "IEconTool::BFinishInitialization()",
+			"name_mangled": "_ZN9IEconTool21BFinishInitializationEv"
+		}
+	]
+}

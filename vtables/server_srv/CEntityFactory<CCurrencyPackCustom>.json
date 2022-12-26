@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CCurrencyPackCustom>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CCurrencyPackCustomE",
+	"members": [
+		{
+			"name": "CEntityFactory<CCurrencyPackCustom>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CCurrencyPackCustomE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CCurrencyPackCustom>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CCurrencyPackCustomE13GetEntitySizeEv"
+		}
+	]
+}

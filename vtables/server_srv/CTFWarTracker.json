@@ -1,0 +1,30 @@
+{
+	"classname": "CTFWarTracker",
+	"classname_mangled": "_ZTV13CTFWarTracker",
+	"members": [
+		{
+			"name": "CTFWarTracker::~CTFWarTracker()",
+			"name_mangled": "_ZN13CTFWarTrackerD0Ev"
+		},
+		{
+			"name": "CBaseSOTracker::Spew() const",
+			"name_mangled": "_ZNK14CBaseSOTracker4SpewEv"
+		},
+		{
+			"name": "CTFWarTracker::CommitChangesToDB()",
+			"name_mangled": "_ZN13CTFWarTracker17CommitChangesToDBEv"
+		},
+		{
+			"name": "CTFWarTracker::OnUpdate()",
+			"name_mangled": "_ZN13CTFWarTracker8OnUpdateEv"
+		},
+		{
+			"name": "CTFWarTracker::OnRemove()",
+			"name_mangled": "_ZN13CTFWarTracker8OnRemoveEv"
+		},
+		{
+			"name": "CTFWarTracker::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN13CTFWarTracker13FireGameEventEP10IGameEvent"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEnvFunnel>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10CEnvFunnelE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEnvFunnel>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10CEnvFunnelE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEnvFunnel>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10CEnvFunnelE13GetEntitySizeEv"
+		}
+	]
+}

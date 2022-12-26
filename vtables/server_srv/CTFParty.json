@@ -1,0 +1,94 @@
+{
+	"classname": "CTFParty",
+	"classname_mangled": "_ZTV8CTFParty",
+	"members": [
+		{
+			"name": "CTFParty::~CTFParty()",
+			"name_mangled": "_ZN8CTFPartyD0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObject<CSOTFParty, 2003, true>::GetTypeID() const",
+			"name_mangled": "_ZNK5GCSDK21CProtoBufSharedObjectI10CSOTFPartyLi2003ELb1EE9GetTypeIDEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)",
+			"name_mangled": "_ZN5GCSDK25CProtoBufSharedObjectBase17BParseFromMessageERK10CUtlBuffer"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)",
+			"name_mangled": "_ZN5GCSDK25CProtoBufSharedObjectBase17BParseFromMessageERKSs"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)",
+			"name_mangled": "_ZN5GCSDK25CProtoBufSharedObjectBase18BUpdateFromNetworkERKNS_13CSharedObjectE"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const",
+			"name_mangled": "_ZNK5GCSDK25CProtoBufSharedObjectBase10BIsKeyLessERKNS_13CSharedObjectE"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)",
+			"name_mangled": "_ZN5GCSDK25CProtoBufSharedObjectBase4CopyERKNS_13CSharedObjectE"
+		},
+		{
+			"name": "CTFParty::Dump() const",
+			"name_mangled": "_ZNK8CTFParty4DumpEv"
+		},
+		{
+			"name": "CTFParty::BShouldDeleteByCache() const",
+			"name_mangled": "_ZNK8CTFParty20BShouldDeleteByCacheEv"
+		},
+		{
+			"name": "GCSDK::CSharedObject::GetDebugString() const",
+			"name_mangled": "_ZNK5GCSDK13CSharedObject14GetDebugStringEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObject<CSOTFParty, 2003, true>::GetPObject()",
+			"name_mangled": "_ZN5GCSDK21CProtoBufSharedObjectI10CSOTFPartyLi2003ELb1EE10GetPObjectEv"
+		},
+		{
+			"name": "CTFParty::GetGroupID() const",
+			"name_mangled": "_ZNK8CTFParty10GetGroupIDEv"
+		},
+		{
+			"name": "CTFParty::GetSharedObjectForMember(CSteamID const&)",
+			"name_mangled": "_ZN8CTFParty24GetSharedObjectForMemberERK8CSteamID"
+		},
+		{
+			"name": "CTFParty::GetLeader() const",
+			"name_mangled": "_ZNK8CTFParty9GetLeaderEv"
+		},
+		{
+			"name": "CTFParty::GetNumMembers() const",
+			"name_mangled": "_ZNK8CTFParty13GetNumMembersEv"
+		},
+		{
+			"name": "CTFParty::GetMember(int) const",
+			"name_mangled": "_ZNK8CTFParty9GetMemberEi"
+		},
+		{
+			"name": "CTFParty::GetMemberIndexBySteamID(CSteamID const&) const",
+			"name_mangled": "_ZNK8CTFParty23GetMemberIndexBySteamIDERK8CSteamID"
+		},
+		{
+			"name": "CTFParty::GetNumPendingPlayers() const",
+			"name_mangled": "_ZNK8CTFParty20GetNumPendingPlayersEv"
+		},
+		{
+			"name": "CTFParty::GetPendingPlayer(int) const",
+			"name_mangled": "_ZNK8CTFParty16GetPendingPlayerEi"
+		},
+		{
+			"name": "CTFParty::GetPendingPlayerInviter(int) const",
+			"name_mangled": "_ZNK8CTFParty23GetPendingPlayerInviterEi"
+		},
+		{
+			"name": "CTFParty::GetPendingPlayerType(int) const",
+			"name_mangled": "_ZNK8CTFParty20GetPendingPlayerTypeEi"
+		},
+		{
+			"name": "CTFParty::GetPendingPlayerIndexBySteamID(CSteamID const&) const",
+			"name_mangled": "_ZNK8CTFParty30GetPendingPlayerIndexBySteamIDERK8CSteamID"
+		}
+	]
+}

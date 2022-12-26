@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<RocketTrail>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11RocketTrailE",
+	"members": [
+		{
+			"name": "CEntityFactory<RocketTrail>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11RocketTrailE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<RocketTrail>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11RocketTrailE13GetEntitySizeEv"
+		}
+	]
+}

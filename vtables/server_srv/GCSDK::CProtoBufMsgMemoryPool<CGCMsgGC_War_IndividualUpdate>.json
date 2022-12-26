@@ -1,0 +1,22 @@
+{
+	"classname": "GCSDK::CProtoBufMsgMemoryPool<CGCMsgGC_War_IndividualUpdate>",
+	"classname_mangled": "_ZTVN5GCSDK22CProtoBufMsgMemoryPoolI29CGCMsgGC_War_IndividualUpdateEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CGCMsgGC_War_IndividualUpdate>::~CProtoBufMsgMemoryPool()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI29CGCMsgGC_War_IndividualUpdateED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CGCMsgGC_War_IndividualUpdate>::GetName()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI29CGCMsgGC_War_IndividualUpdateE7GetNameEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CGCMsgGC_War_IndividualUpdate>::InternalAlloc()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI29CGCMsgGC_War_IndividualUpdateE13InternalAllocEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CGCMsgGC_War_IndividualUpdate>::InternalFree(google::protobuf::Message*)",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI29CGCMsgGC_War_IndividualUpdateE12InternalFreeEPN6google8protobuf7MessageE"
+		}
+	]
+}

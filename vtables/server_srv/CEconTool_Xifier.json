@@ -1,0 +1,26 @@
+{
+	"classname": "CEconTool_Xifier",
+	"classname_mangled": "_ZTV16CEconTool_Xifier",
+	"members": [
+		{
+			"name": "CEconTool_Xifier::~CEconTool_Xifier()",
+			"name_mangled": "_ZN16CEconTool_XifierD0Ev"
+		},
+		{
+			"name": "CEconTool_Xifier::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const",
+			"name_mangled": "_ZNK16CEconTool_Xifier10CanApplyToEPK18IEconItemInterfaceS2_"
+		},
+		{
+			"name": "IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool21ShouldDisplayQuantityEPK18IEconItemInterface"
+		},
+		{
+			"name": "IEconTool::RequiresToolEscrowPeriod() const",
+			"name_mangled": "_ZNK9IEconTool24RequiresToolEscrowPeriodEv"
+		},
+		{
+			"name": "IEconTool::BFinishInitialization()",
+			"name_mangled": "_ZN9IEconTool21BFinishInitializationEv"
+		}
+	]
+}

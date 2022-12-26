@@ -1,0 +1,26 @@
+{
+	"classname": "google::protobuf::io::FileInputStream",
+	"classname_mangled": "_ZTVN6google8protobuf2io15FileInputStreamE",
+	"members": [
+		{
+			"name": "google::protobuf::io::FileInputStream::~FileInputStream()",
+			"name_mangled": "_ZN6google8protobuf2io15FileInputStreamD0Ev"
+		},
+		{
+			"name": "google::protobuf::io::FileInputStream::Next(void const**, int*)",
+			"name_mangled": "_ZN6google8protobuf2io15FileInputStream4NextEPPKvPi"
+		},
+		{
+			"name": "google::protobuf::io::FileInputStream::BackUp(int)",
+			"name_mangled": "_ZN6google8protobuf2io15FileInputStream6BackUpEi"
+		},
+		{
+			"name": "google::protobuf::io::FileInputStream::Skip(int)",
+			"name_mangled": "_ZN6google8protobuf2io15FileInputStream4SkipEi"
+		},
+		{
+			"name": "google::protobuf::io::FileInputStream::ByteCount() const",
+			"name_mangled": "_ZNK6google8protobuf2io15FileInputStream9ByteCountEv"
+		}
+	]
+}

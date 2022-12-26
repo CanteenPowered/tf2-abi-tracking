@@ -1,0 +1,10 @@
+{
+	"classname": "IRobotDestructionGroupAutoList",
+	"classname_mangled": "_ZTV30IRobotDestructionGroupAutoList",
+	"members": [
+		{
+			"name": "IRobotDestructionGroupAutoList::~IRobotDestructionGroupAutoList()",
+			"name_mangled": "_ZN30IRobotDestructionGroupAutoListD0Ev"
+		}
+	]
+}

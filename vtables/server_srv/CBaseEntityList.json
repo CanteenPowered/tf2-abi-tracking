@@ -1,0 +1,10 @@
+{
+	"classname": "CBaseEntityList",
+	"classname_mangled": "_ZTV15CBaseEntityList",
+	"members": [
+		{
+			"name": "CBaseEntityList::OnRemoveEntity(IHandleEntity*, CBaseHandle)",
+			"name_mangled": "_ZN15CBaseEntityList14OnRemoveEntityEP13IHandleEntity11CBaseHandle"
+		}
+	]
+}

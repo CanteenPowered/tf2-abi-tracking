@@ -1,0 +1,22 @@
+{
+	"classname": "GCSDK::CProtoBufMsgMemoryPool<CMsgUpdatePeriodicEvent>",
+	"classname_mangled": "_ZTVN5GCSDK22CProtoBufMsgMemoryPoolI23CMsgUpdatePeriodicEventEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgUpdatePeriodicEvent>::~CProtoBufMsgMemoryPool()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI23CMsgUpdatePeriodicEventED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgUpdatePeriodicEvent>::GetName()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI23CMsgUpdatePeriodicEventE7GetNameEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgUpdatePeriodicEvent>::InternalAlloc()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI23CMsgUpdatePeriodicEventE13InternalAllocEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgUpdatePeriodicEvent>::InternalFree(google::protobuf::Message*)",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI23CMsgUpdatePeriodicEventE12InternalFreeEPN6google8protobuf7MessageE"
+		}
+	]
+}

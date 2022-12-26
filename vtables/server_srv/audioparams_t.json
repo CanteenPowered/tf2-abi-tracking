@@ -1,0 +1,10 @@
+{
+	"classname": "audioparams_t",
+	"classname_mangled": "_ZTV13audioparams_t",
+	"members": [
+		{
+			"name": "audioparams_t::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN13audioparams_t19NetworkStateChangedEPv"
+		}
+	]
+}

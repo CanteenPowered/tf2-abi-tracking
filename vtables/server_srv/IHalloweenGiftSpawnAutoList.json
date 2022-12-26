@@ -1,0 +1,10 @@
+{
+	"classname": "IHalloweenGiftSpawnAutoList",
+	"classname_mangled": "_ZTV27IHalloweenGiftSpawnAutoList",
+	"members": [
+		{
+			"name": "IHalloweenGiftSpawnAutoList::~IHalloweenGiftSpawnAutoList()",
+			"name_mangled": "_ZN27IHalloweenGiftSpawnAutoListD0Ev"
+		}
+	]
+}

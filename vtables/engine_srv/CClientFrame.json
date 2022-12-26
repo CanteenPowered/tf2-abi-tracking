@@ -1,0 +1,14 @@
+{
+	"classname": "CClientFrame",
+	"classname_mangled": "_ZTV12CClientFrame",
+	"members": [
+		{
+			"name": "CClientFrame::~CClientFrame()",
+			"name_mangled": "_ZN12CClientFrameD0Ev"
+		},
+		{
+			"name": "CClientFrame::IsMemPoolAllocated()",
+			"name_mangled": "_ZN12CClientFrame18IsMemPoolAllocatedEv"
+		}
+	]
+}

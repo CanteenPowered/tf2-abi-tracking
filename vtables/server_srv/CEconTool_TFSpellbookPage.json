@@ -1,0 +1,26 @@
+{
+	"classname": "CEconTool_TFSpellbookPage",
+	"classname_mangled": "_ZTV25CEconTool_TFSpellbookPage",
+	"members": [
+		{
+			"name": "CEconTool_TFSpellbookPage::~CEconTool_TFSpellbookPage()",
+			"name_mangled": "_ZN25CEconTool_TFSpellbookPageD0Ev"
+		},
+		{
+			"name": "IEconTool::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool10CanApplyToEPK18IEconItemInterfaceS2_"
+		},
+		{
+			"name": "IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool21ShouldDisplayQuantityEPK18IEconItemInterface"
+		},
+		{
+			"name": "IEconTool::RequiresToolEscrowPeriod() const",
+			"name_mangled": "_ZNK9IEconTool24RequiresToolEscrowPeriodEv"
+		},
+		{
+			"name": "IEconTool::BFinishInitialization()",
+			"name_mangled": "_ZN9IEconTool21BFinishInitializationEv"
+		}
+	]
+}

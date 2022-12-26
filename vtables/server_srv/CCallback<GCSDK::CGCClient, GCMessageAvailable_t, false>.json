@@ -1,0 +1,22 @@
+{
+	"classname": "CCallback<GCSDK::CGCClient, GCMessageAvailable_t, false>",
+	"classname_mangled": "_ZTV9CCallbackIN5GCSDK9CGCClientE20GCMessageAvailable_tLb0EE",
+	"members": [
+		{
+			"name": "CCallbackImpl<4>::Run(void*, bool, unsigned long long)",
+			"name_mangled": "_ZN13CCallbackImplILi4EE3RunEPvby"
+		},
+		{
+			"name": "CCallbackImpl<4>::GetCallbackSizeBytes()",
+			"name_mangled": "_ZN13CCallbackImplILi4EE20GetCallbackSizeBytesEv"
+		},
+		{
+			"name": "CCallback<GCSDK::CGCClient, GCMessageAvailable_t, false>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackIN5GCSDK9CGCClientE20GCMessageAvailable_tLb0EED1Ev"
+		},
+		{
+			"name": "CCallback<GCSDK::CGCClient, GCMessageAvailable_t, false>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackIN5GCSDK9CGCClientE20GCMessageAvailable_tLb0EED0Ev"
+		}
+	]
+}

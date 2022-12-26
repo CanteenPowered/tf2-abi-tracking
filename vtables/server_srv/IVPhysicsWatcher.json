@@ -1,0 +1,10 @@
+{
+	"classname": "IVPhysicsWatcher",
+	"classname_mangled": "_ZTV16IVPhysicsWatcher",
+	"members": [
+		{
+			"name": "IVPhysicsWatcher::~IVPhysicsWatcher()",
+			"name_mangled": "_ZN16IVPhysicsWatcherD0Ev"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "CGameEventListener",
+	"classname_mangled": "_ZTV18CGameEventListener",
+	"members": [
+		{
+			"name": "CGameEventListener::~CGameEventListener()",
+			"name_mangled": "_ZN18CGameEventListenerD0Ev"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"classname": "SQFunctionProto",
+	"classname_mangled": "_ZTV15SQFunctionProto",
+	"members": [
+		{
+			"name": "SQFunctionProto::~SQFunctionProto()",
+			"name_mangled": "_ZN15SQFunctionProtoD0Ev"
+		},
+		{
+			"name": "SQRefCounted::Iterate(CSQStateIterator*)",
+			"name_mangled": "_ZN12SQRefCounted7IterateEP16CSQStateIterator"
+		},
+		{
+			"name": "SQFunctionProto::Release()",
+			"name_mangled": "_ZN15SQFunctionProto7ReleaseEv"
+		},
+		{
+			"name": "SQFunctionProto::GetType()",
+			"name_mangled": "_ZN15SQFunctionProto7GetTypeEv"
+		},
+		{
+			"name": "SQFunctionProto::Mark(SQCollectable**)",
+			"name_mangled": "_ZN15SQFunctionProto4MarkEPP13SQCollectable"
+		},
+		{
+			"name": "SQFunctionProto::Finalize()",
+			"name_mangled": "_ZN15SQFunctionProto8FinalizeEv"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"classname": "CQuestItemTracker",
+	"classname_mangled": "_ZTV17CQuestItemTracker",
+	"members": [
+		{
+			"name": "CQuestItemTracker::~CQuestItemTracker()",
+			"name_mangled": "_ZN17CQuestItemTrackerD0Ev"
+		},
+		{
+			"name": "CQuestItemTracker::Spew() const",
+			"name_mangled": "_ZNK17CQuestItemTracker4SpewEv"
+		},
+		{
+			"name": "CQuestItemTracker::CommitChangesToDB()",
+			"name_mangled": "_ZN17CQuestItemTracker17CommitChangesToDBEv"
+		},
+		{
+			"name": "CQuestItemTracker::OnUpdate()",
+			"name_mangled": "_ZN17CQuestItemTracker8OnUpdateEv"
+		},
+		{
+			"name": "CQuestItemTracker::OnRemove()",
+			"name_mangled": "_ZN17CQuestItemTracker8OnRemoveEv"
+		},
+		{
+			"name": "CQuestItemTracker::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN17CQuestItemTracker13FireGameEventEP10IGameEvent"
+		},
+		{
+			"name": "CQuestItemTracker::SOCreated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CQuestItemTracker9SOCreatedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CQuestItemTracker::PreSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CQuestItemTracker11PreSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CQuestItemTracker::PostSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CQuestItemTracker12PostSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CQuestItemTracker::SODestroyed(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CQuestItemTracker11SODestroyedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CQuestItemTracker::SOCacheSubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CQuestItemTracker17SOCacheSubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CQuestItemTracker::SOCacheUnsubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CQuestItemTracker19SOCacheUnsubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CQuestItemTracker::SOUpdated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CQuestItemTracker9SOUpdatedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		}
+	]
+}

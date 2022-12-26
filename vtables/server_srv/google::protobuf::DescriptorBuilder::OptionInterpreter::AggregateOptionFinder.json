@@ -1,0 +1,14 @@
+{
+	"classname": "google::protobuf::DescriptorBuilder::OptionInterpreter::AggregateOptionFinder",
+	"classname_mangled": "_ZTVN6google8protobuf17DescriptorBuilder17OptionInterpreter21AggregateOptionFinderE",
+	"members": [
+		{
+			"name": "google::protobuf::DescriptorBuilder::OptionInterpreter::AggregateOptionFinder::~AggregateOptionFinder()",
+			"name_mangled": "_ZN6google8protobuf17DescriptorBuilder17OptionInterpreter21AggregateOptionFinderD0Ev"
+		},
+		{
+			"name": "google::protobuf::DescriptorBuilder::OptionInterpreter::AggregateOptionFinder::FindExtension(google::protobuf::Message*, std::string const&) const",
+			"name_mangled": "_ZNK6google8protobuf17DescriptorBuilder17OptionInterpreter21AggregateOptionFinder13FindExtensionEPNS0_7MessageERKSs"
+		}
+	]
+}

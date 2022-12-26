@@ -1,0 +1,10 @@
+{
+	"classname": "CSolidSetDefaults",
+	"classname_mangled": "_ZTV17CSolidSetDefaults",
+	"members": [
+		{
+			"name": "CSolidSetDefaults::SetDefaults(void*)",
+			"name_mangled": "_ZN17CSolidSetDefaults11SetDefaultsEPv"
+		}
+	]
+}

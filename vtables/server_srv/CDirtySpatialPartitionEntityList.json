@@ -1,0 +1,86 @@
+{
+	"classname": "CDirtySpatialPartitionEntityList",
+	"classname_mangled": "_ZTV32CDirtySpatialPartitionEntityList",
+	"members": [
+		{
+			"name": "CDirtySpatialPartitionEntityList::Init()",
+			"name_mangled": "_ZN32CDirtySpatialPartitionEntityList4InitEv"
+		},
+		{
+			"name": "CBaseGameSystem::PostInit()",
+			"name_mangled": "_ZN15CBaseGameSystem8PostInitEv"
+		},
+		{
+			"name": "CDirtySpatialPartitionEntityList::Shutdown()",
+			"name_mangled": "_ZN32CDirtySpatialPartitionEntityList8ShutdownEv"
+		},
+		{
+			"name": "CBaseGameSystem::LevelInitPreEntity()",
+			"name_mangled": "_ZN15CBaseGameSystem18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystem::LevelInitPostEntity()",
+			"name_mangled": "_ZN15CBaseGameSystem19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystem::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN15CBaseGameSystem36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameSystem::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN15CBaseGameSystem22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CDirtySpatialPartitionEntityList::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN32CDirtySpatialPartitionEntityList23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystem::OnSave()",
+			"name_mangled": "_ZN15CBaseGameSystem6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystem::OnRestore()",
+			"name_mangled": "_ZN15CBaseGameSystem9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystem::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN15CBaseGameSystem19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystem::IsPerFrame()",
+			"name_mangled": "_ZN15CBaseGameSystem10IsPerFrameEv"
+		},
+		{
+			"name": "CDirtySpatialPartitionEntityList::~CDirtySpatialPartitionEntityList()",
+			"name_mangled": "_ZN32CDirtySpatialPartitionEntityListD2Ev"
+		},
+		{
+			"name": "CDirtySpatialPartitionEntityList::~CDirtySpatialPartitionEntityList()",
+			"name_mangled": "_ZN32CDirtySpatialPartitionEntityListD0Ev"
+		},
+		{
+			"name": "CBaseGameSystem::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN15CBaseGameSystem25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystem::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN15CBaseGameSystem26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystem::PreClientUpdate()",
+			"name_mangled": "_ZN15CBaseGameSystem15PreClientUpdateEv"
+		},
+		{
+			"name": "CDirtySpatialPartitionEntityList::OnPreQuery_V1()",
+			"name_mangled": "_ZN32CDirtySpatialPartitionEntityList13OnPreQuery_V1Ev"
+		},
+		{
+			"name": "CDirtySpatialPartitionEntityList::OnPreQuery(int)",
+			"name_mangled": "_ZN32CDirtySpatialPartitionEntityList10OnPreQueryEi"
+		},
+		{
+			"name": "CDirtySpatialPartitionEntityList::OnPostQuery(int)",
+			"name_mangled": "_ZN32CDirtySpatialPartitionEntityList11OnPostQueryEi"
+		}
+	]
+}

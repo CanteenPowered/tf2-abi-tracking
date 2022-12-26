@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CHealthKitSmall>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CHealthKitSmallE",
+	"members": [
+		{
+			"name": "CEntityFactory<CHealthKitSmall>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CHealthKitSmallE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CHealthKitSmall>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CHealthKitSmallE13GetEntitySizeEv"
+		}
+	]
+}

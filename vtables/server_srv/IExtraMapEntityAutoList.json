@@ -1,0 +1,10 @@
+{
+	"classname": "IExtraMapEntityAutoList",
+	"classname_mangled": "_ZTV23IExtraMapEntityAutoList",
+	"members": [
+		{
+			"name": "IExtraMapEntityAutoList::~IExtraMapEntityAutoList()",
+			"name_mangled": "_ZN23IExtraMapEntityAutoListD0Ev"
+		}
+	]
+}

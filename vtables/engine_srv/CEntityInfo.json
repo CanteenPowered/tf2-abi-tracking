@@ -1,0 +1,10 @@
+{
+	"classname": "CEntityInfo",
+	"classname_mangled": "_ZTV11CEntityInfo",
+	"members": [
+		{
+			"name": "CEntityInfo::~CEntityInfo()",
+			"name_mangled": "_ZN11CEntityInfoD0Ev"
+		}
+	]
+}

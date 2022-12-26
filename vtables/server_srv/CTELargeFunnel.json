@@ -1,0 +1,30 @@
+{
+	"classname": "CTELargeFunnel",
+	"classname_mangled": "_ZTV14CTELargeFunnel",
+	"members": [
+		{
+			"name": "CTELargeFunnel::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN14CTELargeFunnel40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTELargeFunnel::~CTELargeFunnel()",
+			"name_mangled": "_ZN14CTELargeFunnelD1Ev"
+		},
+		{
+			"name": "CTELargeFunnel::~CTELargeFunnel()",
+			"name_mangled": "_ZN14CTELargeFunnelD0Ev"
+		},
+		{
+			"name": "CTELargeFunnel::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN14CTELargeFunnel4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

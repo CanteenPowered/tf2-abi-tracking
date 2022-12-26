@@ -1,0 +1,34 @@
+{
+	"classname": "CServerGameEnts",
+	"classname_mangled": "_ZTV15CServerGameEnts",
+	"members": [
+		{
+			"name": "CServerGameEnts::~CServerGameEnts()",
+			"name_mangled": "_ZN15CServerGameEntsD0Ev"
+		},
+		{
+			"name": "CServerGameEnts::SetDebugEdictBase(edict_t*)",
+			"name_mangled": "_ZN15CServerGameEnts17SetDebugEdictBaseEP7edict_t"
+		},
+		{
+			"name": "CServerGameEnts::MarkEntitiesAsTouching(edict_t*, edict_t*)",
+			"name_mangled": "_ZN15CServerGameEnts22MarkEntitiesAsTouchingEP7edict_tS1_"
+		},
+		{
+			"name": "CServerGameEnts::FreeContainingEntity(edict_t*)",
+			"name_mangled": "_ZN15CServerGameEnts20FreeContainingEntityEP7edict_t"
+		},
+		{
+			"name": "CServerGameEnts::BaseEntityToEdict(CBaseEntity*)",
+			"name_mangled": "_ZN15CServerGameEnts17BaseEntityToEdictEP11CBaseEntity"
+		},
+		{
+			"name": "CServerGameEnts::EdictToBaseEntity(edict_t*)",
+			"name_mangled": "_ZN15CServerGameEnts17EdictToBaseEntityEP7edict_t"
+		},
+		{
+			"name": "CServerGameEnts::CheckTransmit(CCheckTransmitInfo*, unsigned short const*, int)",
+			"name_mangled": "_ZN15CServerGameEnts13CheckTransmitEP18CCheckTransmitInfoPKti"
+		}
+	]
+}

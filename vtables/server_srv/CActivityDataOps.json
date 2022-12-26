@@ -1,0 +1,22 @@
+{
+	"classname": "CActivityDataOps",
+	"classname_mangled": "_ZTV16CActivityDataOps",
+	"members": [
+		{
+			"name": "CActivityDataOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)",
+			"name_mangled": "_ZN16CActivityDataOps7RestoreERK22SaveRestoreFieldInfo_tP8IRestore"
+		},
+		{
+			"name": "CActivityDataOps::IsEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN16CActivityDataOps7IsEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CActivityDataOps::MakeEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN16CActivityDataOps9MakeEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)",
+			"name_mangled": "_ZN18CDefSaveRestoreOps5ParseERK22SaveRestoreFieldInfo_tPKc"
+		}
+	]
+}

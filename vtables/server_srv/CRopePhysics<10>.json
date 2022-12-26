@@ -1,0 +1,10 @@
+{
+	"classname": "CRopePhysics<10>",
+	"classname_mangled": "_ZTV12CRopePhysicsILi10EE",
+	"members": [
+		{
+			"name": "CBaseRopePhysics::ApplyConstraints(CSimplePhysics::CNode*, int)",
+			"name_mangled": "_ZN16CBaseRopePhysics16ApplyConstraintsEPN14CSimplePhysics5CNodeEi"
+		}
+	]
+}

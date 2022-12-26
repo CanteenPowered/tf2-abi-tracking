@@ -1,0 +1,22 @@
+{
+	"classname": "CCallback<CSteam3Server, ValidateAuthTicketResponse_t, true>",
+	"classname_mangled": "_ZTV9CCallbackI13CSteam3Server28ValidateAuthTicketResponse_tLb1EE",
+	"members": [
+		{
+			"name": "CCallbackImpl<20>::Run(void*, bool, unsigned long long)",
+			"name_mangled": "_ZN13CCallbackImplILi20EE3RunEPvby"
+		},
+		{
+			"name": "CCallbackImpl<20>::GetCallbackSizeBytes()",
+			"name_mangled": "_ZN13CCallbackImplILi20EE20GetCallbackSizeBytesEv"
+		},
+		{
+			"name": "CCallback<CSteam3Server, ValidateAuthTicketResponse_t, true>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI13CSteam3Server28ValidateAuthTicketResponse_tLb1EED2Ev"
+		},
+		{
+			"name": "CCallback<CSteam3Server, ValidateAuthTicketResponse_t, true>::~CCallback()",
+			"name_mangled": "_ZN9CCallbackI13CSteam3Server28ValidateAuthTicketResponse_tLb1EED0Ev"
+		}
+	]
+}

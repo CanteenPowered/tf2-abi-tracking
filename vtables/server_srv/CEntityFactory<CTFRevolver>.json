@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFRevolver>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CTFRevolverE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFRevolver>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CTFRevolverE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFRevolver>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CTFRevolverE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"classname": "ThreadPoolTest::CCountJob",
+	"classname_mangled": "_ZTVN14ThreadPoolTest9CCountJobE",
+	"members": [
+		{
+			"name": "CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT>>::Release()",
+			"name_mangled": "_ZN12CRefCounted1I11IRefCounted20CRefCountServiceBaseILb1E6CRefMTEE7ReleaseEv"
+		},
+		{
+			"name": "ThreadPoolTest::CCountJob::~CCountJob()",
+			"name_mangled": "_ZN14ThreadPoolTest9CCountJobD2Ev"
+		},
+		{
+			"name": "ThreadPoolTest::CCountJob::~CCountJob()",
+			"name_mangled": "_ZN14ThreadPoolTest9CCountJobD0Ev"
+		},
+		{
+			"name": "CJob::Describe()",
+			"name_mangled": "_ZN4CJob8DescribeEv"
+		},
+		{
+			"name": "CJob::SetDescription(char const*)",
+			"name_mangled": "_ZN4CJob14SetDescriptionEPKc"
+		},
+		{
+			"name": "ThreadPoolTest::CCountJob::DoExecute()",
+			"name_mangled": "_ZN14ThreadPoolTest9CCountJob9DoExecuteEv"
+		},
+		{
+			"name": "CJob::DoAbort(bool)",
+			"name_mangled": "_ZN4CJob7DoAbortEb"
+		},
+		{
+			"name": "CJob::DoCleanup()",
+			"name_mangled": "_ZN4CJob9DoCleanupEv"
+		}
+	]
+}

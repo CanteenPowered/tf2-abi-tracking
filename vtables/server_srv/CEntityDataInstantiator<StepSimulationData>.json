@@ -1,0 +1,22 @@
+{
+	"classname": "CEntityDataInstantiator<StepSimulationData>",
+	"classname_mangled": "_ZTV23CEntityDataInstantiatorI18StepSimulationDataE",
+	"members": [
+		{
+			"name": "CEntityDataInstantiator<StepSimulationData>::~CEntityDataInstantiator()",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI18StepSimulationDataED0Ev"
+		},
+		{
+			"name": "CEntityDataInstantiator<StepSimulationData>::GetDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI18StepSimulationDataE13GetDataObjectEPK11CBaseEntity"
+		},
+		{
+			"name": "CEntityDataInstantiator<StepSimulationData>::CreateDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI18StepSimulationDataE16CreateDataObjectEPK11CBaseEntity"
+		},
+		{
+			"name": "CEntityDataInstantiator<StepSimulationData>::DestroyDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI18StepSimulationDataE17DestroyDataObjectEPK11CBaseEntity"
+		}
+	]
+}

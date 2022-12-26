@@ -1,0 +1,10 @@
+{
+	"classname": "IEffects",
+	"classname_mangled": "_ZTV8IEffects",
+	"members": [
+		{
+			"name": "IEffects::~IEffects()",
+			"name_mangled": "_ZN8IEffectsD0Ev"
+		}
+	]
+}

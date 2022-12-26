@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEyeballBoss>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CEyeballBossE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEyeballBoss>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CEyeballBossE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEyeballBoss>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CEyeballBossE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CMomentaryRotButton>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CMomentaryRotButtonE",
+	"members": [
+		{
+			"name": "CEntityFactory<CMomentaryRotButton>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CMomentaryRotButtonE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CMomentaryRotButton>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CMomentaryRotButtonE13GetEntitySizeEv"
+		}
+	]
+}

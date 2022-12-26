@@ -1,0 +1,10 @@
+{
+	"classname": "INetMessageHandler",
+	"classname_mangled": "_ZTV18INetMessageHandler",
+	"members": [
+		{
+			"name": "INetMessageHandler::~INetMessageHandler()",
+			"name_mangled": "_ZN18INetMessageHandlerD0Ev"
+		}
+	]
+}

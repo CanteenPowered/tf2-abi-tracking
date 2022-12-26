@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFogController>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CFogControllerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFogController>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CFogControllerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFogController>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CFogControllerE13GetEntitySizeEv"
+		}
+	]
+}

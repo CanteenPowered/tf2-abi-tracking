@@ -1,0 +1,10 @@
+{
+	"classname": "PlaceStickyBombReply",
+	"classname_mangled": "_ZTV20PlaceStickyBombReply",
+	"members": [
+		{
+			"name": "PlaceStickyBombReply::OnFail(INextBot*, INextBotReply::FailureReason)",
+			"name_mangled": "_ZN20PlaceStickyBombReply6OnFailEP8INextBotN13INextBotReply13FailureReasonE"
+		}
+	]
+}

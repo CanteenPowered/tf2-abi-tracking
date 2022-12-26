@@ -1,0 +1,30 @@
+{
+	"classname": "CTEFizz",
+	"classname_mangled": "_ZTV7CTEFizz",
+	"members": [
+		{
+			"name": "CTEFizz::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN7CTEFizz40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEFizz::~CTEFizz()",
+			"name_mangled": "_ZN7CTEFizzD1Ev"
+		},
+		{
+			"name": "CTEFizz::~CTEFizz()",
+			"name_mangled": "_ZN7CTEFizzD0Ev"
+		},
+		{
+			"name": "CTEFizz::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN7CTEFizz4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CTEFizz::Precache()",
+			"name_mangled": "_ZN7CTEFizz8PrecacheEv"
+		}
+	]
+}

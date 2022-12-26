@@ -1,0 +1,154 @@
+{
+	"classname": "CNavMesh",
+	"classname_mangled": "_ZTV8CNavMesh",
+	"members": [
+		{
+			"name": "CNavMesh::~CNavMesh()",
+			"name_mangled": "_ZN8CNavMeshD0Ev"
+		},
+		{
+			"name": "CNavMesh::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN8CNavMesh13FireGameEventEP10IGameEvent"
+		},
+		{
+			"name": "CNavMesh::PreLoadAreas(int)",
+			"name_mangled": "_ZN8CNavMesh12PreLoadAreasEi"
+		},
+		{
+			"name": "CNavMesh::CreateArea() const",
+			"name_mangled": "_ZNK8CNavMesh10CreateAreaEv"
+		},
+		{
+			"name": "CNavMesh::DestroyArea(CNavArea*) const",
+			"name_mangled": "_ZNK8CNavMesh11DestroyAreaEP8CNavArea"
+		},
+		{
+			"name": "CNavMesh::CreateHidingSpot() const",
+			"name_mangled": "_ZNK8CNavMesh16CreateHidingSpotEv"
+		},
+		{
+			"name": "CNavMesh::Reset()",
+			"name_mangled": "_ZN8CNavMesh5ResetEv"
+		},
+		{
+			"name": "CNavMesh::Update()",
+			"name_mangled": "_ZN8CNavMesh6UpdateEv"
+		},
+		{
+			"name": "CNavMesh::Load()",
+			"name_mangled": "_ZN8CNavMesh4LoadEv"
+		},
+		{
+			"name": "CNavMesh::PostLoad(unsigned int)",
+			"name_mangled": "_ZN8CNavMesh8PostLoadEj"
+		},
+		{
+			"name": "CNavMesh::IsAuthoritative() const",
+			"name_mangled": "_ZNK8CNavMesh15IsAuthoritativeEv"
+		},
+		{
+			"name": "CNavMesh::Save() const",
+			"name_mangled": "_ZNK8CNavMesh4SaveEv"
+		},
+		{
+			"name": "CNavMesh::GetSubVersionNumber() const",
+			"name_mangled": "_ZNK8CNavMesh19GetSubVersionNumberEv"
+		},
+		{
+			"name": "CNavMesh::SaveCustomData(CUtlBuffer&) const",
+			"name_mangled": "_ZNK8CNavMesh14SaveCustomDataER10CUtlBuffer"
+		},
+		{
+			"name": "CNavMesh::LoadCustomData(CUtlBuffer&, unsigned int)",
+			"name_mangled": "_ZN8CNavMesh14LoadCustomDataER10CUtlBufferj"
+		},
+		{
+			"name": "CNavMesh::SaveCustomDataPreArea(CUtlBuffer&) const",
+			"name_mangled": "_ZNK8CNavMesh21SaveCustomDataPreAreaER10CUtlBuffer"
+		},
+		{
+			"name": "CNavMesh::LoadCustomDataPreArea(CUtlBuffer&, unsigned int)",
+			"name_mangled": "_ZN8CNavMesh21LoadCustomDataPreAreaER10CUtlBufferj"
+		},
+		{
+			"name": "CNavMesh::OnServerActivate()",
+			"name_mangled": "_ZN8CNavMesh16OnServerActivateEv"
+		},
+		{
+			"name": "CNavMesh::OnRoundRestart()",
+			"name_mangled": "_ZN8CNavMesh14OnRoundRestartEv"
+		},
+		{
+			"name": "CNavMesh::OnRoundRestartPreEntity()",
+			"name_mangled": "_ZN8CNavMesh23OnRoundRestartPreEntityEv"
+		},
+		{
+			"name": "CNavMesh::OnBreakableCreated(CBaseEntity*)",
+			"name_mangled": "_ZN8CNavMesh18OnBreakableCreatedEP11CBaseEntity"
+		},
+		{
+			"name": "CNavMesh::OnBreakableBroken(CBaseEntity*)",
+			"name_mangled": "_ZN8CNavMesh17OnBreakableBrokenEP11CBaseEntity"
+		},
+		{
+			"name": "CNavMesh::OnAreaBlocked(CNavArea*)",
+			"name_mangled": "_ZN8CNavMesh13OnAreaBlockedEP8CNavArea"
+		},
+		{
+			"name": "CNavMesh::OnAreaUnblocked(CNavArea*)",
+			"name_mangled": "_ZN8CNavMesh15OnAreaUnblockedEP8CNavArea"
+		},
+		{
+			"name": "CNavMesh::OnAvoidanceObstacleEnteredArea(CNavArea*)",
+			"name_mangled": "_ZN8CNavMesh30OnAvoidanceObstacleEnteredAreaEP8CNavArea"
+		},
+		{
+			"name": "CNavMesh::OnAvoidanceObstacleLeftArea(CNavArea*)",
+			"name_mangled": "_ZN8CNavMesh27OnAvoidanceObstacleLeftAreaEP8CNavArea"
+		},
+		{
+			"name": "CNavMesh::OnEditCreateNotify(CNavArea*)",
+			"name_mangled": "_ZN8CNavMesh18OnEditCreateNotifyEP8CNavArea"
+		},
+		{
+			"name": "CNavMesh::OnEditDestroyNotify(CNavArea*)",
+			"name_mangled": "_ZN8CNavMesh19OnEditDestroyNotifyEP8CNavArea"
+		},
+		{
+			"name": "CNavMesh::OnEditDestroyNotify(CNavLadder*)",
+			"name_mangled": "_ZN8CNavMesh19OnEditDestroyNotifyEP10CNavLadder"
+		},
+		{
+			"name": "CNavMesh::OnNodeAdded(CNavNode*)",
+			"name_mangled": "_ZN8CNavMesh11OnNodeAddedEP8CNavNode"
+		},
+		{
+			"name": "CNavMesh::AddWalkableSeeds()",
+			"name_mangled": "_ZN8CNavMesh16AddWalkableSeedsEv"
+		},
+		{
+			"name": "CNavMesh::GetGenerationTraceMask() const",
+			"name_mangled": "_ZNK8CNavMesh22GetGenerationTraceMaskEv"
+		},
+		{
+			"name": "CNavMesh::CommandNavFloodSelect(CCommand const&)",
+			"name_mangled": "_ZN8CNavMesh21CommandNavFloodSelectERK8CCommand"
+		},
+		{
+			"name": "CNavMesh::PostCustomAnalysis()",
+			"name_mangled": "_ZN8CNavMesh18PostCustomAnalysisEv"
+		},
+		{
+			"name": "CNavMesh::RemoveNavArea(CNavArea*)",
+			"name_mangled": "_ZN8CNavMesh13RemoveNavAreaEP8CNavArea"
+		},
+		{
+			"name": "CNavMesh::BeginCustomAnalysis(bool)",
+			"name_mangled": "_ZN8CNavMesh19BeginCustomAnalysisEb"
+		},
+		{
+			"name": "CNavMesh::EndCustomAnalysis()",
+			"name_mangled": "_ZN8CNavMesh17EndCustomAnalysisEv"
+		}
+	]
+}

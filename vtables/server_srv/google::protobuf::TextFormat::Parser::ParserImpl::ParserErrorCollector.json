@@ -1,0 +1,18 @@
+{
+	"classname": "google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector",
+	"classname_mangled": "_ZTVN6google8protobuf10TextFormat6Parser10ParserImpl20ParserErrorCollectorE",
+	"members": [
+		{
+			"name": "google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector::~ParserErrorCollector()",
+			"name_mangled": "_ZN6google8protobuf10TextFormat6Parser10ParserImpl20ParserErrorCollectorD0Ev"
+		},
+		{
+			"name": "google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector::AddError(int, int, std::string const&)",
+			"name_mangled": "_ZN6google8protobuf10TextFormat6Parser10ParserImpl20ParserErrorCollector8AddErrorEiiRKSs"
+		},
+		{
+			"name": "google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector::AddWarning(int, int, std::string const&)",
+			"name_mangled": "_ZN6google8protobuf10TextFormat6Parser10ParserImpl20ParserErrorCollector10AddWarningEiiRKSs"
+		}
+	]
+}

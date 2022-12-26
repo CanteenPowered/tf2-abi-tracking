@@ -1,0 +1,18 @@
+{
+	"classname": "IHasGenericMeter",
+	"classname_mangled": "_ZTV16IHasGenericMeter",
+	"members": [
+		{
+			"name": "IHasGenericMeter::GetMeterMultiplier() const",
+			"name_mangled": "_ZNK16IHasGenericMeter18GetMeterMultiplierEv"
+		},
+		{
+			"name": "IHasGenericMeter::OnResourceMeterFilled()",
+			"name_mangled": "_ZN16IHasGenericMeter21OnResourceMeterFilledEv"
+		},
+		{
+			"name": "IHasGenericMeter::GetChargeInterval() const",
+			"name_mangled": "_ZNK16IHasGenericMeter17GetChargeIntervalEv"
+		}
+	]
+}

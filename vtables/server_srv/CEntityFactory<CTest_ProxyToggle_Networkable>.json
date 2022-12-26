@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTest_ProxyToggle_Networkable>",
+	"classname_mangled": "_ZTV14CEntityFactoryI29CTest_ProxyToggle_NetworkableE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTest_ProxyToggle_Networkable>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI29CTest_ProxyToggle_NetworkableE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTest_ProxyToggle_Networkable>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI29CTest_ProxyToggle_NetworkableE13GetEntitySizeEv"
+		}
+	]
+}

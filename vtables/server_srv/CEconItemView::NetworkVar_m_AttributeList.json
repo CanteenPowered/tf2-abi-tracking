@@ -1,0 +1,14 @@
+{
+	"classname": "CEconItemView::NetworkVar_m_AttributeList",
+	"classname_mangled": "_ZTVN13CEconItemView26NetworkVar_m_AttributeListE",
+	"members": [
+		{
+			"name": "CEconItemView::NetworkVar_m_AttributeList::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN13CEconItemView26NetworkVar_m_AttributeList19NetworkStateChangedEPv"
+		},
+		{
+			"name": "CAttributeList::GetDataDescMap()",
+			"name_mangled": "_ZN14CAttributeList14GetDataDescMapEv"
+		}
+	]
+}

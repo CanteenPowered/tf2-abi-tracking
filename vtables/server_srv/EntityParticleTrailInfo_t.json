@@ -1,0 +1,10 @@
+{
+	"classname": "EntityParticleTrailInfo_t",
+	"classname_mangled": "_ZTV25EntityParticleTrailInfo_t",
+	"members": [
+		{
+			"name": "EntityParticleTrailInfo_t::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN25EntityParticleTrailInfo_t19NetworkStateChangedEPv"
+		}
+	]
+}

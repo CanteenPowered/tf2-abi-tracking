@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CColorCorrection>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CColorCorrectionE",
+	"members": [
+		{
+			"name": "CEntityFactory<CColorCorrection>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CColorCorrectionE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CColorCorrection>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CColorCorrectionE13GetEntitySizeEv"
+		}
+	]
+}

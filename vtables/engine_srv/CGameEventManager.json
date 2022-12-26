@@ -1,0 +1,58 @@
+{
+	"classname": "CGameEventManager",
+	"classname_mangled": "_ZTV17CGameEventManager",
+	"members": [
+		{
+			"name": "CGameEventManager::~CGameEventManager()",
+			"name_mangled": "_ZN17CGameEventManagerD0Ev"
+		},
+		{
+			"name": "CGameEventManager::LoadEventsFromFile(char const*)",
+			"name_mangled": "_ZN17CGameEventManager18LoadEventsFromFileEPKc"
+		},
+		{
+			"name": "CGameEventManager::Reset()",
+			"name_mangled": "_ZN17CGameEventManager5ResetEv"
+		},
+		{
+			"name": "CGameEventManager::AddListener(IGameEventListener2*, char const*, bool)",
+			"name_mangled": "_ZN17CGameEventManager11AddListenerEP19IGameEventListener2PKcb"
+		},
+		{
+			"name": "CGameEventManager::FindListener(IGameEventListener2*, char const*)",
+			"name_mangled": "_ZN17CGameEventManager12FindListenerEP19IGameEventListener2PKc"
+		},
+		{
+			"name": "CGameEventManager::RemoveListener(IGameEventListener2*)",
+			"name_mangled": "_ZN17CGameEventManager14RemoveListenerEP19IGameEventListener2"
+		},
+		{
+			"name": "CGameEventManager::CreateEvent(char const*, bool)",
+			"name_mangled": "_ZN17CGameEventManager11CreateEventEPKcb"
+		},
+		{
+			"name": "CGameEventManager::FireEvent(IGameEvent*, bool)",
+			"name_mangled": "_ZN17CGameEventManager9FireEventEP10IGameEventb"
+		},
+		{
+			"name": "CGameEventManager::FireEventClientSide(IGameEvent*)",
+			"name_mangled": "_ZN17CGameEventManager19FireEventClientSideEP10IGameEvent"
+		},
+		{
+			"name": "CGameEventManager::DuplicateEvent(IGameEvent*)",
+			"name_mangled": "_ZN17CGameEventManager14DuplicateEventEP10IGameEvent"
+		},
+		{
+			"name": "CGameEventManager::FreeEvent(IGameEvent*)",
+			"name_mangled": "_ZN17CGameEventManager9FreeEventEP10IGameEvent"
+		},
+		{
+			"name": "CGameEventManager::SerializeEvent(IGameEvent*, bf_write*)",
+			"name_mangled": "_ZN17CGameEventManager14SerializeEventEP10IGameEventP8bf_write"
+		},
+		{
+			"name": "CGameEventManager::UnserializeEvent(bf_read*)",
+			"name_mangled": "_ZN17CGameEventManager16UnserializeEventEP7bf_read"
+		}
+	]
+}

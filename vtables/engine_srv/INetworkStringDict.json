@@ -1,0 +1,10 @@
+{
+	"classname": "INetworkStringDict",
+	"classname_mangled": "_ZTV18INetworkStringDict",
+	"members": [
+		{
+			"name": "INetworkStringDict::~INetworkStringDict()",
+			"name_mangled": "_ZN18INetworkStringDictD0Ev"
+		}
+	]
+}

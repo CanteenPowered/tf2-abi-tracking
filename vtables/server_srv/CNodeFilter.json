@@ -1,0 +1,10 @@
+{
+	"classname": "CNodeFilter",
+	"classname_mangled": "_ZTV11CNodeFilter",
+	"members": [
+		{
+			"name": "CNodeFilter::NodeDistanceSqr(CAI_Node&)",
+			"name_mangled": "_ZN11CNodeFilter15NodeDistanceSqrER8CAI_Node"
+		}
+	]
+}

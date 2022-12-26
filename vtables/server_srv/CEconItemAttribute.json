@@ -1,0 +1,10 @@
+{
+	"classname": "CEconItemAttribute",
+	"classname_mangled": "_ZTV18CEconItemAttribute",
+	"members": [
+		{
+			"name": "CEconItemAttribute::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN18CEconItemAttribute19NetworkStateChangedEPv"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"classname": "CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>",
+	"classname_mangled": "_ZTV36CTypedProtoBufScriptObjectDefinitionI27CMsgPaintKit_ItemDefinitionL13ProtoDefTypes8EE",
+	"members": [
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::~CTypedProtoBufScriptObjectDefinition()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI27CMsgPaintKit_ItemDefinitionL13ProtoDefTypes8EED0Ev"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetMsg() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI27CMsgPaintKit_ItemDefinitionL13ProtoDefTypes8EE6GetMsgEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetDefType() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI27CMsgPaintKit_ItemDefinitionL13ProtoDefTypes8EE10GetDefTypeEv"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::GetDisplayName() const",
+			"name_mangled": "_ZNK31IProtoBufScriptObjectDefinition14GetDisplayNameEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetTopLayerMessage() const",
+			"name_mangled": "_ZNK36CTypedProtoBufScriptObjectDefinitionI27CMsgPaintKit_ItemDefinitionL13ProtoDefTypes8EE18GetTopLayerMessageEv"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::BPostDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN31IProtoBufScriptObjectDefinition15BPostDataLoadedEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "IProtoBufScriptObjectDefinition::BOnDataLoaded(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN31IProtoBufScriptObjectDefinition13BOnDataLoadedEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetMutableTopLayerMsg()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI27CMsgPaintKit_ItemDefinitionL13ProtoDefTypes8EE21GetMutableTopLayerMsgEv"
+		},
+		{
+			"name": "CTypedProtoBufScriptObjectDefinition<CMsgPaintKit_ItemDefinition, (ProtoDefTypes)8>::GetMutableMsg()",
+			"name_mangled": "_ZN36CTypedProtoBufScriptObjectDefinitionI27CMsgPaintKit_ItemDefinitionL13ProtoDefTypes8EE13GetMutableMsgEv"
+		}
+	]
+}

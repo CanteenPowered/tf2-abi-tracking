@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPropDoorRotating>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CPropDoorRotatingE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPropDoorRotating>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CPropDoorRotatingE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPropDoorRotating>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CPropDoorRotatingE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"classname": "SQClosure",
+	"classname_mangled": "_ZTV9SQClosure",
+	"members": [
+		{
+			"name": "SQClosure::~SQClosure()",
+			"name_mangled": "_ZN9SQClosureD0Ev"
+		},
+		{
+			"name": "SQClosure::Iterate(CSQStateIterator*)",
+			"name_mangled": "_ZN9SQClosure7IterateEP16CSQStateIterator"
+		},
+		{
+			"name": "SQClosure::Release()",
+			"name_mangled": "_ZN9SQClosure7ReleaseEv"
+		},
+		{
+			"name": "SQClosure::GetType()",
+			"name_mangled": "_ZN9SQClosure7GetTypeEv"
+		},
+		{
+			"name": "SQClosure::Mark(SQCollectable**)",
+			"name_mangled": "_ZN9SQClosure4MarkEPP13SQCollectable"
+		},
+		{
+			"name": "SQClosure::Finalize()",
+			"name_mangled": "_ZN9SQClosure8FinalizeEv"
+		}
+	]
+}

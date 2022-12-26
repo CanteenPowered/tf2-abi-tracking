@@ -1,0 +1,30 @@
+{
+	"classname": "CEconLootListDefinition",
+	"classname_mangled": "_ZTV23CEconLootListDefinition",
+	"members": [
+		{
+			"name": "CEconLootListDefinition::~CEconLootListDefinition()",
+			"name_mangled": "_ZN23CEconLootListDefinitionD0Ev"
+		},
+		{
+			"name": "CEconLootListDefinition::BPublicListContents() const",
+			"name_mangled": "_ZNK23CEconLootListDefinition19BPublicListContentsEv"
+		},
+		{
+			"name": "CEconLootListDefinition::GetLootListHeaderLocalizationKey() const",
+			"name_mangled": "_ZNK23CEconLootListDefinition32GetLootListHeaderLocalizationKeyEv"
+		},
+		{
+			"name": "CEconLootListDefinition::GetLootListFooterLocalizationKey() const",
+			"name_mangled": "_ZNK23CEconLootListDefinition32GetLootListFooterLocalizationKeyEv"
+		},
+		{
+			"name": "CEconLootListDefinition::GetLootListCollectionReference() const",
+			"name_mangled": "_ZNK23CEconLootListDefinition30GetLootListCollectionReferenceEv"
+		},
+		{
+			"name": "CEconLootListDefinition::EnumerateUserFacingPotentialDrops(IEconLootList::IEconLootListIterator*) const",
+			"name_mangled": "_ZNK23CEconLootListDefinition33EnumerateUserFacingPotentialDropsEPN13IEconLootList21IEconLootListIteratorE"
+		}
+	]
+}

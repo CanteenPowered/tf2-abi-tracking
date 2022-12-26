@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTesla>",
+	"classname_mangled": "_ZTV14CEntityFactoryI6CTeslaE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTesla>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI6CTeslaE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTesla>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI6CTeslaE13GetEntitySizeEv"
+		}
+	]
+}

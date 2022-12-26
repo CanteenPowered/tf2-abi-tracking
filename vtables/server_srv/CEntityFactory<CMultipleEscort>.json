@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CMultipleEscort>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CMultipleEscortE",
+	"members": [
+		{
+			"name": "CEntityFactory<CMultipleEscort>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CMultipleEscortE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CMultipleEscort>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CMultipleEscortE13GetEntitySizeEv"
+		}
+	]
+}

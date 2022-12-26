@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CIntroViewpoint>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CIntroViewpointE",
+	"members": [
+		{
+			"name": "CEntityFactory<CIntroViewpoint>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CIntroViewpointE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CIntroViewpoint>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CIntroViewpointE13GetEntitySizeEv"
+		}
+	]
+}

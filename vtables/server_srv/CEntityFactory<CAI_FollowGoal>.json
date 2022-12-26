@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAI_FollowGoal>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CAI_FollowGoalE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAI_FollowGoal>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CAI_FollowGoalE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAI_FollowGoal>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CAI_FollowGoalE13GetEntitySizeEv"
+		}
+	]
+}

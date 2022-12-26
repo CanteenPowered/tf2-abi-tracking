@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_Flare>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CTFProjectile_FlareE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_Flare>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFProjectile_FlareE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_Flare>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFProjectile_FlareE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "VStdAllocator",
+	"classname_mangled": "_ZTV13VStdAllocator",
+	"members": [
+		{
+			"name": "VStdAllocator::Free(void*)",
+			"name_mangled": "_ZN13VStdAllocator4FreeEPv"
+		}
+	]
+}

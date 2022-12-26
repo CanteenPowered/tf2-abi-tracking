@@ -1,0 +1,18 @@
+{
+	"classname": "CEconCraftingRecipeDefinition",
+	"classname_mangled": "_ZTV29CEconCraftingRecipeDefinition",
+	"members": [
+		{
+			"name": "CEconCraftingRecipeDefinition::~CEconCraftingRecipeDefinition()",
+			"name_mangled": "_ZN29CEconCraftingRecipeDefinitionD0Ev"
+		},
+		{
+			"name": "CEconCraftingRecipeDefinition::CopyPolymorphic(CEconCraftingRecipeDefinition const*)",
+			"name_mangled": "_ZN29CEconCraftingRecipeDefinition15CopyPolymorphicEPKS_"
+		},
+		{
+			"name": "CEconCraftingRecipeDefinition::ItemListMatchesInputs(CUtlVector<CEconItem*, CUtlMemory<CEconItem*, int>>*, KeyValues*, bool, CUtlVector<unsigned long long, CUtlMemory<unsigned long long, int>>*) const",
+			"name_mangled": "_ZNK29CEconCraftingRecipeDefinition21ItemListMatchesInputsEP10CUtlVectorIP9CEconItem10CUtlMemoryIS2_iEEP9KeyValuesbPS0_IyS3_IyiEE"
+		}
+	]
+}

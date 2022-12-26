@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFGrenadeLauncher>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CTFGrenadeLauncherE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFGrenadeLauncher>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CTFGrenadeLauncherE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFGrenadeLauncher>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CTFGrenadeLauncherE13GetEntitySizeEv"
+		}
+	]
+}

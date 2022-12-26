@@ -1,0 +1,10 @@
+{
+	"classname": "CCopyableUtlVector<MvMTourMission_t>",
+	"classname_mangled": "_ZTV18CCopyableUtlVectorI16MvMTourMission_tE",
+	"members": [
+		{
+			"name": "CCopyableUtlVector<MvMTourMission_t>::~CCopyableUtlVector()",
+			"name_mangled": "_ZN18CCopyableUtlVectorI16MvMTourMission_tED0Ev"
+		}
+	]
+}

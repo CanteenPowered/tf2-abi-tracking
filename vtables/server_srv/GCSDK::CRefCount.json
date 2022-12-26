@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CRefCount",
+	"classname_mangled": "_ZTVN5GCSDK9CRefCountE",
+	"members": [
+		{
+			"name": "GCSDK::CRefCount::~CRefCount()",
+			"name_mangled": "_ZN5GCSDK9CRefCountD0Ev"
+		},
+		{
+			"name": "GCSDK::CRefCount::DestroyThis()",
+			"name_mangled": "_ZN5GCSDK9CRefCount11DestroyThisEv"
+		}
+	]
+}

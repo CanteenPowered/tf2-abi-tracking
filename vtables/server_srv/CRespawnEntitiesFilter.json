@@ -1,0 +1,10 @@
+{
+	"classname": "CRespawnEntitiesFilter",
+	"classname_mangled": "_ZTV22CRespawnEntitiesFilter",
+	"members": [
+		{
+			"name": "CRespawnEntitiesFilter::CreateNextEntity(char const*)",
+			"name_mangled": "_ZN22CRespawnEntitiesFilter16CreateNextEntityEPKc"
+		}
+	]
+}

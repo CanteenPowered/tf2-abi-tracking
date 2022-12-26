@@ -1,0 +1,10 @@
+{
+	"classname": "CUserCmd",
+	"classname_mangled": "_ZTV8CUserCmd",
+	"members": [
+		{
+			"name": "CUserCmd::~CUserCmd()",
+			"name_mangled": "_ZN8CUserCmdD0Ev"
+		}
+	]
+}

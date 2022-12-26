@@ -1,0 +1,54 @@
+{
+	"classname": "CRegistry",
+	"classname_mangled": "_ZTV9CRegistry",
+	"members": [
+		{
+			"name": "CRegistry::~CRegistry()",
+			"name_mangled": "_ZN9CRegistryD0Ev"
+		},
+		{
+			"name": "CRegistry::Init(char const*)",
+			"name_mangled": "_ZN9CRegistry4InitEPKc"
+		},
+		{
+			"name": "CRegistry::Shutdown()",
+			"name_mangled": "_ZN9CRegistry8ShutdownEv"
+		},
+		{
+			"name": "CRegistry::ReadInt(char const*, int)",
+			"name_mangled": "_ZN9CRegistry7ReadIntEPKci"
+		},
+		{
+			"name": "CRegistry::WriteInt(char const*, int)",
+			"name_mangled": "_ZN9CRegistry8WriteIntEPKci"
+		},
+		{
+			"name": "CRegistry::ReadString(char const*, char const*)",
+			"name_mangled": "_ZN9CRegistry10ReadStringEPKcS1_"
+		},
+		{
+			"name": "CRegistry::WriteString(char const*, char const*)",
+			"name_mangled": "_ZN9CRegistry11WriteStringEPKcS1_"
+		},
+		{
+			"name": "CRegistry::ReadInt(char const*, char const*, int)",
+			"name_mangled": "_ZN9CRegistry7ReadIntEPKcS1_i"
+		},
+		{
+			"name": "CRegistry::WriteInt(char const*, char const*, int)",
+			"name_mangled": "_ZN9CRegistry8WriteIntEPKcS1_i"
+		},
+		{
+			"name": "CRegistry::ReadString(char const*, char const*, char const*)",
+			"name_mangled": "_ZN9CRegistry10ReadStringEPKcS1_S1_"
+		},
+		{
+			"name": "CRegistry::WriteString(char const*, char const*, char const*)",
+			"name_mangled": "_ZN9CRegistry11WriteStringEPKcS1_S1_"
+		},
+		{
+			"name": "CRegistry::DirectInit(char const*)",
+			"name_mangled": "_ZN9CRegistry10DirectInitEPKc"
+		}
+	]
+}

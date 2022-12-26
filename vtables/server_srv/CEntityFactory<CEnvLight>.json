@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEnvLight>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9CEnvLightE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEnvLight>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9CEnvLightE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEnvLight>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9CEnvLightE13GetEntitySizeEv"
+		}
+	]
+}

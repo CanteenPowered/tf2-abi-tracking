@@ -1,0 +1,30 @@
+{
+	"classname": "CTEKillPlayerAttachments",
+	"classname_mangled": "_ZTV24CTEKillPlayerAttachments",
+	"members": [
+		{
+			"name": "CTEKillPlayerAttachments::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN24CTEKillPlayerAttachments40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEKillPlayerAttachments::~CTEKillPlayerAttachments()",
+			"name_mangled": "_ZN24CTEKillPlayerAttachmentsD2Ev"
+		},
+		{
+			"name": "CTEKillPlayerAttachments::~CTEKillPlayerAttachments()",
+			"name_mangled": "_ZN24CTEKillPlayerAttachmentsD0Ev"
+		},
+		{
+			"name": "CTEKillPlayerAttachments::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN24CTEKillPlayerAttachments4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

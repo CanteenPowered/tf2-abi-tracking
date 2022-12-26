@@ -1,0 +1,22 @@
+{
+	"classname": "CAI_Behavior<CAI_BaseNPC, 100000>",
+	"classname_mangled": "_ZTV12CAI_BehaviorI11CAI_BaseNPCLi100000EE",
+	"members": [
+		{
+			"name": "CAI_Behavior<CAI_BaseNPC, 100000>::~CAI_Behavior()",
+			"name_mangled": "_ZN12CAI_BehaviorI11CAI_BaseNPCLi100000EED0Ev"
+		},
+		{
+			"name": "CAI_ComponentWithOuter<CAI_BaseNPC, CAI_BehaviorBase>::SetOuter(CAI_BaseNPC*)",
+			"name_mangled": "_ZN22CAI_ComponentWithOuterI11CAI_BaseNPC16CAI_BehaviorBaseE8SetOuterEPS0_"
+		},
+		{
+			"name": "CAI_Component::TaskFail(int)",
+			"name_mangled": "_ZN13CAI_Component8TaskFailEi"
+		},
+		{
+			"name": "CAI_Component::TaskComplete(bool)",
+			"name_mangled": "_ZN13CAI_Component12TaskCompleteEb"
+		}
+	]
+}

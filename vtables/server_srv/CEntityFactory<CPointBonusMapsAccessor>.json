@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPointBonusMapsAccessor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI23CPointBonusMapsAccessorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPointBonusMapsAccessor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI23CPointBonusMapsAccessorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPointBonusMapsAccessor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI23CPointBonusMapsAccessorE13GetEntitySizeEv"
+		}
+	]
+}

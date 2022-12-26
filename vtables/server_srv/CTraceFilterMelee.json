@@ -1,0 +1,10 @@
+{
+	"classname": "CTraceFilterMelee",
+	"classname_mangled": "_ZTV17CTraceFilterMelee",
+	"members": [
+		{
+			"name": "CTraceFilterEntitiesOnly::GetTraceType() const",
+			"name_mangled": "_ZNK24CTraceFilterEntitiesOnly12GetTraceTypeEv"
+		}
+	]
+}

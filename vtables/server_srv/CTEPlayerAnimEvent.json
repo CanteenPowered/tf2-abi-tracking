@@ -1,0 +1,30 @@
+{
+	"classname": "CTEPlayerAnimEvent",
+	"classname_mangled": "_ZTV18CTEPlayerAnimEvent",
+	"members": [
+		{
+			"name": "CTEPlayerAnimEvent::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN18CTEPlayerAnimEvent40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEPlayerAnimEvent::~CTEPlayerAnimEvent()",
+			"name_mangled": "_ZN18CTEPlayerAnimEventD2Ev"
+		},
+		{
+			"name": "CTEPlayerAnimEvent::~CTEPlayerAnimEvent()",
+			"name_mangled": "_ZN18CTEPlayerAnimEventD0Ev"
+		},
+		{
+			"name": "CBaseTempEntity::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN15CBaseTempEntity4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

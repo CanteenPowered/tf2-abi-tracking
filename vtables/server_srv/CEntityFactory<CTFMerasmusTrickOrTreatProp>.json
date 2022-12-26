@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFMerasmusTrickOrTreatProp>",
+	"classname_mangled": "_ZTV14CEntityFactoryI27CTFMerasmusTrickOrTreatPropE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFMerasmusTrickOrTreatProp>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI27CTFMerasmusTrickOrTreatPropE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFMerasmusTrickOrTreatProp>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI27CTFMerasmusTrickOrTreatPropE13GetEntitySizeEv"
+		}
+	]
+}

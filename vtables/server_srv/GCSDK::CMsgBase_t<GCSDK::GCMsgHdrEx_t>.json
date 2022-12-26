@@ -1,0 +1,10 @@
+{
+	"classname": "GCSDK::CMsgBase_t<GCSDK::GCMsgHdrEx_t>",
+	"classname_mangled": "_ZTVN5GCSDK10CMsgBase_tINS_12GCMsgHdrEx_tEEE",
+	"members": [
+		{
+			"name": "GCSDK::CMsgBase_t<GCSDK::GCMsgHdrEx_t>::~CMsgBase_t()",
+			"name_mangled": "_ZN5GCSDK10CMsgBase_tINS_12GCMsgHdrEx_tEED0Ev"
+		}
+	]
+}

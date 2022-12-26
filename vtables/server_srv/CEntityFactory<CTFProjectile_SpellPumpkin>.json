@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_SpellPumpkin>",
+	"classname_mangled": "_ZTV14CEntityFactoryI26CTFProjectile_SpellPumpkinE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_SpellPumpkin>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI26CTFProjectile_SpellPumpkinE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_SpellPumpkin>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI26CTFProjectile_SpellPumpkinE13GetEntitySizeEv"
+		}
+	]
+}

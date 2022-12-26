@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBonusPack>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10CBonusPackE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBonusPack>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10CBonusPackE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBonusPack>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10CBonusPackE13GetEntitySizeEv"
+		}
+	]
+}

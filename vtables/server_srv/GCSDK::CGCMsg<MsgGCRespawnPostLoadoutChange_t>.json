@@ -1,0 +1,10 @@
+{
+	"classname": "GCSDK::CGCMsg<MsgGCRespawnPostLoadoutChange_t>",
+	"classname_mangled": "_ZTVN5GCSDK6CGCMsgI31MsgGCRespawnPostLoadoutChange_tEE",
+	"members": [
+		{
+			"name": "GCSDK::CGCMsg<MsgGCRespawnPostLoadoutChange_t>::~CGCMsg()",
+			"name_mangled": "_ZN5GCSDK6CGCMsgI31MsgGCRespawnPostLoadoutChange_tED0Ev"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_HealingBolt>",
+	"classname_mangled": "_ZTV14CEntityFactoryI25CTFProjectile_HealingBoltE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_HealingBolt>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI25CTFProjectile_HealingBoltE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_HealingBolt>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI25CTFProjectile_HealingBoltE13GetEntitySizeEv"
+		}
+	]
+}

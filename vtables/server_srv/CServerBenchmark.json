@@ -1,0 +1,34 @@
+{
+	"classname": "CServerBenchmark",
+	"classname_mangled": "_ZTV16CServerBenchmark",
+	"members": [
+		{
+			"name": "CServerBenchmark::UpdateBenchmark()",
+			"name_mangled": "_ZN16CServerBenchmark15UpdateBenchmarkEv"
+		},
+		{
+			"name": "CServerBenchmark::EndBenchmark()",
+			"name_mangled": "_ZN16CServerBenchmark12EndBenchmarkEv"
+		},
+		{
+			"name": "CServerBenchmark::IsBenchmarkRunning()",
+			"name_mangled": "_ZN16CServerBenchmark18IsBenchmarkRunningEv"
+		},
+		{
+			"name": "CServerBenchmark::IsLocalBenchmarkPlayer(CBasePlayer*)",
+			"name_mangled": "_ZN16CServerBenchmark22IsLocalBenchmarkPlayerEP11CBasePlayer"
+		},
+		{
+			"name": "CServerBenchmark::RandomInt(int, int)",
+			"name_mangled": "_ZN16CServerBenchmark9RandomIntEii"
+		},
+		{
+			"name": "CServerBenchmark::RandomFloat(float, float)",
+			"name_mangled": "_ZN16CServerBenchmark11RandomFloatEff"
+		},
+		{
+			"name": "CServerBenchmark::GetTickOffset()",
+			"name_mangled": "_ZN16CServerBenchmark13GetTickOffsetEv"
+		}
+	]
+}

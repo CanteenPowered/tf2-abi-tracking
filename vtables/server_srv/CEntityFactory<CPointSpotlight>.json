@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPointSpotlight>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CPointSpotlightE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPointSpotlight>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CPointSpotlightE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPointSpotlight>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CPointSpotlightE13GetEntitySizeEv"
+		}
+	]
+}

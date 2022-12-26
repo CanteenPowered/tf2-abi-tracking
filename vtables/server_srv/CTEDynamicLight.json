@@ -1,0 +1,30 @@
+{
+	"classname": "CTEDynamicLight",
+	"classname_mangled": "_ZTV15CTEDynamicLight",
+	"members": [
+		{
+			"name": "CTEDynamicLight::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN15CTEDynamicLight40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEDynamicLight::~CTEDynamicLight()",
+			"name_mangled": "_ZN15CTEDynamicLightD2Ev"
+		},
+		{
+			"name": "CTEDynamicLight::~CTEDynamicLight()",
+			"name_mangled": "_ZN15CTEDynamicLightD0Ev"
+		},
+		{
+			"name": "CTEDynamicLight::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN15CTEDynamicLight4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

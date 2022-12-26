@@ -1,0 +1,42 @@
+{
+	"classname": "CPasstimeBallControllerPlayerSeek",
+	"classname_mangled": "_ZTV33CPasstimeBallControllerPlayerSeek",
+	"members": [
+		{
+			"name": "CPasstimeBallControllerPlayerSeek::~CPasstimeBallControllerPlayerSeek()",
+			"name_mangled": "_ZN33CPasstimeBallControllerPlayerSeekD0Ev"
+		},
+		{
+			"name": "CPasstimeBallControllerPlayerSeek::Apply(CPasstimeBall*)",
+			"name_mangled": "_ZN33CPasstimeBallControllerPlayerSeek5ApplyEP13CPasstimeBall"
+		},
+		{
+			"name": "CPasstimeBallControllerPlayerSeek::IsActive() const",
+			"name_mangled": "_ZNK33CPasstimeBallControllerPlayerSeek8IsActiveEv"
+		},
+		{
+			"name": "CPasstimeBallController::OnBallCollision(CPasstimeBall*, int, gamevcollisionevent_t*)",
+			"name_mangled": "_ZN23CPasstimeBallController15OnBallCollisionEP13CPasstimeBalliP21gamevcollisionevent_t"
+		},
+		{
+			"name": "CPasstimeBallController::OnBallPickedUp(CPasstimeBall*, CTFPlayer*)",
+			"name_mangled": "_ZN23CPasstimeBallController14OnBallPickedUpEP13CPasstimeBallP9CTFPlayer"
+		},
+		{
+			"name": "CPasstimeBallController::OnBallDamaged(CPasstimeBall*)",
+			"name_mangled": "_ZN23CPasstimeBallController13OnBallDamagedEP13CPasstimeBall"
+		},
+		{
+			"name": "CPasstimeBallControllerPlayerSeek::OnBallSpawned(CPasstimeBall*)",
+			"name_mangled": "_ZN33CPasstimeBallControllerPlayerSeek13OnBallSpawnedEP13CPasstimeBall"
+		},
+		{
+			"name": "CPasstimeBallController::OnEnabled()",
+			"name_mangled": "_ZN23CPasstimeBallController9OnEnabledEv"
+		},
+		{
+			"name": "CPasstimeBallControllerPlayerSeek::OnDisabled()",
+			"name_mangled": "_ZN33CPasstimeBallControllerPlayerSeek10OnDisabledEv"
+		}
+	]
+}

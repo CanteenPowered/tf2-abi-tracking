@@ -1,0 +1,22 @@
+{
+	"classname": "CSchemaAttributeTypeBase<unsigned int>",
+	"classname_mangled": "_ZTV24CSchemaAttributeTypeBaseIjE",
+	"members": [
+		{
+			"name": "CSchemaAttributeTypeBase<unsigned int>::~CSchemaAttributeTypeBase()",
+			"name_mangled": "_ZN24CSchemaAttributeTypeBaseIjED0Ev"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<unsigned int>::GetTypeUniqueIdentifier() const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseIjE23GetTypeUniqueIdentifierEv"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<unsigned int>::LoadEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseIjE22LoadEconAttributeValueEP9CEconItemPK28CEconItemAttributeDefinitionRK22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<unsigned int>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&, std::string*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseIjE37ConvertEconAttributeValueToByteStreamERK22attribute_data_union_tPSs"
+		}
+	]
+}

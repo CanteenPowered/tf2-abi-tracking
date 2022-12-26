@@ -1,0 +1,110 @@
+{
+	"classname": "CEngineReplay",
+	"classname_mangled": "_ZTV13CEngineReplay",
+	"members": [
+		{
+			"name": "CEngineReplay::~CEngineReplay()",
+			"name_mangled": "_ZN13CEngineReplayD0Ev"
+		},
+		{
+			"name": "CEngineReplay::IsSupportedModAndPlatform()",
+			"name_mangled": "_ZN13CEngineReplay25IsSupportedModAndPlatformEv"
+		},
+		{
+			"name": "CEngineReplay::GetHostTime()",
+			"name_mangled": "_ZN13CEngineReplay11GetHostTimeEv"
+		},
+		{
+			"name": "CEngineReplay::GetHostTickCount()",
+			"name_mangled": "_ZN13CEngineReplay16GetHostTickCountEv"
+		},
+		{
+			"name": "CEngineReplay::TimeToTicks(float)",
+			"name_mangled": "_ZN13CEngineReplay11TimeToTicksEf"
+		},
+		{
+			"name": "CEngineReplay::TicksToTime(int)",
+			"name_mangled": "_ZN13CEngineReplay11TicksToTimeEi"
+		},
+		{
+			"name": "CEngineReplay::ReadDemoHeader(char const*, demoheader_t&)",
+			"name_mangled": "_ZN13CEngineReplay14ReadDemoHeaderEPKcR12demoheader_t"
+		},
+		{
+			"name": "CEngineReplay::GetGameDir()",
+			"name_mangled": "_ZN13CEngineReplay10GetGameDirEv"
+		},
+		{
+			"name": "CEngineReplay::Cbuf_AddText(char const*)",
+			"name_mangled": "_ZN13CEngineReplay12Cbuf_AddTextEPKc"
+		},
+		{
+			"name": "CEngineReplay::Cbuf_Execute()",
+			"name_mangled": "_ZN13CEngineReplay12Cbuf_ExecuteEv"
+		},
+		{
+			"name": "CEngineReplay::Host_Disconnect(bool)",
+			"name_mangled": "_ZN13CEngineReplay15Host_DisconnectEb"
+		},
+		{
+			"name": "CEngineReplay::HostState_Shutdown()",
+			"name_mangled": "_ZN13CEngineReplay18HostState_ShutdownEv"
+		},
+		{
+			"name": "CEngineReplay::GetModDir()",
+			"name_mangled": "_ZN13CEngineReplay9GetModDirEv"
+		},
+		{
+			"name": "CEngineReplay::CopyFile(char const*, char const*)",
+			"name_mangled": "_ZN13CEngineReplay8CopyFileEPKcS1_"
+		},
+		{
+			"name": "CEngineReplay::LZSS_Compress(char*, unsigned int*, char const*, unsigned int)",
+			"name_mangled": "_ZN13CEngineReplay13LZSS_CompressEPcPjPKcj"
+		},
+		{
+			"name": "CEngineReplay::LZSS_Decompress(char*, unsigned int*, char const*, unsigned int)",
+			"name_mangled": "_ZN13CEngineReplay15LZSS_DecompressEPcPjPKcj"
+		},
+		{
+			"name": "CEngineReplay::MD5_HashBuffer(unsigned char*, unsigned char const*, int, unsigned int*)",
+			"name_mangled": "_ZN13CEngineReplay14MD5_HashBufferEPhPKhiPj"
+		},
+		{
+			"name": "CEngineReplay::GetReplayServer()",
+			"name_mangled": "_ZN13CEngineReplay15GetReplayServerEv"
+		},
+		{
+			"name": "CEngineReplay::GetReplayServerAsIServer()",
+			"name_mangled": "_ZN13CEngineReplay24GetReplayServerAsIServerEv"
+		},
+		{
+			"name": "CEngineReplay::GetGameServer()",
+			"name_mangled": "_ZN13CEngineReplay13GetGameServerEv"
+		},
+		{
+			"name": "CEngineReplay::GetSessionRecordBuffer(unsigned char**, int*)",
+			"name_mangled": "_ZN13CEngineReplay22GetSessionRecordBufferEPPhPi"
+		},
+		{
+			"name": "CEngineReplay::IsDedicated()",
+			"name_mangled": "_ZN13CEngineReplay11IsDedicatedEv"
+		},
+		{
+			"name": "CEngineReplay::ResetReplayRecordBuffer()",
+			"name_mangled": "_ZN13CEngineReplay23ResetReplayRecordBufferEv"
+		},
+		{
+			"name": "CEngineReplay::GetReplayDemoHeader()",
+			"name_mangled": "_ZN13CEngineReplay19GetReplayDemoHeaderEv"
+		},
+		{
+			"name": "CEngineReplay::RecalculateTags()",
+			"name_mangled": "_ZN13CEngineReplay15RecalculateTagsEv"
+		},
+		{
+			"name": "CEngineReplay::NET_GetHostnameAsIP(char const*, char*, int)",
+			"name_mangled": "_ZN13CEngineReplay19NET_GetHostnameAsIPEPKcPci"
+		}
+	]
+}

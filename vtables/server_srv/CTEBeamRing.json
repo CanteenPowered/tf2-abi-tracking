@@ -1,0 +1,30 @@
+{
+	"classname": "CTEBeamRing",
+	"classname_mangled": "_ZTV11CTEBeamRing",
+	"members": [
+		{
+			"name": "CTEBeamRing::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN11CTEBeamRing40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEBeamRing::~CTEBeamRing()",
+			"name_mangled": "_ZN11CTEBeamRingD1Ev"
+		},
+		{
+			"name": "CTEBeamRing::~CTEBeamRing()",
+			"name_mangled": "_ZN11CTEBeamRingD0Ev"
+		},
+		{
+			"name": "CTEBeamRing::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN11CTEBeamRing4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

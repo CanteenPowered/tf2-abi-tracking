@@ -1,0 +1,962 @@
+{
+	"classname": "CTFRuneTempUber",
+	"classname_mangled": "_ZTV15CTFRuneTempUber",
+	"members": [
+		{
+			"name": "CTFRuneTempUber::~CTFRuneTempUber()",
+			"name_mangled": "_ZN15CTFRuneTempUberD0Ev"
+		},
+		{
+			"name": "CBaseEntity::SetRefEHandle(CBaseHandle const&)",
+			"name_mangled": "_ZN11CBaseEntity13SetRefEHandleERK11CBaseHandle"
+		},
+		{
+			"name": "CBaseEntity::GetRefEHandle() const",
+			"name_mangled": "_ZNK11CBaseEntity13GetRefEHandleEv"
+		},
+		{
+			"name": "CBaseEntity::GetCollideable()",
+			"name_mangled": "_ZN11CBaseEntity14GetCollideableEv"
+		},
+		{
+			"name": "CBaseEntity::GetNetworkable()",
+			"name_mangled": "_ZN11CBaseEntity14GetNetworkableEv"
+		},
+		{
+			"name": "CBaseEntity::GetBaseEntity()",
+			"name_mangled": "_ZN11CBaseEntity13GetBaseEntityEv"
+		},
+		{
+			"name": "CBaseEntity::GetModelIndex() const",
+			"name_mangled": "_ZNK11CBaseEntity13GetModelIndexEv"
+		},
+		{
+			"name": "CBaseEntity::GetModelName() const",
+			"name_mangled": "_ZNK11CBaseEntity12GetModelNameEv"
+		},
+		{
+			"name": "CBaseEntity::SetModelIndex(int)",
+			"name_mangled": "_ZN11CBaseEntity13SetModelIndexEi"
+		},
+		{
+			"name": "CBaseAnimating::GetServerClass()",
+			"name_mangled": "_ZN14CBaseAnimating14GetServerClassEv"
+		},
+		{
+			"name": "CBaseAnimating::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN14CBaseAnimating40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTFPowerup::GetDataDescMap()",
+			"name_mangled": "_ZN10CTFPowerup14GetDataDescMapEv"
+		},
+		{
+			"name": "CBaseAnimating::GetScriptDesc()",
+			"name_mangled": "_ZN14CBaseAnimating13GetScriptDescEv"
+		},
+		{
+			"name": "CBaseEntity::SetModelIndexOverride(int, int)",
+			"name_mangled": "_ZN11CBaseEntity21SetModelIndexOverrideEii"
+		},
+		{
+			"name": "CBaseAnimating::TestCollision(Ray_t const&, unsigned int, CGameTrace&)",
+			"name_mangled": "_ZN14CBaseAnimating13TestCollisionERK5Ray_tjR10CGameTrace"
+		},
+		{
+			"name": "CBaseAnimating::TestHitboxes(Ray_t const&, unsigned int, CGameTrace&)",
+			"name_mangled": "_ZN14CBaseAnimating12TestHitboxesERK5Ray_tjR10CGameTrace"
+		},
+		{
+			"name": "CBaseEntity::ComputeWorldSpaceSurroundingBox(Vector*, Vector*)",
+			"name_mangled": "_ZN11CBaseEntity31ComputeWorldSpaceSurroundingBoxEP6VectorS1_"
+		},
+		{
+			"name": "CBaseEntity::ShouldCollide(int, int) const",
+			"name_mangled": "_ZNK11CBaseEntity13ShouldCollideEii"
+		},
+		{
+			"name": "CBaseEntity::SetOwnerEntity(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity14SetOwnerEntityEPS_"
+		},
+		{
+			"name": "CBaseEntity::SetScriptOwnerEntity(HSCRIPT__*)",
+			"name_mangled": "_ZN11CBaseEntity20SetScriptOwnerEntityEP9HSCRIPT__"
+		},
+		{
+			"name": "CBaseEntity::ShouldTransmit(CCheckTransmitInfo const*)",
+			"name_mangled": "_ZN11CBaseEntity14ShouldTransmitEPK18CCheckTransmitInfo"
+		},
+		{
+			"name": "CBaseEntity::UpdateTransmitState()",
+			"name_mangled": "_ZN11CBaseEntity19UpdateTransmitStateEv"
+		},
+		{
+			"name": "CBaseAnimating::SetTransmit(CCheckTransmitInfo*, bool)",
+			"name_mangled": "_ZN14CBaseAnimating11SetTransmitEP18CCheckTransmitInfob"
+		},
+		{
+			"name": "CBaseEntity::GetTracerType()",
+			"name_mangled": "_ZN11CBaseEntity13GetTracerTypeEv"
+		},
+		{
+			"name": "CTFRuneTemp::Spawn()",
+			"name_mangled": "_ZN11CTFRuneTemp5SpawnEv"
+		},
+		{
+			"name": "CTFRuneTemp::Precache()",
+			"name_mangled": "_ZN11CTFRuneTemp8PrecacheEv"
+		},
+		{
+			"name": "CBaseAnimating::SetModel(char const*)",
+			"name_mangled": "_ZN14CBaseAnimating8SetModelEPKc"
+		},
+		{
+			"name": "CBaseAnimating::OnNewModel()",
+			"name_mangled": "_ZN14CBaseAnimating10OnNewModelEv"
+		},
+		{
+			"name": "CBaseEntity::PostConstructor(char const*)",
+			"name_mangled": "_ZN11CBaseEntity15PostConstructorEPKc"
+		},
+		{
+			"name": "CBaseEntity::PostClientActive()",
+			"name_mangled": "_ZN11CBaseEntity16PostClientActiveEv"
+		},
+		{
+			"name": "CBaseEntity::ParseMapData(CEntityMapData*)",
+			"name_mangled": "_ZN11CBaseEntity12ParseMapDataEP14CEntityMapData"
+		},
+		{
+			"name": "CBaseEntity::KeyValue(char const*, char const*)",
+			"name_mangled": "_ZN11CBaseEntity8KeyValueEPKcS1_"
+		},
+		{
+			"name": "CBaseEntity::KeyValue(char const*, float)",
+			"name_mangled": "_ZN11CBaseEntity8KeyValueEPKcf"
+		},
+		{
+			"name": "CBaseEntity::KeyValue(char const*, Vector const&)",
+			"name_mangled": "_ZN11CBaseEntity8KeyValueEPKcRK6Vector"
+		},
+		{
+			"name": "CBaseEntity::GetKeyValue(char const*, char*, int)",
+			"name_mangled": "_ZN11CBaseEntity11GetKeyValueEPKcPci"
+		},
+		{
+			"name": "CBaseAnimating::Activate()",
+			"name_mangled": "_ZN14CBaseAnimating8ActivateEv"
+		},
+		{
+			"name": "CBaseEntity::SetParent(CBaseEntity*, int)",
+			"name_mangled": "_ZN11CBaseEntity9SetParentEPS_i"
+		},
+		{
+			"name": "CItem::ObjectCaps()",
+			"name_mangled": "_ZN5CItem10ObjectCapsEv"
+		},
+		{
+			"name": "CBaseEntity::AcceptInput(char const*, CBaseEntity*, CBaseEntity*, variant_t, int)",
+			"name_mangled": "_ZN11CBaseEntity11AcceptInputEPKcPS_S2_9variant_ti"
+		},
+		{
+			"name": "CBaseAnimating::GetInputDispatchEffectPosition(char const*, Vector&, QAngle&)",
+			"name_mangled": "_ZN14CBaseAnimating30GetInputDispatchEffectPositionEPKcR6VectorR6QAngle"
+		},
+		{
+			"name": "CBaseEntity::DrawDebugGeometryOverlays()",
+			"name_mangled": "_ZN11CBaseEntity25DrawDebugGeometryOverlaysEv"
+		},
+		{
+			"name": "CBaseAnimating::DrawDebugTextOverlays()",
+			"name_mangled": "_ZN14CBaseAnimating21DrawDebugTextOverlaysEv"
+		},
+		{
+			"name": "CBaseEntity::Save(ISave&)",
+			"name_mangled": "_ZN11CBaseEntity4SaveER5ISave"
+		},
+		{
+			"name": "CBaseAnimating::Restore(IRestore&)",
+			"name_mangled": "_ZN14CBaseAnimating7RestoreER8IRestore"
+		},
+		{
+			"name": "CBaseEntity::ShouldSavePhysics()",
+			"name_mangled": "_ZN11CBaseEntity17ShouldSavePhysicsEv"
+		},
+		{
+			"name": "CBaseEntity::OnSave(IEntitySaveUtils*)",
+			"name_mangled": "_ZN11CBaseEntity6OnSaveEP16IEntitySaveUtils"
+		},
+		{
+			"name": "CBaseAnimating::OnRestore()",
+			"name_mangled": "_ZN14CBaseAnimating9OnRestoreEv"
+		},
+		{
+			"name": "CBaseEntity::RequiredEdictIndex()",
+			"name_mangled": "_ZN11CBaseEntity18RequiredEdictIndexEv"
+		},
+		{
+			"name": "CBaseEntity::MoveDone()",
+			"name_mangled": "_ZN11CBaseEntity8MoveDoneEv"
+		},
+		{
+			"name": "CBaseEntity::Think()",
+			"name_mangled": "_ZN11CBaseEntity5ThinkEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_nNextThinkTick()",
+			"name_mangled": "_ZN11CBaseEntity36NetworkStateChanged_m_nNextThinkTickEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_nNextThinkTick(void*)",
+			"name_mangled": "_ZN11CBaseEntity36NetworkStateChanged_m_nNextThinkTickEPv"
+		},
+		{
+			"name": "CBaseAnimating::GetBaseAnimating()",
+			"name_mangled": "_ZN14CBaseAnimating16GetBaseAnimatingEv"
+		},
+		{
+			"name": "CBaseEntity::GetResponseSystem()",
+			"name_mangled": "_ZN11CBaseEntity17GetResponseSystemEv"
+		},
+		{
+			"name": "CBaseEntity::DispatchResponse(char const*)",
+			"name_mangled": "_ZN11CBaseEntity16DispatchResponseEPKc"
+		},
+		{
+			"name": "CBaseEntity::Classify()",
+			"name_mangled": "_ZN11CBaseEntity8ClassifyEv"
+		},
+		{
+			"name": "CBaseEntity::DeathNotice(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity11DeathNoticeEPS_"
+		},
+		{
+			"name": "CBaseEntity::ShouldAttractAutoAim(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity20ShouldAttractAutoAimEPS_"
+		},
+		{
+			"name": "CBaseEntity::GetAutoAimRadius()",
+			"name_mangled": "_ZN11CBaseEntity16GetAutoAimRadiusEv"
+		},
+		{
+			"name": "CBaseEntity::GetAutoAimCenter()",
+			"name_mangled": "_ZN11CBaseEntity16GetAutoAimCenterEv"
+		},
+		{
+			"name": "CBaseEntity::GetBeamTraceFilter()",
+			"name_mangled": "_ZN11CBaseEntity18GetBeamTraceFilterEv"
+		},
+		{
+			"name": "CBaseEntity::PassesDamageFilter(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CBaseEntity18PassesDamageFilterERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseEntity::TraceAttack(CTakeDamageInfo const&, Vector const&, CGameTrace*, CDmgAccumulator*)",
+			"name_mangled": "_ZN11CBaseEntity11TraceAttackERK15CTakeDamageInfoRK6VectorP10CGameTraceP15CDmgAccumulator"
+		},
+		{
+			"name": "CBaseEntity::CanBeHitByMeleeAttack(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity21CanBeHitByMeleeAttackEPS_"
+		},
+		{
+			"name": "CBaseEntity::OnTakeDamage(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CBaseEntity12OnTakeDamageERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseEntity::AdjustDamageDirection(CTakeDamageInfo const&, Vector&, CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity21AdjustDamageDirectionERK15CTakeDamageInfoR6VectorPS_"
+		},
+		{
+			"name": "CBaseEntity::TakeHealth(float, int)",
+			"name_mangled": "_ZN11CBaseEntity10TakeHealthEfi"
+		},
+		{
+			"name": "CBaseEntity::IsAlive()",
+			"name_mangled": "_ZN11CBaseEntity7IsAliveEv"
+		},
+		{
+			"name": "CBaseEntity::Event_Killed(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CBaseEntity12Event_KilledERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseEntity::Event_KilledOther(CBaseEntity*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CBaseEntity17Event_KilledOtherEPS_RK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseEntity::BloodColor()",
+			"name_mangled": "_ZN11CBaseEntity10BloodColorEv"
+		},
+		{
+			"name": "CBaseEntity::IsTriggered(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity11IsTriggeredEPS_"
+		},
+		{
+			"name": "CBaseEntity::IsNPC() const",
+			"name_mangled": "_ZNK11CBaseEntity5IsNPCEv"
+		},
+		{
+			"name": "CBaseEntity::MyCombatCharacterPointer()",
+			"name_mangled": "_ZN11CBaseEntity24MyCombatCharacterPointerEv"
+		},
+		{
+			"name": "CBaseEntity::MyNextBotPointer()",
+			"name_mangled": "_ZN11CBaseEntity16MyNextBotPointerEv"
+		},
+		{
+			"name": "CBaseEntity::GetDelay()",
+			"name_mangled": "_ZN11CBaseEntity8GetDelayEv"
+		},
+		{
+			"name": "CBaseEntity::IsMoving()",
+			"name_mangled": "_ZN11CBaseEntity8IsMovingEv"
+		},
+		{
+			"name": "CBaseEntity::DamageDecal(int, int)",
+			"name_mangled": "_ZN11CBaseEntity11DamageDecalEii"
+		},
+		{
+			"name": "CBaseEntity::DecalTrace(CGameTrace*, char const*)",
+			"name_mangled": "_ZN11CBaseEntity10DecalTraceEP10CGameTracePKc"
+		},
+		{
+			"name": "CBaseEntity::ImpactTrace(CGameTrace*, int, char const*)",
+			"name_mangled": "_ZN11CBaseEntity11ImpactTraceEP10CGameTraceiPKc"
+		},
+		{
+			"name": "CBaseEntity::OnControls(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity10OnControlsEPS_"
+		},
+		{
+			"name": "CBaseEntity::HasTarget(string_t)",
+			"name_mangled": "_ZN11CBaseEntity9HasTargetE8string_t"
+		},
+		{
+			"name": "CBaseEntity::IsPlayer() const",
+			"name_mangled": "_ZNK11CBaseEntity8IsPlayerEv"
+		},
+		{
+			"name": "CBaseEntity::IsNetClient() const",
+			"name_mangled": "_ZNK11CBaseEntity11IsNetClientEv"
+		},
+		{
+			"name": "CBaseEntity::IsTemplate()",
+			"name_mangled": "_ZN11CBaseEntity10IsTemplateEv"
+		},
+		{
+			"name": "CBaseEntity::IsBaseObject() const",
+			"name_mangled": "_ZNK11CBaseEntity12IsBaseObjectEv"
+		},
+		{
+			"name": "CBaseEntity::IsBaseTrain() const",
+			"name_mangled": "_ZNK11CBaseEntity11IsBaseTrainEv"
+		},
+		{
+			"name": "CBaseEntity::IsCombatItem() const",
+			"name_mangled": "_ZNK11CBaseEntity12IsCombatItemEv"
+		},
+		{
+			"name": "CBaseEntity::IsProjectileCollisionTarget() const",
+			"name_mangled": "_ZNK11CBaseEntity27IsProjectileCollisionTargetEv"
+		},
+		{
+			"name": "CBaseEntity::IsFuncLOD() const",
+			"name_mangled": "_ZNK11CBaseEntity9IsFuncLODEv"
+		},
+		{
+			"name": "CBaseEntity::IsBaseProjectile() const",
+			"name_mangled": "_ZNK11CBaseEntity16IsBaseProjectileEv"
+		},
+		{
+			"name": "CBaseEntity::IsBaseCombatWeapon() const",
+			"name_mangled": "_ZNK11CBaseEntity18IsBaseCombatWeaponEv"
+		},
+		{
+			"name": "CBaseEntity::IsWearable() const",
+			"name_mangled": "_ZNK11CBaseEntity10IsWearableEv"
+		},
+		{
+			"name": "CBaseEntity::MyCombatWeaponPointer()",
+			"name_mangled": "_ZN11CBaseEntity21MyCombatWeaponPointerEv"
+		},
+		{
+			"name": "CBaseEntity::GetServerVehicle()",
+			"name_mangled": "_ZN11CBaseEntity16GetServerVehicleEv"
+		},
+		{
+			"name": "CBaseEntity::IsViewable()",
+			"name_mangled": "_ZN11CBaseEntity10IsViewableEv"
+		},
+		{
+			"name": "CBaseEntity::ChangeTeam(int)",
+			"name_mangled": "_ZN11CBaseEntity10ChangeTeamEi"
+		},
+		{
+			"name": "CItem::OnEntityEvent(EntityEvent_t, void*)",
+			"name_mangled": "_ZN5CItem13OnEntityEventE13EntityEvent_tPv"
+		},
+		{
+			"name": "CBaseEntity::CanStandOn(CBaseEntity*) const",
+			"name_mangled": "_ZNK11CBaseEntity10CanStandOnEPS_"
+		},
+		{
+			"name": "CBaseEntity::CanStandOn(edict_t*) const",
+			"name_mangled": "_ZNK11CBaseEntity10CanStandOnEP7edict_t"
+		},
+		{
+			"name": "CBaseEntity::GetEnemy()",
+			"name_mangled": "_ZN11CBaseEntity8GetEnemyEv"
+		},
+		{
+			"name": "CBaseEntity::GetEnemy() const",
+			"name_mangled": "_ZNK11CBaseEntity8GetEnemyEv"
+		},
+		{
+			"name": "CItem::Use(CBaseEntity*, CBaseEntity*, USE_TYPE, float)",
+			"name_mangled": "_ZN5CItem3UseEP11CBaseEntityS1_8USE_TYPEf"
+		},
+		{
+			"name": "CBaseEntity::StartTouch(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity10StartTouchEPS_"
+		},
+		{
+			"name": "CBaseEntity::Touch(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity5TouchEPS_"
+		},
+		{
+			"name": "CBaseEntity::EndTouch(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity8EndTouchEPS_"
+		},
+		{
+			"name": "CBaseEntity::StartBlocked(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity12StartBlockedEPS_"
+		},
+		{
+			"name": "CBaseEntity::Blocked(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity7BlockedEPS_"
+		},
+		{
+			"name": "CBaseEntity::EndBlocked()",
+			"name_mangled": "_ZN11CBaseEntity10EndBlockedEv"
+		},
+		{
+			"name": "CBaseEntity::PhysicsSimulate()",
+			"name_mangled": "_ZN11CBaseEntity15PhysicsSimulateEv"
+		},
+		{
+			"name": "CBaseEntity::UpdateOnRemove()",
+			"name_mangled": "_ZN11CBaseEntity14UpdateOnRemoveEv"
+		},
+		{
+			"name": "CBaseEntity::StopLoopingSounds()",
+			"name_mangled": "_ZN11CBaseEntity17StopLoopingSoundsEv"
+		},
+		{
+			"name": "CBaseEntity::SUB_AllowedToFade()",
+			"name_mangled": "_ZN11CBaseEntity17SUB_AllowedToFadeEv"
+		},
+		{
+			"name": "CBaseAnimating::Teleport(Vector const*, QAngle const*, Vector const*)",
+			"name_mangled": "_ZN14CBaseAnimating8TeleportEPK6VectorPK6QAngleS2_"
+		},
+		{
+			"name": "CBaseEntity::NotifySystemEvent(CBaseEntity*, notify_system_event_t, notify_system_event_params_t const&)",
+			"name_mangled": "_ZN11CBaseEntity17NotifySystemEventEPS_21notify_system_event_tRK28notify_system_event_params_t"
+		},
+		{
+			"name": "CBaseEntity::MakeTracer(Vector const&, CGameTrace const&, int)",
+			"name_mangled": "_ZN11CBaseEntity10MakeTracerERK6VectorRK10CGameTracei"
+		},
+		{
+			"name": "CBaseEntity::GetTracerAttachment()",
+			"name_mangled": "_ZN11CBaseEntity19GetTracerAttachmentEv"
+		},
+		{
+			"name": "CBaseEntity::FireBullets(FireBulletsInfo_t const&)",
+			"name_mangled": "_ZN11CBaseEntity11FireBulletsERK17FireBulletsInfo_t"
+		},
+		{
+			"name": "CBaseEntity::DoImpactEffect(CGameTrace&, int)",
+			"name_mangled": "_ZN11CBaseEntity14DoImpactEffectER10CGameTracei"
+		},
+		{
+			"name": "CBaseEntity::ModifyFireBulletsDamage(CTakeDamageInfo*)",
+			"name_mangled": "_ZN11CBaseEntity23ModifyFireBulletsDamageEP15CTakeDamageInfo"
+		},
+		{
+			"name": "CTFPowerup::Respawn()",
+			"name_mangled": "_ZN10CTFPowerup7RespawnEv"
+		},
+		{
+			"name": "CBaseEntity::IsLockedByMaster()",
+			"name_mangled": "_ZN11CBaseEntity16IsLockedByMasterEv"
+		},
+		{
+			"name": "CBaseEntity::GetMaxHealth() const",
+			"name_mangled": "_ZNK11CBaseEntity12GetMaxHealthEv"
+		},
+		{
+			"name": "CBaseAnimating::ModifyOrAppendCriteria(AI_CriteriaSet&)",
+			"name_mangled": "_ZN14CBaseAnimating22ModifyOrAppendCriteriaER14AI_CriteriaSet"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_iMaxHealth()",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_iMaxHealthEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_iMaxHealth(void*)",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_iMaxHealthEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_iHealth()",
+			"name_mangled": "_ZN11CBaseEntity29NetworkStateChanged_m_iHealthEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_iHealth(void*)",
+			"name_mangled": "_ZN11CBaseEntity29NetworkStateChanged_m_iHealthEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_lifeState()",
+			"name_mangled": "_ZN11CBaseEntity31NetworkStateChanged_m_lifeStateEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_lifeState(void*)",
+			"name_mangled": "_ZN11CBaseEntity31NetworkStateChanged_m_lifeStateEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_takedamage()",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_takedamageEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_takedamage(void*)",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_takedamageEPv"
+		},
+		{
+			"name": "CBaseEntity::RunVScripts()",
+			"name_mangled": "_ZN11CBaseEntity11RunVScriptsEv"
+		},
+		{
+			"name": "CBaseEntity::GetDamageType() const",
+			"name_mangled": "_ZNK11CBaseEntity13GetDamageTypeEv"
+		},
+		{
+			"name": "CBaseEntity::GetDamage()",
+			"name_mangled": "_ZN11CBaseEntity9GetDamageEv"
+		},
+		{
+			"name": "CBaseEntity::SetDamage(float)",
+			"name_mangled": "_ZN11CBaseEntity9SetDamageEf"
+		},
+		{
+			"name": "CBaseEntity::EyePosition()",
+			"name_mangled": "_ZN11CBaseEntity11EyePositionEv"
+		},
+		{
+			"name": "CBaseEntity::EyeAngles()",
+			"name_mangled": "_ZN11CBaseEntity9EyeAnglesEv"
+		},
+		{
+			"name": "CBaseEntity::LocalEyeAngles()",
+			"name_mangled": "_ZN11CBaseEntity14LocalEyeAnglesEv"
+		},
+		{
+			"name": "CBaseEntity::EarPosition()",
+			"name_mangled": "_ZN11CBaseEntity11EarPositionEv"
+		},
+		{
+			"name": "CBaseEntity::BodyTarget(Vector const&, bool)",
+			"name_mangled": "_ZN11CBaseEntity10BodyTargetERK6Vectorb"
+		},
+		{
+			"name": "CBaseEntity::HeadTarget(Vector const&)",
+			"name_mangled": "_ZN11CBaseEntity10HeadTargetERK6Vector"
+		},
+		{
+			"name": "CBaseEntity::GetVectors(Vector*, Vector*, Vector*) const",
+			"name_mangled": "_ZNK11CBaseEntity10GetVectorsEP6VectorS1_S1_"
+		},
+		{
+			"name": "CBaseEntity::GetViewOffset() const",
+			"name_mangled": "_ZNK11CBaseEntity13GetViewOffsetEv"
+		},
+		{
+			"name": "CBaseEntity::SetViewOffset(Vector const&)",
+			"name_mangled": "_ZN11CBaseEntity13SetViewOffsetERK6Vector"
+		},
+		{
+			"name": "CBaseEntity::GetSmoothedVelocity()",
+			"name_mangled": "_ZN11CBaseEntity19GetSmoothedVelocityEv"
+		},
+		{
+			"name": "CBaseAnimating::GetVelocity(Vector*, Vector*)",
+			"name_mangled": "_ZN14CBaseAnimating11GetVelocityEP6VectorS1_"
+		},
+		{
+			"name": "CBaseEntity::FVisible(CBaseEntity*, int, CBaseEntity**)",
+			"name_mangled": "_ZN11CBaseEntity8FVisibleEPS_iPS0_"
+		},
+		{
+			"name": "CBaseEntity::FVisible(Vector const&, int, CBaseEntity**)",
+			"name_mangled": "_ZN11CBaseEntity8FVisibleERK6VectoriPPS_"
+		},
+		{
+			"name": "CBaseEntity::CanBeSeenBy(CAI_BaseNPC*)",
+			"name_mangled": "_ZN11CBaseEntity11CanBeSeenByEP11CAI_BaseNPC"
+		},
+		{
+			"name": "CBaseEntity::GetAttackDamageScale(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity20GetAttackDamageScaleEPS_"
+		},
+		{
+			"name": "CBaseEntity::GetReceivedDamageScale(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity22GetReceivedDamageScaleEPS_"
+		},
+		{
+			"name": "CBaseEntity::GetGroundVelocityToApply(Vector&)",
+			"name_mangled": "_ZN11CBaseEntity24GetGroundVelocityToApplyER6Vector"
+		},
+		{
+			"name": "CBaseEntity::PhysicsSplash(Vector const&, Vector const&, float, float)",
+			"name_mangled": "_ZN11CBaseEntity13PhysicsSplashERK6VectorS2_ff"
+		},
+		{
+			"name": "CBaseEntity::Splash()",
+			"name_mangled": "_ZN11CBaseEntity6SplashEv"
+		},
+		{
+			"name": "CBaseEntity::WorldSpaceCenter() const",
+			"name_mangled": "_ZNK11CBaseEntity16WorldSpaceCenterEv"
+		},
+		{
+			"name": "CBaseEntity::GetSoundEmissionOrigin() const",
+			"name_mangled": "_ZNK11CBaseEntity22GetSoundEmissionOriginEv"
+		},
+		{
+			"name": "CBaseEntity::ModifyEmitSoundParams(EmitSound_t&)",
+			"name_mangled": "_ZN11CBaseEntity21ModifyEmitSoundParamsER11EmitSound_t"
+		},
+		{
+			"name": "CBaseEntity::IsDeflectable()",
+			"name_mangled": "_ZN11CBaseEntity13IsDeflectableEv"
+		},
+		{
+			"name": "CBaseEntity::Deflected(CBaseEntity*, Vector&)",
+			"name_mangled": "_ZN11CBaseEntity9DeflectedEPS_R6Vector"
+		},
+		{
+			"name": "CBaseEntity::CreateVPhysics()",
+			"name_mangled": "_ZN11CBaseEntity14CreateVPhysicsEv"
+		},
+		{
+			"name": "CBaseEntity::ForceVPhysicsCollide(CBaseEntity*)",
+			"name_mangled": "_ZN11CBaseEntity20ForceVPhysicsCollideEPS_"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsDestroyObject()",
+			"name_mangled": "_ZN11CBaseEntity21VPhysicsDestroyObjectEv"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsUpdate(IPhysicsObject*)",
+			"name_mangled": "_ZN11CBaseEntity14VPhysicsUpdateEP14IPhysicsObject"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsTakeDamage(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN11CBaseEntity18VPhysicsTakeDamageERK15CTakeDamageInfo"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsShadowCollision(int, gamevcollisionevent_t*)",
+			"name_mangled": "_ZN11CBaseEntity23VPhysicsShadowCollisionEiP21gamevcollisionevent_t"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsShadowUpdate(IPhysicsObject*)",
+			"name_mangled": "_ZN11CBaseEntity20VPhysicsShadowUpdateEP14IPhysicsObject"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsCollision(int, gamevcollisionevent_t*)",
+			"name_mangled": "_ZN11CBaseEntity17VPhysicsCollisionEiP21gamevcollisionevent_t"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsFriction(IPhysicsObject*, float, int, int)",
+			"name_mangled": "_ZN11CBaseEntity16VPhysicsFrictionEP14IPhysicsObjectfii"
+		},
+		{
+			"name": "CBaseEntity::UpdatePhysicsShadowToCurrentPosition(float)",
+			"name_mangled": "_ZN11CBaseEntity36UpdatePhysicsShadowToCurrentPositionEf"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsGetObjectList(IPhysicsObject**, int)",
+			"name_mangled": "_ZN11CBaseEntity21VPhysicsGetObjectListEPP14IPhysicsObjecti"
+		},
+		{
+			"name": "CBaseEntity::VPhysicsIsFlesh()",
+			"name_mangled": "_ZN11CBaseEntity15VPhysicsIsFleshEv"
+		},
+		{
+			"name": "CBaseEntity::HasPhysicsAttacker(float)",
+			"name_mangled": "_ZN11CBaseEntity18HasPhysicsAttackerEf"
+		},
+		{
+			"name": "CItem::PhysicsSolidMaskForEntity() const",
+			"name_mangled": "_ZNK5CItem25PhysicsSolidMaskForEntityEv"
+		},
+		{
+			"name": "CBaseEntity::ResolveFlyCollisionCustom(CGameTrace&, Vector&)",
+			"name_mangled": "_ZN11CBaseEntity25ResolveFlyCollisionCustomER10CGameTraceR6Vector"
+		},
+		{
+			"name": "CBaseEntity::PerformCustomPhysics(Vector*, Vector*, QAngle*, QAngle*)",
+			"name_mangled": "_ZN11CBaseEntity20PerformCustomPhysicsEP6VectorS1_P6QAngleS3_"
+		},
+		{
+			"name": "CBaseAnimating::GetStepOrigin() const",
+			"name_mangled": "_ZNK14CBaseAnimating13GetStepOriginEv"
+		},
+		{
+			"name": "CBaseAnimating::GetStepAngles() const",
+			"name_mangled": "_ZNK14CBaseAnimating13GetStepAnglesEv"
+		},
+		{
+			"name": "CBaseEntity::ShouldDrawWaterImpacts()",
+			"name_mangled": "_ZN11CBaseEntity22ShouldDrawWaterImpactsEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_fFlags()",
+			"name_mangled": "_ZN11CBaseEntity28NetworkStateChanged_m_fFlagsEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_fFlags(void*)",
+			"name_mangled": "_ZN11CBaseEntity28NetworkStateChanged_m_fFlagsEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_nWaterLevel()",
+			"name_mangled": "_ZN11CBaseEntity33NetworkStateChanged_m_nWaterLevelEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_nWaterLevel(void*)",
+			"name_mangled": "_ZN11CBaseEntity33NetworkStateChanged_m_nWaterLevelEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_hGroundEntity()",
+			"name_mangled": "_ZN11CBaseEntity35NetworkStateChanged_m_hGroundEntityEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_hGroundEntity(void*)",
+			"name_mangled": "_ZN11CBaseEntity35NetworkStateChanged_m_hGroundEntityEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecBaseVelocity()",
+			"name_mangled": "_ZN11CBaseEntity37NetworkStateChanged_m_vecBaseVelocityEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecBaseVelocity(void*)",
+			"name_mangled": "_ZN11CBaseEntity37NetworkStateChanged_m_vecBaseVelocityEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_flFriction()",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_flFrictionEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_flFriction(void*)",
+			"name_mangled": "_ZN11CBaseEntity32NetworkStateChanged_m_flFrictionEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecVelocity()",
+			"name_mangled": "_ZN11CBaseEntity33NetworkStateChanged_m_vecVelocityEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecVelocity(void*)",
+			"name_mangled": "_ZN11CBaseEntity33NetworkStateChanged_m_vecVelocityEPv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecViewOffset()",
+			"name_mangled": "_ZN11CBaseEntity35NetworkStateChanged_m_vecViewOffsetEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkStateChanged_m_vecViewOffset(void*)",
+			"name_mangled": "_ZN11CBaseEntity35NetworkStateChanged_m_vecViewOffsetEPv"
+		},
+		{
+			"name": "CBaseEntity::ShouldBlockNav() const",
+			"name_mangled": "_ZNK11CBaseEntity14ShouldBlockNavEv"
+		},
+		{
+			"name": "CBaseEntity::ShouldForceTransmitsForTeam(int)",
+			"name_mangled": "_ZN11CBaseEntity27ShouldForceTransmitsForTeamEi"
+		},
+		{
+			"name": "CBaseEntity::IsTruceValidForEnt() const",
+			"name_mangled": "_ZNK11CBaseEntity18IsTruceValidForEntEv"
+		},
+		{
+			"name": "CBaseEntity::GetDefaultItemChargeMeterValue() const",
+			"name_mangled": "_ZNK11CBaseEntity30GetDefaultItemChargeMeterValueEv"
+		},
+		{
+			"name": "CBaseEntity::BCanCallVote()",
+			"name_mangled": "_ZN11CBaseEntity12BCanCallVoteEv"
+		},
+		{
+			"name": "CBaseAnimating::GetIdealSpeed() const",
+			"name_mangled": "_ZNK14CBaseAnimating13GetIdealSpeedEv"
+		},
+		{
+			"name": "CBaseAnimating::GetIdealAccel() const",
+			"name_mangled": "_ZNK14CBaseAnimating13GetIdealAccelEv"
+		},
+		{
+			"name": "CBaseAnimating::StudioFrameAdvance()",
+			"name_mangled": "_ZN14CBaseAnimating18StudioFrameAdvanceEv"
+		},
+		{
+			"name": "CBaseAnimating::SetSequence(int)",
+			"name_mangled": "_ZN14CBaseAnimating11SetSequenceEi"
+		},
+		{
+			"name": "CBaseAnimating::IsActivityFinished()",
+			"name_mangled": "_ZN14CBaseAnimating18IsActivityFinishedEv"
+		},
+		{
+			"name": "CBaseAnimating::GetSequenceGroundSpeed(CStudioHdr*, int)",
+			"name_mangled": "_ZN14CBaseAnimating22GetSequenceGroundSpeedEP10CStudioHdri"
+		},
+		{
+			"name": "CBaseAnimating::ClampRagdollForce(Vector const&, Vector*)",
+			"name_mangled": "_ZN14CBaseAnimating17ClampRagdollForceERK6VectorPS0_"
+		},
+		{
+			"name": "CBaseAnimating::BecomeRagdollOnClient(Vector const&)",
+			"name_mangled": "_ZN14CBaseAnimating21BecomeRagdollOnClientERK6Vector"
+		},
+		{
+			"name": "CBaseAnimating::IsRagdoll()",
+			"name_mangled": "_ZN14CBaseAnimating9IsRagdollEv"
+		},
+		{
+			"name": "CBaseAnimating::CanBecomeRagdoll()",
+			"name_mangled": "_ZN14CBaseAnimating16CanBecomeRagdollEv"
+		},
+		{
+			"name": "CBaseAnimating::GetSkeleton(CStudioHdr*, Vector*, Quaternion*, int)",
+			"name_mangled": "_ZN14CBaseAnimating11GetSkeletonEP10CStudioHdrP6VectorP10Quaternioni"
+		},
+		{
+			"name": "CBaseAnimating::GetBoneTransform(int, matrix3x4_t&)",
+			"name_mangled": "_ZN14CBaseAnimating16GetBoneTransformEiR11matrix3x4_t"
+		},
+		{
+			"name": "CBaseAnimating::SetupBones(matrix3x4_t*, int)",
+			"name_mangled": "_ZN14CBaseAnimating10SetupBonesEP11matrix3x4_ti"
+		},
+		{
+			"name": "CBaseAnimating::CalculateIKLocks(float)",
+			"name_mangled": "_ZN14CBaseAnimating16CalculateIKLocksEf"
+		},
+		{
+			"name": "CBaseAnimating::DispatchAnimEvents(CBaseAnimating*)",
+			"name_mangled": "_ZN14CBaseAnimating18DispatchAnimEventsEPS_"
+		},
+		{
+			"name": "CBaseAnimating::HandleAnimEvent(animevent_t*)",
+			"name_mangled": "_ZN14CBaseAnimating15HandleAnimEventEP11animevent_t"
+		},
+		{
+			"name": "CBaseAnimating::PopulatePoseParameters()",
+			"name_mangled": "_ZN14CBaseAnimating22PopulatePoseParametersEv"
+		},
+		{
+			"name": "CBaseAnimating::GetAttachment(int, matrix3x4_t&)",
+			"name_mangled": "_ZN14CBaseAnimating13GetAttachmentEiR11matrix3x4_t"
+		},
+		{
+			"name": "CBaseAnimating::InitBoneControllers()",
+			"name_mangled": "_ZN14CBaseAnimating19InitBoneControllersEv"
+		},
+		{
+			"name": "CBaseAnimating::GetGroundSpeedVelocity()",
+			"name_mangled": "_ZN14CBaseAnimating22GetGroundSpeedVelocityEv"
+		},
+		{
+			"name": "CBaseAnimating::RefreshCollisionBounds()",
+			"name_mangled": "_ZN14CBaseAnimating22RefreshCollisionBoundsEv"
+		},
+		{
+			"name": "CBaseAnimating::Ignite(float, bool, float, bool)",
+			"name_mangled": "_ZN14CBaseAnimating6IgniteEfbfb"
+		},
+		{
+			"name": "CBaseAnimating::IgniteLifetime(float)",
+			"name_mangled": "_ZN14CBaseAnimating14IgniteLifetimeEf"
+		},
+		{
+			"name": "CBaseAnimating::IgniteNumHitboxFires(int)",
+			"name_mangled": "_ZN14CBaseAnimating20IgniteNumHitboxFiresEi"
+		},
+		{
+			"name": "CBaseAnimating::IgniteHitboxFireScale(float)",
+			"name_mangled": "_ZN14CBaseAnimating21IgniteHitboxFireScaleEf"
+		},
+		{
+			"name": "CBaseAnimating::Extinguish()",
+			"name_mangled": "_ZN14CBaseAnimating10ExtinguishEv"
+		},
+		{
+			"name": "CBaseAnimating::SetLightingOriginRelative(CBaseEntity*)",
+			"name_mangled": "_ZN14CBaseAnimating25SetLightingOriginRelativeEP11CBaseEntity"
+		},
+		{
+			"name": "CBaseAnimating::SetLightingOrigin(CBaseEntity*)",
+			"name_mangled": "_ZN14CBaseAnimating17SetLightingOriginEP11CBaseEntity"
+		},
+		{
+			"name": "CItem::ItemTouch(CBaseEntity*)",
+			"name_mangled": "_ZN5CItem9ItemTouchEP11CBaseEntity"
+		},
+		{
+			"name": "CTFPowerup::Materialize()",
+			"name_mangled": "_ZN10CTFPowerup11MaterializeEv"
+		},
+		{
+			"name": "CTFRuneTemp::MyTouch(CBasePlayer*)",
+			"name_mangled": "_ZN11CTFRuneTemp7MyTouchEP11CBasePlayer"
+		},
+		{
+			"name": "CItem::OnPhysGunPickup(CBasePlayer*, PhysGunPickup_t)",
+			"name_mangled": "_ZN5CItem15OnPhysGunPickupEP11CBasePlayer15PhysGunPickup_t"
+		},
+		{
+			"name": "CItem::OnPhysGunDrop(CBasePlayer*, PhysGunDrop_t)",
+			"name_mangled": "_ZN5CItem13OnPhysGunDropEP11CBasePlayer13PhysGunDrop_t"
+		},
+		{
+			"name": "CTFPowerup::ItemCanBeTouchedByPlayer(CBasePlayer*)",
+			"name_mangled": "_ZN10CTFPowerup24ItemCanBeTouchedByPlayerEP11CBasePlayer"
+		},
+		{
+			"name": "CItem::ComeToRest()",
+			"name_mangled": "_ZN5CItem10ComeToRestEv"
+		},
+		{
+			"name": "CTFPowerup::ValidTouch(CBasePlayer*)",
+			"name_mangled": "_ZN10CTFPowerup10ValidTouchEP11CBasePlayer"
+		},
+		{
+			"name": "CTFRuneTemp::GetRespawnDelay()",
+			"name_mangled": "_ZN11CTFRuneTemp15GetRespawnDelayEv"
+		},
+		{
+			"name": "CTFPowerup::GetPowerupSize()",
+			"name_mangled": "_ZN10CTFPowerup14GetPowerupSizeEv"
+		},
+		{
+			"name": "CTFPowerup::GetPowerupModel()",
+			"name_mangled": "_ZN10CTFPowerup15GetPowerupModelEv"
+		},
+		{
+			"name": "CTFRuneTempUber::GetDefaultPowerupModel()",
+			"name_mangled": "_ZN15CTFRuneTempUber22GetDefaultPowerupModelEv"
+		},
+		{
+			"name": "CTFPowerup::GetLifeTime()",
+			"name_mangled": "_ZN10CTFPowerup11GetLifeTimeEv"
+		}
+	]
+}

@@ -1,0 +1,370 @@
+{
+	"classname": "CMerasmusDisguise",
+	"classname_mangled": "_ZTV17CMerasmusDisguise",
+	"members": [
+		{
+			"name": "CMerasmusDisguise::~CMerasmusDisguise()",
+			"name_mangled": "_ZN17CMerasmusDisguiseD0Ev"
+		},
+		{
+			"name": "Action<CMerasmus>::FirstContainedResponder() const",
+			"name_mangled": "_ZNK6ActionI9CMerasmusE23FirstContainedResponderEv"
+		},
+		{
+			"name": "Action<CMerasmus>::NextContainedResponder(INextBotEventResponder*) const",
+			"name_mangled": "_ZNK6ActionI9CMerasmusE22NextContainedResponderEP22INextBotEventResponder"
+		},
+		{
+			"name": "Action<CMerasmus>::OnLeaveGround(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE13OnLeaveGroundEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnLandOnGround(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE14OnLandOnGroundEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnContact(CBaseEntity*, CGameTrace*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE9OnContactEP11CBaseEntityP10CGameTrace"
+		},
+		{
+			"name": "Action<CMerasmus>::OnMoveToSuccess(Path const*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE15OnMoveToSuccessEPK4Path"
+		},
+		{
+			"name": "Action<CMerasmus>::OnMoveToFailure(Path const*, MoveToFailureType)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE15OnMoveToFailureEPK4Path17MoveToFailureType"
+		},
+		{
+			"name": "Action<CMerasmus>::OnStuck()",
+			"name_mangled": "_ZN6ActionI9CMerasmusE7OnStuckEv"
+		},
+		{
+			"name": "Action<CMerasmus>::OnUnStuck()",
+			"name_mangled": "_ZN6ActionI9CMerasmusE9OnUnStuckEv"
+		},
+		{
+			"name": "Action<CMerasmus>::OnPostureChanged()",
+			"name_mangled": "_ZN6ActionI9CMerasmusE16OnPostureChangedEv"
+		},
+		{
+			"name": "Action<CMerasmus>::OnAnimationActivityComplete(int)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE27OnAnimationActivityCompleteEi"
+		},
+		{
+			"name": "Action<CMerasmus>::OnAnimationActivityInterrupted(int)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE30OnAnimationActivityInterruptedEi"
+		},
+		{
+			"name": "Action<CMerasmus>::OnAnimationEvent(animevent_t*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE16OnAnimationEventEP11animevent_t"
+		},
+		{
+			"name": "Action<CMerasmus>::OnIgnite()",
+			"name_mangled": "_ZN6ActionI9CMerasmusE8OnIgniteEv"
+		},
+		{
+			"name": "Action<CMerasmus>::OnInjured(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE9OnInjuredERK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CMerasmus>::OnKilled(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE8OnKilledERK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CMerasmus>::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE13OnOtherKilledEP20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CMerasmus>::OnSight(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE7OnSightEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnLostSight(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE11OnLostSightEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnSound(CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE7OnSoundEP11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "Action<CMerasmus>::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE14OnSpokeConceptEP20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "Action<CMerasmus>::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE13OnWeaponFiredEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "Action<CMerasmus>::OnNavAreaChanged(CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE16OnNavAreaChangedEP8CNavAreaS3_"
+		},
+		{
+			"name": "Action<CMerasmus>::OnModelChanged()",
+			"name_mangled": "_ZN6ActionI9CMerasmusE14OnModelChangedEv"
+		},
+		{
+			"name": "Action<CMerasmus>::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE8OnPickUpEP11CBaseEntityP20CBaseCombatCharacter"
+		},
+		{
+			"name": "Action<CMerasmus>::OnDrop(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE6OnDropEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnActorEmoted(CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE13OnActorEmotedEP20CBaseCombatCharacteri"
+		},
+		{
+			"name": "Action<CMerasmus>::OnCommandAttack(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE15OnCommandAttackEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnCommandApproach(Vector const&, float)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE17OnCommandApproachERK6Vectorf"
+		},
+		{
+			"name": "Action<CMerasmus>::OnCommandApproach(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE17OnCommandApproachEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnCommandRetreat(CBaseEntity*, float)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE16OnCommandRetreatEP11CBaseEntityf"
+		},
+		{
+			"name": "Action<CMerasmus>::OnCommandPause(float)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE14OnCommandPauseEf"
+		},
+		{
+			"name": "Action<CMerasmus>::OnCommandResume()",
+			"name_mangled": "_ZN6ActionI9CMerasmusE15OnCommandResumeEv"
+		},
+		{
+			"name": "Action<CMerasmus>::OnCommandString(char const*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE15OnCommandStringEPKc"
+		},
+		{
+			"name": "Action<CMerasmus>::OnShoved(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE8OnShovedEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnBlinded(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE9OnBlindedEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnTerritoryContested(int)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE20OnTerritoryContestedEi"
+		},
+		{
+			"name": "Action<CMerasmus>::OnTerritoryCaptured(int)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE19OnTerritoryCapturedEi"
+		},
+		{
+			"name": "Action<CMerasmus>::OnTerritoryLost(int)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE15OnTerritoryLostEi"
+		},
+		{
+			"name": "Action<CMerasmus>::OnWin()",
+			"name_mangled": "_ZN6ActionI9CMerasmusE5OnWinEv"
+		},
+		{
+			"name": "Action<CMerasmus>::OnLose()",
+			"name_mangled": "_ZN6ActionI9CMerasmusE6OnLoseEv"
+		},
+		{
+			"name": "CMerasmusDisguise::GetName() const",
+			"name_mangled": "_ZNK17CMerasmusDisguise7GetNameEv"
+		},
+		{
+			"name": "Action<CMerasmus>::IsNamed(char const*) const",
+			"name_mangled": "_ZNK6ActionI9CMerasmusE7IsNamedEPKc"
+		},
+		{
+			"name": "Action<CMerasmus>::GetFullName() const",
+			"name_mangled": "_ZNK6ActionI9CMerasmusE11GetFullNameEv"
+		},
+		{
+			"name": "CMerasmusDisguise::OnStart(CMerasmus*, Action<CMerasmus>*)",
+			"name_mangled": "_ZN17CMerasmusDisguise7OnStartEP9CMerasmusP6ActionIS0_E"
+		},
+		{
+			"name": "CMerasmusDisguise::Update(CMerasmus*, float)",
+			"name_mangled": "_ZN17CMerasmusDisguise6UpdateEP9CMerasmusf"
+		},
+		{
+			"name": "CMerasmusDisguise::OnEnd(CMerasmus*, Action<CMerasmus>*)",
+			"name_mangled": "_ZN17CMerasmusDisguise5OnEndEP9CMerasmusP6ActionIS0_E"
+		},
+		{
+			"name": "Action<CMerasmus>::OnSuspend(CMerasmus*, Action<CMerasmus>*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE9OnSuspendEPS0_PS1_"
+		},
+		{
+			"name": "Action<CMerasmus>::OnResume(CMerasmus*, Action<CMerasmus>*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE8OnResumeEPS0_PS1_"
+		},
+		{
+			"name": "Action<CMerasmus>::InitialContainedAction(CMerasmus*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE22InitialContainedActionEPS0_"
+		},
+		{
+			"name": "Action<CMerasmus>::OnLeaveGround(CMerasmus*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE13OnLeaveGroundEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnLandOnGround(CMerasmus*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE14OnLandOnGroundEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnContact(CMerasmus*, CBaseEntity*, CGameTrace*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE9OnContactEPS0_P11CBaseEntityP10CGameTrace"
+		},
+		{
+			"name": "Action<CMerasmus>::OnMoveToSuccess(CMerasmus*, Path const*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE15OnMoveToSuccessEPS0_PK4Path"
+		},
+		{
+			"name": "Action<CMerasmus>::OnMoveToFailure(CMerasmus*, Path const*, MoveToFailureType)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE15OnMoveToFailureEPS0_PK4Path17MoveToFailureType"
+		},
+		{
+			"name": "Action<CMerasmus>::OnStuck(CMerasmus*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE7OnStuckEPS0_"
+		},
+		{
+			"name": "Action<CMerasmus>::OnUnStuck(CMerasmus*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE9OnUnStuckEPS0_"
+		},
+		{
+			"name": "Action<CMerasmus>::OnPostureChanged(CMerasmus*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE16OnPostureChangedEPS0_"
+		},
+		{
+			"name": "Action<CMerasmus>::OnAnimationActivityComplete(CMerasmus*, int)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE27OnAnimationActivityCompleteEPS0_i"
+		},
+		{
+			"name": "Action<CMerasmus>::OnAnimationActivityInterrupted(CMerasmus*, int)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE30OnAnimationActivityInterruptedEPS0_i"
+		},
+		{
+			"name": "Action<CMerasmus>::OnAnimationEvent(CMerasmus*, animevent_t*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE16OnAnimationEventEPS0_P11animevent_t"
+		},
+		{
+			"name": "Action<CMerasmus>::OnIgnite(CMerasmus*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE8OnIgniteEPS0_"
+		},
+		{
+			"name": "Action<CMerasmus>::OnInjured(CMerasmus*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE9OnInjuredEPS0_RK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CMerasmus>::OnKilled(CMerasmus*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE8OnKilledEPS0_RK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CMerasmus>::OnOtherKilled(CMerasmus*, CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE13OnOtherKilledEPS0_P20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CMerasmus>::OnSight(CMerasmus*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE7OnSightEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnLostSight(CMerasmus*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE11OnLostSightEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnSound(CMerasmus*, CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE7OnSoundEPS0_P11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "Action<CMerasmus>::OnSpokeConcept(CMerasmus*, CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE14OnSpokeConceptEPS0_P20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "Action<CMerasmus>::OnWeaponFired(CMerasmus*, CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE13OnWeaponFiredEPS0_P20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "Action<CMerasmus>::OnNavAreaChanged(CMerasmus*, CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE16OnNavAreaChangedEPS0_P8CNavAreaS4_"
+		},
+		{
+			"name": "Action<CMerasmus>::OnModelChanged(CMerasmus*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE14OnModelChangedEPS0_"
+		},
+		{
+			"name": "Action<CMerasmus>::OnPickUp(CMerasmus*, CBaseEntity*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE8OnPickUpEPS0_P11CBaseEntityP20CBaseCombatCharacter"
+		},
+		{
+			"name": "Action<CMerasmus>::OnDrop(CMerasmus*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE6OnDropEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnActorEmoted(CMerasmus*, CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE13OnActorEmotedEPS0_P20CBaseCombatCharacteri"
+		},
+		{
+			"name": "Action<CMerasmus>::OnCommandAttack(CMerasmus*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE15OnCommandAttackEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnCommandApproach(CMerasmus*, Vector const&, float)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE17OnCommandApproachEPS0_RK6Vectorf"
+		},
+		{
+			"name": "Action<CMerasmus>::OnCommandApproach(CMerasmus*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE17OnCommandApproachEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnCommandRetreat(CMerasmus*, CBaseEntity*, float)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE16OnCommandRetreatEPS0_P11CBaseEntityf"
+		},
+		{
+			"name": "Action<CMerasmus>::OnCommandPause(CMerasmus*, float)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE14OnCommandPauseEPS0_f"
+		},
+		{
+			"name": "Action<CMerasmus>::OnCommandResume(CMerasmus*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE15OnCommandResumeEPS0_"
+		},
+		{
+			"name": "Action<CMerasmus>::OnCommandString(CMerasmus*, char const*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE15OnCommandStringEPS0_PKc"
+		},
+		{
+			"name": "Action<CMerasmus>::OnShoved(CMerasmus*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE8OnShovedEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnBlinded(CMerasmus*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE9OnBlindedEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CMerasmus>::OnTerritoryContested(CMerasmus*, int)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE20OnTerritoryContestedEPS0_i"
+		},
+		{
+			"name": "Action<CMerasmus>::OnTerritoryCaptured(CMerasmus*, int)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE19OnTerritoryCapturedEPS0_i"
+		},
+		{
+			"name": "Action<CMerasmus>::OnTerritoryLost(CMerasmus*, int)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE15OnTerritoryLostEPS0_i"
+		},
+		{
+			"name": "Action<CMerasmus>::OnWin(CMerasmus*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE5OnWinEPS0_"
+		},
+		{
+			"name": "Action<CMerasmus>::OnLose(CMerasmus*)",
+			"name_mangled": "_ZN6ActionI9CMerasmusE6OnLoseEPS0_"
+		},
+		{
+			"name": "Action<CMerasmus>::IsAbleToBlockMovementOf(INextBot const*) const",
+			"name_mangled": "_ZNK6ActionI9CMerasmusE23IsAbleToBlockMovementOfEPK8INextBot"
+		}
+	]
+}

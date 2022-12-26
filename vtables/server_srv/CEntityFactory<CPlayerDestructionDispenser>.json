@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPlayerDestructionDispenser>",
+	"classname_mangled": "_ZTV14CEntityFactoryI27CPlayerDestructionDispenserE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPlayerDestructionDispenser>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI27CPlayerDestructionDispenserE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPlayerDestructionDispenser>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI27CPlayerDestructionDispenserE13GetEntitySizeEv"
+		}
+	]
+}

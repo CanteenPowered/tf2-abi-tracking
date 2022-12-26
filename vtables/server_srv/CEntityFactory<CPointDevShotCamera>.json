@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPointDevShotCamera>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CPointDevShotCameraE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPointDevShotCamera>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CPointDevShotCameraE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPointDevShotCamera>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CPointDevShotCameraE13GetEntitySizeEv"
+		}
+	]
+}

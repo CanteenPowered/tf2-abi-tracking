@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPhysThruster>",
+	"classname_mangled": "_ZTV14CEntityFactoryI13CPhysThrusterE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPhysThruster>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI13CPhysThrusterE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPhysThruster>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI13CPhysThrusterE13GetEntitySizeEv"
+		}
+	]
+}

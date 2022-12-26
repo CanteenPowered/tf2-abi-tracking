@@ -1,0 +1,34 @@
+{
+	"classname": "CModAppSystemGroup",
+	"classname_mangled": "_ZTV18CModAppSystemGroup",
+	"members": [
+		{
+			"name": "CModAppSystemGroup::PreInit()",
+			"name_mangled": "_ZN18CModAppSystemGroup7PreInitEv"
+		},
+		{
+			"name": "CModAppSystemGroup::Main()",
+			"name_mangled": "_ZN18CModAppSystemGroup4MainEv"
+		},
+		{
+			"name": "CModAppSystemGroup::PostShutdown()",
+			"name_mangled": "_ZN18CModAppSystemGroup12PostShutdownEv"
+		},
+		{
+			"name": "CModAppSystemGroup::Destroy()",
+			"name_mangled": "_ZN18CModAppSystemGroup7DestroyEv"
+		},
+		{
+			"name": "CAppSystemGroup::Startup()",
+			"name_mangled": "_ZN15CAppSystemGroup7StartupEv"
+		},
+		{
+			"name": "CAppSystemGroup::Shutdown()",
+			"name_mangled": "_ZN15CAppSystemGroup8ShutdownEv"
+		},
+		{
+			"name": "CAppSystemGroup::LoadModuleDLL(char const*)",
+			"name_mangled": "_ZN15CAppSystemGroup13LoadModuleDLLEPKc"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"classname": "CThreadPool::GetDummyJob()::CDummyJob",
+	"classname_mangled": "_ZTVZN11CThreadPool11GetDummyJobEvE9CDummyJob",
+	"members": [
+		{
+			"name": "CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT>>::Release()",
+			"name_mangled": "_ZN12CRefCounted1I11IRefCounted20CRefCountServiceBaseILb1E6CRefMTEE7ReleaseEv"
+		},
+		{
+			"name": "CThreadPool::GetDummyJob()::CDummyJob::~CDummyJob()",
+			"name_mangled": "_ZZN11CThreadPool11GetDummyJobEvEN9CDummyJobD2Ev"
+		},
+		{
+			"name": "CThreadPool::GetDummyJob()::CDummyJob::~CDummyJob()",
+			"name_mangled": "_ZZN11CThreadPool11GetDummyJobEvEN9CDummyJobD0Ev"
+		},
+		{
+			"name": "CJob::Describe()",
+			"name_mangled": "_ZN4CJob8DescribeEv"
+		},
+		{
+			"name": "CJob::SetDescription(char const*)",
+			"name_mangled": "_ZN4CJob14SetDescriptionEPKc"
+		},
+		{
+			"name": "CThreadPool::GetDummyJob()::CDummyJob::DoExecute()",
+			"name_mangled": "_ZZN11CThreadPool11GetDummyJobEvEN9CDummyJob9DoExecuteEv"
+		},
+		{
+			"name": "CJob::DoAbort(bool)",
+			"name_mangled": "_ZN4CJob7DoAbortEb"
+		},
+		{
+			"name": "CJob::DoCleanup()",
+			"name_mangled": "_ZN4CJob9DoCleanupEv"
+		}
+	]
+}

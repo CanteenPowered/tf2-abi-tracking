@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFRocketPack>",
+	"classname_mangled": "_ZTV14CEntityFactoryI13CTFRocketPackE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFRocketPack>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI13CTFRocketPackE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFRocketPack>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI13CTFRocketPackE13GetEntitySizeEv"
+		}
+	]
+}

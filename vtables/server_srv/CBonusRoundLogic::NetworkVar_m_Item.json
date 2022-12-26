@@ -1,0 +1,102 @@
+{
+	"classname": "CBonusRoundLogic::NetworkVar_m_Item",
+	"classname_mangled": "_ZTVN16CBonusRoundLogic17NetworkVar_m_ItemE",
+	"members": [
+		{
+			"name": "CBonusRoundLogic::NetworkVar_m_Item::~NetworkVar_m_Item()",
+			"name_mangled": "_ZN16CBonusRoundLogic17NetworkVar_m_ItemD0Ev"
+		},
+		{
+			"name": "IEconItemInterface::IsTradable() const",
+			"name_mangled": "_ZNK18IEconItemInterface10IsTradableEv"
+		},
+		{
+			"name": "IEconItemInterface::GetUntradabilityFlags() const",
+			"name_mangled": "_ZNK18IEconItemInterface21GetUntradabilityFlagsEv"
+		},
+		{
+			"name": "IEconItemInterface::IsCommodity() const",
+			"name_mangled": "_ZNK18IEconItemInterface11IsCommodityEv"
+		},
+		{
+			"name": "IEconItemInterface::IsUsableInCrafting() const",
+			"name_mangled": "_ZNK18IEconItemInterface18IsUsableInCraftingEv"
+		},
+		{
+			"name": "IEconItemInterface::IsMarketable() const",
+			"name_mangled": "_ZNK18IEconItemInterface12IsMarketableEv"
+		},
+		{
+			"name": "CEconItemView::GetItemDefinition() const",
+			"name_mangled": "_ZNK13CEconItemView17GetItemDefinitionEv"
+		},
+		{
+			"name": "CEconItemView::GetID() const",
+			"name_mangled": "_ZNK13CEconItemView5GetIDEv"
+		},
+		{
+			"name": "CEconItemView::GetAccountID() const",
+			"name_mangled": "_ZNK13CEconItemView12GetAccountIDEv"
+		},
+		{
+			"name": "CEconItemView::GetQuality() const",
+			"name_mangled": "_ZNK13CEconItemView10GetQualityEv"
+		},
+		{
+			"name": "CEconItemView::GetStyle() const",
+			"name_mangled": "_ZNK13CEconItemView8GetStyleEv"
+		},
+		{
+			"name": "CEconItemView::GetFlags() const",
+			"name_mangled": "_ZNK13CEconItemView8GetFlagsEv"
+		},
+		{
+			"name": "CEconItemView::GetOrigin() const",
+			"name_mangled": "_ZNK13CEconItemView9GetOriginEv"
+		},
+		{
+			"name": "CEconItemView::GetQuantity() const",
+			"name_mangled": "_ZNK13CEconItemView11GetQuantityEv"
+		},
+		{
+			"name": "CEconItemView::GetItemLevel() const",
+			"name_mangled": "_ZNK13CEconItemView12GetItemLevelEv"
+		},
+		{
+			"name": "CEconItemView::GetInUse() const",
+			"name_mangled": "_ZNK13CEconItemView8GetInUseEv"
+		},
+		{
+			"name": "CEconItemView::GetCustomName() const",
+			"name_mangled": "_ZNK13CEconItemView13GetCustomNameEv"
+		},
+		{
+			"name": "CEconItemView::GetCustomDesc() const",
+			"name_mangled": "_ZNK13CEconItemView13GetCustomDescEv"
+		},
+		{
+			"name": "CEconItemView::IterateAttributes(IEconItemAttributeIterator*) const",
+			"name_mangled": "_ZNK13CEconItemView17IterateAttributesEP26IEconItemAttributeIterator"
+		},
+		{
+			"name": "CEconItemView::GetItemDefIndex() const",
+			"name_mangled": "_ZNK13CEconItemView15GetItemDefIndexEv"
+		},
+		{
+			"name": "CMaterialOverrideContainer<IEconItemInterface>::GetMaterialOverride(int)",
+			"name_mangled": "_ZN26CMaterialOverrideContainerI18IEconItemInterfaceE19GetMaterialOverrideEi"
+		},
+		{
+			"name": "CBonusRoundLogic::NetworkVar_m_Item::NetworkStateChanged()",
+			"name_mangled": "_ZN16CBonusRoundLogic17NetworkVar_m_Item19NetworkStateChangedEv"
+		},
+		{
+			"name": "CBonusRoundLogic::NetworkVar_m_Item::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN16CBonusRoundLogic17NetworkVar_m_Item19NetworkStateChangedEPv"
+		},
+		{
+			"name": "CEconItemView::GetDataDescMap()",
+			"name_mangled": "_ZN13CEconItemView14GetDataDescMapEv"
+		}
+	]
+}

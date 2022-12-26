@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CExtraMapEntity_Rocket>",
+	"classname_mangled": "_ZTV14CEntityFactoryI22CExtraMapEntity_RocketE",
+	"members": [
+		{
+			"name": "CEntityFactory<CExtraMapEntity_Rocket>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI22CExtraMapEntity_RocketE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CExtraMapEntity_Rocket>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI22CExtraMapEntity_RocketE13GetEntitySizeEv"
+		}
+	]
+}

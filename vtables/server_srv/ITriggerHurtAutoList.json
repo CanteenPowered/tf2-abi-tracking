@@ -1,0 +1,10 @@
+{
+	"classname": "ITriggerHurtAutoList",
+	"classname_mangled": "_ZTV20ITriggerHurtAutoList",
+	"members": [
+		{
+			"name": "ITriggerHurtAutoList::~ITriggerHurtAutoList()",
+			"name_mangled": "_ZN20ITriggerHurtAutoListD0Ev"
+		}
+	]
+}

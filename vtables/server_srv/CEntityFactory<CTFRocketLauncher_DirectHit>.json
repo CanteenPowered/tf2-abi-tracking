@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFRocketLauncher_DirectHit>",
+	"classname_mangled": "_ZTV14CEntityFactoryI27CTFRocketLauncher_DirectHitE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFRocketLauncher_DirectHit>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI27CTFRocketLauncher_DirectHitE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFRocketLauncher_DirectHit>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI27CTFRocketLauncher_DirectHitE13GetEntitySizeEv"
+		}
+	]
+}

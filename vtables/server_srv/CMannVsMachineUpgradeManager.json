@@ -1,0 +1,74 @@
+{
+	"classname": "CMannVsMachineUpgradeManager",
+	"classname_mangled": "_ZTV28CMannVsMachineUpgradeManager",
+	"members": [
+		{
+			"name": "CBaseGameSystem::Init()",
+			"name_mangled": "_ZN15CBaseGameSystem4InitEv"
+		},
+		{
+			"name": "CBaseGameSystem::PostInit()",
+			"name_mangled": "_ZN15CBaseGameSystem8PostInitEv"
+		},
+		{
+			"name": "CBaseGameSystem::Shutdown()",
+			"name_mangled": "_ZN15CBaseGameSystem8ShutdownEv"
+		},
+		{
+			"name": "CBaseGameSystem::LevelInitPreEntity()",
+			"name_mangled": "_ZN15CBaseGameSystem18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CMannVsMachineUpgradeManager::LevelInitPostEntity()",
+			"name_mangled": "_ZN28CMannVsMachineUpgradeManager19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystem::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN15CBaseGameSystem36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameSystem::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN15CBaseGameSystem22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CMannVsMachineUpgradeManager::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN28CMannVsMachineUpgradeManager23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystem::OnSave()",
+			"name_mangled": "_ZN15CBaseGameSystem6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystem::OnRestore()",
+			"name_mangled": "_ZN15CBaseGameSystem9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystem::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN15CBaseGameSystem19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystem::IsPerFrame()",
+			"name_mangled": "_ZN15CBaseGameSystem10IsPerFrameEv"
+		},
+		{
+			"name": "CMannVsMachineUpgradeManager::~CMannVsMachineUpgradeManager()",
+			"name_mangled": "_ZN28CMannVsMachineUpgradeManagerD2Ev"
+		},
+		{
+			"name": "CMannVsMachineUpgradeManager::~CMannVsMachineUpgradeManager()",
+			"name_mangled": "_ZN28CMannVsMachineUpgradeManagerD0Ev"
+		},
+		{
+			"name": "CBaseGameSystem::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN15CBaseGameSystem25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystem::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN15CBaseGameSystem26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystem::PreClientUpdate()",
+			"name_mangled": "_ZN15CBaseGameSystem15PreClientUpdateEv"
+		}
+	]
+}

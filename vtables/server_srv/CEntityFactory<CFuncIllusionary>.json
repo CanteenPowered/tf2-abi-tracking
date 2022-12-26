@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncIllusionary>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CFuncIllusionaryE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncIllusionary>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CFuncIllusionaryE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncIllusionary>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CFuncIllusionaryE13GetEntitySizeEv"
+		}
+	]
+}

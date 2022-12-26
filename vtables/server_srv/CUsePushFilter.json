@@ -1,0 +1,10 @@
+{
+	"classname": "CUsePushFilter",
+	"classname_mangled": "_ZTV14CUsePushFilter",
+	"members": [
+		{
+			"name": "CTraceFilterEntitiesOnly::GetTraceType() const",
+			"name_mangled": "_ZNK24CTraceFilterEntitiesOnly12GetTraceTypeEv"
+		}
+	]
+}

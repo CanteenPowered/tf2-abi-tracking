@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CSlideshowDisplay>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CSlideshowDisplayE",
+	"members": [
+		{
+			"name": "CEntityFactory<CSlideshowDisplay>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CSlideshowDisplayE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CSlideshowDisplay>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CSlideshowDisplayE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncWallToggle>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CFuncWallToggleE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncWallToggle>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CFuncWallToggleE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncWallToggle>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CFuncWallToggleE13GetEntitySizeEv"
+		}
+	]
+}

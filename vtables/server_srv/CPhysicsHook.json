@@ -1,0 +1,74 @@
+{
+	"classname": "CPhysicsHook",
+	"classname_mangled": "_ZTV12CPhysicsHook",
+	"members": [
+		{
+			"name": "CPhysicsHook::Init()",
+			"name_mangled": "_ZN12CPhysicsHook4InitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PostInit()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8PostInitEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::Shutdown()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame8ShutdownEv"
+		},
+		{
+			"name": "CPhysicsHook::LevelInitPreEntity()",
+			"name_mangled": "_ZN12CPhysicsHook18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CPhysicsHook::LevelInitPostEntity()",
+			"name_mangled": "_ZN12CPhysicsHook19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CPhysicsHook::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN12CPhysicsHook22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CPhysicsHook::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN12CPhysicsHook23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnSave()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnRestore()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::IsPerFrame()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame10IsPerFrameEv"
+		},
+		{
+			"name": "CPhysicsHook::~CPhysicsHook()",
+			"name_mangled": "_ZN12CPhysicsHookD2Ev"
+		},
+		{
+			"name": "CPhysicsHook::~CPhysicsHook()",
+			"name_mangled": "_ZN12CPhysicsHookD0Ev"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CPhysicsHook::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN12CPhysicsHook26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CPhysicsHook::PreClientUpdate()",
+			"name_mangled": "_ZN12CPhysicsHook15PreClientUpdateEv"
+		}
+	]
+}

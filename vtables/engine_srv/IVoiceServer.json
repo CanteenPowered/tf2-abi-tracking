@@ -1,0 +1,10 @@
+{
+	"classname": "IVoiceServer",
+	"classname_mangled": "_ZTV12IVoiceServer",
+	"members": [
+		{
+			"name": "IVoiceServer::~IVoiceServer()",
+			"name_mangled": "_ZN12IVoiceServerD0Ev"
+		}
+	]
+}

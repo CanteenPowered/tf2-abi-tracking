@@ -1,0 +1,22 @@
+{
+	"classname": "ISchemaAttributeTypeBase<CAttribute_DynamicRecipeComponent>",
+	"classname_mangled": "_ZTV24ISchemaAttributeTypeBaseI33CAttribute_DynamicRecipeComponentE",
+	"members": [
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_DynamicRecipeComponent>::~ISchemaAttributeTypeBase()",
+			"name_mangled": "_ZN24ISchemaAttributeTypeBaseI33CAttribute_DynamicRecipeComponentED0Ev"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_DynamicRecipeComponent>::GetTypeUniqueIdentifier() const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI33CAttribute_DynamicRecipeComponentE23GetTypeUniqueIdentifierEv"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_DynamicRecipeComponent>::LoadEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI33CAttribute_DynamicRecipeComponentE22LoadEconAttributeValueEP9CEconItemPK28CEconItemAttributeDefinitionRK22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_DynamicRecipeComponent>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&, std::string*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI33CAttribute_DynamicRecipeComponentE37ConvertEconAttributeValueToByteStreamERK22attribute_data_union_tPSs"
+		}
+	]
+}

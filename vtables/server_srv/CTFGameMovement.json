@@ -1,0 +1,226 @@
+{
+	"classname": "CTFGameMovement",
+	"classname_mangled": "_ZTV15CTFGameMovement",
+	"members": [
+		{
+			"name": "CTFGameMovement::~CTFGameMovement()",
+			"name_mangled": "_ZN15CTFGameMovementD0Ev"
+		},
+		{
+			"name": "CTFGameMovement::ProcessMovement(CBasePlayer*, CMoveData*)",
+			"name_mangled": "_ZN15CTFGameMovement15ProcessMovementEP11CBasePlayerP9CMoveData"
+		},
+		{
+			"name": "CGameMovement::StartTrackPredictionErrors(CBasePlayer*)",
+			"name_mangled": "_ZN13CGameMovement26StartTrackPredictionErrorsEP11CBasePlayer"
+		},
+		{
+			"name": "CGameMovement::FinishTrackPredictionErrors(CBasePlayer*)",
+			"name_mangled": "_ZN13CGameMovement27FinishTrackPredictionErrorsEP11CBasePlayer"
+		},
+		{
+			"name": "CGameMovement::DiffPrint(char const*, ...)",
+			"name_mangled": "_ZN13CGameMovement9DiffPrintEPKcz"
+		},
+		{
+			"name": "CGameMovement::GetPlayerMins(bool) const",
+			"name_mangled": "_ZNK13CGameMovement13GetPlayerMinsEb"
+		},
+		{
+			"name": "CGameMovement::GetPlayerMaxs(bool) const",
+			"name_mangled": "_ZNK13CGameMovement13GetPlayerMaxsEb"
+		},
+		{
+			"name": "CTFGameMovement::GetPlayerViewOffset(bool) const",
+			"name_mangled": "_ZNK15CTFGameMovement19GetPlayerViewOffsetEb"
+		},
+		{
+			"name": "CTFGameMovement::TracePlayerBBox(Vector const&, Vector const&, unsigned int, int, CGameTrace&)",
+			"name_mangled": "_ZN15CTFGameMovement15TracePlayerBBoxERK6VectorS2_jiR10CGameTrace"
+		},
+		{
+			"name": "CGameMovement::TryTouchGround(Vector const&, Vector const&, Vector const&, Vector const&, unsigned int, int, CGameTrace&)",
+			"name_mangled": "_ZN13CGameMovement14TryTouchGroundERK6VectorS2_S2_S2_jiR10CGameTrace"
+		},
+		{
+			"name": "CTFGameMovement::PlayerSolidMask(bool)",
+			"name_mangled": "_ZN15CTFGameMovement15PlayerSolidMaskEb"
+		},
+		{
+			"name": "CTFGameMovement::PlayerMove()",
+			"name_mangled": "_ZN15CTFGameMovement10PlayerMoveEv"
+		},
+		{
+			"name": "CGameMovement::CalcRoll(QAngle const&, Vector const&, float, float)",
+			"name_mangled": "_ZN13CGameMovement8CalcRollERK6QAngleRK6Vectorff"
+		},
+		{
+			"name": "CGameMovement::DecayPunchAngle()",
+			"name_mangled": "_ZN13CGameMovement15DecayPunchAngleEv"
+		},
+		{
+			"name": "CTFGameMovement::CheckWaterJump()",
+			"name_mangled": "_ZN15CTFGameMovement14CheckWaterJumpEv"
+		},
+		{
+			"name": "CTFGameMovement::WaterMove()",
+			"name_mangled": "_ZN15CTFGameMovement9WaterMoveEv"
+		},
+		{
+			"name": "CGameMovement::AirAccelerate(Vector&, float, float)",
+			"name_mangled": "_ZN13CGameMovement13AirAccelerateER6Vectorff"
+		},
+		{
+			"name": "CTFGameMovement::AirMove()",
+			"name_mangled": "_ZN15CTFGameMovement7AirMoveEv"
+		},
+		{
+			"name": "CTFGameMovement::GetAirSpeedCap()",
+			"name_mangled": "_ZN15CTFGameMovement14GetAirSpeedCapEv"
+		},
+		{
+			"name": "CTFGameMovement::CanAccelerate()",
+			"name_mangled": "_ZN15CTFGameMovement13CanAccelerateEv"
+		},
+		{
+			"name": "CGameMovement::Accelerate(Vector&, float, float)",
+			"name_mangled": "_ZN13CGameMovement10AccelerateER6Vectorff"
+		},
+		{
+			"name": "CTFGameMovement::WalkMove()",
+			"name_mangled": "_ZN15CTFGameMovement8WalkMoveEv"
+		},
+		{
+			"name": "CTFGameMovement::FullWalkMove()",
+			"name_mangled": "_ZN15CTFGameMovement12FullWalkMoveEv"
+		},
+		{
+			"name": "CGameMovement::OnJump(float)",
+			"name_mangled": "_ZN13CGameMovement6OnJumpEf"
+		},
+		{
+			"name": "CGameMovement::OnLand(float)",
+			"name_mangled": "_ZN13CGameMovement6OnLandEf"
+		},
+		{
+			"name": "CGameMovement::OnTryPlayerMoveCollision(CGameTrace&)",
+			"name_mangled": "_ZN13CGameMovement24OnTryPlayerMoveCollisionER10CGameTrace"
+		},
+		{
+			"name": "CGameMovement::GetPlayerMins() const",
+			"name_mangled": "_ZNK13CGameMovement13GetPlayerMinsEv"
+		},
+		{
+			"name": "CGameMovement::GetPlayerMaxs() const",
+			"name_mangled": "_ZNK13CGameMovement13GetPlayerMaxsEv"
+		},
+		{
+			"name": "CGameMovement::GetCheckInterval(CGameMovement::IntervalType_t)",
+			"name_mangled": "_ZN13CGameMovement16GetCheckIntervalENS_14IntervalType_tE"
+		},
+		{
+			"name": "CTFGameMovement::CheckJumpButton()",
+			"name_mangled": "_ZN15CTFGameMovement15CheckJumpButtonEv"
+		},
+		{
+			"name": "CTFGameMovement::FullTossMove()",
+			"name_mangled": "_ZN15CTFGameMovement12FullTossMoveEv"
+		},
+		{
+			"name": "CGameMovement::FullLadderMove()",
+			"name_mangled": "_ZN13CGameMovement14FullLadderMoveEv"
+		},
+		{
+			"name": "CGameMovement::TryPlayerMove(Vector*, CGameTrace*, float)",
+			"name_mangled": "_ZN13CGameMovement13TryPlayerMoveEP6VectorP10CGameTracef"
+		},
+		{
+			"name": "CGameMovement::LadderMove()",
+			"name_mangled": "_ZN13CGameMovement10LadderMoveEv"
+		},
+		{
+			"name": "CGameMovement::OnLadder(CGameTrace&)",
+			"name_mangled": "_ZN13CGameMovement8OnLadderER10CGameTrace"
+		},
+		{
+			"name": "CGameMovement::LadderDistance() const",
+			"name_mangled": "_ZNK13CGameMovement14LadderDistanceEv"
+		},
+		{
+			"name": "CGameMovement::LadderMask() const",
+			"name_mangled": "_ZNK13CGameMovement10LadderMaskEv"
+		},
+		{
+			"name": "CGameMovement::ClimbSpeed() const",
+			"name_mangled": "_ZNK13CGameMovement10ClimbSpeedEv"
+		},
+		{
+			"name": "CGameMovement::LadderLateralMultiplier() const",
+			"name_mangled": "_ZNK13CGameMovement23LadderLateralMultiplierEv"
+		},
+		{
+			"name": "CTFGameMovement::CheckStuck()",
+			"name_mangled": "_ZN15CTFGameMovement10CheckStuckEv"
+		},
+		{
+			"name": "CTFGameMovement::CheckWater()",
+			"name_mangled": "_ZN15CTFGameMovement10CheckWaterEv"
+		},
+		{
+			"name": "CTFGameMovement::CategorizePosition()",
+			"name_mangled": "_ZN15CTFGameMovement18CategorizePositionEv"
+		},
+		{
+			"name": "CGameMovement::CheckParameters()",
+			"name_mangled": "_ZN13CGameMovement15CheckParametersEv"
+		},
+		{
+			"name": "CGameMovement::ReduceTimers()",
+			"name_mangled": "_ZN13CGameMovement12ReduceTimersEv"
+		},
+		{
+			"name": "CTFGameMovement::CheckFalling()",
+			"name_mangled": "_ZN15CTFGameMovement12CheckFallingEv"
+		},
+		{
+			"name": "CTFGameMovement::PlayerRoughLandingEffects(float)",
+			"name_mangled": "_ZN15CTFGameMovement25PlayerRoughLandingEffectsEf"
+		},
+		{
+			"name": "CTFGameMovement::Duck()",
+			"name_mangled": "_ZN15CTFGameMovement4DuckEv"
+		},
+		{
+			"name": "CTFGameMovement::HandleDuckingSpeedCrop()",
+			"name_mangled": "_ZN15CTFGameMovement22HandleDuckingSpeedCropEv"
+		},
+		{
+			"name": "CGameMovement::FinishUnDuck()",
+			"name_mangled": "_ZN13CGameMovement12FinishUnDuckEv"
+		},
+		{
+			"name": "CGameMovement::FinishDuck()",
+			"name_mangled": "_ZN13CGameMovement10FinishDuckEv"
+		},
+		{
+			"name": "CGameMovement::CanUnduck()",
+			"name_mangled": "_ZN13CGameMovement9CanUnduckEv"
+		},
+		{
+			"name": "CTFGameMovement::TestPlayerPosition(Vector const&, int, CGameTrace&)",
+			"name_mangled": "_ZN15CTFGameMovement18TestPlayerPositionERK6VectoriR10CGameTrace"
+		},
+		{
+			"name": "CTFGameMovement::SetGroundEntity(CGameTrace*)",
+			"name_mangled": "_ZN15CTFGameMovement15SetGroundEntityEP10CGameTrace"
+		},
+		{
+			"name": "CTFGameMovement::StepMove(Vector&, CGameTrace&)",
+			"name_mangled": "_ZN15CTFGameMovement8StepMoveER6VectorR10CGameTrace"
+		},
+		{
+			"name": "CTFGameMovement::GameHasLadders() const",
+			"name_mangled": "_ZNK15CTFGameMovement14GameHasLaddersEv"
+		}
+	]
+}

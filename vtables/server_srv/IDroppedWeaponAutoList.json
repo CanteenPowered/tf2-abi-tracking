@@ -1,0 +1,10 @@
+{
+	"classname": "IDroppedWeaponAutoList",
+	"classname_mangled": "_ZTV22IDroppedWeaponAutoList",
+	"members": [
+		{
+			"name": "IDroppedWeaponAutoList::~IDroppedWeaponAutoList()",
+			"name_mangled": "_ZN22IDroppedWeaponAutoListD0Ev"
+		}
+	]
+}

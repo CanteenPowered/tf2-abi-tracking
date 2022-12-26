@@ -1,0 +1,210 @@
+{
+	"classname": "CToolFrameworkInternal",
+	"classname_mangled": "_ZTV22CToolFrameworkInternal",
+	"members": [
+		{
+			"name": "CToolFrameworkInternal::Disconnect()",
+			"name_mangled": "_ZN22CToolFrameworkInternal10DisconnectEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::QueryInterface(char const*)",
+			"name_mangled": "_ZN22CToolFrameworkInternal14QueryInterfaceEPKc"
+		},
+		{
+			"name": "CToolFrameworkInternal::Init()",
+			"name_mangled": "_ZN22CToolFrameworkInternal4InitEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::Shutdown()",
+			"name_mangled": "_ZN22CToolFrameworkInternal8ShutdownEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ClientInit(void* (*)(char const*, int*))",
+			"name_mangled": "_ZN22CToolFrameworkInternal10ClientInitEPFPvPKcPiE"
+		},
+		{
+			"name": "CToolFrameworkInternal::ClientShutdown()",
+			"name_mangled": "_ZN22CToolFrameworkInternal14ClientShutdownEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ClientLevelInitPreEntityAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal32ClientLevelInitPreEntityAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ClientLevelInitPostEntityAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal33ClientLevelInitPostEntityAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ClientLevelShutdownPreEntityAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal36ClientLevelShutdownPreEntityAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ClientLevelShutdownPostEntityAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal37ClientLevelShutdownPostEntityAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ClientPreRenderAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal23ClientPreRenderAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ClientPostRenderAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal24ClientPostRenderAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::IsThirdPersonCamera()",
+			"name_mangled": "_ZN22CToolFrameworkInternal19IsThirdPersonCameraEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::IsToolRecording()",
+			"name_mangled": "_ZN22CToolFrameworkInternal15IsToolRecordingEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ServerInit(void* (*)(char const*, int*))",
+			"name_mangled": "_ZN22CToolFrameworkInternal10ServerInitEPFPvPKcPiE"
+		},
+		{
+			"name": "CToolFrameworkInternal::ServerShutdown()",
+			"name_mangled": "_ZN22CToolFrameworkInternal14ServerShutdownEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ServerLevelInitPreEntityAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal32ServerLevelInitPreEntityAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ServerLevelInitPostEntityAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal33ServerLevelInitPostEntityAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ServerLevelShutdownPreEntityAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal36ServerLevelShutdownPreEntityAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ServerLevelShutdownPostEntityAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal37ServerLevelShutdownPostEntityAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ServerFrameUpdatePreEntityThinkAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal39ServerFrameUpdatePreEntityThinkAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ServerFrameUpdatePostEntityThinkAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal40ServerFrameUpdatePostEntityThinkAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ServerPreClientUpdateAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal29ServerPreClientUpdateAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ServerPreSetupVisibilityAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal32ServerPreSetupVisibilityAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::CanQuit()",
+			"name_mangled": "_ZN22CToolFrameworkInternal7CanQuitEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::PostInit()",
+			"name_mangled": "_ZN22CToolFrameworkInternal8PostInitEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::Think(bool)",
+			"name_mangled": "_ZN22CToolFrameworkInternal5ThinkEb"
+		},
+		{
+			"name": "CToolFrameworkInternal::PostMessage(KeyValues*)",
+			"name_mangled": "_ZN22CToolFrameworkInternal11PostMessageEP9KeyValues"
+		},
+		{
+			"name": "CToolFrameworkInternal::GetSoundSpatialization(int, int, SpatializationInfo_t&)",
+			"name_mangled": "_ZN22CToolFrameworkInternal22GetSoundSpatializationEiiR20SpatializationInfo_t"
+		},
+		{
+			"name": "CToolFrameworkInternal::HostRunFrameBegin()",
+			"name_mangled": "_ZN22CToolFrameworkInternal17HostRunFrameBeginEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::HostRunFrameEnd()",
+			"name_mangled": "_ZN22CToolFrameworkInternal15HostRunFrameEndEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::RenderFrameBegin()",
+			"name_mangled": "_ZN22CToolFrameworkInternal16RenderFrameBeginEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::RenderFrameEnd()",
+			"name_mangled": "_ZN22CToolFrameworkInternal14RenderFrameEndEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::VGui_PreRenderAllTools(int)",
+			"name_mangled": "_ZN22CToolFrameworkInternal22VGui_PreRenderAllToolsEi"
+		},
+		{
+			"name": "CToolFrameworkInternal::VGui_PostRenderAllTools(int)",
+			"name_mangled": "_ZN22CToolFrameworkInternal23VGui_PostRenderAllToolsEi"
+		},
+		{
+			"name": "CToolFrameworkInternal::VGui_PreSimulateAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal24VGui_PreSimulateAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::VGui_PostSimulateAllTools()",
+			"name_mangled": "_ZN22CToolFrameworkInternal25VGui_PostSimulateAllToolsEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::InToolMode()",
+			"name_mangled": "_ZN22CToolFrameworkInternal10InToolModeEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::ShouldGameRenderView()",
+			"name_mangled": "_ZN22CToolFrameworkInternal20ShouldGameRenderViewEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::LookupProxy(char const*)",
+			"name_mangled": "_ZN22CToolFrameworkInternal11LookupProxyEPKc"
+		},
+		{
+			"name": "CToolFrameworkInternal::GetToolCount()",
+			"name_mangled": "_ZN22CToolFrameworkInternal12GetToolCountEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::GetToolName(int)",
+			"name_mangled": "_ZN22CToolFrameworkInternal11GetToolNameEi"
+		},
+		{
+			"name": "CToolFrameworkInternal::SwitchToTool(int)",
+			"name_mangled": "_ZN22CToolFrameworkInternal12SwitchToToolEi"
+		},
+		{
+			"name": "CToolFrameworkInternal::SwitchToTool(char const*)",
+			"name_mangled": "_ZN22CToolFrameworkInternal12SwitchToToolEPKc"
+		},
+		{
+			"name": "CToolFrameworkInternal::IsTopmostTool(IToolSystem const*)",
+			"name_mangled": "_ZN22CToolFrameworkInternal13IsTopmostToolEPK11IToolSystem"
+		},
+		{
+			"name": "CToolFrameworkInternal::GetToolSystem(int) const",
+			"name_mangled": "_ZNK22CToolFrameworkInternal13GetToolSystemEi"
+		},
+		{
+			"name": "CToolFrameworkInternal::GetTopmostTool()",
+			"name_mangled": "_ZN22CToolFrameworkInternal14GetTopmostToolEv"
+		},
+		{
+			"name": "CToolFrameworkInternal::PostToolMessage(unsigned int, KeyValues*)",
+			"name_mangled": "_ZN22CToolFrameworkInternal15PostToolMessageEjP9KeyValues"
+		},
+		{
+			"name": "CToolFrameworkInternal::AdjustEngineViewport(int&, int&, int&, int&)",
+			"name_mangled": "_ZN22CToolFrameworkInternal20AdjustEngineViewportERiS0_S0_S0_"
+		},
+		{
+			"name": "CToolFrameworkInternal::SetupEngineView(Vector&, QAngle&, float&)",
+			"name_mangled": "_ZN22CToolFrameworkInternal15SetupEngineViewER6VectorR6QAngleRf"
+		},
+		{
+			"name": "CToolFrameworkInternal::SetupAudioState(AudioState_t&)",
+			"name_mangled": "_ZN22CToolFrameworkInternal15SetupAudioStateER12AudioState_t"
+		}
+	]
+}

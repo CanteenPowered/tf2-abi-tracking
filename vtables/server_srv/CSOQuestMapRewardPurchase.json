@@ -1,0 +1,82 @@
+{
+	"classname": "CSOQuestMapRewardPurchase",
+	"classname_mangled": "_ZTV25CSOQuestMapRewardPurchase",
+	"members": [
+		{
+			"name": "CSOQuestMapRewardPurchase::~CSOQuestMapRewardPurchase()",
+			"name_mangled": "_ZN25CSOQuestMapRewardPurchaseD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CSOQuestMapRewardPurchase::New() const",
+			"name_mangled": "_ZNK25CSOQuestMapRewardPurchase3NewEv"
+		},
+		{
+			"name": "CSOQuestMapRewardPurchase::Clear()",
+			"name_mangled": "_ZN25CSOQuestMapRewardPurchase5ClearEv"
+		},
+		{
+			"name": "CSOQuestMapRewardPurchase::IsInitialized() const",
+			"name_mangled": "_ZNK25CSOQuestMapRewardPurchase13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CSOQuestMapRewardPurchase::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN25CSOQuestMapRewardPurchase27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CSOQuestMapRewardPurchase::ByteSize() const",
+			"name_mangled": "_ZNK25CSOQuestMapRewardPurchase8ByteSizeEv"
+		},
+		{
+			"name": "CSOQuestMapRewardPurchase::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK25CSOQuestMapRewardPurchase24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CSOQuestMapRewardPurchase::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK25CSOQuestMapRewardPurchase31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CSOQuestMapRewardPurchase::GetCachedSize() const",
+			"name_mangled": "_ZNK25CSOQuestMapRewardPurchase13GetCachedSizeEv"
+		},
+		{
+			"name": "CSOQuestMapRewardPurchase::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN25CSOQuestMapRewardPurchase8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CSOQuestMapRewardPurchase::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN25CSOQuestMapRewardPurchase9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CSOQuestMapRewardPurchase::SetCachedSize(int) const",
+			"name_mangled": "_ZNK25CSOQuestMapRewardPurchase13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CSOQuestMapRewardPurchase::GetMetadata() const",
+			"name_mangled": "_ZNK25CSOQuestMapRewardPurchase11GetMetadataEv"
+		}
+	]
+}

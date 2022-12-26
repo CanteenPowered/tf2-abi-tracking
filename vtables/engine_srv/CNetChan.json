@@ -1,0 +1,278 @@
+{
+	"classname": "CNetChan",
+	"classname_mangled": "_ZTV8CNetChan",
+	"members": [
+		{
+			"name": "CNetChan::GetAddress() const",
+			"name_mangled": "_ZNK8CNetChan10GetAddressEv"
+		},
+		{
+			"name": "CNetChan::GetTime() const",
+			"name_mangled": "_ZNK8CNetChan7GetTimeEv"
+		},
+		{
+			"name": "CNetChan::GetTimeConnected() const",
+			"name_mangled": "_ZNK8CNetChan16GetTimeConnectedEv"
+		},
+		{
+			"name": "CNetChan::GetBufferSize() const",
+			"name_mangled": "_ZNK8CNetChan13GetBufferSizeEv"
+		},
+		{
+			"name": "CNetChan::GetDataRate() const",
+			"name_mangled": "_ZNK8CNetChan11GetDataRateEv"
+		},
+		{
+			"name": "CNetChan::IsLoopback() const",
+			"name_mangled": "_ZNK8CNetChan10IsLoopbackEv"
+		},
+		{
+			"name": "CNetChan::IsTimingOut() const",
+			"name_mangled": "_ZNK8CNetChan11IsTimingOutEv"
+		},
+		{
+			"name": "CNetChan::IsPlayback() const",
+			"name_mangled": "_ZNK8CNetChan10IsPlaybackEv"
+		},
+		{
+			"name": "CNetChan::GetLatency(int) const",
+			"name_mangled": "_ZNK8CNetChan10GetLatencyEi"
+		},
+		{
+			"name": "CNetChan::GetAvgLatency(int) const",
+			"name_mangled": "_ZNK8CNetChan13GetAvgLatencyEi"
+		},
+		{
+			"name": "CNetChan::GetAvgLoss(int) const",
+			"name_mangled": "_ZNK8CNetChan10GetAvgLossEi"
+		},
+		{
+			"name": "CNetChan::GetAvgChoke(int) const",
+			"name_mangled": "_ZNK8CNetChan11GetAvgChokeEi"
+		},
+		{
+			"name": "CNetChan::GetAvgData(int) const",
+			"name_mangled": "_ZNK8CNetChan10GetAvgDataEi"
+		},
+		{
+			"name": "CNetChan::GetAvgPackets(int) const",
+			"name_mangled": "_ZNK8CNetChan13GetAvgPacketsEi"
+		},
+		{
+			"name": "CNetChan::GetTotalData(int) const",
+			"name_mangled": "_ZNK8CNetChan12GetTotalDataEi"
+		},
+		{
+			"name": "CNetChan::GetSequenceNr(int) const",
+			"name_mangled": "_ZNK8CNetChan13GetSequenceNrEi"
+		},
+		{
+			"name": "CNetChan::IsValidPacket(int, int) const",
+			"name_mangled": "_ZNK8CNetChan13IsValidPacketEii"
+		},
+		{
+			"name": "CNetChan::GetPacketTime(int, int) const",
+			"name_mangled": "_ZNK8CNetChan13GetPacketTimeEii"
+		},
+		{
+			"name": "CNetChan::GetPacketBytes(int, int, int) const",
+			"name_mangled": "_ZNK8CNetChan14GetPacketBytesEiii"
+		},
+		{
+			"name": "CNetChan::GetStreamProgress(int, int*, int*) const",
+			"name_mangled": "_ZNK8CNetChan17GetStreamProgressEiPiS0_"
+		},
+		{
+			"name": "CNetChan::GetTimeSinceLastReceived() const",
+			"name_mangled": "_ZNK8CNetChan24GetTimeSinceLastReceivedEv"
+		},
+		{
+			"name": "CNetChan::GetCommandInterpolationAmount(int, int) const",
+			"name_mangled": "_ZNK8CNetChan29GetCommandInterpolationAmountEii"
+		},
+		{
+			"name": "CNetChan::GetPacketResponseLatency(int, int, int*, int*) const",
+			"name_mangled": "_ZNK8CNetChan24GetPacketResponseLatencyEiiPiS0_"
+		},
+		{
+			"name": "CNetChan::GetRemoteFramerate(float*, float*) const",
+			"name_mangled": "_ZNK8CNetChan18GetRemoteFramerateEPfS0_"
+		},
+		{
+			"name": "CNetChan::GetTimeoutSeconds() const",
+			"name_mangled": "_ZNK8CNetChan17GetTimeoutSecondsEv"
+		},
+		{
+			"name": "CNetChan::~CNetChan()",
+			"name_mangled": "_ZN8CNetChanD1Ev"
+		},
+		{
+			"name": "CNetChan::~CNetChan()",
+			"name_mangled": "_ZN8CNetChanD0Ev"
+		},
+		{
+			"name": "CNetChan::SetDataRate(float)",
+			"name_mangled": "_ZN8CNetChan11SetDataRateEf"
+		},
+		{
+			"name": "CNetChan::RegisterMessage(INetMessage*)",
+			"name_mangled": "_ZN8CNetChan15RegisterMessageEP11INetMessage"
+		},
+		{
+			"name": "CNetChan::SetTimeout(float)",
+			"name_mangled": "_ZN8CNetChan10SetTimeoutEf"
+		},
+		{
+			"name": "CNetChan::SetDemoRecorder(IDemoRecorder*)",
+			"name_mangled": "_ZN8CNetChan15SetDemoRecorderEP13IDemoRecorder"
+		},
+		{
+			"name": "CNetChan::SetChallengeNr(unsigned int)",
+			"name_mangled": "_ZN8CNetChan14SetChallengeNrEj"
+		},
+		{
+			"name": "CNetChan::Reset()",
+			"name_mangled": "_ZN8CNetChan5ResetEv"
+		},
+		{
+			"name": "CNetChan::Clear()",
+			"name_mangled": "_ZN8CNetChan5ClearEv"
+		},
+		{
+			"name": "CNetChan::Shutdown(char const*)",
+			"name_mangled": "_ZN8CNetChan8ShutdownEPKc"
+		},
+		{
+			"name": "CNetChan::ProcessPlayback()",
+			"name_mangled": "_ZN8CNetChan15ProcessPlaybackEv"
+		},
+		{
+			"name": "CNetChan::ProcessPacket(netpacket_s*, bool)",
+			"name_mangled": "_ZN8CNetChan13ProcessPacketEP11netpacket_sb"
+		},
+		{
+			"name": "CNetChan::SendNetMsg(INetMessage&, bool, bool)",
+			"name_mangled": "_ZN8CNetChan10SendNetMsgER11INetMessagebb"
+		},
+		{
+			"name": "CNetChan::SendData(bf_write&, bool)",
+			"name_mangled": "_ZN8CNetChan8SendDataER8bf_writeb"
+		},
+		{
+			"name": "CNetChan::SendFile(char const*, unsigned int)",
+			"name_mangled": "_ZN8CNetChan8SendFileEPKcj"
+		},
+		{
+			"name": "CNetChan::DenyFile(char const*, unsigned int)",
+			"name_mangled": "_ZN8CNetChan8DenyFileEPKcj"
+		},
+		{
+			"name": "CNetChan::RequestFile_OLD(char const*, unsigned int)",
+			"name_mangled": "_ZN8CNetChan15RequestFile_OLDEPKcj"
+		},
+		{
+			"name": "CNetChan::SetChoked()",
+			"name_mangled": "_ZN8CNetChan9SetChokedEv"
+		},
+		{
+			"name": "CNetChan::SendDatagram(bf_write*)",
+			"name_mangled": "_ZN8CNetChan12SendDatagramEP8bf_write"
+		},
+		{
+			"name": "CNetChan::Transmit(bool)",
+			"name_mangled": "_ZN8CNetChan8TransmitEb"
+		},
+		{
+			"name": "CNetChan::GetRemoteAddress() const",
+			"name_mangled": "_ZNK8CNetChan16GetRemoteAddressEv"
+		},
+		{
+			"name": "CNetChan::GetMsgHandler() const",
+			"name_mangled": "_ZNK8CNetChan13GetMsgHandlerEv"
+		},
+		{
+			"name": "CNetChan::GetDropNumber() const",
+			"name_mangled": "_ZNK8CNetChan13GetDropNumberEv"
+		},
+		{
+			"name": "CNetChan::GetSocket() const",
+			"name_mangled": "_ZNK8CNetChan9GetSocketEv"
+		},
+		{
+			"name": "CNetChan::GetChallengeNr() const",
+			"name_mangled": "_ZNK8CNetChan14GetChallengeNrEv"
+		},
+		{
+			"name": "CNetChan::GetSequenceData(int&, int&, int&)",
+			"name_mangled": "_ZN8CNetChan15GetSequenceDataERiS0_S0_"
+		},
+		{
+			"name": "CNetChan::SetSequenceData(int, int, int)",
+			"name_mangled": "_ZN8CNetChan15SetSequenceDataEiii"
+		},
+		{
+			"name": "CNetChan::UpdateMessageStats(int, int)",
+			"name_mangled": "_ZN8CNetChan18UpdateMessageStatsEii"
+		},
+		{
+			"name": "CNetChan::CanPacket() const",
+			"name_mangled": "_ZNK8CNetChan9CanPacketEv"
+		},
+		{
+			"name": "CNetChan::IsOverflowed() const",
+			"name_mangled": "_ZNK8CNetChan12IsOverflowedEv"
+		},
+		{
+			"name": "CNetChan::IsTimedOut() const",
+			"name_mangled": "_ZNK8CNetChan10IsTimedOutEv"
+		},
+		{
+			"name": "CNetChan::HasPendingReliableData()",
+			"name_mangled": "_ZN8CNetChan22HasPendingReliableDataEv"
+		},
+		{
+			"name": "CNetChan::SetFileTransmissionMode(bool)",
+			"name_mangled": "_ZN8CNetChan23SetFileTransmissionModeEb"
+		},
+		{
+			"name": "CNetChan::SetCompressionMode(bool)",
+			"name_mangled": "_ZN8CNetChan18SetCompressionModeEb"
+		},
+		{
+			"name": "CNetChan::RequestFile(char const*)",
+			"name_mangled": "_ZN8CNetChan11RequestFileEPKc"
+		},
+		{
+			"name": "CNetChan::SetMaxBufferSize(bool, int, bool)",
+			"name_mangled": "_ZN8CNetChan16SetMaxBufferSizeEbib"
+		},
+		{
+			"name": "CNetChan::IsNull() const",
+			"name_mangled": "_ZNK8CNetChan6IsNullEv"
+		},
+		{
+			"name": "CNetChan::GetNumBitsWritten(bool)",
+			"name_mangled": "_ZN8CNetChan17GetNumBitsWrittenEb"
+		},
+		{
+			"name": "CNetChan::SetInterpolationAmount(float)",
+			"name_mangled": "_ZN8CNetChan22SetInterpolationAmountEf"
+		},
+		{
+			"name": "CNetChan::SetRemoteFramerate(float, float)",
+			"name_mangled": "_ZN8CNetChan18SetRemoteFramerateEff"
+		},
+		{
+			"name": "CNetChan::SetMaxRoutablePayloadSize(int)",
+			"name_mangled": "_ZN8CNetChan25SetMaxRoutablePayloadSizeEi"
+		},
+		{
+			"name": "CNetChan::GetMaxRoutablePayloadSize()",
+			"name_mangled": "_ZN8CNetChan25GetMaxRoutablePayloadSizeEv"
+		},
+		{
+			"name": "CNetChan::GetProtocolVersion()",
+			"name_mangled": "_ZN8CNetChan18GetProtocolVersionEv"
+		}
+	]
+}

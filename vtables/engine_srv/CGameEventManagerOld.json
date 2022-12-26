@@ -1,0 +1,54 @@
+{
+	"classname": "CGameEventManagerOld",
+	"classname_mangled": "_ZTV20CGameEventManagerOld",
+	"members": [
+		{
+			"name": "CGameEventManagerOld::~CGameEventManagerOld()",
+			"name_mangled": "_ZN20CGameEventManagerOldD0Ev"
+		},
+		{
+			"name": "CGameEventManagerOld::LoadEventsFromFile(char const*)",
+			"name_mangled": "_ZN20CGameEventManagerOld18LoadEventsFromFileEPKc"
+		},
+		{
+			"name": "CGameEventManagerOld::Reset()",
+			"name_mangled": "_ZN20CGameEventManagerOld5ResetEv"
+		},
+		{
+			"name": "CGameEventManagerOld::GetEvent(char const*)",
+			"name_mangled": "_ZN20CGameEventManagerOld8GetEventEPKc"
+		},
+		{
+			"name": "CGameEventManagerOld::AddListener(IGameEventListener*, char const*, bool)",
+			"name_mangled": "_ZN20CGameEventManagerOld11AddListenerEP18IGameEventListenerPKcb"
+		},
+		{
+			"name": "CGameEventManagerOld::AddListener(IGameEventListener*, bool)",
+			"name_mangled": "_ZN20CGameEventManagerOld11AddListenerEP18IGameEventListenerb"
+		},
+		{
+			"name": "CGameEventManagerOld::RemoveListener(IGameEventListener*)",
+			"name_mangled": "_ZN20CGameEventManagerOld14RemoveListenerEP18IGameEventListener"
+		},
+		{
+			"name": "CGameEventManagerOld::FireEvent(KeyValues*)",
+			"name_mangled": "_ZN20CGameEventManagerOld9FireEventEP9KeyValues"
+		},
+		{
+			"name": "CGameEventManagerOld::FireEventServerOnly(KeyValues*)",
+			"name_mangled": "_ZN20CGameEventManagerOld19FireEventServerOnlyEP9KeyValues"
+		},
+		{
+			"name": "CGameEventManagerOld::FireEventClientOnly(KeyValues*)",
+			"name_mangled": "_ZN20CGameEventManagerOld19FireEventClientOnlyEP9KeyValues"
+		},
+		{
+			"name": "CGameEventManagerOld::SerializeKeyValues(KeyValues*, bf_write*, CGameEvent*)",
+			"name_mangled": "_ZN20CGameEventManagerOld18SerializeKeyValuesEP9KeyValuesP8bf_writeP10CGameEvent"
+		},
+		{
+			"name": "CGameEventManagerOld::UnserializeKeyValue(bf_read*)",
+			"name_mangled": "_ZN20CGameEventManagerOld19UnserializeKeyValueEP7bf_read"
+		}
+	]
+}

@@ -1,0 +1,146 @@
+{
+	"classname": "CModelLoader",
+	"classname_mangled": "_ZTV12CModelLoader",
+	"members": [
+		{
+			"name": "CModelLoader::Shutdown()",
+			"name_mangled": "_ZN12CModelLoader8ShutdownEv"
+		},
+		{
+			"name": "CModelLoader::GetCount()",
+			"name_mangled": "_ZN12CModelLoader8GetCountEv"
+		},
+		{
+			"name": "CModelLoader::GetModelForIndex(int)",
+			"name_mangled": "_ZN12CModelLoader16GetModelForIndexEi"
+		},
+		{
+			"name": "CModelLoader::GetName(model_t const*)",
+			"name_mangled": "_ZN12CModelLoader7GetNameEPK7model_t"
+		},
+		{
+			"name": "CModelLoader::GetExtraData(model_t*)",
+			"name_mangled": "_ZN12CModelLoader12GetExtraDataEP7model_t"
+		},
+		{
+			"name": "CModelLoader::GetModelFileSize(char const*)",
+			"name_mangled": "_ZN12CModelLoader16GetModelFileSizeEPKc"
+		},
+		{
+			"name": "CModelLoader::GetModelForName(char const*, IModelLoader::REFERENCETYPE)",
+			"name_mangled": "_ZN12CModelLoader15GetModelForNameEPKcN12IModelLoader13REFERENCETYPEE"
+		},
+		{
+			"name": "CModelLoader::ReferenceModel(char const*, IModelLoader::REFERENCETYPE)",
+			"name_mangled": "_ZN12CModelLoader14ReferenceModelEPKcN12IModelLoader13REFERENCETYPEE"
+		},
+		{
+			"name": "CModelLoader::UnreferenceModel(model_t*, IModelLoader::REFERENCETYPE)",
+			"name_mangled": "_ZN12CModelLoader16UnreferenceModelEP7model_tN12IModelLoader13REFERENCETYPEE"
+		},
+		{
+			"name": "CModelLoader::UnreferenceAllModels(IModelLoader::REFERENCETYPE)",
+			"name_mangled": "_ZN12CModelLoader20UnreferenceAllModelsEN12IModelLoader13REFERENCETYPEE"
+		},
+		{
+			"name": "CModelLoader::ResetModelServerCounts()",
+			"name_mangled": "_ZN12CModelLoader22ResetModelServerCountsEv"
+		},
+		{
+			"name": "CModelLoader::UnloadUnreferencedModels()",
+			"name_mangled": "_ZN12CModelLoader24UnloadUnreferencedModelsEv"
+		},
+		{
+			"name": "CModelLoader::PurgeUnusedModels()",
+			"name_mangled": "_ZN12CModelLoader17PurgeUnusedModelsEv"
+		},
+		{
+			"name": "CModelLoader::UnloadModel(model_t*)",
+			"name_mangled": "_ZN12CModelLoader11UnloadModelEP7model_t"
+		},
+		{
+			"name": "CModelLoader::Map_GetRenderInfoAllocated()",
+			"name_mangled": "_ZN12CModelLoader26Map_GetRenderInfoAllocatedEv"
+		},
+		{
+			"name": "CModelLoader::Map_SetRenderInfoAllocated(bool)",
+			"name_mangled": "_ZN12CModelLoader26Map_SetRenderInfoAllocatedEb"
+		},
+		{
+			"name": "CModelLoader::Map_LoadDisplacements(model_t*, bool)",
+			"name_mangled": "_ZN12CModelLoader21Map_LoadDisplacementsEP7model_tb"
+		},
+		{
+			"name": "CModelLoader::Print()",
+			"name_mangled": "_ZN12CModelLoader5PrintEv"
+		},
+		{
+			"name": "CModelLoader::Map_IsValid(char const*, bool)",
+			"name_mangled": "_ZN12CModelLoader11Map_IsValidEPKcb"
+		},
+		{
+			"name": "CModelLoader::RecomputeSurfaceFlags(model_t*)",
+			"name_mangled": "_ZN12CModelLoader21RecomputeSurfaceFlagsEP7model_t"
+		},
+		{
+			"name": "CModelLoader::Studio_ReloadModels(IModelLoader::ReloadType_t)",
+			"name_mangled": "_ZN12CModelLoader19Studio_ReloadModelsEN12IModelLoader12ReloadType_tE"
+		},
+		{
+			"name": "CModelLoader::IsLoaded(model_t const*)",
+			"name_mangled": "_ZN12CModelLoader8IsLoadedEPK7model_t"
+		},
+		{
+			"name": "CModelLoader::LastLoadedMapHasHDRLighting()",
+			"name_mangled": "_ZN12CModelLoader27LastLoadedMapHasHDRLightingEv"
+		},
+		{
+			"name": "CModelLoader::ReloadFilesInList(IFileList*)",
+			"name_mangled": "_ZN12CModelLoader17ReloadFilesInListEP9IFileList"
+		},
+		{
+			"name": "CModelLoader::GetActiveMapName()",
+			"name_mangled": "_ZN12CModelLoader16GetActiveMapNameEv"
+		},
+		{
+			"name": "CModelLoader::UpdateDynamicModels()",
+			"name_mangled": "_ZN12CModelLoader19UpdateDynamicModelsEv"
+		},
+		{
+			"name": "CModelLoader::FlushDynamicModels()",
+			"name_mangled": "_ZN12CModelLoader18FlushDynamicModelsEv"
+		},
+		{
+			"name": "CModelLoader::ForceUnloadNonClientDynamicModels()",
+			"name_mangled": "_ZN12CModelLoader33ForceUnloadNonClientDynamicModelsEv"
+		},
+		{
+			"name": "CModelLoader::GetDynamicModel(char const*, bool)",
+			"name_mangled": "_ZN12CModelLoader15GetDynamicModelEPKcb"
+		},
+		{
+			"name": "CModelLoader::IsDynamicModelLoading(model_t*, bool)",
+			"name_mangled": "_ZN12CModelLoader21IsDynamicModelLoadingEP7model_tb"
+		},
+		{
+			"name": "CModelLoader::AddRefDynamicModel(model_t*, bool)",
+			"name_mangled": "_ZN12CModelLoader18AddRefDynamicModelEP7model_tb"
+		},
+		{
+			"name": "CModelLoader::ReleaseDynamicModel(model_t*, bool)",
+			"name_mangled": "_ZN12CModelLoader19ReleaseDynamicModelEP7model_tb"
+		},
+		{
+			"name": "CModelLoader::RegisterModelLoadCallback(model_t*, bool, IModelLoadCallback*, bool)",
+			"name_mangled": "_ZN12CModelLoader25RegisterModelLoadCallbackEP7model_tbP18IModelLoadCallbackb"
+		},
+		{
+			"name": "CModelLoader::UnregisterModelLoadCallback(model_t*, bool, IModelLoadCallback*)",
+			"name_mangled": "_ZN12CModelLoader27UnregisterModelLoadCallbackEP7model_tbP18IModelLoadCallback"
+		},
+		{
+			"name": "CModelLoader::Client_OnServerModelStateChanged(model_t*, bool)",
+			"name_mangled": "_ZN12CModelLoader32Client_OnServerModelStateChangedEP7model_tb"
+		}
+	]
+}

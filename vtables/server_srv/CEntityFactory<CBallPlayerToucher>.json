@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBallPlayerToucher>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CBallPlayerToucherE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBallPlayerToucher>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CBallPlayerToucherE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBallPlayerToucher>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CBallPlayerToucherE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CBaseEntityScriptInstanceHelper",
+	"classname_mangled": "_ZTV31CBaseEntityScriptInstanceHelper",
+	"members": [
+		{
+			"name": "CBaseEntityScriptInstanceHelper::ToString(void*, char*, int)",
+			"name_mangled": "_ZN31CBaseEntityScriptInstanceHelper8ToStringEPvPci"
+		},
+		{
+			"name": "CBaseEntityScriptInstanceHelper::BindOnRead(HSCRIPT__*, void*, char const*)",
+			"name_mangled": "_ZN31CBaseEntityScriptInstanceHelper10BindOnReadEP9HSCRIPT__PvPKc"
+		}
+	]
+}

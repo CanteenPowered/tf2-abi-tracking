@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<MovieExplosion>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14MovieExplosionE",
+	"members": [
+		{
+			"name": "CEntityFactory<MovieExplosion>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14MovieExplosionE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<MovieExplosion>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14MovieExplosionE13GetEntitySizeEv"
+		}
+	]
+}

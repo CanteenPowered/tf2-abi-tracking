@@ -1,0 +1,38 @@
+{
+	"classname": "CEconItemHandle",
+	"classname_mangled": "_ZTV15CEconItemHandle",
+	"members": [
+		{
+			"name": "CEconItemHandle::PreSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN15CEconItemHandle11PreSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CEconItemHandle::SOUpdated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN15CEconItemHandle9SOUpdatedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CEconItemHandle::PostSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN15CEconItemHandle12PostSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CEconItemHandle::SODestroyed(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN15CEconItemHandle11SODestroyedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CEconItemHandle::SOCacheSubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN15CEconItemHandle17SOCacheSubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CEconItemHandle::SOCacheUnsubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN15CEconItemHandle19SOCacheUnsubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CEconItemHandle::~CEconItemHandle()",
+			"name_mangled": "_ZN15CEconItemHandleD1Ev"
+		},
+		{
+			"name": "CEconItemHandle::~CEconItemHandle()",
+			"name_mangled": "_ZN15CEconItemHandleD0Ev"
+		}
+	]
+}

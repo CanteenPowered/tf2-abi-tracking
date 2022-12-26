@@ -1,0 +1,54 @@
+{
+	"classname": "CSOTrackerManager",
+	"classname_mangled": "_ZTV17CSOTrackerManager",
+	"members": [
+		{
+			"name": "CSOTrackerManager::PreSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager11PreSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::SOUpdated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager9SOUpdatedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::PostSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager12PostSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::SODestroyed(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager11SODestroyedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::SOCacheSubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager17SOCacheSubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::SOCacheUnsubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CSOTrackerManager19SOCacheUnsubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CSOTrackerManager::~CSOTrackerManager()",
+			"name_mangled": "_ZN17CSOTrackerManagerD2Ev"
+		},
+		{
+			"name": "CSOTrackerManager::~CSOTrackerManager()",
+			"name_mangled": "_ZN17CSOTrackerManagerD0Ev"
+		},
+		{
+			"name": "CSOTrackerManager::Initialize()",
+			"name_mangled": "_ZN17CSOTrackerManager10InitializeEv"
+		},
+		{
+			"name": "CSOTrackerManager::Shutdown()",
+			"name_mangled": "_ZN17CSOTrackerManager8ShutdownEv"
+		},
+		{
+			"name": "CSOTrackerManager::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN17CSOTrackerManager13FireGameEventEP10IGameEvent"
+		},
+		{
+			"name": "CSOTrackerManager::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN17CSOTrackerManager25FrameUpdatePreEntityThinkEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEnvQuadraticBeam>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CEnvQuadraticBeamE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEnvQuadraticBeam>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CEnvQuadraticBeamE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEnvQuadraticBeam>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CEnvQuadraticBeamE13GetEntitySizeEv"
+		}
+	]
+}

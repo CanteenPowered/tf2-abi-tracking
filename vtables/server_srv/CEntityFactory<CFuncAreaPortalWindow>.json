@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncAreaPortalWindow>",
+	"classname_mangled": "_ZTV14CEntityFactoryI21CFuncAreaPortalWindowE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncAreaPortalWindow>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI21CFuncAreaPortalWindowE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncAreaPortalWindow>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI21CFuncAreaPortalWindowE13GetEntitySizeEv"
+		}
+	]
+}

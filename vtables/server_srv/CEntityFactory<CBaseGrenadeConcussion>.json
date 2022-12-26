@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBaseGrenadeConcussion>",
+	"classname_mangled": "_ZTV14CEntityFactoryI22CBaseGrenadeConcussionE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBaseGrenadeConcussion>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI22CBaseGrenadeConcussionE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBaseGrenadeConcussion>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI22CBaseGrenadeConcussionE13GetEntitySizeEv"
+		}
+	]
+}

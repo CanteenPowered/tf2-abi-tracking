@@ -1,0 +1,22 @@
+{
+	"classname": "GCSDK::CProtoBufMsgMemoryPool<CMsgSOCacheUnsubscribed>",
+	"classname_mangled": "_ZTVN5GCSDK22CProtoBufMsgMemoryPoolI23CMsgSOCacheUnsubscribedEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgSOCacheUnsubscribed>::~CProtoBufMsgMemoryPool()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI23CMsgSOCacheUnsubscribedED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgSOCacheUnsubscribed>::GetName()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI23CMsgSOCacheUnsubscribedE7GetNameEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgSOCacheUnsubscribed>::InternalAlloc()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI23CMsgSOCacheUnsubscribedE13InternalAllocEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgSOCacheUnsubscribed>::InternalFree(google::protobuf::Message*)",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI23CMsgSOCacheUnsubscribedE12InternalFreeEPN6google8protobuf7MessageE"
+		}
+	]
+}

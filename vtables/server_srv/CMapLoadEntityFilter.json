@@ -1,0 +1,10 @@
+{
+	"classname": "CMapLoadEntityFilter",
+	"classname_mangled": "_ZTV20CMapLoadEntityFilter",
+	"members": [
+		{
+			"name": "CMapLoadEntityFilter::CreateNextEntity(char const*)",
+			"name_mangled": "_ZN20CMapLoadEntityFilter16CreateNextEntityEPKc"
+		}
+	]
+}

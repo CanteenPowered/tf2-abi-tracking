@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEnableMotionFixup>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CEnableMotionFixupE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEnableMotionFixup>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CEnableMotionFixupE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEnableMotionFixup>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CEnableMotionFixupE13GetEntitySizeEv"
+		}
+	]
+}

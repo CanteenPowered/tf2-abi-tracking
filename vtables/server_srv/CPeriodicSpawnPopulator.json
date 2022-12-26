@@ -1,0 +1,34 @@
+{
+	"classname": "CPeriodicSpawnPopulator",
+	"classname_mangled": "_ZTV23CPeriodicSpawnPopulator",
+	"members": [
+		{
+			"name": "CPeriodicSpawnPopulator::~CPeriodicSpawnPopulator()",
+			"name_mangled": "_ZN23CPeriodicSpawnPopulatorD0Ev"
+		},
+		{
+			"name": "CPeriodicSpawnPopulator::Parse(KeyValues*)",
+			"name_mangled": "_ZN23CPeriodicSpawnPopulator5ParseEP9KeyValues"
+		},
+		{
+			"name": "CPeriodicSpawnPopulator::PostInitialize()",
+			"name_mangled": "_ZN23CPeriodicSpawnPopulator14PostInitializeEv"
+		},
+		{
+			"name": "CPeriodicSpawnPopulator::Update()",
+			"name_mangled": "_ZN23CPeriodicSpawnPopulator6UpdateEv"
+		},
+		{
+			"name": "CPeriodicSpawnPopulator::UnpauseSpawning()",
+			"name_mangled": "_ZN23CPeriodicSpawnPopulator15UnpauseSpawningEv"
+		},
+		{
+			"name": "IPopulator::OnPlayerKilled(CTFPlayer*)",
+			"name_mangled": "_ZN10IPopulator14OnPlayerKilledEP9CTFPlayer"
+		},
+		{
+			"name": "IPopulator::HasEventChangeAttributes(char const*) const",
+			"name_mangled": "_ZNK10IPopulator24HasEventChangeAttributesEPKc"
+		}
+	]
+}

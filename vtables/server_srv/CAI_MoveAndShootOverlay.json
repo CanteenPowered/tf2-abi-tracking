@@ -1,0 +1,22 @@
+{
+	"classname": "CAI_MoveAndShootOverlay",
+	"classname_mangled": "_ZTV23CAI_MoveAndShootOverlay",
+	"members": [
+		{
+			"name": "CAI_MoveAndShootOverlay::~CAI_MoveAndShootOverlay()",
+			"name_mangled": "_ZN23CAI_MoveAndShootOverlayD0Ev"
+		},
+		{
+			"name": "CAI_Component::SetOuter(CAI_BaseNPC*)",
+			"name_mangled": "_ZN13CAI_Component8SetOuterEP11CAI_BaseNPC"
+		},
+		{
+			"name": "CAI_Component::TaskFail(int)",
+			"name_mangled": "_ZN13CAI_Component8TaskFailEi"
+		},
+		{
+			"name": "CAI_Component::TaskComplete(bool)",
+			"name_mangled": "_ZN13CAI_Component12TaskCompleteEb"
+		}
+	]
+}

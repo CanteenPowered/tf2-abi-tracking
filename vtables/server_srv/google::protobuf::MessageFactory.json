@@ -1,0 +1,10 @@
+{
+	"classname": "google::protobuf::MessageFactory",
+	"classname_mangled": "_ZTVN6google8protobuf14MessageFactoryE",
+	"members": [
+		{
+			"name": "google::protobuf::MessageFactory::~MessageFactory()",
+			"name_mangled": "_ZN6google8protobuf14MessageFactoryD0Ev"
+		}
+	]
+}

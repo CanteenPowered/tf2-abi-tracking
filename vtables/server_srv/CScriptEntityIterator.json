@@ -1,0 +1,10 @@
+{
+	"classname": "CScriptEntityIterator",
+	"classname_mangled": "_ZTV21CScriptEntityIterator",
+	"members": [
+		{
+			"name": "CScriptEntityIterator::GetFilterResult()",
+			"name_mangled": "_ZN21CScriptEntityIterator15GetFilterResultEv"
+		}
+	]
+}

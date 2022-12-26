@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::IMsgNetPacket",
+	"classname_mangled": "_ZTVN5GCSDK13IMsgNetPacketE",
+	"members": [
+		{
+			"name": "GCSDK::IMsgNetPacket::~IMsgNetPacket()",
+			"name_mangled": "_ZN5GCSDK13IMsgNetPacketD0Ev"
+		},
+		{
+			"name": "GCSDK::CRefCount::DestroyThis()",
+			"name_mangled": "_ZN5GCSDK9CRefCount11DestroyThisEv"
+		}
+	]
+}

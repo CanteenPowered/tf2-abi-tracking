@@ -1,0 +1,82 @@
+{
+	"classname": "CGCMsgGetIPLocation",
+	"classname_mangled": "_ZTV19CGCMsgGetIPLocation",
+	"members": [
+		{
+			"name": "CGCMsgGetIPLocation::~CGCMsgGetIPLocation()",
+			"name_mangled": "_ZN19CGCMsgGetIPLocationD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CGCMsgGetIPLocation::New() const",
+			"name_mangled": "_ZNK19CGCMsgGetIPLocation3NewEv"
+		},
+		{
+			"name": "CGCMsgGetIPLocation::Clear()",
+			"name_mangled": "_ZN19CGCMsgGetIPLocation5ClearEv"
+		},
+		{
+			"name": "CGCMsgGetIPLocation::IsInitialized() const",
+			"name_mangled": "_ZNK19CGCMsgGetIPLocation13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CGCMsgGetIPLocation::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN19CGCMsgGetIPLocation27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CGCMsgGetIPLocation::ByteSize() const",
+			"name_mangled": "_ZNK19CGCMsgGetIPLocation8ByteSizeEv"
+		},
+		{
+			"name": "CGCMsgGetIPLocation::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK19CGCMsgGetIPLocation24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CGCMsgGetIPLocation::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK19CGCMsgGetIPLocation31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CGCMsgGetIPLocation::GetCachedSize() const",
+			"name_mangled": "_ZNK19CGCMsgGetIPLocation13GetCachedSizeEv"
+		},
+		{
+			"name": "CGCMsgGetIPLocation::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN19CGCMsgGetIPLocation8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CGCMsgGetIPLocation::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN19CGCMsgGetIPLocation9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CGCMsgGetIPLocation::SetCachedSize(int) const",
+			"name_mangled": "_ZNK19CGCMsgGetIPLocation13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CGCMsgGetIPLocation::GetMetadata() const",
+			"name_mangled": "_ZNK19CGCMsgGetIPLocation11GetMetadataEv"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "CSceneFindNearestMarkFilter",
+	"classname_mangled": "_ZTV27CSceneFindNearestMarkFilter",
+	"members": [
+		{
+			"name": "CSceneFindNearestMarkFilter::GetFilterResult()",
+			"name_mangled": "_ZN27CSceneFindNearestMarkFilter15GetFilterResultEv"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"classname": "CChoreoEvent",
+	"classname_mangled": "_ZTV12CChoreoEvent",
+	"members": [
+		{
+			"name": "CChoreoEvent::~CChoreoEvent()",
+			"name_mangled": "_ZN12CChoreoEventD0Ev"
+		},
+		{
+			"name": "CChoreoEvent::GetDuration()",
+			"name_mangled": "_ZN12CChoreoEvent11GetDurationEv"
+		},
+		{
+			"name": "CChoreoEvent::CurveHasEndTime()",
+			"name_mangled": "_ZN12CChoreoEvent15CurveHasEndTimeEv"
+		},
+		{
+			"name": "CChoreoEvent::GetDefaultCurveType()",
+			"name_mangled": "_ZN12CChoreoEvent19GetDefaultCurveTypeEv"
+		}
+	]
+}

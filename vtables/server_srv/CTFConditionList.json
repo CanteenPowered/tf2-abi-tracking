@@ -1,0 +1,10 @@
+{
+	"classname": "CTFConditionList",
+	"classname_mangled": "_ZTV16CTFConditionList",
+	"members": [
+		{
+			"name": "CTFConditionList::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN16CTFConditionList19NetworkStateChangedEPv"
+		}
+	]
+}

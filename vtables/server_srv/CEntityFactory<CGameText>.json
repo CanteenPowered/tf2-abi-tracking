@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CGameText>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9CGameTextE",
+	"members": [
+		{
+			"name": "CEntityFactory<CGameText>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9CGameTextE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CGameText>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9CGameTextE13GetEntitySizeEv"
+		}
+	]
+}

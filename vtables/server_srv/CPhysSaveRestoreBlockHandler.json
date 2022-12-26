@@ -1,0 +1,66 @@
+{
+	"classname": "CPhysSaveRestoreBlockHandler",
+	"classname_mangled": "_ZTV28CPhysSaveRestoreBlockHandler",
+	"members": [
+		{
+			"name": "CPhysSaveRestoreBlockHandler::PreSave(CSaveRestoreData*)",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler7PreSaveEP16CSaveRestoreData"
+		},
+		{
+			"name": "CPhysSaveRestoreBlockHandler::Save(ISave*)",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler4SaveEP5ISave"
+		},
+		{
+			"name": "CPhysSaveRestoreBlockHandler::WriteSaveHeaders(ISave*)",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler16WriteSaveHeadersEP5ISave"
+		},
+		{
+			"name": "CPhysSaveRestoreBlockHandler::PostSave()",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler8PostSaveEv"
+		},
+		{
+			"name": "CPhysSaveRestoreBlockHandler::PreRestore()",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler10PreRestoreEv"
+		},
+		{
+			"name": "CPhysSaveRestoreBlockHandler::ReadRestoreHeaders(IRestore*)",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler18ReadRestoreHeadersEP8IRestore"
+		},
+		{
+			"name": "CPhysSaveRestoreBlockHandler::Restore(IRestore*, bool)",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler7RestoreEP8IRestoreb"
+		},
+		{
+			"name": "CPhysSaveRestoreBlockHandler::PostRestore()",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler11PostRestoreEv"
+		},
+		{
+			"name": "CPhysSaveRestoreBlockHandler::OnEntityCreated(CBaseEntity*)",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler15OnEntityCreatedEP11CBaseEntity"
+		},
+		{
+			"name": "CPhysSaveRestoreBlockHandler::OnEntityDeleted(CBaseEntity*)",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler15OnEntityDeletedEP11CBaseEntity"
+		},
+		{
+			"name": "CPhysSaveRestoreBlockHandler::NoteBBox(Vector const&, Vector const&, CPhysCollide*)",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler8NoteBBoxERK6VectorS2_P12CPhysCollide"
+		},
+		{
+			"name": "CPhysSaveRestoreBlockHandler::AssociateModel(IPhysicsObject*, int)",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler14AssociateModelEP14IPhysicsObjecti"
+		},
+		{
+			"name": "CPhysSaveRestoreBlockHandler::AssociateModel(IPhysicsObject*, CPhysCollide const*)",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler14AssociateModelEP14IPhysicsObjectPK12CPhysCollide"
+		},
+		{
+			"name": "CPhysSaveRestoreBlockHandler::ForgetModel(IPhysicsObject*)",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler11ForgetModelEP14IPhysicsObject"
+		},
+		{
+			"name": "CPhysSaveRestoreBlockHandler::ForgetAllModels()",
+			"name_mangled": "_ZN28CPhysSaveRestoreBlockHandler15ForgetAllModelsEv"
+		}
+	]
+}

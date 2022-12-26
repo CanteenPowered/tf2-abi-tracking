@@ -1,0 +1,30 @@
+{
+	"classname": "CTEProjectedDecal",
+	"classname_mangled": "_ZTV17CTEProjectedDecal",
+	"members": [
+		{
+			"name": "CTEProjectedDecal::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN17CTEProjectedDecal40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEProjectedDecal::~CTEProjectedDecal()",
+			"name_mangled": "_ZN17CTEProjectedDecalD2Ev"
+		},
+		{
+			"name": "CTEProjectedDecal::~CTEProjectedDecal()",
+			"name_mangled": "_ZN17CTEProjectedDecalD0Ev"
+		},
+		{
+			"name": "CTEProjectedDecal::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN17CTEProjectedDecal4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

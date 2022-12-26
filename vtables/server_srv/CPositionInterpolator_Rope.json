@@ -1,0 +1,22 @@
+{
+	"classname": "CPositionInterpolator_Rope",
+	"classname_mangled": "_ZTV26CPositionInterpolator_Rope",
+	"members": [
+		{
+			"name": "CPositionInterpolator_Rope::GetDetails(char**, int*, int*)",
+			"name_mangled": "_ZN26CPositionInterpolator_Rope10GetDetailsEPPcPiS2_"
+		},
+		{
+			"name": "CPositionInterpolator_Rope::SetKeyPosition(int, Vector const&)",
+			"name_mangled": "_ZN26CPositionInterpolator_Rope14SetKeyPositionEiRK6Vector"
+		},
+		{
+			"name": "CPositionInterpolator_Rope::InterpolatePosition(float, Vector&)",
+			"name_mangled": "_ZN26CPositionInterpolator_Rope19InterpolatePositionEfR6Vector"
+		},
+		{
+			"name": "CPositionInterpolator_Rope::ProcessKey(char const*, char const*)",
+			"name_mangled": "_ZN26CPositionInterpolator_Rope10ProcessKeyEPKcS1_"
+		}
+	]
+}

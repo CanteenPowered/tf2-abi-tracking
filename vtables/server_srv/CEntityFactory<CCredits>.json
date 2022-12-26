@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CCredits>",
+	"classname_mangled": "_ZTV14CEntityFactoryI8CCreditsE",
+	"members": [
+		{
+			"name": "CEntityFactory<CCredits>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI8CCreditsE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CCredits>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI8CCreditsE13GetEntitySizeEv"
+		}
+	]
+}

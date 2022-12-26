@@ -1,0 +1,246 @@
+{
+	"classname": "CHLTVClientState",
+	"classname_mangled": "_ZTV16CHLTVClientState",
+	"members": [
+		{
+			"name": "CHLTVClientState::~CHLTVClientState()",
+			"name_mangled": "_ZN16CHLTVClientStateD0Ev"
+		},
+		{
+			"name": "CBaseClientState::ConnectionStart(INetChannel*)",
+			"name_mangled": "_ZN16CBaseClientState15ConnectionStartEP11INetChannel"
+		},
+		{
+			"name": "CHLTVClientState::ConnectionClosing(char const*)",
+			"name_mangled": "_ZN16CHLTVClientState17ConnectionClosingEPKc"
+		},
+		{
+			"name": "CHLTVClientState::ConnectionCrashed(char const*)",
+			"name_mangled": "_ZN16CHLTVClientState17ConnectionCrashedEPKc"
+		},
+		{
+			"name": "CBaseClientState::PacketStart(int, int)",
+			"name_mangled": "_ZN16CBaseClientState11PacketStartEii"
+		},
+		{
+			"name": "CHLTVClientState::PacketEnd()",
+			"name_mangled": "_ZN16CHLTVClientState9PacketEndEv"
+		},
+		{
+			"name": "CBaseClientState::FileRequested(char const*, unsigned int)",
+			"name_mangled": "_ZN16CBaseClientState13FileRequestedEPKcj"
+		},
+		{
+			"name": "CBaseClientState::FileReceived(char const*, unsigned int)",
+			"name_mangled": "_ZN16CBaseClientState12FileReceivedEPKcj"
+		},
+		{
+			"name": "CBaseClientState::FileDenied(char const*, unsigned int)",
+			"name_mangled": "_ZN16CBaseClientState10FileDeniedEPKcj"
+		},
+		{
+			"name": "CBaseClientState::FileSent(char const*, unsigned int)",
+			"name_mangled": "_ZN16CBaseClientState8FileSentEPKcj"
+		},
+		{
+			"name": "CBaseClientState::ProcessConnectionlessPacket(netpacket_s*)",
+			"name_mangled": "_ZN16CBaseClientState27ProcessConnectionlessPacketEP11netpacket_s"
+		},
+		{
+			"name": "CBaseClientState::ProcessTick(NET_Tick*)",
+			"name_mangled": "_ZN16CBaseClientState11ProcessTickEP8NET_Tick"
+		},
+		{
+			"name": "CHLTVClientState::ProcessStringCmd(NET_StringCmd*)",
+			"name_mangled": "_ZN16CHLTVClientState16ProcessStringCmdEP13NET_StringCmd"
+		},
+		{
+			"name": "CHLTVClientState::ProcessSetConVar(NET_SetConVar*)",
+			"name_mangled": "_ZN16CHLTVClientState16ProcessSetConVarEP13NET_SetConVar"
+		},
+		{
+			"name": "CBaseClientState::ProcessSignonState(NET_SignonState*)",
+			"name_mangled": "_ZN16CBaseClientState18ProcessSignonStateEP15NET_SignonState"
+		},
+		{
+			"name": "CBaseClientState::ProcessPrint(SVC_Print*)",
+			"name_mangled": "_ZN16CBaseClientState12ProcessPrintEP9SVC_Print"
+		},
+		{
+			"name": "CHLTVClientState::ProcessServerInfo(SVC_ServerInfo*)",
+			"name_mangled": "_ZN16CHLTVClientState17ProcessServerInfoEP14SVC_ServerInfo"
+		},
+		{
+			"name": "CBaseClientState::ProcessSendTable(SVC_SendTable*)",
+			"name_mangled": "_ZN16CBaseClientState16ProcessSendTableEP13SVC_SendTable"
+		},
+		{
+			"name": "CHLTVClientState::ProcessClassInfo(SVC_ClassInfo*)",
+			"name_mangled": "_ZN16CHLTVClientState16ProcessClassInfoEP13SVC_ClassInfo"
+		},
+		{
+			"name": "CBaseClientState::ProcessSetPause(SVC_SetPause*)",
+			"name_mangled": "_ZN16CBaseClientState15ProcessSetPauseEP12SVC_SetPause"
+		},
+		{
+			"name": "CBaseClientState::ProcessCreateStringTable(SVC_CreateStringTable*)",
+			"name_mangled": "_ZN16CBaseClientState24ProcessCreateStringTableEP21SVC_CreateStringTable"
+		},
+		{
+			"name": "CBaseClientState::ProcessUpdateStringTable(SVC_UpdateStringTable*)",
+			"name_mangled": "_ZN16CBaseClientState24ProcessUpdateStringTableEP21SVC_UpdateStringTable"
+		},
+		{
+			"name": "CHLTVClientState::ProcessSetView(SVC_SetView*)",
+			"name_mangled": "_ZN16CHLTVClientState14ProcessSetViewEP11SVC_SetView"
+		},
+		{
+			"name": "CHLTVClientState::ProcessPacketEntities(SVC_PacketEntities*)",
+			"name_mangled": "_ZN16CHLTVClientState21ProcessPacketEntitiesEP18SVC_PacketEntities"
+		},
+		{
+			"name": "CHLTVClientState::ProcessMenu(SVC_Menu*)",
+			"name_mangled": "_ZN16CHLTVClientState11ProcessMenuEP8SVC_Menu"
+		},
+		{
+			"name": "CHLTVClientState::ProcessGameEventList(SVC_GameEventList*)",
+			"name_mangled": "_ZN16CHLTVClientState20ProcessGameEventListEP17SVC_GameEventList"
+		},
+		{
+			"name": "CBaseClientState::ProcessGetCvarValue(SVC_GetCvarValue*)",
+			"name_mangled": "_ZN16CBaseClientState19ProcessGetCvarValueEP16SVC_GetCvarValue"
+		},
+		{
+			"name": "CBaseClientState::ProcessCmdKeyValues(SVC_CmdKeyValues*)",
+			"name_mangled": "_ZN16CBaseClientState19ProcessCmdKeyValuesEP16SVC_CmdKeyValues"
+		},
+		{
+			"name": "CBaseClientState::ProcessSetPauseTimed(SVC_SetPauseTimed*)",
+			"name_mangled": "_ZN16CBaseClientState20ProcessSetPauseTimedEP17SVC_SetPauseTimed"
+		},
+		{
+			"name": "CBaseClientState::GetDemoProtocolVersion() const",
+			"name_mangled": "_ZNK16CBaseClientState22GetDemoProtocolVersionEv"
+		},
+		{
+			"name": "CHLTVClientState::Clear()",
+			"name_mangled": "_ZN16CHLTVClientState5ClearEv"
+		},
+		{
+			"name": "CBaseClientState::FullConnect(netadr_s&)",
+			"name_mangled": "_ZN16CBaseClientState11FullConnectER8netadr_s"
+		},
+		{
+			"name": "CBaseClientState::Connect(char const*, char const*)",
+			"name_mangled": "_ZN16CBaseClientState7ConnectEPKcS1_"
+		},
+		{
+			"name": "CHLTVClientState::SetSignonState(int, int)",
+			"name_mangled": "_ZN16CHLTVClientState14SetSignonStateEii"
+		},
+		{
+			"name": "CBaseClientState::Disconnect(char const*, bool)",
+			"name_mangled": "_ZN16CBaseClientState10DisconnectEPKcb"
+		},
+		{
+			"name": "CBaseClientState::SendConnectPacket(int, int, unsigned long long, bool)",
+			"name_mangled": "_ZN16CBaseClientState17SendConnectPacketEiiyb"
+		},
+		{
+			"name": "CHLTVClientState::GetCDKeyHash()",
+			"name_mangled": "_ZN16CHLTVClientState12GetCDKeyHashEv"
+		},
+		{
+			"name": "CHLTVClientState::RunFrame()",
+			"name_mangled": "_ZN16CHLTVClientState8RunFrameEv"
+		},
+		{
+			"name": "CBaseClientState::CheckForResend()",
+			"name_mangled": "_ZN16CBaseClientState14CheckForResendEv"
+		},
+		{
+			"name": "CHLTVClientState::InstallStringTableCallback(char const*)",
+			"name_mangled": "_ZN16CHLTVClientState26InstallStringTableCallbackEPKc"
+		},
+		{
+			"name": "CHLTVClientState::HookClientStringTable(char const*)",
+			"name_mangled": "_ZN16CHLTVClientState21HookClientStringTableEPKc"
+		},
+		{
+			"name": "CBaseClientState::LinkClasses()",
+			"name_mangled": "_ZN16CBaseClientState11LinkClassesEv"
+		},
+		{
+			"name": "CHLTVClientState::GetConnectionRetryNumber() const",
+			"name_mangled": "_ZNK16CHLTVClientState24GetConnectionRetryNumberEv"
+		},
+		{
+			"name": "CHLTVClientState::GetClientName()",
+			"name_mangled": "_ZN16CHLTVClientState13GetClientNameEv"
+		},
+		{
+			"name": "CHLTVClientState::ReadEnterPVS(CEntityReadInfo&)",
+			"name_mangled": "_ZN16CHLTVClientState12ReadEnterPVSER15CEntityReadInfo"
+		},
+		{
+			"name": "CHLTVClientState::ReadLeavePVS(CEntityReadInfo&)",
+			"name_mangled": "_ZN16CHLTVClientState12ReadLeavePVSER15CEntityReadInfo"
+		},
+		{
+			"name": "CHLTVClientState::ReadDeltaEnt(CEntityReadInfo&)",
+			"name_mangled": "_ZN16CHLTVClientState12ReadDeltaEntER15CEntityReadInfo"
+		},
+		{
+			"name": "CHLTVClientState::ReadPreserveEnt(CEntityReadInfo&)",
+			"name_mangled": "_ZN16CHLTVClientState15ReadPreserveEntER15CEntityReadInfo"
+		},
+		{
+			"name": "CHLTVClientState::ReadDeletions(CEntityReadInfo&)",
+			"name_mangled": "_ZN16CHLTVClientState13ReadDeletionsER15CEntityReadInfo"
+		},
+		{
+			"name": "CHLTVClientState::ProcessVoiceInit(SVC_VoiceInit*)",
+			"name_mangled": "_ZN16CHLTVClientState16ProcessVoiceInitEP13SVC_VoiceInit"
+		},
+		{
+			"name": "CHLTVClientState::ProcessVoiceData(SVC_VoiceData*)",
+			"name_mangled": "_ZN16CHLTVClientState16ProcessVoiceDataEP13SVC_VoiceData"
+		},
+		{
+			"name": "CHLTVClientState::ProcessSounds(SVC_Sounds*)",
+			"name_mangled": "_ZN16CHLTVClientState13ProcessSoundsEP10SVC_Sounds"
+		},
+		{
+			"name": "CHLTVClientState::ProcessFixAngle(SVC_FixAngle*)",
+			"name_mangled": "_ZN16CHLTVClientState15ProcessFixAngleEP12SVC_FixAngle"
+		},
+		{
+			"name": "CHLTVClientState::ProcessCrosshairAngle(SVC_CrosshairAngle*)",
+			"name_mangled": "_ZN16CHLTVClientState21ProcessCrosshairAngleEP18SVC_CrosshairAngle"
+		},
+		{
+			"name": "CHLTVClientState::ProcessBSPDecal(SVC_BSPDecal*)",
+			"name_mangled": "_ZN16CHLTVClientState15ProcessBSPDecalEP12SVC_BSPDecal"
+		},
+		{
+			"name": "CHLTVClientState::ProcessGameEvent(SVC_GameEvent*)",
+			"name_mangled": "_ZN16CHLTVClientState16ProcessGameEventEP13SVC_GameEvent"
+		},
+		{
+			"name": "CHLTVClientState::ProcessUserMessage(SVC_UserMessage*)",
+			"name_mangled": "_ZN16CHLTVClientState18ProcessUserMessageEP15SVC_UserMessage"
+		},
+		{
+			"name": "CHLTVClientState::ProcessEntityMessage(SVC_EntityMessage*)",
+			"name_mangled": "_ZN16CHLTVClientState20ProcessEntityMessageEP17SVC_EntityMessage"
+		},
+		{
+			"name": "CHLTVClientState::ProcessTempEntities(SVC_TempEntities*)",
+			"name_mangled": "_ZN16CHLTVClientState19ProcessTempEntitiesEP16SVC_TempEntities"
+		},
+		{
+			"name": "CHLTVClientState::ProcessPrefetch(SVC_Prefetch*)",
+			"name_mangled": "_ZN16CHLTVClientState15ProcessPrefetchEP12SVC_Prefetch"
+		}
+	]
+}

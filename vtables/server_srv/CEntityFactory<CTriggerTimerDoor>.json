@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTriggerTimerDoor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CTriggerTimerDoorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTriggerTimerDoor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CTriggerTimerDoorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTriggerTimerDoor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CTriggerTimerDoorE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,174 @@
+{
+	"classname": "Action<CEyeballBoss>",
+	"classname_mangled": "_ZTV6ActionI12CEyeballBossE",
+	"members": [
+		{
+			"name": "Action<CEyeballBoss>::~Action()",
+			"name_mangled": "_ZN6ActionI12CEyeballBossED0Ev"
+		},
+		{
+			"name": "Action<CEyeballBoss>::FirstContainedResponder() const",
+			"name_mangled": "_ZNK6ActionI12CEyeballBossE23FirstContainedResponderEv"
+		},
+		{
+			"name": "Action<CEyeballBoss>::NextContainedResponder(INextBotEventResponder*) const",
+			"name_mangled": "_ZNK6ActionI12CEyeballBossE22NextContainedResponderEP22INextBotEventResponder"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnLeaveGround(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE13OnLeaveGroundEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnLandOnGround(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE14OnLandOnGroundEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnContact(CBaseEntity*, CGameTrace*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE9OnContactEP11CBaseEntityP10CGameTrace"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnMoveToSuccess(Path const*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE15OnMoveToSuccessEPK4Path"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnMoveToFailure(Path const*, MoveToFailureType)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE15OnMoveToFailureEPK4Path17MoveToFailureType"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnStuck()",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE7OnStuckEv"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnUnStuck()",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE9OnUnStuckEv"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnPostureChanged()",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE16OnPostureChangedEv"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnAnimationActivityComplete(int)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE27OnAnimationActivityCompleteEi"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnAnimationActivityInterrupted(int)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE30OnAnimationActivityInterruptedEi"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnAnimationEvent(animevent_t*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE16OnAnimationEventEP11animevent_t"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnIgnite()",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE8OnIgniteEv"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnInjured(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE9OnInjuredERK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnKilled(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE8OnKilledERK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE13OnOtherKilledEP20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnSight(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE7OnSightEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnLostSight(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE11OnLostSightEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnSound(CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE7OnSoundEP11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE14OnSpokeConceptEP20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE13OnWeaponFiredEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnNavAreaChanged(CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE16OnNavAreaChangedEP8CNavAreaS3_"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnModelChanged()",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE14OnModelChangedEv"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE8OnPickUpEP11CBaseEntityP20CBaseCombatCharacter"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnDrop(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE6OnDropEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnActorEmoted(CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE13OnActorEmotedEP20CBaseCombatCharacteri"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnCommandAttack(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE15OnCommandAttackEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnCommandApproach(Vector const&, float)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE17OnCommandApproachERK6Vectorf"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnCommandApproach(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE17OnCommandApproachEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnCommandRetreat(CBaseEntity*, float)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE16OnCommandRetreatEP11CBaseEntityf"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnCommandPause(float)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE14OnCommandPauseEf"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnCommandResume()",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE15OnCommandResumeEv"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnCommandString(char const*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE15OnCommandStringEPKc"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnShoved(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE8OnShovedEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnBlinded(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE9OnBlindedEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnTerritoryContested(int)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE20OnTerritoryContestedEi"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnTerritoryCaptured(int)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE19OnTerritoryCapturedEi"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnTerritoryLost(int)",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE15OnTerritoryLostEi"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnWin()",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE5OnWinEv"
+		},
+		{
+			"name": "Action<CEyeballBoss>::OnLose()",
+			"name_mangled": "_ZN6ActionI12CEyeballBossE6OnLoseEv"
+		}
+	]
+}

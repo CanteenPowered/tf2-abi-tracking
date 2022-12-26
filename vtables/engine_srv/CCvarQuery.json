@@ -1,0 +1,26 @@
+{
+	"classname": "CCvarQuery",
+	"classname_mangled": "_ZTV10CCvarQuery",
+	"members": [
+		{
+			"name": "CBaseAppSystem<ICvarQuery>::Disconnect()",
+			"name_mangled": "_ZN14CBaseAppSystemI10ICvarQueryE10DisconnectEv"
+		},
+		{
+			"name": "CCvarQuery::QueryInterface(char const*)",
+			"name_mangled": "_ZN10CCvarQuery14QueryInterfaceEPKc"
+		},
+		{
+			"name": "CCvarQuery::Init()",
+			"name_mangled": "_ZN10CCvarQuery4InitEv"
+		},
+		{
+			"name": "CCvarQuery::Shutdown()",
+			"name_mangled": "_ZN10CCvarQuery8ShutdownEv"
+		},
+		{
+			"name": "CCvarQuery::AreConVarsLinkable(ConVar const*, ConVar const*)",
+			"name_mangled": "_ZN10CCvarQuery18AreConVarsLinkableEPK6ConVarS2_"
+		}
+	]
+}

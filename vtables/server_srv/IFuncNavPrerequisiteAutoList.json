@@ -1,0 +1,10 @@
+{
+	"classname": "IFuncNavPrerequisiteAutoList",
+	"classname_mangled": "_ZTV28IFuncNavPrerequisiteAutoList",
+	"members": [
+		{
+			"name": "IFuncNavPrerequisiteAutoList::~IFuncNavPrerequisiteAutoList()",
+			"name_mangled": "_ZN28IFuncNavPrerequisiteAutoListD0Ev"
+		}
+	]
+}

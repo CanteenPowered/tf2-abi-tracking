@@ -1,0 +1,26 @@
+{
+	"classname": "CEconTool_UpgradeCard",
+	"classname_mangled": "_ZTV21CEconTool_UpgradeCard",
+	"members": [
+		{
+			"name": "CEconTool_UpgradeCard::~CEconTool_UpgradeCard()",
+			"name_mangled": "_ZN21CEconTool_UpgradeCardD0Ev"
+		},
+		{
+			"name": "CEconTool_UpgradeCard::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const",
+			"name_mangled": "_ZNK21CEconTool_UpgradeCard10CanApplyToEPK18IEconItemInterfaceS2_"
+		},
+		{
+			"name": "IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool21ShouldDisplayQuantityEPK18IEconItemInterface"
+		},
+		{
+			"name": "IEconTool::RequiresToolEscrowPeriod() const",
+			"name_mangled": "_ZNK9IEconTool24RequiresToolEscrowPeriodEv"
+		},
+		{
+			"name": "CEconTool_UpgradeCard::BFinishInitialization()",
+			"name_mangled": "_ZN21CEconTool_UpgradeCard21BFinishInitializationEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBaseGrenadeContact>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CBaseGrenadeContactE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBaseGrenadeContact>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CBaseGrenadeContactE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBaseGrenadeContact>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CBaseGrenadeContactE13GetEntitySizeEv"
+		}
+	]
+}

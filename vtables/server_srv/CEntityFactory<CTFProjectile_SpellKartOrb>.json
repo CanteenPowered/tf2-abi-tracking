@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_SpellKartOrb>",
+	"classname_mangled": "_ZTV14CEntityFactoryI26CTFProjectile_SpellKartOrbE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_SpellKartOrb>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI26CTFProjectile_SpellKartOrbE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_SpellKartOrb>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI26CTFProjectile_SpellKartOrbE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "CSkipKeys",
+	"classname_mangled": "_ZTV9CSkipKeys",
+	"members": [
+		{
+			"name": "CSkipKeys::SetDefaults(void*)",
+			"name_mangled": "_ZN9CSkipKeys11SetDefaultsEPv"
+		}
+	]
+}

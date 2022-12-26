@@ -1,0 +1,370 @@
+{
+	"classname": "CZombieBehavior",
+	"classname_mangled": "_ZTV15CZombieBehavior",
+	"members": [
+		{
+			"name": "CZombieBehavior::~CZombieBehavior()",
+			"name_mangled": "_ZN15CZombieBehaviorD0Ev"
+		},
+		{
+			"name": "Action<CZombie>::FirstContainedResponder() const",
+			"name_mangled": "_ZNK6ActionI7CZombieE23FirstContainedResponderEv"
+		},
+		{
+			"name": "Action<CZombie>::NextContainedResponder(INextBotEventResponder*) const",
+			"name_mangled": "_ZNK6ActionI7CZombieE22NextContainedResponderEP22INextBotEventResponder"
+		},
+		{
+			"name": "Action<CZombie>::OnLeaveGround(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE13OnLeaveGroundEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnLandOnGround(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE14OnLandOnGroundEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnContact(CBaseEntity*, CGameTrace*)",
+			"name_mangled": "_ZN6ActionI7CZombieE9OnContactEP11CBaseEntityP10CGameTrace"
+		},
+		{
+			"name": "Action<CZombie>::OnMoveToSuccess(Path const*)",
+			"name_mangled": "_ZN6ActionI7CZombieE15OnMoveToSuccessEPK4Path"
+		},
+		{
+			"name": "Action<CZombie>::OnMoveToFailure(Path const*, MoveToFailureType)",
+			"name_mangled": "_ZN6ActionI7CZombieE15OnMoveToFailureEPK4Path17MoveToFailureType"
+		},
+		{
+			"name": "Action<CZombie>::OnStuck()",
+			"name_mangled": "_ZN6ActionI7CZombieE7OnStuckEv"
+		},
+		{
+			"name": "Action<CZombie>::OnUnStuck()",
+			"name_mangled": "_ZN6ActionI7CZombieE9OnUnStuckEv"
+		},
+		{
+			"name": "Action<CZombie>::OnPostureChanged()",
+			"name_mangled": "_ZN6ActionI7CZombieE16OnPostureChangedEv"
+		},
+		{
+			"name": "Action<CZombie>::OnAnimationActivityComplete(int)",
+			"name_mangled": "_ZN6ActionI7CZombieE27OnAnimationActivityCompleteEi"
+		},
+		{
+			"name": "Action<CZombie>::OnAnimationActivityInterrupted(int)",
+			"name_mangled": "_ZN6ActionI7CZombieE30OnAnimationActivityInterruptedEi"
+		},
+		{
+			"name": "Action<CZombie>::OnAnimationEvent(animevent_t*)",
+			"name_mangled": "_ZN6ActionI7CZombieE16OnAnimationEventEP11animevent_t"
+		},
+		{
+			"name": "Action<CZombie>::OnIgnite()",
+			"name_mangled": "_ZN6ActionI7CZombieE8OnIgniteEv"
+		},
+		{
+			"name": "Action<CZombie>::OnInjured(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI7CZombieE9OnInjuredERK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CZombie>::OnKilled(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI7CZombieE8OnKilledERK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CZombie>::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI7CZombieE13OnOtherKilledEP20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CZombie>::OnSight(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE7OnSightEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnLostSight(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE11OnLostSightEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnSound(CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN6ActionI7CZombieE7OnSoundEP11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "Action<CZombie>::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN6ActionI7CZombieE14OnSpokeConceptEP20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "Action<CZombie>::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN6ActionI7CZombieE13OnWeaponFiredEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "Action<CZombie>::OnNavAreaChanged(CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN6ActionI7CZombieE16OnNavAreaChangedEP8CNavAreaS3_"
+		},
+		{
+			"name": "Action<CZombie>::OnModelChanged()",
+			"name_mangled": "_ZN6ActionI7CZombieE14OnModelChangedEv"
+		},
+		{
+			"name": "Action<CZombie>::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN6ActionI7CZombieE8OnPickUpEP11CBaseEntityP20CBaseCombatCharacter"
+		},
+		{
+			"name": "Action<CZombie>::OnDrop(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE6OnDropEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnActorEmoted(CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN6ActionI7CZombieE13OnActorEmotedEP20CBaseCombatCharacteri"
+		},
+		{
+			"name": "Action<CZombie>::OnCommandAttack(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE15OnCommandAttackEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnCommandApproach(Vector const&, float)",
+			"name_mangled": "_ZN6ActionI7CZombieE17OnCommandApproachERK6Vectorf"
+		},
+		{
+			"name": "Action<CZombie>::OnCommandApproach(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE17OnCommandApproachEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnCommandRetreat(CBaseEntity*, float)",
+			"name_mangled": "_ZN6ActionI7CZombieE16OnCommandRetreatEP11CBaseEntityf"
+		},
+		{
+			"name": "Action<CZombie>::OnCommandPause(float)",
+			"name_mangled": "_ZN6ActionI7CZombieE14OnCommandPauseEf"
+		},
+		{
+			"name": "Action<CZombie>::OnCommandResume()",
+			"name_mangled": "_ZN6ActionI7CZombieE15OnCommandResumeEv"
+		},
+		{
+			"name": "Action<CZombie>::OnCommandString(char const*)",
+			"name_mangled": "_ZN6ActionI7CZombieE15OnCommandStringEPKc"
+		},
+		{
+			"name": "Action<CZombie>::OnShoved(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE8OnShovedEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnBlinded(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE9OnBlindedEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnTerritoryContested(int)",
+			"name_mangled": "_ZN6ActionI7CZombieE20OnTerritoryContestedEi"
+		},
+		{
+			"name": "Action<CZombie>::OnTerritoryCaptured(int)",
+			"name_mangled": "_ZN6ActionI7CZombieE19OnTerritoryCapturedEi"
+		},
+		{
+			"name": "Action<CZombie>::OnTerritoryLost(int)",
+			"name_mangled": "_ZN6ActionI7CZombieE15OnTerritoryLostEi"
+		},
+		{
+			"name": "Action<CZombie>::OnWin()",
+			"name_mangled": "_ZN6ActionI7CZombieE5OnWinEv"
+		},
+		{
+			"name": "Action<CZombie>::OnLose()",
+			"name_mangled": "_ZN6ActionI7CZombieE6OnLoseEv"
+		},
+		{
+			"name": "CZombieBehavior::GetName() const",
+			"name_mangled": "_ZNK15CZombieBehavior7GetNameEv"
+		},
+		{
+			"name": "Action<CZombie>::IsNamed(char const*) const",
+			"name_mangled": "_ZNK6ActionI7CZombieE7IsNamedEPKc"
+		},
+		{
+			"name": "Action<CZombie>::GetFullName() const",
+			"name_mangled": "_ZNK6ActionI7CZombieE11GetFullNameEv"
+		},
+		{
+			"name": "CZombieBehavior::OnStart(CZombie*, Action<CZombie>*)",
+			"name_mangled": "_ZN15CZombieBehavior7OnStartEP7CZombieP6ActionIS0_E"
+		},
+		{
+			"name": "CZombieBehavior::Update(CZombie*, float)",
+			"name_mangled": "_ZN15CZombieBehavior6UpdateEP7CZombief"
+		},
+		{
+			"name": "Action<CZombie>::OnEnd(CZombie*, Action<CZombie>*)",
+			"name_mangled": "_ZN6ActionI7CZombieE5OnEndEPS0_PS1_"
+		},
+		{
+			"name": "Action<CZombie>::OnSuspend(CZombie*, Action<CZombie>*)",
+			"name_mangled": "_ZN6ActionI7CZombieE9OnSuspendEPS0_PS1_"
+		},
+		{
+			"name": "Action<CZombie>::OnResume(CZombie*, Action<CZombie>*)",
+			"name_mangled": "_ZN6ActionI7CZombieE8OnResumeEPS0_PS1_"
+		},
+		{
+			"name": "CZombieBehavior::InitialContainedAction(CZombie*)",
+			"name_mangled": "_ZN15CZombieBehavior22InitialContainedActionEP7CZombie"
+		},
+		{
+			"name": "Action<CZombie>::OnLeaveGround(CZombie*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE13OnLeaveGroundEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnLandOnGround(CZombie*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE14OnLandOnGroundEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnContact(CZombie*, CBaseEntity*, CGameTrace*)",
+			"name_mangled": "_ZN6ActionI7CZombieE9OnContactEPS0_P11CBaseEntityP10CGameTrace"
+		},
+		{
+			"name": "Action<CZombie>::OnMoveToSuccess(CZombie*, Path const*)",
+			"name_mangled": "_ZN6ActionI7CZombieE15OnMoveToSuccessEPS0_PK4Path"
+		},
+		{
+			"name": "Action<CZombie>::OnMoveToFailure(CZombie*, Path const*, MoveToFailureType)",
+			"name_mangled": "_ZN6ActionI7CZombieE15OnMoveToFailureEPS0_PK4Path17MoveToFailureType"
+		},
+		{
+			"name": "Action<CZombie>::OnStuck(CZombie*)",
+			"name_mangled": "_ZN6ActionI7CZombieE7OnStuckEPS0_"
+		},
+		{
+			"name": "Action<CZombie>::OnUnStuck(CZombie*)",
+			"name_mangled": "_ZN6ActionI7CZombieE9OnUnStuckEPS0_"
+		},
+		{
+			"name": "Action<CZombie>::OnPostureChanged(CZombie*)",
+			"name_mangled": "_ZN6ActionI7CZombieE16OnPostureChangedEPS0_"
+		},
+		{
+			"name": "Action<CZombie>::OnAnimationActivityComplete(CZombie*, int)",
+			"name_mangled": "_ZN6ActionI7CZombieE27OnAnimationActivityCompleteEPS0_i"
+		},
+		{
+			"name": "Action<CZombie>::OnAnimationActivityInterrupted(CZombie*, int)",
+			"name_mangled": "_ZN6ActionI7CZombieE30OnAnimationActivityInterruptedEPS0_i"
+		},
+		{
+			"name": "Action<CZombie>::OnAnimationEvent(CZombie*, animevent_t*)",
+			"name_mangled": "_ZN6ActionI7CZombieE16OnAnimationEventEPS0_P11animevent_t"
+		},
+		{
+			"name": "Action<CZombie>::OnIgnite(CZombie*)",
+			"name_mangled": "_ZN6ActionI7CZombieE8OnIgniteEPS0_"
+		},
+		{
+			"name": "Action<CZombie>::OnInjured(CZombie*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI7CZombieE9OnInjuredEPS0_RK15CTakeDamageInfo"
+		},
+		{
+			"name": "CZombieBehavior::OnKilled(CZombie*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN15CZombieBehavior8OnKilledEP7CZombieRK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CZombie>::OnOtherKilled(CZombie*, CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI7CZombieE13OnOtherKilledEPS0_P20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CZombie>::OnSight(CZombie*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE7OnSightEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnLostSight(CZombie*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE11OnLostSightEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnSound(CZombie*, CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN6ActionI7CZombieE7OnSoundEPS0_P11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "Action<CZombie>::OnSpokeConcept(CZombie*, CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN6ActionI7CZombieE14OnSpokeConceptEPS0_P20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "Action<CZombie>::OnWeaponFired(CZombie*, CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN6ActionI7CZombieE13OnWeaponFiredEPS0_P20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "Action<CZombie>::OnNavAreaChanged(CZombie*, CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN6ActionI7CZombieE16OnNavAreaChangedEPS0_P8CNavAreaS4_"
+		},
+		{
+			"name": "Action<CZombie>::OnModelChanged(CZombie*)",
+			"name_mangled": "_ZN6ActionI7CZombieE14OnModelChangedEPS0_"
+		},
+		{
+			"name": "Action<CZombie>::OnPickUp(CZombie*, CBaseEntity*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN6ActionI7CZombieE8OnPickUpEPS0_P11CBaseEntityP20CBaseCombatCharacter"
+		},
+		{
+			"name": "Action<CZombie>::OnDrop(CZombie*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE6OnDropEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnActorEmoted(CZombie*, CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN6ActionI7CZombieE13OnActorEmotedEPS0_P20CBaseCombatCharacteri"
+		},
+		{
+			"name": "Action<CZombie>::OnCommandAttack(CZombie*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE15OnCommandAttackEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnCommandApproach(CZombie*, Vector const&, float)",
+			"name_mangled": "_ZN6ActionI7CZombieE17OnCommandApproachEPS0_RK6Vectorf"
+		},
+		{
+			"name": "Action<CZombie>::OnCommandApproach(CZombie*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE17OnCommandApproachEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnCommandRetreat(CZombie*, CBaseEntity*, float)",
+			"name_mangled": "_ZN6ActionI7CZombieE16OnCommandRetreatEPS0_P11CBaseEntityf"
+		},
+		{
+			"name": "Action<CZombie>::OnCommandPause(CZombie*, float)",
+			"name_mangled": "_ZN6ActionI7CZombieE14OnCommandPauseEPS0_f"
+		},
+		{
+			"name": "Action<CZombie>::OnCommandResume(CZombie*)",
+			"name_mangled": "_ZN6ActionI7CZombieE15OnCommandResumeEPS0_"
+		},
+		{
+			"name": "Action<CZombie>::OnCommandString(CZombie*, char const*)",
+			"name_mangled": "_ZN6ActionI7CZombieE15OnCommandStringEPS0_PKc"
+		},
+		{
+			"name": "Action<CZombie>::OnShoved(CZombie*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE8OnShovedEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnBlinded(CZombie*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI7CZombieE9OnBlindedEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CZombie>::OnTerritoryContested(CZombie*, int)",
+			"name_mangled": "_ZN6ActionI7CZombieE20OnTerritoryContestedEPS0_i"
+		},
+		{
+			"name": "Action<CZombie>::OnTerritoryCaptured(CZombie*, int)",
+			"name_mangled": "_ZN6ActionI7CZombieE19OnTerritoryCapturedEPS0_i"
+		},
+		{
+			"name": "Action<CZombie>::OnTerritoryLost(CZombie*, int)",
+			"name_mangled": "_ZN6ActionI7CZombieE15OnTerritoryLostEPS0_i"
+		},
+		{
+			"name": "Action<CZombie>::OnWin(CZombie*)",
+			"name_mangled": "_ZN6ActionI7CZombieE5OnWinEPS0_"
+		},
+		{
+			"name": "Action<CZombie>::OnLose(CZombie*)",
+			"name_mangled": "_ZN6ActionI7CZombieE6OnLoseEPS0_"
+		},
+		{
+			"name": "Action<CZombie>::IsAbleToBlockMovementOf(INextBot const*) const",
+			"name_mangled": "_ZNK6ActionI7CZombieE23IsAbleToBlockMovementOfEPK8INextBot"
+		}
+	]
+}

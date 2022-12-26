@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFSpellBook>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CTFSpellBookE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFSpellBook>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CTFSpellBookE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFSpellBook>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CTFSpellBookE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"classname": "CScriptEventTableWriter",
+	"classname_mangled": "_ZTV23CScriptEventTableWriter",
+	"members": [
+		{
+			"name": "CScriptEventTableWriter::VisitString(char const*, char const*)",
+			"name_mangled": "_ZN23CScriptEventTableWriter11VisitStringEPKcS1_"
+		},
+		{
+			"name": "CScriptEventTableWriter::VisitFloat(char const*, float)",
+			"name_mangled": "_ZN23CScriptEventTableWriter10VisitFloatEPKcf"
+		},
+		{
+			"name": "CScriptEventTableWriter::VisitInt(char const*, int)",
+			"name_mangled": "_ZN23CScriptEventTableWriter8VisitIntEPKci"
+		},
+		{
+			"name": "IGameEventVisitor2::VisitUint64(char const*, unsigned long long)",
+			"name_mangled": "_ZN18IGameEventVisitor211VisitUint64EPKcy"
+		},
+		{
+			"name": "IGameEventVisitor2::VisitWString(char const*, wchar_t const*)",
+			"name_mangled": "_ZN18IGameEventVisitor212VisitWStringEPKcPKw"
+		},
+		{
+			"name": "CScriptEventTableWriter::VisitBool(char const*, bool)",
+			"name_mangled": "_ZN23CScriptEventTableWriter9VisitBoolEPKcb"
+		}
+	]
+}

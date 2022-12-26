@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CMultiSource>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CMultiSourceE",
+	"members": [
+		{
+			"name": "CEntityFactory<CMultiSource>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CMultiSourceE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CMultiSource>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CMultiSourceE13GetEntitySizeEv"
+		}
+	]
+}

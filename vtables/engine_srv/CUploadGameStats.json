@@ -1,0 +1,30 @@
+{
+	"classname": "CUploadGameStats",
+	"classname_mangled": "_ZTV16CUploadGameStats",
+	"members": [
+		{
+			"name": "CUploadGameStats::InitConnection()",
+			"name_mangled": "_ZN16CUploadGameStats14InitConnectionEv"
+		},
+		{
+			"name": "CUploadGameStats::UpdateConnection()",
+			"name_mangled": "_ZN16CUploadGameStats16UpdateConnectionEv"
+		},
+		{
+			"name": "CUploadGameStats::IsGameStatsLoggingEnabled()",
+			"name_mangled": "_ZN16CUploadGameStats25IsGameStatsLoggingEnabledEv"
+		},
+		{
+			"name": "CUploadGameStats::GetPseudoUniqueId(char*, unsigned int)",
+			"name_mangled": "_ZN16CUploadGameStats17GetPseudoUniqueIdEPcj"
+		},
+		{
+			"name": "CUploadGameStats::IsCyberCafeUser()",
+			"name_mangled": "_ZN16CUploadGameStats15IsCyberCafeUserEv"
+		},
+		{
+			"name": "CUploadGameStats::IsHDREnabled()",
+			"name_mangled": "_ZN16CUploadGameStats12IsHDREnabledEv"
+		}
+	]
+}

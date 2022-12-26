@@ -1,0 +1,10 @@
+{
+	"classname": "IMerasmusAutoList",
+	"classname_mangled": "_ZTV17IMerasmusAutoList",
+	"members": [
+		{
+			"name": "IMerasmusAutoList::~IMerasmusAutoList()",
+			"name_mangled": "_ZN17IMerasmusAutoListD0Ev"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPointVelocitySensor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CPointVelocitySensorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPointVelocitySensor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CPointVelocitySensorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPointVelocitySensor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CPointVelocitySensorE13GetEntitySizeEv"
+		}
+	]
+}

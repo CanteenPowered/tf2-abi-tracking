@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAI_LeadGoal_Weapon>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CAI_LeadGoal_WeaponE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAI_LeadGoal_Weapon>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CAI_LeadGoal_WeaponE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAI_LeadGoal_Weapon>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CAI_LeadGoal_WeaponE13GetEntitySizeEv"
+		}
+	]
+}

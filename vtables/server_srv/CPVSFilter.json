@@ -1,0 +1,26 @@
+{
+	"classname": "CPVSFilter",
+	"classname_mangled": "_ZTV10CPVSFilter",
+	"members": [
+		{
+			"name": "CPVSFilter::~CPVSFilter()",
+			"name_mangled": "_ZN10CPVSFilterD0Ev"
+		},
+		{
+			"name": "CRecipientFilter::IsReliable() const",
+			"name_mangled": "_ZNK16CRecipientFilter10IsReliableEv"
+		},
+		{
+			"name": "CRecipientFilter::IsInitMessage() const",
+			"name_mangled": "_ZNK16CRecipientFilter13IsInitMessageEv"
+		},
+		{
+			"name": "CRecipientFilter::GetRecipientCount() const",
+			"name_mangled": "_ZNK16CRecipientFilter17GetRecipientCountEv"
+		},
+		{
+			"name": "CRecipientFilter::GetRecipientIndex(int) const",
+			"name_mangled": "_ZNK16CRecipientFilter17GetRecipientIndexEi"
+		}
+	]
+}

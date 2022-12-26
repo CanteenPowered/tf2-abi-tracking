@@ -1,0 +1,38 @@
+{
+	"classname": "CCommentary_SaveRestoreBlockHandler",
+	"classname_mangled": "_ZTV35CCommentary_SaveRestoreBlockHandler",
+	"members": [
+		{
+			"name": "CDefSaveRestoreBlockHandler::PreSave(CSaveRestoreData*)",
+			"name_mangled": "_ZN27CDefSaveRestoreBlockHandler7PreSaveEP16CSaveRestoreData"
+		},
+		{
+			"name": "CCommentary_SaveRestoreBlockHandler::Save(ISave*)",
+			"name_mangled": "_ZN35CCommentary_SaveRestoreBlockHandler4SaveEP5ISave"
+		},
+		{
+			"name": "CCommentary_SaveRestoreBlockHandler::WriteSaveHeaders(ISave*)",
+			"name_mangled": "_ZN35CCommentary_SaveRestoreBlockHandler16WriteSaveHeadersEP5ISave"
+		},
+		{
+			"name": "CDefSaveRestoreBlockHandler::PostSave()",
+			"name_mangled": "_ZN27CDefSaveRestoreBlockHandler8PostSaveEv"
+		},
+		{
+			"name": "CDefSaveRestoreBlockHandler::PreRestore()",
+			"name_mangled": "_ZN27CDefSaveRestoreBlockHandler10PreRestoreEv"
+		},
+		{
+			"name": "CCommentary_SaveRestoreBlockHandler::ReadRestoreHeaders(IRestore*)",
+			"name_mangled": "_ZN35CCommentary_SaveRestoreBlockHandler18ReadRestoreHeadersEP8IRestore"
+		},
+		{
+			"name": "CCommentary_SaveRestoreBlockHandler::Restore(IRestore*, bool)",
+			"name_mangled": "_ZN35CCommentary_SaveRestoreBlockHandler7RestoreEP8IRestoreb"
+		},
+		{
+			"name": "CDefSaveRestoreBlockHandler::PostRestore()",
+			"name_mangled": "_ZN27CDefSaveRestoreBlockHandler11PostRestoreEv"
+		}
+	]
+}

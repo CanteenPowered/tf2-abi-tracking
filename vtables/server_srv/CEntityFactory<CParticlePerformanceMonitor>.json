@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CParticlePerformanceMonitor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI27CParticlePerformanceMonitorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CParticlePerformanceMonitor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI27CParticlePerformanceMonitorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CParticlePerformanceMonitor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI27CParticlePerformanceMonitorE13GetEntitySizeEv"
+		}
+	]
+}

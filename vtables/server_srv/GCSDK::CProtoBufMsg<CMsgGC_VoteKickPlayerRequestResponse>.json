@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgGC_VoteKickPlayerRequestResponse>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI36CMsgGC_VoteKickPlayerRequestResponseEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGC_VoteKickPlayerRequestResponse>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI36CMsgGC_VoteKickPlayerRequestResponseED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGC_VoteKickPlayerRequestResponse>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI36CMsgGC_VoteKickPlayerRequestResponseE14GetGenericBodyEv"
+		}
+	]
+}

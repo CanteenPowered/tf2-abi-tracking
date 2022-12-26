@@ -1,0 +1,14 @@
+{
+	"classname": "SQRefCounted",
+	"classname_mangled": "_ZTV12SQRefCounted",
+	"members": [
+		{
+			"name": "SQRefCounted::~SQRefCounted()",
+			"name_mangled": "_ZN12SQRefCountedD0Ev"
+		},
+		{
+			"name": "SQRefCounted::Iterate(CSQStateIterator*)",
+			"name_mangled": "_ZN12SQRefCounted7IterateEP16CSQStateIterator"
+		}
+	]
+}

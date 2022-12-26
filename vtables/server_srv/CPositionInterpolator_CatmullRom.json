@@ -1,0 +1,22 @@
+{
+	"classname": "CPositionInterpolator_CatmullRom",
+	"classname_mangled": "_ZTV32CPositionInterpolator_CatmullRom",
+	"members": [
+		{
+			"name": "CPositionInterpolator_CatmullRom::GetDetails(char**, int*, int*)",
+			"name_mangled": "_ZN32CPositionInterpolator_CatmullRom10GetDetailsEPPcPiS2_"
+		},
+		{
+			"name": "CPositionInterpolator_CatmullRom::SetKeyPosition(int, Vector const&)",
+			"name_mangled": "_ZN32CPositionInterpolator_CatmullRom14SetKeyPositionEiRK6Vector"
+		},
+		{
+			"name": "CPositionInterpolator_CatmullRom::InterpolatePosition(float, Vector&)",
+			"name_mangled": "_ZN32CPositionInterpolator_CatmullRom19InterpolatePositionEfR6Vector"
+		},
+		{
+			"name": "CPositionInterpolator_CatmullRom::ProcessKey(char const*, char const*)",
+			"name_mangled": "_ZN32CPositionInterpolator_CatmullRom10ProcessKeyEPKcS1_"
+		}
+	]
+}

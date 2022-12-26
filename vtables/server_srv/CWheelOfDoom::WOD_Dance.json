@@ -1,0 +1,18 @@
+{
+	"classname": "CWheelOfDoom::WOD_Dance",
+	"classname_mangled": "_ZTVN12CWheelOfDoom9WOD_DanceE",
+	"members": [
+		{
+			"name": "CWheelOfDoom::WOD_BaseEffect::ActivateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom14WOD_BaseEffect14ActivateEffectERNS_12EffectData_tE"
+		},
+		{
+			"name": "CWheelOfDoom::WOD_Dance::UpdateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom9WOD_Dance12UpdateEffectERNS_12EffectData_tE"
+		},
+		{
+			"name": "CWheelOfDoom::WOD_Dance::DeactivateEffect(CWheelOfDoom::EffectData_t&)",
+			"name_mangled": "_ZN12CWheelOfDoom9WOD_Dance16DeactivateEffectERNS_12EffectData_tE"
+		}
+	]
+}

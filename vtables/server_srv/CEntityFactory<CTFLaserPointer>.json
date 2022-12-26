@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFLaserPointer>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CTFLaserPointerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFLaserPointer>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CTFLaserPointerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFLaserPointer>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CTFLaserPointerE13GetEntitySizeEv"
+		}
+	]
+}

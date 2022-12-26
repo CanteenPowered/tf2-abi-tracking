@@ -1,0 +1,94 @@
+{
+	"classname": "CGCClientSystem",
+	"classname_mangled": "_ZTV15CGCClientSystem",
+	"members": [
+		{
+			"name": "CBaseGameSystemPerFrame::Init()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame4InitEv"
+		},
+		{
+			"name": "CGCClientSystem::PostInit()",
+			"name_mangled": "_ZN15CGCClientSystem8PostInitEv"
+		},
+		{
+			"name": "CGCClientSystem::Shutdown()",
+			"name_mangled": "_ZN15CGCClientSystem8ShutdownEv"
+		},
+		{
+			"name": "CGCClientSystem::LevelInitPreEntity()",
+			"name_mangled": "_ZN15CGCClientSystem18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CGCClientSystem::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN15CGCClientSystem23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnSave()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnRestore()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::IsPerFrame()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame10IsPerFrameEv"
+		},
+		{
+			"name": "CGCClientSystem::~CGCClientSystem()",
+			"name_mangled": "_ZN15CGCClientSystemD1Ev"
+		},
+		{
+			"name": "CGCClientSystem::~CGCClientSystem()",
+			"name_mangled": "_ZN15CGCClientSystemD0Ev"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CGCClientSystem::PreClientUpdate()",
+			"name_mangled": "_ZN15CGCClientSystem15PreClientUpdateEv"
+		},
+		{
+			"name": "CGCClientSystem::InitGC()",
+			"name_mangled": "_ZN15CGCClientSystem6InitGCEv"
+		},
+		{
+			"name": "CGCClientSystem::PreInitGC()",
+			"name_mangled": "_ZN15CGCClientSystem9PreInitGCEv"
+		},
+		{
+			"name": "CGCClientSystem::PostInitGC()",
+			"name_mangled": "_ZN15CGCClientSystem10PostInitGCEv"
+		},
+		{
+			"name": "CGCClientSystem::ReceivedServerWelcome(CMsgServerWelcome const&)",
+			"name_mangled": "_ZN15CGCClientSystem21ReceivedServerWelcomeERK17CMsgServerWelcome"
+		},
+		{
+			"name": "CGCClientSystem::ReceivedServerGoodbye(CMsgServerGoodbye const&)",
+			"name_mangled": "_ZN15CGCClientSystem21ReceivedServerGoodbyeERK17CMsgServerGoodbye"
+		}
+	]
+}

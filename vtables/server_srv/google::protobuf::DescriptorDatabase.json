@@ -1,0 +1,10 @@
+{
+	"classname": "google::protobuf::DescriptorDatabase",
+	"classname_mangled": "_ZTVN6google8protobuf18DescriptorDatabaseE",
+	"members": [
+		{
+			"name": "google::protobuf::DescriptorDatabase::~DescriptorDatabase()",
+			"name_mangled": "_ZN6google8protobuf18DescriptorDatabaseD0Ev"
+		}
+	]
+}

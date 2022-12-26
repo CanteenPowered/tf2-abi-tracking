@@ -1,0 +1,14 @@
+{
+	"classname": "CRConServer",
+	"classname_mangled": "_ZTV11CRConServer",
+	"members": [
+		{
+			"name": "CRConServer::OnSocketAccepted(int, netadr_s const&, void**)",
+			"name_mangled": "_ZN11CRConServer16OnSocketAcceptedEiRK8netadr_sPPv"
+		},
+		{
+			"name": "CRConServer::OnSocketClosed(int, netadr_s const&, void*)",
+			"name_mangled": "_ZN11CRConServer14OnSocketClosedEiRK8netadr_sPv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CWaterBullet>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CWaterBulletE",
+	"members": [
+		{
+			"name": "CEntityFactory<CWaterBullet>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CWaterBulletE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CWaterBullet>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CWaterBulletE13GetEntitySizeEv"
+		}
+	]
+}

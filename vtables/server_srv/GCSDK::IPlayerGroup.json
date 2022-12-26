@@ -1,0 +1,10 @@
+{
+	"classname": "GCSDK::IPlayerGroup",
+	"classname_mangled": "_ZTVN5GCSDK12IPlayerGroupE",
+	"members": [
+		{
+			"name": "GCSDK::IPlayerGroup::~IPlayerGroup()",
+			"name_mangled": "_ZN5GCSDK12IPlayerGroupD0Ev"
+		}
+	]
+}

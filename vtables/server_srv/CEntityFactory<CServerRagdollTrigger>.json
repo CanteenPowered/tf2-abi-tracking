@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CServerRagdollTrigger>",
+	"classname_mangled": "_ZTV14CEntityFactoryI21CServerRagdollTriggerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CServerRagdollTrigger>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI21CServerRagdollTriggerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CServerRagdollTrigger>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI21CServerRagdollTriggerE13GetEntitySizeEv"
+		}
+	]
+}

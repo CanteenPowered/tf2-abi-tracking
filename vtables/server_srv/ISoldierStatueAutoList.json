@@ -1,0 +1,10 @@
+{
+	"classname": "ISoldierStatueAutoList",
+	"classname_mangled": "_ZTV22ISoldierStatueAutoList",
+	"members": [
+		{
+			"name": "ISoldierStatueAutoList::~ISoldierStatueAutoList()",
+			"name_mangled": "_ZN22ISoldierStatueAutoListD0Ev"
+		}
+	]
+}

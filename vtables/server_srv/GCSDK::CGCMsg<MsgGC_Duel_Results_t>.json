@@ -1,0 +1,10 @@
+{
+	"classname": "GCSDK::CGCMsg<MsgGC_Duel_Results_t>",
+	"classname_mangled": "_ZTVN5GCSDK6CGCMsgI20MsgGC_Duel_Results_tEE",
+	"members": [
+		{
+			"name": "GCSDK::CGCMsg<MsgGC_Duel_Results_t>::~CGCMsg()",
+			"name_mangled": "_ZN5GCSDK6CGCMsgI20MsgGC_Duel_Results_tED0Ev"
+		}
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"classname": "CTFInventoryManager",
+	"classname_mangled": "_ZTV19CTFInventoryManager",
+	"members": [
+		{
+			"name": "CInventoryManager::Init()",
+			"name_mangled": "_ZN17CInventoryManager4InitEv"
+		},
+		{
+			"name": "CTFInventoryManager::PostInit()",
+			"name_mangled": "_ZN19CTFInventoryManager8PostInitEv"
+		},
+		{
+			"name": "CInventoryManager::Shutdown()",
+			"name_mangled": "_ZN17CInventoryManager8ShutdownEv"
+		},
+		{
+			"name": "CInventoryManager::LevelInitPreEntity()",
+			"name_mangled": "_ZN17CInventoryManager18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CInventoryManager::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN17CInventoryManager23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnSave()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnRestore()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::IsPerFrame()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame10IsPerFrameEv"
+		},
+		{
+			"name": "CTFInventoryManager::~CTFInventoryManager()",
+			"name_mangled": "_ZN19CTFInventoryManagerD1Ev"
+		},
+		{
+			"name": "CTFInventoryManager::~CTFInventoryManager()",
+			"name_mangled": "_ZN19CTFInventoryManagerD0Ev"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::PreClientUpdate()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame15PreClientUpdateEv"
+		},
+		{
+			"name": "CInventoryManager::GetInventoryForAccount(unsigned int)",
+			"name_mangled": "_ZN17CInventoryManager22GetInventoryForAccountEj"
+		},
+		{
+			"name": "CTFInventoryManager::AddBaseItemCriteria(baseitemcriteria_t*, CItemSelectionCriteria*)",
+			"name_mangled": "_ZN19CTFInventoryManager19AddBaseItemCriteriaEP18baseitemcriteria_tP22CItemSelectionCriteria"
+		},
+		{
+			"name": "CInventoryManager::GetBackpackPositionFromBackend(unsigned int)",
+			"name_mangled": "_ZN17CInventoryManager30GetBackpackPositionFromBackendEj"
+		}
+	]
+}

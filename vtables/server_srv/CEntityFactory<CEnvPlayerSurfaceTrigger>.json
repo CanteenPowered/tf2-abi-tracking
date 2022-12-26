@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEnvPlayerSurfaceTrigger>",
+	"classname_mangled": "_ZTV14CEntityFactoryI24CEnvPlayerSurfaceTriggerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEnvPlayerSurfaceTrigger>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI24CEnvPlayerSurfaceTriggerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEnvPlayerSurfaceTrigger>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI24CEnvPlayerSurfaceTriggerE13GetEntitySizeEv"
+		}
+	]
+}

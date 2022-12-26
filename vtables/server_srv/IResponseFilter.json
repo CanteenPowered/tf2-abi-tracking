@@ -1,0 +1,10 @@
+{
+	"classname": "IResponseFilter",
+	"classname_mangled": "_ZTV15IResponseFilter",
+	"members": [
+		{
+			"name": "IResponseFilter::~IResponseFilter()",
+			"name_mangled": "_ZN15IResponseFilterD0Ev"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CNPC_VehicleDriver>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CNPC_VehicleDriverE",
+	"members": [
+		{
+			"name": "CEntityFactory<CNPC_VehicleDriver>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CNPC_VehicleDriverE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CNPC_VehicleDriver>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CNPC_VehicleDriverE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CSimThinkManager",
+	"classname_mangled": "_ZTV16CSimThinkManager",
+	"members": [
+		{
+			"name": "IEntityListener::OnEntitySpawned(CBaseEntity*)",
+			"name_mangled": "_ZN15IEntityListener15OnEntitySpawnedEP11CBaseEntity"
+		},
+		{
+			"name": "CSimThinkManager::OnEntityDeleted(CBaseEntity*)",
+			"name_mangled": "_ZN16CSimThinkManager15OnEntityDeletedEP11CBaseEntity"
+		}
+	]
+}

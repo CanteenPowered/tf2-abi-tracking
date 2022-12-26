@@ -1,0 +1,10 @@
+{
+	"classname": "IGameMovement",
+	"classname_mangled": "_ZTV13IGameMovement",
+	"members": [
+		{
+			"name": "IGameMovement::~IGameMovement()",
+			"name_mangled": "_ZN13IGameMovementD0Ev"
+		}
+	]
+}

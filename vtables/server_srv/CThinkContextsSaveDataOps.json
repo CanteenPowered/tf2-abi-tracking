@@ -1,0 +1,22 @@
+{
+	"classname": "CThinkContextsSaveDataOps",
+	"classname_mangled": "_ZTV25CThinkContextsSaveDataOps",
+	"members": [
+		{
+			"name": "CThinkContextsSaveDataOps::Restore(SaveRestoreFieldInfo_t const&, IRestore*)",
+			"name_mangled": "_ZN25CThinkContextsSaveDataOps7RestoreERK22SaveRestoreFieldInfo_tP8IRestore"
+		},
+		{
+			"name": "CThinkContextsSaveDataOps::IsEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN25CThinkContextsSaveDataOps7IsEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CThinkContextsSaveDataOps::MakeEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN25CThinkContextsSaveDataOps9MakeEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)",
+			"name_mangled": "_ZN18CDefSaveRestoreOps5ParseERK22SaveRestoreFieldInfo_tPKc"
+		}
+	]
+}

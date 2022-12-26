@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPopulatorInternalSpawnPoint>",
+	"classname_mangled": "_ZTV14CEntityFactoryI28CPopulatorInternalSpawnPointE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPopulatorInternalSpawnPoint>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI28CPopulatorInternalSpawnPointE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPopulatorInternalSpawnPoint>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI28CPopulatorInternalSpawnPointE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"classname": "CEconTool_ClassTransmogrifier",
+	"classname_mangled": "_ZTV29CEconTool_ClassTransmogrifier",
+	"members": [
+		{
+			"name": "CEconTool_ClassTransmogrifier::~CEconTool_ClassTransmogrifier()",
+			"name_mangled": "_ZN29CEconTool_ClassTransmogrifierD0Ev"
+		},
+		{
+			"name": "CEconTool_ClassTransmogrifier::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const",
+			"name_mangled": "_ZNK29CEconTool_ClassTransmogrifier10CanApplyToEPK18IEconItemInterfaceS2_"
+		},
+		{
+			"name": "IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool21ShouldDisplayQuantityEPK18IEconItemInterface"
+		},
+		{
+			"name": "IEconTool::RequiresToolEscrowPeriod() const",
+			"name_mangled": "_ZNK9IEconTool24RequiresToolEscrowPeriodEv"
+		},
+		{
+			"name": "CEconTool_ClassTransmogrifier::BFinishInitialization()",
+			"name_mangled": "_ZN29CEconTool_ClassTransmogrifier21BFinishInitializationEv"
+		}
+	]
+}

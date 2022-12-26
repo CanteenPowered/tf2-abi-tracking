@@ -1,0 +1,22 @@
+{
+	"classname": "CAI_SentenceBase",
+	"classname_mangled": "_ZTV16CAI_SentenceBase",
+	"members": [
+		{
+			"name": "CAI_SentenceBase::~CAI_SentenceBase()",
+			"name_mangled": "_ZN16CAI_SentenceBaseD0Ev"
+		},
+		{
+			"name": "CAI_Component::SetOuter(CAI_BaseNPC*)",
+			"name_mangled": "_ZN13CAI_Component8SetOuterEP11CAI_BaseNPC"
+		},
+		{
+			"name": "CAI_Component::TaskFail(int)",
+			"name_mangled": "_ZN13CAI_Component8TaskFailEi"
+		},
+		{
+			"name": "CAI_Component::TaskComplete(bool)",
+			"name_mangled": "_ZN13CAI_Component12TaskCompleteEb"
+		}
+	]
+}

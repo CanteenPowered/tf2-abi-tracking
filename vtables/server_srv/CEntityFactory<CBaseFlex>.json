@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBaseFlex>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9CBaseFlexE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBaseFlex>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9CBaseFlexE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBaseFlex>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9CBaseFlexE13GetEntitySizeEv"
+		}
+	]
+}

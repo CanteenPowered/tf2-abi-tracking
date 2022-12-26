@@ -1,0 +1,10 @@
+{
+	"classname": "GCSDK::CGCMsg<MsgGCVerifyCacheSubscription_t>",
+	"classname_mangled": "_ZTVN5GCSDK6CGCMsgI30MsgGCVerifyCacheSubscription_tEE",
+	"members": [
+		{
+			"name": "GCSDK::CGCMsg<MsgGCVerifyCacheSubscription_t>::~CGCMsg()",
+			"name_mangled": "_ZN5GCSDK6CGCMsgI30MsgGCVerifyCacheSubscription_tED0Ev"
+		}
+	]
+}

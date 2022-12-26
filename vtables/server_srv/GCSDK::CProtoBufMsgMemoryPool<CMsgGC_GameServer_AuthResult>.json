@@ -1,0 +1,22 @@
+{
+	"classname": "GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_AuthResult>",
+	"classname_mangled": "_ZTVN5GCSDK22CProtoBufMsgMemoryPoolI28CMsgGC_GameServer_AuthResultEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_AuthResult>::~CProtoBufMsgMemoryPool()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI28CMsgGC_GameServer_AuthResultED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_AuthResult>::GetName()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI28CMsgGC_GameServer_AuthResultE7GetNameEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_AuthResult>::InternalAlloc()",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI28CMsgGC_GameServer_AuthResultE13InternalAllocEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPool<CMsgGC_GameServer_AuthResult>::InternalFree(google::protobuf::Message*)",
+			"name_mangled": "_ZN5GCSDK22CProtoBufMsgMemoryPoolI28CMsgGC_GameServer_AuthResultE12InternalFreeEPN6google8protobuf7MessageE"
+		}
+	]
+}

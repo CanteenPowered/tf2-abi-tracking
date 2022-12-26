@@ -1,0 +1,14 @@
+{
+	"classname": "google::protobuf::(anonymous namespace)::GeneratedMessageFactory",
+	"classname_mangled": "_ZTVN6google8protobuf12_GLOBAL__N_123GeneratedMessageFactoryE",
+	"members": [
+		{
+			"name": "google::protobuf::(anonymous namespace)::GeneratedMessageFactory::~GeneratedMessageFactory()",
+			"name_mangled": "_ZN6google8protobuf12_GLOBAL__N_123GeneratedMessageFactoryD0Ev"
+		},
+		{
+			"name": "google::protobuf::(anonymous namespace)::GeneratedMessageFactory::GetPrototype(google::protobuf::Descriptor const*)",
+			"name_mangled": "_ZN6google8protobuf12_GLOBAL__N_123GeneratedMessageFactory12GetPrototypeEPKNS0_10DescriptorE"
+		}
+	]
+}

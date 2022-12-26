@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgGCHAccountTradeBanStatusChange",
+	"classname_mangled": "_ZTV34CMsgGCHAccountTradeBanStatusChange",
+	"members": [
+		{
+			"name": "CMsgGCHAccountTradeBanStatusChange::~CMsgGCHAccountTradeBanStatusChange()",
+			"name_mangled": "_ZN34CMsgGCHAccountTradeBanStatusChangeD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgGCHAccountTradeBanStatusChange::New() const",
+			"name_mangled": "_ZNK34CMsgGCHAccountTradeBanStatusChange3NewEv"
+		},
+		{
+			"name": "CMsgGCHAccountTradeBanStatusChange::Clear()",
+			"name_mangled": "_ZN34CMsgGCHAccountTradeBanStatusChange5ClearEv"
+		},
+		{
+			"name": "CMsgGCHAccountTradeBanStatusChange::IsInitialized() const",
+			"name_mangled": "_ZNK34CMsgGCHAccountTradeBanStatusChange13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgGCHAccountTradeBanStatusChange::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN34CMsgGCHAccountTradeBanStatusChange27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgGCHAccountTradeBanStatusChange::ByteSize() const",
+			"name_mangled": "_ZNK34CMsgGCHAccountTradeBanStatusChange8ByteSizeEv"
+		},
+		{
+			"name": "CMsgGCHAccountTradeBanStatusChange::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK34CMsgGCHAccountTradeBanStatusChange24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgGCHAccountTradeBanStatusChange::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK34CMsgGCHAccountTradeBanStatusChange31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgGCHAccountTradeBanStatusChange::GetCachedSize() const",
+			"name_mangled": "_ZNK34CMsgGCHAccountTradeBanStatusChange13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgGCHAccountTradeBanStatusChange::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN34CMsgGCHAccountTradeBanStatusChange8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgGCHAccountTradeBanStatusChange::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN34CMsgGCHAccountTradeBanStatusChange9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgGCHAccountTradeBanStatusChange::SetCachedSize(int) const",
+			"name_mangled": "_ZNK34CMsgGCHAccountTradeBanStatusChange13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgGCHAccountTradeBanStatusChange::GetMetadata() const",
+			"name_mangled": "_ZNK34CMsgGCHAccountTradeBanStatusChange11GetMetadataEv"
+		}
+	]
+}

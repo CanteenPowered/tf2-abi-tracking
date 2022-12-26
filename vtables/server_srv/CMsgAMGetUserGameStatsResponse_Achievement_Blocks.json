@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgAMGetUserGameStatsResponse_Achievement_Blocks",
+	"classname_mangled": "_ZTV49CMsgAMGetUserGameStatsResponse_Achievement_Blocks",
+	"members": [
+		{
+			"name": "CMsgAMGetUserGameStatsResponse_Achievement_Blocks::~CMsgAMGetUserGameStatsResponse_Achievement_Blocks()",
+			"name_mangled": "_ZN49CMsgAMGetUserGameStatsResponse_Achievement_BlocksD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgAMGetUserGameStatsResponse_Achievement_Blocks::New() const",
+			"name_mangled": "_ZNK49CMsgAMGetUserGameStatsResponse_Achievement_Blocks3NewEv"
+		},
+		{
+			"name": "CMsgAMGetUserGameStatsResponse_Achievement_Blocks::Clear()",
+			"name_mangled": "_ZN49CMsgAMGetUserGameStatsResponse_Achievement_Blocks5ClearEv"
+		},
+		{
+			"name": "CMsgAMGetUserGameStatsResponse_Achievement_Blocks::IsInitialized() const",
+			"name_mangled": "_ZNK49CMsgAMGetUserGameStatsResponse_Achievement_Blocks13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgAMGetUserGameStatsResponse_Achievement_Blocks::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN49CMsgAMGetUserGameStatsResponse_Achievement_Blocks27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgAMGetUserGameStatsResponse_Achievement_Blocks::ByteSize() const",
+			"name_mangled": "_ZNK49CMsgAMGetUserGameStatsResponse_Achievement_Blocks8ByteSizeEv"
+		},
+		{
+			"name": "CMsgAMGetUserGameStatsResponse_Achievement_Blocks::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK49CMsgAMGetUserGameStatsResponse_Achievement_Blocks24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgAMGetUserGameStatsResponse_Achievement_Blocks::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK49CMsgAMGetUserGameStatsResponse_Achievement_Blocks31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgAMGetUserGameStatsResponse_Achievement_Blocks::GetCachedSize() const",
+			"name_mangled": "_ZNK49CMsgAMGetUserGameStatsResponse_Achievement_Blocks13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgAMGetUserGameStatsResponse_Achievement_Blocks::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN49CMsgAMGetUserGameStatsResponse_Achievement_Blocks8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgAMGetUserGameStatsResponse_Achievement_Blocks::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN49CMsgAMGetUserGameStatsResponse_Achievement_Blocks9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgAMGetUserGameStatsResponse_Achievement_Blocks::SetCachedSize(int) const",
+			"name_mangled": "_ZNK49CMsgAMGetUserGameStatsResponse_Achievement_Blocks13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgAMGetUserGameStatsResponse_Achievement_Blocks::GetMetadata() const",
+			"name_mangled": "_ZNK49CMsgAMGetUserGameStatsResponse_Achievement_Blocks11GetMetadataEv"
+		}
+	]
+}

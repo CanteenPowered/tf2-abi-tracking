@@ -1,0 +1,30 @@
+{
+	"classname": "CChangeFrameList",
+	"classname_mangled": "_ZTV16CChangeFrameList",
+	"members": [
+		{
+			"name": "CChangeFrameList::GetNumProps()",
+			"name_mangled": "_ZN16CChangeFrameList11GetNumPropsEv"
+		},
+		{
+			"name": "CChangeFrameList::SetChangeTick(int const*, int, int)",
+			"name_mangled": "_ZN16CChangeFrameList13SetChangeTickEPKiii"
+		},
+		{
+			"name": "CChangeFrameList::GetPropsChangedAfterTick(int, int*, int)",
+			"name_mangled": "_ZN16CChangeFrameList24GetPropsChangedAfterTickEiPii"
+		},
+		{
+			"name": "CChangeFrameList::Copy()",
+			"name_mangled": "_ZN16CChangeFrameList4CopyEv"
+		},
+		{
+			"name": "CChangeFrameList::~CChangeFrameList()",
+			"name_mangled": "_ZN16CChangeFrameListD2Ev"
+		},
+		{
+			"name": "CChangeFrameList::~CChangeFrameList()",
+			"name_mangled": "_ZN16CChangeFrameListD0Ev"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBotNPCArcher>",
+	"classname_mangled": "_ZTV14CEntityFactoryI13CBotNPCArcherE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBotNPCArcher>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI13CBotNPCArcherE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBotNPCArcher>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI13CBotNPCArcherE13GetEntitySizeEv"
+		}
+	]
+}

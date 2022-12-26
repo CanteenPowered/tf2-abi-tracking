@@ -1,0 +1,66 @@
+{
+	"classname": "MM_Mutelist",
+	"classname_mangled": "_ZTV11MM_Mutelist",
+	"members": [
+		{
+			"name": "MM_Mutelist::~MM_Mutelist()",
+			"name_mangled": "_ZN11MM_MutelistD0Ev"
+		},
+		{
+			"name": "CNetMessage::SetNetChannel(INetChannel*)",
+			"name_mangled": "_ZN11CNetMessage13SetNetChannelEP11INetChannel"
+		},
+		{
+			"name": "CNetMessage::SetReliable(bool)",
+			"name_mangled": "_ZN11CNetMessage11SetReliableEb"
+		},
+		{
+			"name": "MM_Mutelist::Process()",
+			"name_mangled": "_ZN11MM_Mutelist7ProcessEv"
+		},
+		{
+			"name": "MM_Mutelist::ReadFromBuffer(bf_read&)",
+			"name_mangled": "_ZN11MM_Mutelist14ReadFromBufferER7bf_read"
+		},
+		{
+			"name": "MM_Mutelist::WriteToBuffer(bf_write&)",
+			"name_mangled": "_ZN11MM_Mutelist13WriteToBufferER8bf_write"
+		},
+		{
+			"name": "CNetMessage::IsReliable() const",
+			"name_mangled": "_ZNK11CNetMessage10IsReliableEv"
+		},
+		{
+			"name": "MM_Mutelist::GetType() const",
+			"name_mangled": "_ZNK11MM_Mutelist7GetTypeEv"
+		},
+		{
+			"name": "CNetMessage::GetGroup() const",
+			"name_mangled": "_ZNK11CNetMessage8GetGroupEv"
+		},
+		{
+			"name": "MM_Mutelist::GetName() const",
+			"name_mangled": "_ZNK11MM_Mutelist7GetNameEv"
+		},
+		{
+			"name": "CNetMessage::GetNetChannel() const",
+			"name_mangled": "_ZNK11CNetMessage13GetNetChannelEv"
+		},
+		{
+			"name": "MM_Mutelist::ToString() const",
+			"name_mangled": "_ZNK11MM_Mutelist8ToStringEv"
+		},
+		{
+			"name": "CNetMessage::BIncomingMessageForProcessing(double, int)",
+			"name_mangled": "_ZN11CNetMessage29BIncomingMessageForProcessingEdi"
+		},
+		{
+			"name": "MM_Mutelist::GetSize() const",
+			"name_mangled": "_ZNK11MM_Mutelist7GetSizeEv"
+		},
+		{
+			"name": "CNetMessage::SetRatePolicy()",
+			"name_mangled": "_ZN11CNetMessage13SetRatePolicyEv"
+		}
+	]
+}

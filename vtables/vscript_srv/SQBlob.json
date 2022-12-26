@@ -1,0 +1,42 @@
+{
+	"classname": "SQBlob",
+	"classname_mangled": "_ZTV6SQBlob",
+	"members": [
+		{
+			"name": "SQBlob::Write(void*, int)",
+			"name_mangled": "_ZN6SQBlob5WriteEPvi"
+		},
+		{
+			"name": "SQBlob::Flush()",
+			"name_mangled": "_ZN6SQBlob5FlushEv"
+		},
+		{
+			"name": "SQBlob::Tell()",
+			"name_mangled": "_ZN6SQBlob4TellEv"
+		},
+		{
+			"name": "SQBlob::Len()",
+			"name_mangled": "_ZN6SQBlob3LenEv"
+		},
+		{
+			"name": "SQBlob::Seek(int, int)",
+			"name_mangled": "_ZN6SQBlob4SeekEii"
+		},
+		{
+			"name": "SQBlob::IsValid()",
+			"name_mangled": "_ZN6SQBlob7IsValidEv"
+		},
+		{
+			"name": "SQBlob::EOS()",
+			"name_mangled": "_ZN6SQBlob3EOSEv"
+		},
+		{
+			"name": "SQBlob::~SQBlob()",
+			"name_mangled": "_ZN6SQBlobD1Ev"
+		},
+		{
+			"name": "SQBlob::~SQBlob()",
+			"name_mangled": "_ZN6SQBlobD0Ev"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "google::protobuf::internal::ExtensionFinder",
+	"classname_mangled": "_ZTVN6google8protobuf8internal15ExtensionFinderE",
+	"members": [
+		{
+			"name": "google::protobuf::internal::ExtensionFinder::~ExtensionFinder()",
+			"name_mangled": "_ZN6google8protobuf8internal15ExtensionFinderD0Ev"
+		}
+	]
+}

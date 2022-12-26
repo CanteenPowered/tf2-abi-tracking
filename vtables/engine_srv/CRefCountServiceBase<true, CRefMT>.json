@@ -1,0 +1,14 @@
+{
+	"classname": "CRefCountServiceBase<true, CRefMT>",
+	"classname_mangled": "_ZTV20CRefCountServiceBaseILb1E6CRefMTE",
+	"members": [
+		{
+			"name": "CRefCountServiceBase<true, CRefMT>::~CRefCountServiceBase()",
+			"name_mangled": "_ZN20CRefCountServiceBaseILb1E6CRefMTED0Ev"
+		},
+		{
+			"name": "CRefCountServiceBase<true, CRefMT>::OnFinalRelease()",
+			"name_mangled": "_ZN20CRefCountServiceBaseILb1E6CRefMTE14OnFinalReleaseEv"
+		}
+	]
+}

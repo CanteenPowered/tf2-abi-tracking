@@ -1,0 +1,226 @@
+{
+	"classname": "CGhost::CGhostIntention",
+	"classname_mangled": "_ZTVN6CGhost15CGhostIntentionE",
+	"members": [
+		{
+			"name": "CGhost::CGhostIntention::~CGhostIntention()",
+			"name_mangled": "_ZN6CGhost15CGhostIntentionD0Ev"
+		},
+		{
+			"name": "CGhost::CGhostIntention::FirstContainedResponder() const",
+			"name_mangled": "_ZNK6CGhost15CGhostIntention23FirstContainedResponderEv"
+		},
+		{
+			"name": "CGhost::CGhostIntention::NextContainedResponder(INextBotEventResponder*) const",
+			"name_mangled": "_ZNK6CGhost15CGhostIntention22NextContainedResponderEP22INextBotEventResponder"
+		},
+		{
+			"name": "INextBotEventResponder::OnLeaveGround(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder13OnLeaveGroundEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnLandOnGround(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder14OnLandOnGroundEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnContact(CBaseEntity*, CGameTrace*)",
+			"name_mangled": "_ZN22INextBotEventResponder9OnContactEP11CBaseEntityP10CGameTrace"
+		},
+		{
+			"name": "INextBotEventResponder::OnMoveToSuccess(Path const*)",
+			"name_mangled": "_ZN22INextBotEventResponder15OnMoveToSuccessEPK4Path"
+		},
+		{
+			"name": "INextBotEventResponder::OnMoveToFailure(Path const*, MoveToFailureType)",
+			"name_mangled": "_ZN22INextBotEventResponder15OnMoveToFailureEPK4Path17MoveToFailureType"
+		},
+		{
+			"name": "INextBotEventResponder::OnStuck()",
+			"name_mangled": "_ZN22INextBotEventResponder7OnStuckEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnUnStuck()",
+			"name_mangled": "_ZN22INextBotEventResponder9OnUnStuckEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnPostureChanged()",
+			"name_mangled": "_ZN22INextBotEventResponder16OnPostureChangedEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnAnimationActivityComplete(int)",
+			"name_mangled": "_ZN22INextBotEventResponder27OnAnimationActivityCompleteEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnAnimationActivityInterrupted(int)",
+			"name_mangled": "_ZN22INextBotEventResponder30OnAnimationActivityInterruptedEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnAnimationEvent(animevent_t*)",
+			"name_mangled": "_ZN22INextBotEventResponder16OnAnimationEventEP11animevent_t"
+		},
+		{
+			"name": "INextBotEventResponder::OnIgnite()",
+			"name_mangled": "_ZN22INextBotEventResponder8OnIgniteEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnInjured(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN22INextBotEventResponder9OnInjuredERK15CTakeDamageInfo"
+		},
+		{
+			"name": "INextBotEventResponder::OnKilled(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN22INextBotEventResponder8OnKilledERK15CTakeDamageInfo"
+		},
+		{
+			"name": "INextBotEventResponder::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN22INextBotEventResponder13OnOtherKilledEP20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "INextBotEventResponder::OnSight(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder7OnSightEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnLostSight(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder11OnLostSightEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnSound(CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN22INextBotEventResponder7OnSoundEP11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "INextBotEventResponder::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN22INextBotEventResponder14OnSpokeConceptEP20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "INextBotEventResponder::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN22INextBotEventResponder13OnWeaponFiredEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "INextBotEventResponder::OnNavAreaChanged(CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN22INextBotEventResponder16OnNavAreaChangedEP8CNavAreaS1_"
+		},
+		{
+			"name": "INextBotEventResponder::OnModelChanged()",
+			"name_mangled": "_ZN22INextBotEventResponder14OnModelChangedEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN22INextBotEventResponder8OnPickUpEP11CBaseEntityP20CBaseCombatCharacter"
+		},
+		{
+			"name": "INextBotEventResponder::OnDrop(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder6OnDropEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnActorEmoted(CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN22INextBotEventResponder13OnActorEmotedEP20CBaseCombatCharacteri"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandAttack(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder15OnCommandAttackEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandApproach(Vector const&, float)",
+			"name_mangled": "_ZN22INextBotEventResponder17OnCommandApproachERK6Vectorf"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandApproach(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder17OnCommandApproachEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandRetreat(CBaseEntity*, float)",
+			"name_mangled": "_ZN22INextBotEventResponder16OnCommandRetreatEP11CBaseEntityf"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandPause(float)",
+			"name_mangled": "_ZN22INextBotEventResponder14OnCommandPauseEf"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandResume()",
+			"name_mangled": "_ZN22INextBotEventResponder15OnCommandResumeEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandString(char const*)",
+			"name_mangled": "_ZN22INextBotEventResponder15OnCommandStringEPKc"
+		},
+		{
+			"name": "INextBotEventResponder::OnShoved(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder8OnShovedEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnBlinded(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder9OnBlindedEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnTerritoryContested(int)",
+			"name_mangled": "_ZN22INextBotEventResponder20OnTerritoryContestedEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnTerritoryCaptured(int)",
+			"name_mangled": "_ZN22INextBotEventResponder19OnTerritoryCapturedEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnTerritoryLost(int)",
+			"name_mangled": "_ZN22INextBotEventResponder15OnTerritoryLostEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnWin()",
+			"name_mangled": "_ZN22INextBotEventResponder5OnWinEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnLose()",
+			"name_mangled": "_ZN22INextBotEventResponder6OnLoseEv"
+		},
+		{
+			"name": "CGhost::CGhostIntention::Reset()",
+			"name_mangled": "_ZN6CGhost15CGhostIntention5ResetEv"
+		},
+		{
+			"name": "CGhost::CGhostIntention::Update()",
+			"name_mangled": "_ZN6CGhost15CGhostIntention6UpdateEv"
+		},
+		{
+			"name": "INextBotComponent::Upkeep()",
+			"name_mangled": "_ZN17INextBotComponent6UpkeepEv"
+		},
+		{
+			"name": "INextBotComponent::GetBot() const",
+			"name_mangled": "_ZNK17INextBotComponent6GetBotEv"
+		},
+		{
+			"name": "INextBotComponent::GetScriptDesc()",
+			"name_mangled": "_ZN17INextBotComponent13GetScriptDescEv"
+		},
+		{
+			"name": "IIntention::ShouldPickUp(INextBot const*, CBaseEntity*) const",
+			"name_mangled": "_ZNK10IIntention12ShouldPickUpEPK8INextBotP11CBaseEntity"
+		},
+		{
+			"name": "IIntention::ShouldHurry(INextBot const*) const",
+			"name_mangled": "_ZNK10IIntention11ShouldHurryEPK8INextBot"
+		},
+		{
+			"name": "IIntention::ShouldRetreat(INextBot const*) const",
+			"name_mangled": "_ZNK10IIntention13ShouldRetreatEPK8INextBot"
+		},
+		{
+			"name": "IIntention::ShouldAttack(INextBot const*, CKnownEntity const*) const",
+			"name_mangled": "_ZNK10IIntention12ShouldAttackEPK8INextBotPK12CKnownEntity"
+		},
+		{
+			"name": "IIntention::IsHindrance(INextBot const*, CBaseEntity*) const",
+			"name_mangled": "_ZNK10IIntention11IsHindranceEPK8INextBotP11CBaseEntity"
+		},
+		{
+			"name": "IIntention::SelectTargetPoint(INextBot const*, CBaseCombatCharacter const*) const",
+			"name_mangled": "_ZNK10IIntention17SelectTargetPointEPK8INextBotPK20CBaseCombatCharacter"
+		},
+		{
+			"name": "IIntention::IsPositionAllowed(INextBot const*, Vector const&) const",
+			"name_mangled": "_ZNK10IIntention17IsPositionAllowedEPK8INextBotRK6Vector"
+		},
+		{
+			"name": "IIntention::SelectMoreDangerousThreat(INextBot const*, CBaseCombatCharacter const*, CKnownEntity const*, CKnownEntity const*) const",
+			"name_mangled": "_ZNK10IIntention25SelectMoreDangerousThreatEPK8INextBotPK20CBaseCombatCharacterPK12CKnownEntityS8_"
+		}
+	]
+}

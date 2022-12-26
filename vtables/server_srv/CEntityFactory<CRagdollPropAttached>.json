@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CRagdollPropAttached>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CRagdollPropAttachedE",
+	"members": [
+		{
+			"name": "CEntityFactory<CRagdollPropAttached>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CRagdollPropAttachedE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CRagdollPropAttached>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CRagdollPropAttachedE13GetEntitySizeEv"
+		}
+	]
+}

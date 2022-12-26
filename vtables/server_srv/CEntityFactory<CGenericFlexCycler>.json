@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CGenericFlexCycler>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CGenericFlexCyclerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CGenericFlexCycler>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CGenericFlexCyclerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CGenericFlexCycler>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CGenericFlexCyclerE13GetEntitySizeEv"
+		}
+	]
+}

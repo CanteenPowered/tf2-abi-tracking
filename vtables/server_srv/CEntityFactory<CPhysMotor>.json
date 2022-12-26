@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPhysMotor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10CPhysMotorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPhysMotor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10CPhysMotorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPhysMotor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10CPhysMotorE13GetEntitySizeEv"
+		}
+	]
+}

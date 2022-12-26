@@ -1,0 +1,70 @@
+{
+	"classname": "CTFPlayer::NetworkVar_m_AttributeManager",
+	"classname_mangled": "_ZTVN9CTFPlayer29NetworkVar_m_AttributeManagerE",
+	"members": [
+		{
+			"name": "CTFPlayer::NetworkVar_m_AttributeManager::NetworkStateChanged()",
+			"name_mangled": "_ZN9CTFPlayer29NetworkVar_m_AttributeManager19NetworkStateChangedEv"
+		},
+		{
+			"name": "CTFPlayer::NetworkVar_m_AttributeManager::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN9CTFPlayer29NetworkVar_m_AttributeManager19NetworkStateChangedEPv"
+		},
+		{
+			"name": "CTFPlayer::NetworkVar_m_AttributeManager::~NetworkVar_m_AttributeManager()",
+			"name_mangled": "_ZN9CTFPlayer29NetworkVar_m_AttributeManagerD2Ev"
+		},
+		{
+			"name": "CTFPlayer::NetworkVar_m_AttributeManager::~NetworkVar_m_AttributeManager()",
+			"name_mangled": "_ZN9CTFPlayer29NetworkVar_m_AttributeManagerD0Ev"
+		},
+		{
+			"name": "CAttributeManager::InitializeAttributes(CBaseEntity*)",
+			"name_mangled": "_ZN17CAttributeManager20InitializeAttributesEP11CBaseEntity"
+		},
+		{
+			"name": "CAttributeContainerPlayer::ApplyAttributeFloat(float, CBaseEntity*, string_t, CUtlVector<CBaseEntity*, CUtlMemory<CBaseEntity*, int>>*)",
+			"name_mangled": "_ZN25CAttributeContainerPlayer19ApplyAttributeFloatEfP11CBaseEntity8string_tP10CUtlVectorIS1_10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "CAttributeContainerPlayer::ApplyAttributeString(string_t, CBaseEntity*, string_t, CUtlVector<CBaseEntity*, CUtlMemory<CBaseEntity*, int>>*)",
+			"name_mangled": "_ZN25CAttributeContainerPlayer20ApplyAttributeStringE8string_tP11CBaseEntityS0_P10CUtlVectorIS2_10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CAttributeManager::NetworkStateChanged_m_iReapplyProvisionParity()",
+			"name_mangled": "_ZN17CAttributeManager45NetworkStateChanged_m_iReapplyProvisionParityEv"
+		},
+		{
+			"name": "CAttributeManager::NetworkStateChanged_m_iReapplyProvisionParity(void*)",
+			"name_mangled": "_ZN17CAttributeManager45NetworkStateChanged_m_iReapplyProvisionParityEPv"
+		},
+		{
+			"name": "CAttributeManager::NetworkStateChanged_m_hOuter()",
+			"name_mangled": "_ZN17CAttributeManager28NetworkStateChanged_m_hOuterEv"
+		},
+		{
+			"name": "CAttributeManager::NetworkStateChanged_m_hOuter(void*)",
+			"name_mangled": "_ZN17CAttributeManager28NetworkStateChanged_m_hOuterEPv"
+		},
+		{
+			"name": "CAttributeManager::NetworkStateChanged_m_ProviderType()",
+			"name_mangled": "_ZN17CAttributeManager34NetworkStateChanged_m_ProviderTypeEv"
+		},
+		{
+			"name": "CAttributeManager::NetworkStateChanged_m_ProviderType(void*)",
+			"name_mangled": "_ZN17CAttributeManager34NetworkStateChanged_m_ProviderTypeEPv"
+		},
+		{
+			"name": "CAttributeContainerPlayer::OnAttributeValuesChanged()",
+			"name_mangled": "_ZN25CAttributeContainerPlayer24OnAttributeValuesChangedEv"
+		},
+		{
+			"name": "CAttributeManager::ApplyAttributeFloatWrapper(float, CBaseEntity*, string_t, CUtlVector<CBaseEntity*, CUtlMemory<CBaseEntity*, int>>*)",
+			"name_mangled": "_ZN17CAttributeManager26ApplyAttributeFloatWrapperEfP11CBaseEntity8string_tP10CUtlVectorIS1_10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "CAttributeManager::ApplyAttributeStringWrapper(string_t, CBaseEntity*, string_t, CUtlVector<CBaseEntity*, CUtlMemory<CBaseEntity*, int>>*)",
+			"name_mangled": "_ZN17CAttributeManager27ApplyAttributeStringWrapperE8string_tP11CBaseEntityS0_P10CUtlVectorIS2_10CUtlMemoryIS2_iEE"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "CPluginBotManager",
+	"classname_mangled": "_ZTV17CPluginBotManager",
+	"members": [
+		{
+			"name": "CPluginBotManager::CreateBot(char const*)",
+			"name_mangled": "_ZN17CPluginBotManager9CreateBotEPKc"
+		}
+	]
+}

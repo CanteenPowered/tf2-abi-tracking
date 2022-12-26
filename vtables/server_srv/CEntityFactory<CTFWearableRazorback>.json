@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFWearableRazorback>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CTFWearableRazorbackE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFWearableRazorback>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CTFWearableRazorbackE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFWearableRazorback>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CTFWearableRazorbackE13GetEntitySizeEv"
+		}
+	]
+}

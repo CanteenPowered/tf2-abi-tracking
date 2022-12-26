@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CMaterialModifyControl>",
+	"classname_mangled": "_ZTV14CEntityFactoryI22CMaterialModifyControlE",
+	"members": [
+		{
+			"name": "CEntityFactory<CMaterialModifyControl>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI22CMaterialModifyControlE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CMaterialModifyControl>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI22CMaterialModifyControlE13GetEntitySizeEv"
+		}
+	]
+}

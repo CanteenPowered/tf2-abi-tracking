@@ -1,0 +1,10 @@
+{
+	"classname": "CBotCmd",
+	"classname_mangled": "_ZTV7CBotCmd",
+	"members": [
+		{
+			"name": "CBotCmd::~CBotCmd()",
+			"name_mangled": "_ZN7CBotCmdD0Ev"
+		}
+	]
+}

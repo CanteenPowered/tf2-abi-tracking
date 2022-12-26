@@ -1,0 +1,14 @@
+{
+	"classname": "DelayedSchemaData_HTTPResponseData",
+	"classname_mangled": "_ZTV34DelayedSchemaData_HTTPResponseData",
+	"members": [
+		{
+			"name": "DelayedSchemaData_HTTPResponseData::~DelayedSchemaData_HTTPResponseData()",
+			"name_mangled": "_ZN34DelayedSchemaData_HTTPResponseDataD0Ev"
+		},
+		{
+			"name": "DelayedSchemaData_HTTPResponseData::InitializeSchema(CEconItemSchema*)",
+			"name_mangled": "_ZN34DelayedSchemaData_HTTPResponseData16InitializeSchemaEP15CEconItemSchema"
+		}
+	]
+}

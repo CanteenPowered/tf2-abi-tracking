@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CNPCMaker>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9CNPCMakerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CNPCMaker>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9CNPCMakerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CNPCMaker>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9CNPCMakerE13GetEntitySizeEv"
+		}
+	]
+}

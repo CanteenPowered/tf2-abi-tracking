@@ -1,0 +1,10 @@
+{
+	"classname": "IServerTools",
+	"classname_mangled": "_ZTV12IServerTools",
+	"members": [
+		{
+			"name": "IServerTools::~IServerTools()",
+			"name_mangled": "_ZN12IServerToolsD0Ev"
+		}
+	]
+}

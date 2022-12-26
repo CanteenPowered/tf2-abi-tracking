@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgTFCoaching_RemoveCurrentCoach>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI33CMsgTFCoaching_RemoveCurrentCoachEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgTFCoaching_RemoveCurrentCoach>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI33CMsgTFCoaching_RemoveCurrentCoachED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgTFCoaching_RemoveCurrentCoach>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI33CMsgTFCoaching_RemoveCurrentCoachE14GetGenericBodyEv"
+		}
+	]
+}

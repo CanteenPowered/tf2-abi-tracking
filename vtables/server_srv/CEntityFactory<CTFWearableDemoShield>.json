@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFWearableDemoShield>",
+	"classname_mangled": "_ZTV14CEntityFactoryI21CTFWearableDemoShieldE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFWearableDemoShield>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI21CTFWearableDemoShieldE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFWearableDemoShield>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI21CTFWearableDemoShieldE13GetEntitySizeEv"
+		}
+	]
+}

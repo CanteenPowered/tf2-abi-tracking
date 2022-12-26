@@ -1,0 +1,18 @@
+{
+	"classname": "RefTFPerPlayerMatchCriteria",
+	"classname_mangled": "_ZTV27RefTFPerPlayerMatchCriteria",
+	"members": [
+		{
+			"name": "RefTFPerPlayerMatchCriteria::~RefTFPerPlayerMatchCriteria()",
+			"name_mangled": "_ZN27RefTFPerPlayerMatchCriteriaD0Ev"
+		},
+		{
+			"name": "RefTFPerPlayerMatchCriteria::Proto() const",
+			"name_mangled": "_ZNK27RefTFPerPlayerMatchCriteria5ProtoEv"
+		},
+		{
+			"name": "RefTFPerPlayerMatchCriteria::MutProto()",
+			"name_mangled": "_ZN27RefTFPerPlayerMatchCriteria8MutProtoEv"
+		}
+	]
+}

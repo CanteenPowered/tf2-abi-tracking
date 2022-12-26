@@ -1,0 +1,14 @@
+{
+	"classname": "GetClientLootListInfo(CEconLootListDefinition const*, LootListInfo_t&)::CLootListItemsIterator",
+	"classname_mangled": "_ZTVZ21GetClientLootListInfoPK23CEconLootListDefinitionR14LootListInfo_tE22CLootListItemsIterator",
+	"members": [
+		{
+			"name": "GetClientLootListInfo(CEconLootListDefinition const*, LootListInfo_t&)::CLootListItemsIterator::~CLootListItemsIterator()",
+			"name_mangled": "_ZZ21GetClientLootListInfoPK23CEconLootListDefinitionR14LootListInfo_tEN22CLootListItemsIteratorD0Ev"
+		},
+		{
+			"name": "GetClientLootListInfo(CEconLootListDefinition const*, LootListInfo_t&)::CLootListItemsIterator::OnIterate(unsigned short)",
+			"name_mangled": "_ZZ21GetClientLootListInfoPK23CEconLootListDefinitionR14LootListInfo_tEN22CLootListItemsIterator9OnIterateEt"
+		}
+	]
+}

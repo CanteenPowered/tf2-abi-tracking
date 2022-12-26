@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgGC_GameServer_LevelInfo",
+	"classname_mangled": "_ZTV27CMsgGC_GameServer_LevelInfo",
+	"members": [
+		{
+			"name": "CMsgGC_GameServer_LevelInfo::~CMsgGC_GameServer_LevelInfo()",
+			"name_mangled": "_ZN27CMsgGC_GameServer_LevelInfoD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgGC_GameServer_LevelInfo::New() const",
+			"name_mangled": "_ZNK27CMsgGC_GameServer_LevelInfo3NewEv"
+		},
+		{
+			"name": "CMsgGC_GameServer_LevelInfo::Clear()",
+			"name_mangled": "_ZN27CMsgGC_GameServer_LevelInfo5ClearEv"
+		},
+		{
+			"name": "CMsgGC_GameServer_LevelInfo::IsInitialized() const",
+			"name_mangled": "_ZNK27CMsgGC_GameServer_LevelInfo13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgGC_GameServer_LevelInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN27CMsgGC_GameServer_LevelInfo27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgGC_GameServer_LevelInfo::ByteSize() const",
+			"name_mangled": "_ZNK27CMsgGC_GameServer_LevelInfo8ByteSizeEv"
+		},
+		{
+			"name": "CMsgGC_GameServer_LevelInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK27CMsgGC_GameServer_LevelInfo24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgGC_GameServer_LevelInfo::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK27CMsgGC_GameServer_LevelInfo31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgGC_GameServer_LevelInfo::GetCachedSize() const",
+			"name_mangled": "_ZNK27CMsgGC_GameServer_LevelInfo13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgGC_GameServer_LevelInfo::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN27CMsgGC_GameServer_LevelInfo8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgGC_GameServer_LevelInfo::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN27CMsgGC_GameServer_LevelInfo9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgGC_GameServer_LevelInfo::SetCachedSize(int) const",
+			"name_mangled": "_ZNK27CMsgGC_GameServer_LevelInfo13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgGC_GameServer_LevelInfo::GetMetadata() const",
+			"name_mangled": "_ZNK27CMsgGC_GameServer_LevelInfo11GetMetadataEv"
+		}
+	]
+}

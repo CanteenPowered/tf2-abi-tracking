@@ -1,0 +1,82 @@
+{
+	"classname": "CSteamWorksGameStatsUploader",
+	"classname_mangled": "_ZTV28CSteamWorksGameStatsUploader",
+	"members": [
+		{
+			"name": "CSteamWorksGameStatsUploader::Init()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploader4InitEv"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::PostInit()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploader8PostInitEv"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::Shutdown()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploader8ShutdownEv"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::LevelInitPreEntity()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploader18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::LevelInitPostEntity()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploader19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::OnSave()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploader6OnSaveEv"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::OnRestore()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploader9OnRestoreEv"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploader19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::IsPerFrame()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploader10IsPerFrameEv"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::~CSteamWorksGameStatsUploader()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploaderD1Ev"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::~CSteamWorksGameStatsUploader()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploaderD0Ev"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploader25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploader26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::PreClientUpdate()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploader15PreClientUpdateEv"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::LevelShutdown()",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploader13LevelShutdownEv"
+		},
+		{
+			"name": "CSteamWorksGameStatsUploader::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN28CSteamWorksGameStatsUploader13FireGameEventEP10IGameEvent"
+		}
+	]
+}

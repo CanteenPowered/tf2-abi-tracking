@@ -1,0 +1,10 @@
+{
+	"classname": "IEntityDataInstantiator",
+	"classname_mangled": "_ZTV23IEntityDataInstantiator",
+	"members": [
+		{
+			"name": "IEntityDataInstantiator::~IEntityDataInstantiator()",
+			"name_mangled": "_ZN23IEntityDataInstantiatorD0Ev"
+		}
+	]
+}

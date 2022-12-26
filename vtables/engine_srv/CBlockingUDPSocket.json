@@ -1,0 +1,10 @@
+{
+	"classname": "CBlockingUDPSocket",
+	"classname_mangled": "_ZTV18CBlockingUDPSocket",
+	"members": [
+		{
+			"name": "CBlockingUDPSocket::~CBlockingUDPSocket()",
+			"name_mangled": "_ZN18CBlockingUDPSocketD0Ev"
+		}
+	]
+}

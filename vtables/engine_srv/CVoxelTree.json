@@ -1,0 +1,50 @@
+{
+	"classname": "CVoxelTree",
+	"classname_mangled": "_ZTV10CVoxelTree",
+	"members": [
+		{
+			"name": "CVoxelTree::~CVoxelTree()",
+			"name_mangled": "_ZN10CVoxelTreeD0Ev"
+		},
+		{
+			"name": "CVoxelTree::Init(CSpatialPartition*, int, Vector const&, Vector const&)",
+			"name_mangled": "_ZN10CVoxelTree4InitEP17CSpatialPartitioniRK6VectorS4_"
+		},
+		{
+			"name": "CVoxelTree::ElementMoved(unsigned short, Vector const&, Vector const&)",
+			"name_mangled": "_ZN10CVoxelTree12ElementMovedEtRK6VectorS2_"
+		},
+		{
+			"name": "CVoxelTree::EnumerateElementsInBox(int, Vector const&, Vector const&, bool, IPartitionEnumerator*)",
+			"name_mangled": "_ZN10CVoxelTree22EnumerateElementsInBoxEiRK6VectorS2_bP20IPartitionEnumerator"
+		},
+		{
+			"name": "CVoxelTree::EnumerateElementsInSphere(int, Vector const&, float, bool, IPartitionEnumerator*)",
+			"name_mangled": "_ZN10CVoxelTree25EnumerateElementsInSphereEiRK6VectorfbP20IPartitionEnumerator"
+		},
+		{
+			"name": "CVoxelTree::EnumerateElementsAlongRay(int, Ray_t const&, bool, IPartitionEnumerator*)",
+			"name_mangled": "_ZN10CVoxelTree25EnumerateElementsAlongRayEiRK5Ray_tbP20IPartitionEnumerator"
+		},
+		{
+			"name": "CVoxelTree::EnumerateElementsAtPoint(int, Vector const&, bool, IPartitionEnumerator*)",
+			"name_mangled": "_ZN10CVoxelTree24EnumerateElementsAtPointEiRK6VectorbP20IPartitionEnumerator"
+		},
+		{
+			"name": "CVoxelTree::RenderAllObjectsInTree(float)",
+			"name_mangled": "_ZN10CVoxelTree22RenderAllObjectsInTreeEf"
+		},
+		{
+			"name": "CVoxelTree::RenderObjectsInPlayerLeafs(Vector const&, Vector const&, float)",
+			"name_mangled": "_ZN10CVoxelTree26RenderObjectsInPlayerLeafsERK6VectorS2_f"
+		},
+		{
+			"name": "CVoxelTree::ReportStats(char const*)",
+			"name_mangled": "_ZN10CVoxelTree11ReportStatsEPKc"
+		},
+		{
+			"name": "CVoxelTree::DrawDebugOverlays()",
+			"name_mangled": "_ZN10CVoxelTree17DrawDebugOverlaysEv"
+		}
+	]
+}

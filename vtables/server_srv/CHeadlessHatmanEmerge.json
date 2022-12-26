@@ -1,0 +1,370 @@
+{
+	"classname": "CHeadlessHatmanEmerge",
+	"classname_mangled": "_ZTV21CHeadlessHatmanEmerge",
+	"members": [
+		{
+			"name": "CHeadlessHatmanEmerge::~CHeadlessHatmanEmerge()",
+			"name_mangled": "_ZN21CHeadlessHatmanEmergeD0Ev"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::FirstContainedResponder() const",
+			"name_mangled": "_ZNK6ActionI15CHeadlessHatmanE23FirstContainedResponderEv"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::NextContainedResponder(INextBotEventResponder*) const",
+			"name_mangled": "_ZNK6ActionI15CHeadlessHatmanE22NextContainedResponderEP22INextBotEventResponder"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnLeaveGround(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE13OnLeaveGroundEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnLandOnGround(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE14OnLandOnGroundEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnContact(CBaseEntity*, CGameTrace*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE9OnContactEP11CBaseEntityP10CGameTrace"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnMoveToSuccess(Path const*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE15OnMoveToSuccessEPK4Path"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnMoveToFailure(Path const*, MoveToFailureType)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE15OnMoveToFailureEPK4Path17MoveToFailureType"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnStuck()",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE7OnStuckEv"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnUnStuck()",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE9OnUnStuckEv"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnPostureChanged()",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE16OnPostureChangedEv"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnAnimationActivityComplete(int)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE27OnAnimationActivityCompleteEi"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnAnimationActivityInterrupted(int)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE30OnAnimationActivityInterruptedEi"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnAnimationEvent(animevent_t*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE16OnAnimationEventEP11animevent_t"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnIgnite()",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE8OnIgniteEv"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnInjured(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE9OnInjuredERK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnKilled(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE8OnKilledERK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE13OnOtherKilledEP20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnSight(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE7OnSightEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnLostSight(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE11OnLostSightEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnSound(CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE7OnSoundEP11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE14OnSpokeConceptEP20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE13OnWeaponFiredEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnNavAreaChanged(CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE16OnNavAreaChangedEP8CNavAreaS3_"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnModelChanged()",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE14OnModelChangedEv"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE8OnPickUpEP11CBaseEntityP20CBaseCombatCharacter"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnDrop(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE6OnDropEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnActorEmoted(CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE13OnActorEmotedEP20CBaseCombatCharacteri"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnCommandAttack(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE15OnCommandAttackEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnCommandApproach(Vector const&, float)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE17OnCommandApproachERK6Vectorf"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnCommandApproach(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE17OnCommandApproachEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnCommandRetreat(CBaseEntity*, float)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE16OnCommandRetreatEP11CBaseEntityf"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnCommandPause(float)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE14OnCommandPauseEf"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnCommandResume()",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE15OnCommandResumeEv"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnCommandString(char const*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE15OnCommandStringEPKc"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnShoved(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE8OnShovedEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnBlinded(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE9OnBlindedEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnTerritoryContested(int)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE20OnTerritoryContestedEi"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnTerritoryCaptured(int)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE19OnTerritoryCapturedEi"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnTerritoryLost(int)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE15OnTerritoryLostEi"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnWin()",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE5OnWinEv"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnLose()",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE6OnLoseEv"
+		},
+		{
+			"name": "CHeadlessHatmanEmerge::GetName() const",
+			"name_mangled": "_ZNK21CHeadlessHatmanEmerge7GetNameEv"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::IsNamed(char const*) const",
+			"name_mangled": "_ZNK6ActionI15CHeadlessHatmanE7IsNamedEPKc"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::GetFullName() const",
+			"name_mangled": "_ZNK6ActionI15CHeadlessHatmanE11GetFullNameEv"
+		},
+		{
+			"name": "CHeadlessHatmanEmerge::OnStart(CHeadlessHatman*, Action<CHeadlessHatman>*)",
+			"name_mangled": "_ZN21CHeadlessHatmanEmerge7OnStartEP15CHeadlessHatmanP6ActionIS0_E"
+		},
+		{
+			"name": "CHeadlessHatmanEmerge::Update(CHeadlessHatman*, float)",
+			"name_mangled": "_ZN21CHeadlessHatmanEmerge6UpdateEP15CHeadlessHatmanf"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnEnd(CHeadlessHatman*, Action<CHeadlessHatman>*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE5OnEndEPS0_PS1_"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnSuspend(CHeadlessHatman*, Action<CHeadlessHatman>*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE9OnSuspendEPS0_PS1_"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnResume(CHeadlessHatman*, Action<CHeadlessHatman>*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE8OnResumeEPS0_PS1_"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::InitialContainedAction(CHeadlessHatman*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE22InitialContainedActionEPS0_"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnLeaveGround(CHeadlessHatman*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE13OnLeaveGroundEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnLandOnGround(CHeadlessHatman*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE14OnLandOnGroundEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnContact(CHeadlessHatman*, CBaseEntity*, CGameTrace*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE9OnContactEPS0_P11CBaseEntityP10CGameTrace"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnMoveToSuccess(CHeadlessHatman*, Path const*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE15OnMoveToSuccessEPS0_PK4Path"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnMoveToFailure(CHeadlessHatman*, Path const*, MoveToFailureType)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE15OnMoveToFailureEPS0_PK4Path17MoveToFailureType"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnStuck(CHeadlessHatman*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE7OnStuckEPS0_"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnUnStuck(CHeadlessHatman*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE9OnUnStuckEPS0_"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnPostureChanged(CHeadlessHatman*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE16OnPostureChangedEPS0_"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnAnimationActivityComplete(CHeadlessHatman*, int)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE27OnAnimationActivityCompleteEPS0_i"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnAnimationActivityInterrupted(CHeadlessHatman*, int)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE30OnAnimationActivityInterruptedEPS0_i"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnAnimationEvent(CHeadlessHatman*, animevent_t*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE16OnAnimationEventEPS0_P11animevent_t"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnIgnite(CHeadlessHatman*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE8OnIgniteEPS0_"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnInjured(CHeadlessHatman*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE9OnInjuredEPS0_RK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnKilled(CHeadlessHatman*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE8OnKilledEPS0_RK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnOtherKilled(CHeadlessHatman*, CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE13OnOtherKilledEPS0_P20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnSight(CHeadlessHatman*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE7OnSightEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnLostSight(CHeadlessHatman*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE11OnLostSightEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnSound(CHeadlessHatman*, CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE7OnSoundEPS0_P11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnSpokeConcept(CHeadlessHatman*, CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE14OnSpokeConceptEPS0_P20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnWeaponFired(CHeadlessHatman*, CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE13OnWeaponFiredEPS0_P20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnNavAreaChanged(CHeadlessHatman*, CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE16OnNavAreaChangedEPS0_P8CNavAreaS4_"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnModelChanged(CHeadlessHatman*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE14OnModelChangedEPS0_"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnPickUp(CHeadlessHatman*, CBaseEntity*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE8OnPickUpEPS0_P11CBaseEntityP20CBaseCombatCharacter"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnDrop(CHeadlessHatman*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE6OnDropEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnActorEmoted(CHeadlessHatman*, CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE13OnActorEmotedEPS0_P20CBaseCombatCharacteri"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnCommandAttack(CHeadlessHatman*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE15OnCommandAttackEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnCommandApproach(CHeadlessHatman*, Vector const&, float)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE17OnCommandApproachEPS0_RK6Vectorf"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnCommandApproach(CHeadlessHatman*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE17OnCommandApproachEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnCommandRetreat(CHeadlessHatman*, CBaseEntity*, float)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE16OnCommandRetreatEPS0_P11CBaseEntityf"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnCommandPause(CHeadlessHatman*, float)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE14OnCommandPauseEPS0_f"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnCommandResume(CHeadlessHatman*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE15OnCommandResumeEPS0_"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnCommandString(CHeadlessHatman*, char const*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE15OnCommandStringEPS0_PKc"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnShoved(CHeadlessHatman*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE8OnShovedEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnBlinded(CHeadlessHatman*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE9OnBlindedEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnTerritoryContested(CHeadlessHatman*, int)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE20OnTerritoryContestedEPS0_i"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnTerritoryCaptured(CHeadlessHatman*, int)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE19OnTerritoryCapturedEPS0_i"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnTerritoryLost(CHeadlessHatman*, int)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE15OnTerritoryLostEPS0_i"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnWin(CHeadlessHatman*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE5OnWinEPS0_"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::OnLose(CHeadlessHatman*)",
+			"name_mangled": "_ZN6ActionI15CHeadlessHatmanE6OnLoseEPS0_"
+		},
+		{
+			"name": "Action<CHeadlessHatman>::IsAbleToBlockMovementOf(INextBot const*) const",
+			"name_mangled": "_ZNK6ActionI15CHeadlessHatmanE23IsAbleToBlockMovementOfEPK8INextBot"
+		}
+	]
+}

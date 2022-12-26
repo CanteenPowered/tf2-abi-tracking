@@ -1,0 +1,10 @@
+{
+	"classname": "IVModelInfoClient",
+	"classname_mangled": "_ZTV17IVModelInfoClient",
+	"members": [
+		{
+			"name": "IVModelInfoClient::~IVModelInfoClient()",
+			"name_mangled": "_ZN17IVModelInfoClientD0Ev"
+		}
+	]
+}

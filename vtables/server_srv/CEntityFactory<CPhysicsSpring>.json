@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPhysicsSpring>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CPhysicsSpringE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPhysicsSpring>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CPhysicsSpringE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPhysicsSpring>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CPhysicsSpringE13GetEntitySizeEv"
+		}
+	]
+}

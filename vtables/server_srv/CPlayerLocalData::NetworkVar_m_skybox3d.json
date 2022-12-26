@@ -1,0 +1,10 @@
+{
+	"classname": "CPlayerLocalData::NetworkVar_m_skybox3d",
+	"classname_mangled": "_ZTVN16CPlayerLocalData21NetworkVar_m_skybox3dE",
+	"members": [
+		{
+			"name": "CPlayerLocalData::NetworkVar_m_skybox3d::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN16CPlayerLocalData21NetworkVar_m_skybox3d19NetworkStateChangedEPv"
+		}
+	]
+}

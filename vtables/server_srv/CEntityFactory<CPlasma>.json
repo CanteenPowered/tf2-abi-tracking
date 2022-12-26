@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPlasma>",
+	"classname_mangled": "_ZTV14CEntityFactoryI7CPlasmaE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPlasma>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI7CPlasmaE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPlasma>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI7CPlasmaE13GetEntitySizeEv"
+		}
+	]
+}

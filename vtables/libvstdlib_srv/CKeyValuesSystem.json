@@ -1,0 +1,46 @@
+{
+	"classname": "CKeyValuesSystem",
+	"classname_mangled": "_ZTV16CKeyValuesSystem",
+	"members": [
+		{
+			"name": "CKeyValuesSystem::AllocKeyValuesMemory(int)",
+			"name_mangled": "_ZN16CKeyValuesSystem20AllocKeyValuesMemoryEi"
+		},
+		{
+			"name": "CKeyValuesSystem::FreeKeyValuesMemory(void*)",
+			"name_mangled": "_ZN16CKeyValuesSystem19FreeKeyValuesMemoryEPv"
+		},
+		{
+			"name": "CKeyValuesSystem::GetSymbolForString(char const*, bool)",
+			"name_mangled": "_ZN16CKeyValuesSystem18GetSymbolForStringEPKcb"
+		},
+		{
+			"name": "CKeyValuesSystem::GetStringForSymbol(int)",
+			"name_mangled": "_ZN16CKeyValuesSystem18GetStringForSymbolEi"
+		},
+		{
+			"name": "CKeyValuesSystem::AddKeyValuesToMemoryLeakList(void*, int)",
+			"name_mangled": "_ZN16CKeyValuesSystem28AddKeyValuesToMemoryLeakListEPvi"
+		},
+		{
+			"name": "CKeyValuesSystem::RemoveKeyValuesFromMemoryLeakList(void*)",
+			"name_mangled": "_ZN16CKeyValuesSystem33RemoveKeyValuesFromMemoryLeakListEPv"
+		},
+		{
+			"name": "CKeyValuesSystem::AddFileKeyValuesToCache(KeyValues const*, char const*, char const*)",
+			"name_mangled": "_ZN16CKeyValuesSystem23AddFileKeyValuesToCacheEPK9KeyValuesPKcS4_"
+		},
+		{
+			"name": "CKeyValuesSystem::LoadFileKeyValuesFromCache(KeyValues*, char const*, char const*, IBaseFileSystem*) const",
+			"name_mangled": "_ZNK16CKeyValuesSystem26LoadFileKeyValuesFromCacheEP9KeyValuesPKcS3_P15IBaseFileSystem"
+		},
+		{
+			"name": "CKeyValuesSystem::InvalidateCache()",
+			"name_mangled": "_ZN16CKeyValuesSystem15InvalidateCacheEv"
+		},
+		{
+			"name": "CKeyValuesSystem::InvalidateCacheForFile(char const*, char const*)",
+			"name_mangled": "_ZN16CKeyValuesSystem22InvalidateCacheForFileEPKcS1_"
+		}
+	]
+}

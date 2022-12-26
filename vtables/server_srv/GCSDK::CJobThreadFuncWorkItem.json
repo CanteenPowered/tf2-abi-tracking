@@ -1,0 +1,30 @@
+{
+	"classname": "GCSDK::CJobThreadFuncWorkItem",
+	"classname_mangled": "_ZTVN5GCSDK22CJobThreadFuncWorkItemE",
+	"members": [
+		{
+			"name": "GCSDK::CJobThreadFuncWorkItem::~CJobThreadFuncWorkItem()",
+			"name_mangled": "_ZN5GCSDK22CJobThreadFuncWorkItemD0Ev"
+		},
+		{
+			"name": "GCSDK::CRefCount::DestroyThis()",
+			"name_mangled": "_ZN5GCSDK9CRefCount11DestroyThisEv"
+		},
+		{
+			"name": "GCSDK::CJobThreadFuncWorkItem::GetDispatchCompletedName() const",
+			"name_mangled": "_ZNK5GCSDK22CJobThreadFuncWorkItem24GetDispatchCompletedNameEv"
+		},
+		{
+			"name": "GCSDK::CJobThreadFuncWorkItem::GetThreadProcessName() const",
+			"name_mangled": "_ZNK5GCSDK22CJobThreadFuncWorkItem20GetThreadProcessNameEv"
+		},
+		{
+			"name": "GCSDK::CJobThreadFuncWorkItem::ThreadProcess(GCSDK::CWorkThread*)",
+			"name_mangled": "_ZN5GCSDK22CJobThreadFuncWorkItem13ThreadProcessEPNS_11CWorkThreadE"
+		},
+		{
+			"name": "GCSDK::CWorkItem::DispatchCompletedWorkItem(GCSDK::CJobMgr*)",
+			"name_mangled": "_ZN5GCSDK9CWorkItem25DispatchCompletedWorkItemEPNS_7CJobMgrE"
+		}
+	]
+}

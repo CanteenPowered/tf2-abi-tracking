@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFBat_Wood>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CTFBat_WoodE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFBat_Wood>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CTFBat_WoodE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFBat_Wood>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CTFBat_WoodE13GetEntitySizeEv"
+		}
+	]
+}

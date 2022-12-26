@@ -1,0 +1,10 @@
+{
+	"classname": "CDllDemandLoader",
+	"classname_mangled": "_ZTV16CDllDemandLoader",
+	"members": [
+		{
+			"name": "CDllDemandLoader::~CDllDemandLoader()",
+			"name_mangled": "_ZN16CDllDemandLoaderD0Ev"
+		}
+	]
+}

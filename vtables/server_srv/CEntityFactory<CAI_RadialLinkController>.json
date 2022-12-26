@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAI_RadialLinkController>",
+	"classname_mangled": "_ZTV14CEntityFactoryI24CAI_RadialLinkControllerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAI_RadialLinkController>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI24CAI_RadialLinkControllerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAI_RadialLinkController>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI24CAI_RadialLinkControllerE13GetEntitySizeEv"
+		}
+	]
+}

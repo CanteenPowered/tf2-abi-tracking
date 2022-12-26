@@ -1,0 +1,66 @@
+{
+	"classname": "SVC_GameEvent",
+	"classname_mangled": "_ZTV13SVC_GameEvent",
+	"members": [
+		{
+			"name": "SVC_GameEvent::~SVC_GameEvent()",
+			"name_mangled": "_ZN13SVC_GameEventD0Ev"
+		},
+		{
+			"name": "CNetMessage::SetNetChannel(INetChannel*)",
+			"name_mangled": "_ZN11CNetMessage13SetNetChannelEP11INetChannel"
+		},
+		{
+			"name": "CNetMessage::SetReliable(bool)",
+			"name_mangled": "_ZN11CNetMessage11SetReliableEb"
+		},
+		{
+			"name": "SVC_GameEvent::Process()",
+			"name_mangled": "_ZN13SVC_GameEvent7ProcessEv"
+		},
+		{
+			"name": "SVC_GameEvent::ReadFromBuffer(bf_read&)",
+			"name_mangled": "_ZN13SVC_GameEvent14ReadFromBufferER7bf_read"
+		},
+		{
+			"name": "SVC_GameEvent::WriteToBuffer(bf_write&)",
+			"name_mangled": "_ZN13SVC_GameEvent13WriteToBufferER8bf_write"
+		},
+		{
+			"name": "CNetMessage::IsReliable() const",
+			"name_mangled": "_ZNK11CNetMessage10IsReliableEv"
+		},
+		{
+			"name": "SVC_GameEvent::GetType() const",
+			"name_mangled": "_ZNK13SVC_GameEvent7GetTypeEv"
+		},
+		{
+			"name": "SVC_GameEvent::GetGroup() const",
+			"name_mangled": "_ZNK13SVC_GameEvent8GetGroupEv"
+		},
+		{
+			"name": "SVC_GameEvent::GetName() const",
+			"name_mangled": "_ZNK13SVC_GameEvent7GetNameEv"
+		},
+		{
+			"name": "CNetMessage::GetNetChannel() const",
+			"name_mangled": "_ZNK11CNetMessage13GetNetChannelEv"
+		},
+		{
+			"name": "SVC_GameEvent::ToString() const",
+			"name_mangled": "_ZNK13SVC_GameEvent8ToStringEv"
+		},
+		{
+			"name": "CNetMessage::BIncomingMessageForProcessing(double, int)",
+			"name_mangled": "_ZN11CNetMessage29BIncomingMessageForProcessingEdi"
+		},
+		{
+			"name": "SVC_GameEvent::GetSize() const",
+			"name_mangled": "_ZNK13SVC_GameEvent7GetSizeEv"
+		},
+		{
+			"name": "CNetMessage::SetRatePolicy()",
+			"name_mangled": "_ZN11CNetMessage13SetRatePolicyEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CVoiceGameMgrHelper",
+	"classname_mangled": "_ZTV19CVoiceGameMgrHelper",
+	"members": [
+		{
+			"name": "CVoiceGameMgrHelper::~CVoiceGameMgrHelper()",
+			"name_mangled": "_ZN19CVoiceGameMgrHelperD0Ev"
+		},
+		{
+			"name": "CVoiceGameMgrHelper::CanPlayerHearPlayer(CBasePlayer*, CBasePlayer*, bool&)",
+			"name_mangled": "_ZN19CVoiceGameMgrHelper19CanPlayerHearPlayerEP11CBasePlayerS1_Rb"
+		}
+	]
+}

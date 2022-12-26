@@ -1,0 +1,70 @@
+{
+	"classname": "CReplayDemoRecorder",
+	"classname_mangled": "_ZTV19CReplayDemoRecorder",
+	"members": [
+		{
+			"name": "CReplayDemoRecorder::GetRecordingTick()",
+			"name_mangled": "_ZN19CReplayDemoRecorder16GetRecordingTickEv"
+		},
+		{
+			"name": "CReplayDemoRecorder::StartRecording(char const*, bool)",
+			"name_mangled": "_ZN19CReplayDemoRecorder14StartRecordingEPKcb"
+		},
+		{
+			"name": "CReplayDemoRecorder::SetSignonState(int)",
+			"name_mangled": "_ZN19CReplayDemoRecorder14SetSignonStateEi"
+		},
+		{
+			"name": "CReplayDemoRecorder::IsRecording()",
+			"name_mangled": "_ZN19CReplayDemoRecorder11IsRecordingEv"
+		},
+		{
+			"name": "CReplayDemoRecorder::PauseRecording()",
+			"name_mangled": "_ZN19CReplayDemoRecorder14PauseRecordingEv"
+		},
+		{
+			"name": "CReplayDemoRecorder::ResumeRecording()",
+			"name_mangled": "_ZN19CReplayDemoRecorder15ResumeRecordingEv"
+		},
+		{
+			"name": "CReplayDemoRecorder::StopRecording()",
+			"name_mangled": "_ZN19CReplayDemoRecorder13StopRecordingEv"
+		},
+		{
+			"name": "CReplayDemoRecorder::RecordCommand(char const*)",
+			"name_mangled": "_ZN19CReplayDemoRecorder13RecordCommandEPKc"
+		},
+		{
+			"name": "CReplayDemoRecorder::RecordUserInput(int)",
+			"name_mangled": "_ZN19CReplayDemoRecorder15RecordUserInputEi"
+		},
+		{
+			"name": "CReplayDemoRecorder::RecordMessages(bf_read&, int)",
+			"name_mangled": "_ZN19CReplayDemoRecorder14RecordMessagesER7bf_readi"
+		},
+		{
+			"name": "CReplayDemoRecorder::RecordPacket()",
+			"name_mangled": "_ZN19CReplayDemoRecorder12RecordPacketEv"
+		},
+		{
+			"name": "CReplayDemoRecorder::RecordServerClasses(ServerClass*)",
+			"name_mangled": "_ZN19CReplayDemoRecorder19RecordServerClassesEP11ServerClass"
+		},
+		{
+			"name": "CReplayDemoRecorder::RecordStringTables()",
+			"name_mangled": "_ZN19CReplayDemoRecorder18RecordStringTablesEv"
+		},
+		{
+			"name": "CReplayDemoRecorder::ResetDemoInterpolation()",
+			"name_mangled": "_ZN19CReplayDemoRecorder22ResetDemoInterpolationEv"
+		},
+		{
+			"name": "CReplayDemoRecorder::~CReplayDemoRecorder()",
+			"name_mangled": "_ZN19CReplayDemoRecorderD1Ev"
+		},
+		{
+			"name": "CReplayDemoRecorder::~CReplayDemoRecorder()",
+			"name_mangled": "_ZN19CReplayDemoRecorderD0Ev"
+		}
+	]
+}

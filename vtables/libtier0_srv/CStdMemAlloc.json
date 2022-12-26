@@ -1,0 +1,154 @@
+{
+	"classname": "CStdMemAlloc",
+	"classname_mangled": "_ZTV12CStdMemAlloc",
+	"members": [
+		{
+			"name": "CStdMemAlloc::Realloc(void*, unsigned int)",
+			"name_mangled": "_ZN12CStdMemAlloc7ReallocEPvj"
+		},
+		{
+			"name": "CStdMemAlloc::Free(void*)",
+			"name_mangled": "_ZN12CStdMemAlloc4FreeEPv"
+		},
+		{
+			"name": "CStdMemAlloc::Expand_NoLongerSupported(void*, unsigned int)",
+			"name_mangled": "_ZN12CStdMemAlloc24Expand_NoLongerSupportedEPvj"
+		},
+		{
+			"name": "CStdMemAlloc::Alloc(unsigned int, char const*, int)",
+			"name_mangled": "_ZN12CStdMemAlloc5AllocEjPKci"
+		},
+		{
+			"name": "CStdMemAlloc::Realloc(void*, unsigned int, char const*, int)",
+			"name_mangled": "_ZN12CStdMemAlloc7ReallocEPvjPKci"
+		},
+		{
+			"name": "CStdMemAlloc::Free(void*, char const*, int)",
+			"name_mangled": "_ZN12CStdMemAlloc4FreeEPvPKci"
+		},
+		{
+			"name": "CStdMemAlloc::Expand_NoLongerSupported(void*, unsigned int, char const*, int)",
+			"name_mangled": "_ZN12CStdMemAlloc24Expand_NoLongerSupportedEPvjPKci"
+		},
+		{
+			"name": "CStdMemAlloc::GetSize(void*)",
+			"name_mangled": "_ZN12CStdMemAlloc7GetSizeEPv"
+		},
+		{
+			"name": "CStdMemAlloc::PushAllocDbgInfo(char const*, int)",
+			"name_mangled": "_ZN12CStdMemAlloc16PushAllocDbgInfoEPKci"
+		},
+		{
+			"name": "CStdMemAlloc::PopAllocDbgInfo()",
+			"name_mangled": "_ZN12CStdMemAlloc15PopAllocDbgInfoEv"
+		},
+		{
+			"name": "CStdMemAlloc::CrtSetBreakAlloc(long)",
+			"name_mangled": "_ZN12CStdMemAlloc16CrtSetBreakAllocEl"
+		},
+		{
+			"name": "CStdMemAlloc::CrtSetReportMode(int, int)",
+			"name_mangled": "_ZN12CStdMemAlloc16CrtSetReportModeEii"
+		},
+		{
+			"name": "CStdMemAlloc::CrtIsValidHeapPointer(void const*)",
+			"name_mangled": "_ZN12CStdMemAlloc21CrtIsValidHeapPointerEPKv"
+		},
+		{
+			"name": "CStdMemAlloc::CrtIsValidPointer(void const*, unsigned int, int)",
+			"name_mangled": "_ZN12CStdMemAlloc17CrtIsValidPointerEPKvji"
+		},
+		{
+			"name": "CStdMemAlloc::CrtCheckMemory()",
+			"name_mangled": "_ZN12CStdMemAlloc14CrtCheckMemoryEv"
+		},
+		{
+			"name": "CStdMemAlloc::CrtSetDbgFlag(int)",
+			"name_mangled": "_ZN12CStdMemAlloc13CrtSetDbgFlagEi"
+		},
+		{
+			"name": "CStdMemAlloc::CrtMemCheckpoint(_CrtMemState*)",
+			"name_mangled": "_ZN12CStdMemAlloc16CrtMemCheckpointEP12_CrtMemState"
+		},
+		{
+			"name": "CStdMemAlloc::DumpStats()",
+			"name_mangled": "_ZN12CStdMemAlloc9DumpStatsEv"
+		},
+		{
+			"name": "CStdMemAlloc::DumpStatsFileBase(char const*)",
+			"name_mangled": "_ZN12CStdMemAlloc17DumpStatsFileBaseEPKc"
+		},
+		{
+			"name": "CStdMemAlloc::CrtSetReportFile(int, void*)",
+			"name_mangled": "_ZN12CStdMemAlloc16CrtSetReportFileEiPv"
+		},
+		{
+			"name": "CStdMemAlloc::CrtSetReportHook(void*)",
+			"name_mangled": "_ZN12CStdMemAlloc16CrtSetReportHookEPv"
+		},
+		{
+			"name": "CStdMemAlloc::CrtDbgReport(int, char const*, int, char const*, char const*)",
+			"name_mangled": "_ZN12CStdMemAlloc12CrtDbgReportEiPKciS1_S1_"
+		},
+		{
+			"name": "CStdMemAlloc::heapchk()",
+			"name_mangled": "_ZN12CStdMemAlloc7heapchkEv"
+		},
+		{
+			"name": "CStdMemAlloc::IsDebugHeap()",
+			"name_mangled": "_ZN12CStdMemAlloc11IsDebugHeapEv"
+		},
+		{
+			"name": "CStdMemAlloc::GetActualDbgInfo(char const*&, int&)",
+			"name_mangled": "_ZN12CStdMemAlloc16GetActualDbgInfoERPKcRi"
+		},
+		{
+			"name": "CStdMemAlloc::RegisterAllocation(char const*, int, int, int, unsigned int)",
+			"name_mangled": "_ZN12CStdMemAlloc18RegisterAllocationEPKciiij"
+		},
+		{
+			"name": "CStdMemAlloc::RegisterDeallocation(char const*, int, int, int, unsigned int)",
+			"name_mangled": "_ZN12CStdMemAlloc20RegisterDeallocationEPKciiij"
+		},
+		{
+			"name": "CStdMemAlloc::GetVersion()",
+			"name_mangled": "_ZN12CStdMemAlloc10GetVersionEv"
+		},
+		{
+			"name": "CStdMemAlloc::CompactHeap()",
+			"name_mangled": "_ZN12CStdMemAlloc11CompactHeapEv"
+		},
+		{
+			"name": "CStdMemAlloc::SetAllocFailHandler(unsigned int (*)(unsigned int))",
+			"name_mangled": "_ZN12CStdMemAlloc19SetAllocFailHandlerEPFjjE"
+		},
+		{
+			"name": "CStdMemAlloc::DumpBlockStats(void*)",
+			"name_mangled": "_ZN12CStdMemAlloc14DumpBlockStatsEPv"
+		},
+		{
+			"name": "CStdMemAlloc::MemoryAllocFailed()",
+			"name_mangled": "_ZN12CStdMemAlloc17MemoryAllocFailedEv"
+		},
+		{
+			"name": "CStdMemAlloc::GetDebugInfoSize()",
+			"name_mangled": "_ZN12CStdMemAlloc16GetDebugInfoSizeEv"
+		},
+		{
+			"name": "CStdMemAlloc::SaveDebugInfo(void*)",
+			"name_mangled": "_ZN12CStdMemAlloc13SaveDebugInfoEPv"
+		},
+		{
+			"name": "CStdMemAlloc::RestoreDebugInfo(void const*)",
+			"name_mangled": "_ZN12CStdMemAlloc16RestoreDebugInfoEPKv"
+		},
+		{
+			"name": "CStdMemAlloc::InitDebugInfo(void*, char const*, int)",
+			"name_mangled": "_ZN12CStdMemAlloc13InitDebugInfoEPvPKci"
+		},
+		{
+			"name": "CStdMemAlloc::GlobalMemoryStatus(unsigned int*, unsigned int*)",
+			"name_mangled": "_ZN12CStdMemAlloc18GlobalMemoryStatusEPjS0_"
+		}
+	]
+}

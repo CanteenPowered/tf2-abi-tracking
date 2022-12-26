@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFWeaponPDAExpansion_Teleporter>",
+	"classname_mangled": "_ZTV14CEntityFactoryI32CTFWeaponPDAExpansion_TeleporterE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFWeaponPDAExpansion_Teleporter>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI32CTFWeaponPDAExpansion_TeleporterE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFWeaponPDAExpansion_Teleporter>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI32CTFWeaponPDAExpansion_TeleporterE13GetEntitySizeEv"
+		}
+	]
+}

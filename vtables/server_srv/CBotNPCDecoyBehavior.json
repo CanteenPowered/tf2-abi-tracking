@@ -1,0 +1,370 @@
+{
+	"classname": "CBotNPCDecoyBehavior",
+	"classname_mangled": "_ZTV20CBotNPCDecoyBehavior",
+	"members": [
+		{
+			"name": "CBotNPCDecoyBehavior::~CBotNPCDecoyBehavior()",
+			"name_mangled": "_ZN20CBotNPCDecoyBehaviorD0Ev"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::FirstContainedResponder() const",
+			"name_mangled": "_ZNK6ActionI12CBotNPCDecoyE23FirstContainedResponderEv"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::NextContainedResponder(INextBotEventResponder*) const",
+			"name_mangled": "_ZNK6ActionI12CBotNPCDecoyE22NextContainedResponderEP22INextBotEventResponder"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnLeaveGround(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE13OnLeaveGroundEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnLandOnGround(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE14OnLandOnGroundEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnContact(CBaseEntity*, CGameTrace*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE9OnContactEP11CBaseEntityP10CGameTrace"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnMoveToSuccess(Path const*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE15OnMoveToSuccessEPK4Path"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnMoveToFailure(Path const*, MoveToFailureType)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE15OnMoveToFailureEPK4Path17MoveToFailureType"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnStuck()",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE7OnStuckEv"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnUnStuck()",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE9OnUnStuckEv"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnPostureChanged()",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE16OnPostureChangedEv"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnAnimationActivityComplete(int)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE27OnAnimationActivityCompleteEi"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnAnimationActivityInterrupted(int)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE30OnAnimationActivityInterruptedEi"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnAnimationEvent(animevent_t*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE16OnAnimationEventEP11animevent_t"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnIgnite()",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE8OnIgniteEv"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnInjured(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE9OnInjuredERK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnKilled(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE8OnKilledERK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE13OnOtherKilledEP20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnSight(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE7OnSightEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnLostSight(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE11OnLostSightEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnSound(CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE7OnSoundEP11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE14OnSpokeConceptEP20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE13OnWeaponFiredEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnNavAreaChanged(CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE16OnNavAreaChangedEP8CNavAreaS3_"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnModelChanged()",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE14OnModelChangedEv"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE8OnPickUpEP11CBaseEntityP20CBaseCombatCharacter"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnDrop(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE6OnDropEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnActorEmoted(CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE13OnActorEmotedEP20CBaseCombatCharacteri"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnCommandAttack(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE15OnCommandAttackEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnCommandApproach(Vector const&, float)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE17OnCommandApproachERK6Vectorf"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnCommandApproach(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE17OnCommandApproachEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnCommandRetreat(CBaseEntity*, float)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE16OnCommandRetreatEP11CBaseEntityf"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnCommandPause(float)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE14OnCommandPauseEf"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnCommandResume()",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE15OnCommandResumeEv"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnCommandString(char const*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE15OnCommandStringEPKc"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnShoved(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE8OnShovedEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnBlinded(CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE9OnBlindedEP11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnTerritoryContested(int)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE20OnTerritoryContestedEi"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnTerritoryCaptured(int)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE19OnTerritoryCapturedEi"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnTerritoryLost(int)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE15OnTerritoryLostEi"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnWin()",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE5OnWinEv"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnLose()",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE6OnLoseEv"
+		},
+		{
+			"name": "CBotNPCDecoyBehavior::GetName() const",
+			"name_mangled": "_ZNK20CBotNPCDecoyBehavior7GetNameEv"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::IsNamed(char const*) const",
+			"name_mangled": "_ZNK6ActionI12CBotNPCDecoyE7IsNamedEPKc"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::GetFullName() const",
+			"name_mangled": "_ZNK6ActionI12CBotNPCDecoyE11GetFullNameEv"
+		},
+		{
+			"name": "CBotNPCDecoyBehavior::OnStart(CBotNPCDecoy*, Action<CBotNPCDecoy>*)",
+			"name_mangled": "_ZN20CBotNPCDecoyBehavior7OnStartEP12CBotNPCDecoyP6ActionIS0_E"
+		},
+		{
+			"name": "CBotNPCDecoyBehavior::Update(CBotNPCDecoy*, float)",
+			"name_mangled": "_ZN20CBotNPCDecoyBehavior6UpdateEP12CBotNPCDecoyf"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnEnd(CBotNPCDecoy*, Action<CBotNPCDecoy>*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE5OnEndEPS0_PS1_"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnSuspend(CBotNPCDecoy*, Action<CBotNPCDecoy>*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE9OnSuspendEPS0_PS1_"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnResume(CBotNPCDecoy*, Action<CBotNPCDecoy>*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE8OnResumeEPS0_PS1_"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::InitialContainedAction(CBotNPCDecoy*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE22InitialContainedActionEPS0_"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnLeaveGround(CBotNPCDecoy*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE13OnLeaveGroundEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnLandOnGround(CBotNPCDecoy*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE14OnLandOnGroundEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnContact(CBotNPCDecoy*, CBaseEntity*, CGameTrace*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE9OnContactEPS0_P11CBaseEntityP10CGameTrace"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnMoveToSuccess(CBotNPCDecoy*, Path const*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE15OnMoveToSuccessEPS0_PK4Path"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnMoveToFailure(CBotNPCDecoy*, Path const*, MoveToFailureType)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE15OnMoveToFailureEPS0_PK4Path17MoveToFailureType"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnStuck(CBotNPCDecoy*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE7OnStuckEPS0_"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnUnStuck(CBotNPCDecoy*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE9OnUnStuckEPS0_"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnPostureChanged(CBotNPCDecoy*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE16OnPostureChangedEPS0_"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnAnimationActivityComplete(CBotNPCDecoy*, int)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE27OnAnimationActivityCompleteEPS0_i"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnAnimationActivityInterrupted(CBotNPCDecoy*, int)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE30OnAnimationActivityInterruptedEPS0_i"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnAnimationEvent(CBotNPCDecoy*, animevent_t*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE16OnAnimationEventEPS0_P11animevent_t"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnIgnite(CBotNPCDecoy*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE8OnIgniteEPS0_"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnInjured(CBotNPCDecoy*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE9OnInjuredEPS0_RK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnKilled(CBotNPCDecoy*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE8OnKilledEPS0_RK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnOtherKilled(CBotNPCDecoy*, CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE13OnOtherKilledEPS0_P20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnSight(CBotNPCDecoy*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE7OnSightEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnLostSight(CBotNPCDecoy*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE11OnLostSightEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnSound(CBotNPCDecoy*, CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE7OnSoundEPS0_P11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnSpokeConcept(CBotNPCDecoy*, CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE14OnSpokeConceptEPS0_P20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnWeaponFired(CBotNPCDecoy*, CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE13OnWeaponFiredEPS0_P20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnNavAreaChanged(CBotNPCDecoy*, CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE16OnNavAreaChangedEPS0_P8CNavAreaS4_"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnModelChanged(CBotNPCDecoy*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE14OnModelChangedEPS0_"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnPickUp(CBotNPCDecoy*, CBaseEntity*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE8OnPickUpEPS0_P11CBaseEntityP20CBaseCombatCharacter"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnDrop(CBotNPCDecoy*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE6OnDropEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnActorEmoted(CBotNPCDecoy*, CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE13OnActorEmotedEPS0_P20CBaseCombatCharacteri"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnCommandAttack(CBotNPCDecoy*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE15OnCommandAttackEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnCommandApproach(CBotNPCDecoy*, Vector const&, float)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE17OnCommandApproachEPS0_RK6Vectorf"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnCommandApproach(CBotNPCDecoy*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE17OnCommandApproachEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnCommandRetreat(CBotNPCDecoy*, CBaseEntity*, float)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE16OnCommandRetreatEPS0_P11CBaseEntityf"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnCommandPause(CBotNPCDecoy*, float)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE14OnCommandPauseEPS0_f"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnCommandResume(CBotNPCDecoy*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE15OnCommandResumeEPS0_"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnCommandString(CBotNPCDecoy*, char const*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE15OnCommandStringEPS0_PKc"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnShoved(CBotNPCDecoy*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE8OnShovedEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnBlinded(CBotNPCDecoy*, CBaseEntity*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE9OnBlindedEPS0_P11CBaseEntity"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnTerritoryContested(CBotNPCDecoy*, int)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE20OnTerritoryContestedEPS0_i"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnTerritoryCaptured(CBotNPCDecoy*, int)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE19OnTerritoryCapturedEPS0_i"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnTerritoryLost(CBotNPCDecoy*, int)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE15OnTerritoryLostEPS0_i"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnWin(CBotNPCDecoy*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE5OnWinEPS0_"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::OnLose(CBotNPCDecoy*)",
+			"name_mangled": "_ZN6ActionI12CBotNPCDecoyE6OnLoseEPS0_"
+		},
+		{
+			"name": "Action<CBotNPCDecoy>::IsAbleToBlockMovementOf(INextBot const*) const",
+			"name_mangled": "_ZNK6ActionI12CBotNPCDecoyE23IsAbleToBlockMovementOfEPK8INextBot"
+		}
+	]
+}

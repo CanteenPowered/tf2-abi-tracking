@@ -1,0 +1,10 @@
+{
+	"classname": "IInfoPowerupSpawnAutoList",
+	"classname_mangled": "_ZTV25IInfoPowerupSpawnAutoList",
+	"members": [
+		{
+			"name": "IInfoPowerupSpawnAutoList::~IInfoPowerupSpawnAutoList()",
+			"name_mangled": "_ZN25IInfoPowerupSpawnAutoListD0Ev"
+		}
+	]
+}

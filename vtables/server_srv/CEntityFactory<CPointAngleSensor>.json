@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPointAngleSensor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI17CPointAngleSensorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPointAngleSensor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI17CPointAngleSensorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPointAngleSensor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI17CPointAngleSensorE13GetEntitySizeEv"
+		}
+	]
+}

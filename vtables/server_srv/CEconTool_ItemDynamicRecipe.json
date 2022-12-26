@@ -1,0 +1,30 @@
+{
+	"classname": "CEconTool_ItemDynamicRecipe",
+	"classname_mangled": "_ZTV27CEconTool_ItemDynamicRecipe",
+	"members": [
+		{
+			"name": "CEconTool_ItemDynamicRecipe::~CEconTool_ItemDynamicRecipe()",
+			"name_mangled": "_ZN27CEconTool_ItemDynamicRecipeD0Ev"
+		},
+		{
+			"name": "CEconTool_ItemDynamicRecipe::CanApplyTo(IEconItemInterface const*, IEconItemInterface const*) const",
+			"name_mangled": "_ZNK27CEconTool_ItemDynamicRecipe10CanApplyToEPK18IEconItemInterfaceS2_"
+		},
+		{
+			"name": "IEconTool::ShouldDisplayQuantity(IEconItemInterface const*) const",
+			"name_mangled": "_ZNK9IEconTool21ShouldDisplayQuantityEPK18IEconItemInterface"
+		},
+		{
+			"name": "IEconTool::RequiresToolEscrowPeriod() const",
+			"name_mangled": "_ZNK9IEconTool24RequiresToolEscrowPeriodEv"
+		},
+		{
+			"name": "CEconTool_ItemDynamicRecipe::BFinishInitialization()",
+			"name_mangled": "_ZN27CEconTool_ItemDynamicRecipe21BFinishInitializationEv"
+		},
+		{
+			"name": "CEconTool_ItemDynamicRecipe::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN27CEconTool_ItemDynamicRecipe11BInitFromKVEP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		}
+	]
+}

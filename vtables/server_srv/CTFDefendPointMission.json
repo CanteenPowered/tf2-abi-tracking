@@ -1,0 +1,26 @@
+{
+	"classname": "CTFDefendPointMission",
+	"classname_mangled": "_ZTV21CTFDefendPointMission",
+	"members": [
+		{
+			"name": "CTFDefendPointMission::~CTFDefendPointMission()",
+			"name_mangled": "_ZN21CTFDefendPointMissionD0Ev"
+		},
+		{
+			"name": "CTFDefendPointMission::GetDeployZone(CBasePlayer*) const",
+			"name_mangled": "_ZNK21CTFDefendPointMission13GetDeployZoneEP11CBasePlayer"
+		},
+		{
+			"name": "CTFDefendPointMission::GetObjectiveZone() const",
+			"name_mangled": "_ZNK21CTFDefendPointMission16GetObjectiveZoneEv"
+		},
+		{
+			"name": "CTFDefendPointMission::GetEnemyZone() const",
+			"name_mangled": "_ZNK21CTFDefendPointMission12GetEnemyZoneEv"
+		},
+		{
+			"name": "CTFDefendPointMission::GetName() const",
+			"name_mangled": "_ZNK21CTFDefendPointMission7GetNameEv"
+		}
+	]
+}

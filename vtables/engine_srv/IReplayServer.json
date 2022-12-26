@@ -1,0 +1,10 @@
+{
+	"classname": "IReplayServer",
+	"classname_mangled": "_ZTV13IReplayServer",
+	"members": [
+		{
+			"name": "IReplayServer::~IReplayServer()",
+			"name_mangled": "_ZN13IReplayServerD0Ev"
+		}
+	]
+}

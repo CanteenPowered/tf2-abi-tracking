@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CLogicOnHoliday>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CLogicOnHolidayE",
+	"members": [
+		{
+			"name": "CEntityFactory<CLogicOnHoliday>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CLogicOnHolidayE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CLogicOnHoliday>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CLogicOnHolidayE13GetEntitySizeEv"
+		}
+	]
+}

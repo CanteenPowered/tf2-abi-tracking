@@ -1,0 +1,10 @@
+{
+	"classname": "ITFPerPlayerMatchCriteriaReader",
+	"classname_mangled": "_ZTV31ITFPerPlayerMatchCriteriaReader",
+	"members": [
+		{
+			"name": "ITFPerPlayerMatchCriteriaReader::~ITFPerPlayerMatchCriteriaReader()",
+			"name_mangled": "_ZN31ITFPerPlayerMatchCriteriaReaderD0Ev"
+		}
+	]
+}

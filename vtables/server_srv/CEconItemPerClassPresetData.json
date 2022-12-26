@@ -1,0 +1,46 @@
+{
+	"classname": "CEconItemPerClassPresetData",
+	"classname_mangled": "_ZTV27CEconItemPerClassPresetData",
+	"members": [
+		{
+			"name": "CEconItemPerClassPresetData::~CEconItemPerClassPresetData()",
+			"name_mangled": "_ZN27CEconItemPerClassPresetDataD0Ev"
+		},
+		{
+			"name": "CEconItemPerClassPresetData::GetTypeID() const",
+			"name_mangled": "_ZNK27CEconItemPerClassPresetData9GetTypeIDEv"
+		},
+		{
+			"name": "CEconItemPerClassPresetData::BParseFromMessage(CUtlBuffer const&)",
+			"name_mangled": "_ZN27CEconItemPerClassPresetData17BParseFromMessageERK10CUtlBuffer"
+		},
+		{
+			"name": "CEconItemPerClassPresetData::BParseFromMessage(std::string const&)",
+			"name_mangled": "_ZN27CEconItemPerClassPresetData17BParseFromMessageERKSs"
+		},
+		{
+			"name": "CEconItemPerClassPresetData::BUpdateFromNetwork(GCSDK::CSharedObject const&)",
+			"name_mangled": "_ZN27CEconItemPerClassPresetData18BUpdateFromNetworkERKN5GCSDK13CSharedObjectE"
+		},
+		{
+			"name": "CEconItemPerClassPresetData::BIsKeyLess(GCSDK::CSharedObject const&) const",
+			"name_mangled": "_ZNK27CEconItemPerClassPresetData10BIsKeyLessERKN5GCSDK13CSharedObjectE"
+		},
+		{
+			"name": "CEconItemPerClassPresetData::Copy(GCSDK::CSharedObject const&)",
+			"name_mangled": "_ZN27CEconItemPerClassPresetData4CopyERKN5GCSDK13CSharedObjectE"
+		},
+		{
+			"name": "CEconItemPerClassPresetData::Dump() const",
+			"name_mangled": "_ZNK27CEconItemPerClassPresetData4DumpEv"
+		},
+		{
+			"name": "GCSDK::CSharedObject::BShouldDeleteByCache() const",
+			"name_mangled": "_ZNK5GCSDK13CSharedObject20BShouldDeleteByCacheEv"
+		},
+		{
+			"name": "GCSDK::CSharedObject::GetDebugString() const",
+			"name_mangled": "_ZNK5GCSDK13CSharedObject14GetDebugStringEv"
+		}
+	]
+}

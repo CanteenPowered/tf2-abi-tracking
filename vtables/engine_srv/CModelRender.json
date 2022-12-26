@@ -1,0 +1,110 @@
+{
+	"classname": "CModelRender",
+	"classname_mangled": "_ZTV12CModelRender",
+	"members": [
+		{
+			"name": "CModelRender::ForcedMaterialOverride(IMaterial*, OverrideType_t)",
+			"name_mangled": "_ZN12CModelRender22ForcedMaterialOverrideEP9IMaterial14OverrideType_t"
+		},
+		{
+			"name": "CModelRender::SetViewTarget(CStudioHdr const*, int, Vector const&)",
+			"name_mangled": "_ZN12CModelRender13SetViewTargetEPK10CStudioHdriRK6Vector"
+		},
+		{
+			"name": "CModelRender::CreateInstance(IClientRenderable*, LightCacheHandle_t__**)",
+			"name_mangled": "_ZN12CModelRender14CreateInstanceEP17IClientRenderablePP20LightCacheHandle_t__"
+		},
+		{
+			"name": "CModelRender::DestroyInstance(unsigned short)",
+			"name_mangled": "_ZN12CModelRender15DestroyInstanceEt"
+		},
+		{
+			"name": "CModelRender::SetStaticLighting(unsigned short, LightCacheHandle_t__**)",
+			"name_mangled": "_ZN12CModelRender17SetStaticLightingEtPP20LightCacheHandle_t__"
+		},
+		{
+			"name": "CModelRender::GetStaticLighting(unsigned short)",
+			"name_mangled": "_ZN12CModelRender17GetStaticLightingEt"
+		},
+		{
+			"name": "CModelRender::ChangeInstance(unsigned short, IClientRenderable*)",
+			"name_mangled": "_ZN12CModelRender14ChangeInstanceEtP17IClientRenderable"
+		},
+		{
+			"name": "CModelRender::AddDecal(unsigned short, Ray_t const&, Vector const&, int, int, bool, int)",
+			"name_mangled": "_ZN12CModelRender8AddDecalEtRK5Ray_tRK6Vectoriibi"
+		},
+		{
+			"name": "CModelRender::RemoveAllDecals(unsigned short)",
+			"name_mangled": "_ZN12CModelRender15RemoveAllDecalsEt"
+		},
+		{
+			"name": "CModelRender::RemoveAllDecalsFromAllModels()",
+			"name_mangled": "_ZN12CModelRender28RemoveAllDecalsFromAllModelsEv"
+		},
+		{
+			"name": "CModelRender::DrawModelShadowSetup(IClientRenderable*, int, int, DrawModelInfo_t*, matrix3x4_t*)",
+			"name_mangled": "_ZN12CModelRender20DrawModelShadowSetupEP17IClientRenderableiiP15DrawModelInfo_tP11matrix3x4_t"
+		},
+		{
+			"name": "CModelRender::DrawModelShadow(IClientRenderable*, DrawModelInfo_t const&, matrix3x4_t*)",
+			"name_mangled": "_ZN12CModelRender15DrawModelShadowEP17IClientRenderableRK15DrawModelInfo_tP11matrix3x4_t"
+		},
+		{
+			"name": "CModelRender::RecomputeStaticLighting(unsigned short)",
+			"name_mangled": "_ZN12CModelRender23RecomputeStaticLightingEt"
+		},
+		{
+			"name": "CModelRender::ReleaseAllStaticPropColorData()",
+			"name_mangled": "_ZN12CModelRender29ReleaseAllStaticPropColorDataEv"
+		},
+		{
+			"name": "CModelRender::RestoreAllStaticPropColorData()",
+			"name_mangled": "_ZN12CModelRender29RestoreAllStaticPropColorDataEv"
+		},
+		{
+			"name": "CModelRender::DrawModelEx(ModelRenderInfo_t&)",
+			"name_mangled": "_ZN12CModelRender11DrawModelExER17ModelRenderInfo_t"
+		},
+		{
+			"name": "CModelRender::DrawModelExStaticProp(ModelRenderInfo_t&)",
+			"name_mangled": "_ZN12CModelRender21DrawModelExStaticPropER17ModelRenderInfo_t"
+		},
+		{
+			"name": "CModelRender::DrawModelSetup(ModelRenderInfo_t&, DrawModelState_t*, matrix3x4_t*, matrix3x4_t**)",
+			"name_mangled": "_ZN12CModelRender14DrawModelSetupER17ModelRenderInfo_tP16DrawModelState_tP11matrix3x4_tPS5_"
+		},
+		{
+			"name": "CModelRender::DrawModelExecute(DrawModelState_t const&, ModelRenderInfo_t const&, matrix3x4_t*)",
+			"name_mangled": "_ZN12CModelRender16DrawModelExecuteERK16DrawModelState_tRK17ModelRenderInfo_tP11matrix3x4_t"
+		},
+		{
+			"name": "CModelRender::SetupLighting(Vector const&)",
+			"name_mangled": "_ZN12CModelRender13SetupLightingERK6Vector"
+		},
+		{
+			"name": "CModelRender::DrawStaticPropArrayFast(StaticPropRenderInfo_t*, int, bool)",
+			"name_mangled": "_ZN12CModelRender23DrawStaticPropArrayFastEP22StaticPropRenderInfo_tib"
+		},
+		{
+			"name": "CModelRender::SuppressEngineLighting(bool)",
+			"name_mangled": "_ZN12CModelRender22SuppressEngineLightingEb"
+		},
+		{
+			"name": "CModelRender::SetupColorMeshes(int)",
+			"name_mangled": "_ZN12CModelRender16SetupColorMeshesEi"
+		},
+		{
+			"name": "CModelRender::AddColoredDecal(unsigned short, Ray_t const&, Vector const&, int, int, Color, bool, int)",
+			"name_mangled": "_ZN12CModelRender15AddColoredDecalEtRK5Ray_tRK6Vectorii5Colorbi"
+		},
+		{
+			"name": "CModelRender::GetMaterialOverride(IMaterial**, OverrideType_t*)",
+			"name_mangled": "_ZN12CModelRender19GetMaterialOverrideEPP9IMaterialP14OverrideType_t"
+		},
+		{
+			"name": "CModelRender::GetItemName(unsigned int, void const*, char*, unsigned int)",
+			"name_mangled": "_ZN12CModelRender11GetItemNameEjPKvPcj"
+		}
+	]
+}

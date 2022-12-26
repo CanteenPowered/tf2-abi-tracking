@@ -1,0 +1,14 @@
+{
+	"classname": "CCallResult<CLeaderboardInfo, LeaderboardFindResult_t>",
+	"classname_mangled": "_ZTV11CCallResultI16CLeaderboardInfo23LeaderboardFindResult_tE",
+	"members": [
+		{
+			"name": "CCallResult<CLeaderboardInfo, LeaderboardFindResult_t>::Run(void*, bool, unsigned long long)",
+			"name_mangled": "_ZN11CCallResultI16CLeaderboardInfo23LeaderboardFindResult_tE3RunEPvby"
+		},
+		{
+			"name": "CCallResult<CLeaderboardInfo, LeaderboardFindResult_t>::GetCallbackSizeBytes()",
+			"name_mangled": "_ZN11CCallResultI16CLeaderboardInfo23LeaderboardFindResult_tE20GetCallbackSizeBytesEv"
+		}
+	]
+}

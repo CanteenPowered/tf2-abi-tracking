@@ -1,0 +1,30 @@
+{
+	"classname": "GCSDK::CGCClientSharedObjectTypeCache",
+	"classname_mangled": "_ZTVN5GCSDK30CGCClientSharedObjectTypeCacheE",
+	"members": [
+		{
+			"name": "GCSDK::CGCClientSharedObjectTypeCache::~CGCClientSharedObjectTypeCache()",
+			"name_mangled": "_ZN5GCSDK30CGCClientSharedObjectTypeCacheD0Ev"
+		},
+		{
+			"name": "GCSDK::CSharedObjectTypeCache::AddObject(GCSDK::CSharedObject*)",
+			"name_mangled": "_ZN5GCSDK22CSharedObjectTypeCache9AddObjectEPNS_13CSharedObjectE"
+		},
+		{
+			"name": "GCSDK::CSharedObjectTypeCache::AddObjectClean(GCSDK::CSharedObject*)",
+			"name_mangled": "_ZN5GCSDK22CSharedObjectTypeCache14AddObjectCleanEPNS_13CSharedObjectE"
+		},
+		{
+			"name": "GCSDK::CSharedObjectTypeCache::RemoveObject(GCSDK::CSharedObject const&)",
+			"name_mangled": "_ZN5GCSDK22CSharedObjectTypeCache12RemoveObjectERKNS_13CSharedObjectE"
+		},
+		{
+			"name": "GCSDK::CSharedObjectTypeCache::EnsureCapacity(unsigned int)",
+			"name_mangled": "_ZN5GCSDK22CSharedObjectTypeCache14EnsureCapacityEj"
+		},
+		{
+			"name": "GCSDK::CSharedObjectTypeCache::Dump() const",
+			"name_mangled": "_ZNK5GCSDK22CSharedObjectTypeCache4DumpEv"
+		}
+	]
+}

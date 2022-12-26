@@ -1,0 +1,58 @@
+{
+	"classname": "CBSPTreeData",
+	"classname_mangled": "_ZTV12CBSPTreeData",
+	"members": [
+		{
+			"name": "CBSPTreeData::~CBSPTreeData()",
+			"name_mangled": "_ZN12CBSPTreeDataD0Ev"
+		},
+		{
+			"name": "CBSPTreeData::Init(ISpatialQuery*)",
+			"name_mangled": "_ZN12CBSPTreeData4InitEP13ISpatialQuery"
+		},
+		{
+			"name": "CBSPTreeData::Shutdown()",
+			"name_mangled": "_ZN12CBSPTreeData8ShutdownEv"
+		},
+		{
+			"name": "CBSPTreeData::Insert(int, Vector const&, Vector const&)",
+			"name_mangled": "_ZN12CBSPTreeData6InsertEiRK6VectorS2_"
+		},
+		{
+			"name": "CBSPTreeData::Remove(unsigned short)",
+			"name_mangled": "_ZN12CBSPTreeData6RemoveEt"
+		},
+		{
+			"name": "CBSPTreeData::ElementMoved(unsigned short, Vector const&, Vector const&)",
+			"name_mangled": "_ZN12CBSPTreeData12ElementMovedEtRK6VectorS2_"
+		},
+		{
+			"name": "CBSPTreeData::EnumerateElementsInLeaf(int, IBSPTreeDataEnumerator*, int)",
+			"name_mangled": "_ZN12CBSPTreeData23EnumerateElementsInLeafEiP22IBSPTreeDataEnumeratori"
+		},
+		{
+			"name": "CBSPTreeData::IsElementInTree(unsigned short) const",
+			"name_mangled": "_ZNK12CBSPTreeData15IsElementInTreeEt"
+		},
+		{
+			"name": "CBSPTreeData::EnumerateLeavesAtPoint(Vector const&, ISpatialLeafEnumerator*, int)",
+			"name_mangled": "_ZN12CBSPTreeData22EnumerateLeavesAtPointERK6VectorP22ISpatialLeafEnumeratori"
+		},
+		{
+			"name": "CBSPTreeData::EnumerateLeavesInBox(Vector const&, Vector const&, ISpatialLeafEnumerator*, int)",
+			"name_mangled": "_ZN12CBSPTreeData20EnumerateLeavesInBoxERK6VectorS2_P22ISpatialLeafEnumeratori"
+		},
+		{
+			"name": "CBSPTreeData::EnumerateLeavesInSphere(Vector const&, float, ISpatialLeafEnumerator*, int)",
+			"name_mangled": "_ZN12CBSPTreeData23EnumerateLeavesInSphereERK6VectorfP22ISpatialLeafEnumeratori"
+		},
+		{
+			"name": "CBSPTreeData::EnumerateLeavesAlongRay(Ray_t const&, ISpatialLeafEnumerator*, int)",
+			"name_mangled": "_ZN12CBSPTreeData23EnumerateLeavesAlongRayERK5Ray_tP22ISpatialLeafEnumeratori"
+		},
+		{
+			"name": "CBSPTreeData::EnumerateLeaf(int, int)",
+			"name_mangled": "_ZN12CBSPTreeData13EnumerateLeafEii"
+		}
+	]
+}

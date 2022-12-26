@@ -1,0 +1,26 @@
+{
+	"classname": "google::protobuf::io::CopyingInputStreamAdaptor",
+	"classname_mangled": "_ZTVN6google8protobuf2io25CopyingInputStreamAdaptorE",
+	"members": [
+		{
+			"name": "google::protobuf::io::CopyingInputStreamAdaptor::~CopyingInputStreamAdaptor()",
+			"name_mangled": "_ZN6google8protobuf2io25CopyingInputStreamAdaptorD0Ev"
+		},
+		{
+			"name": "google::protobuf::io::CopyingInputStreamAdaptor::Next(void const**, int*)",
+			"name_mangled": "_ZN6google8protobuf2io25CopyingInputStreamAdaptor4NextEPPKvPi"
+		},
+		{
+			"name": "google::protobuf::io::CopyingInputStreamAdaptor::BackUp(int)",
+			"name_mangled": "_ZN6google8protobuf2io25CopyingInputStreamAdaptor6BackUpEi"
+		},
+		{
+			"name": "google::protobuf::io::CopyingInputStreamAdaptor::Skip(int)",
+			"name_mangled": "_ZN6google8protobuf2io25CopyingInputStreamAdaptor4SkipEi"
+		},
+		{
+			"name": "google::protobuf::io::CopyingInputStreamAdaptor::ByteCount() const",
+			"name_mangled": "_ZNK6google8protobuf2io25CopyingInputStreamAdaptor9ByteCountEv"
+		}
+	]
+}

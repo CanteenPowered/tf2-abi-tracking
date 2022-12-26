@@ -1,0 +1,106 @@
+{
+	"classname": "CGlobalThreadPool",
+	"classname_mangled": "_ZTV17CGlobalThreadPool",
+	"members": [
+		{
+			"name": "CRefCounted1<IThreadPool, CRefCountServiceBase<true, CRefMT>>::Release()",
+			"name_mangled": "_ZN12CRefCounted1I11IThreadPool20CRefCountServiceBaseILb1E6CRefMTEE7ReleaseEv"
+		},
+		{
+			"name": "CGlobalThreadPool::~CGlobalThreadPool()",
+			"name_mangled": "_ZN17CGlobalThreadPoolD2Ev"
+		},
+		{
+			"name": "CGlobalThreadPool::~CGlobalThreadPool()",
+			"name_mangled": "_ZN17CGlobalThreadPoolD0Ev"
+		},
+		{
+			"name": "CGlobalThreadPool::Start(ThreadPoolStartParams_t const&)",
+			"name_mangled": "_ZN17CGlobalThreadPool5StartERK23ThreadPoolStartParams_t"
+		},
+		{
+			"name": "CThreadPool::Stop(int)",
+			"name_mangled": "_ZN11CThreadPool4StopEi"
+		},
+		{
+			"name": "CThreadPool::GetJobCount()",
+			"name_mangled": "_ZN11CThreadPool11GetJobCountEv"
+		},
+		{
+			"name": "CThreadPool::NumThreads()",
+			"name_mangled": "_ZN11CThreadPool10NumThreadsEv"
+		},
+		{
+			"name": "CThreadPool::NumIdleThreads()",
+			"name_mangled": "_ZN11CThreadPool14NumIdleThreadsEv"
+		},
+		{
+			"name": "CThreadPool::SuspendExecution()",
+			"name_mangled": "_ZN11CThreadPool16SuspendExecutionEv"
+		},
+		{
+			"name": "CThreadPool::ResumeExecution()",
+			"name_mangled": "_ZN11CThreadPool15ResumeExecutionEv"
+		},
+		{
+			"name": "CThreadPool::YieldWait(CThreadEvent**, int, bool, unsigned int)",
+			"name_mangled": "_ZN11CThreadPool9YieldWaitEPP12CThreadEventibj"
+		},
+		{
+			"name": "CThreadPool::YieldWait(CJob**, int, bool, unsigned int)",
+			"name_mangled": "_ZN11CThreadPool9YieldWaitEPP4CJobibj"
+		},
+		{
+			"name": "CThreadPool::Yield(unsigned int)",
+			"name_mangled": "_ZN11CThreadPool5YieldEj"
+		},
+		{
+			"name": "CThreadPool::AddJob(CJob*)",
+			"name_mangled": "_ZN11CThreadPool6AddJobEP4CJob"
+		},
+		{
+			"name": "CThreadPool::ExecuteHighPriorityFunctor(CFunctor*)",
+			"name_mangled": "_ZN11CThreadPool26ExecuteHighPriorityFunctorEP8CFunctor"
+		},
+		{
+			"name": "IThreadPool::AddFunctor(CFunctor*, CJob**, char const*, unsigned int)",
+			"name_mangled": "_ZN11IThreadPool10AddFunctorEP8CFunctorPP4CJobPKcj"
+		},
+		{
+			"name": "CThreadPool::ChangePriority(CJob*, JobPriority_t)",
+			"name_mangled": "_ZN11CThreadPool14ChangePriorityEP4CJob13JobPriority_t"
+		},
+		{
+			"name": "CThreadPool::ExecuteToPriority(JobPriority_t, bool (*)(CJob*))",
+			"name_mangled": "_ZN11CThreadPool17ExecuteToPriorityE13JobPriority_tPFbP4CJobE"
+		},
+		{
+			"name": "CThreadPool::AbortAll()",
+			"name_mangled": "_ZN11CThreadPool8AbortAllEv"
+		},
+		{
+			"name": "CThreadPool::Reserved1()",
+			"name_mangled": "_ZN11CThreadPool9Reserved1Ev"
+		},
+		{
+			"name": "CThreadPool::AddFunctorInternal(CFunctor*, CJob**, char const*, unsigned int)",
+			"name_mangled": "_ZN11CThreadPool18AddFunctorInternalEP8CFunctorPP4CJobPKcj"
+		},
+		{
+			"name": "CThreadPool::GetDummyJob()",
+			"name_mangled": "_ZN11CThreadPool11GetDummyJobEv"
+		},
+		{
+			"name": "CThreadPool::Distribute(bool, int*)",
+			"name_mangled": "_ZN11CThreadPool10DistributeEbPi"
+		},
+		{
+			"name": "CThreadPool::Start(ThreadPoolStartParams_t const&, char const*)",
+			"name_mangled": "_ZN11CThreadPool5StartERK23ThreadPoolStartParams_tPKc"
+		},
+		{
+			"name": "CGlobalThreadPool::OnFinalRelease()",
+			"name_mangled": "_ZN17CGlobalThreadPool14OnFinalReleaseEv"
+		}
+	]
+}

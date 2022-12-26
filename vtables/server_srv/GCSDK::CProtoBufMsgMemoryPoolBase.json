@@ -1,0 +1,10 @@
+{
+	"classname": "GCSDK::CProtoBufMsgMemoryPoolBase",
+	"classname_mangled": "_ZTVN5GCSDK26CProtoBufMsgMemoryPoolBaseE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsgMemoryPoolBase::~CProtoBufMsgMemoryPoolBase()",
+			"name_mangled": "_ZN5GCSDK26CProtoBufMsgMemoryPoolBaseD0Ev"
+		}
+	]
+}

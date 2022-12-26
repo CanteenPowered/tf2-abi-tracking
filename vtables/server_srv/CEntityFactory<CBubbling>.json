@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBubbling>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9CBubblingE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBubbling>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9CBubblingE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBubbling>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9CBubblingE13GetEntitySizeEv"
+		}
+	]
+}

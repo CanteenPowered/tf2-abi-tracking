@@ -1,0 +1,146 @@
+{
+	"classname": "CPlayerInfo",
+	"classname_mangled": "_ZTV11CPlayerInfo",
+	"members": [
+		{
+			"name": "CPlayerInfo::SetAbsAngles(QAngle&)",
+			"name_mangled": "_ZN11CPlayerInfo12SetAbsAnglesER6QAngle"
+		},
+		{
+			"name": "CPlayerInfo::SetLocalOrigin(Vector const&)",
+			"name_mangled": "_ZN11CPlayerInfo14SetLocalOriginERK6Vector"
+		},
+		{
+			"name": "CPlayerInfo::GetLocalOrigin()",
+			"name_mangled": "_ZN11CPlayerInfo14GetLocalOriginEv"
+		},
+		{
+			"name": "CPlayerInfo::SetLocalAngles(QAngle const&)",
+			"name_mangled": "_ZN11CPlayerInfo14SetLocalAnglesERK6QAngle"
+		},
+		{
+			"name": "CPlayerInfo::GetLocalAngles()",
+			"name_mangled": "_ZN11CPlayerInfo14GetLocalAnglesEv"
+		},
+		{
+			"name": "CPlayerInfo::RemoveAllItems(bool)",
+			"name_mangled": "_ZN11CPlayerInfo14RemoveAllItemsEb"
+		},
+		{
+			"name": "CPlayerInfo::SetActiveWeapon(char const*)",
+			"name_mangled": "_ZN11CPlayerInfo15SetActiveWeaponEPKc"
+		},
+		{
+			"name": "CPlayerInfo::IsEFlagSet(int)",
+			"name_mangled": "_ZN11CPlayerInfo10IsEFlagSetEi"
+		},
+		{
+			"name": "CPlayerInfo::RunPlayerMove(CBotCmd*)",
+			"name_mangled": "_ZN11CPlayerInfo13RunPlayerMoveEP7CBotCmd"
+		},
+		{
+			"name": "CPlayerInfo::GetName()",
+			"name_mangled": "_ZN11CPlayerInfo7GetNameEv"
+		},
+		{
+			"name": "CPlayerInfo::GetUserID()",
+			"name_mangled": "_ZN11CPlayerInfo9GetUserIDEv"
+		},
+		{
+			"name": "CPlayerInfo::GetNetworkIDString()",
+			"name_mangled": "_ZN11CPlayerInfo18GetNetworkIDStringEv"
+		},
+		{
+			"name": "CPlayerInfo::GetTeamIndex()",
+			"name_mangled": "_ZN11CPlayerInfo12GetTeamIndexEv"
+		},
+		{
+			"name": "CPlayerInfo::ChangeTeam(int)",
+			"name_mangled": "_ZN11CPlayerInfo10ChangeTeamEi"
+		},
+		{
+			"name": "CPlayerInfo::GetFragCount()",
+			"name_mangled": "_ZN11CPlayerInfo12GetFragCountEv"
+		},
+		{
+			"name": "CPlayerInfo::GetDeathCount()",
+			"name_mangled": "_ZN11CPlayerInfo13GetDeathCountEv"
+		},
+		{
+			"name": "CPlayerInfo::IsConnected()",
+			"name_mangled": "_ZN11CPlayerInfo11IsConnectedEv"
+		},
+		{
+			"name": "CPlayerInfo::GetArmorValue()",
+			"name_mangled": "_ZN11CPlayerInfo13GetArmorValueEv"
+		},
+		{
+			"name": "CPlayerInfo::IsHLTV()",
+			"name_mangled": "_ZN11CPlayerInfo6IsHLTVEv"
+		},
+		{
+			"name": "CPlayerInfo::IsReplay()",
+			"name_mangled": "_ZN11CPlayerInfo8IsReplayEv"
+		},
+		{
+			"name": "CPlayerInfo::IsPlayer()",
+			"name_mangled": "_ZN11CPlayerInfo8IsPlayerEv"
+		},
+		{
+			"name": "CPlayerInfo::IsFakeClient()",
+			"name_mangled": "_ZN11CPlayerInfo12IsFakeClientEv"
+		},
+		{
+			"name": "CPlayerInfo::IsDead()",
+			"name_mangled": "_ZN11CPlayerInfo6IsDeadEv"
+		},
+		{
+			"name": "CPlayerInfo::IsInAVehicle()",
+			"name_mangled": "_ZN11CPlayerInfo12IsInAVehicleEv"
+		},
+		{
+			"name": "CPlayerInfo::IsObserver()",
+			"name_mangled": "_ZN11CPlayerInfo10IsObserverEv"
+		},
+		{
+			"name": "CPlayerInfo::GetAbsOrigin()",
+			"name_mangled": "_ZN11CPlayerInfo12GetAbsOriginEv"
+		},
+		{
+			"name": "CPlayerInfo::GetAbsAngles()",
+			"name_mangled": "_ZN11CPlayerInfo12GetAbsAnglesEv"
+		},
+		{
+			"name": "CPlayerInfo::GetPlayerMins()",
+			"name_mangled": "_ZN11CPlayerInfo13GetPlayerMinsEv"
+		},
+		{
+			"name": "CPlayerInfo::GetPlayerMaxs()",
+			"name_mangled": "_ZN11CPlayerInfo13GetPlayerMaxsEv"
+		},
+		{
+			"name": "CPlayerInfo::GetWeaponName()",
+			"name_mangled": "_ZN11CPlayerInfo13GetWeaponNameEv"
+		},
+		{
+			"name": "CPlayerInfo::GetModelName()",
+			"name_mangled": "_ZN11CPlayerInfo12GetModelNameEv"
+		},
+		{
+			"name": "CPlayerInfo::GetHealth()",
+			"name_mangled": "_ZN11CPlayerInfo9GetHealthEv"
+		},
+		{
+			"name": "CPlayerInfo::GetMaxHealth()",
+			"name_mangled": "_ZN11CPlayerInfo12GetMaxHealthEv"
+		},
+		{
+			"name": "CPlayerInfo::SetLastUserCommand(CBotCmd const&)",
+			"name_mangled": "_ZN11CPlayerInfo18SetLastUserCommandERK7CBotCmd"
+		},
+		{
+			"name": "CPlayerInfo::GetLastUserCommand()",
+			"name_mangled": "_ZN11CPlayerInfo18GetLastUserCommandEv"
+		}
+	]
+}

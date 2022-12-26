@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPhysicsPropMultiplayer>",
+	"classname_mangled": "_ZTV14CEntityFactoryI23CPhysicsPropMultiplayerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPhysicsPropMultiplayer>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI23CPhysicsPropMultiplayerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPhysicsPropMultiplayer>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI23CPhysicsPropMultiplayerE13GetEntitySizeEv"
+		}
+	]
+}

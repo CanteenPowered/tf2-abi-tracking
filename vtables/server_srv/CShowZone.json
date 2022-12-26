@@ -1,0 +1,10 @@
+{
+	"classname": "CShowZone",
+	"classname_mangled": "_ZTV9CShowZone",
+	"members": [
+		{
+			"name": "IForEachNavArea::PostIteration(bool)",
+			"name_mangled": "_ZN15IForEachNavArea13PostIterationEb"
+		}
+	]
+}

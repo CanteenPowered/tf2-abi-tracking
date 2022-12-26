@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFKnife>",
+	"classname_mangled": "_ZTV14CEntityFactoryI8CTFKnifeE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFKnife>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI8CTFKnifeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFKnife>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI8CTFKnifeE13GetEntitySizeEv"
+		}
+	]
+}

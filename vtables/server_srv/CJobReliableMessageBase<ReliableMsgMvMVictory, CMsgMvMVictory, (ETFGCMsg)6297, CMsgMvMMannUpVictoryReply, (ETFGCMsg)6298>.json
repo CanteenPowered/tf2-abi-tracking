@@ -1,0 +1,38 @@
+{
+	"classname": "CJobReliableMessageBase<ReliableMsgMvMVictory, CMsgMvMVictory, (ETFGCMsg)6297, CMsgMvMMannUpVictoryReply, (ETFGCMsg)6298>",
+	"classname_mangled": "_ZTV23CJobReliableMessageBaseI21ReliableMsgMvMVictory14CMsgMvMVictoryL8ETFGCMsg6297E25CMsgMvMMannUpVictoryReplyLS2_6298EE",
+	"members": [
+		{
+			"name": "CJobReliableMessageBase<ReliableMsgMvMVictory, CMsgMvMVictory, (ETFGCMsg)6297, CMsgMvMMannUpVictoryReply, (ETFGCMsg)6298>::~CJobReliableMessageBase()",
+			"name_mangled": "_ZN23CJobReliableMessageBaseI21ReliableMsgMvMVictory14CMsgMvMVictoryL8ETFGCMsg6297E25CMsgMvMMannUpVictoryReplyLS2_6298EED0Ev"
+		},
+		{
+			"name": "CJobReliableMessageBase<ReliableMsgMvMVictory, CMsgMvMVictory, (ETFGCMsg)6297, CMsgMvMMannUpVictoryReply, (ETFGCMsg)6298>::BYieldingRunJob(void*)",
+			"name_mangled": "_ZN23CJobReliableMessageBaseI21ReliableMsgMvMVictory14CMsgMvMVictoryL8ETFGCMsg6297E25CMsgMvMMannUpVictoryReplyLS2_6298EE15BYieldingRunJobEPv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob22BYieldingRunJobFromMsgEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob24CHeartbeatsBeforeTimeoutEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::GetServerType()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob13GetServerTypeEv"
+		},
+		{
+			"name": "CJobReliableMessageBase<ReliableMsgMvMVictory, CMsgMvMVictory, (ETFGCMsg)6297, CMsgMvMMannUpVictoryReply, (ETFGCMsg)6298>::Finalize()",
+			"name_mangled": "_ZN23CJobReliableMessageBaseI21ReliableMsgMvMVictory14CMsgMvMVictoryL8ETFGCMsg6297E25CMsgMvMMannUpVictoryReplyLS2_6298EE8FinalizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTextureToggle>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CTextureToggleE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTextureToggle>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CTextureToggleE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTextureToggle>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CTextureToggleE13GetEntitySizeEv"
+		}
+	]
+}

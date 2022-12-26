@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CZombieSpawner>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CZombieSpawnerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CZombieSpawner>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CZombieSpawnerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CZombieSpawner>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CZombieSpawnerE13GetEntitySizeEv"
+		}
+	]
+}

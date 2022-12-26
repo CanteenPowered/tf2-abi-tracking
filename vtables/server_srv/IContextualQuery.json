@@ -1,0 +1,42 @@
+{
+	"classname": "IContextualQuery",
+	"classname_mangled": "_ZTV16IContextualQuery",
+	"members": [
+		{
+			"name": "IContextualQuery::~IContextualQuery()",
+			"name_mangled": "_ZN16IContextualQueryD0Ev"
+		},
+		{
+			"name": "IContextualQuery::ShouldPickUp(INextBot const*, CBaseEntity*) const",
+			"name_mangled": "_ZNK16IContextualQuery12ShouldPickUpEPK8INextBotP11CBaseEntity"
+		},
+		{
+			"name": "IContextualQuery::ShouldHurry(INextBot const*) const",
+			"name_mangled": "_ZNK16IContextualQuery11ShouldHurryEPK8INextBot"
+		},
+		{
+			"name": "IContextualQuery::ShouldRetreat(INextBot const*) const",
+			"name_mangled": "_ZNK16IContextualQuery13ShouldRetreatEPK8INextBot"
+		},
+		{
+			"name": "IContextualQuery::ShouldAttack(INextBot const*, CKnownEntity const*) const",
+			"name_mangled": "_ZNK16IContextualQuery12ShouldAttackEPK8INextBotPK12CKnownEntity"
+		},
+		{
+			"name": "IContextualQuery::IsHindrance(INextBot const*, CBaseEntity*) const",
+			"name_mangled": "_ZNK16IContextualQuery11IsHindranceEPK8INextBotP11CBaseEntity"
+		},
+		{
+			"name": "IContextualQuery::SelectTargetPoint(INextBot const*, CBaseCombatCharacter const*) const",
+			"name_mangled": "_ZNK16IContextualQuery17SelectTargetPointEPK8INextBotPK20CBaseCombatCharacter"
+		},
+		{
+			"name": "IContextualQuery::IsPositionAllowed(INextBot const*, Vector const&) const",
+			"name_mangled": "_ZNK16IContextualQuery17IsPositionAllowedEPK8INextBotRK6Vector"
+		},
+		{
+			"name": "IContextualQuery::SelectMoreDangerousThreat(INextBot const*, CBaseCombatCharacter const*, CKnownEntity const*, CKnownEntity const*) const",
+			"name_mangled": "_ZNK16IContextualQuery25SelectMoreDangerousThreatEPK8INextBotPK20CBaseCombatCharacterPK12CKnownEntityS8_"
+		}
+	]
+}

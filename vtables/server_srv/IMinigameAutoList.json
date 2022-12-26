@@ -1,0 +1,10 @@
+{
+	"classname": "IMinigameAutoList",
+	"classname_mangled": "_ZTV17IMinigameAutoList",
+	"members": [
+		{
+			"name": "IMinigameAutoList::~IMinigameAutoList()",
+			"name_mangled": "_ZN17IMinigameAutoListD0Ev"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgGameServerMatchmakingStatus>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI31CMsgGameServerMatchmakingStatusEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGameServerMatchmakingStatus>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI31CMsgGameServerMatchmakingStatusED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGameServerMatchmakingStatus>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI31CMsgGameServerMatchmakingStatusE14GetGenericBodyEv"
+		}
+	]
+}

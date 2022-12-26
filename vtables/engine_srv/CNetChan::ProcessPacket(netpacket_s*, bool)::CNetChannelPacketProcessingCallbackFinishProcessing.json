@@ -1,0 +1,5 @@
+{
+	"classname": "CNetChan::ProcessPacket(netpacket_s*, bool)::CNetChannelPacketProcessingCallbackFinishProcessing",
+	"classname_mangled": "_ZTVZN8CNetChan13ProcessPacketEP11netpacket_sbE51CNetChannelPacketProcessingCallbackFinishProcessing",
+	"members": []
+}

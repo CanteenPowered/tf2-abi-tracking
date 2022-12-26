@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTriggerApplyImpulse>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CTriggerApplyImpulseE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTriggerApplyImpulse>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CTriggerApplyImpulseE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTriggerApplyImpulse>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CTriggerApplyImpulseE13GetEntitySizeEv"
+		}
+	]
+}

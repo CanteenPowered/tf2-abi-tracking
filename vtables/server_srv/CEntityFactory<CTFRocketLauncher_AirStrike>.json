@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFRocketLauncher_AirStrike>",
+	"classname_mangled": "_ZTV14CEntityFactoryI27CTFRocketLauncher_AirStrikeE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFRocketLauncher_AirStrike>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI27CTFRocketLauncher_AirStrikeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFRocketLauncher_AirStrike>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI27CTFRocketLauncher_AirStrikeE13GetEntitySizeEv"
+		}
+	]
+}

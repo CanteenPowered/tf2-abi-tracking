@@ -1,0 +1,50 @@
+{
+	"classname": "CTFBotSpawner",
+	"classname_mangled": "_ZTV13CTFBotSpawner",
+	"members": [
+		{
+			"name": "CTFBotSpawner::~CTFBotSpawner()",
+			"name_mangled": "_ZN13CTFBotSpawnerD0Ev"
+		},
+		{
+			"name": "CTFBotSpawner::Parse(KeyValues*)",
+			"name_mangled": "_ZN13CTFBotSpawner5ParseEP9KeyValues"
+		},
+		{
+			"name": "CTFBotSpawner::Spawn(Vector const&, CUtlVector<CHandle<CBaseEntity>, CUtlMemory<CHandle<CBaseEntity>, int>>*)",
+			"name_mangled": "_ZN13CTFBotSpawner5SpawnERK6VectorP10CUtlVectorI7CHandleI11CBaseEntityE10CUtlMemoryIS6_iEE"
+		},
+		{
+			"name": "IPopulationSpawner::IsWhereRequired() const",
+			"name_mangled": "_ZNK18IPopulationSpawner15IsWhereRequiredEv"
+		},
+		{
+			"name": "IPopulationSpawner::IsVarious()",
+			"name_mangled": "_ZN18IPopulationSpawner9IsVariousEv"
+		},
+		{
+			"name": "CTFBotSpawner::GetClass(int)",
+			"name_mangled": "_ZN13CTFBotSpawner8GetClassEi"
+		},
+		{
+			"name": "CTFBotSpawner::GetClassIcon(int)",
+			"name_mangled": "_ZN13CTFBotSpawner12GetClassIconEi"
+		},
+		{
+			"name": "CTFBotSpawner::GetHealth(int)",
+			"name_mangled": "_ZN13CTFBotSpawner9GetHealthEi"
+		},
+		{
+			"name": "CTFBotSpawner::IsMiniBoss(int)",
+			"name_mangled": "_ZN13CTFBotSpawner10IsMiniBossEi"
+		},
+		{
+			"name": "CTFBotSpawner::HasAttribute(CTFBot::AttributeType, int)",
+			"name_mangled": "_ZN13CTFBotSpawner12HasAttributeEN6CTFBot13AttributeTypeEi"
+		},
+		{
+			"name": "CTFBotSpawner::HasEventChangeAttributes(char const*) const",
+			"name_mangled": "_ZNK13CTFBotSpawner24HasEventChangeAttributesEPKc"
+		}
+	]
+}

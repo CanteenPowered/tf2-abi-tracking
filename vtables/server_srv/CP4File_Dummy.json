@@ -1,0 +1,38 @@
+{
+	"classname": "CP4File_Dummy",
+	"classname_mangled": "_ZTV13CP4File_Dummy",
+	"members": [
+		{
+			"name": "CP4File_Dummy::~CP4File_Dummy()",
+			"name_mangled": "_ZN13CP4File_DummyD0Ev"
+		},
+		{
+			"name": "CP4File_Dummy::Edit()",
+			"name_mangled": "_ZN13CP4File_Dummy4EditEv"
+		},
+		{
+			"name": "CP4File_Dummy::Add()",
+			"name_mangled": "_ZN13CP4File_Dummy3AddEv"
+		},
+		{
+			"name": "CP4File::Revert()",
+			"name_mangled": "_ZN7CP4File6RevertEv"
+		},
+		{
+			"name": "CP4File::Delete()",
+			"name_mangled": "_ZN7CP4File6DeleteEv"
+		},
+		{
+			"name": "CP4File_Dummy::IsFileInPerforce()",
+			"name_mangled": "_ZN13CP4File_Dummy16IsFileInPerforceEv"
+		},
+		{
+			"name": "CP4File_Dummy::SetFileType(CUtlString const&)",
+			"name_mangled": "_ZN13CP4File_Dummy11SetFileTypeERK10CUtlString"
+		},
+		{
+			"name": "CP4File::GetFileState()",
+			"name_mangled": "_ZN7CP4File12GetFileStateEv"
+		}
+	]
+}

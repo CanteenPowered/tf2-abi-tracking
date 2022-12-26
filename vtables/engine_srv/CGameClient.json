@@ -1,0 +1,302 @@
+{
+	"classname": "CGameClient",
+	"classname_mangled": "_ZTV11CGameClient",
+	"members": [
+		{
+			"name": "CGameClient::~CGameClient()",
+			"name_mangled": "_ZN11CGameClientD0Ev"
+		},
+		{
+			"name": "CBaseClient::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN11CBaseClient13FireGameEventEP10IGameEvent"
+		},
+		{
+			"name": "CBaseClient::GetPlayerSlot() const",
+			"name_mangled": "_ZNK11CBaseClient13GetPlayerSlotEv"
+		},
+		{
+			"name": "CBaseClient::GetUserID() const",
+			"name_mangled": "_ZNK11CBaseClient9GetUserIDEv"
+		},
+		{
+			"name": "CBaseClient::GetNetworkID() const",
+			"name_mangled": "_ZNK11CBaseClient12GetNetworkIDEv"
+		},
+		{
+			"name": "CBaseClient::GetClientName() const",
+			"name_mangled": "_ZNK11CBaseClient13GetClientNameEv"
+		},
+		{
+			"name": "CBaseClient::GetNetChannel()",
+			"name_mangled": "_ZN11CBaseClient13GetNetChannelEv"
+		},
+		{
+			"name": "CBaseClient::GetServer()",
+			"name_mangled": "_ZN11CBaseClient9GetServerEv"
+		},
+		{
+			"name": "CBaseClient::GetUserSetting(char const*) const",
+			"name_mangled": "_ZNK11CBaseClient14GetUserSettingEPKc"
+		},
+		{
+			"name": "CBaseClient::GetNetworkIDString() const",
+			"name_mangled": "_ZNK11CBaseClient18GetNetworkIDStringEv"
+		},
+		{
+			"name": "CGameClient::Connect(char const*, int, INetChannel*, bool, int)",
+			"name_mangled": "_ZN11CGameClient7ConnectEPKciP11INetChannelbi"
+		},
+		{
+			"name": "CGameClient::Inactivate()",
+			"name_mangled": "_ZN11CGameClient10InactivateEv"
+		},
+		{
+			"name": "CGameClient::Reconnect()",
+			"name_mangled": "_ZN11CGameClient9ReconnectEv"
+		},
+		{
+			"name": "CGameClient::Disconnect(char const*, ...)",
+			"name_mangled": "_ZN11CGameClient10DisconnectEPKcz"
+		},
+		{
+			"name": "CGameClient::SetRate(int, bool)",
+			"name_mangled": "_ZN11CGameClient7SetRateEib"
+		},
+		{
+			"name": "CBaseClient::GetRate() const",
+			"name_mangled": "_ZNK11CBaseClient7GetRateEv"
+		},
+		{
+			"name": "CGameClient::SetUpdateRate(int, bool)",
+			"name_mangled": "_ZN11CGameClient13SetUpdateRateEib"
+		},
+		{
+			"name": "CBaseClient::GetUpdateRate() const",
+			"name_mangled": "_ZNK11CBaseClient13GetUpdateRateEv"
+		},
+		{
+			"name": "CGameClient::Clear()",
+			"name_mangled": "_ZN11CGameClient5ClearEv"
+		},
+		{
+			"name": "CBaseClient::DemoRestart()",
+			"name_mangled": "_ZN11CBaseClient11DemoRestartEv"
+		},
+		{
+			"name": "CBaseClient::GetMaxAckTickCount() const",
+			"name_mangled": "_ZNK11CBaseClient18GetMaxAckTickCountEv"
+		},
+		{
+			"name": "CGameClient::ExecuteStringCommand(char const*)",
+			"name_mangled": "_ZN11CGameClient20ExecuteStringCommandEPKc"
+		},
+		{
+			"name": "CGameClient::SendNetMsg(INetMessage&, bool)",
+			"name_mangled": "_ZN11CGameClient10SendNetMsgER11INetMessageb"
+		},
+		{
+			"name": "CBaseClient::ClientPrintf(char const*, ...)",
+			"name_mangled": "_ZN11CBaseClient12ClientPrintfEPKcz"
+		},
+		{
+			"name": "CBaseClient::IsConnected() const",
+			"name_mangled": "_ZNK11CBaseClient11IsConnectedEv"
+		},
+		{
+			"name": "CBaseClient::IsSpawned() const",
+			"name_mangled": "_ZNK11CBaseClient9IsSpawnedEv"
+		},
+		{
+			"name": "CBaseClient::IsActive() const",
+			"name_mangled": "_ZNK11CBaseClient8IsActiveEv"
+		},
+		{
+			"name": "CBaseClient::IsFakeClient() const",
+			"name_mangled": "_ZNK11CBaseClient12IsFakeClientEv"
+		},
+		{
+			"name": "CBaseClient::IsHLTV() const",
+			"name_mangled": "_ZNK11CBaseClient6IsHLTVEv"
+		},
+		{
+			"name": "CBaseClient::IsReplay() const",
+			"name_mangled": "_ZNK11CBaseClient8IsReplayEv"
+		},
+		{
+			"name": "CGameClient::IsHearingClient(int) const",
+			"name_mangled": "_ZNK11CGameClient15IsHearingClientEi"
+		},
+		{
+			"name": "CGameClient::IsProximityHearingClient(int) const",
+			"name_mangled": "_ZNK11CGameClient24IsProximityHearingClientEi"
+		},
+		{
+			"name": "CBaseClient::SetMaxRoutablePayloadSize(int)",
+			"name_mangled": "_ZN11CBaseClient25SetMaxRoutablePayloadSizeEi"
+		},
+		{
+			"name": "CBaseClient::IsSplitScreenUser() const",
+			"name_mangled": "_ZNK11CBaseClient17IsSplitScreenUserEv"
+		},
+		{
+			"name": "CBaseClient::ProcessTick(NET_Tick*)",
+			"name_mangled": "_ZN11CBaseClient11ProcessTickEP8NET_Tick"
+		},
+		{
+			"name": "CBaseClient::ProcessStringCmd(NET_StringCmd*)",
+			"name_mangled": "_ZN11CBaseClient16ProcessStringCmdEP13NET_StringCmd"
+		},
+		{
+			"name": "CBaseClient::ProcessSetConVar(NET_SetConVar*)",
+			"name_mangled": "_ZN11CBaseClient16ProcessSetConVarEP13NET_SetConVar"
+		},
+		{
+			"name": "CBaseClient::ProcessSignonState(NET_SignonState*)",
+			"name_mangled": "_ZN11CBaseClient18ProcessSignonStateEP15NET_SignonState"
+		},
+		{
+			"name": "CGameClient::ProcessClientInfo(CLC_ClientInfo*)",
+			"name_mangled": "_ZN11CGameClient17ProcessClientInfoEP14CLC_ClientInfo"
+		},
+		{
+			"name": "CBaseClient::ProcessBaselineAck(CLC_BaselineAck*)",
+			"name_mangled": "_ZN11CBaseClient18ProcessBaselineAckEP15CLC_BaselineAck"
+		},
+		{
+			"name": "CBaseClient::ProcessListenEvents(CLC_ListenEvents*)",
+			"name_mangled": "_ZN11CBaseClient19ProcessListenEventsEP16CLC_ListenEvents"
+		},
+		{
+			"name": "CGameClient::ProcessCmdKeyValues(CLC_CmdKeyValues*)",
+			"name_mangled": "_ZN11CGameClient19ProcessCmdKeyValuesEP16CLC_CmdKeyValues"
+		},
+		{
+			"name": "CBaseClient::ConnectionStart(INetChannel*)",
+			"name_mangled": "_ZN11CBaseClient15ConnectionStartEP11INetChannel"
+		},
+		{
+			"name": "CGameClient::UpdateAcknowledgedFramecount(int)",
+			"name_mangled": "_ZN11CGameClient28UpdateAcknowledgedFramecountEi"
+		},
+		{
+			"name": "CGameClient::ShouldSendMessages()",
+			"name_mangled": "_ZN11CGameClient18ShouldSendMessagesEv"
+		},
+		{
+			"name": "CBaseClient::UpdateSendState()",
+			"name_mangled": "_ZN11CBaseClient15UpdateSendStateEv"
+		},
+		{
+			"name": "CBaseClient::FillUserInfo(player_info_s&)",
+			"name_mangled": "_ZN11CBaseClient12FillUserInfoER13player_info_s"
+		},
+		{
+			"name": "CGameClient::UpdateUserSettings()",
+			"name_mangled": "_ZN11CGameClient18UpdateUserSettingsEv"
+		},
+		{
+			"name": "CGameClient::SetSignonState(int, int)",
+			"name_mangled": "_ZN11CGameClient14SetSignonStateEii"
+		},
+		{
+			"name": "CGameClient::WriteGameSounds(bf_write&)",
+			"name_mangled": "_ZN11CGameClient15WriteGameSoundsER8bf_write"
+		},
+		{
+			"name": "CGameClient::GetDeltaFrame(int)",
+			"name_mangled": "_ZN11CGameClient13GetDeltaFrameEi"
+		},
+		{
+			"name": "CGameClient::SendSnapshot(CClientFrame*)",
+			"name_mangled": "_ZN11CGameClient12SendSnapshotEP12CClientFrame"
+		},
+		{
+			"name": "CBaseClient::SendServerInfo()",
+			"name_mangled": "_ZN11CBaseClient14SendServerInfoEv"
+		},
+		{
+			"name": "CGameClient::SendSignonData()",
+			"name_mangled": "_ZN11CGameClient14SendSignonDataEv"
+		},
+		{
+			"name": "CGameClient::SpawnPlayer()",
+			"name_mangled": "_ZN11CGameClient11SpawnPlayerEv"
+		},
+		{
+			"name": "CGameClient::ActivatePlayer()",
+			"name_mangled": "_ZN11CGameClient14ActivatePlayerEv"
+		},
+		{
+			"name": "CBaseClient::SetName(char const*)",
+			"name_mangled": "_ZN11CBaseClient7SetNameEPKc"
+		},
+		{
+			"name": "CBaseClient::SetUserCVar(char const*, char const*)",
+			"name_mangled": "_ZN11CBaseClient11SetUserCVarEPKcS1_"
+		},
+		{
+			"name": "CBaseClient::FreeBaselines()",
+			"name_mangled": "_ZN11CBaseClient13FreeBaselinesEv"
+		},
+		{
+			"name": "CGameClient::IgnoreTempEntity(CEventInfo*)",
+			"name_mangled": "_ZN11CGameClient16IgnoreTempEntityEP10CEventInfo"
+		},
+		{
+			"name": "CGameClient::ConnectionClosing(char const*)",
+			"name_mangled": "_ZN11CGameClient17ConnectionClosingEPKc"
+		},
+		{
+			"name": "CGameClient::ConnectionCrashed(char const*)",
+			"name_mangled": "_ZN11CGameClient17ConnectionCrashedEPKc"
+		},
+		{
+			"name": "CGameClient::PacketStart(int, int)",
+			"name_mangled": "_ZN11CGameClient11PacketStartEii"
+		},
+		{
+			"name": "CGameClient::PacketEnd()",
+			"name_mangled": "_ZN11CGameClient9PacketEndEv"
+		},
+		{
+			"name": "CGameClient::FileReceived(char const*, unsigned int)",
+			"name_mangled": "_ZN11CGameClient12FileReceivedEPKcj"
+		},
+		{
+			"name": "CGameClient::FileRequested(char const*, unsigned int)",
+			"name_mangled": "_ZN11CGameClient13FileRequestedEPKcj"
+		},
+		{
+			"name": "CGameClient::FileDenied(char const*, unsigned int)",
+			"name_mangled": "_ZN11CGameClient10FileDeniedEPKcj"
+		},
+		{
+			"name": "CGameClient::FileSent(char const*, unsigned int)",
+			"name_mangled": "_ZN11CGameClient8FileSentEPKcj"
+		},
+		{
+			"name": "CGameClient::ProcessMove(CLC_Move*)",
+			"name_mangled": "_ZN11CGameClient11ProcessMoveEP8CLC_Move"
+		},
+		{
+			"name": "CGameClient::ProcessVoiceData(CLC_VoiceData*)",
+			"name_mangled": "_ZN11CGameClient16ProcessVoiceDataEP13CLC_VoiceData"
+		},
+		{
+			"name": "CGameClient::ProcessRespondCvarValue(CLC_RespondCvarValue*)",
+			"name_mangled": "_ZN11CGameClient23ProcessRespondCvarValueEP20CLC_RespondCvarValue"
+		},
+		{
+			"name": "CGameClient::ProcessFileCRCCheck(CLC_FileCRCCheck*)",
+			"name_mangled": "_ZN11CGameClient19ProcessFileCRCCheckEP16CLC_FileCRCCheck"
+		},
+		{
+			"name": "CGameClient::ProcessFileMD5Check(CLC_FileMD5Check*)",
+			"name_mangled": "_ZN11CGameClient19ProcessFileMD5CheckEP16CLC_FileMD5Check"
+		},
+		{
+			"name": "CGameClient::ProcessSaveReplay(CLC_SaveReplay*)",
+			"name_mangled": "_ZN11CGameClient17ProcessSaveReplayEP14CLC_SaveReplay"
+		}
+	]
+}

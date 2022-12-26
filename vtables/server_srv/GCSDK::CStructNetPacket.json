@@ -1,0 +1,70 @@
+{
+	"classname": "GCSDK::CStructNetPacket",
+	"classname_mangled": "_ZTVN5GCSDK16CStructNetPacketE",
+	"members": [
+		{
+			"name": "GCSDK::CStructNetPacket::~CStructNetPacket()",
+			"name_mangled": "_ZN5GCSDK16CStructNetPacketD0Ev"
+		},
+		{
+			"name": "GCSDK::CRefCount::DestroyThis()",
+			"name_mangled": "_ZN5GCSDK9CRefCount11DestroyThisEv"
+		},
+		{
+			"name": "GCSDK::CStructNetPacket::GetEMsgFormatType() const",
+			"name_mangled": "_ZNK5GCSDK16CStructNetPacket17GetEMsgFormatTypeEv"
+		},
+		{
+			"name": "GCSDK::CStructNetPacket::GetCNetPacket() const",
+			"name_mangled": "_ZNK5GCSDK16CStructNetPacket13GetCNetPacketEv"
+		},
+		{
+			"name": "GCSDK::CStructNetPacket::PubData() const",
+			"name_mangled": "_ZNK5GCSDK16CStructNetPacket7PubDataEv"
+		},
+		{
+			"name": "GCSDK::CStructNetPacket::CubData() const",
+			"name_mangled": "_ZNK5GCSDK16CStructNetPacket7CubDataEv"
+		},
+		{
+			"name": "GCSDK::CStructNetPacket::GetEMsg() const",
+			"name_mangled": "_ZNK5GCSDK16CStructNetPacket7GetEMsgEv"
+		},
+		{
+			"name": "GCSDK::CStructNetPacket::GetSourceJobID() const",
+			"name_mangled": "_ZNK5GCSDK16CStructNetPacket14GetSourceJobIDEv"
+		},
+		{
+			"name": "GCSDK::CStructNetPacket::GetTargetJobID() const",
+			"name_mangled": "_ZNK5GCSDK16CStructNetPacket14GetTargetJobIDEv"
+		},
+		{
+			"name": "GCSDK::CStructNetPacket::SetTargetJobID(unsigned long long)",
+			"name_mangled": "_ZN5GCSDK16CStructNetPacket14SetTargetJobIDEy"
+		},
+		{
+			"name": "GCSDK::CStructNetPacket::GetSteamID() const",
+			"name_mangled": "_ZNK5GCSDK16CStructNetPacket10GetSteamIDEv"
+		},
+		{
+			"name": "GCSDK::CStructNetPacket::SetSteamID(CSteamID)",
+			"name_mangled": "_ZN5GCSDK16CStructNetPacket10SetSteamIDE8CSteamID"
+		},
+		{
+			"name": "GCSDK::CStructNetPacket::GetSourceAppID() const",
+			"name_mangled": "_ZNK5GCSDK16CStructNetPacket14GetSourceAppIDEv"
+		},
+		{
+			"name": "GCSDK::CStructNetPacket::SetSourceAppID(unsigned int)",
+			"name_mangled": "_ZN5GCSDK16CStructNetPacket14SetSourceAppIDEj"
+		},
+		{
+			"name": "GCSDK::CStructNetPacket::BHasTargetJobName() const",
+			"name_mangled": "_ZNK5GCSDK16CStructNetPacket17BHasTargetJobNameEv"
+		},
+		{
+			"name": "GCSDK::CStructNetPacket::GetTargetJobName() const",
+			"name_mangled": "_ZNK5GCSDK16CStructNetPacket16GetTargetJobNameEv"
+		}
+	]
+}

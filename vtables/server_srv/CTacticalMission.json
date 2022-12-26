@@ -1,0 +1,22 @@
+{
+	"classname": "CTacticalMission",
+	"classname_mangled": "_ZTV16CTacticalMission",
+	"members": [
+		{
+			"name": "CTacticalMission::~CTacticalMission()",
+			"name_mangled": "_ZN16CTacticalMissionD0Ev"
+		},
+		{
+			"name": "CTacticalMission::GetDeployZone(CBasePlayer*) const",
+			"name_mangled": "_ZNK16CTacticalMission13GetDeployZoneEP11CBasePlayer"
+		},
+		{
+			"name": "CTacticalMission::GetObjectiveZone() const",
+			"name_mangled": "_ZNK16CTacticalMission16GetObjectiveZoneEv"
+		},
+		{
+			"name": "CTacticalMission::GetEnemyZone() const",
+			"name_mangled": "_ZNK16CTacticalMission12GetEnemyZoneEv"
+		}
+	]
+}

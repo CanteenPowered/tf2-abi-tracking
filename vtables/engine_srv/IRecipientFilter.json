@@ -1,0 +1,10 @@
+{
+	"classname": "IRecipientFilter",
+	"classname_mangled": "_ZTV16IRecipientFilter",
+	"members": [
+		{
+			"name": "IRecipientFilter::~IRecipientFilter()",
+			"name_mangled": "_ZN16IRecipientFilterD0Ev"
+		}
+	]
+}

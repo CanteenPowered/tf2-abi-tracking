@@ -1,0 +1,26 @@
+{
+	"classname": "google::protobuf::internal::MessageSetFieldSkipper",
+	"classname_mangled": "_ZTVN6google8protobuf8internal22MessageSetFieldSkipperE",
+	"members": [
+		{
+			"name": "google::protobuf::internal::MessageSetFieldSkipper::~MessageSetFieldSkipper()",
+			"name_mangled": "_ZN6google8protobuf8internal22MessageSetFieldSkipperD0Ev"
+		},
+		{
+			"name": "google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipField(google::protobuf::io::CodedInputStream*, unsigned int)",
+			"name_mangled": "_ZN6google8protobuf8internal27UnknownFieldSetFieldSkipper9SkipFieldEPNS0_2io16CodedInputStreamEj"
+		},
+		{
+			"name": "google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipMessage(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN6google8protobuf8internal27UnknownFieldSetFieldSkipper11SkipMessageEPNS0_2io16CodedInputStreamE"
+		},
+		{
+			"name": "google::protobuf::internal::UnknownFieldSetFieldSkipper::SkipUnknownEnum(int, int)",
+			"name_mangled": "_ZN6google8protobuf8internal27UnknownFieldSetFieldSkipper15SkipUnknownEnumEii"
+		},
+		{
+			"name": "google::protobuf::internal::MessageSetFieldSkipper::SkipMessageSetField(google::protobuf::io::CodedInputStream*, int)",
+			"name_mangled": "_ZN6google8protobuf8internal22MessageSetFieldSkipper19SkipMessageSetFieldEPNS0_2io16CodedInputStreamEi"
+		}
+	]
+}

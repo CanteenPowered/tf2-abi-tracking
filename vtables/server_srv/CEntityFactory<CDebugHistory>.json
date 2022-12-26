@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CDebugHistory>",
+	"classname_mangled": "_ZTV14CEntityFactoryI13CDebugHistoryE",
+	"members": [
+		{
+			"name": "CEntityFactory<CDebugHistory>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI13CDebugHistoryE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CDebugHistory>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI13CDebugHistoryE13GetEntitySizeEv"
+		}
+	]
+}

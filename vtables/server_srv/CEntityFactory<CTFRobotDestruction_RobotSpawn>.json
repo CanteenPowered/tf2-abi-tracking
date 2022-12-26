@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFRobotDestruction_RobotSpawn>",
+	"classname_mangled": "_ZTV14CEntityFactoryI30CTFRobotDestruction_RobotSpawnE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFRobotDestruction_RobotSpawn>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI30CTFRobotDestruction_RobotSpawnE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFRobotDestruction_RobotSpawn>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI30CTFRobotDestruction_RobotSpawnE13GetEntitySizeEv"
+		}
+	]
+}

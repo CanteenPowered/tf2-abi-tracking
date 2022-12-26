@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAI_NetworkManager>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CAI_NetworkManagerE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAI_NetworkManager>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CAI_NetworkManagerE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAI_NetworkManager>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CAI_NetworkManagerE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFWeaponBaseMerasmusGrenade>",
+	"classname_mangled": "_ZTV14CEntityFactoryI28CTFWeaponBaseMerasmusGrenadeE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFWeaponBaseMerasmusGrenade>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI28CTFWeaponBaseMerasmusGrenadeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFWeaponBaseMerasmusGrenade>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI28CTFWeaponBaseMerasmusGrenadeE13GetEntitySizeEv"
+		}
+	]
+}

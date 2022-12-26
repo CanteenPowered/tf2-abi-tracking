@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CExtraMapEntity_Carrier>",
+	"classname_mangled": "_ZTV14CEntityFactoryI23CExtraMapEntity_CarrierE",
+	"members": [
+		{
+			"name": "CEntityFactory<CExtraMapEntity_Carrier>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI23CExtraMapEntity_CarrierE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CExtraMapEntity_Carrier>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI23CExtraMapEntity_CarrierE13GetEntitySizeEv"
+		}
+	]
+}

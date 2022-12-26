@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFTargetDummy>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CTFTargetDummyE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFTargetDummy>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CTFTargetDummyE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFTargetDummy>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CTFTargetDummyE13GetEntitySizeEv"
+		}
+	]
+}

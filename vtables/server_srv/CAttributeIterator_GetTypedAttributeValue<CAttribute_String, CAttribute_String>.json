@@ -1,0 +1,38 @@
+{
+	"classname": "CAttributeIterator_GetTypedAttributeValue<CAttribute_String, CAttribute_String>",
+	"classname_mangled": "_ZTV41CAttributeIterator_GetTypedAttributeValueI17CAttribute_StringS0_E",
+	"members": [
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_String, CAttribute_String>::~CAttributeIterator_GetTypedAttributeValue()",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI17CAttribute_StringS0_ED0Ev"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_String, CAttribute_String>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned int)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI17CAttribute_StringS0_E23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionj"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_String, CAttribute_String>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, float)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI17CAttribute_StringS0_E23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionf"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_String, CAttribute_String>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned long long const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI17CAttribute_StringS0_E23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRKy"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_String, CAttribute_String>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_String const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI17CAttribute_StringS0_E23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRKS0_"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_String, CAttribute_String>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_DynamicRecipeComponent const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI17CAttribute_StringS0_E23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK33CAttribute_DynamicRecipeComponent"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_String, CAttribute_String>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_ItemSlotCriteria const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI17CAttribute_StringS0_E23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK27CAttribute_ItemSlotCriteria"
+		},
+		{
+			"name": "CAttributeIterator_GetTypedAttributeValue<CAttribute_String, CAttribute_String>::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_WorldItemPlacement const&)",
+			"name_mangled": "_ZN41CAttributeIterator_GetTypedAttributeValueI17CAttribute_StringS0_E23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK29CAttribute_WorldItemPlacement"
+		}
+	]
+}

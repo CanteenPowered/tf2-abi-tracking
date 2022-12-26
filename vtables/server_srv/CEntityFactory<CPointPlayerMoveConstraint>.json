@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPointPlayerMoveConstraint>",
+	"classname_mangled": "_ZTV14CEntityFactoryI26CPointPlayerMoveConstraintE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPointPlayerMoveConstraint>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI26CPointPlayerMoveConstraintE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPointPlayerMoveConstraint>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI26CPointPlayerMoveConstraintE13GetEntitySizeEv"
+		}
+	]
+}

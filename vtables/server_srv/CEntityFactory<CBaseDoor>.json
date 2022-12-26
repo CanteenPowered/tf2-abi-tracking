@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBaseDoor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9CBaseDoorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBaseDoor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9CBaseDoorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBaseDoor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9CBaseDoorE13GetEntitySizeEv"
+		}
+	]
+}

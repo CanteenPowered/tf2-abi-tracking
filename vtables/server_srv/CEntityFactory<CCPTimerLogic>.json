@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CCPTimerLogic>",
+	"classname_mangled": "_ZTV14CEntityFactoryI13CCPTimerLogicE",
+	"members": [
+		{
+			"name": "CEntityFactory<CCPTimerLogic>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI13CCPTimerLogicE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CCPTimerLogic>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI13CCPTimerLogicE13GetEntitySizeEv"
+		}
+	]
+}

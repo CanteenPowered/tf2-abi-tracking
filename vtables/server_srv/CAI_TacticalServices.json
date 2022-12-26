@@ -1,0 +1,22 @@
+{
+	"classname": "CAI_TacticalServices",
+	"classname_mangled": "_ZTV20CAI_TacticalServices",
+	"members": [
+		{
+			"name": "CAI_TacticalServices::~CAI_TacticalServices()",
+			"name_mangled": "_ZN20CAI_TacticalServicesD0Ev"
+		},
+		{
+			"name": "CAI_Component::SetOuter(CAI_BaseNPC*)",
+			"name_mangled": "_ZN13CAI_Component8SetOuterEP11CAI_BaseNPC"
+		},
+		{
+			"name": "CAI_Component::TaskFail(int)",
+			"name_mangled": "_ZN13CAI_Component8TaskFailEi"
+		},
+		{
+			"name": "CAI_Component::TaskComplete(bool)",
+			"name_mangled": "_ZN13CAI_Component12TaskCompleteEb"
+		}
+	]
+}

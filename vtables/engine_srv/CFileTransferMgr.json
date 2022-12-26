@@ -1,0 +1,10 @@
+{
+	"classname": "CFileTransferMgr",
+	"classname_mangled": "_ZTV16CFileTransferMgr",
+	"members": [
+		{
+			"name": "CFileTransferMgr::~CFileTransferMgr()",
+			"name_mangled": "_ZN16CFileTransferMgrD0Ev"
+		}
+	]
+}

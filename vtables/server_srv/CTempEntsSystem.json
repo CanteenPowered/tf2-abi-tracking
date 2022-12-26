@@ -1,0 +1,174 @@
+{
+	"classname": "CTempEntsSystem",
+	"classname_mangled": "_ZTV15CTempEntsSystem",
+	"members": [
+		{
+			"name": "CTempEntsSystem::~CTempEntsSystem()",
+			"name_mangled": "_ZN15CTempEntsSystemD0Ev"
+		},
+		{
+			"name": "CTempEntsSystem::ArmorRicochet(IRecipientFilter&, float, Vector const*, Vector const*)",
+			"name_mangled": "_ZN15CTempEntsSystem13ArmorRicochetER16IRecipientFilterfPK6VectorS4_"
+		},
+		{
+			"name": "CTempEntsSystem::BeamEntPoint(IRecipientFilter&, float, int, Vector const*, int, Vector const*, int, int, int, int, float, float, float, int, float, int, int, int, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem12BeamEntPointER16IRecipientFilterfiPK6VectoriS4_iiiifffifiiiii"
+		},
+		{
+			"name": "CTempEntsSystem::BeamEnts(IRecipientFilter&, float, int, int, int, int, int, int, float, float, float, int, float, int, int, int, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem8BeamEntsER16IRecipientFilterfiiiiiifffifiiiii"
+		},
+		{
+			"name": "CTempEntsSystem::BeamFollow(IRecipientFilter&, float, int, int, int, float, float, float, float, float, float, float, float)",
+			"name_mangled": "_ZN15CTempEntsSystem10BeamFollowER16IRecipientFilterfiiiffffffff"
+		},
+		{
+			"name": "CTempEntsSystem::BeamPoints(IRecipientFilter&, float, Vector const*, Vector const*, int, int, int, int, float, float, float, int, float, int, int, int, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem10BeamPointsER16IRecipientFilterfPK6VectorS4_iiiifffifiiiii"
+		},
+		{
+			"name": "CTempEntsSystem::BeamLaser(IRecipientFilter&, float, int, int, int, int, int, int, float, float, float, int, float, int, int, int, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem9BeamLaserER16IRecipientFilterfiiiiiifffifiiiii"
+		},
+		{
+			"name": "CTempEntsSystem::BeamRing(IRecipientFilter&, float, int, int, int, int, int, int, float, float, int, float, int, int, int, int, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem8BeamRingER16IRecipientFilterfiiiiiiffifiiiiii"
+		},
+		{
+			"name": "CTempEntsSystem::BeamRingPoint(IRecipientFilter&, float, Vector const&, float, float, int, int, int, int, float, float, int, float, int, int, int, int, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem13BeamRingPointER16IRecipientFilterfRK6Vectorffiiiiffifiiiiii"
+		},
+		{
+			"name": "CTempEntsSystem::BeamSpline(IRecipientFilter&, float, int, Vector*)",
+			"name_mangled": "_ZN15CTempEntsSystem10BeamSplineER16IRecipientFilterfiP6Vector"
+		},
+		{
+			"name": "CTempEntsSystem::BloodStream(IRecipientFilter&, float, Vector const*, Vector const*, int, int, int, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem11BloodStreamER16IRecipientFilterfPK6VectorS4_iiiii"
+		},
+		{
+			"name": "CTempEntsSystem::BloodSprite(IRecipientFilter&, float, Vector const*, Vector const*, int, int, int, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem11BloodSpriteER16IRecipientFilterfPK6VectorS4_iiiii"
+		},
+		{
+			"name": "CTempEntsSystem::BreakModel(IRecipientFilter&, float, Vector const&, QAngle const&, Vector const&, Vector const&, int, int, int, float, int)",
+			"name_mangled": "_ZN15CTempEntsSystem10BreakModelER16IRecipientFilterfRK6VectorRK6QAngleS4_S4_iiifi"
+		},
+		{
+			"name": "CTempEntsSystem::BSPDecal(IRecipientFilter&, float, Vector const*, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem8BSPDecalER16IRecipientFilterfPK6Vectorii"
+		},
+		{
+			"name": "CTempEntsSystem::ProjectDecal(IRecipientFilter&, float, Vector const*, QAngle const*, float, int)",
+			"name_mangled": "_ZN15CTempEntsSystem12ProjectDecalER16IRecipientFilterfPK6VectorPK6QAnglefi"
+		},
+		{
+			"name": "CTempEntsSystem::Bubbles(IRecipientFilter&, float, Vector const*, Vector const*, float, int, int, float)",
+			"name_mangled": "_ZN15CTempEntsSystem7BubblesER16IRecipientFilterfPK6VectorS4_fiif"
+		},
+		{
+			"name": "CTempEntsSystem::BubbleTrail(IRecipientFilter&, float, Vector const*, Vector const*, float, int, int, float)",
+			"name_mangled": "_ZN15CTempEntsSystem11BubbleTrailER16IRecipientFilterfPK6VectorS4_fiif"
+		},
+		{
+			"name": "CTempEntsSystem::Decal(IRecipientFilter&, float, Vector const*, Vector const*, int, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem5DecalER16IRecipientFilterfPK6VectorS4_iii"
+		},
+		{
+			"name": "CTempEntsSystem::DynamicLight(IRecipientFilter&, float, Vector const*, int, int, int, int, float, float, float)",
+			"name_mangled": "_ZN15CTempEntsSystem12DynamicLightER16IRecipientFilterfPK6Vectoriiiifff"
+		},
+		{
+			"name": "CTempEntsSystem::Explosion(IRecipientFilter&, float, Vector const*, int, float, int, int, int, int, Vector const*, unsigned char)",
+			"name_mangled": "_ZN15CTempEntsSystem9ExplosionER16IRecipientFilterfPK6VectorifiiiiS4_h"
+		},
+		{
+			"name": "CTempEntsSystem::ShatterSurface(IRecipientFilter&, float, Vector const*, QAngle const*, Vector const*, Vector const*, float, float, float, ShatterSurface_t, int, int, int, int, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem14ShatterSurfaceER16IRecipientFilterfPK6VectorPK6QAngleS4_S4_fff16ShatterSurface_tiiiiii"
+		},
+		{
+			"name": "CTempEntsSystem::GlowSprite(IRecipientFilter&, float, Vector const*, int, float, float, int)",
+			"name_mangled": "_ZN15CTempEntsSystem10GlowSpriteER16IRecipientFilterfPK6Vectoriffi"
+		},
+		{
+			"name": "CTempEntsSystem::FootprintDecal(IRecipientFilter&, float, Vector const*, Vector const*, int, int, unsigned char)",
+			"name_mangled": "_ZN15CTempEntsSystem14FootprintDecalER16IRecipientFilterfPK6VectorS4_iih"
+		},
+		{
+			"name": "CTempEntsSystem::Fizz(IRecipientFilter&, float, CBaseEntity const*, int, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem4FizzER16IRecipientFilterfPK11CBaseEntityiii"
+		},
+		{
+			"name": "CTempEntsSystem::KillPlayerAttachments(IRecipientFilter&, float, int)",
+			"name_mangled": "_ZN15CTempEntsSystem21KillPlayerAttachmentsER16IRecipientFilterfi"
+		},
+		{
+			"name": "CTempEntsSystem::LargeFunnel(IRecipientFilter&, float, Vector const*, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem11LargeFunnelER16IRecipientFilterfPK6Vectorii"
+		},
+		{
+			"name": "CTempEntsSystem::MetalSparks(IRecipientFilter&, float, Vector const*, Vector const*)",
+			"name_mangled": "_ZN15CTempEntsSystem11MetalSparksER16IRecipientFilterfPK6VectorS4_"
+		},
+		{
+			"name": "CTempEntsSystem::EnergySplash(IRecipientFilter&, float, Vector const*, Vector const*, bool)",
+			"name_mangled": "_ZN15CTempEntsSystem12EnergySplashER16IRecipientFilterfPK6VectorS4_b"
+		},
+		{
+			"name": "CTempEntsSystem::PlayerDecal(IRecipientFilter&, float, Vector const*, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem11PlayerDecalER16IRecipientFilterfPK6Vectorii"
+		},
+		{
+			"name": "CTempEntsSystem::ShowLine(IRecipientFilter&, float, Vector const*, Vector const*)",
+			"name_mangled": "_ZN15CTempEntsSystem8ShowLineER16IRecipientFilterfPK6VectorS4_"
+		},
+		{
+			"name": "CTempEntsSystem::Smoke(IRecipientFilter&, float, Vector const*, int, float, int)",
+			"name_mangled": "_ZN15CTempEntsSystem5SmokeER16IRecipientFilterfPK6Vectorifi"
+		},
+		{
+			"name": "CTempEntsSystem::Sparks(IRecipientFilter&, float, Vector const*, int, int, Vector const*)",
+			"name_mangled": "_ZN15CTempEntsSystem6SparksER16IRecipientFilterfPK6VectoriiS4_"
+		},
+		{
+			"name": "CTempEntsSystem::Sprite(IRecipientFilter&, float, Vector const*, int, float, int)",
+			"name_mangled": "_ZN15CTempEntsSystem6SpriteER16IRecipientFilterfPK6Vectorifi"
+		},
+		{
+			"name": "CTempEntsSystem::SpriteSpray(IRecipientFilter&, float, Vector const*, Vector const*, int, int, float, int)",
+			"name_mangled": "_ZN15CTempEntsSystem11SpriteSprayER16IRecipientFilterfPK6VectorS4_iifi"
+		},
+		{
+			"name": "CTempEntsSystem::WorldDecal(IRecipientFilter&, float, Vector const*, int)",
+			"name_mangled": "_ZN15CTempEntsSystem10WorldDecalER16IRecipientFilterfPK6Vectori"
+		},
+		{
+			"name": "CTempEntsSystem::MuzzleFlash(IRecipientFilter&, float, Vector const&, QAngle const&, float, int)",
+			"name_mangled": "_ZN15CTempEntsSystem11MuzzleFlashER16IRecipientFilterfRK6VectorRK6QAnglefi"
+		},
+		{
+			"name": "CTempEntsSystem::Dust(IRecipientFilter&, float, Vector const&, Vector const&, float, float)",
+			"name_mangled": "_ZN15CTempEntsSystem4DustER16IRecipientFilterfRK6VectorS4_ff"
+		},
+		{
+			"name": "CTempEntsSystem::GaussExplosion(IRecipientFilter&, float, Vector const&, Vector const&, int)",
+			"name_mangled": "_ZN15CTempEntsSystem14GaussExplosionER16IRecipientFilterfRK6VectorS4_i"
+		},
+		{
+			"name": "CTempEntsSystem::DispatchEffect(IRecipientFilter&, float, Vector const&, char const*, CEffectData const&)",
+			"name_mangled": "_ZN15CTempEntsSystem14DispatchEffectER16IRecipientFilterfRK6VectorPKcRK11CEffectData"
+		},
+		{
+			"name": "CTempEntsSystem::PhysicsProp(IRecipientFilter&, float, int, int, Vector const&, QAngle const&, Vector const&, int, int)",
+			"name_mangled": "_ZN15CTempEntsSystem11PhysicsPropER16IRecipientFilterfiiRK6VectorRK6QAngleS4_ii"
+		},
+		{
+			"name": "CTempEntsSystem::TriggerTempEntity(KeyValues*)",
+			"name_mangled": "_ZN15CTempEntsSystem17TriggerTempEntityEP9KeyValues"
+		},
+		{
+			"name": "CTempEntsSystem::ClientProjectile(IRecipientFilter&, float, Vector const*, Vector const*, int, int, CBaseEntity*)",
+			"name_mangled": "_ZN15CTempEntsSystem16ClientProjectileER16IRecipientFilterfPK6VectorS4_iiP11CBaseEntity"
+		}
+	]
+}

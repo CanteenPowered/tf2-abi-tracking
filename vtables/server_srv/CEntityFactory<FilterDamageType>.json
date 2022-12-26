@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<FilterDamageType>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16FilterDamageTypeE",
+	"members": [
+		{
+			"name": "CEntityFactory<FilterDamageType>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16FilterDamageTypeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<FilterDamageType>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16FilterDamageTypeE13GetEntitySizeEv"
+		}
+	]
+}

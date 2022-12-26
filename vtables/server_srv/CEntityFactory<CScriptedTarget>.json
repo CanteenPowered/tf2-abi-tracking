@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CScriptedTarget>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CScriptedTargetE",
+	"members": [
+		{
+			"name": "CEntityFactory<CScriptedTarget>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CScriptedTargetE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CScriptedTarget>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CScriptedTargetE13GetEntitySizeEv"
+		}
+	]
+}

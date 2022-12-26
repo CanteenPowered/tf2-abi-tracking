@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgLANServerAvailable",
+	"classname_mangled": "_ZTV22CMsgLANServerAvailable",
+	"members": [
+		{
+			"name": "CMsgLANServerAvailable::~CMsgLANServerAvailable()",
+			"name_mangled": "_ZN22CMsgLANServerAvailableD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgLANServerAvailable::New() const",
+			"name_mangled": "_ZNK22CMsgLANServerAvailable3NewEv"
+		},
+		{
+			"name": "CMsgLANServerAvailable::Clear()",
+			"name_mangled": "_ZN22CMsgLANServerAvailable5ClearEv"
+		},
+		{
+			"name": "CMsgLANServerAvailable::IsInitialized() const",
+			"name_mangled": "_ZNK22CMsgLANServerAvailable13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgLANServerAvailable::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN22CMsgLANServerAvailable27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgLANServerAvailable::ByteSize() const",
+			"name_mangled": "_ZNK22CMsgLANServerAvailable8ByteSizeEv"
+		},
+		{
+			"name": "CMsgLANServerAvailable::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK22CMsgLANServerAvailable24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgLANServerAvailable::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK22CMsgLANServerAvailable31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgLANServerAvailable::GetCachedSize() const",
+			"name_mangled": "_ZNK22CMsgLANServerAvailable13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgLANServerAvailable::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN22CMsgLANServerAvailable8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgLANServerAvailable::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN22CMsgLANServerAvailable9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgLANServerAvailable::SetCachedSize(int) const",
+			"name_mangled": "_ZNK22CMsgLANServerAvailable13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgLANServerAvailable::GetMetadata() const",
+			"name_mangled": "_ZNK22CMsgLANServerAvailable11GetMetadataEv"
+		}
+	]
+}

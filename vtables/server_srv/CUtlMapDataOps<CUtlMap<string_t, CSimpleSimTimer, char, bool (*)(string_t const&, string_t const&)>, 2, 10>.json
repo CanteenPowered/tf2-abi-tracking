@@ -1,0 +1,22 @@
+{
+	"classname": "CUtlMapDataOps<CUtlMap<string_t, CSimpleSimTimer, char, bool (*)(string_t const&, string_t const&)>, 2, 10>",
+	"classname_mangled": "_ZTV14CUtlMapDataOpsI7CUtlMapI8string_t15CSimpleSimTimercPFbRKS1_S4_EELi2ELi10EE",
+	"members": [
+		{
+			"name": "CUtlMapDataOps<CUtlMap<string_t, CSimpleSimTimer, char, bool (*)(string_t const&, string_t const&)>, 2, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)",
+			"name_mangled": "_ZN14CUtlMapDataOpsI7CUtlMapI8string_t15CSimpleSimTimercPFbRKS1_S4_EELi2ELi10EE7RestoreERK22SaveRestoreFieldInfo_tP8IRestore"
+		},
+		{
+			"name": "CUtlMapDataOps<CUtlMap<string_t, CSimpleSimTimer, char, bool (*)(string_t const&, string_t const&)>, 2, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN14CUtlMapDataOpsI7CUtlMapI8string_t15CSimpleSimTimercPFbRKS1_S4_EELi2ELi10EE7IsEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CUtlMapDataOps<CUtlMap<string_t, CSimpleSimTimer, char, bool (*)(string_t const&, string_t const&)>, 2, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN14CUtlMapDataOpsI7CUtlMapI8string_t15CSimpleSimTimercPFbRKS1_S4_EELi2ELi10EE9MakeEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)",
+			"name_mangled": "_ZN18CDefSaveRestoreOps5ParseERK22SaveRestoreFieldInfo_tPKc"
+		}
+	]
+}

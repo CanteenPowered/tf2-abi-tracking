@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFlextalkActor>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CFlextalkActorE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFlextalkActor>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CFlextalkActorE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFlextalkActor>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CFlextalkActorE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFPumpkinBomb>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CTFPumpkinBombE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFPumpkinBomb>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CTFPumpkinBombE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFPumpkinBomb>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CTFPumpkinBombE13GetEntitySizeEv"
+		}
+	]
+}

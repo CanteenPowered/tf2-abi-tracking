@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgGC_GameServer_LevelInfo>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI27CMsgGC_GameServer_LevelInfoEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGC_GameServer_LevelInfo>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI27CMsgGC_GameServer_LevelInfoED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGC_GameServer_LevelInfo>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI27CMsgGC_GameServer_LevelInfoE14GetGenericBodyEv"
+		}
+	]
+}

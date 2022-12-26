@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CEventQueueSaveLoadProxy>",
+	"classname_mangled": "_ZTV14CEntityFactoryI24CEventQueueSaveLoadProxyE",
+	"members": [
+		{
+			"name": "CEntityFactory<CEventQueueSaveLoadProxy>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI24CEventQueueSaveLoadProxyE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CEventQueueSaveLoadProxy>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI24CEventQueueSaveLoadProxyE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgGCChangeMatchPlayerTeamsResponse>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI36CMsgGCChangeMatchPlayerTeamsResponseEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGCChangeMatchPlayerTeamsResponse>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI36CMsgGCChangeMatchPlayerTeamsResponseED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgGCChangeMatchPlayerTeamsResponse>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI36CMsgGCChangeMatchPlayerTeamsResponseE14GetGenericBodyEv"
+		}
+	]
+}

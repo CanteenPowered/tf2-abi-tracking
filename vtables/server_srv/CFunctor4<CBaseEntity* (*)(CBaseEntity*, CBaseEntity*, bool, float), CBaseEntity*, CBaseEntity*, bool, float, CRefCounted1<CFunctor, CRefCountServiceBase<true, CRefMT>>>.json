@@ -1,0 +1,22 @@
+{
+	"classname": "CFunctor4<CBaseEntity* (*)(CBaseEntity*, CBaseEntity*, bool, float), CBaseEntity*, CBaseEntity*, bool, float, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>>",
+	"classname_mangled": "_ZTV9CFunctor4IPFP11CBaseEntityS1_S1_bfES1_S1_bf12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEEE",
+	"members": [
+		{
+			"name": "CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>::Release()",
+			"name_mangled": "_ZN12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEE7ReleaseEv"
+		},
+		{
+			"name": "CFunctor4<CBaseEntity* (*)(CBaseEntity*, CBaseEntity*, bool, float), CBaseEntity*, CBaseEntity*, bool, float, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>>::~CFunctor4()",
+			"name_mangled": "_ZN9CFunctor4IPFP11CBaseEntityS1_S1_bfES1_S1_bf12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEEED1Ev"
+		},
+		{
+			"name": "CFunctor4<CBaseEntity* (*)(CBaseEntity*, CBaseEntity*, bool, float), CBaseEntity*, CBaseEntity*, bool, float, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>>::~CFunctor4()",
+			"name_mangled": "_ZN9CFunctor4IPFP11CBaseEntityS1_S1_bfES1_S1_bf12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEEED0Ev"
+		},
+		{
+			"name": "CFunctor4<CBaseEntity* (*)(CBaseEntity*, CBaseEntity*, bool, float), CBaseEntity*, CBaseEntity*, bool, float, CRefCounted1<CFunctor, CRefCountServiceBase<true, CRefMT>>>::operator()()",
+			"name_mangled": "_ZN9CFunctor4IPFP11CBaseEntityS1_S1_bfES1_S1_bf12CRefCounted1I8CFunctor20CRefCountServiceBaseILb1E6CRefMTEEEclEv"
+		}
+	]
+}

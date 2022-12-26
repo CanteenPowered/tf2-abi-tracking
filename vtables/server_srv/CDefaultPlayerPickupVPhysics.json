@@ -1,0 +1,42 @@
+{
+	"classname": "CDefaultPlayerPickupVPhysics",
+	"classname_mangled": "_ZTV28CDefaultPlayerPickupVPhysics",
+	"members": [
+		{
+			"name": "CDefaultPlayerPickupVPhysics::OnFailedPhysGunPickup(Vector)",
+			"name_mangled": "_ZN28CDefaultPlayerPickupVPhysics21OnFailedPhysGunPickupE6Vector"
+		},
+		{
+			"name": "CDefaultPlayerPickupVPhysics::OnPhysGunPickup(CBasePlayer*, PhysGunPickup_t)",
+			"name_mangled": "_ZN28CDefaultPlayerPickupVPhysics15OnPhysGunPickupEP11CBasePlayer15PhysGunPickup_t"
+		},
+		{
+			"name": "CDefaultPlayerPickupVPhysics::OnPhysGunDrop(CBasePlayer*, PhysGunDrop_t)",
+			"name_mangled": "_ZN28CDefaultPlayerPickupVPhysics13OnPhysGunDropEP11CBasePlayer13PhysGunDrop_t"
+		},
+		{
+			"name": "CDefaultPlayerPickupVPhysics::HasPreferredCarryAnglesForPlayer(CBasePlayer*)",
+			"name_mangled": "_ZN28CDefaultPlayerPickupVPhysics32HasPreferredCarryAnglesForPlayerEP11CBasePlayer"
+		},
+		{
+			"name": "CDefaultPlayerPickupVPhysics::PreferredCarryAngles()",
+			"name_mangled": "_ZN28CDefaultPlayerPickupVPhysics20PreferredCarryAnglesEv"
+		},
+		{
+			"name": "CDefaultPlayerPickupVPhysics::ForcePhysgunOpen(CBasePlayer*)",
+			"name_mangled": "_ZN28CDefaultPlayerPickupVPhysics16ForcePhysgunOpenEP11CBasePlayer"
+		},
+		{
+			"name": "CDefaultPlayerPickupVPhysics::PhysGunLaunchAngularImpulse()",
+			"name_mangled": "_ZN28CDefaultPlayerPickupVPhysics27PhysGunLaunchAngularImpulseEv"
+		},
+		{
+			"name": "CDefaultPlayerPickupVPhysics::ShouldPuntUseLaunchForces(PhysGunForce_t)",
+			"name_mangled": "_ZN28CDefaultPlayerPickupVPhysics25ShouldPuntUseLaunchForcesE14PhysGunForce_t"
+		},
+		{
+			"name": "CDefaultPlayerPickupVPhysics::PhysGunLaunchVelocity(Vector const&, float)",
+			"name_mangled": "_ZN28CDefaultPlayerPickupVPhysics21PhysGunLaunchVelocityERK6Vectorf"
+		}
+	]
+}

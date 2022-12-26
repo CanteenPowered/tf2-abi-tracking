@@ -1,0 +1,18 @@
+{
+	"classname": "CCoreDispInfo",
+	"classname_mangled": "_ZTV13CCoreDispInfo",
+	"members": [
+		{
+			"name": "CCoreDispInfo::GetEdgeNeighbor(int)",
+			"name_mangled": "_ZN13CCoreDispInfo15GetEdgeNeighborEi"
+		},
+		{
+			"name": "CCoreDispInfo::GetCornerNeighbors(int)",
+			"name_mangled": "_ZN13CCoreDispInfo18GetCornerNeighborsEi"
+		},
+		{
+			"name": "CCoreDispInfo::GetDispUtilsByIndex(int)",
+			"name_mangled": "_ZN13CCoreDispInfo19GetDispUtilsByIndexEi"
+		}
+	]
+}

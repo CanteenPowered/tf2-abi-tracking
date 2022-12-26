@@ -1,0 +1,78 @@
+{
+	"classname": "CSoundEmitterSystem",
+	"classname_mangled": "_ZTV19CSoundEmitterSystem",
+	"members": [
+		{
+			"name": "CSoundEmitterSystem::Init()",
+			"name_mangled": "_ZN19CSoundEmitterSystem4InitEv"
+		},
+		{
+			"name": "CBaseGameSystem::PostInit()",
+			"name_mangled": "_ZN15CBaseGameSystem8PostInitEv"
+		},
+		{
+			"name": "CSoundEmitterSystem::Shutdown()",
+			"name_mangled": "_ZN19CSoundEmitterSystem8ShutdownEv"
+		},
+		{
+			"name": "CSoundEmitterSystem::LevelInitPreEntity()",
+			"name_mangled": "_ZN19CSoundEmitterSystem18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CSoundEmitterSystem::LevelInitPostEntity()",
+			"name_mangled": "_ZN19CSoundEmitterSystem19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystem::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN15CBaseGameSystem36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameSystem::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN15CBaseGameSystem22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CSoundEmitterSystem::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN19CSoundEmitterSystem23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystem::OnSave()",
+			"name_mangled": "_ZN15CBaseGameSystem6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystem::OnRestore()",
+			"name_mangled": "_ZN15CBaseGameSystem9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystem::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN15CBaseGameSystem19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystem::IsPerFrame()",
+			"name_mangled": "_ZN15CBaseGameSystem10IsPerFrameEv"
+		},
+		{
+			"name": "CSoundEmitterSystem::~CSoundEmitterSystem()",
+			"name_mangled": "_ZN19CSoundEmitterSystemD2Ev"
+		},
+		{
+			"name": "CSoundEmitterSystem::~CSoundEmitterSystem()",
+			"name_mangled": "_ZN19CSoundEmitterSystemD0Ev"
+		},
+		{
+			"name": "CBaseGameSystem::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN15CBaseGameSystem25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystem::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN15CBaseGameSystem26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystem::PreClientUpdate()",
+			"name_mangled": "_ZN15CBaseGameSystem15PreClientUpdateEv"
+		},
+		{
+			"name": "CSoundEmitterSystem::TraceEmitSound(char const*, ...)",
+			"name_mangled": "_ZN19CSoundEmitterSystem14TraceEmitSoundEPKcz"
+		}
+	]
+}

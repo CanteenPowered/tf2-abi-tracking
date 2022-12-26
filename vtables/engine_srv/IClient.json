@@ -1,0 +1,10 @@
+{
+	"classname": "IClient",
+	"classname_mangled": "_ZTV7IClient",
+	"members": [
+		{
+			"name": "IClient::~IClient()",
+			"name_mangled": "_ZN7IClientD0Ev"
+		}
+	]
+}

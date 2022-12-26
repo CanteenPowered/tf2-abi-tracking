@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFTeleportLocation>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CTFTeleportLocationE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFTeleportLocation>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFTeleportLocationE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFTeleportLocation>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFTeleportLocationE13GetEntitySizeEv"
+		}
+	]
+}

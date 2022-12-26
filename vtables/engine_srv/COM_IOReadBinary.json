@@ -1,0 +1,26 @@
+{
+	"classname": "COM_IOReadBinary",
+	"classname_mangled": "_ZTV16COM_IOReadBinary",
+	"members": [
+		{
+			"name": "COM_IOReadBinary::read(void*, int, int)",
+			"name_mangled": "_ZN16COM_IOReadBinary4readEPvii"
+		},
+		{
+			"name": "COM_IOReadBinary::close(int)",
+			"name_mangled": "_ZN16COM_IOReadBinary5closeEi"
+		},
+		{
+			"name": "COM_IOReadBinary::seek(int, int)",
+			"name_mangled": "_ZN16COM_IOReadBinary4seekEii"
+		},
+		{
+			"name": "COM_IOReadBinary::tell(int)",
+			"name_mangled": "_ZN16COM_IOReadBinary4tellEi"
+		},
+		{
+			"name": "COM_IOReadBinary::size(int)",
+			"name_mangled": "_ZN16COM_IOReadBinary4sizeEi"
+		}
+	]
+}

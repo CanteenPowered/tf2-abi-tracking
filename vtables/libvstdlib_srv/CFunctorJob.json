@@ -1,0 +1,38 @@
+{
+	"classname": "CFunctorJob",
+	"classname_mangled": "_ZTV11CFunctorJob",
+	"members": [
+		{
+			"name": "CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT>>::Release()",
+			"name_mangled": "_ZN12CRefCounted1I11IRefCounted20CRefCountServiceBaseILb1E6CRefMTEE7ReleaseEv"
+		},
+		{
+			"name": "CFunctorJob::~CFunctorJob()",
+			"name_mangled": "_ZN11CFunctorJobD2Ev"
+		},
+		{
+			"name": "CFunctorJob::~CFunctorJob()",
+			"name_mangled": "_ZN11CFunctorJobD0Ev"
+		},
+		{
+			"name": "CFunctorJob::Describe()",
+			"name_mangled": "_ZN11CFunctorJob8DescribeEv"
+		},
+		{
+			"name": "CJob::SetDescription(char const*)",
+			"name_mangled": "_ZN4CJob14SetDescriptionEPKc"
+		},
+		{
+			"name": "CFunctorJob::DoExecute()",
+			"name_mangled": "_ZN11CFunctorJob9DoExecuteEv"
+		},
+		{
+			"name": "CJob::DoAbort(bool)",
+			"name_mangled": "_ZN4CJob7DoAbortEb"
+		},
+		{
+			"name": "CJob::DoCleanup()",
+			"name_mangled": "_ZN4CJob9DoCleanupEv"
+		}
+	]
+}

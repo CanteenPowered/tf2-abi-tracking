@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFFlareGun_Revenge>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CTFFlareGun_RevengeE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFFlareGun_Revenge>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFFlareGun_RevengeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFFlareGun_Revenge>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFFlareGun_RevengeE13GetEntitySizeEv"
+		}
+	]
+}

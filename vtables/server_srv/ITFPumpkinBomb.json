@@ -1,0 +1,10 @@
+{
+	"classname": "ITFPumpkinBomb",
+	"classname_mangled": "_ZTV14ITFPumpkinBomb",
+	"members": [
+		{
+			"name": "ITFPumpkinBomb::~ITFPumpkinBomb()",
+			"name_mangled": "_ZN14ITFPumpkinBombD0Ev"
+		}
+	]
+}

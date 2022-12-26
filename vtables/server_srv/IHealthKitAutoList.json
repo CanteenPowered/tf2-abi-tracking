@@ -1,0 +1,10 @@
+{
+	"classname": "IHealthKitAutoList",
+	"classname_mangled": "_ZTV18IHealthKitAutoList",
+	"members": [
+		{
+			"name": "IHealthKitAutoList::~IHealthKitAutoList()",
+			"name_mangled": "_ZN18IHealthKitAutoListD0Ev"
+		}
+	]
+}

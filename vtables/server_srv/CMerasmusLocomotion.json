@@ -1,0 +1,446 @@
+{
+	"classname": "CMerasmusLocomotion",
+	"classname_mangled": "_ZTV19CMerasmusLocomotion",
+	"members": [
+		{
+			"name": "CMerasmusLocomotion::~CMerasmusLocomotion()",
+			"name_mangled": "_ZN19CMerasmusLocomotionD0Ev"
+		},
+		{
+			"name": "INextBotEventResponder::FirstContainedResponder() const",
+			"name_mangled": "_ZNK22INextBotEventResponder23FirstContainedResponderEv"
+		},
+		{
+			"name": "INextBotEventResponder::NextContainedResponder(INextBotEventResponder*) const",
+			"name_mangled": "_ZNK22INextBotEventResponder22NextContainedResponderEPS_"
+		},
+		{
+			"name": "NextBotGroundLocomotion::OnLeaveGround(CBaseEntity*)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion13OnLeaveGroundEP11CBaseEntity"
+		},
+		{
+			"name": "NextBotGroundLocomotion::OnLandOnGround(CBaseEntity*)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion14OnLandOnGroundEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnContact(CBaseEntity*, CGameTrace*)",
+			"name_mangled": "_ZN22INextBotEventResponder9OnContactEP11CBaseEntityP10CGameTrace"
+		},
+		{
+			"name": "NextBotGroundLocomotion::OnMoveToSuccess(Path const*)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion15OnMoveToSuccessEPK4Path"
+		},
+		{
+			"name": "NextBotGroundLocomotion::OnMoveToFailure(Path const*, MoveToFailureType)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion15OnMoveToFailureEPK4Path17MoveToFailureType"
+		},
+		{
+			"name": "INextBotEventResponder::OnStuck()",
+			"name_mangled": "_ZN22INextBotEventResponder7OnStuckEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnUnStuck()",
+			"name_mangled": "_ZN22INextBotEventResponder9OnUnStuckEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnPostureChanged()",
+			"name_mangled": "_ZN22INextBotEventResponder16OnPostureChangedEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnAnimationActivityComplete(int)",
+			"name_mangled": "_ZN22INextBotEventResponder27OnAnimationActivityCompleteEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnAnimationActivityInterrupted(int)",
+			"name_mangled": "_ZN22INextBotEventResponder30OnAnimationActivityInterruptedEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnAnimationEvent(animevent_t*)",
+			"name_mangled": "_ZN22INextBotEventResponder16OnAnimationEventEP11animevent_t"
+		},
+		{
+			"name": "INextBotEventResponder::OnIgnite()",
+			"name_mangled": "_ZN22INextBotEventResponder8OnIgniteEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnInjured(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN22INextBotEventResponder9OnInjuredERK15CTakeDamageInfo"
+		},
+		{
+			"name": "INextBotEventResponder::OnKilled(CTakeDamageInfo const&)",
+			"name_mangled": "_ZN22INextBotEventResponder8OnKilledERK15CTakeDamageInfo"
+		},
+		{
+			"name": "INextBotEventResponder::OnOtherKilled(CBaseCombatCharacter*, CTakeDamageInfo const&)",
+			"name_mangled": "_ZN22INextBotEventResponder13OnOtherKilledEP20CBaseCombatCharacterRK15CTakeDamageInfo"
+		},
+		{
+			"name": "INextBotEventResponder::OnSight(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder7OnSightEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnLostSight(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder11OnLostSightEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnSound(CBaseEntity*, Vector const&, KeyValues*)",
+			"name_mangled": "_ZN22INextBotEventResponder7OnSoundEP11CBaseEntityRK6VectorP9KeyValues"
+		},
+		{
+			"name": "INextBotEventResponder::OnSpokeConcept(CBaseCombatCharacter*, char const*, AI_Response*)",
+			"name_mangled": "_ZN22INextBotEventResponder14OnSpokeConceptEP20CBaseCombatCharacterPKcP11AI_Response"
+		},
+		{
+			"name": "INextBotEventResponder::OnWeaponFired(CBaseCombatCharacter*, CBaseCombatWeapon*)",
+			"name_mangled": "_ZN22INextBotEventResponder13OnWeaponFiredEP20CBaseCombatCharacterP17CBaseCombatWeapon"
+		},
+		{
+			"name": "INextBotEventResponder::OnNavAreaChanged(CNavArea*, CNavArea*)",
+			"name_mangled": "_ZN22INextBotEventResponder16OnNavAreaChangedEP8CNavAreaS1_"
+		},
+		{
+			"name": "INextBotEventResponder::OnModelChanged()",
+			"name_mangled": "_ZN22INextBotEventResponder14OnModelChangedEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnPickUp(CBaseEntity*, CBaseCombatCharacter*)",
+			"name_mangled": "_ZN22INextBotEventResponder8OnPickUpEP11CBaseEntityP20CBaseCombatCharacter"
+		},
+		{
+			"name": "INextBotEventResponder::OnDrop(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder6OnDropEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnActorEmoted(CBaseCombatCharacter*, int)",
+			"name_mangled": "_ZN22INextBotEventResponder13OnActorEmotedEP20CBaseCombatCharacteri"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandAttack(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder15OnCommandAttackEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandApproach(Vector const&, float)",
+			"name_mangled": "_ZN22INextBotEventResponder17OnCommandApproachERK6Vectorf"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandApproach(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder17OnCommandApproachEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandRetreat(CBaseEntity*, float)",
+			"name_mangled": "_ZN22INextBotEventResponder16OnCommandRetreatEP11CBaseEntityf"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandPause(float)",
+			"name_mangled": "_ZN22INextBotEventResponder14OnCommandPauseEf"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandResume()",
+			"name_mangled": "_ZN22INextBotEventResponder15OnCommandResumeEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnCommandString(char const*)",
+			"name_mangled": "_ZN22INextBotEventResponder15OnCommandStringEPKc"
+		},
+		{
+			"name": "INextBotEventResponder::OnShoved(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder8OnShovedEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnBlinded(CBaseEntity*)",
+			"name_mangled": "_ZN22INextBotEventResponder9OnBlindedEP11CBaseEntity"
+		},
+		{
+			"name": "INextBotEventResponder::OnTerritoryContested(int)",
+			"name_mangled": "_ZN22INextBotEventResponder20OnTerritoryContestedEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnTerritoryCaptured(int)",
+			"name_mangled": "_ZN22INextBotEventResponder19OnTerritoryCapturedEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnTerritoryLost(int)",
+			"name_mangled": "_ZN22INextBotEventResponder15OnTerritoryLostEi"
+		},
+		{
+			"name": "INextBotEventResponder::OnWin()",
+			"name_mangled": "_ZN22INextBotEventResponder5OnWinEv"
+		},
+		{
+			"name": "INextBotEventResponder::OnLose()",
+			"name_mangled": "_ZN22INextBotEventResponder6OnLoseEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::Reset()",
+			"name_mangled": "_ZN23NextBotGroundLocomotion5ResetEv"
+		},
+		{
+			"name": "CMerasmusLocomotion::Update()",
+			"name_mangled": "_ZN19CMerasmusLocomotion6UpdateEv"
+		},
+		{
+			"name": "INextBotComponent::Upkeep()",
+			"name_mangled": "_ZN17INextBotComponent6UpkeepEv"
+		},
+		{
+			"name": "INextBotComponent::GetBot() const",
+			"name_mangled": "_ZNK17INextBotComponent6GetBotEv"
+		},
+		{
+			"name": "ILocomotion::GetScriptDesc()",
+			"name_mangled": "_ZN11ILocomotion13GetScriptDescEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::Approach(Vector const&, float)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion8ApproachERK6Vectorf"
+		},
+		{
+			"name": "NextBotGroundLocomotion::DriveTo(Vector const&)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion7DriveToERK6Vector"
+		},
+		{
+			"name": "NextBotGroundLocomotion::ClimbUpToLedge(Vector const&, Vector const&, CBaseEntity const*)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion14ClimbUpToLedgeERK6VectorS2_PK11CBaseEntity"
+		},
+		{
+			"name": "NextBotGroundLocomotion::JumpAcrossGap(Vector const&, Vector const&)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion13JumpAcrossGapERK6VectorS2_"
+		},
+		{
+			"name": "NextBotGroundLocomotion::Jump()",
+			"name_mangled": "_ZN23NextBotGroundLocomotion4JumpEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::IsClimbingOrJumping() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion19IsClimbingOrJumpingEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::IsClimbingUpToLedge() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion19IsClimbingUpToLedgeEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::IsJumpingAcrossGap() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion18IsJumpingAcrossGapEv"
+		},
+		{
+			"name": "ILocomotion::IsScrambling() const",
+			"name_mangled": "_ZNK11ILocomotion12IsScramblingEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::Run()",
+			"name_mangled": "_ZN23NextBotGroundLocomotion3RunEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::Walk()",
+			"name_mangled": "_ZN23NextBotGroundLocomotion4WalkEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::Stop()",
+			"name_mangled": "_ZN23NextBotGroundLocomotion4StopEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::IsRunning() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion9IsRunningEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::SetDesiredSpeed(float)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion15SetDesiredSpeedEf"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetDesiredSpeed() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion15GetDesiredSpeedEv"
+		},
+		{
+			"name": "ILocomotion::SetSpeedLimit(float)",
+			"name_mangled": "_ZN11ILocomotion13SetSpeedLimitEf"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetSpeedLimit() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion13GetSpeedLimitEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::IsOnGround() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion10IsOnGroundEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetGround() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion9GetGroundEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetGroundNormal() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion15GetGroundNormalEv"
+		},
+		{
+			"name": "ILocomotion::GetGroundSpeed() const",
+			"name_mangled": "_ZNK11ILocomotion14GetGroundSpeedEv"
+		},
+		{
+			"name": "ILocomotion::GetGroundMotionVector() const",
+			"name_mangled": "_ZNK11ILocomotion21GetGroundMotionVectorEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::ClimbLadder(CNavLadder const*, CNavArea const*)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion11ClimbLadderEPK10CNavLadderPK8CNavArea"
+		},
+		{
+			"name": "NextBotGroundLocomotion::DescendLadder(CNavLadder const*, CNavArea const*)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion13DescendLadderEPK10CNavLadderPK8CNavArea"
+		},
+		{
+			"name": "NextBotGroundLocomotion::IsUsingLadder() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion13IsUsingLadderEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::IsAscendingOrDescendingLadder() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion29IsAscendingOrDescendingLadderEv"
+		},
+		{
+			"name": "ILocomotion::IsAbleToAutoCenterOnLadder() const",
+			"name_mangled": "_ZNK11ILocomotion26IsAbleToAutoCenterOnLadderEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::FaceTowards(Vector const&)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion11FaceTowardsERK6Vector"
+		},
+		{
+			"name": "NextBotGroundLocomotion::SetDesiredLean(QAngle const&)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion14SetDesiredLeanERK6QAngle"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetDesiredLean() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion14GetDesiredLeanEv"
+		},
+		{
+			"name": "ILocomotion::IsAbleToJumpAcrossGaps() const",
+			"name_mangled": "_ZNK11ILocomotion22IsAbleToJumpAcrossGapsEv"
+		},
+		{
+			"name": "ILocomotion::IsAbleToClimb() const",
+			"name_mangled": "_ZNK11ILocomotion13IsAbleToClimbEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetFeet() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion7GetFeetEv"
+		},
+		{
+			"name": "CMerasmusLocomotion::GetStepHeight() const",
+			"name_mangled": "_ZNK19CMerasmusLocomotion13GetStepHeightEv"
+		},
+		{
+			"name": "CMerasmusLocomotion::GetMaxJumpHeight() const",
+			"name_mangled": "_ZNK19CMerasmusLocomotion16GetMaxJumpHeightEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetDeathDropHeight() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion18GetDeathDropHeightEv"
+		},
+		{
+			"name": "CMerasmusLocomotion::GetRunSpeed() const",
+			"name_mangled": "_ZNK19CMerasmusLocomotion11GetRunSpeedEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetWalkSpeed() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion12GetWalkSpeedEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetMaxAcceleration() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion18GetMaxAccelerationEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetMaxDeceleration() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion18GetMaxDecelerationEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetVelocity() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion11GetVelocityEv"
+		},
+		{
+			"name": "ILocomotion::GetSpeed() const",
+			"name_mangled": "_ZNK11ILocomotion8GetSpeedEv"
+		},
+		{
+			"name": "ILocomotion::GetMotionVector() const",
+			"name_mangled": "_ZNK11ILocomotion15GetMotionVectorEv"
+		},
+		{
+			"name": "ILocomotion::IsAreaTraversable(CNavArea const*) const",
+			"name_mangled": "_ZNK11ILocomotion17IsAreaTraversableEPK8CNavArea"
+		},
+		{
+			"name": "ILocomotion::GetTraversableSlopeLimit() const",
+			"name_mangled": "_ZNK11ILocomotion24GetTraversableSlopeLimitEv"
+		},
+		{
+			"name": "ILocomotion::IsPotentiallyTraversable(Vector const&, Vector const&, ILocomotion::TraverseWhenType, float*) const",
+			"name_mangled": "_ZNK11ILocomotion24IsPotentiallyTraversableERK6VectorS2_NS_16TraverseWhenTypeEPf"
+		},
+		{
+			"name": "ILocomotion::HasPotentialGap(Vector const&, Vector const&, float*) const",
+			"name_mangled": "_ZNK11ILocomotion15HasPotentialGapERK6VectorS2_Pf"
+		},
+		{
+			"name": "ILocomotion::IsGap(Vector const&, Vector const&) const",
+			"name_mangled": "_ZNK11ILocomotion5IsGapERK6VectorS2_"
+		},
+		{
+			"name": "ILocomotion::IsEntityTraversable(CBaseEntity*, ILocomotion::TraverseWhenType) const",
+			"name_mangled": "_ZNK11ILocomotion19IsEntityTraversableEP11CBaseEntityNS_16TraverseWhenTypeE"
+		},
+		{
+			"name": "ILocomotion::IsStuck() const",
+			"name_mangled": "_ZNK11ILocomotion7IsStuckEv"
+		},
+		{
+			"name": "ILocomotion::GetStuckDuration() const",
+			"name_mangled": "_ZNK11ILocomotion16GetStuckDurationEv"
+		},
+		{
+			"name": "ILocomotion::ClearStuckStatus(char const*)",
+			"name_mangled": "_ZN11ILocomotion16ClearStuckStatusEPKc"
+		},
+		{
+			"name": "ILocomotion::IsAttemptingToMove() const",
+			"name_mangled": "_ZNK11ILocomotion18IsAttemptingToMoveEv"
+		},
+		{
+			"name": "CMerasmusLocomotion::ShouldCollideWith(CBaseEntity const*) const",
+			"name_mangled": "_ZNK19CMerasmusLocomotion17ShouldCollideWithEPK11CBaseEntity"
+		},
+		{
+			"name": "ILocomotion::AdjustPosture(Vector const&)",
+			"name_mangled": "_ZN11ILocomotion13AdjustPostureERK6Vector"
+		},
+		{
+			"name": "ILocomotion::StuckMonitor()",
+			"name_mangled": "_ZN11ILocomotion12StuckMonitorEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetAcceleration() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion15GetAccelerationEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::SetAcceleration(Vector const&)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion15SetAccelerationERK6Vector"
+		},
+		{
+			"name": "NextBotGroundLocomotion::SetVelocity(Vector const&)",
+			"name_mangled": "_ZN23NextBotGroundLocomotion11SetVelocityERK6Vector"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetGravity() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion10GetGravityEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetFrictionForward() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion18GetFrictionForwardEv"
+		},
+		{
+			"name": "NextBotGroundLocomotion::GetFrictionSideways() const",
+			"name_mangled": "_ZNK23NextBotGroundLocomotion19GetFrictionSidewaysEv"
+		},
+		{
+			"name": "CMerasmusLocomotion::GetMaxYawRate() const",
+			"name_mangled": "_ZNK19CMerasmusLocomotion13GetMaxYawRateEv"
+		}
+	]
+}

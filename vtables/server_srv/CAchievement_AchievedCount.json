@@ -1,0 +1,150 @@
+{
+	"classname": "CAchievement_AchievedCount",
+	"classname_mangled": "_ZTV26CAchievement_AchievedCount",
+	"members": [
+		{
+			"name": "CAchievement_AchievedCount::~CAchievement_AchievedCount()",
+			"name_mangled": "_ZN26CAchievement_AchievedCountD0Ev"
+		},
+		{
+			"name": "CBaseAchievement::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN16CBaseAchievement13FireGameEventEP10IGameEvent"
+		},
+		{
+			"name": "CAchievement_AchievedCount::Init()",
+			"name_mangled": "_ZN26CAchievement_AchievedCount4InitEv"
+		},
+		{
+			"name": "CBaseAchievement::ListenForEvents()",
+			"name_mangled": "_ZN16CBaseAchievement15ListenForEventsEv"
+		},
+		{
+			"name": "CBaseAchievement::Event_EntityKilled(CBaseEntity*, CBaseEntity*, CBaseEntity*, IGameEvent*)",
+			"name_mangled": "_ZN16CBaseAchievement18Event_EntityKilledEP11CBaseEntityS1_S1_P10IGameEvent"
+		},
+		{
+			"name": "CBaseAchievement::GetAchievementID()",
+			"name_mangled": "_ZN16CBaseAchievement16GetAchievementIDEv"
+		},
+		{
+			"name": "CBaseAchievement::GetName()",
+			"name_mangled": "_ZN16CBaseAchievement7GetNameEv"
+		},
+		{
+			"name": "CBaseAchievement::GetFlags()",
+			"name_mangled": "_ZN16CBaseAchievement8GetFlagsEv"
+		},
+		{
+			"name": "CBaseAchievement::GetGoal()",
+			"name_mangled": "_ZN16CBaseAchievement7GetGoalEv"
+		},
+		{
+			"name": "CBaseAchievement::GetPointValue()",
+			"name_mangled": "_ZN16CBaseAchievement13GetPointValueEv"
+		},
+		{
+			"name": "CBaseAchievement::ShouldHideUntilAchieved()",
+			"name_mangled": "_ZN16CBaseAchievement23ShouldHideUntilAchievedEv"
+		},
+		{
+			"name": "CBaseAchievement::ShouldShowProgressNotification()",
+			"name_mangled": "_ZN16CBaseAchievement30ShouldShowProgressNotificationEv"
+		},
+		{
+			"name": "CBaseAchievement::OnPlayerStatsUpdate()",
+			"name_mangled": "_ZN16CBaseAchievement19OnPlayerStatsUpdateEv"
+		},
+		{
+			"name": "CBaseAchievement::ShouldSaveWithGame()",
+			"name_mangled": "_ZN16CBaseAchievement18ShouldSaveWithGameEv"
+		},
+		{
+			"name": "CBaseAchievement::PreRestoreSavedGame()",
+			"name_mangled": "_ZN16CBaseAchievement19PreRestoreSavedGameEv"
+		},
+		{
+			"name": "CBaseAchievement::PostRestoreSavedGame()",
+			"name_mangled": "_ZN16CBaseAchievement20PostRestoreSavedGameEv"
+		},
+		{
+			"name": "CBaseAchievement::GetCount()",
+			"name_mangled": "_ZN16CBaseAchievement8GetCountEv"
+		},
+		{
+			"name": "CBaseAchievement::IsAchieved()",
+			"name_mangled": "_ZN16CBaseAchievement10IsAchievedEv"
+		},
+		{
+			"name": "CBaseAchievement::IsActive()",
+			"name_mangled": "_ZN16CBaseAchievement8IsActiveEv"
+		},
+		{
+			"name": "CBaseAchievement::LocalPlayerCanEarn()",
+			"name_mangled": "_ZN16CBaseAchievement18LocalPlayerCanEarnEv"
+		},
+		{
+			"name": "CAchievement_AchievedCount::IsMetaAchievement()",
+			"name_mangled": "_ZN26CAchievement_AchievedCount17IsMetaAchievementEv"
+		},
+		{
+			"name": "CBaseAchievement::AlwaysListen()",
+			"name_mangled": "_ZN16CBaseAchievement12AlwaysListenEv"
+		},
+		{
+			"name": "CBaseAchievement::AlwaysEnabled()",
+			"name_mangled": "_ZN16CBaseAchievement13AlwaysEnabledEv"
+		},
+		{
+			"name": "CBaseAchievement::OnAchieved()",
+			"name_mangled": "_ZN16CBaseAchievement10OnAchievedEv"
+		},
+		{
+			"name": "CBaseAchievement::OnMapEvent(char const*)",
+			"name_mangled": "_ZN16CBaseAchievement10OnMapEventEPKc"
+		},
+		{
+			"name": "CBaseAchievement::PrintAdditionalStatus()",
+			"name_mangled": "_ZN16CBaseAchievement21PrintAdditionalStatusEv"
+		},
+		{
+			"name": "CAchievement_AchievedCount::OnSteamUserStatsStored()",
+			"name_mangled": "_ZN26CAchievement_AchievedCount22OnSteamUserStatsStoredEv"
+		},
+		{
+			"name": "CBaseAchievement::UpdateAchievement(int)",
+			"name_mangled": "_ZN16CBaseAchievement17UpdateAchievementEi"
+		},
+		{
+			"name": "CBaseAchievement::ShouldShowOnHUD()",
+			"name_mangled": "_ZN16CBaseAchievement15ShouldShowOnHUDEv"
+		},
+		{
+			"name": "CBaseAchievement::SetShowOnHUD(bool)",
+			"name_mangled": "_ZN16CBaseAchievement12SetShowOnHUDEb"
+		},
+		{
+			"name": "CBaseAchievement::GetSettings(KeyValues*)",
+			"name_mangled": "_ZN16CBaseAchievement11GetSettingsEP9KeyValues"
+		},
+		{
+			"name": "CBaseAchievement::ApplySettings(KeyValues*)",
+			"name_mangled": "_ZN16CBaseAchievement13ApplySettingsEP9KeyValues"
+		},
+		{
+			"name": "CBaseAchievement::Think()",
+			"name_mangled": "_ZN16CBaseAchievement5ThinkEv"
+		},
+		{
+			"name": "CBaseAchievement::FireGameEvent_Internal(IGameEvent*)",
+			"name_mangled": "_ZN16CBaseAchievement22FireGameEvent_InternalEP10IGameEvent"
+		},
+		{
+			"name": "CBaseAchievement::CalcProgressMsgIncrement()",
+			"name_mangled": "_ZN16CBaseAchievement24CalcProgressMsgIncrementEv"
+		},
+		{
+			"name": "CBaseAchievement::GetDataDescMap()",
+			"name_mangled": "_ZN16CBaseAchievement14GetDataDescMapEv"
+		}
+	]
+}

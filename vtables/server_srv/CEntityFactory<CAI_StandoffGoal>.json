@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAI_StandoffGoal>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CAI_StandoffGoalE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAI_StandoffGoal>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CAI_StandoffGoalE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAI_StandoffGoal>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CAI_StandoffGoalE13GetEntitySizeEv"
+		}
+	]
+}

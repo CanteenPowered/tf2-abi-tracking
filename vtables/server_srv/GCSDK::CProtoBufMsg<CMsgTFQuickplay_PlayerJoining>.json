@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgTFQuickplay_PlayerJoining>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI29CMsgTFQuickplay_PlayerJoiningEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgTFQuickplay_PlayerJoining>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI29CMsgTFQuickplay_PlayerJoiningED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgTFQuickplay_PlayerJoining>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI29CMsgTFQuickplay_PlayerJoiningE14GetGenericBodyEv"
+		}
+	]
+}

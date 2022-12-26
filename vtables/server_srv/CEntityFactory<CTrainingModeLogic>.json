@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTrainingModeLogic>",
+	"classname_mangled": "_ZTV14CEntityFactoryI18CTrainingModeLogicE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTrainingModeLogic>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI18CTrainingModeLogicE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTrainingModeLogic>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI18CTrainingModeLogicE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTeamControlPointRound>",
+	"classname_mangled": "_ZTV14CEntityFactoryI22CTeamControlPointRoundE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTeamControlPointRound>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI22CTeamControlPointRoundE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTeamControlPointRound>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI22CTeamControlPointRoundE13GetEntitySizeEv"
+		}
+	]
+}

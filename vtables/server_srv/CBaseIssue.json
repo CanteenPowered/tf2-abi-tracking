@@ -1,0 +1,46 @@
+{
+	"classname": "CBaseIssue",
+	"classname_mangled": "_ZTV10CBaseIssue",
+	"members": [
+		{
+			"name": "CBaseIssue::~CBaseIssue()",
+			"name_mangled": "_ZN10CBaseIssueD0Ev"
+		},
+		{
+			"name": "CBaseIssue::GetTypeStringLocalized()",
+			"name_mangled": "_ZN10CBaseIssue22GetTypeStringLocalizedEv"
+		},
+		{
+			"name": "CBaseIssue::GetDetailsString()",
+			"name_mangled": "_ZN10CBaseIssue16GetDetailsStringEv"
+		},
+		{
+			"name": "CBaseIssue::SetIssueDetails(char const*)",
+			"name_mangled": "_ZN10CBaseIssue15SetIssueDetailsEPKc"
+		},
+		{
+			"name": "CBaseIssue::OnVoteFailed(int)",
+			"name_mangled": "_ZN10CBaseIssue12OnVoteFailedEi"
+		},
+		{
+			"name": "CBaseIssue::OnVoteStarted()",
+			"name_mangled": "_ZN10CBaseIssue13OnVoteStartedEv"
+		},
+		{
+			"name": "CBaseIssue::IsEnabled()",
+			"name_mangled": "_ZN10CBaseIssue9IsEnabledEv"
+		},
+		{
+			"name": "CBaseIssue::CanTeamCallVote(int) const",
+			"name_mangled": "_ZNK10CBaseIssue15CanTeamCallVoteEi"
+		},
+		{
+			"name": "CBaseIssue::RequestCallVote(int, char const*, vote_create_failed_t&, int&)",
+			"name_mangled": "_ZN10CBaseIssue15RequestCallVoteEiPKcR20vote_create_failed_tRi"
+		},
+		{
+			"name": "CBaseIssue::IsTeamRestrictedVote()",
+			"name_mangled": "_ZN10CBaseIssue20IsTeamRestrictedVoteEv"
+		}
+	]
+}

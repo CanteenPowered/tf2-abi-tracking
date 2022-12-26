@@ -1,0 +1,26 @@
+{
+	"classname": "CTFLobbyShared",
+	"classname_mangled": "_ZTV14CTFLobbyShared",
+	"members": [
+		{
+			"name": "CTFLobbyShared::~CTFLobbyShared()",
+			"name_mangled": "_ZN14CTFLobbySharedD0Ev"
+		},
+		{
+			"name": "CTFLobbyShared::GetGroupID() const",
+			"name_mangled": "_ZNK14CTFLobbyShared10GetGroupIDEv"
+		},
+		{
+			"name": "CTFLobbyShared::GetNumMembers() const",
+			"name_mangled": "_ZNK14CTFLobbyShared13GetNumMembersEv"
+		},
+		{
+			"name": "CTFLobbyShared::GetMember(int) const",
+			"name_mangled": "_ZNK14CTFLobbyShared9GetMemberEi"
+		},
+		{
+			"name": "CTFLobbyShared::GetMemberIndexBySteamID(CSteamID const&) const",
+			"name_mangled": "_ZNK14CTFLobbyShared23GetMemberIndexBySteamIDERK8CSteamID"
+		}
+	]
+}

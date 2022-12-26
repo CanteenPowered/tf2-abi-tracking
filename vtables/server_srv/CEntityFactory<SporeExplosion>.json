@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<SporeExplosion>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14SporeExplosionE",
+	"members": [
+		{
+			"name": "CEntityFactory<SporeExplosion>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14SporeExplosionE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<SporeExplosion>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14SporeExplosionE13GetEntitySizeEv"
+		}
+	]
+}

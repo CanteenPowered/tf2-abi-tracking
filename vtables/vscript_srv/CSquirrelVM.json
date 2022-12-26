@@ -1,0 +1,210 @@
+{
+	"classname": "CSquirrelVM",
+	"classname_mangled": "_ZTV11CSquirrelVM",
+	"members": [
+		{
+			"name": "CSquirrelVM::Shutdown()",
+			"name_mangled": "_ZN11CSquirrelVM8ShutdownEv"
+		},
+		{
+			"name": "CSquirrelVM::ConnectDebugger()",
+			"name_mangled": "_ZN11CSquirrelVM15ConnectDebuggerEv"
+		},
+		{
+			"name": "CSquirrelVM::DisconnectDebugger()",
+			"name_mangled": "_ZN11CSquirrelVM18DisconnectDebuggerEv"
+		},
+		{
+			"name": "CSquirrelVM::GetLanguage()",
+			"name_mangled": "_ZN11CSquirrelVM11GetLanguageEv"
+		},
+		{
+			"name": "CSquirrelVM::GetLanguageName()",
+			"name_mangled": "_ZN11CSquirrelVM15GetLanguageNameEv"
+		},
+		{
+			"name": "CSquirrelVM::AddSearchPath(char const*)",
+			"name_mangled": "_ZN11CSquirrelVM13AddSearchPathEPKc"
+		},
+		{
+			"name": "CSquirrelVM::Frame(float)",
+			"name_mangled": "_ZN11CSquirrelVM5FrameEf"
+		},
+		{
+			"name": "CSquirrelVM::Run(char const*, bool)",
+			"name_mangled": "_ZN11CSquirrelVM3RunEPKcb"
+		},
+		{
+			"name": "CSquirrelVM::CompileScript(char const*, char const*)",
+			"name_mangled": "_ZN11CSquirrelVM13CompileScriptEPKcS1_"
+		},
+		{
+			"name": "CSquirrelVM::ReleaseScript(HSCRIPT__*)",
+			"name_mangled": "_ZN11CSquirrelVM13ReleaseScriptEP9HSCRIPT__"
+		},
+		{
+			"name": "CSquirrelVM::Run(HSCRIPT__*, HSCRIPT__*, bool)",
+			"name_mangled": "_ZN11CSquirrelVM3RunEP9HSCRIPT__S1_b"
+		},
+		{
+			"name": "CSquirrelVM::Run(HSCRIPT__*, bool)",
+			"name_mangled": "_ZN11CSquirrelVM3RunEP9HSCRIPT__b"
+		},
+		{
+			"name": "CSquirrelVM::CreateScope(char const*, HSCRIPT__*)",
+			"name_mangled": "_ZN11CSquirrelVM11CreateScopeEPKcP9HSCRIPT__"
+		},
+		{
+			"name": "CSquirrelVM::ReferenceScope(HSCRIPT__*)",
+			"name_mangled": "_ZN11CSquirrelVM14ReferenceScopeEP9HSCRIPT__"
+		},
+		{
+			"name": "CSquirrelVM::ReleaseScope(HSCRIPT__*)",
+			"name_mangled": "_ZN11CSquirrelVM12ReleaseScopeEP9HSCRIPT__"
+		},
+		{
+			"name": "CSquirrelVM::LookupFunction(char const*, HSCRIPT__*, bool)",
+			"name_mangled": "_ZN11CSquirrelVM14LookupFunctionEPKcP9HSCRIPT__b"
+		},
+		{
+			"name": "CSquirrelVM::ReleaseFunction(HSCRIPT__*)",
+			"name_mangled": "_ZN11CSquirrelVM15ReleaseFunctionEP9HSCRIPT__"
+		},
+		{
+			"name": "CSquirrelVM::ExecuteFunction(HSCRIPT__*, CVariantBase<CVariantDefaultAllocator>*, int, CVariantBase<CVariantDefaultAllocator>*, HSCRIPT__*, bool)",
+			"name_mangled": "_ZN11CSquirrelVM15ExecuteFunctionEP9HSCRIPT__P12CVariantBaseI24CVariantDefaultAllocatorEiS5_S1_b"
+		},
+		{
+			"name": "CSquirrelVM::RegisterFunction(ScriptFunctionBinding_t*)",
+			"name_mangled": "_ZN11CSquirrelVM16RegisterFunctionEP23ScriptFunctionBinding_t"
+		},
+		{
+			"name": "CSquirrelVM::RegisterClass(ScriptClassDesc_t*)",
+			"name_mangled": "_ZN11CSquirrelVM13RegisterClassEP17ScriptClassDesc_t"
+		},
+		{
+			"name": "CSquirrelVM::RegisterInstance(ScriptClassDesc_t*, void*)",
+			"name_mangled": "_ZN11CSquirrelVM16RegisterInstanceEP17ScriptClassDesc_tPv"
+		},
+		{
+			"name": "CSquirrelVM::SetInstanceUniqeId(HSCRIPT__*, char const*)",
+			"name_mangled": "_ZN11CSquirrelVM18SetInstanceUniqeIdEP9HSCRIPT__PKc"
+		},
+		{
+			"name": "CSquirrelVM::RemoveInstance(HSCRIPT__*)",
+			"name_mangled": "_ZN11CSquirrelVM14RemoveInstanceEP9HSCRIPT__"
+		},
+		{
+			"name": "CSquirrelVM::GetInstanceValue(HSCRIPT__*, ScriptClassDesc_t*)",
+			"name_mangled": "_ZN11CSquirrelVM16GetInstanceValueEP9HSCRIPT__P17ScriptClassDesc_t"
+		},
+		{
+			"name": "CSquirrelVM::GenerateUniqueKey(char const*, char*, int)",
+			"name_mangled": "_ZN11CSquirrelVM17GenerateUniqueKeyEPKcPci"
+		},
+		{
+			"name": "CSquirrelVM::ValueExists(HSCRIPT__*, char const*)",
+			"name_mangled": "_ZN11CSquirrelVM11ValueExistsEP9HSCRIPT__PKc"
+		},
+		{
+			"name": "CSquirrelVM::SetValue(HSCRIPT__*, char const*, char const*)",
+			"name_mangled": "_ZN11CSquirrelVM8SetValueEP9HSCRIPT__PKcS3_"
+		},
+		{
+			"name": "CSquirrelVM::SetValue(HSCRIPT__*, char const*, CVariantBase<CVariantDefaultAllocator> const&)",
+			"name_mangled": "_ZN11CSquirrelVM8SetValueEP9HSCRIPT__PKcRK12CVariantBaseI24CVariantDefaultAllocatorE"
+		},
+		{
+			"name": "CSquirrelVM::CreateTable(CVariantBase<CVariantDefaultAllocator>&)",
+			"name_mangled": "_ZN11CSquirrelVM11CreateTableER12CVariantBaseI24CVariantDefaultAllocatorE"
+		},
+		{
+			"name": "CSquirrelVM::GetNumTableEntries(HSCRIPT__*)",
+			"name_mangled": "_ZN11CSquirrelVM18GetNumTableEntriesEP9HSCRIPT__"
+		},
+		{
+			"name": "CSquirrelVM::GetKeyValue(HSCRIPT__*, int, CVariantBase<CVariantDefaultAllocator>*, CVariantBase<CVariantDefaultAllocator>*)",
+			"name_mangled": "_ZN11CSquirrelVM11GetKeyValueEP9HSCRIPT__iP12CVariantBaseI24CVariantDefaultAllocatorES5_"
+		},
+		{
+			"name": "CSquirrelVM::GetValue(HSCRIPT__*, char const*, CVariantBase<CVariantDefaultAllocator>*)",
+			"name_mangled": "_ZN11CSquirrelVM8GetValueEP9HSCRIPT__PKcP12CVariantBaseI24CVariantDefaultAllocatorE"
+		},
+		{
+			"name": "CSquirrelVM::ReleaseValue(CVariantBase<CVariantDefaultAllocator>&)",
+			"name_mangled": "_ZN11CSquirrelVM12ReleaseValueER12CVariantBaseI24CVariantDefaultAllocatorE"
+		},
+		{
+			"name": "CSquirrelVM::ClearValue(HSCRIPT__*, char const*)",
+			"name_mangled": "_ZN11CSquirrelVM10ClearValueEP9HSCRIPT__PKc"
+		},
+		{
+			"name": "CSquirrelVM::WriteState(CUtlBuffer*)",
+			"name_mangled": "_ZN11CSquirrelVM10WriteStateEP10CUtlBuffer"
+		},
+		{
+			"name": "CSquirrelVM::ReadState(CUtlBuffer*)",
+			"name_mangled": "_ZN11CSquirrelVM9ReadStateEP10CUtlBuffer"
+		},
+		{
+			"name": "CSquirrelVM::RemoveOrphanInstances()",
+			"name_mangled": "_ZN11CSquirrelVM21RemoveOrphanInstancesEv"
+		},
+		{
+			"name": "CSquirrelVM::DumpState()",
+			"name_mangled": "_ZN11CSquirrelVM9DumpStateEv"
+		},
+		{
+			"name": "CSquirrelVM::SetOutputCallback(void (*)(char const*))",
+			"name_mangled": "_ZN11CSquirrelVM17SetOutputCallbackEPFvPKcE"
+		},
+		{
+			"name": "CSquirrelVM::SetErrorCallback(bool (*)(ScriptErrorLevel_t, char const*))",
+			"name_mangled": "_ZN11CSquirrelVM16SetErrorCallbackEPFb18ScriptErrorLevel_tPKcE"
+		},
+		{
+			"name": "CSquirrelVM::RaiseException(char const*)",
+			"name_mangled": "_ZN11CSquirrelVM14RaiseExceptionEPKc"
+		},
+		{
+			"name": "CSquirrelVM::MakeSquirrelMetamethod_Get(HSCRIPT__*&, char const*, IScriptVM::ISquirrelMetamethodDelegate*, bool)",
+			"name_mangled": "_ZN11CSquirrelVM26MakeSquirrelMetamethod_GetERP9HSCRIPT__PKcPN9IScriptVM27ISquirrelMetamethodDelegateEb"
+		},
+		{
+			"name": "CSquirrelVM::DestroySquirrelMetamethod_Get(CSquirrelMetamethodDelegateImpl*)",
+			"name_mangled": "_ZN11CSquirrelVM29DestroySquirrelMetamethod_GetEP31CSquirrelMetamethodDelegateImpl"
+		},
+		{
+			"name": "CSquirrelVM::GetKeyValue2(HSCRIPT__*, int, CVariantBase<CVariantDefaultAllocator>*, CVariantBase<CVariantDefaultAllocator>*)",
+			"name_mangled": "_ZN11CSquirrelVM12GetKeyValue2EP9HSCRIPT__iP12CVariantBaseI24CVariantDefaultAllocatorES5_"
+		},
+		{
+			"name": "CSquirrelVM::GetInternalVM()",
+			"name_mangled": "_ZN11CSquirrelVM13GetInternalVMEv"
+		},
+		{
+			"name": "CSquirrelVM::GetScalarValue(HSCRIPT__*, CVariantBase<CVariantDefaultAllocator>*)",
+			"name_mangled": "_ZN11CSquirrelVM14GetScalarValueEP9HSCRIPT__P12CVariantBaseI24CVariantDefaultAllocatorE"
+		},
+		{
+			"name": "CSquirrelVM::ArrayAddToTail(HSCRIPT__*, CVariantBase<CVariantDefaultAllocator> const&)",
+			"name_mangled": "_ZN11CSquirrelVM14ArrayAddToTailEP9HSCRIPT__RK12CVariantBaseI24CVariantDefaultAllocatorE"
+		},
+		{
+			"name": "CSquirrelVM::GetRootTable()",
+			"name_mangled": "_ZN11CSquirrelVM12GetRootTableEv"
+		},
+		{
+			"name": "CSquirrelVM::CopyHandle(HSCRIPT__*)",
+			"name_mangled": "_ZN11CSquirrelVM10CopyHandleEP9HSCRIPT__"
+		},
+		{
+			"name": "CSquirrelVM::GetIdentity(HSCRIPT__*)",
+			"name_mangled": "_ZN11CSquirrelVM11GetIdentityEP9HSCRIPT__"
+		},
+		{
+			"name": "CSquirrelVM::CollectGarbage(char const*, bool)",
+			"name_mangled": "_ZN11CSquirrelVM14CollectGarbageEPKcb"
+		}
+	]
+}

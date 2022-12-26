@@ -1,0 +1,30 @@
+{
+	"classname": "CTEBloodSprite",
+	"classname_mangled": "_ZTV14CTEBloodSprite",
+	"members": [
+		{
+			"name": "CTEBloodSprite::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN14CTEBloodSprite40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEBloodSprite::~CTEBloodSprite()",
+			"name_mangled": "_ZN14CTEBloodSpriteD1Ev"
+		},
+		{
+			"name": "CTEBloodSprite::~CTEBloodSprite()",
+			"name_mangled": "_ZN14CTEBloodSpriteD0Ev"
+		},
+		{
+			"name": "CTEBloodSprite::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN14CTEBloodSprite4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

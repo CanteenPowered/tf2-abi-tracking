@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTestTraceline>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CTestTracelineE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTestTraceline>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CTestTracelineE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTestTraceline>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CTestTracelineE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFPointWeaponMimic>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CTFPointWeaponMimicE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFPointWeaponMimic>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFPointWeaponMimicE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFPointWeaponMimic>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFPointWeaponMimicE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,90 @@
+{
+	"classname": "CEconItemSchema",
+	"classname_mangled": "_ZTV15CEconItemSchema",
+	"members": [
+		{
+			"name": "CEconItemSchema::~CEconItemSchema()",
+			"name_mangled": "_ZN15CEconItemSchemaD0Ev"
+		},
+		{
+			"name": "CEconItemSchema::BInit(char const*, char const*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN15CEconItemSchema5BInitEPKcS1_P10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		},
+		{
+			"name": "CEconItemSchema::GetRarityDefinitionCount() const",
+			"name_mangled": "_ZNK15CEconItemSchema24GetRarityDefinitionCountEv"
+		},
+		{
+			"name": "CEconItemSchema::GetRarityName(unsigned char)",
+			"name_mangled": "_ZN15CEconItemSchema13GetRarityNameEh"
+		},
+		{
+			"name": "CEconItemSchema::GetRarityLocKey(unsigned char)",
+			"name_mangled": "_ZN15CEconItemSchema15GetRarityLocKeyEh"
+		},
+		{
+			"name": "CEconItemSchema::GetRarityColor(unsigned char)",
+			"name_mangled": "_ZN15CEconItemSchema14GetRarityColorEh"
+		},
+		{
+			"name": "CEconItemSchema::GetRarityIndex(char const*)",
+			"name_mangled": "_ZN15CEconItemSchema14GetRarityIndexEPKc"
+		},
+		{
+			"name": "CEconItemSchema::GetItemSeriesDefinitionCount() const",
+			"name_mangled": "_ZNK15CEconItemSchema28GetItemSeriesDefinitionCountEv"
+		},
+		{
+			"name": "CEconItemSchema::GetCustomExpirationDate(char const*) const",
+			"name_mangled": "_ZNK15CEconItemSchema23GetCustomExpirationDateEPKc"
+		},
+		{
+			"name": "CEconItemSchema::CreateEconItemDefinition()",
+			"name_mangled": "_ZN15CEconItemSchema24CreateEconItemDefinitionEv"
+		},
+		{
+			"name": "CEconItemSchema::CreateCraftingRecipeDefinition()",
+			"name_mangled": "_ZN15CEconItemSchema30CreateCraftingRecipeDefinitionEv"
+		},
+		{
+			"name": "CEconItemSchema::CreateEconStyleInfo()",
+			"name_mangled": "_ZN15CEconItemSchema19CreateEconStyleInfoEv"
+		},
+		{
+			"name": "CEconItemSchema::CreateQuestDefinition()",
+			"name_mangled": "_ZN15CEconItemSchema21CreateQuestDefinitionEv"
+		},
+		{
+			"name": "CEconItemSchema::CreateEconToolImpl(char const*, char const*, char const*, item_capabilities_t, KeyValues*)",
+			"name_mangled": "_ZN15CEconItemSchema18CreateEconToolImplEPKcS1_S1_19item_capabilities_tP9KeyValues"
+		},
+		{
+			"name": "CEconItemSchema::CreateItemCriteria(char const*, KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN15CEconItemSchema18CreateItemCriteriaEPKcP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS5_iEE"
+		},
+		{
+			"name": "CEconItemSchema::CreateRandomAttribute(char const*, KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN15CEconItemSchema21CreateRandomAttributeEPKcP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS5_iEE"
+		},
+		{
+			"name": "CEconItemSchema::CreateLootlistJob(char const*, KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN15CEconItemSchema17CreateLootlistJobEPKcP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS5_iEE"
+		},
+		{
+			"name": "CEconItemSchema::BCanStrangeFilterApplyToStrangeSlotInItem(unsigned int, unsigned int, IEconItemInterface const*, int, unsigned int*) const",
+			"name_mangled": "_ZNK15CEconItemSchema41BCanStrangeFilterApplyToStrangeSlotInItemEjjPK18IEconItemInterfaceiPj"
+		},
+		{
+			"name": "CEconItemSchema::Reset()",
+			"name_mangled": "_ZN15CEconItemSchema5ResetEv"
+		},
+		{
+			"name": "CEconItemSchema::BInitSchema(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN15CEconItemSchema11BInitSchemaEP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		},
+		{
+			"name": "CEconItemSchema::BPostSchemaInit(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN15CEconItemSchema15BPostSchemaInitEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CChangeLevel>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CChangeLevelE",
+	"members": [
+		{
+			"name": "CEntityFactory<CChangeLevel>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CChangeLevelE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CChangeLevel>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CChangeLevelE13GetEntitySizeEv"
+		}
+	]
+}

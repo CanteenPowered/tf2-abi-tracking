@@ -1,0 +1,30 @@
+{
+	"classname": "CTEEffectDispatch",
+	"classname_mangled": "_ZTV17CTEEffectDispatch",
+	"members": [
+		{
+			"name": "CTEEffectDispatch::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN17CTEEffectDispatch40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEEffectDispatch::~CTEEffectDispatch()",
+			"name_mangled": "_ZN17CTEEffectDispatchD1Ev"
+		},
+		{
+			"name": "CTEEffectDispatch::~CTEEffectDispatch()",
+			"name_mangled": "_ZN17CTEEffectDispatchD0Ev"
+		},
+		{
+			"name": "CBaseTempEntity::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN15CBaseTempEntity4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

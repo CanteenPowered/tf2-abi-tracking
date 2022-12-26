@@ -1,0 +1,30 @@
+{
+	"classname": "CTEClientProjectile",
+	"classname_mangled": "_ZTV19CTEClientProjectile",
+	"members": [
+		{
+			"name": "CTEClientProjectile::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN19CTEClientProjectile40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEClientProjectile::~CTEClientProjectile()",
+			"name_mangled": "_ZN19CTEClientProjectileD1Ev"
+		},
+		{
+			"name": "CTEClientProjectile::~CTEClientProjectile()",
+			"name_mangled": "_ZN19CTEClientProjectileD0Ev"
+		},
+		{
+			"name": "CTEClientProjectile::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN19CTEClientProjectile4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

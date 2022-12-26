@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CCommentaryViewPosition>",
+	"classname_mangled": "_ZTV14CEntityFactoryI23CCommentaryViewPositionE",
+	"members": [
+		{
+			"name": "CEntityFactory<CCommentaryViewPosition>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI23CCommentaryViewPositionE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CCommentaryViewPosition>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI23CCommentaryViewPositionE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFBotHintSentrygun>",
+	"classname_mangled": "_ZTV14CEntityFactoryI19CTFBotHintSentrygunE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFBotHintSentrygun>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFBotHintSentrygunE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFBotHintSentrygun>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI19CTFBotHintSentrygunE13GetEntitySizeEv"
+		}
+	]
+}

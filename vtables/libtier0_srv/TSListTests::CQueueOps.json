@@ -1,0 +1,18 @@
+{
+	"classname": "TSListTests::CQueueOps",
+	"classname_mangled": "_ZTVN11TSListTests9CQueueOpsE",
+	"members": [
+		{
+			"name": "TSListTests::CQueueOps::Pop(int*)",
+			"name_mangled": "_ZN11TSListTests9CQueueOps3PopEPi"
+		},
+		{
+			"name": "TSListTests::CQueueOps::Validate()",
+			"name_mangled": "_ZN11TSListTests9CQueueOps8ValidateEv"
+		},
+		{
+			"name": "TSListTests::CQueueOps::IsEmpty()",
+			"name_mangled": "_ZN11TSListTests9CQueueOps7IsEmptyEv"
+		}
+	]
+}

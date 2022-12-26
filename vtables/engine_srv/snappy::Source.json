@@ -1,0 +1,10 @@
+{
+	"classname": "snappy::Source",
+	"classname_mangled": "_ZTVN6snappy6SourceE",
+	"members": [
+		{
+			"name": "snappy::Source::~Source()",
+			"name_mangled": "_ZN6snappy6SourceD0Ev"
+		}
+	]
+}

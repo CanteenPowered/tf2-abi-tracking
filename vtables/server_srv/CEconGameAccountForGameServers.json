@@ -1,0 +1,50 @@
+{
+	"classname": "CEconGameAccountForGameServers",
+	"classname_mangled": "_ZTV30CEconGameAccountForGameServers",
+	"members": [
+		{
+			"name": "CEconGameAccountForGameServers::~CEconGameAccountForGameServers()",
+			"name_mangled": "_ZN30CEconGameAccountForGameServersD0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObject<CSOEconGameAccountForGameServers, 37, true>::GetTypeID() const",
+			"name_mangled": "_ZNK5GCSDK21CProtoBufSharedObjectI32CSOEconGameAccountForGameServersLi37ELb1EE9GetTypeIDEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(CUtlBuffer const&)",
+			"name_mangled": "_ZN5GCSDK25CProtoBufSharedObjectBase17BParseFromMessageERK10CUtlBuffer"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::BParseFromMessage(std::string const&)",
+			"name_mangled": "_ZN5GCSDK25CProtoBufSharedObjectBase17BParseFromMessageERKSs"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::BUpdateFromNetwork(GCSDK::CSharedObject const&)",
+			"name_mangled": "_ZN5GCSDK25CProtoBufSharedObjectBase18BUpdateFromNetworkERKNS_13CSharedObjectE"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::BIsKeyLess(GCSDK::CSharedObject const&) const",
+			"name_mangled": "_ZNK5GCSDK25CProtoBufSharedObjectBase10BIsKeyLessERKNS_13CSharedObjectE"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::Copy(GCSDK::CSharedObject const&)",
+			"name_mangled": "_ZN5GCSDK25CProtoBufSharedObjectBase4CopyERKNS_13CSharedObjectE"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObjectBase::Dump() const",
+			"name_mangled": "_ZNK5GCSDK25CProtoBufSharedObjectBase4DumpEv"
+		},
+		{
+			"name": "GCSDK::CSharedObject::BShouldDeleteByCache() const",
+			"name_mangled": "_ZNK5GCSDK13CSharedObject20BShouldDeleteByCacheEv"
+		},
+		{
+			"name": "GCSDK::CSharedObject::GetDebugString() const",
+			"name_mangled": "_ZNK5GCSDK13CSharedObject14GetDebugStringEv"
+		},
+		{
+			"name": "GCSDK::CProtoBufSharedObject<CSOEconGameAccountForGameServers, 37, true>::GetPObject()",
+			"name_mangled": "_ZN5GCSDK21CProtoBufSharedObjectI32CSOEconGameAccountForGameServersLi37ELb1EE10GetPObjectEv"
+		}
+	]
+}

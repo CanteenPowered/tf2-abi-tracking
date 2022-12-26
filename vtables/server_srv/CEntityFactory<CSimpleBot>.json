@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CSimpleBot>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10CSimpleBotE",
+	"members": [
+		{
+			"name": "CEntityFactory<CSimpleBot>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10CSimpleBotE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CSimpleBot>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10CSimpleBotE13GetEntitySizeEv"
+		}
+	]
+}

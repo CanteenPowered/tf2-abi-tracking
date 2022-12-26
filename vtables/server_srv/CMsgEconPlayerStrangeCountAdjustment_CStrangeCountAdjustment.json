@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment",
+	"classname_mangled": "_ZTV60CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment",
+	"members": [
+		{
+			"name": "CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::~CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment()",
+			"name_mangled": "_ZN60CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustmentD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::New() const",
+			"name_mangled": "_ZNK60CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment3NewEv"
+		},
+		{
+			"name": "CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::Clear()",
+			"name_mangled": "_ZN60CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment5ClearEv"
+		},
+		{
+			"name": "CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::IsInitialized() const",
+			"name_mangled": "_ZNK60CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN60CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::ByteSize() const",
+			"name_mangled": "_ZNK60CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment8ByteSizeEv"
+		},
+		{
+			"name": "CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK60CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK60CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::GetCachedSize() const",
+			"name_mangled": "_ZNK60CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN60CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN60CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::SetCachedSize(int) const",
+			"name_mangled": "_ZNK60CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment::GetMetadata() const",
+			"name_mangled": "_ZNK60CMsgEconPlayerStrangeCountAdjustment_CStrangeCountAdjustment11GetMetadataEv"
+		}
+	]
+}

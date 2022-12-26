@@ -1,0 +1,14 @@
+{
+	"classname": "IEntityListener",
+	"classname_mangled": "_ZTV15IEntityListener",
+	"members": [
+		{
+			"name": "IEntityListener::OnEntitySpawned(CBaseEntity*)",
+			"name_mangled": "_ZN15IEntityListener15OnEntitySpawnedEP11CBaseEntity"
+		},
+		{
+			"name": "IEntityListener::OnEntityDeleted(CBaseEntity*)",
+			"name_mangled": "_ZN15IEntityListener15OnEntityDeletedEP11CBaseEntity"
+		}
+	]
+}

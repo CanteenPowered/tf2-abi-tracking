@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPhysBallSocket>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CPhysBallSocketE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPhysBallSocket>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CPhysBallSocketE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPhysBallSocket>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CPhysBallSocketE13GetEntitySizeEv"
+		}
+	]
+}

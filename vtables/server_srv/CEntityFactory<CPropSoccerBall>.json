@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPropSoccerBall>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CPropSoccerBallE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPropSoccerBall>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CPropSoccerBallE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPropSoccerBall>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CPropSoccerBallE13GetEntitySizeEv"
+		}
+	]
+}

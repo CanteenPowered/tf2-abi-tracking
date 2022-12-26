@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFProjectile_ThrowableBrick>",
+	"classname_mangled": "_ZTV14CEntityFactoryI28CTFProjectile_ThrowableBrickE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFProjectile_ThrowableBrick>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI28CTFProjectile_ThrowableBrickE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFProjectile_ThrowableBrick>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI28CTFProjectile_ThrowableBrickE13GetEntitySizeEv"
+		}
+	]
+}

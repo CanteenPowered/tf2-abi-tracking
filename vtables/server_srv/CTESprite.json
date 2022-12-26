@@ -1,0 +1,30 @@
+{
+	"classname": "CTESprite",
+	"classname_mangled": "_ZTV9CTESprite",
+	"members": [
+		{
+			"name": "CTESprite::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN9CTESprite40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTESprite::~CTESprite()",
+			"name_mangled": "_ZN9CTESpriteD2Ev"
+		},
+		{
+			"name": "CTESprite::~CTESprite()",
+			"name_mangled": "_ZN9CTESpriteD0Ev"
+		},
+		{
+			"name": "CTESprite::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN9CTESprite4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CTESprite::Precache()",
+			"name_mangled": "_ZN9CTESprite8PrecacheEv"
+		}
+	]
+}

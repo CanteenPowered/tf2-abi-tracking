@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CFuncSmokeVolume>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CFuncSmokeVolumeE",
+	"members": [
+		{
+			"name": "CEntityFactory<CFuncSmokeVolume>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CFuncSmokeVolumeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CFuncSmokeVolume>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CFuncSmokeVolumeE13GetEntitySizeEv"
+		}
+	]
+}

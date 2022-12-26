@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgQuestMapNodeCondition",
+	"classname_mangled": "_ZTV25CMsgQuestMapNodeCondition",
+	"members": [
+		{
+			"name": "CMsgQuestMapNodeCondition::~CMsgQuestMapNodeCondition()",
+			"name_mangled": "_ZN25CMsgQuestMapNodeConditionD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition::New() const",
+			"name_mangled": "_ZNK25CMsgQuestMapNodeCondition3NewEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition::Clear()",
+			"name_mangled": "_ZN25CMsgQuestMapNodeCondition5ClearEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition::IsInitialized() const",
+			"name_mangled": "_ZNK25CMsgQuestMapNodeCondition13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN25CMsgQuestMapNodeCondition27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition::ByteSize() const",
+			"name_mangled": "_ZNK25CMsgQuestMapNodeCondition8ByteSizeEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK25CMsgQuestMapNodeCondition24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK25CMsgQuestMapNodeCondition31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition::GetCachedSize() const",
+			"name_mangled": "_ZNK25CMsgQuestMapNodeCondition13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN25CMsgQuestMapNodeCondition8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN25CMsgQuestMapNodeCondition9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition::SetCachedSize(int) const",
+			"name_mangled": "_ZNK25CMsgQuestMapNodeCondition13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgQuestMapNodeCondition::GetMetadata() const",
+			"name_mangled": "_ZNK25CMsgQuestMapNodeCondition11GetMetadataEv"
+		}
+	]
+}

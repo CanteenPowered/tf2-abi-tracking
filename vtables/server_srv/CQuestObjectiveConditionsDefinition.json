@@ -1,0 +1,14 @@
+{
+	"classname": "CQuestObjectiveConditionsDefinition",
+	"classname_mangled": "_ZTV35CQuestObjectiveConditionsDefinition",
+	"members": [
+		{
+			"name": "CQuestObjectiveConditionsDefinition::~CQuestObjectiveConditionsDefinition()",
+			"name_mangled": "_ZN35CQuestObjectiveConditionsDefinitionD0Ev"
+		},
+		{
+			"name": "CQuestObjectiveConditionsDefinition::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN35CQuestObjectiveConditionsDefinition11BInitFromKVEP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		}
+	]
+}

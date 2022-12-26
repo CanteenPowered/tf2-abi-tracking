@@ -1,0 +1,94 @@
+{
+	"classname": "CBaseEntity::NetworkVar_m_Collision",
+	"classname_mangled": "_ZTVN11CBaseEntity22NetworkVar_m_CollisionE",
+	"members": [
+		{
+			"name": "CCollisionProperty::OBBMinsPreScaled() const",
+			"name_mangled": "_ZNK18CCollisionProperty16OBBMinsPreScaledEv"
+		},
+		{
+			"name": "CCollisionProperty::OBBMaxsPreScaled() const",
+			"name_mangled": "_ZNK18CCollisionProperty16OBBMaxsPreScaledEv"
+		},
+		{
+			"name": "CCollisionProperty::OBBMins() const",
+			"name_mangled": "_ZNK18CCollisionProperty7OBBMinsEv"
+		},
+		{
+			"name": "CCollisionProperty::OBBMaxs() const",
+			"name_mangled": "_ZNK18CCollisionProperty7OBBMaxsEv"
+		},
+		{
+			"name": "CCollisionProperty::WorldSpaceTriggerBounds(Vector*, Vector*) const",
+			"name_mangled": "_ZNK18CCollisionProperty23WorldSpaceTriggerBoundsEP6VectorS1_"
+		},
+		{
+			"name": "CCollisionProperty::TestCollision(Ray_t const&, unsigned int, CGameTrace&)",
+			"name_mangled": "_ZN18CCollisionProperty13TestCollisionERK5Ray_tjR10CGameTrace"
+		},
+		{
+			"name": "CCollisionProperty::TestHitboxes(Ray_t const&, unsigned int, CGameTrace&)",
+			"name_mangled": "_ZN18CCollisionProperty12TestHitboxesERK5Ray_tjR10CGameTrace"
+		},
+		{
+			"name": "CCollisionProperty::GetCollisionModelIndex()",
+			"name_mangled": "_ZN18CCollisionProperty22GetCollisionModelIndexEv"
+		},
+		{
+			"name": "CCollisionProperty::GetCollisionModel()",
+			"name_mangled": "_ZN18CCollisionProperty17GetCollisionModelEv"
+		},
+		{
+			"name": "CCollisionProperty::GetCollisionOrigin() const",
+			"name_mangled": "_ZNK18CCollisionProperty18GetCollisionOriginEv"
+		},
+		{
+			"name": "CCollisionProperty::GetCollisionAngles() const",
+			"name_mangled": "_ZNK18CCollisionProperty18GetCollisionAnglesEv"
+		},
+		{
+			"name": "CCollisionProperty::CollisionToWorldTransform() const",
+			"name_mangled": "_ZNK18CCollisionProperty25CollisionToWorldTransformEv"
+		},
+		{
+			"name": "CCollisionProperty::GetSolid() const",
+			"name_mangled": "_ZNK18CCollisionProperty8GetSolidEv"
+		},
+		{
+			"name": "CCollisionProperty::GetSolidFlags() const",
+			"name_mangled": "_ZNK18CCollisionProperty13GetSolidFlagsEv"
+		},
+		{
+			"name": "CCollisionProperty::GetIClientUnknown()",
+			"name_mangled": "_ZN18CCollisionProperty17GetIClientUnknownEv"
+		},
+		{
+			"name": "CCollisionProperty::GetCollisionGroup() const",
+			"name_mangled": "_ZNK18CCollisionProperty17GetCollisionGroupEv"
+		},
+		{
+			"name": "CCollisionProperty::WorldSpaceSurroundingBounds(Vector*, Vector*)",
+			"name_mangled": "_ZN18CCollisionProperty27WorldSpaceSurroundingBoundsEP6VectorS1_"
+		},
+		{
+			"name": "CCollisionProperty::ShouldTouchTrigger(int) const",
+			"name_mangled": "_ZNK18CCollisionProperty18ShouldTouchTriggerEi"
+		},
+		{
+			"name": "CCollisionProperty::GetRootParentToWorldTransform() const",
+			"name_mangled": "_ZNK18CCollisionProperty29GetRootParentToWorldTransformEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkVar_m_Collision::NetworkStateChanged()",
+			"name_mangled": "_ZN11CBaseEntity22NetworkVar_m_Collision19NetworkStateChangedEv"
+		},
+		{
+			"name": "CBaseEntity::NetworkVar_m_Collision::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN11CBaseEntity22NetworkVar_m_Collision19NetworkStateChangedEPv"
+		},
+		{
+			"name": "CCollisionProperty::GetDataDescMap()",
+			"name_mangled": "_ZN18CCollisionProperty14GetDataDescMapEv"
+		}
+	]
+}

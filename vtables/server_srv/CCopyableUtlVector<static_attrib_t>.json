@@ -1,0 +1,10 @@
+{
+	"classname": "CCopyableUtlVector<static_attrib_t>",
+	"classname_mangled": "_ZTV18CCopyableUtlVectorI15static_attrib_tE",
+	"members": [
+		{
+			"name": "CCopyableUtlVector<static_attrib_t>::~CCopyableUtlVector()",
+			"name_mangled": "_ZN18CCopyableUtlVectorI15static_attrib_tED0Ev"
+		}
+	]
+}

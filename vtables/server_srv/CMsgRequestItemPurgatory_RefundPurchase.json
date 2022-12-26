@@ -1,0 +1,82 @@
+{
+	"classname": "CMsgRequestItemPurgatory_RefundPurchase",
+	"classname_mangled": "_ZTV39CMsgRequestItemPurgatory_RefundPurchase",
+	"members": [
+		{
+			"name": "CMsgRequestItemPurgatory_RefundPurchase::~CMsgRequestItemPurgatory_RefundPurchase()",
+			"name_mangled": "_ZN39CMsgRequestItemPurgatory_RefundPurchaseD0Ev"
+		},
+		{
+			"name": "google::protobuf::Message::GetTypeName() const",
+			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+		},
+		{
+			"name": "CMsgRequestItemPurgatory_RefundPurchase::New() const",
+			"name_mangled": "_ZNK39CMsgRequestItemPurgatory_RefundPurchase3NewEv"
+		},
+		{
+			"name": "CMsgRequestItemPurgatory_RefundPurchase::Clear()",
+			"name_mangled": "_ZN39CMsgRequestItemPurgatory_RefundPurchase5ClearEv"
+		},
+		{
+			"name": "CMsgRequestItemPurgatory_RefundPurchase::IsInitialized() const",
+			"name_mangled": "_ZNK39CMsgRequestItemPurgatory_RefundPurchase13IsInitializedEv"
+		},
+		{
+			"name": "google::protobuf::Message::InitializationErrorString() const",
+			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+		},
+		{
+			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
+			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+		},
+		{
+			"name": "CMsgRequestItemPurgatory_RefundPurchase::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
+			"name_mangled": "_ZN39CMsgRequestItemPurgatory_RefundPurchase27MergePartialFromCodedStreamEPN6google8protobuf2io16CodedInputStreamE"
+		},
+		{
+			"name": "CMsgRequestItemPurgatory_RefundPurchase::ByteSize() const",
+			"name_mangled": "_ZNK39CMsgRequestItemPurgatory_RefundPurchase8ByteSizeEv"
+		},
+		{
+			"name": "CMsgRequestItemPurgatory_RefundPurchase::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
+			"name_mangled": "_ZNK39CMsgRequestItemPurgatory_RefundPurchase24SerializeWithCachedSizesEPN6google8protobuf2io17CodedOutputStreamE"
+		},
+		{
+			"name": "CMsgRequestItemPurgatory_RefundPurchase::SerializeWithCachedSizesToArray(unsigned char*) const",
+			"name_mangled": "_ZNK39CMsgRequestItemPurgatory_RefundPurchase31SerializeWithCachedSizesToArrayEPh"
+		},
+		{
+			"name": "CMsgRequestItemPurgatory_RefundPurchase::GetCachedSize() const",
+			"name_mangled": "_ZNK39CMsgRequestItemPurgatory_RefundPurchase13GetCachedSizeEv"
+		},
+		{
+			"name": "CMsgRequestItemPurgatory_RefundPurchase::CopyFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN39CMsgRequestItemPurgatory_RefundPurchase8CopyFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "CMsgRequestItemPurgatory_RefundPurchase::MergeFrom(google::protobuf::Message const&)",
+			"name_mangled": "_ZN39CMsgRequestItemPurgatory_RefundPurchase9MergeFromERKN6google8protobuf7MessageE"
+		},
+		{
+			"name": "google::protobuf::Message::DiscardUnknownFields()",
+			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
+		},
+		{
+			"name": "google::protobuf::Message::SpaceUsed() const",
+			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
+		},
+		{
+			"name": "CMsgRequestItemPurgatory_RefundPurchase::SetCachedSize(int) const",
+			"name_mangled": "_ZNK39CMsgRequestItemPurgatory_RefundPurchase13SetCachedSizeEi"
+		},
+		{
+			"name": "google::protobuf::Message::GetReflection() const",
+			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
+		},
+		{
+			"name": "CMsgRequestItemPurgatory_RefundPurchase::GetMetadata() const",
+			"name_mangled": "_ZNK39CMsgRequestItemPurgatory_RefundPurchase11GetMetadataEv"
+		}
+	]
+}

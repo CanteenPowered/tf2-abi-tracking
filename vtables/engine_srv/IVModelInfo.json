@@ -1,0 +1,10 @@
+{
+	"classname": "IVModelInfo",
+	"classname_mangled": "_ZTV11IVModelInfo",
+	"members": [
+		{
+			"name": "IVModelInfo::~IVModelInfo()",
+			"name_mangled": "_ZN11IVModelInfoD0Ev"
+		}
+	]
+}

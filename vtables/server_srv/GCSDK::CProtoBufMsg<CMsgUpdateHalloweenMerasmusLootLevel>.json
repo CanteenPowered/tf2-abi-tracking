@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CProtoBufMsg<CMsgUpdateHalloweenMerasmusLootLevel>",
+	"classname_mangled": "_ZTVN5GCSDK12CProtoBufMsgI36CMsgUpdateHalloweenMerasmusLootLevelEE",
+	"members": [
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgUpdateHalloweenMerasmusLootLevel>::~CProtoBufMsg()",
+			"name_mangled": "_ZN5GCSDK12CProtoBufMsgI36CMsgUpdateHalloweenMerasmusLootLevelED0Ev"
+		},
+		{
+			"name": "GCSDK::CProtoBufMsg<CMsgUpdateHalloweenMerasmusLootLevel>::GetGenericBody() const",
+			"name_mangled": "_ZNK5GCSDK12CProtoBufMsgI36CMsgUpdateHalloweenMerasmusLootLevelE14GetGenericBodyEv"
+		}
+	]
+}

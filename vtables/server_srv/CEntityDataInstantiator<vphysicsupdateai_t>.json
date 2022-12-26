@@ -1,0 +1,22 @@
+{
+	"classname": "CEntityDataInstantiator<vphysicsupdateai_t>",
+	"classname_mangled": "_ZTV23CEntityDataInstantiatorI18vphysicsupdateai_tE",
+	"members": [
+		{
+			"name": "CEntityDataInstantiator<vphysicsupdateai_t>::~CEntityDataInstantiator()",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI18vphysicsupdateai_tED0Ev"
+		},
+		{
+			"name": "CEntityDataInstantiator<vphysicsupdateai_t>::GetDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI18vphysicsupdateai_tE13GetDataObjectEPK11CBaseEntity"
+		},
+		{
+			"name": "CEntityDataInstantiator<vphysicsupdateai_t>::CreateDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI18vphysicsupdateai_tE16CreateDataObjectEPK11CBaseEntity"
+		},
+		{
+			"name": "CEntityDataInstantiator<vphysicsupdateai_t>::DestroyDataObject(CBaseEntity const*)",
+			"name_mangled": "_ZN23CEntityDataInstantiatorI18vphysicsupdateai_tE17DestroyDataObjectEPK11CBaseEntity"
+		}
+	]
+}

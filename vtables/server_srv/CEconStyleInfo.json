@@ -1,0 +1,18 @@
+{
+	"classname": "CEconStyleInfo",
+	"classname_mangled": "_ZTV14CEconStyleInfo",
+	"members": [
+		{
+			"name": "CEconStyleInfo::~CEconStyleInfo()",
+			"name_mangled": "_ZN14CEconStyleInfoD0Ev"
+		},
+		{
+			"name": "CEconStyleInfo::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN14CEconStyleInfo11BInitFromKVEP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		},
+		{
+			"name": "CEconStyleInfo::GeneratePrecacheModelStringsForStyle(CUtlVector<char const*, CUtlMemory<char const*, int>>*) const",
+			"name_mangled": "_ZNK14CEconStyleInfo36GeneratePrecacheModelStringsForStyleEP10CUtlVectorIPKc10CUtlMemoryIS2_iEE"
+		}
+	]
+}

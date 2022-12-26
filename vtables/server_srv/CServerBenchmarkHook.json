@@ -1,0 +1,14 @@
+{
+	"classname": "CServerBenchmarkHook",
+	"classname_mangled": "_ZTV20CServerBenchmarkHook",
+	"members": [
+		{
+			"name": "CServerBenchmarkHook::UpdateBenchmark()",
+			"name_mangled": "_ZN20CServerBenchmarkHook15UpdateBenchmarkEv"
+		},
+		{
+			"name": "CServerBenchmarkHook::EndBenchmark()",
+			"name_mangled": "_ZN20CServerBenchmarkHook12EndBenchmarkEv"
+		}
+	]
+}

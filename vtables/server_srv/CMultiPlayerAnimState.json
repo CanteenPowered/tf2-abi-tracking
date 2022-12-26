@@ -1,0 +1,138 @@
+{
+	"classname": "CMultiPlayerAnimState",
+	"classname_mangled": "_ZTV21CMultiPlayerAnimState",
+	"members": [
+		{
+			"name": "CMultiPlayerAnimState::~CMultiPlayerAnimState()",
+			"name_mangled": "_ZN21CMultiPlayerAnimStateD0Ev"
+		},
+		{
+			"name": "CMultiPlayerAnimState::ClearAnimationState()",
+			"name_mangled": "_ZN21CMultiPlayerAnimState19ClearAnimationStateEv"
+		},
+		{
+			"name": "CMultiPlayerAnimState::DoAnimationEvent(PlayerAnimEvent_t, int)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState16DoAnimationEventE17PlayerAnimEvent_ti"
+		},
+		{
+			"name": "CMultiPlayerAnimState::CalcMainActivity()",
+			"name_mangled": "_ZN21CMultiPlayerAnimState16CalcMainActivityEv"
+		},
+		{
+			"name": "CMultiPlayerAnimState::Update(float, float)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState6UpdateEff"
+		},
+		{
+			"name": "CMultiPlayerAnimState::Release()",
+			"name_mangled": "_ZN21CMultiPlayerAnimState7ReleaseEv"
+		},
+		{
+			"name": "CMultiPlayerAnimState::TranslateActivity(Activity)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState17TranslateActivityE8Activity"
+		},
+		{
+			"name": "CMultiPlayerAnimState::SetRunSpeed(float)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState11SetRunSpeedEf"
+		},
+		{
+			"name": "CMultiPlayerAnimState::SetWalkSpeed(float)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState12SetWalkSpeedEf"
+		},
+		{
+			"name": "CMultiPlayerAnimState::SetSprintSpeed(float)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState14SetSprintSpeedEf"
+		},
+		{
+			"name": "CMultiPlayerAnimState::ShowDebugInfo()",
+			"name_mangled": "_ZN21CMultiPlayerAnimState13ShowDebugInfoEv"
+		},
+		{
+			"name": "CMultiPlayerAnimState::DebugShowAnimState(int)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState18DebugShowAnimStateEi"
+		},
+		{
+			"name": "CMultiPlayerAnimState::Init(CBasePlayer*, MultiPlayerMovementData_t&)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState4InitEP11CBasePlayerR25MultiPlayerMovementData_t"
+		},
+		{
+			"name": "CMultiPlayerAnimState::SelectWeightedSequence(Activity)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState22SelectWeightedSequenceE8Activity"
+		},
+		{
+			"name": "CMultiPlayerAnimState::RestartMainSequence()",
+			"name_mangled": "_ZN21CMultiPlayerAnimState19RestartMainSequenceEv"
+		},
+		{
+			"name": "CMultiPlayerAnimState::GetOuterAbsVelocity(Vector&)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState19GetOuterAbsVelocityER6Vector"
+		},
+		{
+			"name": "CMultiPlayerAnimState::HandleJumping(Activity&)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState13HandleJumpingER8Activity"
+		},
+		{
+			"name": "CMultiPlayerAnimState::HandleDucking(Activity&)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState13HandleDuckingER8Activity"
+		},
+		{
+			"name": "CMultiPlayerAnimState::HandleMoving(Activity&)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState12HandleMovingER8Activity"
+		},
+		{
+			"name": "CMultiPlayerAnimState::HandleSwimming(Activity&)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState14HandleSwimmingER8Activity"
+		},
+		{
+			"name": "CMultiPlayerAnimState::HandleDying(Activity&)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState11HandleDyingER8Activity"
+		},
+		{
+			"name": "CMultiPlayerAnimState::RestartGesture(int, Activity, bool)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState14RestartGestureEi8Activityb"
+		},
+		{
+			"name": "CMultiPlayerAnimState::GetGesturePlaybackRate()",
+			"name_mangled": "_ZN21CMultiPlayerAnimState22GetGesturePlaybackRateEv"
+		},
+		{
+			"name": "CMultiPlayerAnimState::PlayFlinchGesture(Activity)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState17PlayFlinchGestureE8Activity"
+		},
+		{
+			"name": "CMultiPlayerAnimState::CalcMovementSpeed(bool*)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState17CalcMovementSpeedEPb"
+		},
+		{
+			"name": "CMultiPlayerAnimState::CalcMovementPlaybackRate(bool*)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState24CalcMovementPlaybackRateEPb"
+		},
+		{
+			"name": "CMultiPlayerAnimState::ComputePoseParam_MoveYaw(CStudioHdr*)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState24ComputePoseParam_MoveYawEP10CStudioHdr"
+		},
+		{
+			"name": "CMultiPlayerAnimState::ComputePoseParam_AimPitch(CStudioHdr*)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState25ComputePoseParam_AimPitchEP10CStudioHdr"
+		},
+		{
+			"name": "CMultiPlayerAnimState::ComputePoseParam_AimYaw(CStudioHdr*)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState23ComputePoseParam_AimYawEP10CStudioHdr"
+		},
+		{
+			"name": "CMultiPlayerAnimState::EstimateYaw()",
+			"name_mangled": "_ZN21CMultiPlayerAnimState11EstimateYawEv"
+		},
+		{
+			"name": "CMultiPlayerAnimState::GetCurrentMaxGroundSpeed()",
+			"name_mangled": "_ZN21CMultiPlayerAnimState24GetCurrentMaxGroundSpeedEv"
+		},
+		{
+			"name": "CMultiPlayerAnimState::ComputeSequences(CStudioHdr*)",
+			"name_mangled": "_ZN21CMultiPlayerAnimState16ComputeSequencesEP10CStudioHdr"
+		},
+		{
+			"name": "CMultiPlayerAnimState::ShouldUpdateAnimState()",
+			"name_mangled": "_ZN21CMultiPlayerAnimState21ShouldUpdateAnimStateEv"
+		}
+	]
+}

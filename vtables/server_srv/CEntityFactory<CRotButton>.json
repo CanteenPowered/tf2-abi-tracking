@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CRotButton>",
+	"classname_mangled": "_ZTV14CEntityFactoryI10CRotButtonE",
+	"members": [
+		{
+			"name": "CEntityFactory<CRotButton>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI10CRotButtonE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CRotButton>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI10CRotButtonE13GetEntitySizeEv"
+		}
+	]
+}

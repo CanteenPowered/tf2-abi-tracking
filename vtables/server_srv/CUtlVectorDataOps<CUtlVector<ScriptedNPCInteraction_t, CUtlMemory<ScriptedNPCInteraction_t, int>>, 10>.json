@@ -1,0 +1,22 @@
+{
+	"classname": "CUtlVectorDataOps<CUtlVector<ScriptedNPCInteraction_t, CUtlMemory<ScriptedNPCInteraction_t, int>>, 10>",
+	"classname_mangled": "_ZTV17CUtlVectorDataOpsI10CUtlVectorI24ScriptedNPCInteraction_t10CUtlMemoryIS1_iEELi10EE",
+	"members": [
+		{
+			"name": "CUtlVectorDataOps<CUtlVector<ScriptedNPCInteraction_t, CUtlMemory<ScriptedNPCInteraction_t, int>>, 10>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)",
+			"name_mangled": "_ZN17CUtlVectorDataOpsI10CUtlVectorI24ScriptedNPCInteraction_t10CUtlMemoryIS1_iEELi10EE7RestoreERK22SaveRestoreFieldInfo_tP8IRestore"
+		},
+		{
+			"name": "CUtlVectorDataOps<CUtlVector<ScriptedNPCInteraction_t, CUtlMemory<ScriptedNPCInteraction_t, int>>, 10>::IsEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN17CUtlVectorDataOpsI10CUtlVectorI24ScriptedNPCInteraction_t10CUtlMemoryIS1_iEELi10EE7IsEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CUtlVectorDataOps<CUtlVector<ScriptedNPCInteraction_t, CUtlMemory<ScriptedNPCInteraction_t, int>>, 10>::MakeEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN17CUtlVectorDataOpsI10CUtlVectorI24ScriptedNPCInteraction_t10CUtlMemoryIS1_iEELi10EE9MakeEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)",
+			"name_mangled": "_ZN18CDefSaveRestoreOps5ParseERK22SaveRestoreFieldInfo_tPKc"
+		}
+	]
+}

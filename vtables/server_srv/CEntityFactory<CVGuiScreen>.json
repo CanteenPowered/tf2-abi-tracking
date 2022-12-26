@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CVGuiScreen>",
+	"classname_mangled": "_ZTV14CEntityFactoryI11CVGuiScreenE",
+	"members": [
+		{
+			"name": "CEntityFactory<CVGuiScreen>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI11CVGuiScreenE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CVGuiScreen>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI11CVGuiScreenE13GetEntitySizeEv"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"classname": "GCSDK::CWorkItem",
+	"classname_mangled": "_ZTVN5GCSDK9CWorkItemE",
+	"members": [
+		{
+			"name": "GCSDK::CWorkItem::~CWorkItem()",
+			"name_mangled": "_ZN5GCSDK9CWorkItemD0Ev"
+		},
+		{
+			"name": "GCSDK::CRefCount::DestroyThis()",
+			"name_mangled": "_ZN5GCSDK9CRefCount11DestroyThisEv"
+		}
+	]
+}

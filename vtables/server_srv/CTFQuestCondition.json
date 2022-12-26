@@ -1,0 +1,10 @@
+{
+	"classname": "CTFQuestCondition",
+	"classname_mangled": "_ZTV17CTFQuestCondition",
+	"members": [
+		{
+			"name": "CTFQuestCondition::~CTFQuestCondition()",
+			"name_mangled": "_ZN17CTFQuestConditionD0Ev"
+		}
+	]
+}

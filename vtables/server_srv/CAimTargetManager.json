@@ -1,0 +1,14 @@
+{
+	"classname": "CAimTargetManager",
+	"classname_mangled": "_ZTV17CAimTargetManager",
+	"members": [
+		{
+			"name": "IEntityListener::OnEntitySpawned(CBaseEntity*)",
+			"name_mangled": "_ZN15IEntityListener15OnEntitySpawnedEP11CBaseEntity"
+		},
+		{
+			"name": "CAimTargetManager::OnEntityDeleted(CBaseEntity*)",
+			"name_mangled": "_ZN17CAimTargetManager15OnEntityDeletedEP11CBaseEntity"
+		}
+	]
+}

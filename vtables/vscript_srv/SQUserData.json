@@ -1,0 +1,34 @@
+{
+	"classname": "SQUserData",
+	"classname_mangled": "_ZTV10SQUserData",
+	"members": [
+		{
+			"name": "SQUserData::~SQUserData()",
+			"name_mangled": "_ZN10SQUserDataD0Ev"
+		},
+		{
+			"name": "SQUserData::Iterate(CSQStateIterator*)",
+			"name_mangled": "_ZN10SQUserData7IterateEP16CSQStateIterator"
+		},
+		{
+			"name": "SQUserData::Release()",
+			"name_mangled": "_ZN10SQUserData7ReleaseEv"
+		},
+		{
+			"name": "SQUserData::GetType()",
+			"name_mangled": "_ZN10SQUserData7GetTypeEv"
+		},
+		{
+			"name": "SQUserData::Mark(SQCollectable**)",
+			"name_mangled": "_ZN10SQUserData4MarkEPP13SQCollectable"
+		},
+		{
+			"name": "SQUserData::Finalize()",
+			"name_mangled": "_ZN10SQUserData8FinalizeEv"
+		},
+		{
+			"name": "SQDelegable::GetMetaMethod(SQVM*, SQMetaMethod, SQObjectPtr&)",
+			"name_mangled": "_ZN11SQDelegable13GetMetaMethodEP4SQVM12SQMetaMethodR11SQObjectPtr"
+		}
+	]
+}

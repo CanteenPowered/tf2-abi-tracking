@@ -1,0 +1,42 @@
+{
+	"classname": "CNetworkStringFilenameDict",
+	"classname_mangled": "_ZTV26CNetworkStringFilenameDict",
+	"members": [
+		{
+			"name": "CNetworkStringFilenameDict::~CNetworkStringFilenameDict()",
+			"name_mangled": "_ZN26CNetworkStringFilenameDictD0Ev"
+		},
+		{
+			"name": "CNetworkStringFilenameDict::Count()",
+			"name_mangled": "_ZN26CNetworkStringFilenameDict5CountEv"
+		},
+		{
+			"name": "CNetworkStringFilenameDict::Purge()",
+			"name_mangled": "_ZN26CNetworkStringFilenameDict5PurgeEv"
+		},
+		{
+			"name": "CNetworkStringFilenameDict::String(int)",
+			"name_mangled": "_ZN26CNetworkStringFilenameDict6StringEi"
+		},
+		{
+			"name": "CNetworkStringFilenameDict::IsValidIndex(int)",
+			"name_mangled": "_ZN26CNetworkStringFilenameDict12IsValidIndexEi"
+		},
+		{
+			"name": "CNetworkStringFilenameDict::Insert(char const*)",
+			"name_mangled": "_ZN26CNetworkStringFilenameDict6InsertEPKc"
+		},
+		{
+			"name": "CNetworkStringFilenameDict::Find(char const*)",
+			"name_mangled": "_ZN26CNetworkStringFilenameDict4FindEPKc"
+		},
+		{
+			"name": "CNetworkStringFilenameDict::Element(int)",
+			"name_mangled": "_ZN26CNetworkStringFilenameDict7ElementEi"
+		},
+		{
+			"name": "CNetworkStringFilenameDict::Element(int) const",
+			"name_mangled": "_ZNK26CNetworkStringFilenameDict7ElementEi"
+		}
+	]
+}

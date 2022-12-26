@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFWeaponBaseGrenadeProj>",
+	"classname_mangled": "_ZTV14CEntityFactoryI24CTFWeaponBaseGrenadeProjE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFWeaponBaseGrenadeProj>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI24CTFWeaponBaseGrenadeProjE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFWeaponBaseGrenadeProj>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI24CTFWeaponBaseGrenadeProjE13GetEntitySizeEv"
+		}
+	]
+}

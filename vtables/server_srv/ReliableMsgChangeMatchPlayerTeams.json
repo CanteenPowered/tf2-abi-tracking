@@ -1,0 +1,38 @@
+{
+	"classname": "ReliableMsgChangeMatchPlayerTeams",
+	"classname_mangled": "_ZTV33ReliableMsgChangeMatchPlayerTeams",
+	"members": [
+		{
+			"name": "ReliableMsgChangeMatchPlayerTeams::~ReliableMsgChangeMatchPlayerTeams()",
+			"name_mangled": "_ZN33ReliableMsgChangeMatchPlayerTeamsD0Ev"
+		},
+		{
+			"name": "CJobReliableMessageBase<ReliableMsgChangeMatchPlayerTeams, CMsgGCChangeMatchPlayerTeamsRequest, (ETFGCMsg)6539, CMsgGCChangeMatchPlayerTeamsResponse, (ETFGCMsg)6540>::BYieldingRunJob(void*)",
+			"name_mangled": "_ZN23CJobReliableMessageBaseI33ReliableMsgChangeMatchPlayerTeams35CMsgGCChangeMatchPlayerTeamsRequestL8ETFGCMsg6539E36CMsgGCChangeMatchPlayerTeamsResponseLS2_6540EE15BYieldingRunJobEPv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob22BYieldingRunJobFromMsgEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::CHeartbeatsBeforeTimeout()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob24CHeartbeatsBeforeTimeoutEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::BYieldingRunGCJob()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob17BYieldingRunGCJobEv"
+		},
+		{
+			"name": "GCSDK::CGCClientJob::GetServerType()",
+			"name_mangled": "_ZN5GCSDK12CGCClientJob13GetServerTypeEv"
+		},
+		{
+			"name": "CJobReliableMessageBase<ReliableMsgChangeMatchPlayerTeams, CMsgGCChangeMatchPlayerTeamsRequest, (ETFGCMsg)6539, CMsgGCChangeMatchPlayerTeamsResponse, (ETFGCMsg)6540>::Finalize()",
+			"name_mangled": "_ZN23CJobReliableMessageBaseI33ReliableMsgChangeMatchPlayerTeams35CMsgGCChangeMatchPlayerTeamsRequestL8ETFGCMsg6539E36CMsgGCChangeMatchPlayerTeamsResponseLS2_6540EE8FinalizeEv"
+		}
+	]
+}

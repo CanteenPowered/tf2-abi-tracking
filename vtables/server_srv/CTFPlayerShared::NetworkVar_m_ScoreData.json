@@ -1,0 +1,10 @@
+{
+	"classname": "CTFPlayerShared::NetworkVar_m_ScoreData",
+	"classname_mangled": "_ZTVN15CTFPlayerShared22NetworkVar_m_ScoreDataE",
+	"members": [
+		{
+			"name": "CTFPlayerShared::NetworkVar_m_ScoreData::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN15CTFPlayerShared22NetworkVar_m_ScoreData19NetworkStateChangedEPv"
+		}
+	]
+}

@@ -1,0 +1,150 @@
+{
+	"classname": "CTFGCServerSystem",
+	"classname_mangled": "_ZTV17CTFGCServerSystem",
+	"members": [
+		{
+			"name": "CTFGCServerSystem::Init()",
+			"name_mangled": "_ZN17CTFGCServerSystem4InitEv"
+		},
+		{
+			"name": "CGCClientSystem::PostInit()",
+			"name_mangled": "_ZN15CGCClientSystem8PostInitEv"
+		},
+		{
+			"name": "CTFGCServerSystem::Shutdown()",
+			"name_mangled": "_ZN17CTFGCServerSystem8ShutdownEv"
+		},
+		{
+			"name": "CTFGCServerSystem::LevelInitPreEntity()",
+			"name_mangled": "_ZN17CTFGCServerSystem18LevelInitPreEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelInitPostEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19LevelInitPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreClearSteamAPIContext()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame36LevelShutdownPreClearSteamAPIContextEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::LevelShutdownPreEntity()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame22LevelShutdownPreEntityEv"
+		},
+		{
+			"name": "CTFGCServerSystem::LevelShutdownPostEntity()",
+			"name_mangled": "_ZN17CTFGCServerSystem23LevelShutdownPostEntityEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnSave()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame6OnSaveEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::OnRestore()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame9OnRestoreEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::SafeRemoveIfDesired()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame19SafeRemoveIfDesiredEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::IsPerFrame()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame10IsPerFrameEv"
+		},
+		{
+			"name": "CTFGCServerSystem::~CTFGCServerSystem()",
+			"name_mangled": "_ZN17CTFGCServerSystemD1Ev"
+		},
+		{
+			"name": "CTFGCServerSystem::~CTFGCServerSystem()",
+			"name_mangled": "_ZN17CTFGCServerSystemD0Ev"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePreEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame25FrameUpdatePreEntityThinkEv"
+		},
+		{
+			"name": "CBaseGameSystemPerFrame::FrameUpdatePostEntityThink()",
+			"name_mangled": "_ZN23CBaseGameSystemPerFrame26FrameUpdatePostEntityThinkEv"
+		},
+		{
+			"name": "CTFGCServerSystem::PreClientUpdate()",
+			"name_mangled": "_ZN17CTFGCServerSystem15PreClientUpdateEv"
+		},
+		{
+			"name": "CGCClientSystem::InitGC()",
+			"name_mangled": "_ZN15CGCClientSystem6InitGCEv"
+		},
+		{
+			"name": "CTFGCServerSystem::PreInitGC()",
+			"name_mangled": "_ZN17CTFGCServerSystem9PreInitGCEv"
+		},
+		{
+			"name": "CTFGCServerSystem::PostInitGC()",
+			"name_mangled": "_ZN17CTFGCServerSystem10PostInitGCEv"
+		},
+		{
+			"name": "CGCClientSystem::ReceivedServerWelcome(CMsgServerWelcome const&)",
+			"name_mangled": "_ZN15CGCClientSystem21ReceivedServerWelcomeERK17CMsgServerWelcome"
+		},
+		{
+			"name": "CGCClientSystem::ReceivedServerGoodbye(CMsgServerGoodbye const&)",
+			"name_mangled": "_ZN15CGCClientSystem21ReceivedServerGoodbyeERK17CMsgServerGoodbye"
+		},
+		{
+			"name": "CTFGCServerSystem::SOCreated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CTFGCServerSystem9SOCreatedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CTFGCServerSystem::PreSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CTFGCServerSystem11PreSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CTFGCServerSystem::SOUpdated(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CTFGCServerSystem9SOUpdatedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CTFGCServerSystem::PostSOUpdate(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CTFGCServerSystem12PostSOUpdateERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CTFGCServerSystem::SODestroyed(CSteamID const&, GCSDK::CSharedObject const*, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CTFGCServerSystem11SODestroyedERK8CSteamIDPKN5GCSDK13CSharedObjectENS3_13ESOCacheEventE"
+		},
+		{
+			"name": "CTFGCServerSystem::SOCacheSubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CTFGCServerSystem17SOCacheSubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CTFGCServerSystem::SOCacheUnsubscribed(CSteamID const&, GCSDK::ESOCacheEvent)",
+			"name_mangled": "_ZN17CTFGCServerSystem19SOCacheUnsubscribedERK8CSteamIDN5GCSDK13ESOCacheEventE"
+		},
+		{
+			"name": "CTFGCServerSystem::HasLobby() const",
+			"name_mangled": "_ZNK17CTFGCServerSystem8HasLobbyEv"
+		},
+		{
+			"name": "CTFGCServerSystem::SteamIDAllowedToConnect(CSteamID const&) const",
+			"name_mangled": "_ZNK17CTFGCServerSystem23SteamIDAllowedToConnectERK8CSteamID"
+		},
+		{
+			"name": "CTFGCServerSystem::UpdateServerDetails()",
+			"name_mangled": "_ZN17CTFGCServerSystem19UpdateServerDetailsEv"
+		},
+		{
+			"name": "CTFGCServerSystem::ShouldHibernate()",
+			"name_mangled": "_ZN17CTFGCServerSystem15ShouldHibernateEv"
+		},
+		{
+			"name": "CTFGCServerSystem::MatchAllowsNameChanges()",
+			"name_mangled": "_ZN17CTFGCServerSystem22MatchAllowsNameChangesEv"
+		},
+		{
+			"name": "CTFGCServerSystem::GetPlayerGCMatchName(CSteamID const&, char*, unsigned int)",
+			"name_mangled": "_ZN17CTFGCServerSystem20GetPlayerGCMatchNameERK8CSteamIDPcj"
+		},
+		{
+			"name": "CTFGCServerSystem::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN17CTFGCServerSystem13FireGameEventEP10IGameEvent"
+		}
+	]
+}

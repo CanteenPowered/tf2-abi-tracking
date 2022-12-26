@@ -1,0 +1,30 @@
+{
+	"classname": "CEngineSingleUserFilter",
+	"classname_mangled": "_ZTV23CEngineSingleUserFilter",
+	"members": [
+		{
+			"name": "CEngineSingleUserFilter::~CEngineSingleUserFilter()",
+			"name_mangled": "_ZN23CEngineSingleUserFilterD0Ev"
+		},
+		{
+			"name": "CEngineSingleUserFilter::IsReliable() const",
+			"name_mangled": "_ZNK23CEngineSingleUserFilter10IsReliableEv"
+		},
+		{
+			"name": "CEngineSingleUserFilter::IsInitMessage() const",
+			"name_mangled": "_ZNK23CEngineSingleUserFilter13IsInitMessageEv"
+		},
+		{
+			"name": "CEngineSingleUserFilter::GetRecipientCount() const",
+			"name_mangled": "_ZNK23CEngineSingleUserFilter17GetRecipientCountEv"
+		},
+		{
+			"name": "CEngineSingleUserFilter::GetRecipientIndex(int) const",
+			"name_mangled": "_ZNK23CEngineSingleUserFilter17GetRecipientIndexEi"
+		},
+		{
+			"name": "CEngineSingleUserFilter::IsBroadcastMessage() const",
+			"name_mangled": "_ZNK23CEngineSingleUserFilter18IsBroadcastMessageEv"
+		}
+	]
+}

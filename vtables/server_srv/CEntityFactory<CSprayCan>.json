@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CSprayCan>",
+	"classname_mangled": "_ZTV14CEntityFactoryI9CSprayCanE",
+	"members": [
+		{
+			"name": "CEntityFactory<CSprayCan>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI9CSprayCanE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CSprayCan>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI9CSprayCanE13GetEntitySizeEv"
+		}
+	]
+}

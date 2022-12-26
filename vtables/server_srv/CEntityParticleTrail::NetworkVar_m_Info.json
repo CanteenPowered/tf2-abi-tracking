@@ -1,0 +1,10 @@
+{
+	"classname": "CEntityParticleTrail::NetworkVar_m_Info",
+	"classname_mangled": "_ZTVN20CEntityParticleTrail17NetworkVar_m_InfoE",
+	"members": [
+		{
+			"name": "CEntityParticleTrail::NetworkVar_m_Info::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN20CEntityParticleTrail17NetworkVar_m_Info19NetworkStateChangedEPv"
+		}
+	]
+}

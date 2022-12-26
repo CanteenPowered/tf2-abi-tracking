@@ -1,0 +1,74 @@
+{
+	"classname": "CTFGSLobby",
+	"classname_mangled": "_ZTV10CTFGSLobby",
+	"members": [
+		{
+			"name": "CTFGSLobby::~CTFGSLobby()",
+			"name_mangled": "_ZN10CTFGSLobbyD0Ev"
+		},
+		{
+			"name": "CTFLobbyShared::GetGroupID() const",
+			"name_mangled": "_ZNK14CTFLobbyShared10GetGroupIDEv"
+		},
+		{
+			"name": "CTFLobbyShared::GetNumMembers() const",
+			"name_mangled": "_ZNK14CTFLobbyShared13GetNumMembersEv"
+		},
+		{
+			"name": "CTFLobbyShared::GetMember(int) const",
+			"name_mangled": "_ZNK14CTFLobbyShared9GetMemberEi"
+		},
+		{
+			"name": "CTFLobbyShared::GetMemberIndexBySteamID(CSteamID const&) const",
+			"name_mangled": "_ZNK14CTFLobbyShared23GetMemberIndexBySteamIDERK8CSteamID"
+		},
+		{
+			"name": "CTFGSLobby::GetSharedObjectForMember(CSteamID const&)",
+			"name_mangled": "_ZN10CTFGSLobby24GetSharedObjectForMemberERK8CSteamID"
+		},
+		{
+			"name": "CTFGSLobby::Dump() const",
+			"name_mangled": "_ZNK10CTFGSLobby4DumpEv"
+		},
+		{
+			"name": "CTFLobbyShared::GetLeader() const",
+			"name_mangled": "_ZNK14CTFLobbyShared9GetLeaderEv"
+		},
+		{
+			"name": "CTFLobbyShared::GetNumPendingPlayers() const",
+			"name_mangled": "_ZNK14CTFLobbyShared20GetNumPendingPlayersEv"
+		},
+		{
+			"name": "CTFLobbyShared::GetPendingPlayer(int) const",
+			"name_mangled": "_ZNK14CTFLobbyShared16GetPendingPlayerEi"
+		},
+		{
+			"name": "CTFLobbyShared::GetPendingPlayerInviter(int) const",
+			"name_mangled": "_ZNK14CTFLobbyShared23GetPendingPlayerInviterEi"
+		},
+		{
+			"name": "CTFLobbyShared::GetPendingPlayerType(int) const",
+			"name_mangled": "_ZNK14CTFLobbyShared20GetPendingPlayerTypeEi"
+		},
+		{
+			"name": "CTFLobbyShared::GetPendingPlayerIndexBySteamID(CSteamID const&) const",
+			"name_mangled": "_ZNK14CTFLobbyShared30GetPendingPlayerIndexBySteamIDERK8CSteamID"
+		},
+		{
+			"name": "CTFLobbyShared::GetMemberDetails(int) const",
+			"name_mangled": "_ZNK14CTFLobbyShared16GetMemberDetailsEi"
+		},
+		{
+			"name": "CTFLobbyShared::SpewDebugSummary() const",
+			"name_mangled": "_ZNK14CTFLobbyShared16SpewDebugSummaryEv"
+		},
+		{
+			"name": "CTFGSLobby::GSObj() const",
+			"name_mangled": "_ZNK10CTFGSLobby5GSObjEv"
+		},
+		{
+			"name": "CTFGSLobby::GSObj()",
+			"name_mangled": "_ZN10CTFGSLobby5GSObjEv"
+		}
+	]
+}

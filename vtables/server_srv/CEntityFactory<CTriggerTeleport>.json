@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTriggerTeleport>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CTriggerTeleportE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTriggerTeleport>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CTriggerTeleportE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTriggerTeleport>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CTriggerTeleportE13GetEntitySizeEv"
+		}
+	]
+}

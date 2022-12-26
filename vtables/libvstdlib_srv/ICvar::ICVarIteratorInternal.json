@@ -1,0 +1,10 @@
+{
+	"classname": "ICvar::ICVarIteratorInternal",
+	"classname_mangled": "_ZTVN5ICvar21ICVarIteratorInternalE",
+	"members": [
+		{
+			"name": "ICvar::ICVarIteratorInternal::~ICVarIteratorInternal()",
+			"name_mangled": "_ZN5ICvar21ICVarIteratorInternalD0Ev"
+		}
+	]
+}

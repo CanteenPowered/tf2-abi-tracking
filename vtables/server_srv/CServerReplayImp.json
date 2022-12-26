@@ -1,0 +1,14 @@
+{
+	"classname": "CServerReplayImp",
+	"classname_mangled": "_ZTV16CServerReplayImp",
+	"members": [
+		{
+			"name": "CServerReplayImp::~CServerReplayImp()",
+			"name_mangled": "_ZN16CServerReplayImpD0Ev"
+		},
+		{
+			"name": "CServerReplayImp::UploadOgsData(KeyValues*, bool)",
+			"name_mangled": "_ZN16CServerReplayImp13UploadOgsDataEP9KeyValuesb"
+		}
+	]
+}

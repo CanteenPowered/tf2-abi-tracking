@@ -1,0 +1,70 @@
+{
+	"classname": "CNetworkStringTable",
+	"classname_mangled": "_ZTV19CNetworkStringTable",
+	"members": [
+		{
+			"name": "CNetworkStringTable::~CNetworkStringTable()",
+			"name_mangled": "_ZN19CNetworkStringTableD0Ev"
+		},
+		{
+			"name": "CNetworkStringTable::GetTableName() const",
+			"name_mangled": "_ZNK19CNetworkStringTable12GetTableNameEv"
+		},
+		{
+			"name": "CNetworkStringTable::GetTableId() const",
+			"name_mangled": "_ZNK19CNetworkStringTable10GetTableIdEv"
+		},
+		{
+			"name": "CNetworkStringTable::GetNumStrings() const",
+			"name_mangled": "_ZNK19CNetworkStringTable13GetNumStringsEv"
+		},
+		{
+			"name": "CNetworkStringTable::GetMaxStrings() const",
+			"name_mangled": "_ZNK19CNetworkStringTable13GetMaxStringsEv"
+		},
+		{
+			"name": "CNetworkStringTable::GetEntryBits() const",
+			"name_mangled": "_ZNK19CNetworkStringTable12GetEntryBitsEv"
+		},
+		{
+			"name": "CNetworkStringTable::SetTick(int)",
+			"name_mangled": "_ZN19CNetworkStringTable7SetTickEi"
+		},
+		{
+			"name": "CNetworkStringTable::ChangedSinceTick(int) const",
+			"name_mangled": "_ZNK19CNetworkStringTable16ChangedSinceTickEi"
+		},
+		{
+			"name": "CNetworkStringTable::AddString(bool, char const*, int, void const*)",
+			"name_mangled": "_ZN19CNetworkStringTable9AddStringEbPKciPKv"
+		},
+		{
+			"name": "CNetworkStringTable::GetString(int)",
+			"name_mangled": "_ZN19CNetworkStringTable9GetStringEi"
+		},
+		{
+			"name": "CNetworkStringTable::SetStringUserData(int, int, void const*)",
+			"name_mangled": "_ZN19CNetworkStringTable17SetStringUserDataEiiPKv"
+		},
+		{
+			"name": "CNetworkStringTable::GetStringUserData(int, int*)",
+			"name_mangled": "_ZN19CNetworkStringTable17GetStringUserDataEiPi"
+		},
+		{
+			"name": "CNetworkStringTable::FindStringIndex(char const*)",
+			"name_mangled": "_ZN19CNetworkStringTable15FindStringIndexEPKc"
+		},
+		{
+			"name": "CNetworkStringTable::SetStringChangedCallback(void*, void (*)(void*, INetworkStringTable*, int, char const*, void const*))",
+			"name_mangled": "_ZN19CNetworkStringTable24SetStringChangedCallbackEPvPFvS0_P19INetworkStringTableiPKcPKvE"
+		},
+		{
+			"name": "CNetworkStringTable::Dump()",
+			"name_mangled": "_ZN19CNetworkStringTable4DumpEv"
+		},
+		{
+			"name": "CNetworkStringTable::Lock(bool)",
+			"name_mangled": "_ZN19CNetworkStringTable4LockEb"
+		}
+	]
+}

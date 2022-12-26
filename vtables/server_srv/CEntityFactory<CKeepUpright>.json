@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CKeepUpright>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CKeepUprightE",
+	"members": [
+		{
+			"name": "CEntityFactory<CKeepUpright>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CKeepUprightE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CKeepUpright>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CKeepUprightE13GetEntitySizeEv"
+		}
+	]
+}

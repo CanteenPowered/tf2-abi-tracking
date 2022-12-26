@@ -1,0 +1,66 @@
+{
+	"classname": "CClientEngineTools",
+	"classname_mangled": "_ZTV18CClientEngineTools",
+	"members": [
+		{
+			"name": "CClientEngineTools::~CClientEngineTools()",
+			"name_mangled": "_ZN18CClientEngineToolsD0Ev"
+		},
+		{
+			"name": "CClientEngineTools::LevelInitPreEntityAllTools()",
+			"name_mangled": "_ZN18CClientEngineTools26LevelInitPreEntityAllToolsEv"
+		},
+		{
+			"name": "CClientEngineTools::LevelInitPostEntityAllTools()",
+			"name_mangled": "_ZN18CClientEngineTools27LevelInitPostEntityAllToolsEv"
+		},
+		{
+			"name": "CClientEngineTools::LevelShutdownPreEntityAllTools()",
+			"name_mangled": "_ZN18CClientEngineTools30LevelShutdownPreEntityAllToolsEv"
+		},
+		{
+			"name": "CClientEngineTools::LevelShutdownPostEntityAllTools()",
+			"name_mangled": "_ZN18CClientEngineTools31LevelShutdownPostEntityAllToolsEv"
+		},
+		{
+			"name": "CClientEngineTools::PreRenderAllTools()",
+			"name_mangled": "_ZN18CClientEngineTools17PreRenderAllToolsEv"
+		},
+		{
+			"name": "CClientEngineTools::PostRenderAllTools()",
+			"name_mangled": "_ZN18CClientEngineTools18PostRenderAllToolsEv"
+		},
+		{
+			"name": "CClientEngineTools::PostToolMessage(unsigned int, KeyValues*)",
+			"name_mangled": "_ZN18CClientEngineTools15PostToolMessageEjP9KeyValues"
+		},
+		{
+			"name": "CClientEngineTools::AdjustEngineViewport(int&, int&, int&, int&)",
+			"name_mangled": "_ZN18CClientEngineTools20AdjustEngineViewportERiS0_S0_S0_"
+		},
+		{
+			"name": "CClientEngineTools::SetupEngineView(Vector&, QAngle&, float&)",
+			"name_mangled": "_ZN18CClientEngineTools15SetupEngineViewER6VectorR6QAngleRf"
+		},
+		{
+			"name": "CClientEngineTools::SetupAudioState(AudioState_t&)",
+			"name_mangled": "_ZN18CClientEngineTools15SetupAudioStateER12AudioState_t"
+		},
+		{
+			"name": "CClientEngineTools::VGui_PreRenderAllTools(int)",
+			"name_mangled": "_ZN18CClientEngineTools22VGui_PreRenderAllToolsEi"
+		},
+		{
+			"name": "CClientEngineTools::VGui_PostRenderAllTools(int)",
+			"name_mangled": "_ZN18CClientEngineTools23VGui_PostRenderAllToolsEi"
+		},
+		{
+			"name": "CClientEngineTools::IsThirdPersonCamera()",
+			"name_mangled": "_ZN18CClientEngineTools19IsThirdPersonCameraEv"
+		},
+		{
+			"name": "CClientEngineTools::InToolMode()",
+			"name_mangled": "_ZN18CClientEngineTools10InToolModeEv"
+		}
+	]
+}

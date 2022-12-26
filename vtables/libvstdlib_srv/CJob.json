@@ -1,0 +1,26 @@
+{
+	"classname": "CJob",
+	"classname_mangled": "_ZTV4CJob",
+	"members": [
+		{
+			"name": "CRefCounted1<IRefCounted, CRefCountServiceBase<true, CRefMT>>::Release()",
+			"name_mangled": "_ZN12CRefCounted1I11IRefCounted20CRefCountServiceBaseILb1E6CRefMTEE7ReleaseEv"
+		},
+		{
+			"name": "CJob::~CJob()",
+			"name_mangled": "_ZN4CJobD2Ev"
+		},
+		{
+			"name": "CJob::~CJob()",
+			"name_mangled": "_ZN4CJobD0Ev"
+		},
+		{
+			"name": "CJob::Describe()",
+			"name_mangled": "_ZN4CJob8DescribeEv"
+		},
+		{
+			"name": "CJob::SetDescription(char const*)",
+			"name_mangled": "_ZN4CJob14SetDescriptionEPKc"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"classname": "CTEEnergySplash",
+	"classname_mangled": "_ZTV15CTEEnergySplash",
+	"members": [
+		{
+			"name": "CTEEnergySplash::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN15CTEEnergySplash40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEEnergySplash::~CTEEnergySplash()",
+			"name_mangled": "_ZN15CTEEnergySplashD2Ev"
+		},
+		{
+			"name": "CTEEnergySplash::~CTEEnergySplash()",
+			"name_mangled": "_ZN15CTEEnergySplashD0Ev"
+		},
+		{
+			"name": "CTEEnergySplash::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN15CTEEnergySplash4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

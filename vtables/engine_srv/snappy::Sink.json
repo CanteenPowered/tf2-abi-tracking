@@ -1,0 +1,10 @@
+{
+	"classname": "snappy::Sink",
+	"classname_mangled": "_ZTVN6snappy4SinkE",
+	"members": [
+		{
+			"name": "snappy::Sink::~Sink()",
+			"name_mangled": "_ZN6snappy4SinkD0Ev"
+		}
+	]
+}

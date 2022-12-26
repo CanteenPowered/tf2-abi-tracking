@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPointCommentaryNode>",
+	"classname_mangled": "_ZTV14CEntityFactoryI20CPointCommentaryNodeE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPointCommentaryNode>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI20CPointCommentaryNodeE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPointCommentaryNode>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI20CPointCommentaryNodeE13GetEntitySizeEv"
+		}
+	]
+}

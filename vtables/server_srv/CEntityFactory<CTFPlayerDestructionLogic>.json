@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CTFPlayerDestructionLogic>",
+	"classname_mangled": "_ZTV14CEntityFactoryI25CTFPlayerDestructionLogicE",
+	"members": [
+		{
+			"name": "CEntityFactory<CTFPlayerDestructionLogic>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI25CTFPlayerDestructionLogicE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CTFPlayerDestructionLogic>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI25CTFPlayerDestructionLogicE13GetEntitySizeEv"
+		}
+	]
+}

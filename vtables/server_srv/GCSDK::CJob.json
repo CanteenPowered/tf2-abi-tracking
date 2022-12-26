@@ -1,0 +1,22 @@
+{
+	"classname": "GCSDK::CJob",
+	"classname_mangled": "_ZTVN5GCSDK4CJobE",
+	"members": [
+		{
+			"name": "GCSDK::CJob::~CJob()",
+			"name_mangled": "_ZN5GCSDK4CJobD0Ev"
+		},
+		{
+			"name": "GCSDK::CJob::BYieldingRunJob(void*)",
+			"name_mangled": "_ZN5GCSDK4CJob15BYieldingRunJobEPv"
+		},
+		{
+			"name": "GCSDK::CJob::BYieldingRunJobFromMsg(GCSDK::IMsgNetPacket*)",
+			"name_mangled": "_ZN5GCSDK4CJob22BYieldingRunJobFromMsgEPNS_13IMsgNetPacketE"
+		},
+		{
+			"name": "GCSDK::CJob::CHeartbeatsBeforeTimeout()",
+			"name_mangled": "_ZN5GCSDK4CJob24CHeartbeatsBeforeTimeoutEv"
+		}
+	]
+}

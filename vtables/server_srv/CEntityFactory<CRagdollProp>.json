@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CRagdollProp>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CRagdollPropE",
+	"members": [
+		{
+			"name": "CEntityFactory<CRagdollProp>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CRagdollPropE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CRagdollProp>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CRagdollPropE13GetEntitySizeEv"
+		}
+	]
+}

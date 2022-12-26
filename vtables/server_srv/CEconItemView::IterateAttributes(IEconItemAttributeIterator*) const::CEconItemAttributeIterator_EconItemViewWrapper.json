@@ -1,0 +1,38 @@
+{
+	"classname": "CEconItemView::IterateAttributes(IEconItemAttributeIterator*) const::CEconItemAttributeIterator_EconItemViewWrapper",
+	"classname_mangled": "_ZTVZNK13CEconItemView17IterateAttributesEP26IEconItemAttributeIteratorE46CEconItemAttributeIterator_EconItemViewWrapper",
+	"members": [
+		{
+			"name": "CEconItemView::IterateAttributes(IEconItemAttributeIterator*) const::CEconItemAttributeIterator_EconItemViewWrapper::~CEconItemAttributeIterator_EconItemViewWrapper()",
+			"name_mangled": "_ZZNK13CEconItemView17IterateAttributesEP26IEconItemAttributeIteratorEN46CEconItemAttributeIterator_EconItemViewWrapperD0Ev"
+		},
+		{
+			"name": "CEconItemView::IterateAttributes(IEconItemAttributeIterator*) const::CEconItemAttributeIterator_EconItemViewWrapper::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned int)",
+			"name_mangled": "_ZZNK13CEconItemView17IterateAttributesEP26IEconItemAttributeIteratorEN46CEconItemAttributeIterator_EconItemViewWrapper23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionj"
+		},
+		{
+			"name": "CEconItemView::IterateAttributes(IEconItemAttributeIterator*) const::CEconItemAttributeIterator_EconItemViewWrapper::OnIterateAttributeValue(CEconItemAttributeDefinition const*, float)",
+			"name_mangled": "_ZZNK13CEconItemView17IterateAttributesEP26IEconItemAttributeIteratorEN46CEconItemAttributeIterator_EconItemViewWrapper23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionf"
+		},
+		{
+			"name": "CEconItemView::IterateAttributes(IEconItemAttributeIterator*) const::CEconItemAttributeIterator_EconItemViewWrapper::OnIterateAttributeValue(CEconItemAttributeDefinition const*, unsigned long long const&)",
+			"name_mangled": "_ZZNK13CEconItemView17IterateAttributesEP26IEconItemAttributeIteratorEN46CEconItemAttributeIterator_EconItemViewWrapper23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRKy"
+		},
+		{
+			"name": "CEconItemView::IterateAttributes(IEconItemAttributeIterator*) const::CEconItemAttributeIterator_EconItemViewWrapper::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_String const&)",
+			"name_mangled": "_ZZNK13CEconItemView17IterateAttributesEP26IEconItemAttributeIteratorEN46CEconItemAttributeIterator_EconItemViewWrapper23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK17CAttribute_String"
+		},
+		{
+			"name": "CEconItemView::IterateAttributes(IEconItemAttributeIterator*) const::CEconItemAttributeIterator_EconItemViewWrapper::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_DynamicRecipeComponent const&)",
+			"name_mangled": "_ZZNK13CEconItemView17IterateAttributesEP26IEconItemAttributeIteratorEN46CEconItemAttributeIterator_EconItemViewWrapper23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK33CAttribute_DynamicRecipeComponent"
+		},
+		{
+			"name": "CEconItemView::IterateAttributes(IEconItemAttributeIterator*) const::CEconItemAttributeIterator_EconItemViewWrapper::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_ItemSlotCriteria const&)",
+			"name_mangled": "_ZZNK13CEconItemView17IterateAttributesEP26IEconItemAttributeIteratorEN46CEconItemAttributeIterator_EconItemViewWrapper23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK27CAttribute_ItemSlotCriteria"
+		},
+		{
+			"name": "CEconItemView::IterateAttributes(IEconItemAttributeIterator*) const::CEconItemAttributeIterator_EconItemViewWrapper::OnIterateAttributeValue(CEconItemAttributeDefinition const*, CAttribute_WorldItemPlacement const&)",
+			"name_mangled": "_ZZNK13CEconItemView17IterateAttributesEP26IEconItemAttributeIteratorEN46CEconItemAttributeIterator_EconItemViewWrapper23OnIterateAttributeValueEPK28CEconItemAttributeDefinitionRK29CAttribute_WorldItemPlacement"
+		}
+	]
+}

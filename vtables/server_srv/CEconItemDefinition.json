@@ -1,0 +1,50 @@
+{
+	"classname": "CEconItemDefinition",
+	"classname_mangled": "_ZTV19CEconItemDefinition",
+	"members": [
+		{
+			"name": "CEconItemDefinition::~CEconItemDefinition()",
+			"name_mangled": "_ZN19CEconItemDefinitionD0Ev"
+		},
+		{
+			"name": "CEconItemDefinition::BInitFromKV(KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN19CEconItemDefinition11BInitFromKVEP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		},
+		{
+			"name": "CEconItemDefinition::BPostInit(CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN19CEconItemDefinition9BPostInitEP10CUtlVectorI10CUtlString10CUtlMemoryIS1_iEE"
+		},
+		{
+			"name": "CEconItemDefinition::BInitFromTestItemKVs(int, KeyValues*, CUtlVector<CUtlString, CUtlMemory<CUtlString, int>>*)",
+			"name_mangled": "_ZN19CEconItemDefinition20BInitFromTestItemKVsEiP9KeyValuesP10CUtlVectorI10CUtlString10CUtlMemoryIS3_iEE"
+		},
+		{
+			"name": "CEconItemDefinition::GeneratePrecacheModelStrings(bool, CUtlVector<char const*, CUtlMemory<char const*, int>>*) const",
+			"name_mangled": "_ZNK19CEconItemDefinition28GeneratePrecacheModelStringsEbP10CUtlVectorIPKc10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CEconItemDefinition::GeneratePrecacheSoundStrings(bool, CUtlVector<char const*, CUtlMemory<char const*, int>>*) const",
+			"name_mangled": "_ZNK19CEconItemDefinition28GeneratePrecacheSoundStringsEbP10CUtlVectorIPKc10CUtlMemoryIS2_iEE"
+		},
+		{
+			"name": "CEconItemDefinition::CopyPolymorphic(CEconItemDefinition const*)",
+			"name_mangled": "_ZN19CEconItemDefinition15CopyPolymorphicEPKS_"
+		},
+		{
+			"name": "CEconItemDefinition::GetBundleItemCount() const",
+			"name_mangled": "_ZNK19CEconItemDefinition18GetBundleItemCountEv"
+		},
+		{
+			"name": "CEconItemDefinition::GetBundleItem(int) const",
+			"name_mangled": "_ZNK19CEconItemDefinition13GetBundleItemEi"
+		},
+		{
+			"name": "CEconItemDefinition::GetIconDisplayModel() const",
+			"name_mangled": "_ZNK19CEconItemDefinition19GetIconDisplayModelEv"
+		},
+		{
+			"name": "CEconItemDefinition::IsContentStreamable() const",
+			"name_mangled": "_ZNK19CEconItemDefinition19IsContentStreamableEv"
+		}
+	]
+}

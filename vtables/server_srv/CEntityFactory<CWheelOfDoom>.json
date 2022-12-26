@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CWheelOfDoom>",
+	"classname_mangled": "_ZTV14CEntityFactoryI12CWheelOfDoomE",
+	"members": [
+		{
+			"name": "CEntityFactory<CWheelOfDoom>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI12CWheelOfDoomE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CWheelOfDoom>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI12CWheelOfDoomE13GetEntitySizeEv"
+		}
+	]
+}

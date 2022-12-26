@@ -1,0 +1,14 @@
+{
+	"classname": "google::protobuf::io::OstreamOutputStream::CopyingOstreamOutputStream",
+	"classname_mangled": "_ZTVN6google8protobuf2io19OstreamOutputStream26CopyingOstreamOutputStreamE",
+	"members": [
+		{
+			"name": "google::protobuf::io::OstreamOutputStream::CopyingOstreamOutputStream::~CopyingOstreamOutputStream()",
+			"name_mangled": "_ZN6google8protobuf2io19OstreamOutputStream26CopyingOstreamOutputStreamD0Ev"
+		},
+		{
+			"name": "google::protobuf::io::OstreamOutputStream::CopyingOstreamOutputStream::Write(void const*, int)",
+			"name_mangled": "_ZN6google8protobuf2io19OstreamOutputStream26CopyingOstreamOutputStream5WriteEPKvi"
+		}
+	]
+}

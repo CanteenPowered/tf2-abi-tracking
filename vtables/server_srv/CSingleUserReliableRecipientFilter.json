@@ -1,0 +1,26 @@
+{
+	"classname": "CSingleUserReliableRecipientFilter",
+	"classname_mangled": "_ZTV34CSingleUserReliableRecipientFilter",
+	"members": [
+		{
+			"name": "CSingleUserReliableRecipientFilter::~CSingleUserReliableRecipientFilter()",
+			"name_mangled": "_ZN34CSingleUserReliableRecipientFilterD0Ev"
+		},
+		{
+			"name": "CRecipientFilter::IsReliable() const",
+			"name_mangled": "_ZNK16CRecipientFilter10IsReliableEv"
+		},
+		{
+			"name": "CRecipientFilter::IsInitMessage() const",
+			"name_mangled": "_ZNK16CRecipientFilter13IsInitMessageEv"
+		},
+		{
+			"name": "CRecipientFilter::GetRecipientCount() const",
+			"name_mangled": "_ZNK16CRecipientFilter17GetRecipientCountEv"
+		},
+		{
+			"name": "CRecipientFilter::GetRecipientIndex(int) const",
+			"name_mangled": "_ZNK16CRecipientFilter17GetRecipientIndexEi"
+		}
+	]
+}

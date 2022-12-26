@@ -1,0 +1,202 @@
+{
+	"classname": "CSave",
+	"classname_mangled": "_ZTV5CSave",
+	"members": [
+		{
+			"name": "CSave::EndLogging()",
+			"name_mangled": "_ZN5CSave10EndLoggingEv"
+		},
+		{
+			"name": "CSave::IsAsync()",
+			"name_mangled": "_ZN5CSave7IsAsyncEv"
+		},
+		{
+			"name": "CSave::GetWritePos() const",
+			"name_mangled": "_ZNK5CSave11GetWritePosEv"
+		},
+		{
+			"name": "CSave::SetWritePos(int)",
+			"name_mangled": "_ZN5CSave11SetWritePosEi"
+		},
+		{
+			"name": "CSave::WriteAll(void const*, datamap_t*)",
+			"name_mangled": "_ZN5CSave8WriteAllEPKvP9datamap_t"
+		},
+		{
+			"name": "CSave::WriteFields(char const*, void const*, datamap_t*, typedescription_t*, int)",
+			"name_mangled": "_ZN5CSave11WriteFieldsEPKcPKvP9datamap_tP17typedescription_ti"
+		},
+		{
+			"name": "CSave::StartBlock(char const*)",
+			"name_mangled": "_ZN5CSave10StartBlockEPKc"
+		},
+		{
+			"name": "CSave::StartBlock()",
+			"name_mangled": "_ZN5CSave10StartBlockEv"
+		},
+		{
+			"name": "CSave::EndBlock()",
+			"name_mangled": "_ZN5CSave8EndBlockEv"
+		},
+		{
+			"name": "CSave::WriteShort(short const*, int)",
+			"name_mangled": "_ZN5CSave10WriteShortEPKsi"
+		},
+		{
+			"name": "CSave::WriteInt(int const*, int)",
+			"name_mangled": "_ZN5CSave8WriteIntEPKii"
+		},
+		{
+			"name": "CSave::WriteBool(bool const*, int)",
+			"name_mangled": "_ZN5CSave9WriteBoolEPKbi"
+		},
+		{
+			"name": "CSave::WriteFloat(float const*, int)",
+			"name_mangled": "_ZN5CSave10WriteFloatEPKfi"
+		},
+		{
+			"name": "CSave::WriteData(char const*, int)",
+			"name_mangled": "_ZN5CSave9WriteDataEPKci"
+		},
+		{
+			"name": "CSave::WriteString(char const*)",
+			"name_mangled": "_ZN5CSave11WriteStringEPKc"
+		},
+		{
+			"name": "CSave::WriteString(string_t const*, int)",
+			"name_mangled": "_ZN5CSave11WriteStringEPK8string_ti"
+		},
+		{
+			"name": "CSave::WriteVector(Vector const&)",
+			"name_mangled": "_ZN5CSave11WriteVectorERK6Vector"
+		},
+		{
+			"name": "CSave::WriteVector(Vector const*, int)",
+			"name_mangled": "_ZN5CSave11WriteVectorEPK6Vectori"
+		},
+		{
+			"name": "CSave::WriteQuaternion(Quaternion const&)",
+			"name_mangled": "_ZN5CSave15WriteQuaternionERK10Quaternion"
+		},
+		{
+			"name": "CSave::WriteQuaternion(Quaternion const*, int)",
+			"name_mangled": "_ZN5CSave15WriteQuaternionEPK10Quaternioni"
+		},
+		{
+			"name": "CSave::WriteShort(char const*, short const*, int)",
+			"name_mangled": "_ZN5CSave10WriteShortEPKcPKsi"
+		},
+		{
+			"name": "CSave::WriteInt(char const*, int const*, int)",
+			"name_mangled": "_ZN5CSave8WriteIntEPKcPKii"
+		},
+		{
+			"name": "CSave::WriteBool(char const*, bool const*, int)",
+			"name_mangled": "_ZN5CSave9WriteBoolEPKcPKbi"
+		},
+		{
+			"name": "CSave::WriteFloat(char const*, float const*, int)",
+			"name_mangled": "_ZN5CSave10WriteFloatEPKcPKfi"
+		},
+		{
+			"name": "CSave::WriteData(char const*, int, char const*)",
+			"name_mangled": "_ZN5CSave9WriteDataEPKciS1_"
+		},
+		{
+			"name": "CSave::WriteString(char const*, char const*)",
+			"name_mangled": "_ZN5CSave11WriteStringEPKcS1_"
+		},
+		{
+			"name": "CSave::WriteString(char const*, string_t const*, int)",
+			"name_mangled": "_ZN5CSave11WriteStringEPKcPK8string_ti"
+		},
+		{
+			"name": "CSave::WriteVector(char const*, Vector const&)",
+			"name_mangled": "_ZN5CSave11WriteVectorEPKcRK6Vector"
+		},
+		{
+			"name": "CSave::WriteVector(char const*, Vector const*, int)",
+			"name_mangled": "_ZN5CSave11WriteVectorEPKcPK6Vectori"
+		},
+		{
+			"name": "CSave::WriteQuaternion(char const*, Quaternion const&)",
+			"name_mangled": "_ZN5CSave15WriteQuaternionEPKcRK10Quaternion"
+		},
+		{
+			"name": "CSave::WriteQuaternion(char const*, Quaternion const*, int)",
+			"name_mangled": "_ZN5CSave15WriteQuaternionEPKcPK10Quaternioni"
+		},
+		{
+			"name": "CSave::WriteTime(char const*, float const*, int)",
+			"name_mangled": "_ZN5CSave9WriteTimeEPKcPKfi"
+		},
+		{
+			"name": "CSave::WriteTick(char const*, int const*, int)",
+			"name_mangled": "_ZN5CSave9WriteTickEPKcPKii"
+		},
+		{
+			"name": "CSave::WritePositionVector(char const*, Vector const&)",
+			"name_mangled": "_ZN5CSave19WritePositionVectorEPKcRK6Vector"
+		},
+		{
+			"name": "CSave::WritePositionVector(char const*, Vector const*, int)",
+			"name_mangled": "_ZN5CSave19WritePositionVectorEPKcPK6Vectori"
+		},
+		{
+			"name": "CSave::WriteFunction(datamap_t*, char const*, void (CBaseEntity::***)(inputdata_t&), int)",
+			"name_mangled": "_ZN5CSave13WriteFunctionEP9datamap_tPKcPPM11CBaseEntityFvR11inputdata_tEi"
+		},
+		{
+			"name": "CSave::WriteTime(float const*, int)",
+			"name_mangled": "_ZN5CSave9WriteTimeEPKfi"
+		},
+		{
+			"name": "CSave::WriteTick(int const*, int)",
+			"name_mangled": "_ZN5CSave9WriteTickEPKii"
+		},
+		{
+			"name": "CSave::WritePositionVector(Vector const&)",
+			"name_mangled": "_ZN5CSave19WritePositionVectorERK6Vector"
+		},
+		{
+			"name": "CSave::WritePositionVector(Vector const*, int)",
+			"name_mangled": "_ZN5CSave19WritePositionVectorEPK6Vectori"
+		},
+		{
+			"name": "CSave::WriteEntityPtr(char const*, CBaseEntity**, int)",
+			"name_mangled": "_ZN5CSave14WriteEntityPtrEPKcPP11CBaseEntityi"
+		},
+		{
+			"name": "CSave::WriteEdictPtr(char const*, edict_t**, int)",
+			"name_mangled": "_ZN5CSave13WriteEdictPtrEPKcPP7edict_ti"
+		},
+		{
+			"name": "CSave::WriteEHandle(char const*, CHandle<CBaseEntity> const*, int)",
+			"name_mangled": "_ZN5CSave12WriteEHandleEPKcPK7CHandleI11CBaseEntityEi"
+		},
+		{
+			"name": "CSave::WriteEntityPtr(CBaseEntity**, int)",
+			"name_mangled": "_ZN5CSave14WriteEntityPtrEPP11CBaseEntityi"
+		},
+		{
+			"name": "CSave::WriteEdictPtr(edict_t**, int)",
+			"name_mangled": "_ZN5CSave13WriteEdictPtrEPP7edict_ti"
+		},
+		{
+			"name": "CSave::WriteEHandle(CHandle<CBaseEntity> const*, int)",
+			"name_mangled": "_ZN5CSave12WriteEHandleEPK7CHandleI11CBaseEntityEi"
+		},
+		{
+			"name": "CSave::GetGameSaveRestoreInfo()",
+			"name_mangled": "_ZN5CSave22GetGameSaveRestoreInfoEv"
+		},
+		{
+			"name": "CSave::~CSave()",
+			"name_mangled": "_ZN5CSaveD1Ev"
+		},
+		{
+			"name": "CSave::~CSave()",
+			"name_mangled": "_ZN5CSaveD0Ev"
+		}
+	]
+}

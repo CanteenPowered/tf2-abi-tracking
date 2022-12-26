@@ -1,0 +1,10 @@
+{
+	"classname": "IServerReplay",
+	"classname_mangled": "_ZTV13IServerReplay",
+	"members": [
+		{
+			"name": "IServerReplay::~IServerReplay()",
+			"name_mangled": "_ZN13IServerReplayD0Ev"
+		}
+	]
+}

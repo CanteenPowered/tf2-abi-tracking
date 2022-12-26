@@ -1,0 +1,58 @@
+{
+	"classname": "CSchemaAttributeType_WorldItemPlacement",
+	"classname_mangled": "_ZTV39CSchemaAttributeType_WorldItemPlacement",
+	"members": [
+		{
+			"name": "CSchemaAttributeType_WorldItemPlacement::~CSchemaAttributeType_WorldItemPlacement()",
+			"name_mangled": "_ZN39CSchemaAttributeType_WorldItemPlacementD0Ev"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_WorldItemPlacement>::GetTypeUniqueIdentifier() const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI29CAttribute_WorldItemPlacementE23GetTypeUniqueIdentifierEv"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_WorldItemPlacement>::LoadEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI29CAttribute_WorldItemPlacementE22LoadEconAttributeValueEP9CEconItemPK28CEconItemAttributeDefinitionRK22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_WorldItemPlacement>::ConvertEconAttributeValueToByteStream(attribute_data_union_t const&, std::string*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI29CAttribute_WorldItemPlacementE37ConvertEconAttributeValueToByteStreamERK22attribute_data_union_tPSs"
+		},
+		{
+			"name": "CSchemaAttributeType_WorldItemPlacement::BConvertStringToEconAttributeValue(CEconItemAttributeDefinition const*, char const*, attribute_data_union_t*, bool) const",
+			"name_mangled": "_ZNK39CSchemaAttributeType_WorldItemPlacement34BConvertStringToEconAttributeValueEPK28CEconItemAttributeDefinitionPKcP22attribute_data_union_tb"
+		},
+		{
+			"name": "CSchemaAttributeType_WorldItemPlacement::ConvertEconAttributeValueToString(CEconItemAttributeDefinition const*, attribute_data_union_t const&, std::string*) const",
+			"name_mangled": "_ZNK39CSchemaAttributeType_WorldItemPlacement33ConvertEconAttributeValueToStringEPK28CEconItemAttributeDefinitionRK22attribute_data_union_tPSs"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_WorldItemPlacement>::LoadByteStreamToEconAttributeValue(CEconItem*, CEconItemAttributeDefinition const*, std::string const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI29CAttribute_WorldItemPlacementE34LoadByteStreamToEconAttributeValueEP9CEconItemPK28CEconItemAttributeDefinitionRKSs"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_WorldItemPlacement>::InitializeNewEconAttributeValue(attribute_data_union_t*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI29CAttribute_WorldItemPlacementE31InitializeNewEconAttributeValueEP22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_WorldItemPlacement>::UnloadEconAttributeValue(attribute_data_union_t*) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI29CAttribute_WorldItemPlacementE24UnloadEconAttributeValueEP22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeTypeBase<CAttribute_WorldItemPlacement>::OnIterateAttributeValue(IEconItemAttributeIterator*, CEconItemAttributeDefinition const*, attribute_data_union_t const&) const",
+			"name_mangled": "_ZNK24ISchemaAttributeTypeBaseI29CAttribute_WorldItemPlacementE23OnIterateAttributeValueEP26IEconItemAttributeIteratorPK28CEconItemAttributeDefinitionRK22attribute_data_union_t"
+		},
+		{
+			"name": "ISchemaAttributeType::BSupportsGameplayModificationAndNetworking() const",
+			"name_mangled": "_ZNK20ISchemaAttributeType42BSupportsGameplayModificationAndNetworkingEv"
+		},
+		{
+			"name": "CSchemaAttributeTypeProtobufBase<CAttribute_WorldItemPlacement>::ConvertTypedValueToByteStream(CAttribute_WorldItemPlacement const&, std::string*) const",
+			"name_mangled": "_ZNK32CSchemaAttributeTypeProtobufBaseI29CAttribute_WorldItemPlacementE29ConvertTypedValueToByteStreamERKS0_PSs"
+		},
+		{
+			"name": "CSchemaAttributeTypeProtobufBase<CAttribute_WorldItemPlacement>::ConvertByteStreamToTypedValue(std::string const&, CAttribute_WorldItemPlacement*) const",
+			"name_mangled": "_ZNK32CSchemaAttributeTypeProtobufBaseI29CAttribute_WorldItemPlacementE29ConvertByteStreamToTypedValueERKSsPS0_"
+		}
+	]
+}

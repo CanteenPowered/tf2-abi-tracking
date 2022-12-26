@@ -1,0 +1,30 @@
+{
+	"classname": "CTEShowLine",
+	"classname_mangled": "_ZTV11CTEShowLine",
+	"members": [
+		{
+			"name": "CTEShowLine::YouForgotToImplementOrDeclareServerClass()",
+			"name_mangled": "_ZN11CTEShowLine40YouForgotToImplementOrDeclareServerClassEv"
+		},
+		{
+			"name": "CTEShowLine::~CTEShowLine()",
+			"name_mangled": "_ZN11CTEShowLineD1Ev"
+		},
+		{
+			"name": "CTEShowLine::~CTEShowLine()",
+			"name_mangled": "_ZN11CTEShowLineD0Ev"
+		},
+		{
+			"name": "CTEShowLine::Test(Vector const&, QAngle const&)",
+			"name_mangled": "_ZN11CTEShowLine4TestERK6VectorRK6QAngle"
+		},
+		{
+			"name": "CBaseTempEntity::Create(IRecipientFilter&, float)",
+			"name_mangled": "_ZN15CBaseTempEntity6CreateER16IRecipientFilterf"
+		},
+		{
+			"name": "CBaseTempEntity::Precache()",
+			"name_mangled": "_ZN15CBaseTempEntity8PrecacheEv"
+		}
+	]
+}

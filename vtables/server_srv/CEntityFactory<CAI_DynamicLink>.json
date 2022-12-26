@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CAI_DynamicLink>",
+	"classname_mangled": "_ZTV14CEntityFactoryI15CAI_DynamicLinkE",
+	"members": [
+		{
+			"name": "CEntityFactory<CAI_DynamicLink>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI15CAI_DynamicLinkE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CAI_DynamicLink>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI15CAI_DynamicLinkE13GetEntitySizeEv"
+		}
+	]
+}

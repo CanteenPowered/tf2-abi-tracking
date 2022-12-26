@@ -1,0 +1,18 @@
+{
+	"classname": "snappy::UncheckedByteArraySink",
+	"classname_mangled": "_ZTVN6snappy22UncheckedByteArraySinkE",
+	"members": [
+		{
+			"name": "snappy::UncheckedByteArraySink::~UncheckedByteArraySink()",
+			"name_mangled": "_ZN6snappy22UncheckedByteArraySinkD0Ev"
+		},
+		{
+			"name": "snappy::UncheckedByteArraySink::Append(char const*, unsigned int)",
+			"name_mangled": "_ZN6snappy22UncheckedByteArraySink6AppendEPKcj"
+		},
+		{
+			"name": "snappy::UncheckedByteArraySink::GetAppendBuffer(unsigned int, char*)",
+			"name_mangled": "_ZN6snappy22UncheckedByteArraySink15GetAppendBufferEjPc"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"classname": "IProtoBufScriptObjectDefinition",
+	"classname_mangled": "_ZTV31IProtoBufScriptObjectDefinition",
+	"members": [
+		{
+			"name": "IProtoBufScriptObjectDefinition::~IProtoBufScriptObjectDefinition()",
+			"name_mangled": "_ZN31IProtoBufScriptObjectDefinitionD0Ev"
+		}
+	]
+}

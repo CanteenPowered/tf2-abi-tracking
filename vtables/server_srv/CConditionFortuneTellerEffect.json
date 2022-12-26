@@ -1,0 +1,14 @@
+{
+	"classname": "CConditionFortuneTellerEffect",
+	"classname_mangled": "_ZTV29CConditionFortuneTellerEffect",
+	"members": [
+		{
+			"name": "CConditionFortuneTellerEffect::~CConditionFortuneTellerEffect()",
+			"name_mangled": "_ZN29CConditionFortuneTellerEffectD0Ev"
+		},
+		{
+			"name": "CConditionFortuneTellerEffect::FireGameEvent(IGameEvent*)",
+			"name_mangled": "_ZN29CConditionFortuneTellerEffect13FireGameEventEP10IGameEvent"
+		}
+	]
+}

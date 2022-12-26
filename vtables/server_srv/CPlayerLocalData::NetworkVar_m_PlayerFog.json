@@ -1,0 +1,10 @@
+{
+	"classname": "CPlayerLocalData::NetworkVar_m_PlayerFog",
+	"classname_mangled": "_ZTVN16CPlayerLocalData22NetworkVar_m_PlayerFogE",
+	"members": [
+		{
+			"name": "CPlayerLocalData::NetworkVar_m_PlayerFog::NetworkStateChanged(void*)",
+			"name_mangled": "_ZN16CPlayerLocalData22NetworkVar_m_PlayerFog19NetworkStateChangedEPv"
+		}
+	]
+}

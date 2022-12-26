@@ -1,0 +1,78 @@
+{
+	"classname": "CEmptyConVar",
+	"classname_mangled": "_ZTV12CEmptyConVar",
+	"members": [
+		{
+			"name": "CEmptyConVar::~CEmptyConVar()",
+			"name_mangled": "_ZN12CEmptyConVarD0Ev"
+		},
+		{
+			"name": "ConVar::IsCommand() const",
+			"name_mangled": "_ZNK6ConVar9IsCommandEv"
+		},
+		{
+			"name": "CEmptyConVar::IsFlagSet(int) const",
+			"name_mangled": "_ZNK12CEmptyConVar9IsFlagSetEi"
+		},
+		{
+			"name": "ConVar::AddFlags(int)",
+			"name_mangled": "_ZN6ConVar8AddFlagsEi"
+		},
+		{
+			"name": "CEmptyConVar::GetName() const",
+			"name_mangled": "_ZNK12CEmptyConVar7GetNameEv"
+		},
+		{
+			"name": "ConVar::GetHelpText() const",
+			"name_mangled": "_ZNK6ConVar11GetHelpTextEv"
+		},
+		{
+			"name": "ConVar::IsRegistered() const",
+			"name_mangled": "_ZNK6ConVar12IsRegisteredEv"
+		},
+		{
+			"name": "ConCommandBase::GetDLLIdentifier() const",
+			"name_mangled": "_ZNK14ConCommandBase16GetDLLIdentifierEv"
+		},
+		{
+			"name": "ConCommandBase::CreateBase(char const*, char const*, int)",
+			"name_mangled": "_ZN14ConCommandBase10CreateBaseEPKcS1_i"
+		},
+		{
+			"name": "ConVar::Init()",
+			"name_mangled": "_ZN6ConVar4InitEv"
+		},
+		{
+			"name": "CEmptyConVar::SetValue(char const*)",
+			"name_mangled": "_ZN12CEmptyConVar8SetValueEPKc"
+		},
+		{
+			"name": "CEmptyConVar::SetValue(float)",
+			"name_mangled": "_ZN12CEmptyConVar8SetValueEf"
+		},
+		{
+			"name": "CEmptyConVar::SetValue(int)",
+			"name_mangled": "_ZN12CEmptyConVar8SetValueEi"
+		},
+		{
+			"name": "ConVar::InternalSetValue(char const*)",
+			"name_mangled": "_ZN6ConVar16InternalSetValueEPKc"
+		},
+		{
+			"name": "ConVar::InternalSetFloatValue(float, bool)",
+			"name_mangled": "_ZN6ConVar21InternalSetFloatValueEfb"
+		},
+		{
+			"name": "ConVar::InternalSetIntValue(int)",
+			"name_mangled": "_ZN6ConVar19InternalSetIntValueEi"
+		},
+		{
+			"name": "ConVar::ClampValue(float&)",
+			"name_mangled": "_ZN6ConVar10ClampValueERf"
+		},
+		{
+			"name": "ConVar::ChangeStringValue(char const*, float)",
+			"name_mangled": "_ZN6ConVar17ChangeStringValueEPKcf"
+		}
+	]
+}

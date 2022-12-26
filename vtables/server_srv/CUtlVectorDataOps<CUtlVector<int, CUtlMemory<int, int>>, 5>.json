@@ -1,0 +1,22 @@
+{
+	"classname": "CUtlVectorDataOps<CUtlVector<int, CUtlMemory<int, int>>, 5>",
+	"classname_mangled": "_ZTV17CUtlVectorDataOpsI10CUtlVectorIi10CUtlMemoryIiiEELi5EE",
+	"members": [
+		{
+			"name": "CUtlVectorDataOps<CUtlVector<int, CUtlMemory<int, int>>, 5>::Restore(SaveRestoreFieldInfo_t const&, IRestore*)",
+			"name_mangled": "_ZN17CUtlVectorDataOpsI10CUtlVectorIi10CUtlMemoryIiiEELi5EE7RestoreERK22SaveRestoreFieldInfo_tP8IRestore"
+		},
+		{
+			"name": "CUtlVectorDataOps<CUtlVector<int, CUtlMemory<int, int>>, 5>::IsEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN17CUtlVectorDataOpsI10CUtlVectorIi10CUtlMemoryIiiEELi5EE7IsEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CUtlVectorDataOps<CUtlVector<int, CUtlMemory<int, int>>, 5>::MakeEmpty(SaveRestoreFieldInfo_t const&)",
+			"name_mangled": "_ZN17CUtlVectorDataOpsI10CUtlVectorIi10CUtlMemoryIiiEELi5EE9MakeEmptyERK22SaveRestoreFieldInfo_t"
+		},
+		{
+			"name": "CDefSaveRestoreOps::Parse(SaveRestoreFieldInfo_t const&, char const*)",
+			"name_mangled": "_ZN18CDefSaveRestoreOps5ParseERK22SaveRestoreFieldInfo_tPKc"
+		}
+	]
+}

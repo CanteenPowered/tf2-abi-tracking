@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CBonusDuckPickup>",
+	"classname_mangled": "_ZTV14CEntityFactoryI16CBonusDuckPickupE",
+	"members": [
+		{
+			"name": "CEntityFactory<CBonusDuckPickup>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI16CBonusDuckPickupE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CBonusDuckPickup>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI16CBonusDuckPickupE13GetEntitySizeEv"
+		}
+	]
+}

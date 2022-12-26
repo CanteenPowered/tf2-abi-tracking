@@ -1,0 +1,14 @@
+{
+	"classname": "CEntityFactory<CPrecipitation>",
+	"classname_mangled": "_ZTV14CEntityFactoryI14CPrecipitationE",
+	"members": [
+		{
+			"name": "CEntityFactory<CPrecipitation>::Destroy(IServerNetworkable*)",
+			"name_mangled": "_ZN14CEntityFactoryI14CPrecipitationE7DestroyEP18IServerNetworkable"
+		},
+		{
+			"name": "CEntityFactory<CPrecipitation>::GetEntitySize()",
+			"name_mangled": "_ZN14CEntityFactoryI14CPrecipitationE13GetEntitySizeEv"
+		}
+	]
+}
