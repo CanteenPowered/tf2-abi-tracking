@@ -3,24 +3,28 @@
 	"classname_mangled": "_ZTVN6google8protobuf2io18IstreamInputStreamE",
 	"members": [
 		{
-			"name": "google::protobuf::io::IstreamInputStream::~IstreamInputStream()",
-			"name_mangled": "_ZN6google8protobuf2io18IstreamInputStreamD0Ev"
+			"name": "CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)",
+			"name_mangled": "_ZN8CryptoPP6Filter6DetachEPNS_22BufferedTransformationE"
 		},
 		{
-			"name": "google::protobuf::io::IstreamInputStream::Next(void const**, int*)",
-			"name_mangled": "_ZN6google8protobuf2io18IstreamInputStream4NextEPPKvPi"
+			"name": "CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation6AttachEPS0_"
 		},
 		{
-			"name": "google::protobuf::io::IstreamInputStream::BackUp(int)",
-			"name_mangled": "_ZN6google8protobuf2io18IstreamInputStream6BackUpEi"
+			"name": "CryptoPP::Filter::NewDefaultAttachment() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter20NewDefaultAttachmentEv"
 		},
 		{
-			"name": "google::protobuf::io::IstreamInputStream::Skip(int)",
-			"name_mangled": "_ZN6google8protobuf2io18IstreamInputStream4SkipEi"
+			"name": "CryptoPP::Filter::ShouldPropagateMessageEnd() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter25ShouldPropagateMessageEndEv"
 		},
 		{
-			"name": "google::protobuf::io::IstreamInputStream::ByteCount() const",
-			"name_mangled": "_ZNK6google8protobuf2io18IstreamInputStream9ByteCountEv"
+			"name": "CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter31ShouldPropagateMessageSeriesEndEv"
+		},
+		{
+			"name": "CryptoPP::Unflushable<CryptoPP::Filter>::InputBufferIsEmpty() const",
+			"name_mangled": "_ZNK8CryptoPP11UnflushableINS_6FilterEE18InputBufferIsEmptyEv"
 		}
 	]
 }

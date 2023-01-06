@@ -1,14 +1,5 @@
 {
 	"classname": "google::protobuf::DynamicMessageFactory",
 	"classname_mangled": "_ZTVN6google8protobuf21DynamicMessageFactoryE",
-	"members": [
-		{
-			"name": "google::protobuf::DynamicMessageFactory::~DynamicMessageFactory()",
-			"name_mangled": "_ZN6google8protobuf21DynamicMessageFactoryD0Ev"
-		},
-		{
-			"name": "google::protobuf::DynamicMessageFactory::GetPrototype(google::protobuf::Descriptor const*)",
-			"name_mangled": "_ZN6google8protobuf21DynamicMessageFactory12GetPrototypeEPKNS0_10DescriptorE"
-		}
-	]
+	"members": []
 }

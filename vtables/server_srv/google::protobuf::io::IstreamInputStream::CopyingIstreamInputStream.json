@@ -3,16 +3,20 @@
 	"classname_mangled": "_ZTVN6google8protobuf2io18IstreamInputStream25CopyingIstreamInputStreamE",
 	"members": [
 		{
-			"name": "google::protobuf::io::IstreamInputStream::CopyingIstreamInputStream::~CopyingIstreamInputStream()",
-			"name_mangled": "_ZN6google8protobuf2io18IstreamInputStream25CopyingIstreamInputStreamD0Ev"
+			"name": "non-virtual thunk to CryptoPP::BaseN_Encoder::~BaseN_Encoder()",
+			"name_mangled": "_ZThn4_N8CryptoPP13BaseN_EncoderD1Ev"
 		},
 		{
-			"name": "google::protobuf::io::IstreamInputStream::CopyingIstreamInputStream::Read(void*, int)",
-			"name_mangled": "_ZN6google8protobuf2io18IstreamInputStream25CopyingIstreamInputStream4ReadEPvi"
+			"name": "non-virtual thunk to CryptoPP::BaseN_Encoder::~BaseN_Encoder()",
+			"name_mangled": "_ZThn4_N8CryptoPP13BaseN_EncoderD0Ev"
 		},
 		{
-			"name": "google::protobuf::io::CopyingInputStream::Skip(int)",
-			"name_mangled": "_ZN6google8protobuf2io18CopyingInputStream4SkipEi"
+			"name": "non-virtual thunk to CryptoPP::BufferedTransformation::GetMaxWaitObjectCount() const",
+			"name_mangled": "_ZThn4_NK8CryptoPP22BufferedTransformation21GetMaxWaitObjectCountEv"
+		},
+		{
+			"name": "non-virtual thunk to CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)",
+			"name_mangled": "_ZThn4_N8CryptoPP22BufferedTransformation14GetWaitObjectsERNS_19WaitObjectContainerERKNS_9CallStackE"
 		}
 	]
 }

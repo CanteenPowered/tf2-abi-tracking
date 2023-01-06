@@ -1,10 +1,5 @@
 {
 	"classname": "google::protobuf::io::ErrorCollector",
 	"classname_mangled": "_ZTVN6google8protobuf2io14ErrorCollectorE",
-	"members": [
-		{
-			"name": "google::protobuf::io::ErrorCollector::~ErrorCollector()",
-			"name_mangled": "_ZN6google8protobuf2io14ErrorCollectorD0Ev"
-		}
-	]
+	"members": []
 }

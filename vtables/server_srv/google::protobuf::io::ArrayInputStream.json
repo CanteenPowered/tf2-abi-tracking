@@ -1,26 +1,5 @@
 {
 	"classname": "google::protobuf::io::ArrayInputStream",
 	"classname_mangled": "_ZTVN6google8protobuf2io16ArrayInputStreamE",
-	"members": [
-		{
-			"name": "google::protobuf::io::ArrayInputStream::~ArrayInputStream()",
-			"name_mangled": "_ZN6google8protobuf2io16ArrayInputStreamD0Ev"
-		},
-		{
-			"name": "google::protobuf::io::ArrayInputStream::Next(void const**, int*)",
-			"name_mangled": "_ZN6google8protobuf2io16ArrayInputStream4NextEPPKvPi"
-		},
-		{
-			"name": "google::protobuf::io::ArrayInputStream::BackUp(int)",
-			"name_mangled": "_ZN6google8protobuf2io16ArrayInputStream6BackUpEi"
-		},
-		{
-			"name": "google::protobuf::io::ArrayInputStream::Skip(int)",
-			"name_mangled": "_ZN6google8protobuf2io16ArrayInputStream4SkipEi"
-		},
-		{
-			"name": "google::protobuf::io::ArrayInputStream::ByteCount() const",
-			"name_mangled": "_ZNK6google8protobuf2io16ArrayInputStream9ByteCountEv"
-		}
-	]
+	"members": []
 }

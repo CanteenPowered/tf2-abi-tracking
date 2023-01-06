@@ -3,12 +3,20 @@
 	"classname_mangled": "_ZTVN6google8protobuf8internal29DescriptorPoolExtensionFinderE",
 	"members": [
 		{
-			"name": "google::protobuf::internal::DescriptorPoolExtensionFinder::~DescriptorPoolExtensionFinder()",
-			"name_mangled": "_ZN6google8protobuf8internal29DescriptorPoolExtensionFinderD0Ev"
+			"name": "CryptoPP::Clonable::Clone() const",
+			"name_mangled": "_ZNK8CryptoPP8Clonable5CloneEv"
 		},
 		{
-			"name": "google::protobuf::internal::DescriptorPoolExtensionFinder::Find(int, google::protobuf::internal::ExtensionInfo*)",
-			"name_mangled": "_ZN6google8protobuf8internal29DescriptorPoolExtensionFinder4FindEiPNS1_13ExtensionInfoE"
+			"name": "CryptoPP::Algorithm::AlgorithmName() const",
+			"name_mangled": "_ZNK8CryptoPP9Algorithm13AlgorithmNameEv"
+		},
+		{
+			"name": "CryptoPP::PrivateKeyAlgorithm::AccessMaterial()",
+			"name_mangled": "_ZN8CryptoPP19PrivateKeyAlgorithm14AccessMaterialEv"
+		},
+		{
+			"name": "CryptoPP::PrivateKeyAlgorithm::GetMaterial() const",
+			"name_mangled": "_ZNK8CryptoPP19PrivateKeyAlgorithm11GetMaterialEv"
 		}
 	]
 }

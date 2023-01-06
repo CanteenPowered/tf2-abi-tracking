@@ -3,80 +3,40 @@
 	"classname_mangled": "_ZTVN6google8protobuf14ServiceOptionsE",
 	"members": [
 		{
-			"name": "google::protobuf::ServiceOptions::~ServiceOptions()",
-			"name_mangled": "_ZN6google8protobuf14ServiceOptionsD0Ev"
+			"name": "CryptoPP::ClassNullRNG::AlgorithmName() const",
+			"name_mangled": "_ZNK8CryptoPP12ClassNullRNG13AlgorithmNameEv"
 		},
 		{
-			"name": "google::protobuf::Message::GetTypeName() const",
-			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+			"name": "CryptoPP::RandomNumberGenerator::IncorporateEntropy(unsigned char const*, unsigned int)",
+			"name_mangled": "_ZN8CryptoPP21RandomNumberGenerator18IncorporateEntropyEPKhj"
 		},
 		{
-			"name": "google::protobuf::ServiceOptions::New() const",
-			"name_mangled": "_ZNK6google8protobuf14ServiceOptions3NewEv"
+			"name": "CryptoPP::RandomNumberGenerator::CanIncorporateEntropy() const",
+			"name_mangled": "_ZNK8CryptoPP21RandomNumberGenerator21CanIncorporateEntropyEv"
 		},
 		{
-			"name": "google::protobuf::ServiceOptions::Clear()",
-			"name_mangled": "_ZN6google8protobuf14ServiceOptions5ClearEv"
+			"name": "CryptoPP::RandomNumberGenerator::GenerateByte()",
+			"name_mangled": "_ZN8CryptoPP21RandomNumberGenerator12GenerateByteEv"
 		},
 		{
-			"name": "google::protobuf::ServiceOptions::IsInitialized() const",
-			"name_mangled": "_ZNK6google8protobuf14ServiceOptions13IsInitializedEv"
+			"name": "CryptoPP::RandomNumberGenerator::GenerateBit()",
+			"name_mangled": "_ZN8CryptoPP21RandomNumberGenerator11GenerateBitEv"
 		},
 		{
-			"name": "google::protobuf::Message::InitializationErrorString() const",
-			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+			"name": "CryptoPP::RandomNumberGenerator::GenerateWord32(unsigned int, unsigned int)",
+			"name_mangled": "_ZN8CryptoPP21RandomNumberGenerator14GenerateWord32Ejj"
 		},
 		{
-			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
-			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+			"name": "CryptoPP::ClassNullRNG::GenerateBlock(unsigned char*, unsigned int)",
+			"name_mangled": "_ZN8CryptoPP12ClassNullRNG13GenerateBlockEPhj"
 		},
 		{
-			"name": "google::protobuf::ServiceOptions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
-			"name_mangled": "_ZN6google8protobuf14ServiceOptions27MergePartialFromCodedStreamEPNS0_2io16CodedInputStreamE"
+			"name": "CryptoPP::RandomNumberGenerator::GenerateIntoBufferedTransformation(CryptoPP::BufferedTransformation&, std::string const&, unsigned long long)",
+			"name_mangled": "_ZN8CryptoPP21RandomNumberGenerator34GenerateIntoBufferedTransformationERNS_22BufferedTransformationERKSsy"
 		},
 		{
-			"name": "google::protobuf::ServiceOptions::ByteSize() const",
-			"name_mangled": "_ZNK6google8protobuf14ServiceOptions8ByteSizeEv"
-		},
-		{
-			"name": "google::protobuf::ServiceOptions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
-			"name_mangled": "_ZNK6google8protobuf14ServiceOptions24SerializeWithCachedSizesEPNS0_2io17CodedOutputStreamE"
-		},
-		{
-			"name": "google::protobuf::ServiceOptions::SerializeWithCachedSizesToArray(unsigned char*) const",
-			"name_mangled": "_ZNK6google8protobuf14ServiceOptions31SerializeWithCachedSizesToArrayEPh"
-		},
-		{
-			"name": "google::protobuf::ServiceOptions::GetCachedSize() const",
-			"name_mangled": "_ZNK6google8protobuf14ServiceOptions13GetCachedSizeEv"
-		},
-		{
-			"name": "google::protobuf::ServiceOptions::CopyFrom(google::protobuf::Message const&)",
-			"name_mangled": "_ZN6google8protobuf14ServiceOptions8CopyFromERKNS0_7MessageE"
-		},
-		{
-			"name": "google::protobuf::ServiceOptions::MergeFrom(google::protobuf::Message const&)",
-			"name_mangled": "_ZN6google8protobuf14ServiceOptions9MergeFromERKNS0_7MessageE"
-		},
-		{
-			"name": "google::protobuf::Message::DiscardUnknownFields()",
-			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
-		},
-		{
-			"name": "google::protobuf::Message::SpaceUsed() const",
-			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
-		},
-		{
-			"name": "google::protobuf::ServiceOptions::SetCachedSize(int) const",
-			"name_mangled": "_ZNK6google8protobuf14ServiceOptions13SetCachedSizeEi"
-		},
-		{
-			"name": "google::protobuf::Message::GetReflection() const",
-			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
-		},
-		{
-			"name": "google::protobuf::ServiceOptions::GetMetadata() const",
-			"name_mangled": "_ZNK6google8protobuf14ServiceOptions11GetMetadataEv"
+			"name": "CryptoPP::RandomNumberGenerator::DiscardBytes(unsigned int)",
+			"name_mangled": "_ZN8CryptoPP21RandomNumberGenerator12DiscardBytesEj"
 		}
 	]
 }

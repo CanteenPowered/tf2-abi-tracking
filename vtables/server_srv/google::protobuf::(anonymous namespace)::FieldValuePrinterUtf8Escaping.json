@@ -3,60 +3,140 @@
 	"classname_mangled": "_ZTVN6google8protobuf12_GLOBAL__N_129FieldValuePrinterUtf8EscapingE",
 	"members": [
 		{
-			"name": "google::protobuf::(anonymous namespace)::FieldValuePrinterUtf8Escaping::~FieldValuePrinterUtf8Escaping()",
-			"name_mangled": "_ZN6google8protobuf12_GLOBAL__N_129FieldValuePrinterUtf8EscapingD0Ev"
+			"name": "CryptoPP::BufferedTransformation::GetAutoSignalPropagation() const",
+			"name_mangled": "_ZNK8CryptoPP22BufferedTransformation24GetAutoSignalPropagationEv"
 		},
 		{
-			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintBool(bool) const",
-			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter9PrintBoolEb"
+			"name": "CryptoPP::BufferedTransformation::MaxRetrievable() const",
+			"name_mangled": "_ZNK8CryptoPP22BufferedTransformation14MaxRetrievableEv"
 		},
 		{
-			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintInt32(int) const",
-			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter10PrintInt32Ei"
+			"name": "CryptoPP::BufferedTransformation::AnyRetrievable() const",
+			"name_mangled": "_ZNK8CryptoPP22BufferedTransformation14AnyRetrievableEv"
 		},
 		{
-			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintUInt32(unsigned int) const",
-			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter11PrintUInt32Ej"
+			"name": "CryptoPP::BufferedTransformation::Get(unsigned char&)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation3GetERh"
 		},
 		{
-			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintInt64(long long) const",
-			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter10PrintInt64Ex"
+			"name": "CryptoPP::BufferedTransformation::Get(unsigned char*, unsigned int)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation3GetEPhj"
 		},
 		{
-			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintUInt64(unsigned long long) const",
-			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter11PrintUInt64Ey"
+			"name": "CryptoPP::BufferedTransformation::Peek(unsigned char&) const",
+			"name_mangled": "_ZNK8CryptoPP22BufferedTransformation4PeekERh"
 		},
 		{
-			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintFloat(float) const",
-			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter10PrintFloatEf"
+			"name": "CryptoPP::BufferedTransformation::Peek(unsigned char*, unsigned int) const",
+			"name_mangled": "_ZNK8CryptoPP22BufferedTransformation4PeekEPhj"
 		},
 		{
-			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintDouble(double) const",
-			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter11PrintDoubleEd"
+			"name": "CryptoPP::BufferedTransformation::Skip(unsigned long long)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation4SkipEy"
 		},
 		{
-			"name": "google::protobuf::(anonymous namespace)::FieldValuePrinterUtf8Escaping::PrintString(std::string const&) const",
-			"name_mangled": "_ZNK6google8protobuf12_GLOBAL__N_129FieldValuePrinterUtf8Escaping11PrintStringERKSs"
+			"name": "CryptoPP::BufferedTransformation::TotalBytesRetrievable() const",
+			"name_mangled": "_ZNK8CryptoPP22BufferedTransformation21TotalBytesRetrievableEv"
 		},
 		{
-			"name": "google::protobuf::(anonymous namespace)::FieldValuePrinterUtf8Escaping::PrintBytes(std::string const&) const",
-			"name_mangled": "_ZNK6google8protobuf12_GLOBAL__N_129FieldValuePrinterUtf8Escaping10PrintBytesERKSs"
+			"name": "CryptoPP::BufferedTransformation::NumberOfMessages() const",
+			"name_mangled": "_ZNK8CryptoPP22BufferedTransformation16NumberOfMessagesEv"
 		},
 		{
-			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintEnum(int, std::string const&) const",
-			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter9PrintEnumEiRKSs"
+			"name": "CryptoPP::BufferedTransformation::AnyMessages() const",
+			"name_mangled": "_ZNK8CryptoPP22BufferedTransformation11AnyMessagesEv"
 		},
 		{
-			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintFieldName(google::protobuf::Message const&, google::protobuf::Reflection const*, google::protobuf::FieldDescriptor const*) const",
-			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter14PrintFieldNameERKNS0_7MessageEPKNS0_10ReflectionEPKNS0_15FieldDescriptorE"
+			"name": "CryptoPP::BufferedTransformation::GetNextMessage()",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation14GetNextMessageEv"
 		},
 		{
-			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintMessageStart(google::protobuf::Message const&, int, int, bool) const",
-			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter17PrintMessageStartERKNS0_7MessageEiib"
+			"name": "CryptoPP::BufferedTransformation::SkipMessages(unsigned int)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation12SkipMessagesEj"
 		},
 		{
-			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintMessageEnd(google::protobuf::Message const&, int, int, bool) const",
-			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter15PrintMessageEndERKNS0_7MessageEiib"
+			"name": "CryptoPP::BufferedTransformation::SkipAll()",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation7SkipAllEv"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::GetNextMessageSeries()",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation20GetNextMessageSeriesEv"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const",
+			"name_mangled": "_ZNK8CryptoPP22BufferedTransformation28NumberOfMessagesInThisSeriesEv"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::NumberOfMessageSeries() const",
+			"name_mangled": "_ZNK8CryptoPP22BufferedTransformation21NumberOfMessageSeriesEv"
+		},
+		{
+			"name": "CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)",
+			"name_mangled": "_ZN8CryptoPP6Filter11TransferTo2ERNS_22BufferedTransformationERyRKSsb"
+		},
+		{
+			"name": "CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const",
+			"name_mangled": "_ZNK8CryptoPP6Filter12CopyRangeTo2ERNS_22BufferedTransformationERyyRKSsb"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation21ChannelCreatePutSpaceERKSsRj"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation11ChannelPut2ERKSsPKhjib"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation21ChannelPutModifiable2ERKSsPhjib"
+		},
+		{
+			"name": "CryptoPP::Unflushable<CryptoPP::Filter>::ChannelFlush(std::string const&, bool, int, bool)",
+			"name_mangled": "_ZN8CryptoPP11UnflushableINS_6FilterEE12ChannelFlushERKSsbib"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation23ChannelMessageSeriesEndERKSsib"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation19SetRetrievalChannelERKSs"
+		},
+		{
+			"name": "CryptoPP::Filter::Attachable()",
+			"name_mangled": "_ZN8CryptoPP6Filter10AttachableEv"
+		},
+		{
+			"name": "CryptoPP::Filter::AttachedTransformation()",
+			"name_mangled": "_ZN8CryptoPP6Filter22AttachedTransformationEv"
+		},
+		{
+			"name": "CryptoPP::Filter::AttachedTransformation() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter22AttachedTransformationEv"
+		},
+		{
+			"name": "CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)",
+			"name_mangled": "_ZN8CryptoPP6Filter6DetachEPNS_22BufferedTransformationE"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation6AttachEPS0_"
+		},
+		{
+			"name": "CryptoPP::Filter::NewDefaultAttachment() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter20NewDefaultAttachmentEv"
+		},
+		{
+			"name": "CryptoPP::Filter::ShouldPropagateMessageEnd() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter25ShouldPropagateMessageEndEv"
+		},
+		{
+			"name": "CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter31ShouldPropagateMessageSeriesEndEv"
+		},
+		{
+			"name": "CryptoPP::Unflushable<CryptoPP::Filter>::InputBufferIsEmpty() const",
+			"name_mangled": "_ZNK8CryptoPP11UnflushableINS_6FilterEE18InputBufferIsEmptyEv"
 		}
 	]
 }

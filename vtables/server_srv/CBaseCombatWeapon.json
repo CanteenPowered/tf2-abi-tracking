@@ -1537,6 +1537,10 @@
 		{
 			"name": "CBaseCombatWeapon::GetNextSecondaryAttackDelay()",
 			"name_mangled": "_ZN17CBaseCombatWeapon27GetNextSecondaryAttackDelayEv"
+		},
+		{
+			"name": "CBaseCombatWeapon::UsesCenterFireProjectile() const",
+			"name_mangled": "_ZNK17CBaseCombatWeapon24UsesCenterFireProjectileEv"
 		}
 	]
 }

@@ -1,14 +1,5 @@
 {
 	"classname": "google::protobuf::FatalException",
 	"classname_mangled": "_ZTVN6google8protobuf14FatalExceptionE",
-	"members": [
-		{
-			"name": "google::protobuf::FatalException::~FatalException()",
-			"name_mangled": "_ZN6google8protobuf14FatalExceptionD0Ev"
-		},
-		{
-			"name": "google::protobuf::FatalException::what() const",
-			"name_mangled": "_ZNK6google8protobuf14FatalException4whatEv"
-		}
-	]
+	"members": []
 }

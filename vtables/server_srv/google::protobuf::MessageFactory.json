@@ -3,8 +3,68 @@
 	"classname_mangled": "_ZTVN6google8protobuf14MessageFactoryE",
 	"members": [
 		{
-			"name": "google::protobuf::MessageFactory::~MessageFactory()",
-			"name_mangled": "_ZN6google8protobuf14MessageFactoryD0Ev"
+			"name": "CryptoPP::Filter::AttachedTransformation()",
+			"name_mangled": "_ZN8CryptoPP6Filter22AttachedTransformationEv"
+		},
+		{
+			"name": "CryptoPP::Filter::AttachedTransformation() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter22AttachedTransformationEv"
+		},
+		{
+			"name": "CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)",
+			"name_mangled": "_ZN8CryptoPP6Filter6DetachEPNS_22BufferedTransformationE"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation6AttachEPS0_"
+		},
+		{
+			"name": "CryptoPP::Filter::NewDefaultAttachment() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter20NewDefaultAttachmentEv"
+		},
+		{
+			"name": "CryptoPP::Filter::ShouldPropagateMessageEnd() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter25ShouldPropagateMessageEndEv"
+		},
+		{
+			"name": "CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter31ShouldPropagateMessageSeriesEndEv"
+		},
+		{
+			"name": "CryptoPP::FilterWithBufferedInput::InitializeDerivedAndReturnNewSizes(CryptoPP::NameValuePairs const&, unsigned int&, unsigned int&, unsigned int&)",
+			"name_mangled": "_ZN8CryptoPP23FilterWithBufferedInput34InitializeDerivedAndReturnNewSizesERKNS_14NameValuePairsERjS4_S4_"
+		},
+		{
+			"name": "CryptoPP::FilterWithBufferedInput::InitializeDerived(CryptoPP::NameValuePairs const&)",
+			"name_mangled": "_ZN8CryptoPP23FilterWithBufferedInput17InitializeDerivedERKNS_14NameValuePairsE"
+		},
+		{
+			"name": "CryptoPP::SimpleProxyFilter::FirstPut(unsigned char const*)",
+			"name_mangled": "_ZN8CryptoPP17SimpleProxyFilter8FirstPutEPKh"
+		},
+		{
+			"name": "CryptoPP::FilterWithBufferedInput::NextPutSingle(unsigned char const*)",
+			"name_mangled": "_ZN8CryptoPP23FilterWithBufferedInput13NextPutSingleEPKh"
+		},
+		{
+			"name": "CryptoPP::ProxyFilter::NextPutMultiple(unsigned char const*, unsigned int)",
+			"name_mangled": "_ZN8CryptoPP11ProxyFilter15NextPutMultipleEPKhj"
+		},
+		{
+			"name": "CryptoPP::ProxyFilter::NextPutModifiable(unsigned char*, unsigned int)",
+			"name_mangled": "_ZN8CryptoPP11ProxyFilter17NextPutModifiableEPhj"
+		},
+		{
+			"name": "CryptoPP::SimpleProxyFilter::LastPut(unsigned char const*, unsigned int)",
+			"name_mangled": "_ZN8CryptoPP17SimpleProxyFilter7LastPutEPKhj"
+		},
+		{
+			"name": "CryptoPP::FilterWithBufferedInput::FlushDerived()",
+			"name_mangled": "_ZN8CryptoPP23FilterWithBufferedInput12FlushDerivedEv"
+		},
+		{
+			"name": "CryptoPP::FilterWithBufferedInput::NextPut(unsigned char const*, unsigned int)",
+			"name_mangled": "_ZN8CryptoPP23FilterWithBufferedInput7NextPutEPKhj"
 		}
 	]
 }

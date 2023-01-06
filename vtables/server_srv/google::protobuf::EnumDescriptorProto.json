@@ -3,80 +3,12 @@
 	"classname_mangled": "_ZTVN6google8protobuf19EnumDescriptorProtoE",
 	"members": [
 		{
-			"name": "google::protobuf::EnumDescriptorProto::~EnumDescriptorProto()",
-			"name_mangled": "_ZN6google8protobuf19EnumDescriptorProtoD0Ev"
+			"name": "CryptoPP::BufferedTransformation::Detach(CryptoPP::BufferedTransformation*)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation6DetachEPS0_"
 		},
 		{
-			"name": "google::protobuf::Message::GetTypeName() const",
-			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
-		},
-		{
-			"name": "google::protobuf::EnumDescriptorProto::New() const",
-			"name_mangled": "_ZNK6google8protobuf19EnumDescriptorProto3NewEv"
-		},
-		{
-			"name": "google::protobuf::EnumDescriptorProto::Clear()",
-			"name_mangled": "_ZN6google8protobuf19EnumDescriptorProto5ClearEv"
-		},
-		{
-			"name": "google::protobuf::EnumDescriptorProto::IsInitialized() const",
-			"name_mangled": "_ZNK6google8protobuf19EnumDescriptorProto13IsInitializedEv"
-		},
-		{
-			"name": "google::protobuf::Message::InitializationErrorString() const",
-			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
-		},
-		{
-			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
-			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
-		},
-		{
-			"name": "google::protobuf::EnumDescriptorProto::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
-			"name_mangled": "_ZN6google8protobuf19EnumDescriptorProto27MergePartialFromCodedStreamEPNS0_2io16CodedInputStreamE"
-		},
-		{
-			"name": "google::protobuf::EnumDescriptorProto::ByteSize() const",
-			"name_mangled": "_ZNK6google8protobuf19EnumDescriptorProto8ByteSizeEv"
-		},
-		{
-			"name": "google::protobuf::EnumDescriptorProto::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
-			"name_mangled": "_ZNK6google8protobuf19EnumDescriptorProto24SerializeWithCachedSizesEPNS0_2io17CodedOutputStreamE"
-		},
-		{
-			"name": "google::protobuf::EnumDescriptorProto::SerializeWithCachedSizesToArray(unsigned char*) const",
-			"name_mangled": "_ZNK6google8protobuf19EnumDescriptorProto31SerializeWithCachedSizesToArrayEPh"
-		},
-		{
-			"name": "google::protobuf::EnumDescriptorProto::GetCachedSize() const",
-			"name_mangled": "_ZNK6google8protobuf19EnumDescriptorProto13GetCachedSizeEv"
-		},
-		{
-			"name": "google::protobuf::EnumDescriptorProto::CopyFrom(google::protobuf::Message const&)",
-			"name_mangled": "_ZN6google8protobuf19EnumDescriptorProto8CopyFromERKNS0_7MessageE"
-		},
-		{
-			"name": "google::protobuf::EnumDescriptorProto::MergeFrom(google::protobuf::Message const&)",
-			"name_mangled": "_ZN6google8protobuf19EnumDescriptorProto9MergeFromERKNS0_7MessageE"
-		},
-		{
-			"name": "google::protobuf::Message::DiscardUnknownFields()",
-			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
-		},
-		{
-			"name": "google::protobuf::Message::SpaceUsed() const",
-			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
-		},
-		{
-			"name": "google::protobuf::EnumDescriptorProto::SetCachedSize(int) const",
-			"name_mangled": "_ZNK6google8protobuf19EnumDescriptorProto13SetCachedSizeEi"
-		},
-		{
-			"name": "google::protobuf::Message::GetReflection() const",
-			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
-		},
-		{
-			"name": "google::protobuf::EnumDescriptorProto::GetMetadata() const",
-			"name_mangled": "_ZNK6google8protobuf19EnumDescriptorProto11GetMetadataEv"
+			"name": "CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation6AttachEPS0_"
 		}
 	]
 }

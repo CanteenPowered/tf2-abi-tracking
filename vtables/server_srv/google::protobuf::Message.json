@@ -1,14 +1,5 @@
 {
 	"classname": "google::protobuf::Message",
 	"classname_mangled": "_ZTVN6google8protobuf7MessageE",
-	"members": [
-		{
-			"name": "google::protobuf::Message::~Message()",
-			"name_mangled": "_ZN6google8protobuf7MessageD0Ev"
-		},
-		{
-			"name": "google::protobuf::Message::GetTypeName() const",
-			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
-		}
-	]
+	"members": []
 }

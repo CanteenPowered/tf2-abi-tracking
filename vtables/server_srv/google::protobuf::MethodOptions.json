@@ -3,80 +3,12 @@
 	"classname_mangled": "_ZTVN6google8protobuf13MethodOptionsE",
 	"members": [
 		{
-			"name": "google::protobuf::MethodOptions::~MethodOptions()",
-			"name_mangled": "_ZN6google8protobuf13MethodOptionsD0Ev"
+			"name": "CryptoPP::BufferedTransformation::GetWaitObjects(CryptoPP::WaitObjectContainer&, CryptoPP::CallStack const&)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation14GetWaitObjectsERNS_19WaitObjectContainerERKNS_9CallStackE"
 		},
 		{
-			"name": "google::protobuf::Message::GetTypeName() const",
-			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
-		},
-		{
-			"name": "google::protobuf::MethodOptions::New() const",
-			"name_mangled": "_ZNK6google8protobuf13MethodOptions3NewEv"
-		},
-		{
-			"name": "google::protobuf::MethodOptions::Clear()",
-			"name_mangled": "_ZN6google8protobuf13MethodOptions5ClearEv"
-		},
-		{
-			"name": "google::protobuf::MethodOptions::IsInitialized() const",
-			"name_mangled": "_ZNK6google8protobuf13MethodOptions13IsInitializedEv"
-		},
-		{
-			"name": "google::protobuf::Message::InitializationErrorString() const",
-			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
-		},
-		{
-			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
-			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
-		},
-		{
-			"name": "google::protobuf::MethodOptions::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
-			"name_mangled": "_ZN6google8protobuf13MethodOptions27MergePartialFromCodedStreamEPNS0_2io16CodedInputStreamE"
-		},
-		{
-			"name": "google::protobuf::MethodOptions::ByteSize() const",
-			"name_mangled": "_ZNK6google8protobuf13MethodOptions8ByteSizeEv"
-		},
-		{
-			"name": "google::protobuf::MethodOptions::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
-			"name_mangled": "_ZNK6google8protobuf13MethodOptions24SerializeWithCachedSizesEPNS0_2io17CodedOutputStreamE"
-		},
-		{
-			"name": "google::protobuf::MethodOptions::SerializeWithCachedSizesToArray(unsigned char*) const",
-			"name_mangled": "_ZNK6google8protobuf13MethodOptions31SerializeWithCachedSizesToArrayEPh"
-		},
-		{
-			"name": "google::protobuf::MethodOptions::GetCachedSize() const",
-			"name_mangled": "_ZNK6google8protobuf13MethodOptions13GetCachedSizeEv"
-		},
-		{
-			"name": "google::protobuf::MethodOptions::CopyFrom(google::protobuf::Message const&)",
-			"name_mangled": "_ZN6google8protobuf13MethodOptions8CopyFromERKNS0_7MessageE"
-		},
-		{
-			"name": "google::protobuf::MethodOptions::MergeFrom(google::protobuf::Message const&)",
-			"name_mangled": "_ZN6google8protobuf13MethodOptions9MergeFromERKNS0_7MessageE"
-		},
-		{
-			"name": "google::protobuf::Message::DiscardUnknownFields()",
-			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
-		},
-		{
-			"name": "google::protobuf::Message::SpaceUsed() const",
-			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
-		},
-		{
-			"name": "google::protobuf::MethodOptions::SetCachedSize(int) const",
-			"name_mangled": "_ZNK6google8protobuf13MethodOptions13SetCachedSizeEi"
-		},
-		{
-			"name": "google::protobuf::Message::GetReflection() const",
-			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
-		},
-		{
-			"name": "google::protobuf::MethodOptions::GetMetadata() const",
-			"name_mangled": "_ZNK6google8protobuf13MethodOptions11GetMetadataEv"
+			"name": "CryptoPP::BufferedTransformation::IsolatedInitialize(CryptoPP::NameValuePairs const&)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation18IsolatedInitializeERKNS_14NameValuePairsE"
 		}
 	]
 }

@@ -3,12 +3,8 @@
 	"classname_mangled": "_ZTVN6google8protobuf8internal16FunctionClosure1IPSt4pairIPKNS0_20FileDescriptorTablesEPKNS0_14SourceCodeInfoEEEE",
 	"members": [
 		{
-			"name": "google::protobuf::internal::FunctionClosure1<std::pair<google::protobuf::FileDescriptorTables const*, google::protobuf::SourceCodeInfo const*>*>::~FunctionClosure1()",
-			"name_mangled": "_ZN6google8protobuf8internal16FunctionClosure1IPSt4pairIPKNS0_20FileDescriptorTablesEPKNS0_14SourceCodeInfoEEED0Ev"
-		},
-		{
-			"name": "google::protobuf::internal::FunctionClosure1<std::pair<google::protobuf::FileDescriptorTables const*, google::protobuf::SourceCodeInfo const*>*>::Run()",
-			"name_mangled": "_ZN6google8protobuf8internal16FunctionClosure1IPSt4pairIPKNS0_20FileDescriptorTablesEPKNS0_14SourceCodeInfoEEE3RunEv"
+			"name": "google::protobuf::io::LimitingInputStream::ByteCount() const",
+			"name_mangled": "_ZNK6google8protobuf2io19LimitingInputStream9ByteCountEv"
 		}
 	]
 }

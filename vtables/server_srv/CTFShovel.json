@@ -1539,6 +1539,10 @@
 			"name_mangled": "_ZN13CTFWeaponBase27GetNextSecondaryAttackDelayEv"
 		},
 		{
+			"name": "CTFWeaponBase::UsesCenterFireProjectile() const",
+			"name_mangled": "_ZNK13CTFWeaponBase24UsesCenterFireProjectileEv"
+		},
+		{
 			"name": "CTFShovel::GetWeaponID() const",
 			"name_mangled": "_ZNK9CTFShovel11GetWeaponIDEv"
 		},

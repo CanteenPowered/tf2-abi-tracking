@@ -3,8 +3,12 @@
 	"classname_mangled": "_ZTVN6google8protobuf2io19CopyingOutputStreamE",
 	"members": [
 		{
-			"name": "google::protobuf::io::CopyingOutputStream::~CopyingOutputStream()",
-			"name_mangled": "_ZN6google8protobuf2io19CopyingOutputStreamD0Ev"
+			"name": "google::protobuf::io::ZeroCopyOutputStream::WriteAliasedRaw(void const*, int)",
+			"name_mangled": "_ZN6google8protobuf2io20ZeroCopyOutputStream15WriteAliasedRawEPKvi"
+		},
+		{
+			"name": "google::protobuf::io::ZeroCopyOutputStream::AllowsAliasing() const",
+			"name_mangled": "_ZNK6google8protobuf2io20ZeroCopyOutputStream14AllowsAliasingEv"
 		}
 	]
 }

@@ -1,22 +1,5 @@
 {
 	"classname": "google::protobuf::internal::CodedOutputStreamFieldSkipper",
 	"classname_mangled": "_ZTVN6google8protobuf8internal29CodedOutputStreamFieldSkipperE",
-	"members": [
-		{
-			"name": "google::protobuf::internal::CodedOutputStreamFieldSkipper::~CodedOutputStreamFieldSkipper()",
-			"name_mangled": "_ZN6google8protobuf8internal29CodedOutputStreamFieldSkipperD0Ev"
-		},
-		{
-			"name": "google::protobuf::internal::CodedOutputStreamFieldSkipper::SkipField(google::protobuf::io::CodedInputStream*, unsigned int)",
-			"name_mangled": "_ZN6google8protobuf8internal29CodedOutputStreamFieldSkipper9SkipFieldEPNS0_2io16CodedInputStreamEj"
-		},
-		{
-			"name": "google::protobuf::internal::CodedOutputStreamFieldSkipper::SkipMessage(google::protobuf::io::CodedInputStream*)",
-			"name_mangled": "_ZN6google8protobuf8internal29CodedOutputStreamFieldSkipper11SkipMessageEPNS0_2io16CodedInputStreamE"
-		},
-		{
-			"name": "google::protobuf::internal::CodedOutputStreamFieldSkipper::SkipUnknownEnum(int, int)",
-			"name_mangled": "_ZN6google8protobuf8internal29CodedOutputStreamFieldSkipper15SkipUnknownEnumEii"
-		}
-	]
+	"members": []
 }

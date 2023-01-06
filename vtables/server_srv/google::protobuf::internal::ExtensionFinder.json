@@ -3,8 +3,28 @@
 	"classname_mangled": "_ZTVN6google8protobuf8internal15ExtensionFinderE",
 	"members": [
 		{
-			"name": "google::protobuf::internal::ExtensionFinder::~ExtensionFinder()",
-			"name_mangled": "_ZN6google8protobuf8internal15ExtensionFinderD0Ev"
+			"name": "google::protobuf::(anonymous namespace)::FieldValuePrinterUtf8Escaping::PrintString(std::string const&) const",
+			"name_mangled": "_ZNK6google8protobuf12_GLOBAL__N_129FieldValuePrinterUtf8Escaping11PrintStringERKSs"
+		},
+		{
+			"name": "google::protobuf::(anonymous namespace)::FieldValuePrinterUtf8Escaping::PrintBytes(std::string const&) const",
+			"name_mangled": "_ZNK6google8protobuf12_GLOBAL__N_129FieldValuePrinterUtf8Escaping10PrintBytesERKSs"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintEnum(int, std::string const&) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter9PrintEnumEiRKSs"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintFieldName(google::protobuf::Message const&, google::protobuf::Reflection const*, google::protobuf::FieldDescriptor const*) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter14PrintFieldNameERKNS0_7MessageEPKNS0_10ReflectionEPKNS0_15FieldDescriptorE"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintMessageStart(google::protobuf::Message const&, int, int, bool) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter17PrintMessageStartERKNS0_7MessageEiib"
+		},
+		{
+			"name": "google::protobuf::TextFormat::FieldValuePrinter::PrintMessageEnd(google::protobuf::Message const&, int, int, bool) const",
+			"name_mangled": "_ZNK6google8protobuf10TextFormat17FieldValuePrinter15PrintMessageEndERKNS0_7MessageEiib"
 		}
 	]
 }

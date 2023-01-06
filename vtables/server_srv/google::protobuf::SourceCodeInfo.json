@@ -3,80 +3,44 @@
 	"classname_mangled": "_ZTVN6google8protobuf14SourceCodeInfoE",
 	"members": [
 		{
-			"name": "google::protobuf::SourceCodeInfo::~SourceCodeInfo()",
-			"name_mangled": "_ZN6google8protobuf14SourceCodeInfoD0Ev"
+			"name": "CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation19SetRetrievalChannelERKSs"
 		},
 		{
-			"name": "google::protobuf::Message::GetTypeName() const",
-			"name_mangled": "_ZNK6google8protobuf7Message11GetTypeNameEv"
+			"name": "CryptoPP::Filter::Attachable()",
+			"name_mangled": "_ZN8CryptoPP6Filter10AttachableEv"
 		},
 		{
-			"name": "google::protobuf::SourceCodeInfo::New() const",
-			"name_mangled": "_ZNK6google8protobuf14SourceCodeInfo3NewEv"
+			"name": "CryptoPP::Filter::AttachedTransformation()",
+			"name_mangled": "_ZN8CryptoPP6Filter22AttachedTransformationEv"
 		},
 		{
-			"name": "google::protobuf::SourceCodeInfo::Clear()",
-			"name_mangled": "_ZN6google8protobuf14SourceCodeInfo5ClearEv"
+			"name": "CryptoPP::Filter::AttachedTransformation() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter22AttachedTransformationEv"
 		},
 		{
-			"name": "google::protobuf::SourceCodeInfo::IsInitialized() const",
-			"name_mangled": "_ZNK6google8protobuf14SourceCodeInfo13IsInitializedEv"
+			"name": "CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)",
+			"name_mangled": "_ZN8CryptoPP6Filter6DetachEPNS_22BufferedTransformationE"
 		},
 		{
-			"name": "google::protobuf::Message::InitializationErrorString() const",
-			"name_mangled": "_ZNK6google8protobuf7Message25InitializationErrorStringEv"
+			"name": "CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation6AttachEPS0_"
 		},
 		{
-			"name": "google::protobuf::Message::CheckTypeAndMergeFrom(google::protobuf::MessageLite const&)",
-			"name_mangled": "_ZN6google8protobuf7Message21CheckTypeAndMergeFromERKNS0_11MessageLiteE"
+			"name": "CryptoPP::Filter::NewDefaultAttachment() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter20NewDefaultAttachmentEv"
 		},
 		{
-			"name": "google::protobuf::SourceCodeInfo::MergePartialFromCodedStream(google::protobuf::io::CodedInputStream*)",
-			"name_mangled": "_ZN6google8protobuf14SourceCodeInfo27MergePartialFromCodedStreamEPNS0_2io16CodedInputStreamE"
+			"name": "CryptoPP::Filter::ShouldPropagateMessageEnd() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter25ShouldPropagateMessageEndEv"
 		},
 		{
-			"name": "google::protobuf::SourceCodeInfo::ByteSize() const",
-			"name_mangled": "_ZNK6google8protobuf14SourceCodeInfo8ByteSizeEv"
+			"name": "CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter31ShouldPropagateMessageSeriesEndEv"
 		},
 		{
-			"name": "google::protobuf::SourceCodeInfo::SerializeWithCachedSizes(google::protobuf::io::CodedOutputStream*) const",
-			"name_mangled": "_ZNK6google8protobuf14SourceCodeInfo24SerializeWithCachedSizesEPNS0_2io17CodedOutputStreamE"
-		},
-		{
-			"name": "google::protobuf::SourceCodeInfo::SerializeWithCachedSizesToArray(unsigned char*) const",
-			"name_mangled": "_ZNK6google8protobuf14SourceCodeInfo31SerializeWithCachedSizesToArrayEPh"
-		},
-		{
-			"name": "google::protobuf::SourceCodeInfo::GetCachedSize() const",
-			"name_mangled": "_ZNK6google8protobuf14SourceCodeInfo13GetCachedSizeEv"
-		},
-		{
-			"name": "google::protobuf::SourceCodeInfo::CopyFrom(google::protobuf::Message const&)",
-			"name_mangled": "_ZN6google8protobuf14SourceCodeInfo8CopyFromERKNS0_7MessageE"
-		},
-		{
-			"name": "google::protobuf::SourceCodeInfo::MergeFrom(google::protobuf::Message const&)",
-			"name_mangled": "_ZN6google8protobuf14SourceCodeInfo9MergeFromERKNS0_7MessageE"
-		},
-		{
-			"name": "google::protobuf::Message::DiscardUnknownFields()",
-			"name_mangled": "_ZN6google8protobuf7Message20DiscardUnknownFieldsEv"
-		},
-		{
-			"name": "google::protobuf::Message::SpaceUsed() const",
-			"name_mangled": "_ZNK6google8protobuf7Message9SpaceUsedEv"
-		},
-		{
-			"name": "google::protobuf::SourceCodeInfo::SetCachedSize(int) const",
-			"name_mangled": "_ZNK6google8protobuf14SourceCodeInfo13SetCachedSizeEi"
-		},
-		{
-			"name": "google::protobuf::Message::GetReflection() const",
-			"name_mangled": "_ZNK6google8protobuf7Message13GetReflectionEv"
-		},
-		{
-			"name": "google::protobuf::SourceCodeInfo::GetMetadata() const",
-			"name_mangled": "_ZNK6google8protobuf14SourceCodeInfo11GetMetadataEv"
+			"name": "CryptoPP::Unflushable<CryptoPP::Filter>::InputBufferIsEmpty() const",
+			"name_mangled": "_ZNK8CryptoPP11UnflushableINS_6FilterEE18InputBufferIsEmptyEv"
 		}
 	]
 }

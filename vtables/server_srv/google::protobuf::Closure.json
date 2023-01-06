@@ -1,10 +1,5 @@
 {
 	"classname": "google::protobuf::Closure",
 	"classname_mangled": "_ZTVN6google8protobuf7ClosureE",
-	"members": [
-		{
-			"name": "google::protobuf::Closure::~Closure()",
-			"name_mangled": "_ZN6google8protobuf7ClosureD0Ev"
-		}
-	]
+	"members": []
 }

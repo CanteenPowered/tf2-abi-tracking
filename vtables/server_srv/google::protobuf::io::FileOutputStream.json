@@ -3,28 +3,92 @@
 	"classname_mangled": "_ZTVN6google8protobuf2io16FileOutputStreamE",
 	"members": [
 		{
-			"name": "google::protobuf::io::FileOutputStream::~FileOutputStream()",
-			"name_mangled": "_ZN6google8protobuf2io16FileOutputStreamD0Ev"
+			"name": "CryptoPP::BufferedTransformation::SkipMessages(unsigned int)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation12SkipMessagesEj"
 		},
 		{
-			"name": "google::protobuf::io::FileOutputStream::Next(void**, int*)",
-			"name_mangled": "_ZN6google8protobuf2io16FileOutputStream4NextEPPvPi"
+			"name": "CryptoPP::BufferedTransformation::SkipAll()",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation7SkipAllEv"
 		},
 		{
-			"name": "google::protobuf::io::FileOutputStream::BackUp(int)",
-			"name_mangled": "_ZN6google8protobuf2io16FileOutputStream6BackUpEi"
+			"name": "CryptoPP::BufferedTransformation::GetNextMessageSeries()",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation20GetNextMessageSeriesEv"
 		},
 		{
-			"name": "google::protobuf::io::FileOutputStream::ByteCount() const",
-			"name_mangled": "_ZNK6google8protobuf2io16FileOutputStream9ByteCountEv"
+			"name": "CryptoPP::BufferedTransformation::NumberOfMessagesInThisSeries() const",
+			"name_mangled": "_ZNK8CryptoPP22BufferedTransformation28NumberOfMessagesInThisSeriesEv"
 		},
 		{
-			"name": "google::protobuf::io::ZeroCopyOutputStream::WriteAliasedRaw(void const*, int)",
-			"name_mangled": "_ZN6google8protobuf2io20ZeroCopyOutputStream15WriteAliasedRawEPKvi"
+			"name": "CryptoPP::BufferedTransformation::NumberOfMessageSeries() const",
+			"name_mangled": "_ZNK8CryptoPP22BufferedTransformation21NumberOfMessageSeriesEv"
 		},
 		{
-			"name": "google::protobuf::io::ZeroCopyOutputStream::AllowsAliasing() const",
-			"name_mangled": "_ZNK6google8protobuf2io20ZeroCopyOutputStream14AllowsAliasingEv"
+			"name": "CryptoPP::Filter::TransferTo2(CryptoPP::BufferedTransformation&, unsigned long long&, std::string const&, bool)",
+			"name_mangled": "_ZN8CryptoPP6Filter11TransferTo2ERNS_22BufferedTransformationERyRKSsb"
+		},
+		{
+			"name": "CryptoPP::Filter::CopyRangeTo2(CryptoPP::BufferedTransformation&, unsigned long long&, unsigned long long, std::string const&, bool) const",
+			"name_mangled": "_ZNK8CryptoPP6Filter12CopyRangeTo2ERNS_22BufferedTransformationERyyRKSsb"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::ChannelCreatePutSpace(std::string const&, unsigned int&)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation21ChannelCreatePutSpaceERKSsRj"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::ChannelPut2(std::string const&, unsigned char const*, unsigned int, int, bool)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation11ChannelPut2ERKSsPKhjib"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::ChannelPutModifiable2(std::string const&, unsigned char*, unsigned int, int, bool)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation21ChannelPutModifiable2ERKSsPhjib"
+		},
+		{
+			"name": "CryptoPP::Unflushable<CryptoPP::Filter>::ChannelFlush(std::string const&, bool, int, bool)",
+			"name_mangled": "_ZN8CryptoPP11UnflushableINS_6FilterEE12ChannelFlushERKSsbib"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(std::string const&, int, bool)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation23ChannelMessageSeriesEndERKSsib"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::SetRetrievalChannel(std::string const&)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation19SetRetrievalChannelERKSs"
+		},
+		{
+			"name": "CryptoPP::Filter::Attachable()",
+			"name_mangled": "_ZN8CryptoPP6Filter10AttachableEv"
+		},
+		{
+			"name": "CryptoPP::Filter::AttachedTransformation()",
+			"name_mangled": "_ZN8CryptoPP6Filter22AttachedTransformationEv"
+		},
+		{
+			"name": "CryptoPP::Filter::AttachedTransformation() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter22AttachedTransformationEv"
+		},
+		{
+			"name": "CryptoPP::Filter::Detach(CryptoPP::BufferedTransformation*)",
+			"name_mangled": "_ZN8CryptoPP6Filter6DetachEPNS_22BufferedTransformationE"
+		},
+		{
+			"name": "CryptoPP::BufferedTransformation::Attach(CryptoPP::BufferedTransformation*)",
+			"name_mangled": "_ZN8CryptoPP22BufferedTransformation6AttachEPS0_"
+		},
+		{
+			"name": "CryptoPP::Filter::NewDefaultAttachment() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter20NewDefaultAttachmentEv"
+		},
+		{
+			"name": "CryptoPP::Filter::ShouldPropagateMessageEnd() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter25ShouldPropagateMessageEndEv"
+		},
+		{
+			"name": "CryptoPP::Filter::ShouldPropagateMessageSeriesEnd() const",
+			"name_mangled": "_ZNK8CryptoPP6Filter31ShouldPropagateMessageSeriesEndEv"
+		},
+		{
+			"name": "CryptoPP::Unflushable<CryptoPP::Filter>::InputBufferIsEmpty() const",
+			"name_mangled": "_ZNK8CryptoPP11UnflushableINS_6FilterEE18InputBufferIsEmptyEv"
 		}
 	]
 }
